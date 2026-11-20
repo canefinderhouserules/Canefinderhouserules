@@ -22,12 +22,12 @@ CN Medium humanoid (reptilian)
 **Melee** 2 claws +10 (1d6+3 plus 1d6 acid), bite +5 (1d4+1)  
 **Special Attacks** breath weapon (60-foot line, 11d6 acid, DC 19, 1/day), claws (1d4+3 plus 1d6 acid, treated as magic weapons, 7 rounds/day)  
 **Sorcerer Spells Known** (CL 11th; concentration +15)  
-5th (4/day)—*acidic spray* (DC 19), *spell resistance*, *wall of stone* (DC 19)  
-4th (7/day)—*black tentacles*, *fear* (DC 18), *remove curse*, *vitriolic mist*  
-3rd (7/day)—*dispel magic*, *fly*, *haste*, *major image* (DC 17), *wind wall*  
-2nd (7/day)—*acid arrow*, *create pit* (DC 16), *darkvision*, *frigid touch*, *resist energy*, *web* (DC 16)  
-1st (7/day)—*corrosive touch*, *endure elements*, *grease* (DC 15), *mage armor*, *ray of enfeeblement* (DC 15), *shocking grasp*  
-0 (at will)—*acid splash*, *detect magic*, *detect poison*, *open/close*, *read magic*, *resistance*, *spark*, *mending*, *message*  
+5th (4/day)—*[acidic spray](../../magic/spells/acidic-spray.md)* (DC 19), *[spell resistance](../../magic/spells/spell-resistance.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)* (DC 19)  
+4th (7/day)—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[fear](../../magic/spells/fear.md)* (DC 18), *[remove curse](../../magic/spells/remove-curse.md)*, *[vitriolic mist](../../magic/spells/vitriolic-mist.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fly](../../magic/spells/fly.md)*, *[haste](../../magic/spells/haste.md)*, *[major image](../../magic/spells/major-image.md)* (DC 17), *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd (7/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[create pit](../../magic/spells/create-pit.md)* (DC 16), *[darkvision](../../magic/spells/darkvision.md)*, *[frigid touch](../../magic/spells/frigid-touch.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[web](../../magic/spells/web.md)* (DC 16)  
+1st (7/day)—*[corrosive touch](../../magic/spells/corrosive-touch.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[grease](../../magic/spells/grease.md)* (DC 15), *[mage armor](../../magic/spells/mage-armor.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 15), *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[open/close](../../magic/spells/open-close.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[spark](../../magic/spells/spark.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*  
 **Bloodline** draconic (black)
 
 **Tactics**

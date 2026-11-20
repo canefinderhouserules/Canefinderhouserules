@@ -22,8 +22,8 @@ CN Diminutive fey (swarm)
 **Space** 10 ft., **Reach** 0 ft.  
 **Special Attacks** angry glow, concentrated rush, distraction (DC 16)  
 **Spell-Like Abilities** (CL 5th; concentration +5)  
-Constant—*detect evil*, *detect good*  
-1/day—*mass daze* (DC 14)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*  
+1/day—*[mass daze](../../magic/spells/daze-mass.md)* (DC 14)
 
 **Statistics**
 

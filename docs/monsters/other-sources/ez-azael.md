@@ -22,10 +22,10 @@ LG Large outsider (good, lawful, native)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** bleed 1, fiendbane headbutt, smiting absolution  
 **Spell-Like Abilities** (CL 16th; concentration +19)  
-Constant—*true seeing*  
-At will—*detect evil*, *light*, *protection from evil*, *virtue*  
-3/day—*break enchantment*, *dispel chaos* (DC 21), *dispel evil* (DC 21), *find the path*, *holy smite* (DC 17)  
-1/day—*atonement*
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*, *[light](../../magic/spells/light.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*, *[virtue](../../magic/spells/virtue.md)*  
+3/day—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[dispel chaos](../../magic/spells/dispel-chaos.md)* (DC 21), *[dispel evil](../../magic/spells/dispel-evil.md)* (DC 21), *[find the path](../../magic/spells/find-the-path.md)*, *[holy smite](../../magic/spells/holy-smite.md)* (DC 17)  
+1/day—*[atonement](../../magic/spells/atonement.md)*
 
 **Statistics**
 

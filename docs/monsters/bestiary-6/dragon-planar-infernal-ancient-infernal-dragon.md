@@ -28,16 +28,16 @@ damage, Reflex DC 32 half),
 commanding voice, crush, damnation
 flames, oppressive heat, tail sweep  
 **Spell-Like Abilities** (CL 15th; conc. +22)  
-1/day—*fire storm* (DC 25), *infernal aide, meteor swarm* (DC 26)  
+1/day—*[fire storm](../../magic/spells/fire-storm.md)* (DC 25), *infernal aide, meteor swarm* (DC 26)  
 **Oracle Spells Known** (CL 15th; concentration +22)  
-7th (5)—*dictum* (DC 26), *repulsion* (DC 24)  
+7th (5)—*[dictum](../../magic/spells/dictum.md)* (DC 26), *[repulsion](../../magic/spells/repulsion.md)* (DC 24)  
 6th (7)—*antilife shell, dispel magic, harm* (DC 23)  
-5th (7)—*greater command* (DC 24), *scrying* (DC 22), *slay living* (DC 22), *true seeing*  
-4th (7)—*dimensional anchor, dismissal* (DC 21), *order’s wrath* (DC 21), *tongues*  
-3rd (8)—*blindness/deafness* (DC 20), *bestow curse* (DC 20), *invisibility purge, vision of hell* (DC 21)  
-2nd (8)—*cure mod. wounds, darkness, enthrall* (DC 21), *hold person* (DC 19), *silence* (DC 19)  
-1st (8)—*bane* (DC 18), *command* (DC 20), *forbid action* (DC 20), *sanctuary* (DC 18), *shield of faith*  
-0 (at will)—*bleed* (DC 17), *detect magic, detect poison, guidance, light, mending, read magic, resistance, spark* (DC 17)
+5th (7)—*[greater command](../../magic/spells/command-greater.md)* (DC 24), *[scrying](../../magic/spells/scrying.md)* (DC 22), *[slay living](../../magic/spells/slay-living.md)* (DC 22), *[true seeing](../../magic/spells/true-seeing.md)*  
+4th (7)—*dimensional anchor, dismissal* (DC 21), *[order’s wrath](../../magic/spells/orders-wrath.md)* (DC 21), *[tongues](../../magic/spells/tongues.md)*  
+3rd (8)—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 20), *[bestow curse](../../magic/spells/bestow-curse.md)* (DC 20), *invisibility purge, vision of hell* (DC 21)  
+2nd (8)—*cure mod. wounds, darkness, enthrall* (DC 21), *[hold person](../../magic/spells/hold-person.md)* (DC 19), *[silence](../../magic/spells/silence.md)* (DC 19)  
+1st (8)—*[bane](../../magic/spells/bane.md)* (DC 18), *[command](../../magic/spells/command.md)* (DC 20), *[forbid action](../../magic/spells/forbid-action.md)* (DC 20), *[sanctuary](../../magic/spells/sanctuary.md)* (DC 18), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 17), *detect magic, detect poison, guidance, light, mending, read magic, resistance, spark* (DC 17)
 
 **Statistics**
 

@@ -22,10 +22,10 @@ CE Medium monstrous humanoid (cold)
 **Melee** 2 claws +20 (1d6+6 plus 1d4 bleed), bite +20 (1d6+6)  
 **Special Attacks** shaping touch  
 **Spell-Like Abilities** (CL 14th; concentration +18)  
-Constant—*detect good*, *detect magic*, *detect thoughts* (DC 16)  
-At will—*contagion* (DC 17), *cure light wounds*, *diminish plants*, *inflict light wounds* (DC 15), *invisibility* (self only), *minor creation*, *poison* (DC 17)  
-3/day—*bestow curse* (DC 17), *blindness/deafness* (DC 16), empowered *cone of cold* (DC 19), *crushing despair* (DC 17), *silence* (DC 16)  
-1/day—*control weather*
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16)  
+At will—*[contagion* ](../../magic/spells/contagion.md)(DC 17), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[diminish plants](../../magic/spells/diminish-plants.md)*, *[inflict light wounds* ](../../magic/spells/inflict-light-wounds.md)(DC 15), *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[minor creation](../../magic/spells/minor-creation.md)*, *[poison* ](../../magic/spells/poison.md)(DC 17)  
+3/day—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 17), *[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 16), empowered *[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 19), *[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 17), *[silence* ](../../magic/spells/silence.md)(DC 16)  
+1/day—*[control weather](../../magic/spells/control-weather.md)*
 
 **Statistics**
 

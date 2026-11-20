@@ -21,9 +21,9 @@ NE Medium humanoid (boggard)
 **Melee** mwk club +8 (1d6+3), tongue +1 touch (sticky tongue)  
 **Special Attacks** icicle (1d6+1 cold damage, 5/day), terrifying croak (DC 14)  
 **Druid Spells Prepared** (CL 3rd; concentration +5)  
-2nd—*bull’s strength*, *burst of nettles*<sup>D</sup>, *summon swarm*  
-1st—*entangle* (DC 13), *hydraulic push*, *longstrider*, *shillelagh*  
-0 (at will)—*flare* (DC 12), *guidance*, *mending*, *resistance*  
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[burst of nettles](../../magic/spells/burst-of-nettles.md)*<sup>D</sup>, *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st—*[entangle](../../magic/spells/entangle.md)* (DC 13), *[hydraulic push](../../magic/spells/hydraulic-push.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[shillelagh](../../magic/spells/shillelagh.md)*  
+0 (at will)—*[flare](../../magic/spells/flare.md)* (DC 12), *[guidance](../../magic/spells/guidance.md)*, *[mending](../../magic/spells/mending.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** domain spell; **Domain** Swamp
 
 **Statistics**

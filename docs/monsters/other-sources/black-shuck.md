@@ -22,7 +22,7 @@ CN Large magical beast
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** green-eyed gaze  
 **Spell-Like Abilities** (CL 9th; concentration +11)  
-3/day—*blink*, *fog cloud*, *misdirection*
+3/day—*[blink](../../magic/spells/blink.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*, *[misdirection](../../magic/spells/misdirection.md)*
 
 **Statistics**
 

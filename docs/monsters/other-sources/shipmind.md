@@ -24,10 +24,10 @@ CE Huge ooze
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** immerse  
 **Spell-Like Abilities** (CL 13th; concentration +18)  
-Constant—*detect good*, *detect law*, *detect magic*  
-At will—*enthrall* (DC 17), *sending*, *telekinesis* (DC 20)  
-3/day—quickened *touch of idiocy*  
-1/day—*confusion* (DC 19), *crushing despair* (DC 19)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[enthrall](../../magic/spells/enthrall.md)* (DC 17), *[sending](../../magic/spells/sending.md)*, *[telekinesis](../../magic/spells/telekinesis.md)* (DC 20)  
+3/day—quickened *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1/day—*[confusion](../../magic/spells/confusion.md)* (DC 19), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 19)
 
 **Statistics**
 

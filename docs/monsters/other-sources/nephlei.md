@@ -22,9 +22,9 @@ CN Large outsider (air, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** lifeburst  
 **Spell-Like Abilities** (CL 9th; concentration +14)  
-5/day—*alter winds* (DC 16), *fog cloud*, *frigid touch* (DC 17), *gust of wind* (DC 17), *obscuring mist*  
- 3/day—*cloak of winds*, *lightning bolt* (DC 18), *river of wind* (DC 19), *wind wall* (DC 18)  
-1/day—*ball lightning* (DC 19), *control winds* (DC 20), *lightning arc* (DC 20)
+5/day—*[alter winds](../../magic/spells/alter-winds.md)* (DC 16), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[frigid touch](../../magic/spells/frigid-touch.md)* (DC 17), *[gust of wind](../../magic/spells/gust-of-wind.md)* (DC 17), *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+ 3/day—*[cloak of winds](../../magic/spells/cloak-of-winds.md)*, *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 18), *[river of wind](../../magic/spells/river-of-wind.md)* (DC 19), *[wind wall](../../magic/spells/wind-wall.md)* (DC 18)  
+1/day—*[ball lightning](../../magic/spells/ball-lightning.md)* (DC 19), *[control winds](../../magic/spells/control-winds.md)* (DC 20), *[lightning arc](../../magic/spells/lightning-arc.md)* (DC 20)
 
 **Statistics**
 

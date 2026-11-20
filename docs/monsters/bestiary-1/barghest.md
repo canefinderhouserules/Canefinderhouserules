@@ -21,8 +21,8 @@ LE Medium outsider (evil, extraplanar, lawful, shapechanger)
 **Melee** bite +10 (1d6+4), 2 claws +10 (1d4+4)  
 **Special Attacks** feed  
 **Spell-Like Abilities** (CL 6th)  
-At will—*blink*, *levitate*, *misdirection*  
-1/day—*charm monster* (DC 16), *crushing despair* (DC 16), *dimension door*
+At will—*[blink](../../magic/spells/blink.md)*, *[levitate](../../magic/spells/levitate.md)*, *[misdirection](../../magic/spells/misdirection.md)*  
+1/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 16), *[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 16), *[dimension door](../../magic/spells/dimension-door.md)*
 
 **Statistics**
 

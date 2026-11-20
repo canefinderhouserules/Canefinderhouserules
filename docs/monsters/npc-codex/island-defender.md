@@ -25,11 +25,11 @@ LN Medium humanoid (elf)
 **Spell-Like Abilities** (CL 7th; concentration +10)  
 6/day—icicle  
 **Druid Spells Prepared** (CL 7th; concentration +10)  
-4th—*control water*<sup>D</sup>, *ice storm*  
-3rd—*cure moderate wounds*, *daylight*, *sleet storm*, *water breathing*<sup>D</sup>  
-2nd—*animal messenger*, *barkskin*, *bear’s endurance*, *fog cloud*<sup>D</sup>, *resist energy*  
-1st—*cure light wounds*, *endure elements*, *magic fang*, *obscuring mist*<sup>D</sup>, *shillelagh*, *speak with animals*  
-0 (at will)—*light*, *mending*, *purify food and drink*, *read magic*  
+4th—*[control water](../../magic/spells/control-water.md)*<sup>D</sup>, *[ice storm](../../magic/spells/ice-storm.md)*  
+3rd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[daylight](../../magic/spells/daylight.md)*, *[sleet storm](../../magic/spells/sleet-storm.md)*, *[water breathing](../../magic/spells/water-breathing.md)*<sup>D</sup>  
+2nd—*[animal messenger](../../magic/spells/animal-messenger.md)*, *[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*<sup>D</sup>, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[magic fang](../../magic/spells/magic-fang.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*<sup>D</sup>, *[shillelagh](../../magic/spells/shillelagh.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** Domain spell; **Domain** Water
 
 **Tactics**

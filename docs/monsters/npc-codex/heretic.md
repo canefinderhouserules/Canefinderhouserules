@@ -21,14 +21,14 @@ CN Medium humanoid (elf, human)
 **Melee** mwk spear +7 (1d8+3/×3)  
 **Ranged**  mwk spear +5 (1d8+2/×3)  
 **Adept Spells Prepared** (CL 8th; concentration +11)  
-3rd—*lightning bolt* (DC 17)  
-2nd—*bull’s strength*, *scorching ray*, *web* (DC 15)  
-1st—*bless*, *burning hands* (DC 15), *command*, *cure light wounds*  
-0 (at will)—*guidance*, *purify food and drink*, *stabilize*
+3rd—*[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 17)  
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[web* ](../../magic/spells/web.md)(DC 15)  
+1st—*[bless](../../magic/spells/bless.md)*, *[burning hands* ](../../magic/spells/burning-hands.md)(DC 15), *[command](../../magic/spells/command.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*  
+0 (at will)—*[guidance](../../magic/spells/guidance.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Tactics**
 
-**Before Combat** The adept casts *bull’s strength* and drinks his *potion of shield of faith*.  
+**Before Combat** The adept casts *[bull’s strength* ](../../magic/spells/bulls-strength.md)and drinks his *potion of shield of faith*.  
 **During Combat** The adept blasts his enemies with divine fire and lightning.  
 **Base Statistics** Without *bull’s strength* and *shield of faith*, the adept’s statistics are **AC** 10, touch 10, flat-footed 10; **Melee** mwk spear +5 (1d8/×3); **Ranged** mwk spear +5 (1d8/×3); **Str** 11; **CMB** +4; **CMD** 14.
 

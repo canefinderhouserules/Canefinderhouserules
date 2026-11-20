@@ -21,7 +21,7 @@ NE Small plant
 **Ranged**  spore pod +7 touch (spores)  
 **Special Attacks** infestation, spores  
 **Spell-Like Abilities** (CL 8th; concentration +9)  
-1/day—*dominate person* (DC 16)
+1/day—*[dominate person](../../magic/spells/dominate-person.md)* (DC 16)
 
 **Statistics**
 

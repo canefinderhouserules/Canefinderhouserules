@@ -25,16 +25,16 @@ LG Small humanoid (halfling)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with longspear)  
 **Special Attacks** channel positive energy (DC 22, 9d6), smite evil 6/day (+3 attack and AC, +18 damage)  
 **Spell-Like Abilities** (CL 18th; concentration +21)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 15th; concentration +18)  
-4th—*death ward*, *dispel evil*  
-3rd—*greater magic weapon*, *magic circle against evil*, *prayer*  
-2nd—*delay poison* (2), *resist energy* (2)  
-1st—*bless* (2), *bless weapon* (2), *divine favor*
+4th—*[death ward](../../magic/spells/death-ward.md)*, *[dispel evil](../../magic/spells/dispel-evil.md)*  
+3rd—*[greater magic weapon](../../magic/spells/magic-weapon-greater.md)*, *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*, *[prayer](../../magic/spells/prayer.md)*  
+2nd—*[delay poison* ](../../magic/spells/delay-poison.md)(2), *[resist energy* ](../../magic/spells/resist-energy.md)(2)  
+1st—*[bless* ](../../magic/spells/bless.md)(2), *[bless weapon* ](../../magic/spells/bless-weapon.md)(2), *[divine favor](../../magic/spells/divine-favor.md)*
 
 **Tactics**
 
-**Before Combat** The paladin casts *greater magic weapon* on his longspear.  
+**Before Combat** The paladin casts *[greater magic weapon* ](../../magic/spells/magic-weapon-greater.md)on his longspear.  
 **During Combat** The paladin reserves most of his spells and magic items for helping allies against a common foe. He uses Cleave as often as possible against grouped opponents, and Lunge and Stand Still to control the movement of multiple enemies. He uses his divine bond to give his longspear the *defending*, *holy*, *keen*, or *speed* special ability.  
 **Base Statistics** Without *greater magic weapon*, the paladin’s statistics are **Melee** *+1 flaming longspear* +25/+20/+15/+10 (1d6+7/×3 plus 1d6 fire).
 

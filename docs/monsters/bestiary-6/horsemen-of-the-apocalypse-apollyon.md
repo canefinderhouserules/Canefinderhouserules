@@ -35,9 +35,9 @@ disease), gore +46 (4d6+8)
 DC 38), father of plagues  
 **Spell-Like Abilities** (CL 29th; concentration +40)  
 Constant—*detect good, freedom of movement, true seeing, unholy aura* (DC 29)  
-At will—*astral projection, blasphemy*<sup>M</sup> (DC 28), *creeping doom* (DC 28), *desecrate*<sup>M</sup>, *contagion*<sup>M</sup> (DC 24), *greater dispel magic, greater teleport, shapechange, telekinesis*<sup>M</sup> (DC 26), *unhallow, unholy blight*<sup>M</sup> (DC 25)  
-3/day—quickened *epidemic* (DC 27), quickened *plague storm* (DC 27), *soul bind* (DC 30), *summon daemon*  
-1/day—*cursed earth* (DC 30), *time stop*<sup>M</sup>, *wish*<sup>M</sup>  
+At will—*astral projection, blasphemy*<sup>M</sup> (DC 28), *[creeping doom](../../magic/spells/creeping-doom.md)* (DC 28), *[desecrate](../../magic/spells/desecrate.md)*<sup>M</sup>, *[contagion](../../magic/spells/contagion.md)*<sup>M</sup> (DC 24), *greater dispel magic, greater teleport, shapechange, telekinesis*<sup>M</sup> (DC 26), *unhallow, unholy blight*<sup>M</sup> (DC 25)  
+3/day—quickened *[epidemic](../../magic/spells/epidemic.md)* (DC 27), quickened *[plague storm](../../magic/spells/plague-storm.md)* (DC 27), *[soul bind](../../magic/spells/soul-bind.md)* (DC 30), *summon daemon*  
+1/day—*[cursed earth](../../magic/spells/cursed-earth.md)* (DC 30), *[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 <sup>M</sup> Apollyon can use this ability’s mythic version in his realm.
 
 **Statistics**

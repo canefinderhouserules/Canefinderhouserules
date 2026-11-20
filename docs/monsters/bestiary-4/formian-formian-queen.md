@@ -22,9 +22,9 @@ LN Large monstrous humanoid
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** telepathic feedback  
 **Spell-Like Abilities** (CL 17th; concentration +24)  
-At will—*magic jar* (other formians only), *magic missile*  
-1/day—*invisibility*, *feeblemind* (DC 21)  
-3/day—*commune with nature*, empowered *cone of cold* (DC 22), *permanent image*, quickened *magic missile*, *repulsion* (DC 23), *teleport*
+At will—*[magic jar](../../magic/spells/magic-jar.md)* (other formians only), *[magic missile](../../magic/spells/magic-missile.md)*  
+1/day—*[invisibility](../../magic/spells/invisibility.md)*, *[feeblemind](../../magic/spells/feeblemind.md)* (DC 21)  
+3/day—*[commune with nature](../../magic/spells/commune-with-nature.md)*, empowered *[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 22), *[permanent image](../../magic/spells/permanent-image.md)*, quickened *[magic missile](../../magic/spells/magic-missile.md)*, *[repulsion](../../magic/spells/repulsion.md)* (DC 23), *[teleport](../../magic/spells/teleport.md)*
 
 **Statistics**
 

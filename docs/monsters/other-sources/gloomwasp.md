@@ -23,8 +23,8 @@ N Small magical beast
 **Ranged**  2 light rays +13 (1d6/×4 plus blacklight)  
 **Special Attacks** blacklight, light ray  
 **Spell-Like Abilities** (CL 7th; concentration +10)  
-Constant—*see invisibility*  
-1/day—*dancing lights*, *dust of twilight* (DC 15), *light*
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[dust of twilight](../../magic/spells/dust-of-twilight.md)* (DC 15), *[light](../../magic/spells/light.md)*
 
 **Statistics**
 

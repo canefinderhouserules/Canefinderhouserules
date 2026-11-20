@@ -22,10 +22,10 @@ NE Tiny outsider (evil, extraplanar)
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** bleed (1d6), blood drain (1d2 Constitution), detach head, disease  
 **Spell-Like Abilities** (CL 4th; concentration +2)  
-Constant—*deathwatch*  
-At will—*purify food and drink*  
-3/day—*death knell* (DC 10), *lesser animate dead*, *vomit swarm* (see below)  
-1/day—*acid arrow*, *contagion* (DC 11), *stinking cloud* (DC 10)
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*  
+At will—*[purify food and drink](../../magic/spells/purify-food-and-drink.md)*  
+3/day—*[death knell* ](../../magic/spells/death-knell.md)(DC 10), *[lesser animate dead](../../magic/spells/animate-dead-lesser.md)*, *[vomit swarm* ](../../magic/spells/vomit-swarm.md)(see below)  
+1/day—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[contagion* ](../../magic/spells/contagion.md)(DC 11), *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 10)
 
 **Statistics**
 

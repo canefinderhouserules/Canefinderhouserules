@@ -22,8 +22,8 @@ CN Tiny fey
 **Melee** dagger +3 (1d2–2/19–20)  
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 8th; concentration +13)  
-At will—*auditory hallucination* (DC 16), *detect desires* (DC 17), *invisibility, prestidigitation, remove fear, shocking grasp*  
-3/day—*charm person* (DC 16), *deflect blame* (DC 17), *rumormonger* (DC 18), *suggestion* (DC 18)  
+At will—*[auditory hallucination](../../magic/spells/auditory-hallucination.md)* (DC 16), *[detect desires](../../magic/spells/detect-desires.md)* (DC 17), *invisibility, prestidigitation, remove fear, shocking grasp*  
+3/day—*[charm person](../../magic/spells/charm-person.md)* (DC 16), *[deflect blame](../../magic/spells/deflect-blame.md)* (DC 17), *[rumormonger](../../magic/spells/rumormonger.md)* (DC 18), *[suggestion](../../magic/spells/suggestion.md)* (DC 18)  
 1/day—*glibness, heroism, shout* (DC 19)
 
 **Statistics**

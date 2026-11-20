@@ -24,8 +24,8 @@ LE Medium humanoid (goblinoid)
 **Spell-Like Abilities** (CL 2nd; concentration +4)  
 5/day—battle rage (+1), strength surge (+1)  
 **Cleric Spells Prepared** (CL 2nd; concentration +4)  
-1st—*cure light wounds*, *magic weapon*<sup>D</sup>, *sanctuary* (DC 13), *shield of faith*  
-0 (at will)—*guidance*, *light*, *stabilize*, *virtue*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[magic weapon](../../magic/spells/magic-weapon.md)*<sup>D</sup>, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 13), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **D** domain spell; **Domains** Strength, War
 
 **Statistics**

@@ -24,11 +24,11 @@ LE Medium humanoid (human)
 **Spell-Like Abilities** (CL 7th; concentration +10)  
 6/day— bleeding touch (3 rounds), touch of darkness (3 rounds)  
 **Cleric Spells Prepared** (CL 7th; concentration +10)  
-4th—*poison* (DC 18), *shadow conjuration*<sup>D</sup>(DC 17)  
-3rd—*bestow curse* (DC 17), *contagion* (DC 17), *deeper darkness*<sup>D</sup>, *dispel magic*  
-2nd—*blindness/deafness*<sup>D</sup>(blindness only, DC 16), *darkness*, *desecrate*, *eagle’s splendor*, *silence* (DC 15)  
-1st—*cause fear*<sup>D</sup>(2, DC 15), *deathwatch*, *doom* (DC 15), *magic weapon*, *shield of faith*  
-0 (at will)—*bleed* (DC 14), *detect magic*, *light*, *resistance*  
+4th—*[poison* ](../../magic/spells/poison.md)(DC 18), *[shadow conjuration](../../magic/spells/shadow-conjuration.md)*<sup>D</sup>(DC 17)  
+3rd—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 17), *[contagion* ](../../magic/spells/contagion.md)(DC 17), *[deeper darkness](../../magic/spells/deeper-darkness.md)*<sup>D</sup>, *[dispel magic](../../magic/spells/dispel-magic.md)*  
+2nd—*[blindness/deafness](../../magic/spells/blindness-deafness.md)*<sup>D</sup>(blindness only, DC 16), *[darkness](../../magic/spells/darkness.md)*, *[desecrate](../../magic/spells/desecrate.md)*, *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[silence* ](../../magic/spells/silence.md)(DC 15)  
+1st—*[cause fear](../../magic/spells/cause-fear.md)*<sup>D</sup>(2, DC 15), *[deathwatch](../../magic/spells/deathwatch.md)*, *[doom* ](../../magic/spells/doom.md)(DC 15), *[magic weapon](../../magic/spells/magic-weapon.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** Domain spell; **Domains** Darkness, Death
 
 **Tactics**

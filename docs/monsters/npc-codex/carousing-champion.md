@@ -24,10 +24,10 @@ CN Small humanoid (halfling)
 **Spell-Like Abilities** (CL 6th; concentration +9)  
 6/day—dazing touch, touch of chaos  
 **Cleric Spells Prepared** (CL 6th; concentration +9)  
-3rd—*locate object*, *searing light*, *suggestion*<sup>D</sup>, *summon monster III*  
-2nd—*aid*, *calm emotions*<sup>D</sup>(DC 15), *eagle’s splendor*, *sound burst* (DC 15), *zone of truth* (DC 15)  
-1st—*bless water*, *charm person*<sup>D</sup>(DC 14), *comprehend languages*, *detect undead*, *hide from undead*  
-0 (at will)—*detect magic*, *detect poison*, *guidance*, *virtue*  
+3rd—*[locate object](../../magic/spells/locate-object.md)*, *[searing light](../../magic/spells/searing-light.md)*, *[suggestion](../../magic/spells/suggestion.md)*<sup>D</sup>, *[summon monster III](../../magic/spells/summon-monster-iii.md)*  
+2nd—*[aid](../../magic/spells/aid.md)*, *[calm emotions](../../magic/spells/calm-emotions.md)*<sup>D</sup>(DC 15), *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[sound burst* ](../../magic/spells/sound-burst.md)(DC 15), *[zone of truth* ](../../magic/spells/zone-of-truth.md)(DC 15)  
+1st—*[bless water](../../magic/spells/bless-water.md)*, *[charm person](../../magic/spells/charm-person.md)*<sup>D</sup>(DC 14), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[detect undead](../../magic/spells/detect-undead.md)*, *[hide from undead](../../magic/spells/hide-from-undead.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **D** Domain spell; **Domains** Chaos, Charm
 
 **Tactics**

@@ -22,7 +22,7 @@ LE Large dragon (earth)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (80-ft. line, DC 18, 6d8 electricity), desert thirst (DC 16)  
 **Spell-Like Abilities** (CL 10th)  
-At will—*ghost sound* (DC 11)
+At will—*[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 11)
 
 **Statistics**
 

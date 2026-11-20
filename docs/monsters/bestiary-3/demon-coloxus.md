@@ -21,10 +21,10 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Melee** bite +25 (1d6+4 plus siphon), 2 slams +25 (1d4+4)  
 **Special Attacks** droning wings, siphon, sneak attack +4d6  
 **Spell-Like Abilities** (CL 12th; concentration +18)  
-Constant—*tongues*  
-At will—*contagion* (DC 20), *invisibility*, *suggestion* (DC 19)  
-3/day—*confusion* (DC 20), *haste*, quickened *invisibility*, *mind fog* (DC 21)  
-1/day—*giant vermin*, *shadow evocation* (DC 21)
+Constant—*[tongues](../../magic/spells/tongues.md)*  
+At will—*[contagion* ](../../magic/spells/contagion.md)(DC 20), *[invisibility](../../magic/spells/invisibility.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 19)  
+3/day—*[confusion* ](../../magic/spells/confusion.md)(DC 20), *[haste](../../magic/spells/haste.md)*, quickened *[invisibility](../../magic/spells/invisibility.md)*, *[mind fog* ](../../magic/spells/mind-fog.md)(DC 21)  
+1/day—*[giant vermin](../../magic/spells/giant-vermin.md)*, *[shadow evocation* ](../../magic/spells/shadow-evocation.md)(DC 21)
 
 **Statistics**
 

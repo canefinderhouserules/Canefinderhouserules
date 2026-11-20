@@ -22,9 +22,9 @@ LN Large fey
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** energy drain (2 levels, DC 30), shift fate, snip thread  
 **Spell-Like Abilities** (CL 18th; concentration +28)  
-Constant—*death ward*, *foresight*, *greater arcane sight*, *mind blank*, *tongues*, *true seeing*  
-At will—*bestow curse* (DC 23), *divination*, *greater dispel magic*, *geas/quest*, *vision*, *wind walk* (self only)  
-1/day—*maze*, *moment of prescience*, quickened *phantasmal killer* (DC 24), *power word kill*, *time stop*, *weird* (DC 29)
+Constant—*[death ward](../../magic/spells/death-ward.md)*, *[foresight](../../magic/spells/foresight.md)*, *[greater arcane sight](../../magic/spells/arcane-sight-greater.md)*, *[mind blank](../../magic/spells/mind-blank.md)*, *[tongues](../../magic/spells/tongues.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 23), *[divination](../../magic/spells/divination.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[geas/quest](../../magic/spells/geas-quest.md)*, *[vision](../../magic/spells/vision.md)*, *[wind walk* ](../../magic/spells/wind-walk.md)(self only)  
+1/day—*[maze](../../magic/spells/maze.md)*, *[moment of prescience](../../magic/spells/moment-of-prescience.md)*, quickened *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 24), *[power word kill](../../magic/spells/power-word-kill.md)*, *[time stop](../../magic/spells/time-stop.md)*, *[weird* ](../../magic/spells/weird.md)(DC 29)
 
 **Statistics**
 

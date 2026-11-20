@@ -23,12 +23,12 @@ N Medium humanoid (elf, human)
 **Ranged**  dagger +14/+9 (1d4–1/19–20)  
 **Special Attacks** bardic performance 23 rounds/day (countersong, distraction, epic tales, fascination, inspire action [move], inspire courage +2, inspire competence +2, whispering campaign)  
 **Sorcerer Spells Known** (CL 10th; concentration +17)  
-5th (4/day)—*break enchantment*, *persistent image* (DC 24)  
-4th (6/day)—*dimension door*, *hallucinatory terrain*, *phantasmal killer* (DC 23)  
-3rd (8/day)—*dispel magic*, *heroism*, *invisibility sphere*, *major image* (DC 22)  
-2nd (8/day)—*invisibility*, *mirror image*, *protection from arrows*, *scorching ray*, *web* (DC 19)  
-1st (8/day)—*animate rope*, *color spray* (DC 20), *disguise self*, *floating disk*, *identify*, *shield*  
-0 (at will)—*dancing lights*, *detect magic*, *flare* (DC 17), *light*, *ghost sound* (DC 19), *mage hand*, *message*, *open/close*, *prestidigitation*  
+5th (4/day)—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[persistent image* ](../../magic/spells/persistent-image.md)(DC 24)  
+4th (6/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)*, *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 23)  
+3rd (8/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[heroism](../../magic/spells/heroism.md)*, *[invisibility sphere](../../magic/spells/invisibility-sphere.md)*, *[major image* ](../../magic/spells/major-image.md)(DC 22)  
+2nd (8/day)—*[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[protection from arrows](../../magic/spells/protection-from-arrows.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[web* ](../../magic/spells/web.md)(DC 19)  
+1st (8/day)—*[animate rope](../../magic/spells/animate-rope.md)*, *[color spray* ](../../magic/spells/color-spray.md)(DC 20), *[disguise self](../../magic/spells/disguise-self.md)*, *[floating disk](../../magic/spells/floating-disk.md)*, *[identify](../../magic/spells/identify.md)*, *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 17), *[light](../../magic/spells/light.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 19), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*  
 **Bloodline** arcane
 
 **Tactics**

@@ -24,10 +24,10 @@ N Medium humanoid
 **Spell-Like Abilities** (CL 5th; concentration +8)  
 6/day—calming touch (1d6+5 nonlethal), gentle rest  
 **Cleric Spells Prepared** (CL 5th; concentration +8)  
-3rd—*bestow curse* (DC 16), *helping hand*, *speak with dead*<sup>D</sup>  
-2nd—*augury*, *gentle repose*<sup>D</sup>, *silence* (DC 15), *spiritual weapon*  
-1st—*bless*, *command* (DC 14), *comprehend languages*, *deathwatch*<sup>D</sup>, *sanctuary* (DC 14)  
-0 (at will)—*detect magic*, *guidance*, *light*, *read magic*  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 16), *[helping hand](../../magic/spells/helping-hand.md)*, *[speak with dead](../../magic/spells/speak-with-dead.md)*<sup>D</sup>  
+2nd—*[augury](../../magic/spells/augury.md)*, *[gentle repose](../../magic/spells/gentle-repose.md)*<sup>D</sup>, *[silence](../../magic/spells/silence.md)* (DC 15), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[bless](../../magic/spells/bless.md)*, *[command](../../magic/spells/command.md)* (DC 14), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[deathwatch](../../magic/spells/deathwatch.md)*<sup>D</sup>, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 14)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** domain spell; **Domains** Community, Repose
 
 **Statistics**

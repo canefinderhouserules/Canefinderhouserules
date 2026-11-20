@@ -22,15 +22,15 @@ N Medium humanoid (human)
 **Melee** *staff of fire* +6/+1 (1d6–1)  
 **Special Attacks** artificer’s touch, hand of the apprentice (10/day), metamagic mastery (2/day)  
 **Wizard Spells Prepared** (CL 15th; concentration +22)  
-8th—*mind blank*  
-7th—*greater scrying* (DC 24), *limited wish*, *spell turning*  
-6th—widened *black tentacles*, *disintegrate* (DC 23), *greater dispel magic*, *repulsion* (DC 23)  
-5th—*dismissal* (DC 22), *feeblemind* (DC 22), *overland flight*, *teleport*, *wall of stone*  
-4th—extended *black tentacles*, *confusion* (DC 21), *dimension door*, *greater invisibility*, *phantasmal killer* (DC 21)  
-3rd—*clairaudience/clairvoyance*, *dispel magic*, *halt undead* (DC 20), *slow* (DC 20), extended *stinking cloud*, *suggestion* (DC 20)  
-2nd—*detect thoughts* (DC 19), extended *glitterdust*, *protection from arrows*, *resist energy*, *scorching ray*, *whispering wind*  
-1st—*charm person* (DC 18), *comprehend languages*, *disguise self*, extended *mage armor*, *magic missile*, *protection from evil*  
-0 (at will)—*detect magic*, *light*, *message*, *prestidigitation*
+8th—*[mind blank](../../magic/spells/mind-blank.md)*  
+7th—*[greater scrying](../../magic/spells/scrying-greater.md)* (DC 24), *[limited wish](../../magic/spells/limited-wish.md)*, *[spell turning](../../magic/spells/spell-turning.md)*  
+6th—widened *[black tentacles](../../magic/spells/black-tentacles.md)*, *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 23), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[repulsion* ](../../magic/spells/repulsion.md)(DC 23)  
+5th—*[dismissal* ](../../magic/spells/dismissal.md)(DC 22), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 22), *[overland flight](../../magic/spells/overland-flight.md)*, *[teleport](../../magic/spells/teleport.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+4th—extended *[black tentacles](../../magic/spells/black-tentacles.md)*, *[confusion* ](../../magic/spells/confusion.md)(DC 21), *[dimension door](../../magic/spells/dimension-door.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 21)  
+3rd—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[halt undead* ](../../magic/spells/halt-undead.md)(DC 20), *[slow* ](../../magic/spells/slow.md)(DC 20), extended *[stinking cloud](../../magic/spells/stinking-cloud.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 20)  
+2nd—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 19), extended *[glitterdust](../../magic/spells/glitterdust.md)*, *[protection from arrows](../../magic/spells/protection-from-arrows.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*  
+1st—*[charm person* ](../../magic/spells/charm-person.md)(DC 18), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, extended *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

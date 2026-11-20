@@ -23,9 +23,9 @@ N Huge plant
 **Space** 15 ft., **Reach** 10 ft. (20 ft. with vines)  
 **Special Attacks** bleed (2d6), blood drain (1d4 Constitution), puppet ruler  
 **Spell-Like Abilities** (CL 20th; concentration +24)  
-Constant—*thoughtsense*  
+Constant—*[thoughtsense](../../magic/spells/thoughtsense.md)*  
 **Psychic Magic** (CL 16th; concentration +20)  
-30 PE—*dominate person* (5 PE, DC 19), *greater command* (5 PE, DC 19), *paranoia* (2 PE, DC 16)
+30 PE—*[dominate person](../../magic/spells/dominate-person.md)* (5 PE, DC 19), *[greater command](../../magic/spells/command-greater.md)* (5 PE, DC 19), *[paranoia](../../magic/spells/paranoia.md)* (2 PE, DC 16)
 
 **Statistics**
 

@@ -23,11 +23,11 @@ N Small humanoid (halfling)
 **Ranged**  *+1 heavy crossbow* +13 (1d8+1/19–20)  
 **Special Attacks** impromptu sneak attack 1/day, sneak attack +4d6  
 **Sorcerer Spells Known** (CL 9th; concentration +12; arcane spell failure 10%)  
-4th (4/day)—*arcane eye*, *dimension door*  
-3rd (7/day)—*dispel magic*, *flame arrow*, *gaseous form*  
-2nd (7/day)—*false life*, *invisibility*, *knock*, *locate object*, *spider climb*  
-1st (7/day)—*detect secret doors*, *erase*, *feather fall*, *floating disk*, *identify*, *unseen servant*  
-0 (at will)—*acid splash*, *detect magic*, *detect poison*, *light*, *mage hand*, *open/close*, *prestidigitation*, *ray of frost*  
+4th (4/day)—*[arcane eye](../../magic/spells/arcane-eye.md)*, *[dimension door](../../magic/spells/dimension-door.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[flame arrow](../../magic/spells/flame-arrow.md)*, *[gaseous form](../../magic/spells/gaseous-form.md)*  
+2nd (7/day)—*[false life](../../magic/spells/false-life.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[knock](../../magic/spells/knock.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[spider climb](../../magic/spells/spider-climb.md)*  
+1st (7/day)—*[detect secret doors](../../magic/spells/detect-secret-doors.md)*, *[erase](../../magic/spells/erase.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[floating disk](../../magic/spells/floating-disk.md)*, *[identify](../../magic/spells/identify.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*  
 **Bloodline** arcane
 
 **Tactics**

@@ -23,14 +23,14 @@ N Medium humanoid (human)
 **Ranged**  sling +9 (1d4+2)  
 **Special Attacks** wild shape 3/day  
 **Spell-Like Abilities** (CL 9th)  
-1/day—*lesser planar ally* (janni only)  
+1/day—*[lesser planar ally* ](../../magic/spells/planar-ally-lesser.md)(janni only)  
 **Druid Spells Prepared** (CL 9th; concentration +12)  
-5th—*control winds* (DC 19), *transmute rock to mud*<sup>D</sup> (create loose sand instead of mud, DC 19)  
-4th—*giant vermin*, *hallucinatory terrain*<sup>D</sup> (DC 17), *vermin shape II*  
-3rd—*burrow*, *cup of dust* (DC 17), *greater magic fang*, *neutralize poison*, *spit venom* (DC 17)  
-2nd—*barkskin*, *elemental speech*, *pernicious poison*, *resist energy*, *shifting sand* (DC 16), *summon swarm*  
-1st—*alter winds* (DC 15), *cloak of shade*, *faerie fire*, *feather step*, *longstrider*, *speak with animals*  
-0 (at will)—*create water*, *detect poison*, *light*, *virtue*  
+5th—*[control winds* ](../../magic/spells/control-winds.md)(DC 19), *[transmute rock to mud](../../magic/spells/transmute-rock-to-mud.md)*<sup>D</sup> (create loose sand instead of mud, DC 19)  
+4th—*[giant vermin](../../magic/spells/giant-vermin.md)*, *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)*<sup>D</sup> (DC 17), *[vermin shape II](../../magic/spells/vermin-shape-ii.md)*  
+3rd—*[burrow](../../magic/spells/burrow.md)*, *[cup of dust](../../magic/spells/cup-of-dust.md)* (DC 17), *[greater magic fang](../../magic/spells/magic-fang-greater.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[spit venom](../../magic/spells/spit-venom.md)* (DC 17)  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[elemental speech](../../magic/spells/elemental-speech.md)*, *[pernicious poison](../../magic/spells/pernicious-poison.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[shifting sand](../../magic/spells/shifting-sand.md)* (DC 16), *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st—*[alter winds](../../magic/spells/alter-winds.md)* (DC 15), *[cloak of shade](../../magic/spells/cloak-of-shade.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*, *[feather step](../../magic/spells/feather-step.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[light](../../magic/spells/light.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **D** Domain spell; **Domains** Desert
 
 **Statistics**

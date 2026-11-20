@@ -24,16 +24,16 @@ CE Medium humanoid (elf, human)
 **Spell-Like Abilities** (CL 19th; concentration +27)  
 11/day—dazing touch  
 **Enchanter Spells Prepared** (CL 19th; concentration +27)  
-9th—*dominate monster* (DC 29), *power word kill*, *summon monster IX*, *weird* (DC 27)  
-8th—*horrid wilting* (DC 26), *incendiary cloud* (DC 26), *irresistible dance*, *mind blank*, *polymorph any object* (DC 26)  
-7th—extended *acid fog*, quickened *hold person* (2, DC 23), *mass hold person* (DC 27), *project image* (DC 25), *spell turning*  
-6th—*disintegrate* (DC 24), *greater dispel magic*, *greater heroism*, *mass suggestion* (DC 26), quickened *mirror image*, *repulsion* (DC 24)  
-5th—*cloudkill* (DC 23), *dominate person* (DC 25), *feeblemind* (DC 25), *hold monster* (DC 25), *mind fog* (DC 25), *teleport*  
-4th—*bestow curse* (DC 22), *charm monster* (2, DC 24), *crushing despair* (DC 24), *enervation*, *greater invisibility*, *phantasmal killer* (DC 22)  
-3rd—*displacement*, *fly*, *hold person* (DC 23), *magic circle against good*, *protection from energy* (2), *slow* (DC 21)  
-2nd—*acid arrow* (2), *ghoul touch* (DC 20), *misdirection*, *resist energy*, *touch of idiocy*, *web* (DC 20)  
-1st—*charm person* (DC 21), *expeditious retreat*, *feather fall*, *mage armor*, *obscuring mist*, *ray of enfeeblement* (DC 19), *reduce person* (DC 19)  
-0 (at will)—*bleed* (DC 18), *daze* (DC 20), *mage hand*, *mending*  
+9th—*[dominate monster* ](../../magic/spells/dominate-monster.md)(DC 29), *[power word kill](../../magic/spells/power-word-kill.md)*, *[summon monster IX](../../magic/spells/summon-monster-ix.md)*, *[weird* ](../../magic/spells/weird.md)(DC 27)  
+8th—*[horrid wilting* ](../../magic/spells/horrid-wilting.md)(DC 26), *[incendiary cloud* ](../../magic/spells/incendiary-cloud.md)(DC 26), *[irresistible dance](../../magic/spells/irresistible-dance.md)*, *[mind blank](../../magic/spells/mind-blank.md)*, *[polymorph any object* ](../../magic/spells/polymorph-any-object.md)(DC 26)  
+7th—extended *[acid fog](../../magic/spells/acid-fog.md)*, quickened *[hold person* ](../../magic/spells/hold-person.md)(2, DC 23), *[mass hold person* ](../../magic/spells/hold-person-mass.md)(DC 27), *[project image* ](../../magic/spells/project-image.md)(DC 25), *[spell turning](../../magic/spells/spell-turning.md)*  
+6th—*[disintegrate* ](../../magic/spells/disintegrate.md)(DC 24), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater heroism](../../magic/spells/heroism-greater.md)*, *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 26), quickened *[mirror image](../../magic/spells/mirror-image.md)*, *[repulsion* ](../../magic/spells/repulsion.md)(DC 24)  
+5th—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 23), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 25), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 25), *[hold monster* ](../../magic/spells/hold-monster.md)(DC 25), *[mind fog* ](../../magic/spells/mind-fog.md)(DC 25), *[teleport](../../magic/spells/teleport.md)*  
+4th—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 22), *[charm monster* ](../../magic/spells/charm-monster.md)(2, DC 24), *[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 24), *[enervation](../../magic/spells/enervation.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 22)  
+3rd—*[displacement](../../magic/spells/displacement.md)*, *[fly](../../magic/spells/fly.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 23), *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(2), *[slow* ](../../magic/spells/slow.md)(DC 21)  
+2nd—*[acid arrow* ](../../magic/spells/acid-arrow.md)(2), *[ghoul touch* ](../../magic/spells/ghoul-touch.md)(DC 20), *[misdirection](../../magic/spells/misdirection.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*, *[web* ](../../magic/spells/web.md)(DC 20)  
+1st—*[charm person* ](../../magic/spells/charm-person.md)(DC 21), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 19), *[reduce person* ](../../magic/spells/reduce-person.md)(DC 19)  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 18), *[daze* ](../../magic/spells/daze.md)(DC 20), *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*  
 **Opposition Schools** divination, evocation
 
 **Tactics**

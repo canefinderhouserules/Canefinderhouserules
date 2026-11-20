@@ -21,9 +21,9 @@ CE Huge magical beast (aquatic)
 **Space** 15 ft., **Reach** 15 ft. (45 ft. with tongue)  
 **Special Attacks** crush (DC 21, 2d8+13, see page 92), pull (tongue, 5 ft.), swallow whole (2d6+13 bludgeoning damage, AC 17, 13 hp), vile croak  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-Constant—*pass without trace*, *speak with animals*  
-At will—*charm animal* (DC 14), *create water*, *sound burst* (DC 15)  
-3/day—*control water*, *fog cloud*, *gust of wind* (DC 15), *plant growth*, *quench* (DC 16), *soften earth and stone* (DC 15)
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[charm animal* ](../../magic/spells/charm-animal.md)(DC 14), *[create water](../../magic/spells/create-water.md)*, *[sound burst* ](../../magic/spells/sound-burst.md)(DC 15)  
+3/day—*[control water](../../magic/spells/control-water.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*, *[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 15), *[plant growth](../../magic/spells/plant-growth.md)*, *[quench* ](../../magic/spells/quench.md)(DC 16), *[soften earth and stone* ](../../magic/spells/soften-earth-and-stone.md)(DC 15)
 
 **Statistics**
 

@@ -21,9 +21,9 @@ LE Huge outsider (devil, evil, extraplanar, lawful)
 **Melee** bite +28 (2d6+12), 2 claws +28 (1d8+12 plus infernal wounds), 2 hooves +26 (1d8+6), tail +26 (2d6+6)  
 **Space** 15 ft., **Reach** 15 ft. (20 ft. with tail)  
 **Spell-Like Abilities** (CL 16th; concentration +23)  
-At will — *gaseous form*, *greater invisibility* (DC 21), *greater teleport* (self plus 50 lbs. of objects only), *scorching ray*, *whispering wind*  
-3/day — *blasphemy* (DC 24), *dispel magic*, *ethereal jaunt*, *harm* (DC 23), *heal* (DC 23), *hold monster* (DC 22), *wall of stone*  
-1/day — *scrying* (DC 22), *summon* (level 7, horned devil, 60%), *unhallow*
+At will — *[gaseous form](../../magic/spells/gaseous-form.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)* (DC 21), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[scorching ray](../../magic/spells/scorching-ray.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*  
+3/day — *[blasphemy](../../magic/spells/blasphemy.md)* (DC 24), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[harm](../../magic/spells/harm.md)* (DC 23), *[heal](../../magic/spells/heal.md)* (DC 23), *[hold monster](../../magic/spells/hold-monster.md)* (DC 22), *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+1/day — *[scrying](../../magic/spells/scrying.md)* (DC 22), *summon* (level 7, horned devil, 60%), *[unhallow](../../magic/spells/unhallow.md)*
 
 **Statistics**
 

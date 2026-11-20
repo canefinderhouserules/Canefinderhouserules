@@ -22,9 +22,9 @@ N Large outsider (aeon, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** confusion gaze, temporal strike  
 **Spell-Like Abilities** (CL 18th; concentration +23)  
-At will—*augury*, *greater teleport*, *slow* (DC 18)  
-3/day—*dimensional anchor*, *haste*, *plane shift* (DC 20)  
-1/day—*dimensional lock*, *moment of prescience*, *temporal stasis* (DC 23)
+At will—*[augury](../../magic/spells/augury.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[slow](../../magic/spells/slow.md)* (DC 18)  
+3/day—*[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[haste](../../magic/spells/haste.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (DC 20)  
+1/day—*[dimensional lock](../../magic/spells/dimensional-lock.md)*, *[moment of prescience](../../magic/spells/moment-of-prescience.md)*, *[temporal stasis](../../magic/spells/temporal-stasis.md)* (DC 23)
 
 **Statistics**
 

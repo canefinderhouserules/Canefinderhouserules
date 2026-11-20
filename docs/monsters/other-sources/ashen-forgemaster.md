@@ -24,9 +24,9 @@ CE Large undead (extraplanar, fire)
 **Space** 10 ft., **Reach** 10 ft. (20 ft. with tail)  
 **Special Attacks** constrict (3d6+15 plus 2d6 fire), heat (2d6 fire), lava trail  
 **Spell-Like Abilities** (CL 20th; concentration +30)  
-At will—*fire shield*, *mending*, *produce flame*  
-3/day—quickened *detonate* (DC 24), *greater dispel magic*, *make whole*  
-1/day—*blade barrier* (DC 26), *flame strike* (DC 25), *wall of iron*
+At will—*[fire shield](../../magic/spells/fire-shield.md)*, *[mending](../../magic/spells/mending.md)*, *[produce flame](../../magic/spells/produce-flame.md)*  
+3/day—quickened *[detonate](../../magic/spells/detonate.md)* (DC 24), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[make whole](../../magic/spells/make-whole.md)*  
+1/day—*[blade barrier](../../magic/spells/blade-barrier.md)* (DC 26), *[flame strike](../../magic/spells/flame-strike.md)* (DC 25), *[wall of iron](../../magic/spells/wall-of-iron.md)*
 
 **Statistics**
 

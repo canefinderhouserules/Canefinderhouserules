@@ -24,8 +24,8 @@ LN Medium outsider (augmented humanoid, human)
 flurry of blows +9/+9 (1d8+5)  
 **Special Attacks** flurry of blows, stunning fist (5/day, DC 15)  
 **Psychic Magic** (CL 5th; concentration +5)  
-8 PE—*burst of adrenaline* (1 PE), *burst of insight* (1 PE),
-*ego whip I* (3 PE, DC 13), *levitate* (2 PE), *paranoia*
+8 PE—*[burst of adrenaline](../../magic/spells/burst-of-adrenaline.md)* (1 PE), *[burst of insight](../../magic/spells/burst-of-insight.md)* (1 PE),
+*[ego whip I](../../magic/spells/ego-whip-i.md)* (3 PE, DC 13), *[levitate](../../magic/spells/levitate.md)* (2 PE), *[paranoia](../../magic/spells/paranoia.md)*
 (2 PE, DC 12)
 
 **Statistics**

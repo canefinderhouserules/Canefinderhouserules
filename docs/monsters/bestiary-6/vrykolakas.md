@@ -24,7 +24,7 @@ NE Medium undead (shapechanger)
 **Special Attacks** create spawn, energy drain (1 level, DC 22),
 rend (2 claws, 1d6+12)  
 **Spell-Like Abilities** (CL 10th; concentration +16)  
-3/day—*charm animal* (DC 17), *fear* (DC 20), *vampiric touch*
+3/day—*[charm animal](../../magic/spells/charm-animal.md)* (DC 17), *[fear](../../magic/spells/fear.md)* (DC 20), *[vampiric touch](../../magic/spells/vampiric-touch.md)*
 
 **Statistics**
 

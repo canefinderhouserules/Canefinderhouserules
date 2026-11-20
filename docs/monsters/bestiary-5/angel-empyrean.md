@@ -23,21 +23,21 @@ NG Large outsider (angel, extraplanar, good)
 **Ranged**  +1 *holy merciful composite longbow* +33/+28/+23/+18 (2d6+11/×3)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*detect evil*, *detect snares and pits*, *discern lies* (DC 21), *true seeing*  
-At will—*aid*, *atonement*, *break enchantment*, *commune*, *continual flame*, *dimensional anchor*, *greater dispel magic*, *lesser restoration*, *mark of justice*, *neutralize poison*, *remove curse*, *remove disease*, *remove fear*, *resist energy*, *speak with dead*  
-3/day—*blade barrier* (DC 23), *dispel evil* (DC 22), *heal* (DC 23), *mass charm monster* (DC 25), *permanency*, *resurrection*, *sympathy* (DC 25)  
-1/day—*greater restoration*, *power word stun*, *wish*  
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[detect snares and pits](../../magic/spells/detect-snares-and-pits.md)*, *[discern lies](../../magic/spells/discern-lies.md)* (DC 21), *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[atonement](../../magic/spells/atonement.md)*, *[break enchantment](../../magic/spells/break-enchantment.md)*, *[commune](../../magic/spells/commune.md)*, *[continual flame](../../magic/spells/continual-flame.md)*, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[mark of justice](../../magic/spells/mark-of-justice.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[remove curse](../../magic/spells/remove-curse.md)*, *[remove disease](../../magic/spells/remove-disease.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[speak with dead](../../magic/spells/speak-with-dead.md)*  
+3/day—*[blade barrier](../../magic/spells/blade-barrier.md)* (DC 23), *[dispel evil](../../magic/spells/dispel-evil.md)* (DC 22), *[heal* ](../../magic/spells/heal.md)(DC 23), *[mass charm monster](../../magic/spells/charm-monster-mass.md)* (DC 25), *[permanency](../../magic/spells/permanency.md)*, *[resurrection](../../magic/spells/resurrection.md)*, *[sympathy* ](../../magic/spells/sympathy.md)(DC 25)  
+1/day—*[greater restoration](../../magic/spells/restoration-greater.md)*, *[power word stun](../../magic/spells/power-word-stun.md)*, *[wish](../../magic/spells/wish.md)*  
 **Cleric Spells Prepared** (CL 20th; concentration +30)  
-9th—*gate*, *mass heal* (DC 29), *miracle*, *overwhelming presence*(DC 29), quickened *righteous might*  
-8th—*antimagic field*, *discern location*, quickened *divine power*, *greater spell immunity*, *holy aura* (DC 28)  
-7th—*control weather*, *holy word* (DC 27), *greater scrying* (DC 27), *repulsion* (DC 27), *waves of ecstasy* (DC 27)  
-6th—*heal* (DC 26), *heroes’ feast*, *joyful rapture*, quickened *silence* (DC 22), *wind walk*, *word of recall*  
-5th—*breath of life*, quickened *divine favor*, *fickle winds*, *greater command* (DC 25), *plane shift* (DC 25), *serenity* (DC 25)  
-4th—*death ward*, *dismissal* (DC 24), *divine power*, *freedom of movement*, *greater magic weapon* (2)  
-3rd—*daylight*, *invisibility purge*, *locate object*, *prayer*, *stone shape*, *wind wall*  
-2nd—*consecrate*, *find traps*, *grace* (2), *make whole*, *remove paralysis*, *silence* (DC 22)  
-1st—*bless*, *divine favor*, *endure elements*, *obscuring mist* (2), *remove sickness*, *shield of faith*  
-0—*create water*, *detect magic*, *guidance*, *purify food and drink*
+9th—*[gate](../../magic/spells/gate.md)*, *[mass heal](../../magic/spells/heal-mass.md)* (DC 29), *[miracle](../../magic/spells/miracle.md)*, *[overwhelming presence](../../magic/spells/overwhelming-presence.md)*(DC 29), quickened *[righteous might](../../magic/spells/righteous-might.md)*  
+8th—*[antimagic field](../../magic/spells/antimagic-field.md)*, *[discern location](../../magic/spells/discern-location.md)*, quickened *[divine power](../../magic/spells/divine-power.md)*, *[greater spell immunity](../../magic/spells/spell-immunity-greater.md)*, *[holy aura](../../magic/spells/holy-aura.md)* (DC 28)  
+7th—*[control weather](../../magic/spells/control-weather.md)*, *[holy word](../../magic/spells/holy-word.md)* (DC 27), *[greater scrying](../../magic/spells/scrying-greater.md)* (DC 27), *[repulsion* ](../../magic/spells/repulsion.md)(DC 27), *[waves of ecstasy](../../magic/spells/waves-of-ecstasy.md)* (DC 27)  
+6th—*[heal](../../magic/spells/heal.md)* (DC 26), *[heroes’ feast](../../magic/spells/heroes-feast.md)*, *[joyful rapture](../../magic/spells/joyful-rapture.md)*, quickened *[silence* ](../../magic/spells/silence.md)(DC 22), *[wind walk](../../magic/spells/wind-walk.md)*, *[word of recall](../../magic/spells/word-of-recall.md)*  
+5th—*[breath of life](../../magic/spells/breath-of-life.md)*, quickened *[divine favor](../../magic/spells/divine-favor.md)*, *[fickle winds](../../magic/spells/fickle-winds.md)*, *[greater command](../../magic/spells/command-greater.md)* (DC 25), *[plane shift](../../magic/spells/plane-shift.md)* (DC 25), *[serenity* ](../../magic/spells/serenity.md)(DC 25)  
+4th—*[death ward](../../magic/spells/death-ward.md)*, *[dismissal* ](../../magic/spells/dismissal.md)(DC 24), *[divine power](../../magic/spells/divine-power.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)* (2)  
+3rd—*[daylight](../../magic/spells/daylight.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[prayer](../../magic/spells/prayer.md)*, *[stone shape](../../magic/spells/stone-shape.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd—*[consecrate](../../magic/spells/consecrate.md)*, *[find traps](../../magic/spells/find-traps.md)*, *[grace* ](../../magic/spells/grace.md)(2), *[make whole](../../magic/spells/make-whole.md)*, *[remove paralysis](../../magic/spells/remove-paralysis.md)*, *[silence* ](../../magic/spells/silence.md)(DC 22)  
+1st—*[bless](../../magic/spells/bless.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)* (2), *[remove sickness](../../magic/spells/remove-sickness.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*
 
 **Statistics**
 

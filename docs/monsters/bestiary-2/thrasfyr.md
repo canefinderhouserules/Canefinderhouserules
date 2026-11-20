@@ -23,8 +23,8 @@ CE Huge magical beast (fire)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** breath weapon (80-foot cone, 20d8 fire damage, Reflex DC 29 half, usable once every 1d4 rounds), entangling chains, powerful charge (gore, 4d8+24)  
 **Spell-Like Abilities** (CL 18th; concentration +23)  
-Constant—*air walk*, *see invisibility*  
-1/day—*greater teleport* (self plus 50 lbs. of objects only, and only to a master’s side)
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1/day—*[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only, and only to a master’s side)
 
 **Statistics**
 

@@ -28,9 +28,9 @@ plus inherit soul), bite +21 (2d8+4)
 **Special Attacks** cloak of souls  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
 Constant—*deathwatch, true seeing, unholy aura* (DC 25)  
-At will—*cloudkill* (DC 22), *greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*quickened cloudkill* (DC 22), *destruction* (DC 24), *fire storm* (DC 25), *incendiary cloud* (DC 25), *spell turning*  
-1/day—*mass hold person* (DC 24), *meteor swarm* (DC 26), *summon* (level 9, 1 purrodaemon 50%)
+At will—*[cloudkill](../../magic/spells/cloudkill.md)* (DC 22), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
+3/day—*[quickened cloudkill](../../magic/spells/cloudkill.md)* (DC 22), *[destruction](../../magic/spells/destruction.md)* (DC 24), *[fire storm](../../magic/spells/fire-storm.md)* (DC 25), *[incendiary cloud](../../magic/spells/incendiary-cloud.md)* (DC 25), *[spell turning](../../magic/spells/spell-turning.md)*  
+1/day—*[mass hold person](../../magic/spells/hold-person-mass.md)* (DC 24), *[meteor swarm](../../magic/spells/meteor-swarm.md)* (DC 26), *summon* (level 9, 1 purrodaemon 50%)
 
 **Statistics**
 

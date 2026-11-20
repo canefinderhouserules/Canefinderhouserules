@@ -29,9 +29,9 @@ traits; **Resist** acid 30, cold 30, electricity 30, fire 30; **SR** 34
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** severance  
 **Spell-Like Abilities** (CL 23rd; concentration +35)  
-Constant—*true seeing*  
-At will—*align weapon* (chaos only), *animate dead, cause fear* (DC 23), *chaos hammer* (DC 26), *death knell, death ward, dispel law, magic circle against law, protection from law, slay living* (DC 27)  
-3/day—*animate objects, cloak of chaos* (DC 30), *create greater undead, create undead, destruction* (DC 29), *word of chaos* (DC 29)  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[align weapon](../../magic/spells/align-weapon.md)* (chaos only), *animate dead, cause fear* (DC 23), *[chaos hammer](../../magic/spells/chaos-hammer.md)* (DC 26), *death knell, death ward, dispel law, magic circle against law, protection from law, slay living* (DC 27)  
+3/day—*animate objects, cloak of chaos* (DC 30), *create greater undead, create undead, destruction* (DC 29), *[word of chaos](../../magic/spells/word-of-chaos.md)* (DC 29)  
 1/day—*summon monster*
 
 **Statistics**

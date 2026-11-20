@@ -22,9 +22,9 @@ CN Tiny fey
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** poison  
 **Spell-Like Abilities** (CL 6th; concentration +7)  
-At will—*detect magic*, *invisibility* (self only)  
-3/day—*minor image* (DC 13), *sleep* (DC 12)  
-1/day—*suggestion* (DC 13)
+At will—*[detect magic](../../magic/spells/detect-magic.md)*, *[invisibility](../../magic/spells/invisibility.md)* (self only)  
+3/day—*[minor image](../../magic/spells/minor-image.md)* (DC 13), *[sleep](../../magic/spells/sleep.md)* (DC 12)  
+1/day—*[suggestion](../../magic/spells/suggestion.md)* (DC 13)
 
 **Statistics**
 

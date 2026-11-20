@@ -22,7 +22,7 @@ N Colossal outsider (extraplanar)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** fast swallow, gulping tide, swallow whole (4d6+18 damage, AC 25, 31 hp)  
 **Spell-Like Abilities** (CL 20th; concentration +22)  
-3/day—*dimension door*
+3/day—*[dimension door](../../magic/spells/dimension-door.md)*
 
 **Statistics**
 

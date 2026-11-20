@@ -29,10 +29,10 @@ longsword* +53/+48/+43/+38 (2d6+24/17–20 plus 1d6 cold) or
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** biting blackflies, hellfrost, suffocating swarm  
 **Spell-Like Abilities** (CL 30th; concentration +42)  
-Constant—*detect chaos, detect good, mind blank, shield of law* (DC 30), *true seeing*  
-At will—*astral projection, curse of disgust* (DC 27), *desecrate*<sup>M</sup>, *dictum*<sup>M</sup> (DC 29), *greater dispel magic, greater invisibility, greater teleport, icy prison* (DC 27), *insect plague, order’s wrath*<sup>M</sup> (DC 26), *unhallow*  
-3/day—*demand* (DC 30), *finger of death*<sup>M</sup> (DC 29), *quickened freezing sphere, empowered cone of cold*<sup>M</sup>, *summon devils*  
-1/day—*mass suffocation* (DC 31), *time stop*<sup>M</sup>, *wish*<sup>M</sup>  
+Constant—*detect chaos, detect good, mind blank, shield of law* (DC 30), *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*astral projection, curse of disgust* (DC 27), *[desecrate](../../magic/spells/desecrate.md)*<sup>M</sup>, *[dictum](../../magic/spells/dictum.md)*<sup>M</sup> (DC 29), *greater dispel magic, greater invisibility, greater teleport, icy prison* (DC 27), *insect plague, order’s wrath*<sup>M</sup> (DC 26), *[unhallow](../../magic/spells/unhallow.md)*  
+3/day—*[demand](../../magic/spells/demand.md)* (DC 30), *[finger of death](../../magic/spells/finger-of-death.md)*<sup>M</sup> (DC 29), *quickened freezing sphere, empowered cone of cold*<sup>M</sup>, *summon devils*  
+1/day—*[mass suffocation](../../magic/spells/suffocation-mass.md)* (DC 31), *[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 <sup>M</sup> Baalzebul can use this ability’s mythic version in his infernal realm.
 
 **Statistics**

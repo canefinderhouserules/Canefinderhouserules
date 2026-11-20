@@ -21,9 +21,9 @@ N Medium outsider (aeon, extraplanar)
 **Melee** 4 slams +10 (1d4+4)  
 **Special Attacks** banish darkness, consume light  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-At will—*dancing lights*  
-3/day—*darkness*  
-1/day—*daylight*, *deeper darkness*
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*  
+3/day—*[darkness](../../magic/spells/darkness.md)*  
+1/day—*[daylight](../../magic/spells/daylight.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*
 
 **Statistics**
 

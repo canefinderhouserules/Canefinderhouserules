@@ -23,7 +23,7 @@ NE Tiny plant
 **Space** 2-1/2 ft., **Reach** 0 ft. (5 ft. with tendrils)  
 **Special Attacks** paralysis (1d3 minutes, DC 16), parasitize  
 **Psychic Magic** (CL 9th; concentration +11)  
-12 PE—*crushing despair* (4 PE, DC 16), *feast on fear* (5 PE, DC 17), *miserable pity* (affects host and self; 2 PE, DC 14), *overwhelming grief* (4 PE, DC 16), *terrible remorse* (4 PE, DC 16)
+12 PE—*[crushing despair](../../magic/spells/crushing-despair.md)* (4 PE, DC 16), *[feast on fear](../../magic/spells/feast-on-fear.md)* (5 PE, DC 17), *[miserable pity](../../magic/spells/miserable-pity.md)* (affects host and self; 2 PE, DC 14), *[overwhelming grief](../../magic/spells/overwhelming-grief.md)* (4 PE, DC 16), *[terrible remorse](../../magic/spells/terrible-remorse.md)* (4 PE, DC 16)
 
 **Statistics**
 

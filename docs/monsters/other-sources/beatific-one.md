@@ -20,9 +20,9 @@ Always LE Medium outsider (asura, evil)
 **Melee** temple sword +17/+12/+7 (1d8+6) and spear +17 (1d8+3) and kukri (1d4+3/18-20) or flurry of blows +11/+11/+11/+8 (1d10+6)  
 **Special Attacks** continuous barrage, flurry of blows  
 **Spell-Like Abilities** (CL 6th)  
-At will — *disguise self*, *feather fall*, *see invisibility*, *ventriloquism*  
-3/day — *blindness/deafness* (DC 16), *blur*, *hypnotic pattern* (DC 16), *levitate*, *magic weapon*  
-1/day — *dimension door*, *hold person* (DC 17)
+At will — *[disguise self](../../magic/spells/disguise-self.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[ventriloquism](../../magic/spells/ventriloquism.md)*  
+3/day — *[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 16), *[blur](../../magic/spells/blur.md)*, *[hypnotic pattern](../../magic/spells/hypnotic-pattern.md)* (DC 16), *[levitate](../../magic/spells/levitate.md)*, *[magic weapon](../../magic/spells/magic-weapon.md)*  
+1/day — *[dimension door](../../magic/spells/dimension-door.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 17)
 
 **Statistics**
 

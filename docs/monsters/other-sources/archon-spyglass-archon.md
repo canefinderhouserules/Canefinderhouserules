@@ -23,9 +23,9 @@ LG Medium outsider (archon, extraplanar, good, lawful)
 **Ranged**  shortbow +6 (1d6/×3)  
 **Special Attacks** sneak attack +1d6  
 **Spell-Like Abilities** (CL 4th; concentration +3)  
-Constant—*detect evil*, *magic circle against evil*  
-At will—*aid*, *continual flame*, *greater teleport* (self plus 50 lbs. of objects only), *message*  
-3/day—*darkness*, *entropic shield*, *undetectable alignment*
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[continual flame](../../magic/spells/continual-flame.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[message](../../magic/spells/message.md)*  
+3/day—*[darkness](../../magic/spells/darkness.md)*, *[entropic shield](../../magic/spells/entropic-shield.md)*, *[undetectable alignment](../../magic/spells/undetectable-alignment.md)*
 
 **Statistics**
 

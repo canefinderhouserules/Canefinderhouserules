@@ -21,8 +21,8 @@ NE Small fey
 **Speed** 30 ft.  
 **Melee** 2 claws +6 (1d4)  
 **Spell-Like Abilities** (CL 3rd; concentration +7)  
-At will—*dancing lights*, *darkness*, *detect thoughts* (DC 13), *ghost sound* (DC 12), *lullaby* (DC 12)  
-1/day—*grease*, *minor image* (DC 14), *snare*
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[darkness](../../magic/spells/darkness.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 13), *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 12), *[lullaby](../../magic/spells/lullaby.md)* (DC 12)  
+1/day—*[grease](../../magic/spells/grease.md)*, *[minor image](../../magic/spells/minor-image.md)* (DC 14), *[snare](../../magic/spells/snare.md)*
 
 **Statistics**
 

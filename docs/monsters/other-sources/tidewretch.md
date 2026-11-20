@@ -21,9 +21,9 @@ NE Medium undead
 **Speed** 30 ft., swim 30 ft.  
 **Melee** 2 claws +10 (1d6+3 plus parasites)  
 **Spell-Like Abilities** (CL 9th; concentration +13)  
-At will—*entangle* (DC 16), *tree shape* (dead tree only), *wood shape* (DC 16)  
-3/day—*aqueous orb* (DC 17), *crushing despair* (DC 17), *enervation*  
-1/day—*blight* (DC 18)
+At will—*[entangle](../../magic/spells/entangle.md)* (DC 16), *[tree shape](../../magic/spells/tree-shape.md)* (dead tree only), *[wood shape](../../magic/spells/wood-shape.md)* (DC 16)  
+3/day—*[aqueous orb](../../magic/spells/aqueous-orb.md)* (DC 17), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 17), *[enervation](../../magic/spells/enervation.md)*  
+1/day—*[blight](../../magic/spells/blight.md)* (DC 18)
 
 **Statistics**
 

@@ -22,10 +22,10 @@ N Large outsider (aeon, extraplanar)
 **Ranged**  4 force blasts +29 touch (10d6 force damage/19–20)  
 **Special Attacks** force blast, karmic strike  
 **Spell-Like Abilities** (CL 20th; concentration +26)  
-Constant—*analyze aura*  
-At will—*plane shift* (DC 23), *telekinesis* (DC 21)  
-3/day—*geas/quest*  
-1/day—*reincarnate*
+Constant—*[analyze aura](../../magic/spells/analyze-aura.md)*  
+At will—*[plane shift](../../magic/spells/plane-shift.md)* (DC 23), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 21)  
+3/day—*[geas/quest](../../magic/spells/geas-quest.md)*  
+1/day—*[reincarnate](../../magic/spells/reincarnate.md)*
 
 **Statistics**
 

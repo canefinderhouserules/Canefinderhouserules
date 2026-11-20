@@ -23,15 +23,15 @@ N Huge dragon (extraplanar)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** crush, breath weapon (100-ft. line, DC 28, 20d8 force), grave breath, spectral attacks, spirit eater  
 **Psychic Magic** (CL 21st; concentration +27)  
-17 PE—*chill metal* (2 PE, DC 17), *mage hand* (0 PE), *mind thrust I* (1 PE), *telekinetic maneuver* (3 PE)  
+17 PE—*[chill metal](../../magic/spells/chill-metal.md)* (2 PE, DC 17), *[mage hand](../../magic/spells/mage-hand.md)* (0 PE), *[mind thrust I](../../magic/spells/mind-thrust-i.md)* (1 PE), *[telekinetic maneuver](../../magic/spells/telekinetic-maneuver.md)* (3 PE)  
  **Psychic Spells Known** (CL 13th; concentration +19)  
- 6th (5/day)—*contingency*, *heroism (greater)*  
- 5th (7/day)—*hold monster* (DC 20), *plane shift* (DC 20), *wall of ectoplasm* (DC 20)  
- 4th (7/day)—*arcane eye*, *condensed ether*, *dimension door*, *phantasmal killer* (DC 19)  
- 3rd (7/day)—*aura sight*, *deep slumber* (DC 18), *heroism*, *thought shield II*  
- 2nd (8/day)—*blindness/deafness* (DC 17), *false life*, *pain strike*, *see invisibility*, *silence* (DC 17)  
- 1st (8/day)—*anticipate peril*, *detect thoughts* (DC 16), *shield*, *silent image* (DC 16), *magic missile*  
- 0 (at will)—*bleed* (DC 15), *dancing lights*, *daze* (DC 15), *detect magic*, *detect poison*, *ghost sound* (DC 15), *grave words*, *resistance*, *virtue*
+ 6th (5/day)—*[contingency](../../magic/spells/contingency.md)*, *[heroism (greater)](../../magic/spells/heroism.md)*  
+ 5th (7/day)—*[hold monster](../../magic/spells/hold-monster.md)* (DC 20), *[plane shift](../../magic/spells/plane-shift.md)* (DC 20), *[wall of ectoplasm](../../magic/spells/wall-of-ectoplasm.md)* (DC 20)  
+ 4th (7/day)—*[arcane eye](../../magic/spells/arcane-eye.md)*, *[condensed ether](../../magic/spells/condensed-ether.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 19)  
+ 3rd (7/day)—*[aura sight](../../magic/spells/aura-sight.md)*, *[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 18), *[heroism](../../magic/spells/heroism.md)*, *[thought shield II](../../magic/spells/thought-shield-ii.md)*  
+ 2nd (8/day)—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 17), *[false life](../../magic/spells/false-life.md)*, *[pain strike](../../magic/spells/pain-strike.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[silence* ](../../magic/spells/silence.md)(DC 17)  
+ 1st (8/day)—*[anticipate peril](../../magic/spells/anticipate-peril.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[shield](../../magic/spells/shield.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 16), *[magic missile](../../magic/spells/magic-missile.md)*  
+ 0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 15), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[grave words](../../magic/spells/grave-words.md)*, *[resistance](../../magic/spells/resistance.md)*, *[virtue](../../magic/spells/virtue.md)*
 
 **Statistics**
 

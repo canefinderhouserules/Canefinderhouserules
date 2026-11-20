@@ -23,8 +23,8 @@ CE Huge outsider (chaotic, demon, evil, extraplanar)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** unholy nimbus  
 **Spell-Like Abilities** (CL 12th)  
-Constant—*true seeing*, *unholy aura* (DC 23)  
-At will—*call lightning* (DC 18), *feeblemind* (DC 20), *greater dispel magic*, *slow* (DC 18), *greater teleport* (self plus 50 lbs. of objects only)  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura* ](../../magic/spells/unholy-aura.md)(DC 23)  
+At will—*[call lightning* ](../../magic/spells/call-lightning.md)(DC 18), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 20), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[slow* ](../../magic/spells/slow.md)(DC 18), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)  
 1/day—summon (level 5, 1 nalfeshnee 20%, 1d4 hezrous 40%, or 1d4 vrocks 50%)
 
 **Statistics**

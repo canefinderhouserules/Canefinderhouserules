@@ -22,13 +22,13 @@ LG Large magical beast
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** pounce, rake (2 claws +14; 1d8+6)  
 **Spell-Like Abilities** (CL 9th; concentration +11)  
-3/day—*greater invisibility*  
-1/day—*dimension door*  
+3/day—*[greater invisibility](../../magic/spells/invisibility-greater.md)*  
+1/day—*[dimension door](../../magic/spells/dimension-door.md)*  
 **Spells Known** (CL 7th; concentration +9)  
-3rd (4/day)—*cure serious wounds*, *searing light*  
-2nd (7/day)—*cure moderate wounds*, *lesser restoration*, *resist energy*  
-1st (7/day)—*bless*, *command* (DC 13), *cure light wounds*, *detect evil*, *divine favor*  
-0 (at will)—*detect magic*, *detect poison*, *guidance*, *mending*, *purify food and drink*, *resistance*, *stabilize*
+3rd (4/day)—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[searing light](../../magic/spells/searing-light.md)*  
+2nd (7/day)—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st (7/day)—*[bless](../../magic/spells/bless.md)*, *[command* ](../../magic/spells/command.md)(DC 13), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[divine favor](../../magic/spells/divine-favor.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[mending](../../magic/spells/mending.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[resistance](../../magic/spells/resistance.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

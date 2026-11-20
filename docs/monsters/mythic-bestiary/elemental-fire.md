@@ -24,8 +24,8 @@ N Huge outsider (elemental, extraplanar, fire, mythic)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** blinding blaze, burn (2d10, DC 22), inferno, mythic power (5/day, surge +1d8)  
 **Spell-Like Abilities** (CL 16th; concentration +16)  
-At will—*produce flame*  
-5/day—*flame arrow*, *wall of fire*
+At will—*[produce flame](../../magic/spells/produce-flame.md)*  
+5/day—*[flame arrow](../../magic/spells/flame-arrow.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*
 
 **Statistics**
 

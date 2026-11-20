@@ -21,8 +21,8 @@ NE Medium fey (aquatic)
 **Melee** 2 slams +8 (2d6)  
 **Special Attacks** drowning touch (DC 14),  
 **Spell-Like Abilities** (CL 9th; concentration +14)  
-Constant—*water walk*  
-3/day—*hydraulic torrent*
+Constant—*[water walk](../../magic/spells/water-walk.md)*  
+3/day—*[hydraulic torrent](../../magic/spells/hydraulic-torrent.md)*
 
 **Statistics**
 

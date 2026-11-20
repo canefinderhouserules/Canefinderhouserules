@@ -23,7 +23,7 @@ N Large magical beast
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** powerful charge (gore, 2d8+6)  
 **Spell-Like Abilities** (CL 3rd; concentration +2)  
-1/day—*ant haul* (self only)
+1/day—*[ant haul](../../magic/spells/ant-haul.md)* (self only)
 
 **Statistics**
 

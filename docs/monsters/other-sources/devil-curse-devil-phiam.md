@@ -21,11 +21,11 @@ LE Small outsider (devil, evil, extraplanar, lawful)
 **Melee** 2 claws +6 (1d4–1)  
 **Special Attacks** anathematize  
 **Spell-Like Abilities** (CL 6th; concentration +9)  
-Constant—*detect magic*, *detect thoughts* (DC 15)  
-At will—*daze* (DC 13), *greater teleport* (self plus 50 lbs. of objects only), *mage hand*  
-5/day—*bane* (DC 14), *chill touch* (DC 14), *doom* (DC 14)  
-3/day—*bestow curse* (DC 16), *suggestion* (DC 16), *touch of idiocy* (DC 15)  
-1/day—*blindness/deafness* (DC 15), *confusion* (DC 17), *contagion* (DC 17), summon (level 3, 2 lesser host devils 50%)
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 15)  
+At will—*[daze](../../magic/spells/daze.md)* (DC 13), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[mage hand](../../magic/spells/mage-hand.md)*  
+5/day—*[bane](../../magic/spells/bane.md)* (DC 14), *[chill touch](../../magic/spells/chill-touch.md)* (DC 14), *[doom](../../magic/spells/doom.md)* (DC 14)  
+3/day—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 16), *[suggestion](../../magic/spells/suggestion.md)* (DC 16), *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)* (DC 15)  
+1/day—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 15), *[confusion](../../magic/spells/confusion.md)* (DC 17), *[contagion](../../magic/spells/contagion.md)* (DC 17), summon (level 3, 2 lesser host devils 50%)
 
 **Statistics**
 

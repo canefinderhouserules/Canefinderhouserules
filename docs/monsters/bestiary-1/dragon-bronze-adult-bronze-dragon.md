@@ -23,12 +23,12 @@ LG Huge dragon (water)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (100-ft. line, DC 23, 12d6 electricity), crush, repulsion breath  
 **Spell-Like Abilities** (CL 16th)  
-At will—*create food and water*, *fog cloud*, *speak with animals*  
+At will—*[create food and water](../../magic/spells/create-food-and-water.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Spells Known** (CL 7th)  
-3rd (5/day)—*dispel magic*, *slow* (DC 18)  
-2nd (7/day)—*blur*, *gust of wind*, *mirror image*  
-1st (8/day)—*alarm*, *mage armor*, *obscuring mist*, *shield*, *true strike*  
-0 (at will)—*detect magic*, *light*, *message*, *resistance*, 2 more
+3rd (5/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[slow* ](../../magic/spells/slow.md)(DC 18)  
+2nd (7/day)—*[blur](../../magic/spells/blur.md)*, *[gust of wind](../../magic/spells/gust-of-wind.md)*, *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (8/day)—*[alarm](../../magic/spells/alarm.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[resistance](../../magic/spells/resistance.md)*, 2 more
 
 **Statistics**
 

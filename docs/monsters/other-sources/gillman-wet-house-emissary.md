@@ -24,9 +24,9 @@ N Medium humanoid (aquatic)
 **Ranged**  mwk light crossbow +6 (1d8/19-20)  
 **Special Attacks** studied combat (+3, 3 rounds), studied strike +2d6  
 **Investigator Extracts Prepared** (CL 7th; concentration +10)  
-3rd—*nondetection*, *tongues*  
-2nd—*barkskin*, *eagle’s splendor*, *focused scrutiny*, *investigative mind*  
-1st—*blurred movement*, *cure light wounds*, *disguise self*, *heightened awareness*, *shield*
+3rd—*[nondetection](../../magic/spells/nondetection.md)*, *[tongues](../../magic/spells/tongues.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[focused scrutiny](../../magic/spells/focused-scrutiny.md)*, *[investigative mind](../../magic/spells/investigative-mind.md)*  
+1st—*[blurred movement](../../magic/spells/blurred-movement.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[heightened awareness](../../magic/spells/heightened-awareness.md)*, *[shield](../../magic/spells/shield.md)*
 
 **Statistics**
 

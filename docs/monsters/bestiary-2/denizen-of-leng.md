@@ -21,9 +21,9 @@ CE Medium outsider (chaotic, evil, extraplanar)
 **Melee** bite +14 (1d6+2 plus 1d6 Dexterity drain), 2 claws +14 (1d4+2)  
 **Special Attacks** sneak attack +5d6  
 **Spell-Like Abilities** (CL 10th; concentration +15)  
-Constant—*tongues*  
-3/day—*detect thoughts* (DC 17), *hypnotic pattern* (DC 17), *levitate*, *minor image* (DC 17)  
-1/day—*locate object*, *plane shift* (DC 20, self only)
+Constant—*[tongues](../../magic/spells/tongues.md)*  
+3/day—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[hypnotic pattern](../../magic/spells/hypnotic-pattern.md)* (DC 17), *[levitate](../../magic/spells/levitate.md)*, *[minor image](../../magic/spells/minor-image.md)* (DC 17)  
+1/day—*[locate object](../../magic/spells/locate-object.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (DC 20, self only)
 
 **Statistics**
 

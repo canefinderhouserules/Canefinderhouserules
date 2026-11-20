@@ -24,9 +24,9 @@ NE Large aberration
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** ooze master, poison, spit  
 **Spell-Like Abilities** (CL 7th; concentration +11)  
-3rd (5/day)—*lightning bolt* (DC 17), *stinking cloud* (DC 17)  
+3rd (5/day)—*[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 17), *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 17)  
 2nd (7/day)—*alter self, invisibility, spider climb*  
-1st (7/day)—*charm person* (DC 15), *grease* (DC 15), *hydraulic push, mage armor, magic missile*  
+1st (7/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 15), *[grease](../../magic/spells/grease.md)* (DC 15), *hydraulic push, mage armor, magic missile*  
 0 (at will)—*acid splash, bleed* (DC 14), *dancing lights, ghost sound* (DC 14), *mage hand, open/close, touch of fatigue* (DC 14)
 
 **Statistics**

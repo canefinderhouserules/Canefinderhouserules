@@ -24,8 +24,8 @@ vision, scent; Perception +10
 **Special Attacks** bleed (1d6), pounce, prehensile tail, rake
 (2 claws +16, 1d6+4), whelp magic  
 **Psychic Magic** (CL 12th; concentration +15)  
-0 PE (see whelp magic)—*id insinuation II* (3 PE, DC 16),
-*mind thrust III* (3 PE, DC 16), *thought shield II* (3 PE)
+0 PE (see whelp magic)—*[id insinuation II](../../magic/spells/id-insinuation-ii.md)* (3 PE, DC 16),
+*[mind thrust III](../../magic/spells/mind-thrust-iii.md)* (3 PE, DC 16), *[thought shield II](../../magic/spells/thought-shield-ii.md)* (3 PE)
 
 **Statistics**
 

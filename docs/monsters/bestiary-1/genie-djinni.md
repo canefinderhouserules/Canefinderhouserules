@@ -22,8 +22,8 @@ CG Large outsider (air, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** air mastery, whirlwind (1/10 minutes, 10–50 ft. tall, 1d8+4 damage, DC 17)  
 **Spell-Like Abilities** (CL 9th)  
-At will—*invisibility* (self only), *plane shift* (willing targets to elemental planes, Astral Plane, or Material Plane only)  
-1/day—*create food and water*, *create wine* (as *create water*, but wine instead), *gaseous form* (for up to 1 hour), *major creation* (created vegetable matter is permanent), *persistent image* (DC 17), *wind walk*
+At will—*[invisibility* ](../../magic/spells/invisibility.md)(self only), *[plane shift* ](../../magic/spells/plane-shift.md)(willing targets to elemental planes, Astral Plane, or Material Plane only)  
+1/day—*[create food and water](../../magic/spells/create-food-and-water.md)*, *create wine* (as *[create water](../../magic/spells/create-water.md)*, but wine instead), *[gaseous form* ](../../magic/spells/gaseous-form.md)(for up to 1 hour), *[major creation* ](../../magic/spells/major-creation.md)(created vegetable matter is permanent), *[persistent image* ](../../magic/spells/persistent-image.md)(DC 17), *[wind walk](../../magic/spells/wind-walk.md)*
 
 **Statistics**
 

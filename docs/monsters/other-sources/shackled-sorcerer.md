@@ -23,10 +23,10 @@ CN Medium humanoid (human)
 **Spell-Like Abilities** (CL 6th; concentration +10)  
 7/day—*dehydrating touch**  
 **Sorcerer Spells Known** (CL 6th; concentration +10)  
-3rd (4/day)—*fireball* (DC 19)  
-2nd (6/day)—*gust of wind* (DC 18), *locate object*, *slipstream**  
-1st (7/day)—*alter winds*, *burning hands* (DC 17), *hydraulic push**, *mage armor*, *magic missile*  
-0 (at will)—*arcane mark*, *dancing lights*, *detect magic*, *light*, *message*, *ray of frost*, *read magic*  
+3rd (4/day)—*[fireball* ](../../magic/spells/fireball.md)(DC 19)  
+2nd (6/day)—*[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 18), *[locate object](../../magic/spells/locate-object.md)*, *[slipstream](../../magic/spells/slipstream.md)**  
+1st (7/day)—*[alter winds](../../magic/spells/alter-winds.md)*, *[burning hands* ](../../magic/spells/burning-hands.md)(DC 17), *[hydraulic push](../../magic/spells/hydraulic-push.md)**, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** Aquatic*
 
 **Statistics**

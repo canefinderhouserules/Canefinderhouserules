@@ -22,9 +22,9 @@ LN Medium monstrous humanoid
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with ranseur)  
 **Special Attacks** force bolt  
 **Spell-Like Abilities** (CL 8th; concentration +13)  
-Constant—*detect magic*, *floating disk*, *mage armor*, *resist energy* (one at a time), *unseen servant*  
-3/day—*dispel magic*, *displacement*, *suggestion* (DC 18)  
-1/day—*dimension door*, *resilient sphere* (DC 19)
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[floating disk](../../magic/spells/floating-disk.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[resist energy* ](../../magic/spells/resist-energy.md)(one at a time), *[unseen servant](../../magic/spells/unseen-servant.md)*  
+3/day—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[displacement](../../magic/spells/displacement.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 18)  
+1/day—*[dimension door](../../magic/spells/dimension-door.md)*, *[resilient sphere* ](../../magic/spells/resilient-sphere.md)(DC 19)
 
 **Statistics**
 

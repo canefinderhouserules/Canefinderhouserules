@@ -23,9 +23,9 @@ LE Small humanoid (gnome)
 **Ranged**  dagger +9 (1d3+1/19–20 plus poison)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, poison use, sneak attack +3d6  
 **Spell-Like Abilities** (CL 3rd)  
-At will—*detect poison* (range 5 feet, swift action)  
+At will—*[detect poison* ](../../magic/spells/detect-poison.md)(range 5 feet, swift action)  
  **Gnome Spell-Like Abilities** (CL 8th)  
- 1/day—*dancing lights*, *ghost sound* (DC 11), *prestidigitation*, *speak with animals*
+ 1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 11), *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*
 
 **Statistics**
 

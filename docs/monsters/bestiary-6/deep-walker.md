@@ -23,7 +23,7 @@ LE Gargantuan aberration (aquatic)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** consume prey  
 **Psychic Magic** (CL 14th; concentration +20)  
-14 PE—*mass inflict pain* (6 PE, DC 22), *mind thrust V* (4 PE, DC 20), *oneiric horror* (2 PE, DC 18)
+14 PE—*[mass inflict pain](../../magic/spells/inflict-pain-mass.md)* (6 PE, DC 22), *[mind thrust V](../../magic/spells/mind-thrust-v.md)* (4 PE, DC 20), *[oneiric horror](../../magic/spells/oneiric-horror.md)* (2 PE, DC 18)
 
 **Statistics**
 

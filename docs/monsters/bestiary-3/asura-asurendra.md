@@ -23,10 +23,10 @@ LE Huge outsider (asura, evil, extraplanar, lawful)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** curse of false wisdom, spirit blades (+29, 3d6+7/19–20), swallow whole (4d6+19 bludgeoning plus 4d8+12 acid damage, AC 15, 38 hp)  
 **Spell-Like Abilities** (CL 20th; concentration +30)  
-Constant—*dimensional lock* (enemies only), *freedom of movement*, *tongues*, *true seeing*  
-At will—*death knell* (DC 22), *greater dispel magic*, *greater scrying*, *greater teleport* (self plus 50 lbs. of objects only)  
-3/day—quickened *baleful polymorph* (DC 25), quickened *blade barrier* (DC 26), *blasphemy* (DC 27), quickened *death knell* (DC 22), *deeper darkness*, *demand* (DC 28)  
-1/day—*power word stun*, summon (level 9, any 1 CR 19 or lower asura 100%), *time stop*
+Constant—*[dimensional lock* ](../../magic/spells/dimensional-lock.md)(enemies only), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[tongues](../../magic/spells/tongues.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[death knell* ](../../magic/spells/death-knell.md)(DC 22), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater scrying](../../magic/spells/scrying-greater.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)  
+3/day—quickened *[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 25), quickened *[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 26), *[blasphemy* ](../../magic/spells/blasphemy.md)(DC 27), quickened *[death knell* ](../../magic/spells/death-knell.md)(DC 22), *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[demand* ](../../magic/spells/demand.md)(DC 28)  
+1/day—*[power word stun](../../magic/spells/power-word-stun.md)*, summon (level 9, any 1 CR 19 or lower asura 100%), *[time stop](../../magic/spells/time-stop.md)*
 
 **Statistics**
 

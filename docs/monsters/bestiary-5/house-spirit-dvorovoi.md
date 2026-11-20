@@ -21,10 +21,10 @@ CN Small fey
 **Melee** pitchfork +8 (1d8+6)  
 **Ranged** pitchfork +7 (1d8+6)  
 **Spell-Like Abilities** (CL 6th; concentration +9)  
-Constant—*speak with animals*  
- At will—*charm animal* (DC 14), *hide from animals, invisibility*  
- 3/day—*break* (DC 14), *reduce person* (DC 14)  
- 1/day—*entangle* (DC 14)
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
+ At will—*[charm animal](../../magic/spells/charm-animal.md)* (DC 14), *hide from animals, invisibility*  
+ 3/day—*[break](../../magic/spells/break.md)* (DC 14), *[reduce person](../../magic/spells/reduce-person.md)* (DC 14)  
+ 1/day—*[entangle](../../magic/spells/entangle.md)* (DC 14)
 
 **Statistics**
 

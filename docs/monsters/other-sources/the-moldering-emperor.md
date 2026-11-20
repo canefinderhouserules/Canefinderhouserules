@@ -22,8 +22,8 @@ CE Gargantuan aberration
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** breath weapon, improved grab, swallow whole  
 **Spell-Like Abilities** (CL 15th)  
-At will—*detect thoughts* (DC 17), *charm monster* (DC 19), *clairvoyance/clairaudience*, *levitate*, *suggestion* (DC 18), *telekinesis* (DC 20), *teleport*, *trace teleport*, *poison* (DC 19)  
- 3/day—*mind thrust* (DC 23), *psychic crush*, quickened *suggestion* (DC 18)
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[charm monster](../../magic/spells/charm-monster.md)* (DC 19), *clairvoyance/clairaudience*, *[levitate](../../magic/spells/levitate.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 18), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 20), *[teleport](../../magic/spells/teleport.md)*, *[trace teleport](../../magic/spells/trace-teleport.md)*, *[poison](../../magic/spells/poison.md)* (DC 19)  
+ 3/day—*mind thrust* (DC 23), *psychic crush*, quickened *[suggestion](../../magic/spells/suggestion.md)* (DC 18)
 
 **Statistics**
 

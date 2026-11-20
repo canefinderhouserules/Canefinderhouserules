@@ -23,10 +23,10 @@ CN Large magical beast (aquatic, chaotic, extraplanar, Great Old One)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** constrict (4d6+22), critical poisoning, mythic power (10/day, surge +1d12), poison, powerful blows (bite, claws, sting, tentacle beard), vengeful dreams  
 **Spell-Like Abilities** (CL 27th; concentration +35)  
-Constant—*air walk*  
-At will—*cloudkill*<sup>M</sup> (DC 23), *dimension door*<sup>M</sup>, *dream*<sup>M</sup>, *greater dispel magic*, *hallucinatory terrain*, *nightmare*<sup>M</sup> (DC 23), *plane shift*<sup>M</sup>, *transmute rock to mud*, *wind walk*  
-3/day—*demand*, quickened *feeblemind* (DC 23), *horrid wilting* (DC 26)  
-1/day—*control weather*<sup>M</sup>, *symbol of insanity* (DC 26), *tsunami* (DC 26)
+Constant—*[air walk](../../magic/spells/air-walk.md)*  
+At will—*[cloudkill](../../magic/spells/cloudkill.md)*<sup>M</sup> (DC 23), *[dimension door](../../magic/spells/dimension-door.md)*<sup>M</sup>, *[dream](../../magic/spells/dream.md)*<sup>M</sup>, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)*, *[nightmare](../../magic/spells/nightmare.md)*<sup>M</sup> (DC 23), *[plane shift](../../magic/spells/plane-shift.md)*<sup>M</sup>, *[transmute rock to mud](../../magic/spells/transmute-rock-to-mud.md)*, *[wind walk](../../magic/spells/wind-walk.md)*  
+3/day—*[demand](../../magic/spells/demand.md)*, quickened *[feeblemind](../../magic/spells/feeblemind.md)* (DC 23), *[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 26)  
+1/day—*[control weather](../../magic/spells/control-weather.md)*<sup>M</sup>, *[symbol of insanity](../../magic/spells/symbol-of-insanity.md)* (DC 26), *[tsunami](../../magic/spells/tsunami.md)* (DC 26)
 
 **Statistics**
 

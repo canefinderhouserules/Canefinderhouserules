@@ -21,7 +21,7 @@ CE Small fey
 **Speed** 30 ft.  
 **Melee** bite +1 (1d4–1), 2 claws +1 (1d3–1)  
 **Psychic Magic** (CL 6th; concentration +8)  
-5 PE—*babble* (2 PE, DC 14), *id insinuation I* (2 PE, DC 14), *mental block* (1 PE, DC 13), *mind thrust I* (1 PE, DC 13), *telekinetic projectile* (1 PE)
+5 PE—*[babble](../../magic/spells/babble.md)* (2 PE, DC 14), *[id insinuation I](../../magic/spells/id-insinuation-i.md)* (2 PE, DC 14), *[mental block](../../magic/spells/mental-block.md)* (1 PE, DC 13), *[mind thrust I](../../magic/spells/mind-thrust-i.md)* (1 PE, DC 13), *[telekinetic projectile](../../magic/spells/telekinetic-projectile.md)* (1 PE)
 
 **Statistics**
 

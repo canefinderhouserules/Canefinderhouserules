@@ -24,10 +24,10 @@ LE Large outsider (evil, giant, herald, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** rock throwing (200 ft.)  
 **Spell-Like Abilities** (CL 16th; concentration +19)  
-At will—*meld into stone*, *stone shape*  
-5/day—*bull’s strength*, *cure serious wounds* (DC 16), *invisibility purge*, *levitate*  
-3/day—*dimension door*, *dispel magic*, *fly*, *gravel vortex* (see page 74), *neutralize poison*, *order’s wrath* (DC 17), *spike stones* (DC 17)  
-1/day—*breath of life*, *fabricate*, *stone tell*, *stoneskin*, *wall of stone*
+At will—*[meld into stone](../../magic/spells/meld-into-stone.md)*, *[stone shape](../../magic/spells/stone-shape.md)*  
+5/day—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)* (DC 16), *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[levitate](../../magic/spells/levitate.md)*  
+3/day—*[dimension door](../../magic/spells/dimension-door.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[fly](../../magic/spells/fly.md)*, *[gravel vortex](../../magic/spells/gravel-vortex.md)* (see page 74), *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[order’s wrath](../../magic/spells/orders-wrath.md)* (DC 17), *[spike stones](../../magic/spells/spike-stones.md)* (DC 17)  
+1/day—*[breath of life](../../magic/spells/breath-of-life.md)*, *[fabricate](../../magic/spells/fabricate.md)*, *[stone tell](../../magic/spells/stone-tell.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*
 
 **Statistics**
 

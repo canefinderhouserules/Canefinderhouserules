@@ -21,9 +21,9 @@ CE Small outsider (aquatic, chaotic, evil, extraplanar, qlippoth)
 **Melee** bite +10 (1d6+2 plus grab), 3 talons +9 (1d3+2)  
 **Special Attacks** gnaw, horrific appearance, tenacious grab  
 **Spell-Like Abilities** (CL 6th; concentration +7)  
-Constant—*detect chaos*, *detect evil*  
- At will—*bleed* (DC 11)  
- 1/day—*invisibility*
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect evil](../../magic/spells/detect-evil.md)*  
+ At will—*[bleed](../../magic/spells/bleed.md)* (DC 11)  
+ 1/day—*[invisibility](../../magic/spells/invisibility.md)*
 
 **Statistics**
 

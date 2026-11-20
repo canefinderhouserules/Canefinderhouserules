@@ -25,11 +25,11 @@ LE Medium humanoid (human)
 **Bloodline Spell-Like Abilities** (CL 9th; concentration +14)  
 8/day—touch of destiny (+3)  
 **Sorcerer Spells Known** (CL 9th; concentration +14)  
-4th (5/day)—*confusion* (DC 19), *enervation*  
-3rd (7/day)—*lightning bolt* (DC 18), *ray of exhaustion* (DC 18), *suggestion* (DC 18)  
-2nd (7/day)—*bless*, *blindness/deafness* (DC 17), *blur*, *cure light wounds*, *detect thoughts* (DC 17), *invisibility*, *scorching ray*  
-1st (8/day)—*alarm*, *charm person* (DC 16), *disguise self*, *mage armor*, *magic missile*, *ray of enfeeblement* (DC 16)  
-0 (at will)—*detect magic*, *ghost sound* (DC 15), *light*, *mage hand*, *mending*, *prestidigitation*, *ray of fatigue*, *read magic*  
+4th (5/day)—*[confusion](../../magic/spells/confusion.md)* (DC 19), *[enervation](../../magic/spells/enervation.md)*  
+3rd (7/day)—*[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 18), *[ray of exhaustion](../../magic/spells/ray-of-exhaustion.md)* (DC 18), *[suggestion](../../magic/spells/suggestion.md)* (DC 18)  
+2nd (7/day)—*[bless](../../magic/spells/bless.md)*, *[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 17), *[blur](../../magic/spells/blur.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (8/day)—*[alarm](../../magic/spells/alarm.md)*, *[charm person](../../magic/spells/charm-person.md)* (DC 16), *[disguise self](../../magic/spells/disguise-self.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 16)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[ray of fatigue](../../magic/spells/ray-of-exhaustion.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** destined
 
 **Statistics**

@@ -23,15 +23,15 @@ CE Medium humanoid (dwarf)
 **Ranged**  mwk heavy crossbow +9 (1d10/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, breath weapon (30-foot cone, 17d6 fire, DC 23, 2/day), claws (2, 1d4+2 plus 1d6 fire, treated as magic weapons, 8 rounds/day)  
 **Sorcerer Spells Known** (CL 17th; concentration +22)  
-8th (4/day)—*form of the dragon III*, *greater shout* (DC 25), *incendiary cloud* (DC 23)  
-7th (6/day)—*delayed blast fireball* (DC 24), *form of the dragon II*, *mass hold person* (DC 22), *reverse gravity*  
-6th (6/day)—*chain lightning* (DC 23), *flesh to stone* (DC 21), *form of the dragon I*, *transformation*  
-5th (7/day)—*cloudkill* (DC 20), *cone of cold* (DC 22), *spell resistance*, *telekinesis*, *wall of force*  
-4th (7/day)—*crushing despair* (DC 19), *fear* (DC 19), *fire shield*, *stoneskin*, *wall of fire*  
-3rd (7/day)—*dispel magic*, *fireball* (DC 20), *fly*, *greater magic weapon*, *ray of exhaustion* (DC 18)  
-2nd (7/day)—*blur*, *flaming sphere* (DC 19), *invisibility*, *resist energy* (DC 17), *scorching ray*, *web* (DC 17)  
-1st (8/day)—*burning hands* (DC 18), *expeditious retreat*, *mage armor*, *magic missile*, *shield*, *ventriloquism* (DC 16)  
-0 (at will)—*acid splash*, *bleed* (DC 15), *dancing lights*, *detect magic*, *flare* (DC 17), *mage hand*, *ray of frost*, *read magic*, *touch of fatigue* (DC 15)  
+8th (4/day)—*[form of the dragon III](../../magic/spells/form-of-the-dragon-iii.md)*, *[greater shout* ](../../magic/spells/shout-greater.md)(DC 25), *[incendiary cloud* ](../../magic/spells/incendiary-cloud.md)(DC 23)  
+7th (6/day)—*[delayed blast fireball* ](../../magic/spells/delayed-blast-fireball.md)(DC 24), *[form of the dragon II](../../magic/spells/form-of-the-dragon-ii.md)*, *[mass hold person* ](../../magic/spells/hold-person-mass.md)(DC 22), *[reverse gravity](../../magic/spells/reverse-gravity.md)*  
+6th (6/day)—*[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 23), *[flesh to stone* ](../../magic/spells/flesh-to-stone.md)(DC 21), *[form of the dragon I](../../magic/spells/form-of-the-dragon-i.md)*, *[transformation](../../magic/spells/transformation.md)*  
+5th (7/day)—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 20), *[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 22), *[spell resistance](../../magic/spells/spell-resistance.md)*, *[telekinesis](../../magic/spells/telekinesis.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th (7/day)—*[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 19), *[fear* ](../../magic/spells/fear.md)(DC 19), *[fire shield](../../magic/spells/fire-shield.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 20), *[fly](../../magic/spells/fly.md)*, *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)*, *[ray of exhaustion* ](../../magic/spells/ray-of-exhaustion.md)(DC 18)  
+2nd (7/day)—*[blur](../../magic/spells/blur.md)*, *[flaming sphere* ](../../magic/spells/flaming-sphere.md)(DC 19), *[invisibility](../../magic/spells/invisibility.md)*, *[resist energy* ](../../magic/spells/resist-energy.md)(DC 17), *[scorching ray](../../magic/spells/scorching-ray.md)*, *[web* ](../../magic/spells/web.md)(DC 17)  
+1st (8/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 18), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 16)  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 15), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 17), *[mage hand](../../magic/spells/mage-hand.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 15)  
 **Bloodline** draconic (red)
 
 **Tactics**

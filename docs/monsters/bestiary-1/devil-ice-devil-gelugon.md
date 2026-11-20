@@ -22,8 +22,8 @@ LE Large outsider (devil, evil, extraplanar, lawful)
 **Melee** *+1 frost spear* +21/+16/+11 (2d6+10/×3 plus 1d6 cold plus slow), bite +14 (2d6+6), tail +14 (3d6+3 plus slow)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 13th)  
-Constant—*fly*  
-At will—*cone of cold* (DC 20), *ice storm*, *greater teleport* (self plus 50 lbs. of objects only), *persistent image* (DC 20), *wall of ice* (DC 19)  
+Constant—*[fly](../../magic/spells/fly.md)*  
+At will—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 20), *[ice storm](../../magic/spells/ice-storm.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[persistent image* ](../../magic/spells/persistent-image.md)(DC 20), *[wall of ice* ](../../magic/spells/wall-of-ice.md)(DC 19)  
 1/day—summon (level 4, 2 bone devils, 50%)
 
 **Statistics**

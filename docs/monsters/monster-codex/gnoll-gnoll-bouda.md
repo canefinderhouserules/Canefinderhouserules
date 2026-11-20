@@ -21,13 +21,13 @@ CE Medium humanoid (gnoll)
 **Melee** *+2 dagger* +10/+5 (1d4+3/19–20)  
 **Special Attacks** hexes (blight [120 feet], bouda’s eye, disguise [12 hours], evil eye [–4, 7 rounds], hag’s eye [12 minutes/day], retribution [4 rounds])  
 **Witch Spells Prepared** (CL 12th; concentration +16)  
-6th—*mass suggestion* (DC 21), *slay living* (DC 20)  
-5th—*baleful polymorph* (DC 19), *cloudkill* (DC 19), *waves of fatigue*  
-4th—*cape of wasps*, *crushing despair* (DC 19), *cure serious wounds*, *dimension door*  
-3rd—*bestow curse* (DC 17), *countless eyes*, *dispel magic*, *stinking cloud* (DC 17), *vampiric touch*  
-2nd—*blindness/deafness* (DC 16), *burning gaze* (DC 16), *glitterdust* (DC 16), *see invisibility*, *touch of idiocy*  
-1st—*beguiling gift* (DC 16), *bungle* (DC 16), *burning hands* (DC 15), *mage armor*, *ray of enfeeblement* (DC 15)  
-0 (at will)—*bleed* (DC 14), *detect magic*, *putrefy food and drink*, *touch of fatigue* (DC 14)  
+6th—*[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 21), *[slay living](../../magic/spells/slay-living.md)* (DC 20)  
+5th—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 19), *[cloudkill](../../magic/spells/cloudkill.md)* (DC 19), *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*  
+4th—*[cape of wasps](../../magic/spells/cape-of-wasps.md)*, *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 19), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dimension door](../../magic/spells/dimension-door.md)*  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 17), *[countless eyes](../../magic/spells/countless-eyes.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 17), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 16), *[burning gaze](../../magic/spells/burning-gaze.md)* (DC 16), *[glitterdust](../../magic/spells/glitterdust.md)* (DC 16), *[see invisibility](../../magic/spells/see-invisibility.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1st—*[beguiling gift](../../magic/spells/beguiling-gift.md)* (DC 16), *[bungle](../../magic/spells/bungle.md)* (DC 16), *[burning hands](../../magic/spells/burning-hands.md)* (DC 15), *[mage armor](../../magic/spells/mage-armor.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 15)  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[putrefy food and drink](../../magic/spells/putrefy-food-and-drink.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 14)  
 **Patron** trickery
 
 **Tactics**

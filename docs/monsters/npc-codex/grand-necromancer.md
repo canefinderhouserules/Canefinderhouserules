@@ -24,16 +24,16 @@ NE Medium humanoid (human)
 **Spell-Like Abilities** (CL 18th; concentration +26)  
 11/day—grave touch (9 rounds)  
 **Necromancer Spells Prepared** (CL 18th; concentration +26)  
-9th—*energy drain* (DC 29), *time stop*, *wail of the banshee* (DC 29)  
-8th—*create greater undead*, *horrid wilting* (3, DC 28), *mind blank*  
-7th—*ethereal jaunt*, *finger of death* (DC 27), quickened *fireball* (DC 22), *spell turning*, *waves of exhaustion*  
-6th—*chain lightning* (DC 25), *create undead*, *disintegrate* (DC 24), *eyebite* (DC 26), maximized *vampiric touch* (2)  
-5th—*cloudkill* (DC 23), quickened *magic missile*, maximized *scorching ray*, *teleport*, *wall of force*, *waves of fatigue*  
-4th—*animate dead*, *arcane eye*, *bestow curse* (2, DC 24), *dimension door*, *fire shield*, maximized *ray of enfeeblement*  
-3rd—*blink*, *dispel magic* (2), *fireball* (2, DC 22), *fly*, *vampiric touch*  
-2nd—*blindness/deafness* (DC 22), *darkvision*, *false life*, *glitterdust* (DC 20), *resist energy*, *scorching ray*, *see invisibility*  
-1st—*cause fear* (DC 21), *expeditious retreat*, *feather fall*, *grease*, *mage armor*, *magic missile*, *obscuring mist*  
-0 (at will)—*bleed* (DC 20), *detect magic*, *mage hand*, *read magic*  
+9th—*[energy drain* ](../../magic/spells/energy-drain.md)(DC 29), *[time stop](../../magic/spells/time-stop.md)*, *[wail of the banshee* ](../../magic/spells/wail-of-the-banshee.md)(DC 29)  
+8th—*[create greater undead](../../magic/spells/create-greater-undead.md)*, *[horrid wilting* ](../../magic/spells/horrid-wilting.md)(3, DC 28), *[mind blank](../../magic/spells/mind-blank.md)*  
+7th—*[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[finger of death* ](../../magic/spells/finger-of-death.md)(DC 27), quickened *[fireball* ](../../magic/spells/fireball.md)(DC 22), *[spell turning](../../magic/spells/spell-turning.md)*, *[waves of exhaustion](../../magic/spells/waves-of-exhaustion.md)*  
+6th—*[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 25), *[create undead](../../magic/spells/create-undead.md)*, *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 24), *[eyebite* ](../../magic/spells/eyebite.md)(DC 26), maximized *[vampiric touch* ](../../magic/spells/vampiric-touch.md)(2)  
+5th—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 23), quickened *[magic missile](../../magic/spells/magic-missile.md)*, maximized *[scorching ray](../../magic/spells/scorching-ray.md)*, *[teleport](../../magic/spells/teleport.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*, *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*  
+4th—*[animate dead](../../magic/spells/animate-dead.md)*, *[arcane eye](../../magic/spells/arcane-eye.md)*, *[bestow curse* ](../../magic/spells/bestow-curse.md)(2, DC 24), *[dimension door](../../magic/spells/dimension-door.md)*, *[fire shield](../../magic/spells/fire-shield.md)*, maximized *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)*  
+3rd—*[blink](../../magic/spells/blink.md)*, *[dispel magic* ](../../magic/spells/dispel-magic.md)(2), *[fireball* ](../../magic/spells/fireball.md)(2, DC 22), *[fly](../../magic/spells/fly.md)*, *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd—*[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 22), *[darkvision](../../magic/spells/darkvision.md)*, *[false life](../../magic/spells/false-life.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 20), *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 21), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[grease](../../magic/spells/grease.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 20), *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Opposition Schools** enchantment, illusion
 
 **Tactics**

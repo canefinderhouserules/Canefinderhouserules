@@ -22,7 +22,7 @@ NE Medium outsider (daemon, evil, extraplanar)
 **Melee** bite +13 (1d8+4 plus 1d6 acid and disease), 2 claws +14 (1d4+4/19-20 plus 1d6 acid and disease)  
 **Special Attacks** necrotic slough  
 **Spell-Like Abilities** (CL 7th; concentration +10)  
-At will—*contagion* (DC 17), *dimension door*  
+At will—*[contagion](../../magic/spells/contagion.md)* (DC 17), *[dimension door](../../magic/spells/dimension-door.md)*  
 1/day—summon (level 3, 1 sepsidaemon 40%)
 
 **Statistics**

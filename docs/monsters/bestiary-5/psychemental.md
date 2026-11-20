@@ -26,7 +26,7 @@ Perception +18
 **Special Attacks** mass erasure
 (DC 19), mindwipe (DC 18)  
 **Psychic Magic** (CL 8th; concentration +11)  
-20 PE—*cognitive block* (3 PE, DC 16), *ego whip I* (3 PE, DC 16), *mind probe* (4 PE, DC 17), *mind thrust III* (3 PE, DC 16), *possession* (5 PE, DC 18), *synaptic pulse* (3 PE, DC 16), *thought shield III* (4 PE, DC 17)
+20 PE—*[cognitive block](../../magic/spells/cognitive-block.md)* (3 PE, DC 16), *[ego whip I](../../magic/spells/ego-whip-i.md)* (3 PE, DC 16), *[mind probe](../../magic/spells/mind-probe.md)* (4 PE, DC 17), *[mind thrust III](../../magic/spells/mind-thrust-iii.md)* (3 PE, DC 16), *[possession](../../magic/spells/possession.md)* (5 PE, DC 18), *[synaptic pulse](../../magic/spells/synaptic-pulse.md)* (3 PE, DC 16), *[thought shield III](../../magic/spells/thought-shield-iii.md)* (4 PE, DC 17)
 
 **Statistics**
 

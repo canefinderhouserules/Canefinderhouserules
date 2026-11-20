@@ -23,8 +23,8 @@ CE Small humanoid (derro)
 **Ranged**  repeating light crossbow +5 (1d6/19–20 plus poison) or aklys +5 (1d6)  
 **Special Attacks** sneak attack +1d6  
 **Spell-Like Abilities** (CL 3rd)  
-At will—*darkness*, *ghost sound* (DC 13)  
-1/day—*daze* (DC 13), *sound burst* (DC 15)
+At will—*[darkness](../../magic/spells/darkness.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13)  
+1/day—*[daze* ](../../magic/spells/daze.md)(DC 13), *[sound burst* ](../../magic/spells/sound-burst.md)(DC 15)
 
 **Statistics**
 

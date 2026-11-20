@@ -24,9 +24,9 @@ N Diminutive construct
 **Space** 1 ft., **Reach** 0 ft.  
 **Special Attacks** jade breath, venom affinity  
 **Spell-Like Abilities** (CL 7th)  
-At will — *delay poison*, *detect poison**  
-3/day — *pass without trace*, *summon monster I* (viper only)  
-1/day — *neutralize poison*, *poison* (DC 16), *true strike*
+At will — *[delay poison](../../magic/spells/delay-poison.md)*, *[detect poison](../../magic/spells/detect-poison.md)**  
+3/day — *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[summon monster I](../../magic/spells/summon-monster-i.md)* (viper only)  
+1/day — *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[poison](../../magic/spells/poison.md)* (DC 16), *[true strike](../../magic/spells/true-strike.md)*
 
 **Statistics**
 

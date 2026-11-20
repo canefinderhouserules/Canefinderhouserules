@@ -24,12 +24,12 @@ CN Huge humanoid (giant)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** rock throwing (140 ft.), wild shape 4/day  
 **Druid Spells Prepared** (CL 10th; concentration +15)  
-5th—*aspect of the wolf* <sup>D</sup>*, *baleful polymorph* (DC 20), *control winds* (DC 20), *snake staff* *  
-4th—*air walk*, *bloody claws** (DC 19), *dispel magic*, *rusting grasp*, *wall of ice*<sup>D</sup> (DC 19)  
-3rd—*cloak of winds** (DC 18), *dominate animal* (DC 18), *greater magic fang*, *protection from energy* (DC 18), *sleet storm*<sup>D</sup>  
-2nd—*aspect of the bear*<sup>D</sup>*, *barkskin*, *bear’s endurance*, *eagle eye**, *gust of wind* (DC 17), *stone call*  
-1st—*cure light wounds* (DC 16), *endure elements*, *feather step** (DC 16), *frostbite*<sup>D</sup>**, *longstrider*, *obscuring mist*, *shillelagh*  
-0 (at will)—*detect magic*, *guidance*, *purify food and drink*, *stabilize*  
+5th—*[aspect of the wolf* ](../../magic/spells/aspect-of-the-wolf.md)<sup>D</sup>*, *[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 20), *[control winds](../../magic/spells/control-winds.md)* (DC 20), *[snake staff* ](../../magic/spells/snake-staff.md)*  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[bloody claws](../../magic/spells/bloody-claws.md)** (DC 19), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[rusting grasp](../../magic/spells/rusting-grasp.md)*, *[wall of ice](../../magic/spells/wall-of-ice.md)*<sup>D</sup> (DC 19)  
+3rd—*[cloak of winds](../../magic/spells/cloak-of-winds.md)** (DC 18), *[dominate animal* ](../../magic/spells/dominate-animal.md)(DC 18), *[greater magic fang](../../magic/spells/magic-fang-greater.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(DC 18), *[sleet storm](../../magic/spells/sleet-storm.md)*<sup>D</sup>  
+2nd—*[aspect of the bear](../../magic/spells/aspect-of-the-bear.md)*<sup>D</sup>*, *[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[eagle eye](../../magic/spells/eagle-eye.md)**, *[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 17), *[stone call](../../magic/spells/stone-call.md)*  
+1st—*[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(DC 16),[ *endure elements](../../magic/spells/endure-elements.md)*, *[feather step](../../magic/spells/feather-step.md)** (DC 16), *[frostbite](../../magic/spells/frostbite.md)*<sup>D</sup>**, *[longstrider](../../magic/spells/longstrider.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shillelagh](../../magic/spells/shillelagh.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domain** Arctic**
 
 **Statistics**

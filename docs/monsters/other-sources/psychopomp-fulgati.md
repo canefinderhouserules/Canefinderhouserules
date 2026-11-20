@@ -25,7 +25,7 @@ N Colossal outsider (extraplanar, psychopomp)
 **Special Attacks** rend (2 slams, 2d8+21), rock throwing (240 ft.)  
 **Spell-Like Abilities** (CL 25th; concentration +28)  
 Constant—*air walk, mind blank, true seeing*  
- 3/day—*align weapon* (self only), *chain lightning* (DC 21), *greater shout* (DC 20), *plane shift* (DC 21), *undeath to death* (DC 19)  
+ 3/day—*[align weapon](../../magic/spells/align-weapon.md)* (self only), *[chain lightning](../../magic/spells/chain-lightning.md)* (DC 21), *[greater shout](../../magic/spells/shout-greater.md)* (DC 20), *[plane shift](../../magic/spells/plane-shift.md)* (DC 21), *[undeath to death](../../magic/spells/undeath-to-death.md)* (DC 19)  
  1/day—*control water, control weather, creeping doom* (DC 20), *earthquake, epidemic, incendiary cloud* (DC 22)
 
 **Statistics**

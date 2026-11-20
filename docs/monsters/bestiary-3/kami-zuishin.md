@@ -22,10 +22,10 @@ LG Medium outsider (kami, native)
 **Ranged**  *+1 holy composite longbow* +20/+15/+10 (1d8+5/×3)  
 **Special Attacks** healing arrow, holy weapons  
 **Spell-Like Abilities** (CL 13th; concentration +18)  
-Constant—*detect evil*, *see invisibility*  
-At will—*cure light wounds*, *dimension door*  
-3/day—*alarm*, *breath of life*, *dispel magic*, *neutralize poison*, *remove curse*, *remove disease*, *restoration*  
-1/day—*dispel evil* (DC 20), *heal*, *true seeing*
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[dimension door](../../magic/spells/dimension-door.md)*  
+3/day—*[alarm](../../magic/spells/alarm.md)*, *[breath of life](../../magic/spells/breath-of-life.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[remove curse](../../magic/spells/remove-curse.md)*, *[remove disease](../../magic/spells/remove-disease.md)*, *[restoration](../../magic/spells/restoration.md)*  
+1/day—*[dispel evil* ](../../magic/spells/dispel-evil.md)(DC 20), *[heal](../../magic/spells/heal.md)*, *[true seeing](../../magic/spells/true-seeing.md)*
 
 **Statistics**
 

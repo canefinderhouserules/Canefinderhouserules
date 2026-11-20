@@ -20,8 +20,8 @@ LN Medium outsider (extraplanar, lawful)
 **Speed** 30 ft., fly 30 ft. (good)  
 **Melee** *+1 longsword* +16/+11 (1d8+7/19–20)  
 **Spell-Like Abilities** (CL 9th; concentration +14)  
-3/day—*dispel chaos*, *haste*, *hold monster* (DC 20), *lightning bolt* (DC 18), empowered *order’s wrath* (DC 19), *telekinesis* (DC 20), *true strike*  
-1/day—*summon inevitable* (level 6, 1 zelekhut, see below), *true seeing*
+3/day—*[dispel chaos](../../magic/spells/dispel-chaos.md)*, *[haste](../../magic/spells/haste.md)*, *[hold monster](../../magic/spells/hold-monster.md)* (DC 20),[ *lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 18), empowered *[order’s wrath](../../magic/spells/orders-wrath.md)* (DC 19), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 20), *[true strike](../../magic/spells/true-strike.md)*  
+1/day—*summon inevitable* (level 6, 1 zelekhut, see below), *[true seeing](../../magic/spells/true-seeing.md)*
 
 **Statistics**
 

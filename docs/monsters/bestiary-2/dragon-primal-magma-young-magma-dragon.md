@@ -22,10 +22,10 @@ CN Medium dragon (extraplanar, fire)
 **Melee** bite +17 (1d8+12 plus 3 fire), 2 claws +17 (1d6+8), 2 wings +12 (1d4+4)  
 **Special Attacks** breath weapon (30-ft. cone, 6d6 fire, DC 17)  
 **Spell-Like Abilities** (CL 9th; concentration +10)  
-At will—*burning hands* (DC 12)  
+At will—*[burning hands](../../magic/spells/burning-hands.md)* (DC 12)  
 **Spells Known** (CL 1st; concentration +2)  
-1st (4/day)—*flare burst* (DC 12), *grease* (DC 12)  
-0 (at will)—*bleed* (DC 11), *detect magic*, *open/close*, *spark*
+1st (4/day)—*[flare burst](../../magic/spells/flare-burst.md)* (DC 12), *[grease* ](../../magic/spells/grease.md)(DC 12)  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 11), *[detect magic](../../magic/spells/detect-magic.md)*, *[open/close](../../magic/spells/open-close.md)*, *[spark](../../magic/spells/spark.md)*
 
 **Statistics**
 

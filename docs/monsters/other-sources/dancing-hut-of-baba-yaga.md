@@ -23,8 +23,8 @@ N Huge construct
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** constrict (2d6+19), fast swallow, swallow whole (see below), trample (2d8+19, DC 36)  
 **Spell-Like Abilities** (CL 15th; concentration +22)  
-At will—*dimensional anchor*, *freedom of movement*, *irresistible dance* (DC 25)  
-3/day—*blink*, *dimension door*, *incendiary cloud* (DC 25)
+At will—*[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[irresistible dance* ](../../magic/spells/irresistible-dance.md)(DC 25)  
+3/day—*[blink](../../magic/spells/blink.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[incendiary cloud* ](../../magic/spells/incendiary-cloud.md)(DC 25)
 
 **Statistics**
 

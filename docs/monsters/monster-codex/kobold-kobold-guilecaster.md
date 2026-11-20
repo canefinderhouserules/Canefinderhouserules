@@ -23,10 +23,10 @@ LE Small humanoid (reptilian)
 **Spell-Like Abilities** (CL 6th; concentration +9)  
 6/day—trap rune (DC 16)  
 **Sorcerer Spells Known** (CL 6th; concentration +9)  
-3rd (4/day)—*lightning bolt* (DC 16)  
-2nd (6/day)—*create pit*, *mirror image*, *scorching ray*  
-1st (7/day)—*alarm*, *charm person* (DC 14), *mage armor*, *magic missile*, *ray of enfeeblement* (DC 14)  
-0 (at will)—*arcane mark*, *daze*, *detect magic*, *open/close*, *prestidigitation* (DC 13), *resistance*, *spark*  
+3rd (4/day)—*[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 16)  
+2nd (6/day)—*[create pit](../../magic/spells/create-pit.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (7/day)—*[alarm](../../magic/spells/alarm.md)*, *[charm person](../../magic/spells/charm-person.md)* (DC 14), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 14)  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[daze](../../magic/spells/daze.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)* (DC 13), *[resistance](../../magic/spells/resistance.md)*, *[spark](../../magic/spells/spark.md)*  
 **Bloodline** *kobold*
 
 **Statistics**

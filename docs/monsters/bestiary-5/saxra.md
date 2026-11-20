@@ -27,11 +27,11 @@ spawn skeleton, splintered ground
 **Spell-Like Abilities** (CL 20th; concentration +28)  
 Constant—*deathwatch, true seeing*  
 
-At will—*call spirit* (only creatures slain by the saxra, DC 21), *desecrate, enervation, gust of wind* (DC 20)  
+At will—*[call spirit](../../magic/spells/call-spirit.md)* (only creatures slain by the saxra, DC 21), *desecrate, enervation, gust of wind* (DC 20)  
 
-3/day—*finger of death* (DC 25), *horrid wilting* (DC 26), *telekinesis* (DC 23), *unholy blight* (DC 22)  
+3/day—*[finger of death](../../magic/spells/finger-of-death.md)* (DC 25), *[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 26), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 23), *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 22)  
 
-1/day—*legend lore*
+1/day—*[legend lore](../../magic/spells/legend-lore.md)*
 
 **Statistics**
 

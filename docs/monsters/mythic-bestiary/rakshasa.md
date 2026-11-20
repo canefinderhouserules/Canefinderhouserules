@@ -21,11 +21,11 @@ LE Medium outsider (mythic, native, shapechanger)
 **Melee** *+1 kukri* +16/+11 (1d4+6/15–20), bite +5 (1d6+3), claw +10 (1d4+5)  
 **Special Attacks** *detect thoughts*, *modify memory*, mythic power (5/day, surge +1d8), wild arcana (see page 14)  
 **Spells Known** (CL 7th; concentration +12)  
-4th (5)—*charm monster* (DC 19), *dimension door*  
-3rd (7)—*lightning bolt*<sup>M</sup> (DC 18), *suggestion*<sup>M</sup> (DC 18), *vampiric touch*  
-2nd (7)—*acid arrow*, *invisibility*<sup>M</sup>, *minor image* (DC 17), *mirror image*  
-1st (8)—*charm person* (DC 16), *mage armor*, *magic missile*<sup>M</sup>, *shield*, *silent image*<sup>M</sup> (DC 16)  
-0 (at will)—*dancing lights*, *detect magic*, *ghost sound* (DC 15), *mage hand*, *mending*, *message*, *prestidigitation*  
+4th (5)—*[charm monster](../../magic/spells/charm-monster.md)* (DC 19), *[dimension door](../../magic/spells/dimension-door.md)*  
+3rd (7)—*[lightning bolt](../../magic/spells/lightning-bolt.md)*<sup>M</sup> (DC 18), *[suggestion](../../magic/spells/suggestion.md)*<sup>M</sup> (DC 18), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd (7)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[invisibility](../../magic/spells/invisibility.md)*<sup>M</sup>, *[minor image](../../magic/spells/minor-image.md)* (DC 17), *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (8)—*[charm person](../../magic/spells/charm-person.md)* (DC 16), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*<sup>M</sup>, *[shield](../../magic/spells/shield.md)*, *[silent image](../../magic/spells/silent-image.md)*<sup>M</sup> (DC 16)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*  
 **M** Mythic spell
 
 **Statistics**

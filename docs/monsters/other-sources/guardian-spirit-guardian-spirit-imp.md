@@ -22,10 +22,10 @@ LE Tiny outsider (devil, evil, extraplanar, lawful)
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** smite threat 1/day  
 **Spell-Like Abilities** (CL 6th; concentration +10)  
-Constant—*detect good*, *detect magic*  
-At will—*guidance*, *invisibility* (self only, DC 17)  
-1/day—*augury*, *call lightning* (DC 19), *protection from chaos*, *suggestion* (DC 19)  
-1/week—*commune* (6 questions, CL 12th)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[guidance](../../magic/spells/guidance.md)*, *[invisibility](../../magic/spells/invisibility.md)* (self only, DC 17)  
+1/day—*[augury](../../magic/spells/augury.md)*, *[call lightning](../../magic/spells/call-lightning.md)* (DC 19), *[protection from chaos](../../magic/spells/protection-from-chaos.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 19)  
+1/week—*[commune](../../magic/spells/commune.md)* (6 questions, CL 12th)
 
 **Statistics**
 

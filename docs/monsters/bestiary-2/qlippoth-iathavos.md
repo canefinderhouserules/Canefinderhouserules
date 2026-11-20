@@ -23,10 +23,10 @@ CE Colossal outsider (chaotic, evil, extraplanar, qlippoth)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** abyssal transformation, entropic beams, horrific appearance (DC 30)  
 **Spell-Like Abilities** (CL 20th; concentration +28)  
-Constant—*cloak of chaos* (DC 26), *foresight*, *freedom of movement*, *true seeing*  
-At will—*dimension door*, *dispel law*, *greater dispel magic*, *magic missile*, *plane shift* (DC 25), *wind walk*, *word of recall*  
-3/day—*black tentacles*, *dimensional lock*, *horrid wilting* (DC 26), *insanity* (DC 25), *word of chaos* (DC 25)  
-1/day—quickened *heal*, *imprisonment* (DC 27)
+Constant—*[cloak of chaos* ](../../magic/spells/cloak-of-chaos.md)(DC 26), *[foresight](../../magic/spells/foresight.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[dimension door](../../magic/spells/dimension-door.md)*, *[dispel law](../../magic/spells/dispel-law.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(DC 25), *[wind walk](../../magic/spells/wind-walk.md)*, *[word of recall](../../magic/spells/word-of-recall.md)*  
+3/day—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[dimensional lock](../../magic/spells/dimensional-lock.md)*, *[horrid wilting* ](../../magic/spells/horrid-wilting.md)(DC 26), *[insanity* ](../../magic/spells/insanity.md)(DC 25), *[word of chaos](../../magic/spells/word-of-chaos.md)* (DC 25)  
+1/day—quickened *[heal](../../magic/spells/heal.md)*, *[imprisonment* ](../../magic/spells/imprisonment.md)(DC 27)
 
 **Statistics**
 

@@ -22,8 +22,8 @@ CG Tiny fey
 **Special Attacks** telekinesis  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
 At will—*invisibility, lullaby* (DC 12), *mage hand, mending, prestidigitation*  
- 3/day—*reduce person* (DC 13), *sleep* (DC 13)  
- 1/week—*augury*
+ 3/day—*[reduce person](../../magic/spells/reduce-person.md)* (DC 13), *[sleep](../../magic/spells/sleep.md)* (DC 13)  
+ 1/week—*[augury](../../magic/spells/augury.md)*
 
 **Statistics**
 

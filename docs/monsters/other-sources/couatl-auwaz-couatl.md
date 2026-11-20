@@ -20,10 +20,10 @@ CG Large outsider (native)
 **Melee** bite +12 (1d8+4 plus grab and poison)  
 **Special Attacks** constrict (1d8+4), poison  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-Constant—*detect chaos*, *detect evil*, *detect good*, *detect law*, *know direction*  
-At will—*create water*, *detect thoughts* (DC 15), *invisibility*, *plane shift* (self plus 50 lbs. of objects only)  
-3/day—*hydraulic push* (DC 14), *obscuring mist*, *touch of the sea*APG, *water breathing*  
-1/day—*call lightning* (DC 16), *gust of wind* (DC 15), *hydraulic torrent* (DC 16)
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[know direction](../../magic/spells/know-direction.md)*  
+At will—*[create water](../../magic/spells/create-water.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 15), *[invisibility](../../magic/spells/invisibility.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (self plus 50 lbs. of objects only)  
+3/day—*[hydraulic push](../../magic/spells/hydraulic-push.md)* (DC 14), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[touch of the sea](../../magic/spells/touch-of-the-sea.md)*APG, *[water breathing](../../magic/spells/water-breathing.md)*  
+1/day—*[call lightning](../../magic/spells/call-lightning.md)* (DC 16), *[gust of wind](../../magic/spells/gust-of-wind.md)* (DC 15), *[hydraulic torrent](../../magic/spells/hydraulic-torrent.md)* (DC 16)
 
 **Statistics**
 

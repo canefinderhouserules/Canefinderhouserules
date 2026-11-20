@@ -23,7 +23,7 @@ N Large construct
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** breath weapon  
 **Spell-Like Abilities** (CL 20th; concentration +15)  
-Constant—*air walk*
+Constant—*[air walk](../../magic/spells/air-walk.md)*
 
 **Statistics**
 

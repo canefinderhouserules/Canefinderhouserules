@@ -22,7 +22,7 @@ N Small plant (leshy, shapechanger)
 **Ranged**  filaments +5 (1 plus degradation)  
 **Special Attacks** constrict (2d4 acid)  
 **Spell-Like Abilities** (CL 10th; concentration +10)  
-Constant—*endure elements*, *pass without trace*
+Constant—*[endure elements](../../magic/spells/endure-elements.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*
 
 **Statistics**
 

@@ -29,7 +29,7 @@ At will—*hydraulic push, resist energy* (cold only)
 
 3/day—*cure serious wounds, suggestion* (DC 18)  
 
-1/day—*cone of cold* (DC 20), *dispel magic*
+1/day—*[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 20), *[dispel magic](../../magic/spells/dispel-magic.md)*
 
 **Statistics**
 

@@ -23,12 +23,12 @@ NG Medium humanoid (elf, human)
 **Ranged**  mwk dagger +7 (1d4–1/19–20)  
 **Special Attacks** cypher lore* (defensive scrollcaster, enhance scroll 1/day, focused scroll 1/day, swift scroll), hand of the apprentice (8/day)  
 **Wizard Spells Prepared** (CL 9th; concentration +14)  
-5th—*cone of cold* (DC 20), *wall of force*  
-4th—*dimension door*, *lesser globe of invulnerability*, *wall of fire*  
-3rd—*dispel magic*, *fireball* (DC 18), *protection from energy*, *summon monster III*  
-2nd—*acid arrow*, *false life*, *glitterdust* (DC 17), *locate object*, *scorching ray*  
-1st—*feather fall*, *grease* (DC 16), *mage armor*, *ray of enfeeblement* (DC 16), *shield*, *shocking grasp*  
-0 (at will)—*detect magic*, *light*, *mage hand*, *read magic*
+5th—*[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 20), *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th—*[dimension door](../../magic/spells/dimension-door.md)*, *[lesser globe of invulnerability](../../magic/spells/globe-of-invulnerability-lesser.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 18), *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[summon monster III](../../magic/spells/summon-monster-iii.md)*  
+2nd—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[false life](../../magic/spells/false-life.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 17), *[locate object](../../magic/spells/locate-object.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st—*[feather fall](../../magic/spells/feather-fall.md)*, *[grease* ](../../magic/spells/grease.md)(DC 16), *[mage armor](../../magic/spells/mage-armor.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 16), *[shield](../../magic/spells/shield.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

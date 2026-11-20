@@ -23,13 +23,13 @@ LE Medium humanoid (human)
 **Ranged**  mwk javelin +9 (1d6+1)  
 **Special Attacks** claws (2, 1d4+1 plus 1d6 electricity, treated as magic weapons, 8 rounds/day), breath weapon (60-foot line, 13d6 electricity, DC 21, 1/day)  
 **Sorcerer Spells Known** (CL 13th; concentration +18)  
-6th (4/day)—*acid fog*, *chain lightning* (DC 23), *form of the dragon I*  
-5th (7/day)—*cone of cold* (DC 22), *feeblemind* (DC 20), *overland flight*, *spell resistance*  
-4th (7/day)—*black tentacles*, *charm monster* (DC 19), *dimension door*, *fear* (DC 19), *ice storm*  
-3rd (7/day)—*fireball* (DC 20), *fly*, *haste*, *lightning bolt* (DC 20), *slow* (DC 18)  
-2nd (7/day)—*bear’s endurance*, *false life*, *gust of wind* (DC 19), *resist energy*, *scorching ray*, *see invisibility*  
-1st (8/day)—*grease*, *mage armor*, *magic missile*, *ray of enfeeblement* (DC 16), *shield*, *shocking grasp*  
-0 (at will)—*acid splash*, *bleed* (DC 15), *detect magic*, *flare* (DC 17), *light*, *mage hand*, *mending*, *ray of frost*, *read magic*  
+6th (4/day)—*[acid fog](../../magic/spells/acid-fog.md)*, *[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 23), *[form of the dragon I](../../magic/spells/form-of-the-dragon-i.md)*  
+5th (7/day)—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 22), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 20), *[overland flight](../../magic/spells/overland-flight.md)*, *[spell resistance](../../magic/spells/spell-resistance.md)*  
+4th (7/day)—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[charm monster* ](../../magic/spells/charm-monster.md)(DC 19), *[dimension door](../../magic/spells/dimension-door.md)*, *[fear* ](../../magic/spells/fear.md)(DC 19), *[ice storm](../../magic/spells/ice-storm.md)*  
+3rd (7/day)—*[fireball* ](../../magic/spells/fireball.md)(DC 20), *[fly](../../magic/spells/fly.md)*, *[haste](../../magic/spells/haste.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 20), *[slow* ](../../magic/spells/slow.md)(DC 18)  
+2nd (7/day)—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[false life](../../magic/spells/false-life.md)*, *[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 19), *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (8/day)—*[grease](../../magic/spells/grease.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 16), *[shield](../../magic/spells/shield.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 17), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** draconic (blue)
 
 **Tactics**

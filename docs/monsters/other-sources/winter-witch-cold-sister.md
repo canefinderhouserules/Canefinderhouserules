@@ -22,14 +22,14 @@ LE Medium humanoid (human)
 **Melee** *+1 spear* +4 (1d8)  
 **Special Attacks** hexes (blight [100 feet], evil eye [–4, 7 rounds], flight [ *feather fall* at will, *levitate* 1/day, fly 10 minutes/day], *hoarfrost*, slumber [10 rounds])  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
-Constant—*endure elements* (cold temperatures only)  
+Constant—*[endure elements* ](../../magic/spells/endure-elements.md)(cold temperatures only)  
 **Witch Spells Prepared** (CL 9th; concentration +13)  
-5th—*cone of cold* (DC 20)  
-4th—*lesser geas* (DC 19), *phantasmal killer* (DC 18), *wall of ice* (DC 19)  
-3rd—*bestow curse* (DC 17), *share senses*, *sleet storm*, *twilight knife*  
-2nd—*detect thoughts* (DC 16), *fog cloud*, *hold person* (DC 17), *perceive cues*, *zone of truth* (DC 17)  
-1st—*beguiling gift* (DC 15), *chill touch* (DC 15), *command* (DC 16), *icicle dagger*, *unshakable chill*(DC 16)  
-0 (at will)—*daze* (DC 14), *detect magic*, *ray of frost*, *read magic*  
+5th—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 20)  
+4th—*[lesser geas* ](../../magic/spells/geas-lesser.md)(DC 19), *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 18), *[wall of ice* ](../../magic/spells/wall-of-ice.md)(DC 19)  
+3rd—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 17), *[share senses](../../magic/spells/share-senses.md)*, *[sleet storm](../../magic/spells/sleet-storm.md)*, *[twilight knife](../../magic/spells/twilight-knife.md)*  
+2nd—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 17), *[perceive cues](../../magic/spells/perceive-cues.md)*, *[zone of truth* ](../../magic/spells/zone-of-truth.md)(DC 17)  
+1st—*[beguiling gift](../../magic/spells/beguiling-gift.md)* (DC 15), *[chill touch* ](../../magic/spells/chill-touch.md)(DC 15), *[command* ](../../magic/spells/command.md)(DC 16), *[icicle dagger](../../magic/spells/icicle-dagger.md)*, *[unshakable chill](../../magic/spells/unshakable-chill.md)*(DC 16)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Patron** winter
 
 **Statistics**

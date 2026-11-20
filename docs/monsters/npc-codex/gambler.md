@@ -23,14 +23,14 @@ N Medium humanoid (dwarf)
 **Ranged**  dagger +6 (1d4+4/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, bardic performance 20 rounds/day (move action; countersong, distraction, fascinate, inspire competence +3, inspire courage +2, *suggestion*)  
 **Bard Spells Known** (CL 7th; concentration +11)  
-3rd (1/day)—*confusion* (DC 17), *glibness*  
-2nd (4/day)—*cure moderate wounds* (DC 16), *detect thoughts* (DC 16), *eagle’s splendor*, *invisibility*  
-1st (5/day)—*charm person* (DC 15), *comprehend languages*, *expeditious retreat*, *unseen servant*  
-0 (at will)—*daze* (DC 14), *detect magic*, *mage hand*, *prestidigitation*
+3rd (1/day)—*[confusion* ](../../magic/spells/confusion.md)(DC 17), *[glibness](../../magic/spells/glibness.md)*  
+2nd (4/day)—*[cure moderate wounds* ](../../magic/spells/cure-moderate-wounds.md)(DC 16), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[invisibility](../../magic/spells/invisibility.md)*  
+1st (5/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 15), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Tactics**
 
-**Before Combat** The bard casts *eagle’s splendor*.  
+**Before Combat** The bard casts *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*.  
 **During Combat** The bard brings his fists to any brawl that breaks out when he or someone else gets caught cheating. He alternates between making melee attacks and using *confusion* to reduce the number of effective combatants.  
 **Base Statistics** Without *eagle’s splendor*, the bard’s statistics are **Bard Spells Known** reduce spell DCs by 2; **Cha** 14; **Skills** Bluff +12, Diplomacy +4, Intimidate +14, Perform (comedy) +15, Perform (oratory) +12.
 

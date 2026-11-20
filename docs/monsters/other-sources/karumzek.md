@@ -21,9 +21,9 @@ NE Medium outsider (evil, extraplanar, shapechanger)
 **Melee** bite +8 (1d8+3 plus poison)  
 **Special Attacks** poison, sneak attack +1d6, web (+7 ranged, DC 14, 5 hp)  
 **Spell-Like Abilities** (CL 6th; concentration +6)  
-Constant—*negate aroma*  
-At will—*bleed*, *prestidigitation*, *stabilize*  
-3/day—*alchemical allocation*, *death knell* (DC 12), *invisibility* (self only), *obscuring mist*, *vomit swarm* (spiders only)
+Constant—*[negate aroma](../../magic/spells/negate-aroma.md)*  
+At will—*[bleed](../../magic/spells/bleed.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
+3/day—*[alchemical allocation](../../magic/spells/alchemical-allocation.md)*, *[death knell* ](../../magic/spells/death-knell.md)(DC 12), *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[vomit swarm](../../magic/spells/vomit-swarm.md)* (spiders only)
 
 **Statistics**
 

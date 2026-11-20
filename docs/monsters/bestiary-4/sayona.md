@@ -21,7 +21,7 @@ CE Medium undead
 **Melee** bite +18 (2d6+1 plus bleed and paralysis), 2 claws +18 (2d6+1 plus bleed and paralysis)  
 **Special Attacks** absorb blood, blood drain (1d4 Con), fear cone (60 ft., DC 23), paralysis (1d4 rounds, DC 23), staggering gaze  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-3/day—*command undead* (DC 17), *dominate person* (DC 20), *fog cloud*, *gaseous form*, *invisibility*
+3/day—*[command undead](../../magic/spells/command-undead.md)* (DC 17), *[dominate person](../../magic/spells/dominate-person.md)* (DC 20), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[gaseous form](../../magic/spells/gaseous-form.md)*, *[invisibility](../../magic/spells/invisibility.md)*
 
 **Statistics**
 

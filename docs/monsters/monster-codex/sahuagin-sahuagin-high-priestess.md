@@ -23,11 +23,11 @@ LE Large monstrous humanoid (aquatic)
 **Ranged**  mwk underwater heavy crossbow +6 (2d8/19–20)  
 **Special Attacks** blood frenzy, channel negative energy 5/day (DC 13, 4d6), destructive smite (+3, 8/day)  
 **Cleric Spells Prepared** (CL 7th; concentration +12)  
-4th—*dimension door*<sup>D</sup>, *gift of the deep*, *unholy blight* (DC 19)  
- 3rd—*air breathing*, *fly*<sup>D</sup>, *prayer*, *summon monster III*  
- 2nd—*bear’s endurance*, *cure moderate wounds*, *dread bolt* (DC 17), *hold person* (DC 17), *shatter*<sup>D</sup> (DC 17)  
- 1st—*command* (DC 16), *cure light wounds* (2), *divine favor*, *murderous command* (DC 16), *sanctuary*, *true strike*<sup>D</sup>  
- 0 (at will)—*bleed* (DC 15), *detect magic*, *guidance*, *read magic*  
+4th—*[dimension door](../../magic/spells/dimension-door.md)*<sup>D</sup>, *[gift of the deep](../../magic/spells/gift-of-the-deep.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 19)  
+ 3rd—*[air breathing](../../magic/spells/air-breathing.md)*, *[fly](../../magic/spells/fly.md)*<sup>D</sup>, *[prayer](../../magic/spells/prayer.md)*, *[summon monster III](../../magic/spells/summon-monster-iii.md)*  
+ 2nd—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[dread bolt](../../magic/spells/dread-bolt.md)* (DC 17), *[hold person](../../magic/spells/hold-person.md)* (DC 17), *[shatter](../../magic/spells/shatter.md)*<sup>D</sup> (DC 17)  
+ 1st—*[command](../../magic/spells/command.md)* (DC 16), *[cure light wounds](../../magic/spells/cure-light-wounds.md)* (2), *[divine favor](../../magic/spells/divine-favor.md)*, *[murderous command](../../magic/spells/murderous-command.md)* (DC 16), *[sanctuary](../../magic/spells/sanctuary.md)*, *[true strike](../../magic/spells/true-strike.md)*<sup>D</sup>  
+ 0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*  
  **D** domain spell; **Domains** Destruction, Travel
 
 **Statistics**

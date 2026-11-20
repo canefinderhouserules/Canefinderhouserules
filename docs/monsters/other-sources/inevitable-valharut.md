@@ -21,9 +21,9 @@ LN Medium outsider (extraplanar, inevitable, lawful)
 **Speed** 50 ft.; *air walk*  
 **Melee** *+1 valharut hook* +17/+12/+7 (1d8+6/19–20/×3), *+1 valharut hook* +16 (1d8+3/19–20/×3), *+1 dagger* +16 (1d4+3/19–20), slam +12 (1d4+2)  
 **Spell-Like Abilities** (CL 11th; concentration +16)  
-Constant—*air walk*  
-At will—*greater teleport* (self plus 50 lbs. of objects only), *order’s wrath* (DC 19)  
-1/day—*dispel chaos*
+Constant—*[air walk](../../magic/spells/air-walk.md)*  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[order’s wrath](../../magic/spells/orders-wrath.md)* (DC 19)  
+1/day—*[dispel chaos](../../magic/spells/dispel-chaos.md)*
 
 **Statistics**
 

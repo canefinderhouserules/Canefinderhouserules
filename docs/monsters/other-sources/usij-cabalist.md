@@ -23,10 +23,10 @@ NE Medium humanoid (human)
 **Spell-Like Abilities** (CL 5th; concentration +8)  
 6/day—touch of evil (2 rounds)  
 **Cleric Spells Prepared** (CL 5th; concentration +8)  
-3rd—*bestow curse* (DC 16), *call lightning*<sup>D</sup> (DC 16), *dispel magic*  
-2nd—*gust of wind*<sup>D</sup> (DC 15), *shatter*, *silence* (DC 15), *undetectable alignment*  
-1st—*command* (DC 14), *cure light wounds*, *doom* (DC 14), *forbid action* (DC 15), *true strike*<sup>D</sup>  
-0 (at will)—*create water*, *detect magic*, *read magic*, *resistance*  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 16), *[call lightning](../../magic/spells/call-lightning.md)*<sup>D</sup> (DC 16), *[dispel magic](../../magic/spells/dispel-magic.md)*  
+2nd—*[gust of wind](../../magic/spells/gust-of-wind.md)*<sup>D</sup> (DC 15), *[shatter](../../magic/spells/shatter.md)*, *[silence](../../magic/spells/silence.md)* (DC 15), *[undetectable alignment](../../magic/spells/undetectable-alignment.md)*  
+1st—*[command](../../magic/spells/command.md)* (DC 14), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[doom](../../magic/spells/doom.md)* (DC 14), *[forbid action](../../magic/spells/forbid-action.md)* (DC 15), *[true strike](../../magic/spells/true-strike.md)*<sup>D</sup>  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** Domain spell; **Domains** Catastrophe, Evil
 
 **Statistics**

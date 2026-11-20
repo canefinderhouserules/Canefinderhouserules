@@ -25,12 +25,12 @@ CN Medium humanoid (human)
 **Spell-Like Abilities** (CL 9th; concentration +14)  
 8/day—acid dart  
 **Druid Spells Prepared** (CL 9th; concentration +14)  
-5th—*animal growth* (DC 20), *stoneskin*, *wall of stone*<sup>D</sup>  
-4th—*dispel magic*, *freedom of movement*, *giant vermin*, *spike stones*<sup>D</sup> (DC 19)  
-3rd—*greater magic fang* (3), *spike growth* (DC 18), *stone shape*<sup>D</sup>  
-2nd—*barkskin* (2), *bull’s strength* (2), *fog cloud*, *soften earth and stone*<sup>D</sup>  
-1st—*cure light wounds* (2), *faerie fire* (2), *magic stone*<sup>D</sup>, *shillelagh*, *speak with animals*  
-0 (at will)—*create water*, *guidance*, *know direction*, *light*  
+5th—*[animal growth* ](../../magic/spells/animal-growth.md)(DC 20), *[stoneskin](../../magic/spells/stoneskin.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*<sup>D</sup>  
+4th—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[giant vermin](../../magic/spells/giant-vermin.md)*, *[spike stones](../../magic/spells/spike-stones.md)*<sup>D</sup> (DC 19)  
+3rd—*[greater magic fang* ](../../magic/spells/magic-fang-greater.md)(3), *[spike growth* ](../../magic/spells/spike-growth.md)(DC 18), *[stone shape](../../magic/spells/stone-shape.md)*<sup>D</sup>  
+2nd—*[barkskin* ](../../magic/spells/barkskin.md)(2), *[bull’s strength* ](../../magic/spells/bulls-strength.md)(2), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*<sup>D</sup>  
+1st—*[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(2), *[faerie fire* ](../../magic/spells/faerie-fire.md)(2), *[magic stone](../../magic/spells/magic-stone.md)*<sup>D</sup>, *[shillelagh](../../magic/spells/shillelagh.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[guidance](../../magic/spells/guidance.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[light](../../magic/spells/light.md)*  
 **D** Domain spell; **Domain** Earth
 
 **Tactics**

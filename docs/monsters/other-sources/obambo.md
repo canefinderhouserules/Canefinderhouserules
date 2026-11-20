@@ -21,9 +21,9 @@ LE Medium undead (incorporeal)
 **Melee** incorporeal touch +16 (1d6 Int drain plus daze)  
 **Special Attacks** jungle animus, thought eater  
 **Spell-Like Abilities** (CL 14th; concentration +21)  
-At will — *entangle* (DC 18), *enthrall* (DC 19), *goodberry*, *mage hand*, *obscuring mist*  
-3/day — *command plants* (DC 21), *giant vermin*, *hallucinatory terrain* (DC 21), *helping hand*, *move earth*, *rainbow pattern* (DC 21), *soften earth and stone* (DC 19), *spike growth* (DC 20), *tree stride*  
-1/day — *animate plants*, *creeping doom* (DC 24), *find the path*, *legend lore*, *mage’s magnificent mansion*, *reincarnate*
+At will — *[entangle](../../magic/spells/entangle.md)* (DC 18), *[enthrall](../../magic/spells/enthrall.md)* (DC 19), *[goodberry](../../magic/spells/goodberry.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+3/day — *[command plants](../../magic/spells/command-plants.md)* (DC 21), *[giant vermin](../../magic/spells/giant-vermin.md)*, *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)* (DC 21), *[helping hand](../../magic/spells/helping-hand.md)*, *[move earth](../../magic/spells/move-earth.md)*, *[rainbow pattern](../../magic/spells/rainbow-pattern.md)* (DC 21), *[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)* (DC 19), *[spike growth](../../magic/spells/spike-growth.md)* (DC 20), *[tree stride](../../magic/spells/tree-stride.md)*  
+1/day — *[animate plants](../../magic/spells/animate-plants.md)*, *[creeping doom](../../magic/spells/creeping-doom.md)* (DC 24), *[find the path](../../magic/spells/find-the-path.md)*, *[legend lore](../../magic/spells/legend-lore.md)*, *[mage’s magnificent mansion](../../magic/spells/mages-magnificent-mansion.md)*, *[reincarnate](../../magic/spells/reincarnate.md)*
 
 **Statistics**
 

@@ -22,11 +22,11 @@ N Colossal monstrous humanoid
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** capsize, polar breach  
 **Spell-Like Abilities** (CL 21st; concentration +24)  
-At will—*hydraulic torrent*  
+At will—*[hydraulic torrent](../../magic/spells/hydraulic-torrent.md)*  
 
-3/day—*freezing sphere* (DC 19)  
+3/day—*[freezing sphere](../../magic/spells/freezing-sphere.md)* (DC 19)  
 
-1/day—*vortex* (DC 20)
+1/day—*[vortex](../../magic/spells/vortex.md)* (DC 20)
 
 **Statistics**
 

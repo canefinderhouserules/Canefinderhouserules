@@ -25,13 +25,13 @@ CN Medium humanoid (elf, human)
 **Spell-Like Abilities** (CL 11th; concentration +16)  
 8/day—lightning arc  
 **Druid Spells Prepared** (CL 11th; concentration +16)  
-6th—*chain lightning*<sup>D</sup> (DC 22), *greater dispel magic*  
-5th—*call lightning storm* (DC 21), *control winds*<sup>D</sup>(DC 20), *cure critical wounds*, *wall of fire* (DC 21)  
-4th—*air walk*<sup>D</sup>, *cure serious wounds*, *freedom of movement*, *ice storm* (DC 20), *scrying* (DC 19)  
-3rd—*gaseous form*<sup>D</sup>, *greater magic fang* (2), *protection from energy* (2), *sleet storm*  
-2nd—*animal messenger*, *barkskin* (3), *fog cloud*, *wind wall*<sup>D</sup>  
-1st—*cure light wounds* (2), *endure elements*, *faerie fire* (2), *obscuring mist*<sup>D</sup>, *speak with animals*  
-0 (at will)—*flare* (DC 16), *light*, *mending*, *stabilize*  
+6th—*[chain lightning](../../magic/spells/chain-lightning.md)*<sup>D</sup> (DC 22), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*  
+5th—*[call lightning storm* ](../../magic/spells/call-lightning-storm.md)(DC 21), *[control winds](../../magic/spells/control-winds.md)*<sup>D</sup>(DC 20), *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[wall of fire* ](../../magic/spells/wall-of-fire.md)(DC 21)  
+4th—*[air walk](../../magic/spells/air-walk.md)*<sup>D</sup>, *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[ice storm* ](../../magic/spells/ice-storm.md)(DC 20), *[scrying* ](../../magic/spells/scrying.md)(DC 19)  
+3rd—*[gaseous form](../../magic/spells/gaseous-form.md)*<sup>D</sup>, *[greater magic fang* ](../../magic/spells/magic-fang-greater.md)(2), *[protection from energy* ](../../magic/spells/protection-from-energy.md)(2), *[sleet storm](../../magic/spells/sleet-storm.md)*  
+2nd—*[animal messenger](../../magic/spells/animal-messenger.md)*, *[barkskin* ](../../magic/spells/barkskin.md)(3), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[wind wall](../../magic/spells/wind-wall.md)*<sup>D</sup>  
+1st—*[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(2), *[endure elements](../../magic/spells/endure-elements.md)*, *[faerie fire* ](../../magic/spells/faerie-fire.md)(2), *[obscuring mist](../../magic/spells/obscuring-mist.md)*<sup>D</sup>, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[flare* ](../../magic/spells/flare.md)(DC 16), *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domain** Air
 
 **Tactics**

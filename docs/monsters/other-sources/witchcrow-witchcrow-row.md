@@ -21,9 +21,9 @@ CE Tiny magical beast
 **Melee** 2 talons +4 (1d3–1)  
 **Space** 2-1/2 ft., **Reach** 5 ft.  
 **Spell-Like Abilities** (CL 3rd; concentration +4; save DCs are Intelligence-based)  
-Constant—*detect magic*, *speak with animals* (birds only)  
-3/day—*perceive cues*, *vanish*, *ventriloquism* (DC 12)  
-1/day—*ill omen*, *mirror image*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[speak with animals* ](../../magic/spells/speak-with-animals.md)(birds only)  
+3/day—*[perceive cues](../../magic/spells/perceive-cues.md)*, *[vanish](../../magic/spells/vanish.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 12)  
+1/day—*[ill omen](../../magic/spells/ill-omen.md)*, *[mirror image](../../magic/spells/mirror-image.md)*
 
 **Statistics**
 

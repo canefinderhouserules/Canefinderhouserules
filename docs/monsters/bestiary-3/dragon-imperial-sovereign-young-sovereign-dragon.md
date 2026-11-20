@@ -22,10 +22,10 @@ N Large dragon
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite and gore)  
 **Special Attacks** breath weapon (40-ft. cone, 6d6 sonic damage, DC 20), violent retort  
 **Spell-Like Abilities** (CL 12th; concentration +15)  
-At will—*detect evil*, *detect good*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*  
 **Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*charm person* (DC 14), *color spray* (DC 14)  
-0 (at will)—*daze* (DC 13), *detect magic*, *read magic*, *resistance*
+1st (4/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[color spray* ](../../magic/spells/color-spray.md)(DC 14)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

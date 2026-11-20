@@ -23,10 +23,10 @@ LN Large construct (automaton, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** energy beam (60-ft. line or 30-ft. cone, DC 18, 8d6, usable every 1d4 rounds)  
 **Spell-Like Abilities** (CL 13th; concentration +17)  
-Constant—*see invisibility*  
-At will—*force hook charge*, *shatter* (DC 16)  
-3/day—*fly*, *mirror image*  
-1/day—*haste*, *plane shift* (self plus 50 lbs. of objects only)
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[force hook charge](../../magic/spells/force-hook-charge.md)*, *[shatter](../../magic/spells/shatter.md)* (DC 16)  
+3/day—*[fly](../../magic/spells/fly.md)*, *[mirror image](../../magic/spells/mirror-image.md)*  
+1/day—*[haste](../../magic/spells/haste.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (self plus 50 lbs. of objects only)
 
 **Statistics**
 

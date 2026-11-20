@@ -23,10 +23,10 @@ CE Colossal outsider (chaotic, evil, extraplanar)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** rock throwing (200 ft.), stunning slam  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*air walk*, *spell turning*, *true seeing*  
-At will—*bestow curse* (DC 21), *break enchantment*, *chain lightning* (DC 23), *greater dispel magic*, *find the path*, *sending*  
-3/day—*greater scrying* (DC 24), *heal*, *mass suggestion* (DC 23)  
-1/day—*dominate monster* (DC 26), *greater spell immunity*, *imprisonment* (DC 26), *storm of vengeance* (DC 26)
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[spell turning](../../magic/spells/spell-turning.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 21), *[break enchantment](../../magic/spells/break-enchantment.md)*, *[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 23), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[find the path](../../magic/spells/find-the-path.md)*, *[sending](../../magic/spells/sending.md)*  
+3/day—*[greater scrying* ](../../magic/spells/scrying-greater.md)(DC 24), *[heal](../../magic/spells/heal.md)*, *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 23)  
+1/day—*[dominate monster* ](../../magic/spells/dominate-monster.md)(DC 26), *[greater spell immunity](../../magic/spells/spell-immunity-greater.md)*, *[imprisonment* ](../../magic/spells/imprisonment.md)(DC 26), *[storm of vengeance* ](../../magic/spells/storm-of-vengeance.md)(DC 26)
 
 **Statistics**
 

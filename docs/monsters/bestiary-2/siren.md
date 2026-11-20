@@ -21,7 +21,7 @@ CN Medium magical beast
 **Melee** 2 talons +11 (1d6)  
 **Special Attacks** bardic performance, siren’s song, sneak attack +2d6  
 **Spell-Like Abilities** (CL 7th; concentration +12)  
-3/day—*cause fear* (DC 16), *charm person* (DC 16), *deep slumber* (DC 18), *shout* (DC 19)
+3/day—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 16), *[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 18), *[shout* ](../../magic/spells/shout.md)(DC 19)
 
 **Statistics**
 

@@ -23,10 +23,10 @@ LE Gargantuan humanoid (giant)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** command giants, runes, spark shower  
 **Spell-Like Abilities** (CL 20th; concentration +24)  
-Constant—*air walk*  
-At will—*charm person* (DC 15), *suggestion* (DC 17)  
-3/day—*mass charm monster* (DC 22), *dominate person* (DC 19)  
-1/day—*demand* (DC 22), *true seeing*
+Constant—*[air walk](../../magic/spells/air-walk.md)*  
+At will—*[charm person* ](../../magic/spells/charm-person.md)(DC 15), *[suggestion* ](../../magic/spells/suggestion.md)(DC 17)  
+3/day—*[mass charm monster* ](../../magic/spells/charm-monster-mass.md)(DC 22), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 19)  
+1/day—*[demand* ](../../magic/spells/demand.md)(DC 22), *[true seeing](../../magic/spells/true-seeing.md)*
 
 **Statistics**
 

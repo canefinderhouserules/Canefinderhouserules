@@ -21,8 +21,8 @@ LN Medium humanoid (human)
 **Melee** quarterstaff +0 (1d6)  
 **Ranged**  dart +2 (1d4)  
 **Sorcerer Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*color spray* (DC 14), *magic missile*  
-0 (at will)—*daze* (DC 13), *detect magic*, *ray of frost*, *read magic*  
+1st (4/day)—*[color spray* ](../../magic/spells/color-spray.md)(DC 14), *[magic missile](../../magic/spells/magic-missile.md)*  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** arcane
 
 **Tactics**

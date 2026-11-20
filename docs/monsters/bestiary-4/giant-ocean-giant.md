@@ -23,9 +23,9 @@ CG or CE Huge humanoid (aquatic, giant)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** conch focus, rock throwing (110 ft.)  
 **Spell-Like Abilities** (CL 14th; concentration +18)  
-Constant—*freedom of movement*  
-3/day—*aqueous orb* (DC 17), *control winds* (DC 19), *shout* (DC 18), *summon nature’s ally VII* (swimming creatures only), *water breathing*  
-1/day—*vortex* (DC 20)
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+3/day—*[aqueous orb](../../magic/spells/aqueous-orb.md)* (DC 17), *[control winds](../../magic/spells/control-winds.md)* (DC 19), *[shout](../../magic/spells/shout.md)* (DC 18), *[summon nature’s ally VII](../../magic/spells/summon-natures-ally-vii.md)* (swimming creatures only), *[water breathing](../../magic/spells/water-breathing.md)*  
+1/day—*[vortex](../../magic/spells/vortex.md)* (DC 20)
 
 **Statistics**
 

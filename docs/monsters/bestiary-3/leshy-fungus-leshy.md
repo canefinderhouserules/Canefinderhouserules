@@ -22,7 +22,7 @@ N Small plant (leshy, shapechanger)
 **Ranged**  puffball +4 (1 plus spores)  
 **Special Attacks** spores  
 **Spell-Like Abilities** (CL 4th; concentration +6)  
-Constant—*pass without trace*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*
 
 **Statistics**
 

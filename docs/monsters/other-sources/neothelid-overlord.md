@@ -23,11 +23,11 @@ CE Gargantuan aberration
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** breath weapon (50-ft. cone, 18d10 acid, Reflex DC 34 half, once every 1d4 rounds), coordinated attacks, swallow whole (2d6+12 plus 2d6 acid, AC 24, hp 40)  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*fly*  
-At will—*clairvoyance/clairaudience*, *detect thoughts* (DC 19), *mass charm monster* (DC 25), *mass suggestion* (DC 23), *poison* (DC 20), *telekinesis*, *teleport*  
-3/day—quickened *mass suggestion* (DC 23)  
+Constant—*[fly](../../magic/spells/fly.md)*  
+At will—*clairvoyance/clairaudience*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 19), *[mass charm monster](../../magic/spells/charm-monster-mass.md)* (DC 25), *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 23), *[poison](../../magic/spells/poison.md)* (DC 20), *[telekinesis](../../magic/spells/telekinesis.md)*, *[teleport](../../magic/spells/teleport.md)*  
+3/day—quickened *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 23)  
 **Psychic Magic** (CL 20th; concentration +27)  
-27 PE—*demand offering* (2 PE, DC 19), *ego whip V* (6 PE, DC 23), *id insinuation IV* (5 PE, DC 22), *mass inflict pain* (6 PE, DC 23), *mind thrust VI* (6 PE, DC 23), *psychic crush V* (9 PE, DC 26), *telekinetic storm* (9 PE, DC 26)
+27 PE—*[demand offering](../../magic/spells/demand-offering.md)* (2 PE, DC 19), *[ego whip V](../../magic/spells/ego-whip-v.md)* (6 PE, DC 23), *[id insinuation IV](../../magic/spells/id-insinuation-iv.md)* (5 PE, DC 22), *[mass inflict pain](../../magic/spells/inflict-pain-mass.md)* (6 PE, DC 23), *[mind thrust VI](../../magic/spells/mind-thrust-vi.md)* (6 PE, DC 23), *[psychic crush V](../../magic/spells/psychic-crush-v.md)* (9 PE, DC 26), *[telekinetic storm](../../magic/spells/telekinetic-storm.md)* (9 PE, DC 26)
 
 **Statistics**
 

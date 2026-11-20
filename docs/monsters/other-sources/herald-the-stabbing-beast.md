@@ -22,9 +22,9 @@ NE Medium outsider (evil, extraplanar, herald, shapechanger)
 **Ranged**  poison stream +29 touch (blindness 1d4+1 rounds)  
 **Special Attacks** bleed (2d6), poison, sudden strike  
 **Spell-Like Abilities** (CL 17th; concentration +19)  
-Constant—*see invisibility*  
-At will—*absorbing touch*, *alchemical allocation*, *charm person* (DC 13), *keen edge*, *poison* (DC 16), *true strike*  
-3/day—*false alibi* (DC 15), *greater teleport* (self plus 50 lbs. of objects only), *invisibility*, *modify memory* (DC 16), *suggestion* (DC 15), summon
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[absorbing touch](../../magic/spells/absorbing-touch.md)*, *[alchemical allocation](../../magic/spells/alchemical-allocation.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 13), *[keen edge](../../magic/spells/keen-edge.md)*, *[poison* ](../../magic/spells/poison.md)(DC 16), *[true strike](../../magic/spells/true-strike.md)*  
+3/day—*[false alibi* ](../../magic/spells/false-alibi.md)(DC 15), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[invisibility](../../magic/spells/invisibility.md)*, *[modify memory* ](../../magic/spells/modify-memory.md)(DC 16), *[suggestion* ](../../magic/spells/suggestion.md)(DC 15), summon
 
 **Statistics**
 

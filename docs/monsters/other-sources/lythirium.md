@@ -23,10 +23,10 @@ NG Large plant
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** powerful charge (gore, 4d8+13), rampant growth  
 **Spell-Like Abilities** (CL 13th; concentration +15)  
-Constant—*speak with plants*  
-At will—*detect evil*  
-3/day—*command plants* (DC 16)  
-1/day—*tree stride*, *wall of thorns*
+Constant—*[speak with plants](../../magic/spells/speak-with-plants.md)*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
+3/day—*[command plants](../../magic/spells/command-plants.md)* (DC 16)  
+1/day—*[tree stride](../../magic/spells/tree-stride.md)*, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*
 
 **Statistics**
 

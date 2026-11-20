@@ -26,7 +26,7 @@ bleed and grab)
 **Special Attacks** murderous claws, pounce, rake (2 claws +16,
 1d8+7 plus 1d6 bleed)  
 **Spell-Like Abilities** (CL 9th; concentration +9)  
-Constant—*feather step*  
+Constant—*[feather step](../../magic/spells/feather-step.md)*  
 
 At will—*chameleon stride, pass without trace*
 

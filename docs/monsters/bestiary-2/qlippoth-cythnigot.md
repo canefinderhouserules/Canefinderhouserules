@@ -22,9 +22,9 @@ CE Tiny outsider (chaotic, evil, extraplanar, qlippoth)
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** horrific appearance (10 feet, DC 9)  
 **Spell-Like Abilities** (CL 6th, concentration +4)  
-Constant—*detect law*, *detect magic*, *fly*  
-1/day—*soften earth and stone*, *warp wood*  
-1/week—*commune* (six questions)
+Constant—*[detect law](../../magic/spells/detect-law.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[fly](../../magic/spells/fly.md)*  
+1/day—*[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*, *[warp wood](../../magic/spells/warp-wood.md)*  
+1/week—*[commune* ](../../magic/spells/commune.md)(six questions)
 
 **Statistics**
 

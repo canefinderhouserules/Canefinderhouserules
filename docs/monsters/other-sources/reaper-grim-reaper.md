@@ -22,10 +22,10 @@ NE Large undead (evil, extraplanar, incorporeal)
 **Melee** *+3 scythe* +27/+22/+17/+12 (2d6+13/19–20/×4 plus death touch)  
 **Space** 10 ft., **Reach** 15 ft.  
 **Spell-Like Abilities** (CL 20th; concentration +29)  
-Constant—*fly*, *foresight*, *true seeing*  
-At will—*circle of death* (DC 25), *control undead* (DC 26), *invisibility*, *plane shift* (DC 26), *polymorph*  
-3/day—*energy drain* (DC 28), *finger of death* (DC 26), *soul bind* (DC 28), summon minor reapers (level 8, 1d4 minor reapers), *unwilling shield* (DC 25)  
-1/day—quickened *destruction* (DC 26), *wail of the banshee* (DC 28)
+Constant—*[fly](../../magic/spells/fly.md)*, *[foresight](../../magic/spells/foresight.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[circle of death* ](../../magic/spells/circle-of-death.md)(DC 25), *[control undead* ](../../magic/spells/control-undead.md)(DC 26), *[invisibility](../../magic/spells/invisibility.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(DC 26), *[polymorph](../../magic/spells/polymorph.md)*  
+3/day—*[energy drain* ](../../magic/spells/energy-drain.md)(DC 28), *[finger of death* ](../../magic/spells/finger-of-death.md)(DC 26), *[soul bind* ](../../magic/spells/soul-bind.md)(DC 28), summon minor reapers (level 8, 1d4 minor reapers), *[unwilling shield* ](../../magic/spells/unwilling-shield.md)(DC 25)  
+1/day—quickened *[destruction* ](../../magic/spells/destruction.md)(DC 26), *[wail of the banshee* ](../../magic/spells/wail-of-the-banshee.md)(DC 28)
 
 **Statistics**
 

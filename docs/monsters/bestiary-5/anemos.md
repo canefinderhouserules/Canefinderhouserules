@@ -23,9 +23,9 @@ N Medium outsider (air, elemental, extraplanar)
 **Ranged**  thunderstorm blast +32 (20d6+30/19-20 bludgeoning) or electric blast +32 touch (10d6+5/19-20 electricity) or air blast +32 (10d6+20/19-20 half bludgeoning and half electricity)  
 **Special Attacks** aerokinesis, infusions (chain, cloud, cyclone, extreme range, gusting infusion, pushing infusion, thundering infusion), manifest thunderbolt, wind orchestra  
 **Spell-Like Abilities** (CL 20th; concentration +30)  
-Constant—*fickle winds*, *freedom of movement*  
-At will—*control weather*, *control winds*  
-1/day—*storm of vengeance* (DC 29), *summon monster* IX (1d3 elder air elementals only)
+Constant—*[fickle winds](../../magic/spells/fickle-winds.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+At will—*[control weather](../../magic/spells/control-weather.md)*, *[control winds](../../magic/spells/control-winds.md)*  
+1/day—*[storm of vengeance](../../magic/spells/storm-of-vengeance.md)* (DC 29), *summon monster* IX (1d3 elder air elementals only)
 
 **Statistics**
 

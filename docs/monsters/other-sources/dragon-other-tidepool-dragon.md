@@ -22,11 +22,11 @@ CN Tiny dragon (aquatic)
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** breath weapon (5-ft. line, 2d6 fire damage, Reflex DC 13 for half, usable every 1d4 rounds)  
 **Spell-Like Abilities** (CL 4th; concentration +6)  
-3/day—*freedom of movement* (self only)  
+3/day—*[freedom of movement* ](../../magic/spells/freedom-of-movement.md)(self only)  
 **Spells Known** (caster level 4th; concentration +6)  
-2nd (4/day)—*slipstream*  
-1st (7/day)—*hydraulic push*, *obscuring mist*  
-0 (at will)—*acid splash*, *dancing lights*, *daze* (DC 12), *detect poison*, *mage hand*, *touch of fatigue* (DC 12)
+2nd (4/day)—*[slipstream](../../magic/spells/slipstream.md)*  
+1st (7/day)—*[hydraulic push](../../magic/spells/hydraulic-push.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 12), *[detect poison](../../magic/spells/detect-poison.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 12)
 
 **Statistics**
 

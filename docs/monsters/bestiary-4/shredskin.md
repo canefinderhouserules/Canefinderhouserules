@@ -21,8 +21,8 @@ NE Small undead
 **Melee** bite +6 (1d4), 2 claws +6 (1d4 plus grab)  
 **Special Attacks** constrict (1d4), control body, enshroud, grab (Medium)  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-Constant—*detect undead*  
-1/day—*command undead* (DC 13)
+Constant—*[detect undead](../../magic/spells/detect-undead.md)*  
+1/day—*[command undead](../../magic/spells/command-undead.md)* (DC 13)
 
 **Statistics**
 

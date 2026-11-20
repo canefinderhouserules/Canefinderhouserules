@@ -23,10 +23,10 @@ NE Large outsider (aquatic, daemon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** rake (2 claws +13, 1d6+4)  
 **Spell-Like Abilities** (CL 9th; concentration +11)  
-Constant—*detect magic*, *water walk*  
-At will—*acid arrow*, *deeper darkness*  
-3/day—*control water*, *greater teleport* (self plus 50 lbs. of objects only), *summon monster V* (Large water elemental only)  
-1/day—*desecrate*, summon (level 3, 1 hydrodaemon 50%)
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[water walk](../../magic/spells/water-walk.md)*  
+At will—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*  
+3/day—*[control water](../../magic/spells/control-water.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[summon monster V](../../magic/spells/summon-monster-v.md)* (Large water elemental only)  
+1/day—*[desecrate](../../magic/spells/desecrate.md)*, summon (level 3, 1 hydrodaemon 50%)
 
 **Statistics**
 

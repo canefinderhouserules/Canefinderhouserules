@@ -23,7 +23,7 @@ N Gargantuan magical beast
 **Ranged**  thunderbolt +13 ranged touch (6d6 electricity and 6d6 sonic)  
 **Space** 20 ft., **Reach** 20 ft.  
 **Spell-Like Abilities** (CL 11th; concentration +12)  
-At will—*control weather*
+At will—*[control weather](../../magic/spells/control-weather.md)*
 
 **Statistics**
 

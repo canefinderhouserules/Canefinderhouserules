@@ -22,8 +22,8 @@ N Medium outsider (extraplanar, psychopomp)
 **Melee** 2 slams +6 (1d8)  
 **Special Attacks** compel condemned, kiss of death  
 **Spell-Like Abilities** (CL 6th; concentration +10)  
-At will—*dancing lights*, *death watch*, *greater teleport* (self plus 50 lbs. of objects only), *invisibility* (self only), *speak with dead*  
-3/day—*major image* (DC 20)
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *death watch*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[invisibility](../../magic/spells/invisibility.md)* (self only), *[speak with dead](../../magic/spells/speak-with-dead.md)*  
+3/day—*[major image](../../magic/spells/major-image.md)* (DC 20)
 
 **Statistics**
 

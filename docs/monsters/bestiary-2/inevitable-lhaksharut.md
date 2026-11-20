@@ -24,10 +24,10 @@ LN Huge outsider (extraplanar, inevitable, lawful)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** cunning reflexes, multiweapon mastery, perfect prediction, wounding weapons  
 **Spell-Like Abilities** (CL 22th; concentration +27)  
-Constant—*detect chaos*, *detect magic*, *shield of law* (DC 23), *true seeing*  
-At will—*dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *sending*  
-3/day—*dictum* (DC 22), *dimensional anchor* (DC 19), *dimensional lock* (DC 23), *disintegrate* (DC 21), *dismissal* (DC 20), *greater scrying* (DC 22), *plane shift* (DC 20), *wall of force*  
-1/day—*imprisonment* (DC 24)
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[shield of law* ](../../magic/spells/shield-of-law.md)(DC 23), *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[sending](../../magic/spells/sending.md)*  
+3/day—*[dictum* ](../../magic/spells/dictum.md)(DC 22), *[dimensional anchor* ](../../magic/spells/dimensional-anchor.md)(DC 19), *[dimensional lock* ](../../magic/spells/dimensional-lock.md)(DC 23), *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 21), *[dismissal* ](../../magic/spells/dismissal.md)(DC 20), *[greater scrying* ](../../magic/spells/scrying-greater.md)(DC 22), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 20), *[wall of force](../../magic/spells/wall-of-force.md)*  
+1/day—*[imprisonment* ](../../magic/spells/imprisonment.md)(DC 24)
 
 **Statistics**
 

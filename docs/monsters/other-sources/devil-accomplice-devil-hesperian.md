@@ -20,10 +20,10 @@ LE Medium outsider (devil, evil, extraplanar, lawful, shapechanger)
 **Speed** 30 ft., climb 20 ft., swim 20 ft.  
 **Melee** 2 bites +7 (1d6+1 plus poison) (amphisbaena form only) or heavy mace +7/+2 (1d8+1) (natural form only)  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-Constant—*detect good*  
-At will—*guidance*, *hypnotism* (DC 13), *light*, *message*, *prestidigitation*, *read magic*  
-3/day—*beguiling gift* (DC 13), *burning hands* (DC 13), *darkness*, *daylight*, *greater teleport* (self plus 50 lbs. of objects only)  
-1/day—*charm person* (DC 13), *eagle’s splendor*, *suggestion* (DC 15)
+Constant—*[detect good](../../magic/spells/detect-good.md)*  
+At will—*[guidance](../../magic/spells/guidance.md)*, *[hypnotism* ](../../magic/spells/hypnotism.md)(DC 13), *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*  
+3/day—*[beguiling gift](../../magic/spells/beguiling-gift.md)* (DC 13), *[burning hands* ](../../magic/spells/burning-hands.md)(DC 13), *[darkness](../../magic/spells/darkness.md)*, *[daylight](../../magic/spells/daylight.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)  
+1/day—*[charm person* ](../../magic/spells/charm-person.md)(DC 13), *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 15)
 
 **Statistics**
 

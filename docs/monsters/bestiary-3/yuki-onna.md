@@ -23,8 +23,8 @@ LE Medium undead (cold, incorporeal)
 **Melee** 2 touches +10 (4d6 cold plus chilling touch)  
 **Special Attacks** chilling touch, fascinating gaze  
 **Spell-Like Abilities** (CL 10th; concentration +16)  
-Constant—*blur*  
-3/day—*cone of cold* (DC 21), *eyebite* (comatose and panicked only, DC 22), *ice storm*
+Constant—*[blur](../../magic/spells/blur.md)*  
+3/day—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 21), *[eyebite* ](../../magic/spells/eyebite.md)(comatose and panicked only, DC 22), *[ice storm](../../magic/spells/ice-storm.md)*
 
 **Statistics**
 

@@ -24,15 +24,15 @@ LE Huge dragon (fire)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** adamantine claws, breath weapon (100-ft. line, 20d6 fire damage, DC 28), crush (DC 28, 2d8+12)  
 **Spell-Like Abilities** (CL 22nd; concentration +27)  
-At will—*repel metal or stone*, *soften earth and stone*, *spike stones* (DC 19), *stone shape*, *wall of stone*  
+At will—*[repel metal or stone](../../magic/spells/repel-metal-or-stone.md)*, *[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*, *[spike stones* ](../../magic/spells/spike-stones.md)(DC 19), *[stone shape](../../magic/spells/stone-shape.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
 **Spells Known** (CL 13th; concentration +18)  
-6th (4/day)—*disintegrate* (DC 21), *flesh to stone* (DC 21)  
-5th (7/day)—*passwall*, *transmute rock to mud*, *waves of fatigue*  
-4th (7/day)—*enervation*, *shout* (DC 19), *solid fog*, *stone shape*  
-3rd (7/day)—*displacement*, *fireball* (DC 18), *protection from good*, *rage*, *slow*  
-2nd (7/day)—*acid arrow*, *daze monster* (DC 17), *flaming sphere* (DC 17), *scorching ray*  
-1st (8/day)—*burning hands* (DC 16), *cause fear* (DC 16), *magic missile*, *ray of enfeeblement* (DC 16), *true strike*  
-0 (at will)—*acid splash*, *bleed* (DC 15), *detect magic*, *flare* (DC 15), *ghost sound*, *mage hand*, *read magic*, *resistance*, *touch of fatigue* (DC 15)
+6th (4/day)—*[disintegrate* ](../../magic/spells/disintegrate.md)(DC 21), *[flesh to stone* ](../../magic/spells/flesh-to-stone.md)(DC 21)  
+5th (7/day)—*[passwall](../../magic/spells/passwall.md)*, *[transmute rock to mud](../../magic/spells/transmute-rock-to-mud.md)*, *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*  
+4th (7/day)—*[enervation](../../magic/spells/enervation.md)*, *[shout* ](../../magic/spells/shout.md)(DC 19), *[solid fog](../../magic/spells/solid-fog.md)*, *[stone shape](../../magic/spells/stone-shape.md)*  
+3rd (7/day)—*[displacement](../../magic/spells/displacement.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 18), *[protection from good](../../magic/spells/protection-from-good.md)*, *[rage](../../magic/spells/rage.md)*, *[slow](../../magic/spells/slow.md)*  
+2nd (7/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[daze monster* ](../../magic/spells/daze-monster.md)(DC 17), *[flaming sphere* ](../../magic/spells/flaming-sphere.md)(DC 17), *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (8/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 16), *[cause fear* ](../../magic/spells/cause-fear.md)(DC 16), *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 16), *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 15), *[ghost sound](../../magic/spells/ghost-sound.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 15)
 
 **Statistics**
 

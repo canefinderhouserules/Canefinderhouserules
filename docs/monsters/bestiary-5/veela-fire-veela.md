@@ -24,7 +24,7 @@ mwk dagger +13/+8 (1d4+5/19–20 plus 2d6 fire) or
 2 slams +14 (1d4+5 plus 2d6 fire)  
 **Special Attacks** beckoning dance, elemental veil  
 **Spell-Like Abilities** (CL 9th; concentration +14)  
-At will—*resist energy* (fire only), *scorching ray*  
+At will—*[resist energy](../../magic/spells/resist-energy.md)* (fire only), *[scorching ray](../../magic/spells/scorching-ray.md)*  
 
 3/day—*cure serious wounds, suggestion* (DC 18)  
 

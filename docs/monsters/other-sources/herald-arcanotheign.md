@@ -22,10 +22,10 @@ N Medium outsider (herald, incorporeal)
 **Melee** 2 incorporeal touches +25 (4d6 plus energy channel)  
 **Ranged**  2 eldritch blasts +25 touch (4d6 plus special)  
 **Spell-Like Abilities** (CL 17th; concentration +25)  
-Constant—*arcane sight*, *protection from chaos/evil/good/law*  
-At will—*clairaudience/clairvoyance*, *greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*cloudkill* (DC 23), *cure critical wounds*, *lightning bolt* (DC 21), *telekinesis* (DC 23)  
-1/day—*harm* (DC 24), *heal*, *limited wish* (DC 25), *plane shift* (DC 25)
+Constant—*[arcane sight](../../magic/spells/arcane-sight.md)*, *protection from chaos/evil/good/law*  
+At will—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)  
+3/day—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 23), *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 21), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 23)  
+1/day—*[harm* ](../../magic/spells/harm.md)(DC 24), *[heal](../../magic/spells/heal.md)*, *[limited wish* ](../../magic/spells/limited-wish.md)(DC 25), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 25)
 
 **Statistics**
 

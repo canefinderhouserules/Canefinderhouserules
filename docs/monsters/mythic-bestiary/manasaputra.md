@@ -25,16 +25,16 @@ LG Large outsider (extraplanar, good, lawful, manasaputra, mythic)
 **Special Attacks** disintegration rays, mythic power (8/day,
 surge +1d10), radiant transformation (DC 30)  
 **Spell-Like Abilities** (CL 20th; concentration +29; Wisdom-based)  
-Constant—*true seeing*  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
 
-At will—*greater teleport* (self only), *plane shift<sup>M</sup>* (self only)  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self only), *plane shift<sup>M</sup>* (self only)  
 
-1/day—*miracle* (DC 28), *true resurrection, wish<sup>M</sup>* (DC 28)  
+1/day—*[miracle](../../magic/spells/miracle.md)* (DC 28), *true resurrection, wish<sup>M</sup>* (DC 28)  
 **Psychic Magic** (CL 20th; concentration +29; Wisdom-based)  
-36 PE—*awaken construct* (6 PE, DC 25), *divide mind*
-(9 PE), *ego whip V* (7 PE, DC 26), *greater create
-mindscape* (6 PE, DC 25), *mindscape door* (5 PE, DC 24),
-*retrocognition* (5 PE)  
+36 PE—*[awaken construct](../../magic/spells/awaken-construct.md)* (6 PE, DC 25), *[divide mind](../../magic/spells/divide-mind.md)*
+(9 PE), *[ego whip V](../../magic/spells/ego-whip-v.md)* (7 PE, DC 26), *greater create
+mindscape* (6 PE, DC 25), *[mindscape door](../../magic/spells/mindscape-door.md)* (5 PE, DC 24),
+*[retrocognition](../../magic/spells/retrocognition.md)* (5 PE)  
 
 **M** mythic spell-like ability
 

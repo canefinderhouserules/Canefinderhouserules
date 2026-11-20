@@ -21,7 +21,7 @@ LE Medium outsider (native, rakshasa, shapechanger)
 **Melee** 4 claws +21 (1d6+6 plus grab)  
 **Special Attacks** corporeal possession, detect thoughts (DC 21)  
 **Psychic Magic** (CL 12th; concentration +16)  
-20 PE—*detect magic* (0 PE), *dimension door* (4 PE), *dispel magic* (3 PE), *displacement* (3 PE), *dominate person* (5 PE, DC 19), *ego whip III* (5 PE, DC 19), *expeditious retreat* (1 PE), *greater invisibility* (4 PE), *mage hand* (0 PE), *mind thrust V* (5 PE, DC 19), *misdirection* (2 PE, DC 16), *psychic crush I* (5 PE, DC 19), *ray of enfeeblement* (1 PE, DC 15), *see invisibility* (2 PE), *spider climb* (2 PE), *telekinesis* (5 PE, DC 19)
+20 PE—*[detect magic](../../magic/spells/detect-magic.md)* (0 PE), *[dimension door](../../magic/spells/dimension-door.md)* (4 PE), *[dispel magic](../../magic/spells/dispel-magic.md)* (3 PE), *[displacement](../../magic/spells/displacement.md)* (3 PE), *[dominate person](../../magic/spells/dominate-person.md)* (5 PE, DC 19), *[ego whip III](../../magic/spells/ego-whip-iii.md)* (5 PE, DC 19), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)* (1 PE), *[greater invisibility](../../magic/spells/invisibility-greater.md)* (4 PE), *[mage hand](../../magic/spells/mage-hand.md)* (0 PE), *[mind thrust V](../../magic/spells/mind-thrust-v.md)* (5 PE, DC 19), *[misdirection](../../magic/spells/misdirection.md)* (2 PE, DC 16), *[psychic crush I](../../magic/spells/psychic-crush-i.md)* (5 PE, DC 19), *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (1 PE, DC 15), *[see invisibility](../../magic/spells/see-invisibility.md)* (2 PE), *[spider climb](../../magic/spells/spider-climb.md)* (2 PE), *[telekinesis](../../magic/spells/telekinesis.md)* (5 PE, DC 19)
 
 **Statistics**
 

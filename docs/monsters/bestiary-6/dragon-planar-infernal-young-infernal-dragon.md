@@ -25,7 +25,7 @@ effects, paralysis, sleep
 **Special Attacks** breath weapon (80-ft. line, 6d10 hellfire
 damage, Reflex DC 21 half), oppressive heat  
 **Oracle Spells Known** (CL 1st; concentration +4)  
-1st (4)—*bane* (DC 14), *command* (DC 14)  
+1st (4)—*[bane](../../magic/spells/bane.md)* (DC 14), *[command](../../magic/spells/command.md)* (DC 14)  
 0 (at will)—*detect magic, guidance, read magic, spark* (DC 13)
 
 **Statistics**

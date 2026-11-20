@@ -23,7 +23,7 @@ N Huge construct (clockwork)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** adamantine weapons, breath weapon (100-ft. line, 14d6 fire damage, Reflex DC 22 half, usable every 1d4 rounds), self-destruction, storm blast  
 **Spell-Like Abilities** (CL 25th; concentration +20)  
-Constant—*see invisibility*
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*
 
 **Statistics**
 

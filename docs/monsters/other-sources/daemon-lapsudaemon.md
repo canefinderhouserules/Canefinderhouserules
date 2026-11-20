@@ -22,9 +22,9 @@ NE Medium outsider (daemon, evil, extraplanar)
 **Melee** slam +23 (2d6+6 plus momentum/19–20 and grab)  
 **Special Attacks** momentum, must come down (DC 22)  
 **Spell-Like Abilities** (CL 14th; concentration +16)  
-At will—*greater teleport* (self plus 50 pounds only)  
-3/day—quickened *gust of wind* (DC 15), *reverse gravity*  
-1/day—*fickle winds*, summon
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 pounds only)  
+3/day—quickened *[gust of wind](../../magic/spells/gust-of-wind.md)* (DC 15), *[reverse gravity](../../magic/spells/reverse-gravity.md)*  
+1/day—*[fickle winds](../../magic/spells/fickle-winds.md)*, summon
 
 **Statistics**
 

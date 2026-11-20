@@ -22,9 +22,9 @@ LE Large outsider (evil, extraplanar, kyton, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** bleed (1d6), poison, rend (2 claws, 1d8+7), surgical strikes, unnerving gaze (30 ft.; DC 22)  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
-At will—*bleed* (DC 15), *plane shift* (from the Material Plane to the Plane of Shadow Plane, self only), *stabilize*  
-3/day—*cure serious wounds*, *restoration*  
-1/day—*breath of life*
+At will—*[bleed* ](../../magic/spells/bleed.md)(DC 15), *[plane shift* ](../../magic/spells/plane-shift.md)(from the Material Plane to the Plane of Shadow Plane, self only), *[stabilize](../../magic/spells/stabilize.md)*  
+3/day—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[restoration](../../magic/spells/restoration.md)*  
+1/day—*[breath of life](../../magic/spells/breath-of-life.md)*
 
 **Statistics**
 

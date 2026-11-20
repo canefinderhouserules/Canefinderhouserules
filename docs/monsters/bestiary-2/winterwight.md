@@ -23,10 +23,10 @@ CE Medium undead (cold)
 **Melee** bite +30 (2d8+15 plus blightfire), 2 claws +30 (2d6+15 plus blightfire)  
 **Special Attacks** rend (2 claws 2d8+22)  
 **Spell-Like Abilities** (CL 17th; concentration +26)  
-Constant—*air walk*  
-At will—*cone of cold* (DC 24), *dimension door*, *greater dispel magic*, *sleet storm*, *wall of ice*  
-3/day—*polar ray*  
-1/day—*control weather*
+Constant—*[air walk](../../magic/spells/air-walk.md)*  
+At will—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 24), *[dimension door](../../magic/spells/dimension-door.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[sleet storm](../../magic/spells/sleet-storm.md)*, *[wall of ice](../../magic/spells/wall-of-ice.md)*  
+3/day—*[polar ray](../../magic/spells/polar-ray.md)*  
+1/day—*[control weather](../../magic/spells/control-weather.md)*
 
 **Statistics**
 

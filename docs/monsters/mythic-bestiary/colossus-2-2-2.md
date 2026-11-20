@@ -24,8 +24,8 @@ N Colossal construct (colossus, mythic)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** mythic power (7/day, surge +1d10), mythic quickening, pinning stomp  
 **Spell-Like Abilities** (CL 15th; concentration +16)  
-3/day—*wall of stone* (DC 16)  
-1/day—*repulsion* (DC 17)
+3/day—*[wall of stone* ](../../magic/spells/wall-of-stone.md)(DC 16)  
+1/day—*[repulsion* ](../../magic/spells/repulsion.md)(DC 17)
 
 **Statistics**
 

@@ -23,15 +23,15 @@ poison; **Resist** cold 10, electricity 10, fire 10; **SR** 16
 **Special Attacks** swallow soul  
 **Spell-Like Abilities** (CL 6th;
 concentration +9)  
-Constant—*arcane sight*  
+Constant—*[arcane sight](../../magic/spells/arcane-sight.md)*  
 At will—*command cacodaemon* (DC 18)  
 3/day—*dimension door, dispel magic, slow* (DC 16)  
 1/day—*summon* (level 3, 1 venedaemon 50% or 2d4 cacodaemons 70%)  
 **Sorcerer Spells Known** (CL 6th;
 concentration +9)  
-3rd (4)—*hold person* (DC 16)  
+3rd (4)—*[hold person](../../magic/spells/hold-person.md)* (DC 16)  
 2nd (6)—*invisibility, scorching ray*  
-1st (7)—*charm person* (DC 14), *mage armor, magic missile, shield*  
+1st (7)—*[charm person](../../magic/spells/charm-person.md)* (DC 14), *mage armor, magic missile, shield*  
 0 (at will)—*acid splash, arcane mark, bleed* (DC 13), *mage hand, prestidigitation, ray of frost, read magic*
 
 **Statistics**

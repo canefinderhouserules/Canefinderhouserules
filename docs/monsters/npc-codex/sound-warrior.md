@@ -24,16 +24,16 @@ N Small humanoid (halfling)
 **Spell-Like Abilities** (CL 4th; concentration +6)  
 5/day—lightning arc (1d6+2 electricity)  
 **Bard Spells Known** (CL 9th; concentration +14)  
-3rd (4/day)—*charm monster* (DC 20), *displacement*, *haste*, *sculpt sound*  
-2nd (5/day)—*hold person* (DC 19), *scare* (DC 17), *shatter*, *sound burst* (DC 17)  
-1st (7/day)—*alarm*, *cause fear* (DC 16), *charm person* (DC 18), *remove fear*, *ventriloquism* (DC 16)  
-0 (at will)—*ghost sound* (DC 15), *know direction*, *light*, *mage hand*, *message*, *resistance*  
+3rd (4/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 20), *[displacement](../../magic/spells/displacement.md)*, *[haste](../../magic/spells/haste.md)*, *[sculpt sound](../../magic/spells/sculpt-sound.md)*  
+2nd (5/day)—*[hold person* ](../../magic/spells/hold-person.md)(DC 19), *[scare* ](../../magic/spells/scare.md)(DC 17), *[shatter](../../magic/spells/shatter.md)*, *[sound burst* ](../../magic/spells/sound-burst.md)(DC 17)  
+1st (7/day)—*[alarm](../../magic/spells/alarm.md)*, *[cause fear* ](../../magic/spells/cause-fear.md)(DC 16), *[charm person* ](../../magic/spells/charm-person.md)(DC 18), *[remove fear](../../magic/spells/remove-fear.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 16)  
+0 (at will)—*[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 15), *[know direction](../../magic/spells/know-direction.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **Druid Spells Prepared** (CL 8th; concentration +10)  
-4th—*air walk*<sup>D</sup>, *cure serious wounds*, *freedom of movement*  
-3rd—*call lightning* (DC 15), *cure moderate wounds*, *gaseous form*<sup>D</sup>, *neutralize poison*  
-2nd—*barkskin*, *cat’s grace*, *delay poison*, *lesser restoration*, *wind wall*<sup>D</sup>  
-1st—*cure light wounds*, *faerie fire*, *goodberry*, *longstrider*, *obscuring mist*<sup>D</sup>, *pass without trace*  
-0 (at will)—*create water*, *detect poison*, *mending*, *stabilize*  
+4th—*[air walk](../../magic/spells/air-walk.md)*<sup>D</sup>, *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+3rd—*[call lightning* ](../../magic/spells/call-lightning.md)(DC 15), *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[gaseous form](../../magic/spells/gaseous-form.md)*<sup>D</sup>, *[neutralize poison](../../magic/spells/neutralize-poison.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*, *[delay poison](../../magic/spells/delay-poison.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[wind wall](../../magic/spells/wind-wall.md)*<sup>D</sup>  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*, *[goodberry](../../magic/spells/goodberry.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*<sup>D</sup>, *[pass without trace](../../magic/spells/pass-without-trace.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[mending](../../magic/spells/mending.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domains** Air
 
 **Tactics**

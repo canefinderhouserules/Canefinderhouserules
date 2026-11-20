@@ -23,7 +23,7 @@ N Gargantuan construct
 **Space** 20 ft., **Reach** 5 ft.  
 **Special Attacks** soul-powered, vicious trample (8d6+38 plus *wounding*, DC 30)  
 **Spell-Like Abilities** (CL 15th; concentration +10)  
-3/day—*enervation*
+3/day—*[enervation](../../magic/spells/enervation.md)*
 
 **Statistics**
 

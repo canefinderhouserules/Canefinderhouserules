@@ -21,15 +21,15 @@ CG Large outsider (native)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** breath weapon (15-ft. cone, 8d6 fire, Reflex DC 19 half, usable every 1d6 rounds), constrict (1d8+6), poison  
 **Spell-Like Abilities** (CL 10th; concentration +10)  
-Constant—*detect chaos*, *detect evil*, *detect good*, *detect law*  
-At will—*detect thoughts* (DC 15), *invisibility*, *plane shift* (self plus 50 lbs. of objects only)  
-1/day—*modify memory* (DC 17)  
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 15), *[invisibility](../../magic/spells/invisibility.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (self plus 50 lbs. of objects only)  
+1/day—*[modify memory](../../magic/spells/modify-memory.md)* (DC 17)  
 **Spells Known** (CL 7th; concentration +10)  
-4th—*flame strike* (DC 18), *summon nature’s ally IV*  
-3rd—*cure moderate wounds*, *protection from energy*, *speak with plants*  
-2nd—*bear’s endurance*, *flaming sphere* (DC 15), *lesser restoration*, *resist energy*  
-1st—*endure elements*, *faerie fire* (DC 14), *pass without trace*, *produce flame*, *speak with animals*  
-0 (at will)—*flare* (DC 13), *guidance*, *stabilize*, *virtue*
+4th—*[flame strike](../../magic/spells/flame-strike.md)* (DC 18), *[summon nature’s ally IV](../../magic/spells/summon-natures-ally-iv.md)*  
+3rd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[speak with plants](../../magic/spells/speak-with-plants.md)*  
+2nd—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[flaming sphere](../../magic/spells/flaming-sphere.md)* (DC 15), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[endure elements](../../magic/spells/endure-elements.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)* (DC 14), *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[produce flame](../../magic/spells/produce-flame.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[flare](../../magic/spells/flare.md)* (DC 13), *[guidance](../../magic/spells/guidance.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[virtue](../../magic/spells/virtue.md)*
 
 **Statistics**
 

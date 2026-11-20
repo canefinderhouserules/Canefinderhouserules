@@ -23,10 +23,10 @@ NE Gargantuan undead
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** eclipse, energy drain (2 levels, DC 31)  
 **Spell-Like Abilities** (CL 19th; concentration +29)  
-Constant—*arcane sight*, *fly*, *true seeing*  
-At will—*bestow curse* (DC 24), *deeper darkness*  
-3/day—*animate dead*, *contagion* (DC 24), *greater teleport*, *haste*  
-1/day—*create undead*, *temporal stasis* (DC 28), *wail of the banshee* (DC 29)
+Constant—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[fly](../../magic/spells/fly.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 24), *[deeper darkness](../../magic/spells/deeper-darkness.md)*  
+3/day—*[animate dead](../../magic/spells/animate-dead.md)*, *[contagion* ](../../magic/spells/contagion.md)(DC 24), *[greater teleport](../../magic/spells/teleport-greater.md)*, *[haste](../../magic/spells/haste.md)*  
+1/day—*[create undead](../../magic/spells/create-undead.md)*, *[temporal stasis* ](../../magic/spells/temporal-stasis.md)(DC 28), *[wail of the banshee* ](../../magic/spells/wail-of-the-banshee.md)(DC 29)
 
 **Statistics**
 

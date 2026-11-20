@@ -24,9 +24,9 @@ LG Medium humanoid
 **Ranged**  dagger +8 (1d4+4/19–20)  
 **Special Attacks** channel positive energy (DC 15, 3d6), smite evil 2/day (+2 attack and AC, +6 damage)  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Spells Prepared** (CL 3rd; concentration +5)  
-1st—*cure light wounds*, *divine favor*
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*
 
 **Statistics**
 

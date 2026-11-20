@@ -32,7 +32,7 @@ At will—*cure critical wounds, greater dispel magic, remove curse*
 
 3/day—*breath of life, heal, searing light, summon* (level 8, 1 phoenix 75%)  
 
-1/day—*reincarnate*
+1/day—*[reincarnate](../../magic/spells/reincarnate.md)*
 
 **Statistics**
 

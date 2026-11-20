@@ -23,16 +23,16 @@ N Gargantuan dragon
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite and gore)  
 **Special Attacks** breath weapon (60-ft. cone, 20d6 sonic damage, DC 31), crush (DC 31, 4d6+21), tail sweep (DC 31, 2d6+21), violent retort  
 **Spell-Like Abilities** (CL 26th; concentration +33)  
-At will—*calm emotions*, *detect evil*, *detect good*, *prismatic spray*, *sympathetic vibration*, *tongues*  
+At will—*[calm emotions](../../magic/spells/calm-emotions.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[prismatic spray](../../magic/spells/prismatic-spray.md)*, *[sympathetic vibration](../../magic/spells/sympathetic-vibration.md)*, *[tongues](../../magic/spells/tongues.md)*  
 **Spells Known** (CL 15th; concentration +22)  
-7th (5/day)—*greater teleport*, *limited wish*  
-6th (7/day)—*eyebite* (DC 23), *mass suggestion* (DC 23), *transformation*  
-5th (7/day)—*break enchantment*, *dismissal* (DC 22), *dominate person* (DC 22), *feeblemind* (DC 22)  
-4th (7/day)—*confusion* (DC 21), *lesser geas* (DC 21), *locate creature*, *rainbow pattern* (DC 21)  
-3rd (8/day)—*gaseous form*, *hold person* (DC 20), *lightning bolt* (DC 20), *suggestion* (DC 20)  
-2nd (8/day)—*detect thoughts* (DC 19), *fog cloud*, *hideous laughter* (DC 19), *scorching ray*, *touch of idiocy*  
-1st (8/day)—*charm person* (DC 18), *chill touch* (DC 18), *color spray* (DC 18), *endure elements*, *true strike*  
-0 (at will)—*daze* (DC 17), *detect magic*, *flare* (DC 17), *ghost sound*, *mage hand*, *mending*, *message*, *read magic*, *resistance*
+7th (5/day)—*[greater teleport](../../magic/spells/teleport-greater.md)*, *[limited wish](../../magic/spells/limited-wish.md)*  
+6th (7/day)—*[eyebite* ](../../magic/spells/eyebite.md)(DC 23), *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 23), *[transformation](../../magic/spells/transformation.md)*  
+5th (7/day)—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[dismissal* ](../../magic/spells/dismissal.md)(DC 22), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 22), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 22)  
+4th (7/day)—*[confusion* ](../../magic/spells/confusion.md)(DC 21), *[lesser geas* ](../../magic/spells/geas-lesser.md)(DC 21), *[locate creature](../../magic/spells/locate-creature.md)*, *[rainbow pattern* ](../../magic/spells/rainbow-pattern.md)(DC 21)  
+3rd (8/day)—*[gaseous form](../../magic/spells/gaseous-form.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 20), *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 20), *[suggestion* ](../../magic/spells/suggestion.md)(DC 20)  
+2nd (8/day)—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 19), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 19), *[scorching ray](../../magic/spells/scorching-ray.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1st (8/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 18), *[chill touch* ](../../magic/spells/chill-touch.md)(DC 18), *[color spray* ](../../magic/spells/color-spray.md)(DC 18), *[endure elements](../../magic/spells/endure-elements.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 17), *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 17), *[ghost sound](../../magic/spells/ghost-sound.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

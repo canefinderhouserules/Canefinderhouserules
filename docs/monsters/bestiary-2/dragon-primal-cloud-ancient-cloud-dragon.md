@@ -23,16 +23,16 @@ CN Gargantuan dragon (air, extraplanar)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. cone, 20d8 electricity, DC 29), crush, tail sweep  
 **Spell-Like Abilities** (CL 24th; concentration +30)  
-At will—*fog cloud*, *obscuring mist*, *solid fog*, *wind walk*  
-3/day—*cloudkill* (DC 21)  
+At will—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[solid fog](../../magic/spells/solid-fog.md)*, *[wind walk](../../magic/spells/wind-walk.md)*  
+3/day—*[cloudkill](../../magic/spells/cloudkill.md)* (DC 21)  
 **Spells Known** (CL 13th; concentration +19)  
-6th (5/day)—*chain lightning* (DC 22), *greater dispel magic*  
-5th (7/day)—*cone of cold* (DC 21), *dismissal* (DC 21), *teleport*  
-4th (7/day)—*elemental body I*, *ice storm*, *lesser geas* (DC 20), *river of wind*  
-3rd (7/day)—*arcane sight*, *cloak of winds*, *stinking cloud* (DC 19), *suggestion* (DC 19)  
-2nd (8/day)—*eagle’s splendor*, *glitterdust* (DC 18), *gust of wind*, *locate object*, *see invisibility*  
-1st (8/day)—*alter winds*, *charm person* (DC 17), *detect secret doors*, *erase*, *true strike*  
-0 (at will)—*dancing lights*, *detect poison*, *light*, *mage hand*, *message*, *prestidigitation*, *read magic*, *resistance*, *touch of fatigue*
+6th (5/day)—*[chain lightning](../../magic/spells/chain-lightning.md)* (DC 22), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*  
+5th (7/day)—*[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 21), *[dismissal](../../magic/spells/dismissal.md)* (DC 21), *[teleport](../../magic/spells/teleport.md)*  
+4th (7/day)—*[elemental body I](../../magic/spells/elemental-body-i.md)*, *[ice storm](../../magic/spells/ice-storm.md)*, *[lesser geas](../../magic/spells/geas-lesser.md)* (DC 20), *[river of wind](../../magic/spells/river-of-wind.md)*  
+3rd (7/day)—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[cloak of winds](../../magic/spells/cloak-of-winds.md)*, *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 19), *[suggestion](../../magic/spells/suggestion.md)* (DC 19)  
+2nd (8/day)—*[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[glitterdust](../../magic/spells/glitterdust.md)* (DC 18), *[gust of wind](../../magic/spells/gust-of-wind.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (8/day)—*[alter winds](../../magic/spells/alter-winds.md)*, *[charm person](../../magic/spells/charm-person.md)* (DC 17), *[detect secret doors](../../magic/spells/detect-secret-doors.md)*, *[erase](../../magic/spells/erase.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)*
 
 **Statistics**
 

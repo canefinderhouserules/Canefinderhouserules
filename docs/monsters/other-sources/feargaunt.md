@@ -23,8 +23,8 @@ CE Large outsider (extraplanar, incorporeal)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** tormenting touch  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-At will—*fear* (DC 17), *ghost sound* (DC 14)  
-3/day—*confusion* (DC 17), *nightmare* (DC 19), *phantasmal killer* (DC 18)
+At will—*[fear](../../magic/spells/fear.md)* (DC 17), *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 14)  
+3/day—*[confusion](../../magic/spells/confusion.md)* (DC 17), *[nightmare](../../magic/spells/nightmare.md)* (DC 19), *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 18)
 
 **Statistics**
 

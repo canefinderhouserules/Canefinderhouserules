@@ -22,10 +22,10 @@ NE Medium fey
 **Melee** 2 claws +13 (1d8+1/19–20)  
 **Special Attacks** sneak attack +6d6, striking fear  
 **Spell-Like Abilities** (CL 16th; concentration +17)  
-Constant—*detect thoughts*, *tongues*  
-At will—*darkness*, *gaseous form*, *ghost sound* (DC 17), *invisibility*, *suggestion* (DC 20)  
-3/day—*crushing despair* (DC 21), *hold person* (DC 20), quickened *phantasmal killer* (DC 21)  
-1/day—*nightmare* (DC 22)
+Constant—*[detect thoughts](../../magic/spells/detect-thoughts.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[darkness](../../magic/spells/darkness.md)*, *[gaseous form](../../magic/spells/gaseous-form.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 20)  
+3/day—*[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 21), *[hold person* ](../../magic/spells/hold-person.md)(DC 20), quickened *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 21)  
+1/day—*[nightmare* ](../../magic/spells/nightmare.md)(DC 22)
 
 **Statistics**
 

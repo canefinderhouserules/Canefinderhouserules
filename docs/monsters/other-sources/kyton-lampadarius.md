@@ -21,10 +21,10 @@ LE Medium outsider (evil, extraplanar, kyton, lawful)
 **Melee** slam +5 (1d6), incorporeal touch +5 (1d6 Strength damage)  
 **Special Attacks** unnerving gaze (30 ft., DC 13)  
 **Spell-Like Abilities** (CL 5th; concentration +6)  
-Constant—*blur*  
-At will—*bleed* (DC 11), *dancing lights*, *detect magic*  
-3/day—*darkness*, *invisibility* (self only), *levitate* (self only)  
-1/day—*deeper darkness*, *shadowstep*
+Constant—*[blur](../../magic/spells/blur.md)*  
+At will—*[bleed* ](../../magic/spells/bleed.md)(DC 11), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+3/day—*[darkness](../../magic/spells/darkness.md)*, *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[levitate* ](../../magic/spells/levitate.md)(self only)  
+1/day—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *shadowstep*
 
 **Statistics**
 

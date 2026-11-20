@@ -26,9 +26,9 @@ compulsion, soul shell; **DR** 15/cold iron and lawful; **Immune** cold, death e
 **Special Attacks** destructive commands, horrific appearance
 (DC 33), insidious possession, toxic storm  
 **Spell-Like Abilities** (CL 25th; concentration +34)  
-Constant—*cloak of chaos* (DC 27), *detect good, detect law, freedom of movement, tongues, true seeing*  
-At will—*charm monster* (DC 23), *desecrate*<sup>M</sup>, *greater command* (DC 25), *greater dispel magic, greater object possession* (DC 26), *greater teleport*  
-3/day—*dominate monster* (DC 28), *greater possession* (DC 27), quickened *mass suggestion* (DC 25), quickened *mind fog* (DC 24), *whirlwind*<sup>M</sup> (DC 27)  
+Constant—*[cloak of chaos](../../magic/spells/cloak-of-chaos.md)* (DC 27), *detect good, detect law, freedom of movement, tongues, true seeing*  
+At will—*[charm monster](../../magic/spells/charm-monster.md)* (DC 23), *[desecrate](../../magic/spells/desecrate.md)*<sup>M</sup>, *[greater command](../../magic/spells/command-greater.md)* (DC 25), *greater dispel magic, greater object possession* (DC 26), *[greater teleport](../../magic/spells/teleport-greater.md)*  
+3/day—*[dominate monster](../../magic/spells/dominate-monster.md)* (DC 28), *[greater possession](../../magic/spells/possession-greater.md)* (DC 27), quickened *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 25), quickened *[mind fog](../../magic/spells/mind-fog.md)* (DC 24), *[whirlwind](../../magic/spells/whirlwind.md)*<sup>M</sup> (DC 27)  
 1/day—*summon qlippoth, wish*<sup>M</sup>  
 M Isph-Aun-Vuln can use the mythic version of this ability within her sanctum
 

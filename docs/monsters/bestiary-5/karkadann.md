@@ -23,7 +23,7 @@ N Large magical beast
 **Special Attacks** powerful charge (gore, 2d8+8)  
 **Spell-Like Abilities** (CL 9th; concentration +14)  
 Constant—*detect evil, detect good*  
- 3/day—*cause fear* (DC 16)  
+ 3/day—*[cause fear](../../magic/spells/cause-fear.md)* (DC 16)  
  1/day—*dimension door, neutralize poison* (DC 19)
 
 **Statistics**

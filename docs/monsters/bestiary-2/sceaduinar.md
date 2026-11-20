@@ -21,10 +21,10 @@ NE Medium outsider (extraplanar)
 **Melee** bite +14 (1d6+3 plus 1d6 negative energy and energy drain), 2 wings +9 (1d6+1 plus 1d6 negative energy)  
 **Special Attacks** energy drain (1 level, DC 17), entropic touch  
 **Spell-Like Abilities** (CL 9th; concentration +12)  
-Constant—*entropic shield*, *hide from undead* (DC 14)  
-At will—*bleed* (DC 13), *dimension door* (self only), *dispel magic*  
-3/day—*death knell* (DC 15), *deeper darkness*, *enervation*, *inflict serious wounds* (DC 16), *silence*  
-1/day—*antilife shell*, *greater teleport* (self plus 50 lbs. of objects only), *harm* (DC 19), *slay living* (DC 18)
+Constant—*[entropic shield](../../magic/spells/entropic-shield.md)*, *[hide from undead* ](../../magic/spells/hide-from-undead.md)(DC 14)  
+At will—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[dimension door* ](../../magic/spells/dimension-door.md)(self only), *[dispel magic](../../magic/spells/dispel-magic.md)*  
+3/day—*[death knell* ](../../magic/spells/death-knell.md)(DC 15), *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[enervation](../../magic/spells/enervation.md)*, *[inflict serious wounds* ](../../magic/spells/inflict-serious-wounds.md)(DC 16), *[silence](../../magic/spells/silence.md)*  
+1/day—*[antilife shell](../../magic/spells/antilife-shell.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[harm* ](../../magic/spells/harm.md)(DC 19), *[slay living* ](../../magic/spells/slay-living.md)(DC 18)
 
 **Statistics**
 

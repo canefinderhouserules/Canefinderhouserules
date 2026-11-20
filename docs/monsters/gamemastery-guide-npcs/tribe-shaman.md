@@ -20,9 +20,9 @@ N Medium humanoid
 **Speed** 30 ft.  
 **Melee** mwk sickle +4 (1d6)  
 **Adept Spells Prepared** (CL 7th; concentration +8)  
-2nd—*cure moderate wounds*, *web* (DC 13)  
-1st—*bless*, *command* (DC 12), *cure light wounds*, *obscuring mist*  
-0—*guidance*, *stabilize*, *touch of fatigue* (DC 11)
+2nd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[web](../../magic/spells/web.md)* (DC 13)  
+1st—*[bless](../../magic/spells/bless.md)*, *[command](../../magic/spells/command.md)* (DC 12), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0—*[guidance](../../magic/spells/guidance.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 11)
 
 **Statistics**
 

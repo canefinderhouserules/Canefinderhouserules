@@ -24,11 +24,11 @@ CE Medium humanoid (elf)
 **Ranged**  dagger +9/+4 (1d4/19–20)  
 **Special Attacks** deeds (derring-do, dodging panache, kip-up, menacing swordplay, opportune parry and riposte, precise strike, swashbuckler initiative), panache (5)  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-1/day—*dancing lights*, *darkness*, *faerie fire*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[darkness](../../magic/spells/darkness.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*  
 **Sorcerer Spells Known** (CL 4th; concentration +7, spell failure chance 25%)  
-2nd (4/day)—*alter self*  
-1st (7/day)—*grease*, *ray of enfeeblement* (DC 14), *true strike*, *vanish* (DC 14)  
-0 (at will)—*acid splash*, *arcane mark*, *daze* (DC 13), *message*, *open/close* (DC 13), *read magic*  
+2nd (4/day)—*[alter self](../../magic/spells/alter-self.md)*  
+1st (7/day)—*[grease](../../magic/spells/grease.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 14), *[true strike](../../magic/spells/true-strike.md)*, *[vanish](../../magic/spells/vanish.md)* (DC 14)  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[arcane mark](../../magic/spells/arcane-mark.md)*, *[daze](../../magic/spells/daze.md)* (DC 13), *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)* (DC 13), *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** Accursed
 
 **Statistics**

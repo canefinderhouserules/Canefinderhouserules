@@ -22,7 +22,7 @@ NE Small humanoid (gnome)
 **Melee** *staff of frost* +10/+5 (1d4–2)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids  
 **Spell-Like Abilities** (CL 17th; concentration +19)  
-1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Arcane School Spell-Like Abilities** (CL 10th; concentration +15)  
 At will—invisibility field (10 rounds/day)  
 8/day—blinding ray  
@@ -30,12 +30,12 @@ At will—invisibility field (10 rounds/day)
 3/day—shadow illusion (DC 13)  
 2/day—shadow call (DC 16)  
 **Illusionist Spells Prepared** (CL 10th; concentration +15)  
-5th—*feeblemind* (DC 20), *nightmare* (DC 23), *shadow evocation* (DC 23), *teleport*  
-4th—*charm monster* (DC 19), *greater invisibility*, *phantasmal killer* (DC 22), *solid fog*, *stoneskin*  
-3rd—*blink*, *displacement*, *fly*, *major image* (DC 21), *slow* (DC 18)  
-2nd—*acid arrow*, *darkness*, *hypnotic pattern* (DC 20), *invisibility* (2), *resist energy*  
-1st—*charm person* (DC 16), *color spray* (DC 19), *feather fall*, *mage armor*, *magic missile* (2), *shield*  
-0 (at will)—*daze* (DC 15), *ghost sound* (DC 18), *mage hand*, *ray of frost*  
+5th—*[feeblemind* ](../../magic/spells/feeblemind.md)(DC 20), *[nightmare* ](../../magic/spells/nightmare.md)(DC 23), *[shadow evocation* ](../../magic/spells/shadow-evocation.md)(DC 23), *[teleport](../../magic/spells/teleport.md)*  
+4th—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 19), *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 22), *[solid fog](../../magic/spells/solid-fog.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd—*[blink](../../magic/spells/blink.md)*, *[displacement](../../magic/spells/displacement.md)*, *[fly](../../magic/spells/fly.md)*, *[major image* ](../../magic/spells/major-image.md)(DC 21), *[slow* ](../../magic/spells/slow.md)(DC 18)  
+2nd—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[darkness](../../magic/spells/darkness.md)*, *[hypnotic pattern* ](../../magic/spells/hypnotic-pattern.md)(DC 20), *[invisibility* ](../../magic/spells/invisibility.md)(2), *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[color spray* ](../../magic/spells/color-spray.md)(DC 19), *[feather fall](../../magic/spells/feather-fall.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile* ](../../magic/spells/magic-missile.md)(2), *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 15), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 18), *[mage hand](../../magic/spells/mage-hand.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*  
 **Opposition Schools** divination, necromancy
 
 **Tactics**

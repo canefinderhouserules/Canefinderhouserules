@@ -22,10 +22,10 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Melee** *+1 wounding falchion* +31/+26/+21/+16 (2d4+17/15–20), bite +25 (1d8+5), gore +25 (1d6+5)  
 **Special Attacks** rain of blood, wounding blood  
 **Spell-Like Abilities** (CL 19th; concentration +26)  
-Constant—*cloak of chaos* (DC 25), *true seeing*  
-At will—*confusion* (DC 21), *fear* (DC 21), *geas/quest*, *greater teleport* (self plus 50 lbs. of objects only), *telekinesis* (DC 22)  
-3/day—*dimensional lock*, quickened *hold monster* (DC 22), *song of discord* (DC 22)  
-1/day—*mass hold monster* (DC 26), summon (level 7, 1 gallu 20%, 1 marilith 35%, or 1d4 nalfeshnees 60%), *symbol of insanity* (DC 25), *word of chaos* (DC 24)
+Constant—*[cloak of chaos](../../magic/spells/cloak-of-chaos.md)* (DC 25), *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[confusion](../../magic/spells/confusion.md)* (DC 21), *[fear* ](../../magic/spells/fear.md)(DC 21), *[geas/quest](../../magic/spells/geas-quest.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 22)  
+3/day—*[dimensional lock](../../magic/spells/dimensional-lock.md)*, quickened *[hold monster](../../magic/spells/hold-monster.md)* (DC 22), *[song of discord](../../magic/spells/song-of-discord.md)* (DC 22)  
+1/day—*[mass hold monster](../../magic/spells/hold-monster-mass.md)* (DC 26), summon (level 7, 1 gallu 20%, 1 marilith 35%, or 1d4 nalfeshnees 60%), *[symbol of insanity](../../magic/spells/symbol-of-insanity.md)* (DC 25), *[word of chaos](../../magic/spells/word-of-chaos.md)* (DC 24)
 
 **Statistics**
 

@@ -23,13 +23,13 @@ N Medium humanoid (reptilian)
 **Ranged**  mwk sling +11 (1d4)  
 **Special Attacks** dispel hostility, undo artifice, wild shape 5/day  
 **Druid Spells Prepared** (CL 12th; concentration +17)  
-6th—*antimagic field*<sup>D</sup>, *mass cure light wounds*, *wall of stone* (DC 21)  
-5th—*baleful polymorph* (DC 20), *commune with nature*, *death ward*, *spell resistance*<sup>D</sup>, *wall of thorns*  
-4th—*cure serious wounds*, *dispel magic*, *freedom of movement*, *scrying* (DC 19), *spell immunity*<sup>D</sup>  
-3rd—*call lightning* (DC 18), *cure moderate wounds* (2), *protection from energy*<sup>D</sup>, *spit venom* (DC 18)  
-2nd—*animal messenger*, *barkskin*, *delay poison*, *lesser restoration* (2), *shield other*<sup>D</sup>  
-1st—*calm animals* (DC 16), *cure light wounds* (2), *entangle* (DC 16), *sanctuary*<sup>D</sup> (DC 16), *shillelagh*, *speak with animals*  
-0 (at will)—*create water*, *detect poison*, *guidance*, *mending*  
+6th—*[antimagic field](../../magic/spells/antimagic-field.md)*<sup>D</sup>, *[mass cure light wounds](../../magic/spells/cure-light-wounds-mass.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)* (DC 21)  
+5th—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 20), *[commune with nature](../../magic/spells/commune-with-nature.md)*, *[death ward](../../magic/spells/death-ward.md)*, *[spell resistance](../../magic/spells/spell-resistance.md)*<sup>D</sup>, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+4th—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[scrying](../../magic/spells/scrying.md)* (DC 19), *[spell immunity](../../magic/spells/spell-immunity.md)*<sup>D</sup>  
+3rd—*[call lightning](../../magic/spells/call-lightning.md)* (DC 18), *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)* (2), *[protection from energy](../../magic/spells/protection-from-energy.md)*<sup>D</sup>, *[spit venom](../../magic/spells/spit-venom.md)* (DC 18)  
+2nd—*[animal messenger](../../magic/spells/animal-messenger.md)*, *[barkskin](../../magic/spells/barkskin.md)*, *[delay poison](../../magic/spells/delay-poison.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)* (2), *[shield other](../../magic/spells/shield-other.md)*<sup>D</sup>  
+1st—*[calm animals](../../magic/spells/calm-animals.md)* (DC 16), *[cure light wounds](../../magic/spells/cure-light-wounds.md)* (2), *[entangle](../../magic/spells/entangle.md)* (DC 16), *[sanctuary](../../magic/spells/sanctuary.md)*<sup>D</sup> (DC 16), *[shillelagh](../../magic/spells/shillelagh.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[mending](../../magic/spells/mending.md)*  
 **D** domain spell; **Domain** Protection
 
 **Tactics**

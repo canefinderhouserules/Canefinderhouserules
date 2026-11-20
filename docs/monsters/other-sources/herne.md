@@ -22,9 +22,9 @@ CN Medium monstrous humanoid
 **Ranged**  mwk composite longbow +13/+8 (1d8+4/×3)  
 **Special Attacks** powerful charge (gore, 2d6+6)  
 **Spell-Like Abilities** (CL 8th; concentration +10)  
-Constant—*speak with animals*  
-3/day—*faerie fire*, *longstrider*  
-1/day—*freedom of movement*
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
+3/day—*[faerie fire](../../magic/spells/faerie-fire.md)*, *[longstrider](../../magic/spells/longstrider.md)*  
+1/day—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*
 
 **Statistics**
 

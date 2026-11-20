@@ -22,8 +22,8 @@ NE Large aberration (aquatic)
 **Space** 10 ft., **Reach** 15 ft.  
 **Special Attacks** murmur, poison, vortex  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-At will—*ghost sound* (DC 15), *speak with dead* (DC 18), *ventriloquism* (DC 16), *whispering wind*  
-3/day—*command undead* (DC 17), *control water*, *fog cloud*
+At will—*[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[speak with dead](../../magic/spells/speak-with-dead.md)* (DC 18), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 16), *[whispering wind](../../magic/spells/whispering-wind.md)*  
+3/day—*[command undead](../../magic/spells/command-undead.md)* (DC 17), *[control water](../../magic/spells/control-water.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*
 
 **Statistics**
 

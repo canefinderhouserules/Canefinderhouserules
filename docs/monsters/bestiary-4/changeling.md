@@ -21,8 +21,8 @@ LN Medium humanoid (changeling)
 **Melee** 2 claws +0 (1d4+1)  
 **Special Attacks** hexes (cauldron)  
 **Witch Spells Prepared** (CL 1st; concentration +3)  
-1st—*hypnotism* (DC 14), *sleep* (DC 14)  
-0 (at will)—*daze* (DC 13), *light*, *touch of fatigue* (DC 13)  
+1st—*[hypnotism* ](../../magic/spells/hypnotism.md)(DC 14), *[sleep* ](../../magic/spells/sleep.md)(DC 14)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 13), *[light](../../magic/spells/light.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 13)  
 **Patron** transformation
 
 **Statistics**

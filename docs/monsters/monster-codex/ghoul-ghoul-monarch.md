@@ -22,13 +22,13 @@ CE Medium undead
 **Melee** bite +13 (1d6+1 plus disease and paralysis), 2 claws +13 (1d6+1 plus paralysis)  
 **Special Attacks** disease (DC 23), paralysis (1d4+1 rounds, DC 23, elves are immune to this effect), ravenous frenzy (12/day)  
 **Sorcerer Spells Known** (CL 12th; concentration +18)  
-6th (4/day)—*mislead* (DC 22), *move earth*  
-5th (6/day)—*dominate person* (DC 21), *hungry earth* (DC 21), *suffocation* (DC 21)  
-4th (7/day)—*beast shape II*, *black tentacles*, *dimension door*, *fear*  
-3rd (7/day)—*gaseous form*, *lightning bolt* (DC 19), *nondetection*, *stinking cloud* (DC 19), *vampiric touch*  
-2nd (8/day)—*alter self*, *command undead* (DC 18), *false life*, *feast of ashes* (DC 18), *invisibility*, *mirror image*  
-1st (8/day)—*burning hands* (DC 17), *grease* (DC 17), *mage armor*, *obscuring mist*, *ray of enfeeblement* (DC 17), *silent image*  
-0 (at will)—*arcane mark*, *dancing lights*, *daze* (DC 16), *detect magic*, *light*, *mage hand*, *prestidigitation* (DC 16), *ray of frost*, *read magic*  
+6th (4/day)—*[mislead](../../magic/spells/mislead.md)* (DC 22), *[move earth](../../magic/spells/move-earth.md)*  
+5th (6/day)—*[dominate person](../../magic/spells/dominate-person.md)* (DC 21), *[hungry earth](../../magic/spells/hungry-earth.md)* (DC 21), *[suffocation](../../magic/spells/suffocation.md)* (DC 21)  
+4th (7/day)—*[beast shape II](../../magic/spells/beast-shape-ii.md)*, *[black tentacles](../../magic/spells/black-tentacles.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[fear](../../magic/spells/fear.md)*  
+3rd (7/day)—*[gaseous form](../../magic/spells/gaseous-form.md)*, *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 19), *[nondetection](../../magic/spells/nondetection.md)*, *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 19), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd (8/day)—*[alter self](../../magic/spells/alter-self.md)*, *[command undead](../../magic/spells/command-undead.md)* (DC 18), *[false life](../../magic/spells/false-life.md)*, *[feast of ashes](../../magic/spells/feast-of-ashes.md)* (DC 18), *[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (8/day)—*[burning hands](../../magic/spells/burning-hands.md)* (DC 17), *[grease](../../magic/spells/grease.md)* (DC 17), *[mage armor](../../magic/spells/mage-armor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 17), *[silent image](../../magic/spells/silent-image.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze](../../magic/spells/daze.md)* (DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)* (DC 16), *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** ghoul
 
 **Tactics**

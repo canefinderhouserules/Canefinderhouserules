@@ -21,9 +21,9 @@ LE Large outsider (evil, extraplanar, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** spit poison, ringing words  
 **Spell-Like Abilities** (CL 12th)  
-At will — *alter self*, *bestow curse* (DC 20), *whispering wind*, *greater teleport* (self plus 50 pounds), *overland flight*  
-3/day — *dimensional anchor*, quickened *greater teleport*, *fire shield* (warm)  
-1/day — *major image*
+At will — *[alter self](../../magic/spells/alter-self.md)*, *[bestow curse](../../magic/spells/bestow-curse.md)* (DC 20), *[whispering wind](../../magic/spells/whispering-wind.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 pounds), *[overland flight](../../magic/spells/overland-flight.md)*  
+3/day — *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, quickened *[greater teleport](../../magic/spells/teleport-greater.md)*, *[fire shield](../../magic/spells/fire-shield.md)* (warm)  
+1/day — *[major image](../../magic/spells/major-image.md)*
 
 **Statistics**
 

@@ -24,7 +24,7 @@ mwk dagger +13/+8 (1d4+5/19–20 plus 1d6 bludgeoning) or
 2 slams +14 (1d4+5 plus 1d6 bludgeoning)  
 **Special Attacks** beckoning dance, elemental veil  
 **Spell-Like Abilities** (CL 9th; concentration +14)  
-At will—*stoneskin* (self only), *stone call*  
+At will—*[stoneskin](../../magic/spells/stoneskin.md)* (self only), *[stone call](../../magic/spells/stone-call.md)*  
 
 3/day—*cure serious wounds, suggestion* (DC 18)  
 

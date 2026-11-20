@@ -22,13 +22,13 @@ N Large plant
 2 slams +14 (1d6+5)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 14th; concentration +15)  
-Constant—*speak with plants*  
+Constant—*[speak with plants](../../magic/spells/speak-with-plants.md)*  
 
-At will—*entangle* (DC 12), *plant growth*  
+At will—*[entangle](../../magic/spells/entangle.md)* (DC 12), *[plant growth](../../magic/spells/plant-growth.md)*  
 
-3/day—*quickened entangle* (DC 12)  
+3/day—*[quickened entangle](../../magic/spells/entangle.md)* (DC 12)  
 
-1/day—*cloudkill* (DC 16)
+1/day—*[cloudkill](../../magic/spells/cloudkill.md)* (DC 16)
 
 **Statistics**
 

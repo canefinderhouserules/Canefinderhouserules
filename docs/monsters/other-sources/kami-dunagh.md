@@ -21,7 +21,7 @@ LN Medium outsider (incorporeal, kami, native)
 **Speed** fly 30 ft. (perfect)  
 **Melee** incorporeal touch +8 (2d6 cold plus dunagh’s curse)  
 **Spell-Like Abilities** (CL 5th; concentration +8)  
-At will—*mage hand*
+At will—*[mage hand](../../magic/spells/mage-hand.md)*
 
 **Statistics**
 

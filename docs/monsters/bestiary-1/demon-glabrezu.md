@@ -22,10 +22,10 @@ CE Huge outsider (chaotic, demon, evil, extraplanar)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** rend (2 pincers, 2d8+15)  
 **Spell-Like Abilities** (CL 14th)  
-Constant—*true seeing*  
-At will—*chaos hammer* (DC 19), *confusion* (DC 19), *dispel magic*, *mirror image*, *reverse gravity* (DC 22), *greater teleport* (self plus 50 lbs. of objects only), *veil* (self only), *unholy blight*  
-1/day—*power word stun*, summon (level 4, 1 glabrezu 20% or 1d2 vrocks 50%)  
-1/month—*wish* (granted to a mortal humanoid only)
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 19), *[confusion* ](../../magic/spells/confusion.md)(DC 19), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[reverse gravity* ](../../magic/spells/reverse-gravity.md)(DC 22), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[veil* ](../../magic/spells/veil.md)(self only), *[unholy blight](../../magic/spells/unholy-blight.md)*  
+1/day—*[power word stun](../../magic/spells/power-word-stun.md)*, summon (level 4, 1 glabrezu 20% or 1d2 vrocks 50%)  
+1/month—*[wish* ](../../magic/spells/wish.md)(granted to a mortal humanoid only)
 
 **Statistics**
 

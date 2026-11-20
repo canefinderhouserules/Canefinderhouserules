@@ -23,10 +23,10 @@ N Huge magical beast (aquatic)
 **Space** 15 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** swallow whole (3d6+12 bludgeoning damage, AC 17, 15 hp)  
 **Spell-Like Abilities** (CL 15th; concentration +15)  
-At will—*control water*, *freedom of movement*  
-5/day—*diminish plants*, *plant growth*  
-3/day—*command plants*, *thorn body*, *wall of thorns*  
-1/day—*hydraulic torrent*
+At will—*[control water](../../magic/spells/control-water.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+5/day—*[diminish plants](../../magic/spells/diminish-plants.md)*, *[plant growth](../../magic/spells/plant-growth.md)*  
+3/day—*[command plants](../../magic/spells/command-plants.md)*, *[thorn body](../../magic/spells/thorn-body.md)*, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+1/day—*[hydraulic torrent](../../magic/spells/hydraulic-torrent.md)*
 
 **Statistics**
 

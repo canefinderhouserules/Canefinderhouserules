@@ -23,16 +23,16 @@ CG Huge dragon (fire)
 **Melee** bite +31 (2d8+16), 2 claws +31 (2d6+11), 2 wings +29 (1d8+5), tail slap +29 (2d6+16)  
 **Special Attacks** breath weapon (100-ft. line, DC 28, 20d4 fire), crush, desert wind, sandstorm, sleep breath  
 **Spell-Like Abilities** (CL 22th)  
-At will—*control weather*, *control winds*, *endure elements*, *speak with animals*, *suggestion* (DC 18)  
+At will—*[control weather](../../magic/spells/control-weather.md)*, *[control winds](../../magic/spells/control-winds.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 18)  
 **Spells Known** (CL 15th)  
-7th (4/day)—*g. teleport*, *power word blind*  
-6th (6/day)—*forceful hand*, *geas*, *greater dispel magic*  
-5th (7/day)—*contact other plane*, *dominate person* (DC 22), *mirage arcana*, *prying eyes*  
-4th (7/day)—*charm monster* (DC 21), *confusion* (DC 21), *dimensional anchor*, *locate creature*  
-3rd (7/day)—*displacement*, *heroism*, *hold person* (DC 20), *tongues*  
-2nd (7/day)—*alter self*, *detect thoughts* (DC 17), *locate object*, *resist energy*, *see invisibility*  
-1st (8/day)—*alarm*, *charm person* (DC 18), *protection from evil*, *shield*, *ventriloquism*  
-0 (at will)—*arcane mark*, *dancing lights*, *d. magic*, *d. poison*, *ghost sound* (DC 15), *mage hand*, *message*, *prestidigitation*, *r. magic*
+7th (4/day)—*[g. teleport](../../magic/spells/teleport-greater.md)*, *[power word blind](../../magic/spells/power-word-blind.md)*  
+6th (6/day)—*[forceful hand](../../magic/spells/forceful-hand.md)*, *[geas](../../magic/spells/geas-quest.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*  
+5th (7/day)—*[contact other plane](../../magic/spells/contact-other-plane.md)*, *[dominate person* ](../../magic/spells/dominate-person.md)(DC 22), *[mirage arcana](../../magic/spells/mirage-arcana.md)*, *[prying eyes](../../magic/spells/prying-eyes.md)*  
+4th (7/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 21), *[confusion* ](../../magic/spells/confusion.md)(DC 21), *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[locate creature](../../magic/spells/locate-creature.md)*  
+3rd (7/day)—*[displacement](../../magic/spells/displacement.md)*, *[heroism](../../magic/spells/heroism.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 20), *[tongues](../../magic/spells/tongues.md)*  
+2nd (7/day)—*[alter self](../../magic/spells/alter-self.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[locate object](../../magic/spells/locate-object.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (8/day)—*[alarm](../../magic/spells/alarm.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 18), *[protection from evil](../../magic/spells/protection-from-evil.md)*, *[shield](../../magic/spells/shield.md)*, *[ventriloquism](../../magic/spells/ventriloquism.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[d. magic](../../magic/spells/dispel-magic.md)*, *[d. poison](../../magic/spells/poison.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 15), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[r. magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

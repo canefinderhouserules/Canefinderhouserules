@@ -22,10 +22,10 @@ CE Gargantuan outsider (aquatic, native)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** breath of madness, constrict (2d6+11), energy drain (2 levels, DC 22)  
 **Spell-Like Abilities** (CL 15th; concentration +20)  
-Constant—*invisibility purge*  
-At will—*death knell* (DC 17), *prayer*  
-3/day—*demand* (DC 23), *dimensional anchor*, *divination*, *dominate person* (DC 20), *greater command* (DC 20)  
-1/day—*commune*, *dream*, *unhallow*
+Constant—*[invisibility purge](../../magic/spells/invisibility-purge.md)*  
+At will—*[death knell](../../magic/spells/death-knell.md)* (DC 17), *[prayer](../../magic/spells/prayer.md)*  
+3/day—*[demand](../../magic/spells/demand.md)* (DC 23), *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[divination](../../magic/spells/divination.md)*, *[dominate person](../../magic/spells/dominate-person.md)* (DC 20), *[greater command](../../magic/spells/command-greater.md)* (DC 20)  
+1/day—*[commune](../../magic/spells/commune.md)*, *[dream](../../magic/spells/dream.md)*, *[unhallow](../../magic/spells/unhallow.md)*
 
 **Statistics**
 

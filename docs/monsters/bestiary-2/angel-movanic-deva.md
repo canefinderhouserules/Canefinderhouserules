@@ -21,10 +21,10 @@ NG Medium outsider (angel, extraplanar, good)
 **Speed** 40 ft., fly 60 ft. (good)  
 **Melee** *+1 flaming greatsword* +17/+12/+7 (2d6+7/19–20 plus 1d6 fire)  
 **Spell-Like Abilities** (CL 8th; concentration +12)  
-Constant—*detect evil*  
-At will—*aid*, *discern lies* (DC 18), *dispel evil* (DC 19), *dispel magic*, *holy smite* (DC 18), *invisibility* (self only), *plane shift* (DC 19), *remove curse*, *remove disease*, *remove fear*  
-7/day—*cure serious wounds*  
-1/day—*antimagic field*, *awaken*, *holy aura* (DC 22)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[discern lies](../../magic/spells/discern-lies.md)* (DC 18), *[dispel evil](../../magic/spells/dispel-evil.md)* (DC 19), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[holy smite](../../magic/spells/holy-smite.md)* (DC 18), *[invisibility](../../magic/spells/invisibility.md)* (self only), *[plane shift](../../magic/spells/plane-shift.md)* (DC 19), *[remove curse](../../magic/spells/remove-curse.md)*, *[remove disease](../../magic/spells/remove-disease.md)*, *[remove fear](../../magic/spells/remove-fear.md)*  
+7/day—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*  
+1/day—*[antimagic field](../../magic/spells/antimagic-field.md)*, *[awaken](../../magic/spells/awaken.md)*, *[holy aura](../../magic/spells/holy-aura.md)* (DC 22)
 
 **Statistics**
 

@@ -23,9 +23,9 @@ LE Medium outsider (devil, evil, extraplanar, lawful)
 **Special Attacks** contract killer, sneak attack +3d6, suicide, vengeance  
 **Spell-Like Abilities** (CL 9th)  
 Always active — *spider climb*  
-At will — *greater teleport* (self plus 50 pounds of objects only), *locate creature*, *knock*  
-3/day — *blur* (self only), *darkness*, *dimension door*, *dispel magic*, *silence* (DC 16), *suggestion* (DC 17)  
-1/day — *mislead* (DC 20), *passwall*, *statue* (self only), *summon devil* (level 3, 4 imps, 35%)
+At will — *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 pounds of objects only), *[locate creature](../../magic/spells/locate-creature.md)*, *[knock](../../magic/spells/knock.md)*  
+3/day — *[blur](../../magic/spells/blur.md)* (self only), *[darkness](../../magic/spells/darkness.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[silence](../../magic/spells/silence.md)* (DC 16), *[suggestion](../../magic/spells/suggestion.md)* (DC 17)  
+1/day — *[mislead](../../magic/spells/mislead.md)* (DC 20), *[passwall](../../magic/spells/passwall.md)*, *[statue](../../magic/spells/statue.md)* (self only), *summon devil* (level 3, 4 imps, 35%)
 
 **Statistics**
 

@@ -27,16 +27,16 @@ NG Medium humanoid (human)
 **Domain Spell-Like Abilities** (CL 3rd; concentration +5)  
 5/day—rebuke death, touch of glory  
 **Cleric Spells Prepared** (CL 5th; concentration +7)  
-3rd—*prayer*, *searing light*<sup>D</sup>  
-2nd—*bless weapon*<sup>D</sup>, *delay poison*, *remove paralysis*, *shield other*  
-1st—*cure light wounds*<sup>D</sup>, *divine favor* (2), *protection from evil*, *remove fear*  
-0 (at will)—*create water*, *guidance*, *purify food and drink*, *stabilize*  
+3rd—*[prayer](../../magic/spells/prayer.md)*, *[searing light](../../magic/spells/searing-light.md)*<sup>D</sup>  
+2nd—*[bless weapon](../../magic/spells/bless-weapon.md)*<sup>D</sup>, *[delay poison](../../magic/spells/delay-poison.md)*, *[remove paralysis](../../magic/spells/remove-paralysis.md)*, *[shield other](../../magic/spells/shield-other.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*<sup>D</sup>, *[divine favor* ](../../magic/spells/divine-favor.md)(2), *[protection from evil](../../magic/spells/protection-from-evil.md)*, *[remove fear](../../magic/spells/remove-fear.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[guidance](../../magic/spells/guidance.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domains** Glory, Healing  
 **Sorcerer Spells Known** (CL 6th; concentration +7; 25% spell failure)  
-3rd (3/day)—*haste*  
-2nd (5/day)—*bull’s strength*, *protection from arrows*  
-1st (7/day)—*bless*, *burning hands* (DC 12), *enlarge person*, *shield*, *true strike*  
-0 (at will)—*dancing lights*, *detect magic*, *detect poison*, *mage hand*, *mending*, *message*, *read magic*  
+3rd (3/day)—*[haste](../../magic/spells/haste.md)*  
+2nd (5/day)—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[protection from arrows](../../magic/spells/protection-from-arrows.md)*  
+1st (7/day)—*[bless](../../magic/spells/bless.md)*, *[burning hands* ](../../magic/spells/burning-hands.md)(DC 12), *[enlarge person](../../magic/spells/enlarge-person.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** celestial
 
 **Tactics**

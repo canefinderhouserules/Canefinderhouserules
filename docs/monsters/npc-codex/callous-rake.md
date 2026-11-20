@@ -22,7 +22,7 @@ LG Medium humanoid (human)
 **Ranged**  dagger +2 (1d4+3/19–20)  
 **Special Attacks** smite evil 1/day (+2 attack and AC, +1 damage)  
 **Spell-Like Abilities** (CL 1st; concentration +3)  
-At will—*detect evil*
+At will—*[detect evil](../../magic/spells/detect-evil.md)*
 
 **Tactics**
 

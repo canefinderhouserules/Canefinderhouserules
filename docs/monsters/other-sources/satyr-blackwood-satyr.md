@@ -23,9 +23,9 @@ CN Medium fey
 **Ranged**  *+1 longbow* +11 (1d8+1/×3)  
 **Special Attacks** pipes (DC 19)  
 **Spell-Like Abilities** (CL 8th; concentration +13)  
-At will—*dancing lights* (DC 15), *deep slumber* (DC 18), *ghost sound* (DC 15), *suggestion* (DC 18)  
-3/day—*major image* (DC 18), *reckless infatuation* (DC 18)  
-1/day—*charm monster* (DC 19), *summon nature’s ally IV*
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)* (DC 15), *[deep slumber](../../magic/spells/deep-slumber.md)* (DC 18), *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[suggestion* ](../../magic/spells/suggestion.md)(DC 18)  
+3/day—*[major image](../../magic/spells/major-image.md)* (DC 18), *[reckless infatuation](../../magic/spells/reckless-infatuation.md)* (DC 18)  
+1/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 19), *[summon nature’s ally IV](../../magic/spells/summon-natures-ally-iv.md)*
 
 **Statistics**
 

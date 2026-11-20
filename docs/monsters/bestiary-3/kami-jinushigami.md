@@ -21,10 +21,10 @@ N Gargantuan outsider (earth, kami, native)
 **Melee** *+5 quarterstaff* +32/+27/+22/+17 (3d6+14), *+5 quarterstaff* +32 (3d6+9) or 2 slams +29 (2d10+9)  
 **Space** 20 ft., **Reach** 20 ft.  
 **Spell-Like Abilities** (CL 20th; concentration +30)  
-Constant—*true seeing*, *speak with animals*, *speak with plants*, *stone tell*  
-At will—*detect thoughts* (DC 22), *greater teleport* (self only, only within the boundaries of its ward), *stone shape*, *wood shape*  
-3/day—*control plants* (DC 28), *earthquake* (DC 28), *heal*, *repel metal or stone*, *summon nature’s ally IX*  
-1/day—*true resurrection*
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*, *[speak with plants](../../magic/spells/speak-with-plants.md)*, *[stone tell](../../magic/spells/stone-tell.md)*  
+At will—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 22), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self only, only within the boundaries of its ward), *[stone shape](../../magic/spells/stone-shape.md)*, *[wood shape](../../magic/spells/wood-shape.md)*  
+3/day—*[control plants* ](../../magic/spells/control-plants.md)(DC 28), *[earthquake* ](../../magic/spells/earthquake.md)(DC 28), *[heal](../../magic/spells/heal.md)*, *[repel metal or stone](../../magic/spells/repel-metal-or-stone.md)*, *[summon nature’s ally IX](../../magic/spells/summon-natures-ally-ix.md)*  
+1/day—*[true resurrection](../../magic/spells/true-resurrection.md)*
 
 **Statistics**
 

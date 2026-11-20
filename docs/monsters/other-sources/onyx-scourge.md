@@ -22,7 +22,7 @@ CE Huge outsider (earth, elemental, extraplanar)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** channel negative energy (8d6, DC 19, 4/day), entropic strikes, negative energy capacitance  
 **Spell-Like Abilities** (CL 16th; concentration +17)  
-3/day—*waves of exhaustion* (DC 18)
+3/day—*[waves of exhaustion](../../magic/spells/waves-of-exhaustion.md)* (DC 18)
 
 **Statistics**
 

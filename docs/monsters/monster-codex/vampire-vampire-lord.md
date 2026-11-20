@@ -23,16 +23,16 @@ NE Medium undead (augmented humanoid, elf, human)
 **Melee** *+1 frost longsword* +20/+15 (1d8+11/17–20 plus 2d6), slam +13 (1d4+8 plus energy drain)  
 **Special Attacks** blood drain, children of the night, create spawn, dominate (DC 22), energy drain (2 levels, DC 22), greater spell combat, improved spell combat, spell combat (–2 attack, +2 concentration, double bonus), spellstrike  
 **Magus Spells Prepared** (CL 14th; concentration +18)  
-5th—*baleful polymorph* (DC 19), *monstrous physique III*  
-4th—*fire shield*, *greater invisibility*, *ice storm*, *shout* (DC 18), *stoneskin*  
-3rd—*cloak of winds*, *dispel magic*, *fireball* (DC 17), *haste*, *slow* (DC 17)  
-2nd—*darkness*, *frigid touch*, *mirror image*, *scorching ray* (2), *web* (DC 16)  
-1st—*expeditious retreat*, *frostbite*, *shield*, *shocking grasp* (2), *true strike*  
-0 (at will)—*arcane mark*, *dancing lights*, *detect magic*, *ghost sound* (DC 14), *ray of frost*
+5th—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 19), *[monstrous physique III](../../magic/spells/monstrous-physique-iii.md)*  
+4th—*[fire shield](../../magic/spells/fire-shield.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[ice storm](../../magic/spells/ice-storm.md)*, *[shout](../../magic/spells/shout.md)* (DC 18), *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd—*[cloak of winds](../../magic/spells/cloak-of-winds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball](../../magic/spells/fireball.md)* (DC 17), *[haste](../../magic/spells/haste.md)*, *[slow](../../magic/spells/slow.md)* (DC 17)  
+2nd—*[darkness](../../magic/spells/darkness.md)*, *[frigid touch](../../magic/spells/frigid-touch.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)* (2), *[web](../../magic/spells/web.md)* (DC 16)  
+1st—*[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[frostbite](../../magic/spells/frostbite.md)*, *[shield](../../magic/spells/shield.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)* (2), *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 14), *[ray of frost](../../magic/spells/ray-of-frost.md)*
 
 **Tactics**
 
-**Before Combat** The vampire lord casts *stoneskin* on herself.  
+**Before Combat** The vampire lord casts *[stoneskin](../../magic/spells/stoneskin.md)* on herself.  
  **During Combat** The vampire casts *cloak of winds*, *expeditious retreat*, *greater invisibility*, and *shield* on herself. She uses accurate strike against better-defended opponents, Mobility to avoid flanking, and Flanking Foil to negate sneak attacks.
 
 **Statistics**

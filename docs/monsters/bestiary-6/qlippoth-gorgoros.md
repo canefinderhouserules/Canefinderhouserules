@@ -24,7 +24,7 @@ lawful; **Immune** cold, mind-affecting effects, poison; **Resist** acid 10, ele
 **Special Attacks** feast of stone, gaze, horrific appearance (DC 22),
 writhing tails  
 **Spell-Like Abilities** (CL 9th; concentration +13)  
-Constant—*freedom of movement*  
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
 At will—*soften earth and stone, stone shape*  
 1/day—*transmute rock to mud, wall of stone*
 

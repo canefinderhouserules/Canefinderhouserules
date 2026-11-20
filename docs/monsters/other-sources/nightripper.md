@@ -23,10 +23,10 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Space** 5 ft., **Reach** 5 ft. (15 ft. with talons)  
 **Special Attacks** curse of living death, slowing gaze, sneak attack +3d6, swift cuts, sword mastery  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*airwalk*, *detect good*, *detect law*, *freedom of movement*, *true seeing*, *unholy aura* (DC 25)  
-At will—*greater dispel magic*, *greater teleport*, *phantasmal killer* (DC 21), *spiked pit* (DC 20), *telekinesis* (DC 22)  
-3/day—*acid pit* (DC 21), quickened *blade barrier* (DC 23), *harm* (DC 23), *hungry pit* (DC 22)  
-1/day—*reverse gravity*, summon (level 9, any demon or combination of demons whose total combined CR is 20 or lower 100%), *time stop*, *weird* (DC 26)
+Constant—*airwalk*, *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura* ](../../magic/spells/unholy-aura.md)(DC 25)  
+At will—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 21), *[spiked pit](../../magic/spells/spiked-pit.md)* (DC 20), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 22)  
+3/day—*[acid pit](../../magic/spells/acid-pit.md)* (DC 21), quickened *[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 23), *[harm* ](../../magic/spells/harm.md)(DC 23), *[hungry pit](../../magic/spells/hungry-pit.md)* (DC 22)  
+1/day—*[reverse gravity](../../magic/spells/reverse-gravity.md)*, summon (level 9, any demon or combination of demons whose total combined CR is 20 or lower 100%), *[time stop](../../magic/spells/time-stop.md)*, *[weird* ](../../magic/spells/weird.md)(DC 26)
 
 **Statistics**
 

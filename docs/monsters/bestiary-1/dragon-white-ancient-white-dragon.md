@@ -24,13 +24,13 @@ CE Huge dragon (cold)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** blizzard, breath weapon (50-ft. cone, DC 27, 20d4 cold), crush, freezing fog (3/day, DC 19)  
 **Spell-Like Abilities** (CL 21st)  
-At will—*fog cloud*, *gust of wind*, *wall of ice* (DC 17)  
+At will—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[gust of wind](../../magic/spells/gust-of-wind.md)*, *[wall of ice* ](../../magic/spells/wall-of-ice.md)(DC 17)  
 **Spells Known** (CL 9th)  
-4th (4/day)—*charm monster* (DC 17), *dimension door*  
-3rd (7/day)—*dispel magic*, *displacement*, *lightning bolt* (DC 16)  
-2nd (7/day)—*invisibility*, *fog cloud*, *resist energy*, *see invisibility*  
-1st (7/day)—*alarm*, *grease* (DC 14), *magic aura*, *shield*, *true strike*  
-0 (at will)—*acid splash*, *dancing lights*, *detect magic*, *ghost sound*, *mage hand*, *mending*, *message*, *ray of frost*
+4th (4/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 17), *[dimension door](../../magic/spells/dimension-door.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[displacement](../../magic/spells/displacement.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 16)  
+2nd (7/day)—*[invisibility](../../magic/spells/invisibility.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (7/day)—*[alarm](../../magic/spells/alarm.md)*, *[grease* ](../../magic/spells/grease.md)(DC 14), *[magic aura](../../magic/spells/magic-aura.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*
 
 **Statistics**
 

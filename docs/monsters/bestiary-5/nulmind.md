@@ -23,9 +23,9 @@ N Small plant
 **Ranged** spore +16 touch (mind spores)  
 **Special Attacks** mind spores  
 **Spell-Like Abilities** (CL 11th; concentration +17)  
-Constant—*mage armor*  
+Constant—*[mage armor](../../magic/spells/mage-armor.md)*  
 **Psychic Magic** (CL 11th, concentration +17)  
-10 PE—*ego whip I* (3 PE, DC 19), *id insinuation I* (2 PE, DC 18), *mental barrier I* (1 PE), *mind thrust IV* (4 PE, DC 20)
+10 PE—*[ego whip I](../../magic/spells/ego-whip-i.md)* (3 PE, DC 19), *[id insinuation I](../../magic/spells/id-insinuation-i.md)* (2 PE, DC 18), *[mental barrier I](../../magic/spells/mental-barrier-i.md)* (1 PE), *[mind thrust IV](../../magic/spells/mind-thrust-iv.md)* (4 PE, DC 20)
 
 **Statistics**
 

@@ -23,7 +23,7 @@ NG Large outsider (extraplanar, good)
 **Ranged**  stunning bolt +21 (1d8 plus stun)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 18th; concentration +24)  
-At will—*calm emotions*, *good hope*
+At will—*[calm emotions](../../magic/spells/calm-emotions.md)*, *[good hope](../../magic/spells/good-hope.md)*
 
 **Statistics**
 

@@ -23,8 +23,8 @@ LE Small aberration (aquatic, shapechanger)
 **Space** 5 ft., **Reach** 10 ft.  
 **Special Attacks** alghollthu’s bane, grab (Large)  
 **Spell-Like Abilities** (CL 5th; concentration +5)  
-At will—*detect thoughts* (DC 12), *hypnotic pattern* (DC 13)  
-3/day—*unwilling shield* (DC 17)
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 12), *[hypnotic pattern](../../magic/spells/hypnotic-pattern.md)* (DC 13)  
+3/day—*[unwilling shield](../../magic/spells/unwilling-shield.md)* (DC 17)
 
 **Statistics**
 

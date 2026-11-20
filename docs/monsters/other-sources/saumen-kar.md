@@ -22,8 +22,8 @@ CN Large monstrous humanoid
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** snowstorm (2d6 cold plus 2d6 slashing damage, DC 24), stun (1 round, DC 24)  
 **Spell-Like Abilities** (CL 13th; concentration +13)  
-3/day—*wall of ice* (DC 14)  
-1/day—*summon nature’s ally VI* (polar bear [dire bear] only)
+3/day—*[wall of ice* ](../../magic/spells/wall-of-ice.md)(DC 14)  
+1/day—*[summon nature’s ally VI* ](../../magic/spells/summon-natures-ally-vi.md)(polar bear [dire bear] only)
 
 **Statistics**
 

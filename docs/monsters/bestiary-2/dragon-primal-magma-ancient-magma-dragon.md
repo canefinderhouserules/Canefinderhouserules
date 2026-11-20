@@ -24,18 +24,18 @@ CN Huge dragon (extraplanar, fire)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, DC 28, 20d6 fire plus special), crush, magma breath  
 **Spell-Like Abilities** (CL 23rd; concentration +28)  
-Constant—*fire shield* (warm)  
-At will—*burning hands* (DC 16), *scorching ray*, *wall of fire*  
-3/day—*delayed blast fireball* (DC 22)  
+Constant—*[fire shield](../../magic/spells/fire-shield.md)* (warm)  
+At will—*[burning hands](../../magic/spells/burning-hands.md)* (DC 16), *[scorching ray](../../magic/spells/scorching-ray.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3/day—*[delayed blast fireball](../../magic/spells/delayed-blast-fireball.md)* (DC 22)  
 **Spells Known** (CL 15th; concentration +20)  
-7th (4/day)—*greater polymorph*, *prismatic spray* (DC 22)  
-6th (6/day)—*chain lightning* (DC 21), *contagious flame* (DC 21), *eyebite* (DC 21)  
-5th (7/day)—*hungry pit* (DC 20), *polymorph*, *teleport*, *wall of force*  
-4th (7/day)—*confusion* (DC 19), *acid pit* (DC 19), *dimensional anchor*, *fire shield*  
-3rd (7/day)—*displacement*, *dispel magic*, *fireball* (DC 18), *wind wall*  
-2nd (7/day)—*darkness*, *dust of twilight*, *flaming sphere* (DC 17), *glitterdust* (DC 17), *pyrotechnics* (DC 17)  
-1st (8/day)—*feather fall*, *flare burst* (DC 16), *grease* (DC 16), *shield*, *true strike*  
-0 (at will)—*bleed* (DC 15), *detect magic*, *detect poison*, *ghost sound*, *light*, *open/close*, *read magic*, *spark*, *touch of fatigue*
+7th (4/day)—*[greater polymorph](../../magic/spells/polymorph-greater.md)*, *[prismatic spray](../../magic/spells/prismatic-spray.md)* (DC 22)  
+6th (6/day)—*[chain lightning](../../magic/spells/chain-lightning.md)* (DC 21), *[contagious flame](../../magic/spells/contagious-flame.md)* (DC 21), *[eyebite](../../magic/spells/eyebite.md)* (DC 21)  
+5th (7/day)—*[hungry pit](../../magic/spells/hungry-pit.md)* (DC 20), *[polymorph](../../magic/spells/polymorph.md)*, *[teleport](../../magic/spells/teleport.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th (7/day)—*[confusion](../../magic/spells/confusion.md)* (DC 19), *[acid pit](../../magic/spells/acid-pit.md)* (DC 19), *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[fire shield](../../magic/spells/fire-shield.md)*  
+3rd (7/day)—*[displacement](../../magic/spells/displacement.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 18), *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd (7/day)—*[darkness](../../magic/spells/darkness.md)*, *[dust of twilight](../../magic/spells/dust-of-twilight.md)*, *[flaming sphere](../../magic/spells/flaming-sphere.md)* (DC 17), *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 17), *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 17)  
+1st (8/day)—*[feather fall](../../magic/spells/feather-fall.md)*,[ *flare burst](../../magic/spells/flare-burst.md)* (DC 16), *[grease* ](../../magic/spells/grease.md)(DC 16), *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[light](../../magic/spells/light.md)*, *[open/close](../../magic/spells/open-close.md)*,[ *read magic](../../magic/spells/read-magic.md)*, *[spark](../../magic/spells/spark.md)*,[ *touch of fatigue](../../magic/spells/touch-of-fatigue.md)*
 
 **Statistics**
 

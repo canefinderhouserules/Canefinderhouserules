@@ -22,7 +22,7 @@ N Medium humanoid (shapechanger, skinwalker)
 **Ranged** longbow +3 (1d8/×3)  
 **Special Attacks** favored enemy (human +2)  
 **Spell-Like Abilities** (CL 1st; concentration +3)  
-1/day—*speak with animals*
+1/day—*[speak with animals](../../magic/spells/speak-with-animals.md)*
 
 **Statistics**
 

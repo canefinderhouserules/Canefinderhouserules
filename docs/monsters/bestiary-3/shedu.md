@@ -22,9 +22,9 @@ LG Large magical beast
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** trample (2d6+10, DC 22)  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-Constant— *detect chaos*, *detect evil*, *true seeing*  
-3/day—empowered *cure moderate wounds*, *dispel magic*, *magic circle against evil*, *remove disease*, *shield other*  
-1/day—*dismissal* (DC 19), *flame strike* (DC 19), *restoration*
+Constant— *[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+3/day—empowered *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*, *[remove disease](../../magic/spells/remove-disease.md)*, *[shield other](../../magic/spells/shield-other.md)*  
+1/day—*[dismissal* ](../../magic/spells/dismissal.md)(DC 19), *[flame strike* ](../../magic/spells/flame-strike.md)(DC 19), *[restoration](../../magic/spells/restoration.md)*
 
 **Statistics**
 

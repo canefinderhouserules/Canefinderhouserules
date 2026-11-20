@@ -32,10 +32,10 @@ fire 30; **SR** 41
 dimensional dreams, merge lives, mythic power (10/day,
 surge +1d12), portal mastery  
 **Spell-Like Abilities** (CL 30th; concentration +42)  
-Constant—*cloak of chaos* (DC 30), *freedom of movement, tongues, true seeing*  
-At will—*astral projection, dimensional lock*<sup>M</sup>, *dream*<sup>M</sup>, *greater dispel magic, interplanetary teleport, nightmare*<sup>M</sup>, *plane shift*<sup>M</sup> (DC 29), *sending*<sup>M</sup>, *teleport object* (DC 29)  
-3/day—*demand* (DC 30), quickened *disintegrate*<sup>M</sup> (DC 28), quickened *feeblemind* (DC 27), quickened *mislead*<sup>M</sup> (DC 28)  
-1/day—*gate, microcosm* (DC 31), *summon* (level 9, 2 ancient ones 100%), *time stop*<sup>M</sup>, *wish*<sup>M</sup>  
+Constant—*[cloak of chaos](../../magic/spells/cloak-of-chaos.md)* (DC 30), *freedom of movement, tongues, true seeing*  
+At will—*astral projection, dimensional lock*<sup>M</sup>, *[dream](../../magic/spells/dream.md)*<sup>M</sup>, *greater dispel magic, interplanetary teleport, nightmare*<sup>M</sup>, *[plane shift](../../magic/spells/plane-shift.md)*<sup>M</sup> (DC 29), *[sending](../../magic/spells/sending.md)*<sup>M</sup>, *[teleport object](../../magic/spells/teleport-object.md)* (DC 29)  
+3/day—*[demand](../../magic/spells/demand.md)* (DC 30), quickened *[disintegrate](../../magic/spells/disintegrate.md)*<sup>M</sup> (DC 28), quickened *[feeblemind](../../magic/spells/feeblemind.md)* (DC 27), quickened *[mislead](../../magic/spells/mislead.md)*<sup>M</sup> (DC 28)  
+1/day—*gate, microcosm* (DC 31), *summon* (level 9, 2 ancient ones 100%), *[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 **M** mythic spell
 
 **Statistics**

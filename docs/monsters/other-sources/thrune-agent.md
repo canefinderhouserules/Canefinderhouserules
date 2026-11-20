@@ -22,10 +22,10 @@ LE Medium humanoid (human)
 **Ranged**  light crossbow +6 (1d8/19–20)  
 **Special Attacks** improved spell combat, spell combat (–2 attack, +2 concentration), spellstrike  
 **Magus Spells Prepared** (CL 8th; concentration +12)  
-3rd—*arcane sight*, *dispel magic*, *vampiric touch*  
-2nd—*bear’s endurance*, *blur*, *elemental touch* (DC 14), *invisibility*, *scorching ray*  
-1st—*burning hands* (DC 13), *magic missile*, *ray of enfeeblement* (DC 13), *shield*, *true strike*  
-0 (at will)—*arcane mark*, *detect magic*, *light*, *open/close*, *read magic*
+3rd—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[blur](../../magic/spells/blur.md)*, *[elemental touch](../../magic/spells/elemental-touch.md)* (DC 14), *[invisibility](../../magic/spells/invisibility.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st—*[burning hands](../../magic/spells/burning-hands.md)* (DC 13), *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 13), *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[open/close](../../magic/spells/open-close.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

@@ -23,9 +23,9 @@ Perception +18
 **Special Attacks** compel plants, constrict (1d4+5), create spawn,
 energy drain (1 level, DC 23), sporepod  
 **Spell-Like Abilities** (CL 9th; concentration +16)  
-Constant—*detect good, tongues* At will—*veil* (DC 23, self only)  
-3/day—*charm monster* (DC 21), *detect thoughts* (DC 19), *suggestion* (DC 20)  
-1/day—*dominate person* (DC 22), *mind fog* (DC 22), *slow* (DC 20)
+Constant—*detect good, tongues* At will—*[veil](../../magic/spells/veil.md)* (DC 23, self only)  
+3/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 21), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 19), *[suggestion](../../magic/spells/suggestion.md)* (DC 20)  
+1/day—*[dominate person](../../magic/spells/dominate-person.md)* (DC 22), *[mind fog](../../magic/spells/mind-fog.md)* (DC 22), *[slow](../../magic/spells/slow.md)* (DC 20)
 
 **Statistics**
 

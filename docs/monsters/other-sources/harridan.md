@@ -21,13 +21,13 @@ Usually CE Huge magical beast
 **Space** 15 ft., **Reach** 10 ft.  
 **Special Attacks** pounce, rake, spells, Wisdom drain  
 **Spell-Like Abilities** (CL 12th)  
-6th — *blade barrier* (DC 19), *greater dispel magic*, *harm*<sup>D</sup> (DC 19)  
-5th — *dispel good*<sup>D</sup> (DC 18), *flame strike* (DC 18), *greater command* (DC 18), *true seeing*  
-4th — *air walk*, *dimensional anchor* (DC 17), *freedom of movement*, *inflict critical wounds*<sup>D</sup>  
-3rd — *blindness/deafness* (DC 16), *contagion*<sup>D</sup> (DC 16), *dispel magic*, *invisibility purge*, *meld into stone*, *prayer*  
-2nd — *aid*, *cure moderate wounds* (3), *death knell* (DC 15), *desecrate*<sup>D</sup>  
-1st — *command* (DC 14), *comprehend languages*, *cure light wounds*, *doom* (DC 14), *obscuring mist*, *protection from good*<sup>D</sup>, *shield of faith*  
-0 — *detect magic*, *detect poison*, *inflict minor wounds*, *light*, *read magic*, *resistance*  
+6th — *[blade barrier](../../magic/spells/blade-barrier.md)* (DC 19), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[harm](../../magic/spells/harm.md)*<sup>D</sup> (DC 19)  
+5th — *[dispel good](../../magic/spells/dispel-good.md)*<sup>D</sup> (DC 18), *[flame strike](../../magic/spells/flame-strike.md)* (DC 18), *[greater command](../../magic/spells/command-greater.md)* (DC 18), *[true seeing](../../magic/spells/true-seeing.md)*  
+4th — *[air walk](../../magic/spells/air-walk.md)*, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)* (DC 17), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[inflict critical wounds](../../magic/spells/inflict-critical-wounds.md)*<sup>D</sup>  
+3rd — *[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 16), *[contagion](../../magic/spells/contagion.md)*<sup>D</sup> (DC 16), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[meld into stone](../../magic/spells/meld-into-stone.md)*, *[prayer](../../magic/spells/prayer.md)*  
+2nd — *[aid](../../magic/spells/aid.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)* (3), *[death knell](../../magic/spells/death-knell.md)* (DC 15), *[desecrate](../../magic/spells/desecrate.md)*<sup>D</sup>  
+1st — *[command](../../magic/spells/command.md)* (DC 14), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[doom](../../magic/spells/doom.md)* (DC 14), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*<sup>D</sup>, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 — *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *inflict minor wounds*, *[light](../../magic/spells/light.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** domain spell; **Domains** Destruction, Evil
 
 **Statistics**

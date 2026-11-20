@@ -20,9 +20,9 @@ N Diminutive magical beast
 **Melee** bite +10 (1d2–5)  
 **Space** 1 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
-Constant—*comprehend languages*  
-3/day—*augury*, *vanish*  
-1/day—*detect thoughts* (DC 14), *divination*, *greater invisibility* (self only)
+Constant—*[comprehend languages](../../magic/spells/comprehend-languages.md)*  
+3/day—*[augury](../../magic/spells/augury.md)*, *[vanish](../../magic/spells/vanish.md)*  
+1/day—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 14), *[divination](../../magic/spells/divination.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)* (self only)
 
 **Statistics**
 

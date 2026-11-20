@@ -22,9 +22,9 @@ CE Tiny undead
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** bleed (1d6), cynic’s bite, jagged maw  
 **Spell-Like Abilities** (CL 4th; concentration +7)  
-At will—*ghost sound* (DC 13), *open/close, silent image* (DC 14)  
-3/day—*crushing despair* (DC 16), *entangle* (DC 14), *memory lapse* (DC 14), *vanish*  
-1/day—*animate dead*
+At will—*[ghost sound](../../magic/spells/ghost-sound.md)* (DC 13), *open/close, silent image* (DC 14)  
+3/day—*[crushing despair](../../magic/spells/crushing-despair.md)* (DC 16), *[entangle](../../magic/spells/entangle.md)* (DC 14), *[memory lapse](../../magic/spells/memory-lapse.md)* (DC 14), *[vanish](../../magic/spells/vanish.md)*  
+1/day—*[animate dead](../../magic/spells/animate-dead.md)*
 
 **Statistics**
 

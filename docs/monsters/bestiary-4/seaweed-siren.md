@@ -24,9 +24,9 @@ CN Large magical beast (aquatic)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** staggering gaze, trample (1d10+15, DC 28)  
 **Spell-Like Abilities** (CL 16th; concentration +19)  
-At will—*shatter* (DC 16)  
-3/day—*charm monster* (DC 18), quickened *confusion* (DC 18)  
-1/day—*bestow curse* (DC 18, ranged touch attack, 30 ft.)
+At will—*[shatter](../../magic/spells/shatter.md)* (DC 16)  
+3/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 18), quickened *[confusion](../../magic/spells/confusion.md)* (DC 18)  
+1/day—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18, ranged touch attack, 30 ft.)
 
 **Statistics**
 

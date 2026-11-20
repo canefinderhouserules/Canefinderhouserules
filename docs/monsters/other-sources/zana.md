@@ -22,8 +22,8 @@ NG Medium fey
 **Melee** *+2 keen thundering longspear* +19/+14/+9 (1d8+13/19–20/×3) or *+2 keen thundering longsword* +19/+14/+9 (1d8+11/17–20)  
 **Special Attacks** petrifying glance (5/day, DC 26)  
 **Spell-Like Abilities** (CL 10th; concentration +15)  
-5/day—*cure light wounds*, *sanctuary* (DC 16)  
-3/day—*calm emotions*, *cure moderate wounds*
+5/day—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 16)  
+3/day—*[calm emotions](../../magic/spells/calm-emotions.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*
 
 **Statistics**
 

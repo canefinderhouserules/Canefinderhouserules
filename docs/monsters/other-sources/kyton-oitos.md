@@ -20,10 +20,10 @@ LE Medium outsider (evil, extraplanar, kyton, lawful)
 **Speed** 40 ft., fly 60 ft. (good)  
 **Melee** 2 claws +17 (1d6+11/19–20 plus 2d6 cold), lash +17 (2d4+11 plus 2d6 cold)  
 **Spell-Like Abilities** (CL 11th; concentration +16)  
-Constant—*fly*  
- At will—*deeper darkness*, *plane shift* (between the Material Plane, Shadow Plane, and evil-aligned planes only; lawful creatures only), *speak with dead* (DC 18)  
- 3/day—*charm monster* (DC 19), *dimensional anchor*, *fabricate*, *shadow walk*  
- 1/day—*eyebite* (DC 21), *summon monster V* (evil creatures only)
+Constant—*[fly](../../magic/spells/fly.md)*  
+ At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (between the Material Plane, Shadow Plane, and evil-aligned planes only; lawful creatures only), *[speak with dead](../../magic/spells/speak-with-dead.md)* (DC 18)  
+ 3/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 19), *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[fabricate](../../magic/spells/fabricate.md)*, *[shadow walk](../../magic/spells/shadow-walk.md)*  
+ 1/day—*[eyebite](../../magic/spells/eyebite.md)* (DC 21), *[summon monster V](../../magic/spells/summon-monster-v.md)* (evil creatures only)
 
 **Statistics**
 

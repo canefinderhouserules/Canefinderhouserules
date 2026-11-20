@@ -23,8 +23,8 @@ N Gargantuan construct (colossus, mythic)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** constrict (2d12+16), mythic power (6/day, surge +1d8), mythic quickening, pinning stomp  
 **Spell-Like Abilities** (CL 13th; concentration +14)  
-3/day—*waves of fatigue*  
-1/day—*circle of death* (DC 17)
+3/day—*[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*  
+1/day—*[circle of death](../../magic/spells/circle-of-death.md)* (DC 17)
 
 **Statistics**
 

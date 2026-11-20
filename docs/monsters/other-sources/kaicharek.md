@@ -20,7 +20,7 @@ NE Medium magical beast (extraplanar)
 **Melee** bite +7 (1d6+2 plus grab), 2 tentacles +2 (1d4+1 plus 1d4 bleed)  
 **Special Attacks** blood drain (1 Constitution), impaling thrust, slashing talons  
 **Spell-Like Abilities** (CL 5th;  concentration +7)  
-3/day—*hidden presence* (DC 13)
+3/day—*[hidden presence](../../magic/spells/hidden-presence.md)* (DC 13)
 
 **Statistics**
 

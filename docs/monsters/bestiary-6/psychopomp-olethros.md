@@ -23,9 +23,9 @@ N Medium outsider (extraplanar, psychopomp)
 **Special Attacks** fated touch, fateful arrows  
 **Spell-Like Abilities** (CL 17th; concentration +27)  
 Constant—*discern next of kin, mind blank, tongues, true seeing*  
-At will—*breath of life, greater dispel magic, greater scrying* (DC 27), *greater teleport* (self plus 50 lbs. of objects only), *prognostication*  
+At will—*breath of life, greater dispel magic, greater scrying* (DC 27), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[prognostication](../../magic/spells/prognostication.md)*  
 3/day—*haste, mass cure critical wounds* (DC 28)  
-1/day—*moment of prescience, plane shift* (self plus 50 lbs. of objects only), *temporal stasis* (DC 28), *wail of the banshee* (DC 29)
+1/day—*moment of prescience, plane shift* (self plus 50 lbs. of objects only), *[temporal stasis](../../magic/spells/temporal-stasis.md)* (DC 28), *[wail of the banshee](../../magic/spells/wail-of-the-banshee.md)* (DC 29)
 
 **Statistics**
 

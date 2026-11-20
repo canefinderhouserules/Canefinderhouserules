@@ -22,17 +22,17 @@ N Medium humanoid (elf)
 **Melee** *+2 elven curve blade* +18/+13/+8 (1d10+6/15–20)  
 **Special Attacks** bardic performance 39 rounds/day (swift action; countersong, dirge of doom, distraction, fascinate, frightening tune, inspire competence +5, inspire courage +3, inspire greatness, inspire heroics, soothing performance, *suggestion*)  
 **Bard Spells Known** (CL 16th; concentration +21)  
-6th (1/day)—*greater shout* (DC 21), *project image* (DC 21)  
-5th (4/day)—*greater dispel magic*, *mind fog* (DC 20), *mirage arcana* (DC 20), *shadow evocation* (DC 20)  
-4th (5/day)—*dimension door*, *dominate person* (DC 19), *freedom of movement*, *greater invisibility*, *shadow conjuration* (DC 19)  
-3rd (6/day)—*charm monster* (DC 18), *dispel magic*, *haste* (DC 18), *scrying* (DC 18), *slow* (DC 18)  
-2nd (6/day)—*alter self*, *glitterdust* (DC 17), *mirror image*, *pyrotechnics* (DC 17), *silence* (DC 17), *suggestion* (DC 17)  
-1st (7/day)—*charm person* (DC 16), *expeditious retreat*, *grease*, *hideous laughter* (DC 16), *silent image* (DC 16), *unseen servant*  
-0 (at will)—*dancing lights*, *detect magic*, *light*, *mage hand*, *read magic*, *resistance*
+6th (1/day)—*[greater shout* ](../../magic/spells/shout-greater.md)(DC 21), *[project image* ](../../magic/spells/project-image.md)(DC 21)  
+5th (4/day)—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[mind fog* ](../../magic/spells/mind-fog.md)(DC 20), *[mirage arcana* ](../../magic/spells/mirage-arcana.md)(DC 20), *[shadow evocation* ](../../magic/spells/shadow-evocation.md)(DC 20)  
+4th (5/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[dominate person* ](../../magic/spells/dominate-person.md)(DC 19), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[shadow conjuration* ](../../magic/spells/shadow-conjuration.md)(DC 19)  
+3rd (6/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[haste* ](../../magic/spells/haste.md)(DC 18), *[scrying* ](../../magic/spells/scrying.md)(DC 18), *[slow* ](../../magic/spells/slow.md)(DC 18)  
+2nd (6/day)—*[alter self](../../magic/spells/alter-self.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 17), *[mirror image](../../magic/spells/mirror-image.md)*, *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 17), *[silence* ](../../magic/spells/silence.md)(DC 17), *[suggestion* ](../../magic/spells/suggestion.md)(DC 17)  
+1st (7/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[grease](../../magic/spells/grease.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 16), *[silent image* ](../../magic/spells/silent-image.md)(DC 16), *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Tactics**
 
-**During Combat** The bard attacks with his *wand of fireball* and *shadow evocation* spells from a distance, then casts either *greater invisibility* or *mirror image* on himself before entering melee. He augments himself and allies with *haste* and his bardic performance abilities. He then makes melee attacks, stopping to cast spells when necessary.
+**During Combat** The bard attacks with his *wand of fireball* and *[shadow evocation* ](../../magic/spells/shadow-evocation.md)spells from a distance, then casts either *[greater invisibility* ](../../magic/spells/invisibility-greater.md)or *[mirror image* ](../../magic/spells/mirror-image.md)on himself before entering melee. He augments himself and allies with *[haste* ](../../magic/spells/haste.md)and his bardic performance abilities. He then makes melee attacks, stopping to cast spells when necessary.
 
 **Statistics**
 

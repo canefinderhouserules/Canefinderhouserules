@@ -21,9 +21,9 @@ LN Medium outsider (earth, elemental, extraplanar)
 **Melee** 4 claws +24 (2d4+6/19–20 plus crystallization)  
 **Special Attacks** crystal burst (DC 25), crystallization (DC 25), rend (2 claws, 2d4+9)  
 **Spell-Like Abilities** (CL 16th; concentration +23)  
-At will—*dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *shatter* (DC 19), *statue* (DC 24), *stone shape*, *stone tell*  
-3/day—*command stone* (DC 26), *flesh to stone* (DC 23), *spike stones* (DC 21), *wall of stone*  
-1/day—*summon monster VII* (earth elementals only), *symbol of scrying*
+At will—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[shatter* ](../../magic/spells/shatter.md)(DC 19), *[statue* ](../../magic/spells/statue.md)(DC 24), *[stone shape](../../magic/spells/stone-shape.md)*, *[stone tell](../../magic/spells/stone-tell.md)*  
+3/day—*command stone* (DC 26), *[flesh to stone](../../magic/spells/flesh-to-stone.md)* (DC 23), *[spike stones](../../magic/spells/spike-stones.md)* (DC 21), *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+1/day—*[summon monster VII](../../magic/spells/summon-monster-vii.md)* (earth elementals only), *[symbol of scrying](../../magic/spells/symbol-of-scrying.md)*
 
 **Statistics**
 

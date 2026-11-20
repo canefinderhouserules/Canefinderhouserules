@@ -22,10 +22,10 @@ N Large outsider (kami, native, water)
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (80-ft. line, 9d6 bludgeoning damage plus push, Reflex DC 25 for half, usable every 1d4 rounds), constrict (1d8+3), whitewater barrier  
 **Spell-Like Abilities** (CL 18th; concentration +22)  
-Constant—*freedom of movement*, *speak with animals*  
-At will—*control water*, *create water*, *greater dispel magic*, *modify memory* (DC 18), slipstream  
-3/day—*aqueous orb* (DC 17), quickened *telekinesis* (DC 19)  
-1/day—*break enchantment*
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[control water](../../magic/spells/control-water.md)*, *[create water](../../magic/spells/create-water.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[modify memory* ](../../magic/spells/modify-memory.md)(DC 18), slipstream  
+3/day—*[aqueous orb](../../magic/spells/aqueous-orb.md)* (DC 17), quickened *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 19)  
+1/day—*[break enchantment](../../magic/spells/break-enchantment.md)*
 
 **Statistics**
 

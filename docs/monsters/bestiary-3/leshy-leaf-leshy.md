@@ -21,7 +21,7 @@ N Small plant (leshy, shapechanger)
 **Melee** shortspear +2 (1d4–2/19–20)  
 **Ranged**  seedpods +2 touch (1 plus deafen)  
 **Spell-Like Abilities** (CL 2nd; concentration +3)  
-Constant—*pass without trace*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*
 
 **Statistics**
 

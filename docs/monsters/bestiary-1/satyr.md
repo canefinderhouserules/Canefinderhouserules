@@ -22,8 +22,8 @@ CN Medium fey
 **Ranged**  short bow +6 (1d6/×3)  
 **Special Attacks** pipes  
 **Spell-Like Abilities** (CL 8th)  
-At will—*charm person* (DC 15), *dancing lights*, *ghost sound* (DC 14), *sleep* (DC 15), *suggestion* (DC 17)  
-1/day—*fear* (DC 18), *summon nature’s ally III*
+At will—*[charm person* ](../../magic/spells/charm-person.md)(DC 15), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *[sleep* ](../../magic/spells/sleep.md)(DC 15), *[suggestion* ](../../magic/spells/suggestion.md)(DC 17)  
+1/day—*[fear* ](../../magic/spells/fear.md)(DC 18), *[summon nature’s ally III](../../magic/spells/summon-natures-ally-iii.md)*
 
 **Statistics**
 

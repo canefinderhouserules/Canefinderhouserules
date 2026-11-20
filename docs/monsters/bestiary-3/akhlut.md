@@ -23,7 +23,7 @@ N Huge magical beast (cold, shapechanger)
 **Space** 15 ft., **Reach** 10 ft.  
 **Special Attacks** savage bite, shore storming, swallow whole (2d8+15 bludgeoning damage plus 4d6 cold, AC 19, 18 hp)  
 **Spell-Like Abilities** (CL 18th; concentration +16)  
-1/day—*control weather* (windy or cold weather only)
+1/day—*[control weather* ](../../magic/spells/control-weather.md)(windy or cold weather only)
 
 **Statistics**
 

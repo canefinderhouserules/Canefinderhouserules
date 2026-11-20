@@ -22,8 +22,8 @@ CN Large fey
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** swallow whole (1d4 bludgeoning damage, AC 11, 2 hp)  
 **Spell-Like Abilities** (CL 3rd; concentration +2)  
-3/day—*dancing lights*  
-1/day—*entangle* (DC 10), *faerie fire*, *glitterdust* (DC 11)
+3/day—*[dancing lights](../../magic/spells/dancing-lights.md)*  
+1/day—*[entangle* ](../../magic/spells/entangle.md)(DC 10), *[faerie fire](../../magic/spells/faerie-fire.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 11)
 
 **Statistics**
 

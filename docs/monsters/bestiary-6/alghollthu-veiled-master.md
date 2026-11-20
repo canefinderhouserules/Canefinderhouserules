@@ -23,16 +23,16 @@ LE Large aberration (aquatic, shapechanger)
 **Space** 10 ft., **Reach** 10 ft. (20 ft. with claws and tentacles)  
 **Special Attacks** delayed suggestion  
 **Spell-Like Abilities** (CL 20th; concentration +26)  
-Constant—*mage armor*  
-At will—*detect thoughts* (DC 18), *dominate person* (DC 21), *hypnotic pattern* (DC 18), *illusory wall* (DC 20), *mirage arcana* (DC 21), *persistent image* (DC 21), *programmed image* (DC 22), *project image* (DC 23), *veil* (DC 22)  
-3/day—*dominate monster* (DC 25), quickened *dominate person* (DC 21), *geas/quest, mass suggestion* (DC 22)  
+Constant—*[mage armor](../../magic/spells/mage-armor.md)*  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 18), *[dominate person](../../magic/spells/dominate-person.md)* (DC 21), *[hypnotic pattern](../../magic/spells/hypnotic-pattern.md)* (DC 18), *[illusory wall](../../magic/spells/illusory-wall.md)* (DC 20), *[mirage arcana](../../magic/spells/mirage-arcana.md)* (DC 21), *[persistent image](../../magic/spells/persistent-image.md)* (DC 21), *[programmed image](../../magic/spells/programmed-image.md)* (DC 22), *[project image](../../magic/spells/project-image.md)* (DC 23), *[veil](../../magic/spells/veil.md)* (DC 22)  
+3/day—*[dominate monster](../../magic/spells/dominate-monster.md)* (DC 25), quickened *[dominate person](../../magic/spells/dominate-person.md)* (DC 21), *geas/quest, mass suggestion* (DC 22)  
 **Sorcerer Spells Known** (CL 12th; concentration +18)  
-6th (4)—*symbol of persuasion* (DC 23)  
-5th (6)—*symbol of pain* (DC 22), *teleport*  
-4th (7)—*dimension door, phantasmal killer* (DC 20), *symbol of slowing* (DC 21)  
-3rd (7)—*clairaudience/clairvoyance, explosive runes* (DC 20), *hold person* (DC 19), *secret page*  
-2nd (8)—*blindness/deafness* (DC 18), *invisibility, levitate, symbol of mirroring* (DC 19), *touch of idiocy*  
-1st (8)— *charm person* (DC 17), *comprehend languages, erase, ray of enfeeblement* (DC 17), *silent image* (DC 17)  
+6th (4)—*[symbol of persuasion](../../magic/spells/symbol-of-persuasion.md)* (DC 23)  
+5th (6)—*[symbol of pain](../../magic/spells/symbol-of-pain.md)* (DC 22), *[teleport](../../magic/spells/teleport.md)*  
+4th (7)—*dimension door, phantasmal killer* (DC 20), *[symbol of slowing](../../magic/spells/symbol-of-slowing.md)* (DC 21)  
+3rd (7)—*clairaudience/clairvoyance, explosive runes* (DC 20), *[hold person](../../magic/spells/hold-person.md)* (DC 19), *[secret page](../../magic/spells/secret-page.md)*  
+2nd (8)—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 18), *invisibility, levitate, symbol of mirroring* (DC 19), *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1st (8)— *[charm person](../../magic/spells/charm-person.md)* (DC 17), *comprehend languages, erase, ray of enfeeblement* (DC 17), *[silent image](../../magic/spells/silent-image.md)* (DC 17)  
 0 (at will)—*arcane mark, dancing lights, daze* (DC 16), *detect magic, ghost sound* (DC 16), *mage hand, message, read magic, touch of fatigue* (DC 16)
 
 **Statistics**

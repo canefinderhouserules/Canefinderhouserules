@@ -23,7 +23,7 @@ LN Small humanoid (gnome)
 **Ranged**  shuriken +5 (1d1+1) or shuriken flurry of blows +4/+4 (1d1+1)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, flurry of blows, stunning fist (4/day, DC 15)  
 **Spell-Like Abilities** (CL 4th; concentration +5)  
-1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*
 
 **Tactics**
 

@@ -26,9 +26,9 @@ CE Medium humanoid (orc)
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
 4/day—copycat (3 rounds), touch of evil (1 rounds)  
 **Cleric Spells Prepared** (CL 3rd; concentration +4)  
-2nd—*bull’s strength*, *invisibility*<sup>D</sup>  
-1st—*bane* (DC 12), *magic weapon*, *murderous command* (DC 12), *protection from good*<sup>D</sup>  
-0 (at will)—*bleed* (DC 11), *detect magic*, *guidance*, *read magic*  
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[invisibility](../../magic/spells/invisibility.md)*<sup>D</sup>  
+1st—*[bane](../../magic/spells/bane.md)* (DC 12), *[magic weapon](../../magic/spells/magic-weapon.md)*, *[murderous command](../../magic/spells/murderous-command.md)* (DC 12), *[protection from good](../../magic/spells/protection-from-good.md)*<sup>D</sup>  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 11), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** domain spell; **Domains** Evil, Trickery
 
 **Tactics**

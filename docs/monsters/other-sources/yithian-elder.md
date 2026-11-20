@@ -23,9 +23,9 @@ LN Large aberration
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** amnesia, deadly pincers  
 **Spell-Like Abilities** (CL 19th; concentration +27)  
-At will—*astral projection* (self only), *detect thoughts* (DC 18), *hold monster* (DC 21), *modify memory* (DC 21)  
+At will—*[astral projection](../../magic/spells/astral-projection.md)* (self only), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 18), *[hold monster](../../magic/spells/hold-monster.md)* (DC 21), *[modify memory](../../magic/spells/modify-memory.md)* (DC 21)  
 **Psychic Magic** (CL 19th; concentration +27)  
-22 PE—*hypercognition* (2 PE), *intellect fortress III* (6 PE), *major mind swap* (9 PE, DC 29), *mental barrier V* (6 PE), *mind probe* (4 PE, DC 24), *remote viewing* (5 PE), *thought shield V* (6 PE)
+22 PE—*[hypercognition](../../magic/spells/hypercognition.md)* (2 PE), *[intellect fortress III](../../magic/spells/intellect-fortress-iii.md)* (6 PE), *major mind swap* (9 PE, DC 29), *[mental barrier V](../../magic/spells/mental-barrier-v.md)* (6 PE), *[mind probe](../../magic/spells/mind-probe.md)* (4 PE, DC 24), *[remote viewing](../../magic/spells/remote-viewing.md)* (5 PE), *[thought shield V](../../magic/spells/thought-shield-v.md)* (6 PE)
 
 **Statistics**
 

@@ -22,7 +22,7 @@ N Large construct
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** breath weapon (15-ft. cone, see below, Reflex DC 20 half, usable every 1d4 rounds), rend (2 claws, 1d6+10)  
 **Spell-Like Abilities** (CL 20th; concentration +15)  
-Constant—*air walk*, *true seeing*
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[true seeing](../../magic/spells/true-seeing.md)*
 
 **Statistics**
 

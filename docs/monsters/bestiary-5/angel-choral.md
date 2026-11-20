@@ -23,9 +23,9 @@ NG Small outsider (angel, extraplanar, good)
 **Ranged**  piercing hymn +12 touch (4d6 sonic plus deafened)  
 **Special Attacks** countersong, harmonize  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-Constant—*detect evil*  
-At will—*aid*, *ghost sound* (DC 13), *dispel evil* (DC 18), *dispel magic*, *invisibility* (self only), *plane shift* (self only), *remove curse*, *remove disease*, *remove fear*  
-3/day—*cure moderate wounds*, *sculpt sound* (DC 16), *sound burst* (DC 15)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 13), *[dispel evil* ](../../magic/spells/dispel-evil.md)(DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[plane shift](../../magic/spells/plane-shift.md)* (self only), *[remove curse](../../magic/spells/remove-curse.md)*, *[remove disease](../../magic/spells/remove-disease.md)*, *[remove fear](../../magic/spells/remove-fear.md)*  
+3/day—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[sculpt sound](../../magic/spells/sculpt-sound.md)* (DC 16), *[sound burst](../../magic/spells/sound-burst.md)* (DC 15)
 
 **Statistics**
 

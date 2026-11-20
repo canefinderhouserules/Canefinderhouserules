@@ -21,7 +21,7 @@ CN Medium magical beast
 **Melee** bite +13 (1d6+4 plus bleed), claws +12 (1d4+4)  
 **Special Attacks** freewheeling charge, bleed (1d6)  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-3/day—*glitterdust* (DC 15), *silent image* (DC 14)
+3/day—*[glitterdust](../../magic/spells/glitterdust.md)* (DC 15), *[silent image](../../magic/spells/silent-image.md)* (DC 14)
 
 **Statistics**
 

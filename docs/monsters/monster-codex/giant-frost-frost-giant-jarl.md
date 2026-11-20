@@ -25,12 +25,12 @@ CE Large humanoid (cold, giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** combat style (two-weapon), favored enemy (giants +2, humans +4), rock throwing (120 ft.)  
 **Ranger Spells Prepared** (CL 6th; concentration +7)  
-2nd—*communal returning weapon*  
-1st—*call animal*, *charm animal* (DC 12), *lead blades*
+2nd—*[communal returning weapon](../../magic/spells/returning-weapon-communal.md)*  
+1st—*[call animal](../../magic/spells/call-animal.md)*, *[charm animal](../../magic/spells/charm-animal.md)* (DC 12), *[lead blades](../../magic/spells/lead-blades.md)*
 
 **Tactics**
 
-**Before Combat** The jarl casts *communal returning weapon* on his warhammers.  
+**Before Combat** The jarl casts *[communal returning weapon](../../magic/spells/returning-weapon-communal.md)* on his warhammers.  
  **During Combat** The jarl makes full attacks with his warhammers against targets at any range.
 
 **Statistics**

@@ -22,10 +22,10 @@ CN Medium fey
 **Melee** 2 claws +8 (1d8+4)  
 **Ranged** mwk sling +9 (1d4+4)  
 **Spell-Like Abilities** (CL 7th; concentration +11)  
-Constant — *speak with plants*  
-At will — *dancing lights*, *entangle* (DC 15), *plant growth*, *whispering wind*  
-3/day — *deep slumber* (DC 17), *modify memory* (DC 18), *spike growth* (DC 17)  
-1/day — *goodberry*, *hallucinatory terrain* (DC 18), *lesser geas* (DC 17)
+Constant — *[speak with plants](../../magic/spells/speak-with-plants.md)*  
+At will — *[dancing lights](../../magic/spells/dancing-lights.md)*, *[entangle](../../magic/spells/entangle.md)* (DC 15), *[plant growth](../../magic/spells/plant-growth.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*  
+3/day — *[deep slumber](../../magic/spells/deep-slumber.md)* (DC 17), *[modify memory](../../magic/spells/modify-memory.md)* (DC 18), *[spike growth](../../magic/spells/spike-growth.md)* (DC 17)  
+1/day — *[goodberry](../../magic/spells/goodberry.md)*, *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)* (DC 18), *[lesser geas](../../magic/spells/geas-lesser.md)* (DC 17)
 
 **Statistics**
 

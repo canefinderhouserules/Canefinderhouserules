@@ -23,14 +23,14 @@ CE Huge dragon (water)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** acid pool (50-ft. radius), acidic bite, breath weapon (100-ft. line, DC 28, 20d6 acid), corrupt water, crush  
 **Spell-Like Abilities** (CL 22nd)  
-At will—*darkness* (100-ft. radius), *insect plague*, *plant growth*  
+At will—*[darkness* ](../../magic/spells/darkness.md)(100-ft. radius), *[insect plague](../../magic/spells/insect-plague.md)*, *[plant growth](../../magic/spells/plant-growth.md)*  
 **Spells Known** (CL 11th)  
-5th (4/day)—*cone of cold* (DC 19), *wall of force*  
-4th (7/day)—*arcane eye*, *black tentacles*, *dimension door*  
-3rd (7/day)—*dispel magic*, *heroism*, *hold person* (DC 17), *slow* (DC 17)  
-2nd (7/day)—*blur*, *glitterdust* (DC 16), *invisibility*, *summon swarm*, *whispering wind*  
-1st (7/day)—*alarm*, *mage armor*, *magic missile*, *obscuring mist*, *true strike*  
-0 (at will)—*dancing lights*, *detect magic*, *light*, *mage hand*, *mending*, *message*, *prestidigitation*, *read magic*, *resistance*
+5th (4/day)—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 19), *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th (7/day)—*[arcane eye](../../magic/spells/arcane-eye.md)*, *[black tentacles](../../magic/spells/black-tentacles.md)*, *[dimension door](../../magic/spells/dimension-door.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[heroism](../../magic/spells/heroism.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 17), *[slow* ](../../magic/spells/slow.md)(DC 17)  
+2nd (7/day)—*[blur](../../magic/spells/blur.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 16), *[invisibility](../../magic/spells/invisibility.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*  
+1st (7/day)—*[alarm](../../magic/spells/alarm.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

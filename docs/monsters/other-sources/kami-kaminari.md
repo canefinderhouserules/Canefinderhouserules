@@ -23,9 +23,9 @@ CN Huge outsider (air, kami, native)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** trample (2d8+13 plus cacophonous blow, DC 30)  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-At will—*invisibility* (self only), *shatter* (DC 19), *sound burst* (DC 19)  
-3/day—*control weather*, *deafening song bolt*, *discordant blast*, *greater dispel magic*, *mass cacophonous call* (DC 22)  
-1/day—empowered *chain lightning* (DC 23), *greater shout* (DC 25), *storm of vengeance* (DC 26)
+At will—*[invisibility* ](../../magic/spells/invisibility.md)(self only), *[shatter* ](../../magic/spells/shatter.md)(DC 19), *[sound burst](../../magic/spells/sound-burst.md)* (DC 19)  
+3/day—*[control weather](../../magic/spells/control-weather.md)*, *[deafening song bolt](../../magic/spells/deafening-song-bolt.md)*, *[discordant blast](../../magic/spells/discordant-blast.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[mass cacophonous call](../../magic/spells/cacophonous-call-mass.md)* (DC 22)  
+1/day—empowered *[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 23), *[greater shout](../../magic/spells/shout-greater.md)* (DC 25), *[storm of vengeance* ](../../magic/spells/storm-of-vengeance.md)(DC 26)
 
 **Statistics**
 

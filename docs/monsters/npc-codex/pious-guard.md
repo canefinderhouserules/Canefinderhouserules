@@ -24,14 +24,14 @@ LG Medium humanoid (human)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with ranseur)  
 **Special Attacks** channel positive energy (DC 17, 5d6), smite evil 4/day (+2 attack and AC, +10 damage)  
 **Spell-Like Abilities** (CL 10th; concentration +12)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 7th; concentration +9)  
-2nd—*bull’s strength*, *delay poison*  
-1st—*bless*, *lesser restoration*, *protection from evil*
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[delay poison](../../magic/spells/delay-poison.md)*  
+1st—*[bless](../../magic/spells/bless.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*
 
 **Tactics**
 
-**Before Combat** The paladin casts *bull’s strength* and *delay poison*.  
+**Before Combat** The paladin casts *[bull’s strength* ](../../magic/spells/bulls-strength.md)and *[delay poison](../../magic/spells/delay-poison.md)*.  
 **During Combat** The paladin disarms foes to capture and question them. The exceptions are mindless creatures, evil outsiders, and undead, all of which he destroys on the spot.  
 **Base Statistics** Without *bull’s strength*, the paladin’s statistics are **Immune** charm, disease, fear; **Melee** *+1 ranseur* +15/+10 (2d4+5/×3) or mwk longsword +14/+9 (1d8+4/19–20); **Str** 16; **CMB** +13 (+17 disarm); **CMD** 23 (25 vs. disarm).
 

@@ -22,10 +22,10 @@ CE Large outsider (chaotic, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** devouring grapple, monstrous challenge, one-armed hold  
 **Spell-Like Abilities** (CL 16th; concentration +19)  
-Constant—*see invisibility*  
-At will—*dispel magic*, *teleport* (self plus 50 lbs. of objects only)  
-3/day—quickened *hold person* (DC 16)  
-1/day—summon (level 4, 1d4 dire apes 50% or 1d2 girallons 35%), *unholy blight* (DC 17)
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[teleport* ](../../magic/spells/teleport.md)(self plus 50 lbs. of objects only)  
+3/day—quickened *[hold person* ](../../magic/spells/hold-person.md)(DC 16)  
+1/day—summon (level 4, 1d4 dire apes 50% or 1d2 girallons 35%), *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 17)
 
 **Statistics**
 

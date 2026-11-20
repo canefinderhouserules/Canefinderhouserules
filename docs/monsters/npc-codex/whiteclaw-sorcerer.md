@@ -23,8 +23,8 @@ NE Medium humanoid (elf)
 **Ranged**  longbow +3 (1d8/×3)  
 **Special Attacks** claws (2, 1d4, 5 rounds/day)  
 **Sorcerer Spells Known** (CL 3rd; concentration +5)  
-1st (6/day)—*cause fear* (DC 13), *endure elements*, *mage armor*, *magic missile*  
-0 (at will)—*bleed* (DC 12), *detect magic*, *light*, *ray of frost*, *read magic*  
+1st (6/day)—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 13), *[endure elements](../../magic/spells/endure-elements.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 12), *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** draconic (white)
 
 **Tactics**

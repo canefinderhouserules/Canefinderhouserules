@@ -22,8 +22,8 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Ranged**  mwk composite longbow +5 (1d8+2/×3)  
 **Special Attacks** sadistic strike, sinfrenzy  
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
-3/day—*command* (DC 13)  
-1/day—*charm person* (DC 13), *death knell* (DC 14), *enthrall* (DC 14)
+3/day—*[command](../../magic/spells/command.md)* (DC 13)  
+1/day—*[charm person](../../magic/spells/charm-person.md)* (DC 13), *[death knell](../../magic/spells/death-knell.md)* (DC 14), *[enthrall](../../magic/spells/enthrall.md)* (DC 14)
 
 **Statistics**
 

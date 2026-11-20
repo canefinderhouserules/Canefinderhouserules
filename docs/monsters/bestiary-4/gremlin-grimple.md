@@ -23,8 +23,8 @@ CN Tiny fey
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** putrid vomit  
 **Spell-Like Abilities** (CL 1st; concentration –1)  
-At will—*prestidigitation*  
-3/day—*grease* (DC 9), *mage hand*, *open/close*
+At will—*[prestidigitation](../../magic/spells/prestidigitation.md)*  
+3/day—*[grease](../../magic/spells/grease.md)* (DC 9), *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*
 
 **Statistics**
 

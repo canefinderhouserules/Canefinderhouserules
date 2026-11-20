@@ -21,8 +21,8 @@ NE Small fey
 **Melee** scepter +6 (1d6+3), bite +5 (1d6+2 plus paralysis)  
 **Special Attacks** death throes, paralysis (1d4 rounds, DC 14), scepter  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
-At will—*fumbletongue* (DC 13), *mage hand*, *open/close*  
-1/day—*hold animal* (DC 14), *hold person* (DC 14), *invisibility* (self only), *ventriloquism* (DC 13)
+At will—*[fumbletongue](../../magic/spells/fumbletongue.md)* (DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*  
+1/day—*[hold animal](../../magic/spells/hold-animal.md)* (DC 14), *[hold person](../../magic/spells/hold-person.md)* (DC 14), *[invisibility](../../magic/spells/invisibility.md)* (self only), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 13)
 
 **Statistics**
 

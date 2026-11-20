@@ -25,13 +25,13 @@ CN Medium humanoid (human)
 At will—charming smile (12 rounds/day, DC 21), master’s illusion (12 rounds/day, DC 21)  
 8/day—copycat (12 rounds), dazing touch  
 **Cleric Spells Prepared** (CL 12th; concentration +17)  
-6th—*geas/quest*<sup>D</sup>, *greater dispel magic*, *word of recall*  
-5th—*breath of life*, *charm monster*<sup>D</sup> (DC 22), *greater command* (DC 22), *slay living* (DC 20), *spell resistance*  
-4th—*chaos hammer* (DC 19), *cure serious wounds*, *discern lies* (DC 19), *heroism*<sup>D</sup>, *poison* (DC 19)  
-3rd—*invisibility purge*, *magic vestment*, *prayer*, *protection from energy* (DC 18), *searing light*, *suggestion*<sup>D</sup> (DC 20)  
-2nd—*calm emotions* (DC 19), *delay poison* (DC 17), *enthrall* (DC 19), *hold person* (2, DC 19), *invisibility*<sup>D</sup>  
-1st—*charm person*<sup>D</sup> (DC 18), *cure light wounds* (2), *entropic shield*, *hide from undead*, *obscuring mist*, *remove fear*  
-0 (at will)—*detect magic*, *light*, *mending*, *purify food and drink*  
+6th—*[geas/quest](../../magic/spells/geas-quest.md)*<sup>D</sup>, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[word of recall](../../magic/spells/word-of-recall.md)*  
+5th—*[breath of life](../../magic/spells/breath-of-life.md)*, *[charm monster](../../magic/spells/charm-monster.md)*<sup>D</sup> (DC 22), *[greater command* ](../../magic/spells/command-greater.md)(DC 22), *[slay living* ](../../magic/spells/slay-living.md)(DC 20), *[spell resistance](../../magic/spells/spell-resistance.md)*  
+4th—*[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 19), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[discern lies* ](../../magic/spells/discern-lies.md)(DC 19), *[heroism](../../magic/spells/heroism.md)*<sup>D</sup>, *[poison* ](../../magic/spells/poison.md)(DC 19)  
+3rd—*[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*, *[prayer](../../magic/spells/prayer.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(DC 18), *[searing light](../../magic/spells/searing-light.md)*, *[suggestion](../../magic/spells/suggestion.md)*<sup>D</sup> (DC 20)  
+2nd—*[calm emotions* ](../../magic/spells/calm-emotions.md)(DC 19), *[delay poison* ](../../magic/spells/delay-poison.md)(DC 17), *[enthrall* ](../../magic/spells/enthrall.md)(DC 19), *[hold person* ](../../magic/spells/hold-person.md)(2, DC 19), *[invisibility](../../magic/spells/invisibility.md)*<sup>D</sup>  
+1st—*[charm person](../../magic/spells/charm-person.md)*<sup>D</sup> (DC 18), *[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(2), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[hide from undead](../../magic/spells/hide-from-undead.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[remove fear](../../magic/spells/remove-fear.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*  
 **D** Domain spell; **Domains** Charm, Trickery
 
 **Tactics**

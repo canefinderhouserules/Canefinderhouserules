@@ -21,9 +21,9 @@ CE Medium fey (cold)
 **Speed** 30 ft.; icewalking  
 **Melee** *+2 icy burst glaive* +12/+7 (1d10+6/×3 plus 1d6 cold), gore +4 (2d6+1 plus 1d6 cold)  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-Constant—*pass without trace*  
-At will—*chill metal* (DC 15), *deep slumber* (DC 16), *ghost sound* (DC 13), *obscuring mist*, *phantom steed*, *ray of frost*  
-1/day—*freedom of movement*, *ice storm*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*  
+At will—*[chill metal* ](../../magic/spells/chill-metal.md)(DC 15), *[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 16), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[phantom steed](../../magic/spells/phantom-steed.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*  
+1/day—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[ice storm](../../magic/spells/ice-storm.md)*
 
 **Statistics**
 

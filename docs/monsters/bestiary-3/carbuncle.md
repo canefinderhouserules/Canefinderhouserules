@@ -21,7 +21,7 @@ N Tiny magical beast
 **Melee** bite +1 (1d3–3)  
 **Special Attacks** fatal faker, specious suggestion  
 **Spell-Like Abilities** (CL 3rd; concentration +3)  
-3/day—*daze* (DC 10), *jump*, *levitate* (self only, up to 10 feet)
+3/day—*[daze* ](../../magic/spells/daze.md)(DC 10), *[jump](../../magic/spells/jump.md)*, *[levitate* ](../../magic/spells/levitate.md)(self only, up to 10 feet)
 
 **Statistics**
 

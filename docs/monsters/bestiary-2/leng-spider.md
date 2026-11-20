@@ -23,10 +23,10 @@ CE Huge magical beast (extraplanar)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** web (+24 ranged, DC 25, 15 hp), web weaponry  
 **Spell-Like Abilities** (CL 15th; concentration +21)  
-Constant—*arcane sight*, *freedom of movement*, *tongues*  
-At will—*dispel magic*, *fabricate* (webs only)  
-3/day—*air walk*, *invisibility*, *major image* (DC 19)  
-1/day—*charm monster* (DC 20), *insanity* (DC 23), *mirage arcana* (DC 21), *veil* (DC 22)
+Constant—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fabricate* ](../../magic/spells/fabricate.md)(webs only)  
+3/day—*[air walk](../../magic/spells/air-walk.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[major image* ](../../magic/spells/major-image.md)(DC 19)  
+1/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 20), *[insanity* ](../../magic/spells/insanity.md)(DC 23), *[mirage arcana* ](../../magic/spells/mirage-arcana.md)(DC 21), *[veil* ](../../magic/spells/veil.md)(DC 22)
 
 **Statistics**
 

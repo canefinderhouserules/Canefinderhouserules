@@ -20,7 +20,7 @@ N Medium monstrous humanoid (shapechanger)
 **Speed** 30 ft.  
 **Melee** 2 claws +8 (1d8+4)  
 **Spell-Like Abilities** (CL 18th)  
-At will—*detect thoughts* (DC 13)
+At will—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 13)
 
 **Statistics**
 

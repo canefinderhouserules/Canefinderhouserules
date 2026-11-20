@@ -23,8 +23,8 @@ CN Medium humanoid (human)
 **Ranged**  mwk composite longbow +15/+10 (1d8+2/x3)  
 **Special Attacks** combat style (archery), favored enemy (animals +2, constructs +4)  
 **Ranger Spells Prepared** (CL 6th; concentration +7)  
-2nd—*barkskin*  
-1st—*abundant ammunition*, *longstrider*, *resist energy*
+2nd—*[barkskin](../../magic/spells/barkskin.md)*  
+1st—*[abundant ammunition](../../magic/spells/abundant-ammunition.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Statistics**
 

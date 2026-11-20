@@ -21,9 +21,9 @@ CN Medium fey
 **Melee** slam +7 (1d6+4), tail slap +7 (1d6+4 plus 1d4 Cha damage)  
 **Special Attacks** lashing tail, manipulate luck  
 **Spell-Like Abilities** (CL 4th; concentration +8)  
-Constant—*detect snares and pits*, *endure elements*, *pass without trace*  
-3/day—*charm person* (DC 15), *daze monster* (DC 16), *wood shape*  
-1/day—*deep slumber* (DC 17)
+Constant—*[detect snares and pits](../../magic/spells/detect-snares-and-pits.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*  
+3/day—*[charm person](../../magic/spells/charm-person.md)* (DC 15), *[daze monster](../../magic/spells/daze-monster.md)* (DC 16), *[wood shape](../../magic/spells/wood-shape.md)*  
+1/day—*[deep slumber](../../magic/spells/deep-slumber.md)* (DC 17)
 
 **Statistics**
 

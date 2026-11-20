@@ -22,7 +22,7 @@ N Medium outsider (native)
 **Melee** dagger +3 (1d4+1/19–20)  
 **Special Attacks** sneak attack +1d6  
 **Spell-Like Abilities** (CL 1st; concentration +3)  
-1/day—*disguise self* (humanoid only)
+1/day—*[disguise self* ](../../magic/spells/disguise-self.md)(humanoid only)
 
 **Statistics**
 

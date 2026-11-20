@@ -23,9 +23,9 @@ N Medium humanoid
 **Ranged**  *+1 merciful composite longbow* +18/+13/+8 (1d8+3/×3 plus 1d6 nonlethal) or *+1 merciful composite longbow* +16/+16/+11/+6 (1d8+3/×3 plus 1d6 nonlethal)  
 **Special Attacks** favored enemy (humanoids [human] +6, humanoids [elf ] +2, humanoids [halfling] +2), quarry  
 **Ranger Spells Prepared** (CL 9th; concentration +10)  
-3rd—*plant growth*  
-2nd—*barkskin*, *protection from energy*  
-1st—*delay poison*, *entangle* (DC 12), *longstrider*
+3rd—*[plant growth](../../magic/spells/plant-growth.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+1st—*[delay poison](../../magic/spells/delay-poison.md)*, *[entangle](../../magic/spells/entangle.md)* (DC 12), *[longstrider](../../magic/spells/longstrider.md)*
 
 **Statistics**
 

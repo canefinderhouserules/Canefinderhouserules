@@ -20,8 +20,8 @@ N Large aberration (extraplanar)
 **Melee** bite +15 (3d8+9 plus poison)  
 **Space** 10 ft., **Reach** 5 ft.  
 **Spell-Like Abilities** (CL 7th; concentration +11)  
-3rd (5/day)—*synaptic pulse* (DC 16), *synesthesia* (DC 16)  
-2nd (7/day)—*misdirection, oneiric horror* (DC 15), *see invisibility*  
+3rd (5/day)—*[synaptic pulse](../../magic/spells/synaptic-pulse.md)* (DC 16), *[synesthesia](../../magic/spells/synesthesia.md)* (DC 16)  
+2nd (7/day)—*misdirection, oneiric horror* (DC 15), *[see invisibility](../../magic/spells/see-invisibility.md)*  
 1st (7/day)—*deja vu, ill omen, mind thrust I* (DC 14), *shield, silent image* (DC 14)  
 0 (6/day)—*dancing lights, daze* (DC 13), *detect psychic significance, ghost sound* (DC 13), *mage hand, read magic, telekinetic maneuver*
 

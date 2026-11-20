@@ -22,10 +22,10 @@ CN Large dragon
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** bewildering breath, breath weapon (80-ft. line, 6d8 cold, DC 18), moonsilver  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-At will—*dancing lights*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*  
 **Sorcerer Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*comprehend languages*, *mage armor*  
-0 (at will)—*detect magic*, *light*, *mage hand*, *read magic*
+1st (4/day)—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[mage armor](../../magic/spells/mage-armor.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

@@ -21,10 +21,10 @@ CG Large magical beast
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** pounce, rake (2 claws +20, 2d6+8), roar  
 **Spells Prepared** (CL 6th; concentration +9)  
-3rd—*bestow curse* (DC 16), *searing light*, *speak with dead*  
-2nd—*bull’s strength*, *calm emotions* (DC 15), *cure moderate wounds*, *resist energy*  
-1st—*comprehend languages*, *divine favor*, *remove fear*, *shield of faith*  
-0—*detect magic*, *guidance*, *purify food and drink*, *stabilize*
+3rd—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 16), *[searing light](../../magic/spells/searing-light.md)*, *[speak with dead](../../magic/spells/speak-with-dead.md)*  
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[calm emotions* ](../../magic/spells/calm-emotions.md)(DC 15), *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

@@ -21,9 +21,9 @@ CE Medium undead (earth)
 **Speed** 30 ft., burrow 15 ft.; earth glide  
 **Melee** bite +14 (1d8+6 plus misfortune), 2 slams +14 (1d6+6 plus misfortune)  
 **Spell-Like Abilities** (CL 8th; concentration +13)  
-At will—*stone shape*  
-3/day—*soften earth and stone*, *spike growth* (DC 18)  
-1/day—*spike stones* (DC 19), *transmute mud to rock* (DC 20), *transmute rock to mud* (DC 20)
+At will—*[stone shape](../../magic/spells/stone-shape.md)*  
+3/day—*[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*, *[spike growth* ](../../magic/spells/spike-growth.md)(DC 18)  
+1/day—*[spike stones* ](../../magic/spells/spike-stones.md)(DC 19), *[transmute mud to rock* ](../../magic/spells/transmute-mud-to-rock.md)(DC 20), *[transmute rock to mud* ](../../magic/spells/transmute-rock-to-mud.md)(DC 20)
 
 **Statistics**
 

@@ -23,12 +23,12 @@ CE Huge dragon (earth)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite and gore)  
 **Special Attacks** breath weapon (50-ft. cone, 12d6 piercing damage, DC 24), crush (DC 24, 2d8+13)  
 **Spell-Like Abilities** (CL 17th; concentration +20)  
-At will—*blight* (DC 18), *entangle* (DC 14), *pass without trace*  
+At will—*[blight* ](../../magic/spells/blight.md)(DC 18), *[entangle* ](../../magic/spells/entangle.md)(DC 14), *[pass without trace](../../magic/spells/pass-without-trace.md)*  
 **Spells Known** (CL 7th; concentration +10)  
-3rd (5/day)—*wind wall*, *stinking cloud* (DC 16)  
-2nd (7/day)—*fog cloud*, *hideous laughter* (DC 15), *touch of idiocy*  
-1st (7/day)—*hypnotism* (DC 14), *obscuring mist*, *magic missile*, *ray of enfeeblement* (DC 14), *shield*  
-0 (at-will)—*daze* (DC 13), *detect magic*, *ghost sound*, *mage hand*, *read magic*, *resistance*, *touch of fatigue*
+3rd (5/day)—*[wind wall](../../magic/spells/wind-wall.md)*, *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 16)  
+2nd (7/day)—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 15), *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1st (7/day)—*[hypnotism* ](../../magic/spells/hypnotism.md)(DC 14), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 14), *[shield](../../magic/spells/shield.md)*  
+0 (at-will)—*[daze* ](../../magic/spells/daze.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)*
 
 **Statistics**
 

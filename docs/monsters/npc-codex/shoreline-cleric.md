@@ -25,9 +25,9 @@ N Medium humanoid (elf, human)
 **Spell-Like Abilities** (CL 4th; concentration +8)  
 7/day—storm burst (1d6+2 nonlethal damage)  
 **Cleric Spells Prepared** (CL 4th; concentration +8)  
-2nd—*barkskin*, *hold person* (2, DC 16), *summon monster II*  
-1st—*cause fear* (DC 15), *cure light wounds*, *endure elements*, *entangle* (DC 15), *entropic shield*  
-0 (at will)—*bleed* (2, DC 14), *guidance*, *light*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[hold person* ](../../magic/spells/hold-person.md)(2, DC 16), *[summon monster II](../../magic/spells/summon-monster-ii.md)*  
+1st—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 15), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[entangle* ](../../magic/spells/entangle.md)(DC 15), *[entropic shield](../../magic/spells/entropic-shield.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(2, DC 14), *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*  
 **D** Domain spell; **Domains** Plant, Weather
 
 **Tactics**

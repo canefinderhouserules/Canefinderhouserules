@@ -23,8 +23,8 @@ N Medium humanoid
 **Space** 5 ft., **Reach** 5 ft. (15 ft. with whip)  
 **Special Attacks** bardic performance 9 rounds/day (countersong, distraction, fascinate [DC 14], inspire courage +1)  
 **Bard Spells Known** (CL 2nd; concentration +5)  
-1st (3/day)—*comprehend languages*, *hideous laughter* (DC 14), *ventriloquism*  
-0 (at will)—*dancing lights*, *daze* (DC 13), *ghost sound* (DC 13), *message*, *prestigiditation*
+1st (3/day)—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[hideous laughter](../../magic/spells/hideous-laughter.md)* (DC 14), *[ventriloquism](../../magic/spells/ventriloquism.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze](../../magic/spells/daze.md)* (DC 13), *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 13), *[message](../../magic/spells/message.md)*, *[prestigiditation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

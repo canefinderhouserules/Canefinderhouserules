@@ -22,7 +22,7 @@ LE Medium outsider (devil, evil, extraplanar, lawful)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with glaive)  
 **Special Attacks** beard  
 **Spell-Like Abilities** (CL 12th)  
-At will—*greater teleport* (self plus 50 lbs. of objects only)  
+At will—*[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)  
 1/day—summon (level 3, 1 bearded devil or 6 lemures, 50%)
 
 **Statistics**

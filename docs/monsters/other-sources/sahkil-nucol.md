@@ -21,10 +21,10 @@ NE Medium outsider (evil, extraplanar, sahkil)
 **Melee** gore +10 (2d6+7 plus nervous consumption)  
 **Special Attacks** cough, look of fear (DC 15), spirit touch  
 **Spell-Like Abilities** (CL 4th; concentration +7)  
-Constant—*detect magic*  
- At will—*open/close*  
- 3/day—*grease* (DC 14), *sense fear*  
- 1/day—*remove disease*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+ At will—*[open/close](../../magic/spells/open-close.md)*  
+ 3/day—*[grease](../../magic/spells/grease.md)* (DC 14), *[sense fear](../../magic/spells/sense-fear.md)*  
+ 1/day—*[remove disease](../../magic/spells/remove-disease.md)*
 
 **Statistics**
 

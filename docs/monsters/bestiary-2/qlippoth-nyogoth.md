@@ -21,9 +21,9 @@ CE Medium outsider (chaotic, evil, extraplanar, qlippoth)
 **Melee** 4 bites +15 (1d6+3/19–20 plus 1d4 acid), bite +15 (2d6+3/19–20 plus 1d4 acid)  
 **Special Attacks** horrific appearance (DC 18)  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-At will—*acid arrow*  
-7/day—*fear* (DC 17), *protection from law*  
-1/day—*acid fog*, *dimension door*
+At will—*[acid arrow](../../magic/spells/acid-arrow.md)*  
+7/day—*[fear* ](../../magic/spells/fear.md)(DC 17), *[protection from law](../../magic/spells/protection-from-law.md)*  
+1/day—*[acid fog](../../magic/spells/acid-fog.md)*, *[dimension door](../../magic/spells/dimension-door.md)*
 
 **Statistics**
 

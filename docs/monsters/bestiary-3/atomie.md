@@ -22,10 +22,10 @@ CN Diminutive fey
 **Space** 1 ft., **Reach** 0 ft.  
 **Special Attacks** sneak attack +1d6  
 **Spell-Like Abilities** (CL 6th; concentration +10)  
-Constant—*speak with animals*  
-At will—*dancing lights*, *reduce person* (DC 15)  
-3/day—*invisibility* (self only)  
-1/day—*shrink item*
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[reduce person* ](../../magic/spells/reduce-person.md)(DC 15)  
+3/day—*[invisibility* ](../../magic/spells/invisibility.md)(self only)  
+1/day—*[shrink item](../../magic/spells/shrink-item.md)*
 
 **Statistics**
 

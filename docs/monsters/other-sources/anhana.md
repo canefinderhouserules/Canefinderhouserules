@@ -20,10 +20,10 @@ CG Small fey
 **Speed** 30 ft.  
 **Melee** shears +7 (1d8+1/19–20)  
 **Spell-Like Abilities** (CL 5th; concentration +9)  
-Constant—*speak with animals*  
-At will—*ghost sound*  
-3/day—*deep slumber* (DC 17), *entangle* (DC 15), *hideous laughter* (DC 16)  
-1/day—*thorn body*
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[ghost sound](../../magic/spells/ghost-sound.md)*  
+3/day—*[deep slumber](../../magic/spells/deep-slumber.md)* (DC 17), *[entangle* ](../../magic/spells/entangle.md)(DC 15), *[hideous laughter](../../magic/spells/hideous-laughter.md)* (DC 16)  
+1/day—*[thorn body](../../magic/spells/thorn-body.md)*
 
 **Statistics**
 

@@ -22,19 +22,19 @@ LE Gargantuan aberration (aquatic)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** mucus cloud, slime, thought barrage  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*mage armor*, *tongues*  
-At will—*detect magic*, *detect thoughts* (DC 19), *dominate person* (DC 22)  
-3/day—*arcane eye*, *dominate monster* (DC 26), *geas/quest* (DC 23), *mind fog* (DC 22), *mirage arcana* (DC 22)  
-1/day—*astral projection*, *veil* (DC 23)  
+Constant—*[mage armor](../../magic/spells/mage-armor.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 19), *[dominate person](../../magic/spells/dominate-person.md)* (DC 22)  
+3/day—*[arcane eye](../../magic/spells/arcane-eye.md)*, *[dominate monster](../../magic/spells/dominate-monster.md)* (DC 26), *[geas/quest](../../magic/spells/geas-quest.md)* (DC 23), *[mind fog](../../magic/spells/mind-fog.md)* (DC 22), *[mirage arcana](../../magic/spells/mirage-arcana.md)* (DC 22)  
+1/day—*[astral projection](../../magic/spells/astral-projection.md)*, *[veil](../../magic/spells/veil.md)* (DC 23)  
 **Psychic Spells Known** (CL 15th; concentration +22)  
-7th (5/day)—*ectoplasmic eruption* (DC 24), *psychic crush III* (DC 24)  
-6th (7/day)—*incorporeal chains*, *mind thrust VI* (DC 23), *primal regression* (DC 23)  
-5th (7/day)—*etheric shards* (DC 22), *explode head* (DC 22), *mind swap* (DC 22), *possession* (DC 22)  
-4th (7/day)—*condensed ether*, *mindwipe* (DC 21), *riding possession* (DC 21), *stoneskin*  
-3rd (8/day)—*babble* (DC 20), *catatonia*, *displacement*, *synesthesia* (DC 20)  
-2nd (8/day)—*aversion* (DC 19), *invisibility*, *paranoia* (DC 19), *resist energy*, *touch of idiocy*  
-1st (8)—*deja vu*, *psychic reading*, *shield*, *thought echo*, *true strike*  
-0 (at will)—*arcane mark*, *bleed* (DC 17), *detect magic*, *grave words*, *mage hand*, *open/close*, *prestidigitation*, *read magic*, *telekinetic projectile*
+7th (5/day)—*[ectoplasmic eruption](../../magic/spells/ectoplasmic-eruption.md)* (DC 24), *[psychic crush III](../../magic/spells/psychic-crush-iii.md)* (DC 24)  
+6th (7/day)—*[incorporeal chains](../../magic/spells/incorporeal-chains.md)*, *[mind thrust VI](../../magic/spells/mind-thrust-vi.md)* (DC 23), *[primal regression](../../magic/spells/primal-regression.md)* (DC 23)  
+5th (7/day)—*[etheric shards](../../magic/spells/etheric-shards.md)* (DC 22), *[explode head](../../magic/spells/explode-head.md)* (DC 22), *[mind swap](../../magic/spells/mind-swap.md)* (DC 22), *[possession](../../magic/spells/possession.md)* (DC 22)  
+4th (7/day)—*[condensed ether](../../magic/spells/condensed-ether.md)*, *[mindwipe](../../magic/spells/mindwipe.md)* (DC 21), *[riding possession](../../magic/spells/riding-possession.md)* (DC 21), *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (8/day)—*[babble](../../magic/spells/babble.md)* (DC 20), *[catatonia](../../magic/spells/catatonia.md)*, *[displacement](../../magic/spells/displacement.md)*, *[synesthesia](../../magic/spells/synesthesia.md)* (DC 20)  
+2nd (8/day)—*[aversion](../../magic/spells/aversion.md)* (DC 19), *[invisibility](../../magic/spells/invisibility.md)*, *[paranoia](../../magic/spells/paranoia.md)* (DC 19), *[resist energy](../../magic/spells/resist-energy.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1st (8)—*[deja vu](../../magic/spells/deja-vu.md)*, *[psychic reading](../../magic/spells/psychic-reading.md)*, *[shield](../../magic/spells/shield.md)*, *[thought echo](../../magic/spells/thought-echo.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[bleed](../../magic/spells/bleed.md)* (DC 17), *[detect magic](../../magic/spells/detect-magic.md)*, *[grave words](../../magic/spells/grave-words.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[telekinetic projectile](../../magic/spells/telekinetic-projectile.md)*
 
 **Statistics**
 

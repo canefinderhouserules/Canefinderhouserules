@@ -21,8 +21,8 @@ NE Small undead (incorporeal)
 **Speed** 30 ft.  
 **Melee** incorporeal touch +15 (6d8 negative energy plus lignify)  
 **Spell-Like Abilities** (CL 8th; concentration +13)  
-3/day—*entangle* (DC 16)  
-1/day—*plant growth*
+3/day—*[entangle](../../magic/spells/entangle.md)* (DC 16)  
+1/day—*[plant growth](../../magic/spells/plant-growth.md)*
 
 **Statistics**
 

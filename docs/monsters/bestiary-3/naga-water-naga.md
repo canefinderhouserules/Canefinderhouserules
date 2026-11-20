@@ -20,10 +20,10 @@ N Large aberration (aquatic)
 **Melee** bite +10 (2d6+5 plus poison), tail slap +5 (1d8+2)  
 **Space** 10 ft., **Reach** 5 ft.  
 **Spells Known** (CL 7th; concentration +11)  
-3rd (5/day)—*protection from energy*, *suggestion* (DC 17)  
-2nd (7/day)—*acid arrow*, *invisibility*, *mirror image*  
-1st (7/day)—*expeditious retreat*, *magic missile*, *obscuring mist*, *shield*, *true strike*  
-0 (at will)—*acid splash*, *daze* (DC 14), *detect magic*, *light*, *mage hand*, *open/close*, *read magic*
+3rd (5/day)—*[protection from energy](../../magic/spells/protection-from-energy.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 17)  
+2nd (7/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (7/day)—*[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[daze* ](../../magic/spells/daze.md)(DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

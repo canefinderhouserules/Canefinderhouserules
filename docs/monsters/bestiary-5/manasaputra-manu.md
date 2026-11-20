@@ -22,12 +22,12 @@ LG Medium outsider (extraplanar, good, lawful, manasaputra)
 **Speed** 30 ft., fly 60 ft. (perfect)  
 **Melee** 4 slams +18 (1d10+1)  
 **Spell-Like Abilities** (CL 12th; concentration +17; Wis-based)  
-At will—*greater teleport* (self only), *plane shift* (self only)  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self only), *[plane shift](../../magic/spells/plane-shift.md)* (self only)  
 **Psychic Magic** (CL 12th; concentration +17; Wis-based)  
-25 PE—*analyze aura* (3 PE), *aversion* (2 PE, DC 17),
-*enshroud thoughts* (2 PE), *mind thrust VI* (6 PE, DC 21),
-*psychic asylum* (5 PE), *psychic crush I* (5 PE, DC 20),
-*quintessence* (1 PE)
+25 PE—*[analyze aura](../../magic/spells/analyze-aura.md)* (3 PE), *[aversion](../../magic/spells/aversion.md)* (2 PE, DC 17),
+*[enshroud thoughts](../../magic/spells/enshroud-thoughts.md)* (2 PE), *[mind thrust VI](../../magic/spells/mind-thrust-vi.md)* (6 PE, DC 21),
+*[psychic asylum](../../magic/spells/psychic-asylum.md)* (5 PE), *[psychic crush I](../../magic/spells/psychic-crush-i.md)* (5 PE, DC 20),
+*[quintessence](../../magic/spells/quintessence.md)* (1 PE)
 
 **Statistics**
 

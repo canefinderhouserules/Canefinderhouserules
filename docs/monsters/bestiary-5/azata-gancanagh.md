@@ -21,8 +21,8 @@ CG Medium outsider (azata, chaotic, extraplanar, good)
 **Speed** 40 ft.  
 **Melee** *+1 mithral rapier* +11 (1d6+6/18-20)  
 **Spell-Like Abilities** (CL 5th; concentration +10)  
-At will—*charm person* (DC 16), *mirror image*, *suggestion* (DC 17)  
-1/day—*cure moderate wounds*, *good hope*
+At will—*[charm person](../../magic/spells/charm-person.md)* (DC 16), *[mirror image](../../magic/spells/mirror-image.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 17)  
+1/day—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[good hope](../../magic/spells/good-hope.md)*
 
 **Statistics**
 

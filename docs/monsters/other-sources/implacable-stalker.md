@@ -24,7 +24,7 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with longspear)  
 **Special Attacks** gory display, right behind you, sneak attack +2d6  
 **Spell-Like Abilities** (CL 7th; concentration +10)  
-Constant—*see invisibility*  
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
  At will—*darkness, dispel magic, greater teleport* (self plus 50 lbs. of objects only)  
  1/day—summon (level 3, 1 babau 40%)
 

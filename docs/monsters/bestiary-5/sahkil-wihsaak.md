@@ -24,9 +24,9 @@ poison; **Resist** cold 10, electricity 10, sonic 10; **SR** 17
 **Special Attacks** droning madness, look of fear (30 ft.,
 DC 18), spirit touch  
 **Spell-Like Abilities** (CL 8th; concentration +10)  
-At will—*blur, detect magic, greater teleport* (self plus 50 lbs. of objects only), *vomit swarm*  
+At will—*blur, detect magic, greater teleport* (self plus 50 lbs. of objects only), *[vomit swarm](../../magic/spells/vomit-swarm.md)*  
 
-1/day—*see invisibility, suggestion* (DC 15), *unholy blight* (DC 16)
+1/day—*see invisibility, suggestion* (DC 15), *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 16)
 
 **Statistics**
 

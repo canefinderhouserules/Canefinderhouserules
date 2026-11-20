@@ -24,7 +24,7 @@ N Colossal magical beast (air, behemoth)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** bleed (2d6), gale, ruinous, thunderbolt  
 **Spell-Like Abilities** (CL 20th; concentration +22)  
-3/day—*storm of vengeance* (DC 21)
+3/day—*[storm of vengeance* ](../../magic/spells/storm-of-vengeance.md)(DC 21)
 
 **Statistics**
 

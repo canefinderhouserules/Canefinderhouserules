@@ -24,12 +24,12 @@ LE Medium humanoid (goblinoid)
 **Spell-Like Abilities** (CL 9th; concentration +12)  
 6/day—battle rage (+4), touch of law  
 **Cleric Spells Prepared** (CL 9th; concentration +12)  
-5th—*flame strike*<sup>D</sup> (DC 18), *righteous might*  
-4th—*blessing of fervor*, *cure critical wounds*, *divine power*<sup>D</sup>  
-3rd—*blindness/deafness* (DC 16), *cure serious wounds*, *dispel magic*, *magic circle against chaos*<sup>D</sup>, *prayer*  
-2nd—*aid*, *bear’s endurance*, *death knell* (DC 15), *lesser restoration*, *sound burst* (DC 15), *spiritual weapon*<sup>D</sup>  
-1st—*bless*, *entropic shield*, *magic weapon*<sup>D</sup>, *remove fear* (2), *shield of faith*  
-0 (at will)—*bleed* (DC 13), *detect magic*, *guidance*, *stabilize*  
+5th—*[flame strike](../../magic/spells/flame-strike.md)*<sup>D</sup> (DC 18), *[righteous might](../../magic/spells/righteous-might.md)*  
+4th—*[blessing of fervor](../../magic/spells/blessing-of-fervor.md)*, *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[divine power](../../magic/spells/divine-power.md)*<sup>D</sup>  
+3rd—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 16), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic circle against chaos](../../magic/spells/magic-circle-against-chaos.md)*<sup>D</sup>, *[prayer](../../magic/spells/prayer.md)*  
+2nd—*[aid](../../magic/spells/aid.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[death knell](../../magic/spells/death-knell.md)* (DC 15), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[sound burst](../../magic/spells/sound-burst.md)* (DC 15), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*<sup>D</sup>  
+1st—*[bless](../../magic/spells/bless.md)*, *[entropic shield](../../magic/spells/entropic-shield.md)*, *[magic weapon](../../magic/spells/magic-weapon.md)*<sup>D</sup>, *[remove fear](../../magic/spells/remove-fear.md)* (2), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** domain spell; **Domains** Law, War
 
 **Tactics**

@@ -23,10 +23,10 @@ N Large aberration
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** hypnotic oscillation, light tentacles  
 **Psychic Magic** (CL 13th; concentration +19)  
-24 PE—*heal* (6 PE), *mass bear’s endurance* (6 PE), *mass bull’s strength* (6 PE)  
+24 PE—*[heal](../../magic/spells/heal.md)* (6 PE), *[mass bear’s endurance](../../magic/spells/bears-endurance-mass.md)* (6 PE), *[mass bull’s strength](../../magic/spells/bulls-strength-mass.md)* (6 PE)  
 **Spell-Like Abilities** (CL 13th; concentration +19)  
-Constant—*mage armor*, *mental barrier I*  
-At will—*cure moderate wounds*
+Constant—*[mage armor](../../magic/spells/mage-armor.md)*, *[mental barrier I](../../magic/spells/mental-barrier-i.md)*  
+At will—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*
 
 **Statistics**
 

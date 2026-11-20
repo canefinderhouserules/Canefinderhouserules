@@ -24,9 +24,9 @@ CG or CE Huge humanoid (giant)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** sun dart  
 **Spell-Like Abilities** (CL 21st; concentration +24)  
-At will—*daylight*, *eagle eye*, *remove blindness/deafness*, *sunburst* (DC 21)  
-3/day—quickened *blistering invective* (DC 15)  
-1/day—*flame strike* (DC 18), *waves of exhaustion*
+At will—*[daylight](../../magic/spells/daylight.md)*, *[eagle eye](../../magic/spells/eagle-eye.md)*, *[remove blindness/deafness](../../magic/spells/remove-blindness-deafness.md)*, *[sunburst](../../magic/spells/sunburst.md)* (DC 21)  
+3/day—quickened *[blistering invective* ](../../magic/spells/blistering-invective.md)(DC 15)  
+1/day—*[flame strike](../../magic/spells/flame-strike.md)* (DC 18), *[waves of exhaustion](../../magic/spells/waves-of-exhaustion.md)*
 
 **Statistics**
 

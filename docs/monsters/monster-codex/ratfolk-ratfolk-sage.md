@@ -24,11 +24,11 @@ N Small humanoid (ratfolk)
 **Spell-Like Abilities** (CL 7th; concentration +12)  
 8/day—diviner’s fortune (+3)  
 **Diviner Spells Prepared** (CL 7th; concentration +12)  
-4th—*arcane eye*, *dimension door*, *wall of fire*  
-3rd—*dispel magic*, *haste*, *lightning bolt* (DC 18), *tongues*  
-2nd—*glitterdust* (DC 17), *invisibility*, *scorching ray*, *see invisibility*, *spider climb*  
-1st—*alarm*, *comprehend languages*, *expeditious retreat*, *grease* (DC 16), *mage armor*, *magic missile* (2)  
-0 (at will)—*acid splash*, *dancing lights*, *detect magic*, *message*  
+4th—*[arcane eye](../../magic/spells/arcane-eye.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[haste](../../magic/spells/haste.md)*, *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 18), *[tongues](../../magic/spells/tongues.md)*  
+2nd—*[glitterdust](../../magic/spells/glitterdust.md)* (DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[spider climb](../../magic/spells/spider-climb.md)*  
+1st—*[alarm](../../magic/spells/alarm.md)*, *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[grease](../../magic/spells/grease.md)* (DC 16), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)* (2)  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[message](../../magic/spells/message.md)*  
 **Opposition Schools** enchantment, necromancy
 
 **Tactics**

@@ -22,7 +22,7 @@ CE Gargantuan outsider (chaotic, demodand, evil, extraplanar)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** Abyssal roar, bleed (2d6), faith-stealing strike (DC 27), rend (4 claws, 2d6+16), stunning descent  
 **Spell-Like Abilities** (CL 20th; concentration +23)  
-Constant—*detect good*, *detect magic*, *true seeing*  
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
 1/day—summon (level 8, 1d8 tarry demodands or 1d4 slimy demodands or 1 shaggy demodand 75%)
 
 **Statistics**

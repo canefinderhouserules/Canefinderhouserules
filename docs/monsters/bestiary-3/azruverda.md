@@ -23,8 +23,8 @@ CG Huge aberration
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** acid spit, rend (1d10+11)  
 **Spell-Like Abilities** (CL 16th; concentration +23)  
-At will—*dancing lights*, *faerie fire*  
-3/day—*daylight*, *giant vermin*, *insect plague*, *repel vermin* (DC 21), *summon swarm*
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*  
+3/day—*[daylight](../../magic/spells/daylight.md)*, *[giant vermin](../../magic/spells/giant-vermin.md)*, *[insect plague](../../magic/spells/insect-plague.md)*, *[repel vermin* ](../../magic/spells/repel-vermin.md)(DC 21), *[summon swarm](../../magic/spells/summon-swarm.md)*
 
 **Statistics**
 

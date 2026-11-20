@@ -22,9 +22,9 @@ CE Large aberration (extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** fast swallow, forever gullet, swallow whole (8d6 slashing damage, AC 15, 17 hp)  
 **Spell-Like Abilities** (CL 13th; concentration +16)  
-Constant—*feather fall*  
-At will—*gust of wind* (DC 15)  
-1/day—*control winds* (DC 18), *wind wall*
+Constant—*[feather fall](../../magic/spells/feather-fall.md)*  
+At will—*[gust of wind](../../magic/spells/gust-of-wind.md)* (DC 15)  
+1/day—*[control winds](../../magic/spells/control-winds.md)* (DC 18), *[wind wall](../../magic/spells/wind-wall.md)*
 
 **Statistics**
 

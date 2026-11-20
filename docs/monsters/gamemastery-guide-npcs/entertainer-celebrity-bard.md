@@ -22,11 +22,11 @@ N Medium humanoid
 **Ranged**  mwk light crossbow +11 (1d8/19–20)  
 **Special Attacks** bardic music 30 rounds/day (countersong, dirge of doom, distraction, fascinate, inspire competence +4, inspire courage +3, inspire greatness, suggestion)  
 **Bard Spells Known** (CL 11th; concentration +17)  
-4th (3/day)—*dominate person* (DC 20), *greater invisibility*, *rainbow pattern* (DC 20)  
-3rd (5/day)—*charm monster* (DC 19), *crushing despair* (DC 19), *haste*, *slow* (DC 19)  
-2nd (6/day)—*cure moderate wounds*, *hold person* (DC 18), *minor image* (DC 18), *silence* (DC 18), *tongues*  
-1st (7/day)—*charm person* (DC 17), *cure light wounds*, *disguise self*, *expeditious retreat*, *hideous laughter* (DC 17), *identify*  
-0 (at will)—*dancing lights*, *detect magic*, *light*, *mage hand*, *prestidigitation*, *read magic*
+4th (3/day)—*[dominate person](../../magic/spells/dominate-person.md)* (DC 20), *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[rainbow pattern](../../magic/spells/rainbow-pattern.md)* (DC 20)  
+3rd (5/day)—*[charm monster](../../magic/spells/charm-monster.md)* (DC 19), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 19), *[haste](../../magic/spells/haste.md)*, *[slow](../../magic/spells/slow.md)* (DC 19)  
+2nd (6/day)—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 18), *[minor image](../../magic/spells/minor-image.md)* (DC 18), *[silence](../../magic/spells/silence.md)* (DC 18), *[tongues](../../magic/spells/tongues.md)*  
+1st (7/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 17), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[hideous laughter](../../magic/spells/hideous-laughter.md)* (DC 17), *[identify](../../magic/spells/identify.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

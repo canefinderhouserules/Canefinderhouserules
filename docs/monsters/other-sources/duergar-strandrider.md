@@ -24,7 +24,7 @@ LE Medium humanoid (dwarf)
 **Ranged**  sling +11 (1d4+3)  
 **Special Attacks** banner +2, cavalier’s charge, challenge 3/day (+9 damage, +3 to hit while riding mount), greater tactician 2/day (Outflank or Precise Strike, swift action, 7 rounds)  
 **Spell-Like Abilities** (CL 9th; concentration +7)  
-1/day—*enlarge person* (self only), *invisibility* (self only)
+1/day—*[enlarge person](../../magic/spells/enlarge-person.md)* (self only), *[invisibility](../../magic/spells/invisibility.md)* (self only)
 
 **Statistics**
 

@@ -21,10 +21,10 @@ CN Medium outsider (extraplanar)
 **Melee** *+2 returning spear* +23/+18/+13/+8 (1d8+8/×3)  
 **Ranged**  *+2 returning spear* +22 (1d8+6/×3)  
 **Spell-Like Abilities** (CL 12th; concentration +18)  
-Constant—*deathwatch*, *tongues*  
-At will—*aid*, *death ward*, *gentle repose*, *plane shift* (self and mount only)  
-3/day—*call lightning storm* (DC 21), *divine power*, *geas/quest*  
-1/day—*breath of life*, *heal*, summon (level 8, 1 sleipnir 100%)
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[death ward](../../magic/spells/death-ward.md)*, *[gentle repose](../../magic/spells/gentle-repose.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(self and mount only)  
+3/day—*[call lightning storm* ](../../magic/spells/call-lightning-storm.md)(DC 21), *[divine power](../../magic/spells/divine-power.md)*, *[geas/quest](../../magic/spells/geas-quest.md)*  
+1/day—*[breath of life](../../magic/spells/breath-of-life.md)*, *[heal](../../magic/spells/heal.md)*, summon (level 8, 1 sleipnir 100%)
 
 **Statistics**
 

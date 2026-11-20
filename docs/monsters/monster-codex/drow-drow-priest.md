@@ -23,16 +23,16 @@ CE Medium humanoid (elf)
 **Melee** mwk flail +4 (1d8)  
 **Special Attacks** channel negative energy 7/day (DC 14, 3d6), hand of the acolyte (7/day)  
 **Spell-Like Abilities** (CL 5th)  
-Constant—*detect magic*  
-At will—*dancing lights*, *deeper darkness*, *faerie fire*, *feather fall*, *levitate*  
-1/day—*dispel magic*, *divine favor*, *suggestion* (DC 15)  
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[levitate](../../magic/spells/levitate.md)*  
+1/day—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 15)  
 **Domain Spell-Like Abilities** (CL 5th; concentration +9)  
 7/day—touch of evil (2 rounds)  
 **Cleric Spells Prepared** (CL 5th; concentration +9)  
-3rd—*chain of perdition*, *dispel magic*<sup>D</sup>, *protection from energy*  
-2nd—*align weapon*<sup>D</sup> (evil only), *dread bolt* (DC 16), *hold person* (DC 16), *spiritual weapon*  
-1st—*cure light wounds*, *entropic shield*, *murderous command* (DC 15), *protection from good*<sup>D</sup>, *shield of faith*  
-0 (at will)—*bleed* (DC 14), *detect magic*, *detect poison*, *read magic*  
+3rd—*[chain of perdition](../../magic/spells/chain-of-perdition.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*<sup>D</sup>, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd—*[align weapon](../../magic/spells/align-weapon.md)*<sup>D</sup> (evil only), *[dread bolt](../../magic/spells/dread-bolt.md)* (DC 16), *[hold person](../../magic/spells/hold-person.md)* (DC 16), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[entropic shield](../../magic/spells/entropic-shield.md)*, *[murderous command](../../magic/spells/murderous-command.md)* (DC 15), *[protection from good](../../magic/spells/protection-from-good.md)*<sup>D</sup>, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** domain spell; **Domains** Evil, Magic
 
 **Tactics**

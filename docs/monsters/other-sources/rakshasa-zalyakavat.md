@@ -22,12 +22,12 @@ LE Medium outsider (native, rakshasa, shapechanger)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with urumi)  
 **Special Attacks** *detect thoughts* (DC 20), urumi forms  
 **Spells Known** (CL 10th; concentration +12)  
-5th (3/day)—*wall of stone* (DC 17)  
-4th (5/day)—*dimension door*, *ice storm*  
-3rd (6/day)—*dispel magic*, *lightning bolt* (DC 15), *protection from energy*  
-2nd (7/day)—*blur*, *darkness*, *knock*, *see invisibility*  
-1st (7/day)—*expeditious retreat*, *identify*, *mage armor*, *magic aura*, *ray of enfeeblement* (DC 13)  
-0 (at will)—*acid splash*, *bleed* (DC 12), *detect magic*, *ghost sound* (DC 12), *mage hand*, *mending*, *message*, *open/close*, *read magic*
+5th (3/day)—*[wall of stone](../../magic/spells/wall-of-stone.md)* (DC 17)  
+4th (5/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[ice storm](../../magic/spells/ice-storm.md)*  
+3rd (6/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 15), *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd (7/day)—*[blur](../../magic/spells/blur.md)*, *[darkness](../../magic/spells/darkness.md)*, *[knock](../../magic/spells/knock.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (7/day)—*[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[identify](../../magic/spells/identify.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic aura](../../magic/spells/magic-aura.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 13)  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[bleed](../../magic/spells/bleed.md)* (DC 12), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 12), *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

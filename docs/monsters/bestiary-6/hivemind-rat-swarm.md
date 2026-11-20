@@ -23,10 +23,10 @@ thoughtsense 60 ft.; Perception +16
 **Space** 10 ft., **Reach** 0 ft.  
 **Special Attacks** disease, distraction (DC 16), psychic spellcasting  
 **Spell-Like Abilities** (CL 6th; concentration +9)  
-3rd (4/day)—*synaptic pulse* (DC 16)  
-2nd (6/day)—*paranoia* (DC 15), *spontaneous immolation* (DC 16)  
-1st (7/day)—*charm animal* (DC 14), *charm person* (DC 14), *mind thrust I* (DC 14), *unseen servant*  
-0 (at will)—*bleed* (DC 13), *daze* (DC 13), *ghost sound* (DC 13), *haunted fey aspect* (DC 13), *mage hand, open/close, telekinetic projectile* (DC 13)
+3rd (4/day)—*[synaptic pulse](../../magic/spells/synaptic-pulse.md)* (DC 16)  
+2nd (6/day)—*[paranoia](../../magic/spells/paranoia.md)* (DC 15), *[spontaneous immolation](../../magic/spells/spontaneous-immolation.md)* (DC 16)  
+1st (7/day)—*[charm animal](../../magic/spells/charm-animal.md)* (DC 14), *[charm person](../../magic/spells/charm-person.md)* (DC 14), *[mind thrust I](../../magic/spells/mind-thrust-i.md)* (DC 14), *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[daze](../../magic/spells/daze.md)* (DC 13), *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 13), *[haunted fey aspect](../../magic/spells/haunted-fey-aspect.md)* (DC 13), *mage hand, open/close, telekinetic projectile* (DC 13)
 
 **Statistics**
 

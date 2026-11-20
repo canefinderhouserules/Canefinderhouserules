@@ -22,9 +22,9 @@ NE Medium construct (augmented, clockwork)
 **Melee** *+1 halberd* +18/+13 (1d10+13/x3)  
 **Special Attacks** latch  
 **Spell-Like Abilities** (CL 8th; concentration +10)  
-4/day—*mind thrust IV* (DC 15)  
-3/day—*mind probe* (DC 16), *mindlink* (DC 13), *telekinesis* (DC 17)  
-1/day—*mental block* (DC 14)
+4/day—*[mind thrust IV](../../magic/spells/mind-thrust-iv.md)* (DC 15)  
+3/day—*[mind probe](../../magic/spells/mind-probe.md)* (DC 16), *[mindlink](../../magic/spells/mindlink.md)* (DC 13), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 17)  
+1/day—*[mental block](../../magic/spells/mental-block.md)* (DC 14)
 
 **Statistics**
 

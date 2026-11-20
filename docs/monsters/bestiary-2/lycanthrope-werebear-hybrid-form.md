@@ -24,7 +24,7 @@ LG Large humanoid (human, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** favored enemy (orcs +2)  
 **Ranger Spells Prepared** (CL 1st; concentration +2)  
-1st—*detect poison*
+1st—*[detect poison](../../magic/spells/detect-poison.md)*
 
 **Statistics**
 

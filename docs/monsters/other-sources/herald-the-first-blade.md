@@ -23,9 +23,9 @@ CN Large outsider (chaotic, extraplanar, herald)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** bladed slam, bleed (1d10), powerful blows  
 **Spell-Like Abilities** (CL 18th; concentration +19)  
-At will—*instant summons* (any nonmagical weapon)  
-3/day—*chill metal* (DC 13), *heat metal* (DC 13), *repel metal or stone*, *wall of iron*  
-1/day—*blade barrier* (DC 17)
+At will—*[instant summons* ](../../magic/spells/instant-summons.md)(any nonmagical weapon)  
+3/day—*[chill metal* ](../../magic/spells/chill-metal.md)(DC 13), *[heat metal* ](../../magic/spells/heat-metal.md)(DC 13), *[repel metal or stone](../../magic/spells/repel-metal-or-stone.md)*, *[wall of iron](../../magic/spells/wall-of-iron.md)*  
+1/day—*[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 17)
 
 **Statistics**
 

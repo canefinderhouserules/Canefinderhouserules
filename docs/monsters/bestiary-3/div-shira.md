@@ -22,9 +22,9 @@ NE Large outsider (div, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** consume essence, dusty pelt, rake (2 claws +21, 1d8+9)  
 **Spell-Like Abilities** (CL 13th; concentration +18)  
-Constant—*true seeing*  
-At will—*greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*magic circle against good*, *waves of fatigue*  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)  
+3/day—*[magic circle against good](../../magic/spells/magic-circle-against-good.md)*, *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*  
 1/day—summon (level 5, 1d2 pairakas or 1 shira 35%)
 
 **Statistics**

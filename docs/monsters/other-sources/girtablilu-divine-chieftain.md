@@ -24,14 +24,14 @@ N Large monstrous humanoid
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** constrict (1d6+5), poison (DC 27), wild shape 4/day  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-1/day—*summon nature’s ally V* (1d3 giant scorpions)  
+1/day—*[summon nature’s ally V](../../magic/spells/summon-natures-ally-v.md)* (1d3 giant scorpions)  
 **Druid Spells Prepared** (CL 10th; concentration +15)  
-5th—*baleful polymorph* (DC 20), *commune with nature*<sup>D</sup>, *cure critical wounds*, *stoneskin*  
-4th—*dispel magic*, *freedom of movement*, *giant vermin*, *rusting grasp*<sup>D</sup>, *scrying* (DC 19)  
-3rd—*cure moderate wounds*, *greater magic fang*, *meld into stone*<sup>D</sup>, *protection from energy*, *stone shape*  
-2nd—*barkskin*, *bear’s strength*, *lesser restoration*, *owl’s wisdom*, *spider climb*, *stone call*  
-1st—*cure light wounds*, *expeditious excavation*, *longstrider*, *magic fang*, *magic stone*<sup>D</sup>, *pass without trace*, *speak with animals*  
-0 (at will)—*create water*, *guidance*, *mending*, *read magic*  
+5th—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 20), *[commune with nature](../../magic/spells/commune-with-nature.md)*<sup>D</sup>, *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*  
+4th—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[giant vermin](../../magic/spells/giant-vermin.md)*, *[rusting grasp](../../magic/spells/rusting-grasp.md)*<sup>D</sup>, *[scrying](../../magic/spells/scrying.md)* (DC 19)  
+3rd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[greater magic fang](../../magic/spells/magic-fang-greater.md)*, *[meld into stone](../../magic/spells/meld-into-stone.md)*<sup>D</sup>, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[stone shape](../../magic/spells/stone-shape.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[bear’s strength](../../magic/spells/bulls-strength.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[owl’s wisdom](../../magic/spells/owls-wisdom.md)*, *[spider climb](../../magic/spells/spider-climb.md)*, *[stone call](../../magic/spells/stone-call.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[expeditious excavation](../../magic/spells/expeditious-excavation.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[magic fang](../../magic/spells/magic-fang.md)*, *[magic stone](../../magic/spells/magic-stone.md)*<sup>D</sup>, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[guidance](../../magic/spells/guidance.md)*, *[mending](../../magic/spells/mending.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** Domain spell; **Domain** Ruins
 
 **Statistics**

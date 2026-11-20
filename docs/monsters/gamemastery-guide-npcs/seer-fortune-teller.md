@@ -24,11 +24,11 @@ CN Medium humanoid
 **Spell-Like Abilities** (CL 3rd; concentration +7)  
 7/day—laughing touch  
 **Bard Spells Known** (CL 3rd; concentration +7)  
-1st (4/day)—*cure light wounds*, *hideous laughter* (DC 17), *silent image* (DC 15), *ventriloquism* (DC 15)  
-0 (at will)—*ghost sound* (DC 14), *know direction*, *mage hand*, *message*, *read magic*, *resistance*  
+1st (4/day)—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[hideous laughter](../../magic/spells/hideous-laughter.md)* (DC 17), *[silent image](../../magic/spells/silent-image.md)* (DC 15), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 15)  
+0 (at will)—*[ghost sound](../../magic/spells/ghost-sound.md)* (DC 14), *[know direction](../../magic/spells/know-direction.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **Sorcerer Spells Known** (CL 3rd; concentration +7)  
-1st (6/day)—*charm person* (DC 15), *entangle* (DC 15), *hypnotism* (DC 17), *mage armor*  
-0 (at will)—*arcane mark*, *daze* (DC 16), *detect magic*, *ray of frost*, *prestidigitation*  
+1st (6/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 15), *[entangle](../../magic/spells/entangle.md)* (DC 15), *[hypnotism](../../magic/spells/hypnotism.md)* (DC 17), *[mage armor](../../magic/spells/mage-armor.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[daze](../../magic/spells/daze.md)* (DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*  
 **Bloodline** fey
 
 **Statistics**

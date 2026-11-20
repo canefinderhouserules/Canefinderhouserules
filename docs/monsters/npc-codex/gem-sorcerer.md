@@ -25,8 +25,8 @@ LE Medium humanoid (dwarf)
 **Spell-Like Abilities** (CL 2nd; concentration +3)  
 4/day—elemental ray (1d6+1 fire)  
 **Sorcerer Spells Known** (CL 2nd; concentration +3; arcane spell failure 10%)  
-1st (5/day)—*burning hands* (DC 12), *shocking grasp* (fire)  
-0 (at will)—*acid splash* (fire), *dancing lights*, *mending*, *read magic*, *touch of fatigue* (DC 11)  
+1st (5/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 12), *[shocking grasp* ](../../magic/spells/shocking-grasp.md)(fire)  
+0 (at will)—*[acid splash* ](../../magic/spells/acid-splash.md)(fire), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[mending](../../magic/spells/mending.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 11)  
 **Bloodline** elemental (fire)
 
 **Tactics**

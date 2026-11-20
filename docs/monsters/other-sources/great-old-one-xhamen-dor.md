@@ -23,10 +23,10 @@ NE Gargantuan plant (aquatic, evil, Great Old One)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** constrict (3d6+13), entangling shroud, infected dreams, mythic power (10/day, surge +1d12)  
 **Spell-Like Abilities** (CL 26th; concentration +33)  
-Constant—*air walk*, *greater magic fang*  
-At will—*animate dead*<sup>M</sup>, *control undead* (DC 24), *dimension door*<sup>M</sup>, *dream*<sup>M</sup>, *greater dispel magic*, *nightmare*<sup>M</sup> (DC 22), *wall of thorns*<sup>M</sup>  
-3/day—*control plants* (DC 25), *create greater undead*, *create undead*, *demand* (DC 25), quickened *feeblemind* (DC 22), quickened *wither limb* (DC 23)  
-1/day—*cursed earth*, *microcosm* (DC 26), *symbol of insanity* (DC 25)
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[greater magic fang](../../magic/spells/magic-fang-greater.md)*  
+At will—*[animate dead](../../magic/spells/animate-dead.md)*<sup>M</sup>, *[control undead](../../magic/spells/control-undead.md)* (DC 24), *[dimension door](../../magic/spells/dimension-door.md)*<sup>M</sup>, *[dream](../../magic/spells/dream.md)*<sup>M</sup>, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[nightmare](../../magic/spells/nightmare.md)*<sup>M</sup> (DC 22), *[wall of thorns](../../magic/spells/wall-of-thorns.md)*<sup>M</sup>  
+3/day—*[control plants](../../magic/spells/control-plants.md)* (DC 25), *[create greater undead](../../magic/spells/create-greater-undead.md)*, *[create undead](../../magic/spells/create-undead.md)*, *[demand](../../magic/spells/demand.md)* (DC 25), quickened *[feeblemind](../../magic/spells/feeblemind.md)* (DC 22), quickened *[wither limb](../../magic/spells/wither-limb.md)* (DC 23)  
+1/day—*[cursed earth](../../magic/spells/cursed-earth.md)*, *[microcosm](../../magic/spells/microcosm.md)* (DC 26), *[symbol of insanity](../../magic/spells/symbol-of-insanity.md)* (DC 25)
 
 **Statistics**
 

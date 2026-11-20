@@ -21,9 +21,9 @@ N Medium magical beast
 **Melee** 2 claws +15 (1d4+2), gore +15 (1d6+2)  
 **Special Attacks** mental drain  
 **Spell-Like Abilities** (CL 10th; concentration +17)  
-At will—*invisibility*, *lullaby*, *sleep* (DC 18)  
-3/day—*deep slumber* (DC 20), *dream*  
-1/day—*ethereal jaunt*, *modify memory* (DC 21)
+At will—*[invisibility](../../magic/spells/invisibility.md)*, *[lullaby](../../magic/spells/lullaby.md)*, *[sleep* ](../../magic/spells/sleep.md)(DC 18)  
+3/day—*[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 20), *[dream](../../magic/spells/dream.md)*  
+1/day—*[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[modify memory* ](../../magic/spells/modify-memory.md)(DC 21)
 
 **Statistics**
 

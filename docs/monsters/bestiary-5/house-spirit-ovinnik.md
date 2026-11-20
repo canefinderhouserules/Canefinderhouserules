@@ -21,8 +21,8 @@ CN Tiny fey
 **Melee** 2 claws +7 (1d3+1)  
 **Special Attacks** luck touch, sneak attack +1d6  
 **Spell-Like Abilities** (CL 4th; concentration +7)  
-At will—*daze* (DC 13), *produce flame*  
-1/month—*divination*
+At will—*[daze](../../magic/spells/daze.md)* (DC 13), *[produce flame](../../magic/spells/produce-flame.md)*  
+1/month—*[divination](../../magic/spells/divination.md)*
 
 **Statistics**
 

@@ -22,9 +22,9 @@ CE Small humanoid (derro)
 **Melee** mwk quarterstaff +10 (1d4+3)  
 **Special Attacks** cytillesh stare, puppeteer, sneak attack +3d6  
 **Spell-Like Abilities** (CL 6th; concentration +9)  
-At will—*id insinuation II* (DC 16), *modify memory* (DC 17)  
+At will—*[id insinuation II](../../magic/spells/id-insinuation-ii.md)* (DC 16), *[modify memory](../../magic/spells/modify-memory.md)* (DC 17)  
 **Psychic Magic** (CL 6th; concentration +9)  
-20 PE—*babble* (2 PE, DC 15), *battlemind link* (4 PE), *greater synaptic pulse* (4 PE, DC 17), *mad hallucination* (2 PE, DC 15), *mind probe* (4 PE, DC 17), *mindwipe* (4 PE, DC 17), *paranoia* (1 PE, DC 14), *placebo effect* (2 PE), *synaptic overload* (4 PE, DC 17), *synaptic scramble* (3 PE, DC 16), *synesthesia* (3 PE, DC 16)
+20 PE—*[babble](../../magic/spells/babble.md)* (2 PE, DC 15), *[battlemind link](../../magic/spells/battlemind-link.md)* (4 PE), *[greater synaptic pulse](../../magic/spells/synaptic-pulse-greater.md)* (4 PE, DC 17), *[mad hallucination](../../magic/spells/mad-hallucination.md)* (2 PE, DC 15), *[mind probe](../../magic/spells/mind-probe.md)* (4 PE, DC 17), *[mindwipe](../../magic/spells/mindwipe.md)* (4 PE, DC 17), *[paranoia](../../magic/spells/paranoia.md)* (1 PE, DC 14), *[placebo effect](../../magic/spells/placebo-effect.md)* (2 PE), *synaptic overload* (4 PE, DC 17), *[synaptic scramble](../../magic/spells/synaptic-scramble.md)* (3 PE, DC 16), *[synesthesia](../../magic/spells/synesthesia.md)* (3 PE, DC 16)
 
 **Statistics**
 

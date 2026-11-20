@@ -24,10 +24,10 @@ CE Gargantuan undead (extraplanar, nightshade)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** channel negative energy (9d6, DC 31, 9/day), energy drain (1 level, DC 28), swallow whole (4d10+22 bludgeoning plus energy drain, AC 23, 31 hp)  
 **Spell-Like Abilities** (CL 18th; concentration +24)  
-Constant—*air walk*, *detect magic*, *magic fang*  
-At will—*contagion* (DC 20), *deeper darkness*, *greater dispel magic*, *invisibility*, *unholy blight* (DC 20)  
-3/day—quickened *cone of cold* (DC 21), *confusion* (DC 20), *haste*, *hold monster* (DC 21)  
-1/day—*finger of death* (DC 23), *mass hold monster* (DC 25), *plane shift* (DC 23), summon (level 8, 6 greater shadows)
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[magic fang](../../magic/spells/magic-fang.md)*  
+At will—*[contagion* ](../../magic/spells/contagion.md)(DC 20), *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 20)  
+3/day—quickened *[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 21), *[confusion* ](../../magic/spells/confusion.md)(DC 20), *[haste](../../magic/spells/haste.md)*, *[hold monster* ](../../magic/spells/hold-monster.md)(DC 21)  
+1/day—*[finger of death* ](../../magic/spells/finger-of-death.md)(DC 23), *[mass hold monster* ](../../magic/spells/hold-monster-mass.md)(DC 25), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 23), summon (level 8, 6 greater shadows)
 
 **Statistics**
 

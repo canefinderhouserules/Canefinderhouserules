@@ -24,11 +24,11 @@ LG Medium humanoid
 **Ranged**  light hammer +11 (1d4+2)  
 **Special Attacks** channel positive energy (DC 21, 6d6), smite evil (+5 attack and AC, +12 damage)  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-At Will—*detect evil*  
+At Will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 9th; concentration +14)  
-3rd—*dispel magic*, *magic circle vs. evil*  
-2nd—*bull’s strength*, *resist energy*, *shield other*  
-1st—*bless weapon*, *divine favor* (2), *lesser restoration*
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic circle vs. evil](../../magic/spells/magic-circle-against-evil.md)*  
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[shield other](../../magic/spells/shield-other.md)*  
+1st—*[bless weapon](../../magic/spells/bless-weapon.md)*, *[divine favor](../../magic/spells/divine-favor.md)* (2), *[lesser restoration](../../magic/spells/restoration-lesser.md)*
 
 **Statistics**
 

@@ -24,12 +24,12 @@ CN Large dragon (extraplanar, fire)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, 12d6 fire, DC 22)  
 **Spell-Like Abilities** (CL 15th; concentration +18)  
-At will—*burning hands* (DC 14), *scorching ray*, *wall of fire*  
+At will—*[burning hands](../../magic/spells/burning-hands.md)* (DC 14), *[scorching ray](../../magic/spells/scorching-ray.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
 **Spells Known** (CL 7th; concentration +10)  
-3rd (5/day)—*dispel magic*, *fireball* (DC 16)  
-2nd (7/day)—*dust of twilight*, *flaming sphere* (DC 15), *glitterdust* (DC 15), *pyrotechnics* (DC 15)  
-1st (7/day)—*feather fall*, *flare burst* (DC 14), *grease* (DC 14), *shield*, *true strike*  
-0 (at will)—*bleed* (DC 13), *detect magic*, *detect poison*, *open/close*, *read magic*, *spark*, *touch of fatigue*
+3rd (5/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 16)  
+2nd (7/day)—*[dust of twilight](../../magic/spells/dust-of-twilight.md)*, *[flaming sphere](../../magic/spells/flaming-sphere.md)* (DC 15), *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 15), *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 15)  
+1st (7/day)—*[feather fall](../../magic/spells/feather-fall.md)*, *[flare burst](../../magic/spells/flare-burst.md)* (DC 14), *[grease* ](../../magic/spells/grease.md)(DC 14), *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[open/close](../../magic/spells/open-close.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[spark](../../magic/spells/spark.md)*,[ *touch of fatigue](../../magic/spells/touch-of-fatigue.md)*
 
 **Statistics**
 

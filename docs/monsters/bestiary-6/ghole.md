@@ -25,8 +25,8 @@ NE Medium monstrous humanoid
 sneak attack +2d6  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
 At will—*gentle repose, restore corpse*  
-3/day—*ghoul touch* (DC 15), *hide from undead*  
-1/day—*haste*
+3/day—*[ghoul touch](../../magic/spells/ghoul-touch.md)* (DC 15), *[hide from undead](../../magic/spells/hide-from-undead.md)*  
+1/day—*[haste](../../magic/spells/haste.md)*
 
 **Statistics**
 

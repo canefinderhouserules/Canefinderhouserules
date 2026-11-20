@@ -23,14 +23,14 @@ CE Medium humanoid (human, orc)
 **Ranged**  mwk composite longbow +19/+14/+9 (1d8+6/×3)  
 **Special Attacks** favored enemy (elves +2, good outsiders +8, humans +2, magical beasts +2)  
 **Ranger Spells Prepared** (CL 12th; concentration +14)  
-4th—*freedom of movement*  
-3rd—*cure moderate wounds*, *neutralize poison*  
-2nd—*barkskin*, *cat’s grace*, *protection from energy*  
-1st—*longstrider*, *pass without trace*, *resist energy* (2)
+4th—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+3rd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+1st—*[longstrider](../../magic/spells/longstrider.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[resist energy* ](../../magic/spells/resist-energy.md)(2)
 
 **Tactics**
 
-**Before Combat** The ranger casts *barkskin*, *cat’s grace*, *freedom of movement*, *longstrider*, *pass without trace*, *protection from energy* (cold), and *resist energy* (electricity, fire).  
+**Before Combat** The ranger casts *[barkskin](../../magic/spells/barkskin.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(cold), and *[resist energy* ](../../magic/spells/resist-energy.md)(electricity, fire).  
 **During Combat** The ranger uses her bow against flying targets, but prefers melee and uses a *potion of fly* if her prey won’t land.  
 **Base Statistics** Without *barkskin*, *cat’s grace*, *longstrider*, *protection from energy*, and *resist energy*, the ranger’s statistics are **Init** +5; **AC** 19, touch 12, flat-footed 18; **Ref** +15; **Immune** none; **Resist** none; **Speed** 30 ft.; **Ranged** mwk composite longbow +17/+12/+7 (1d8+6/×3); **Dex** 13; **CMD** 33; **Skills** Ride +8, Stealth +18.
 

@@ -24,8 +24,8 @@ LE Medium humanoid (human)
 **Spell-Like Abilities** (CL 1st; concentration +3)  
 5/day—inspiring word (1 round)  
 **Cleric Spells Prepared** (CL 1st; concentration +3)  
-1st—*cure light wounds*, *longstrider*<sup>D</sup>, *protection from good*  
-0 (at will)—*detect magic*, *mending*, *read magic*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[longstrider](../../magic/spells/longstrider.md)*<sup>D</sup>, *[protection from good](../../magic/spells/protection-from-good.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[mending](../../magic/spells/mending.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** Domain spell; **Domains** Nobility, Travel
 
 **Tactics**

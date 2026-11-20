@@ -22,16 +22,16 @@ N Medium humanoid (elf)
 **Melee** *+1 sickle* +9/+4 (1d6)  
 **Special Attacks** wild shape 3/day  
 **Spell-Like Abilities** (CL 9th; concentration +13)  
-At will—*speak with animals* (12 rounds/day)  
+At will—*[speak with animals* ](../../magic/spells/speak-with-animals.md)(12 rounds/day)  
 **Druid Spells Prepared** (CL 13th; concentration +17)  
-7th—*animal shapes*<sup>D</sup>, *heal*  
-6th—*antilife shell*<sup>D</sup>, *stone tell*, *transport via plants*  
-5th—*animal growth* (DC 19), *beast shape III*<sup>D</sup> (animals only), *call lightning storm* (DC 19), *insect plague*  
-4th—*cure serious wounds*, *flame strike* (DC 18), *freedom of movement*, *rusting grasp*, *scrying* (DC 18), *summon nature’s ally IV*<sup>D</sup> (animals only)  
-3rd—*dominate animal*<sup>D</sup> (DC 17), *meld into stone*, *poison* (DC 17), *protection from energy*, *quench*, *speak with plants*  
-2nd—*animal messenger*, *fog cloud*, *heat metal* (DC 16), *hold animal*<sup>D</sup> (2, DC 16), *owl’s wisdom*  
-1st—*calm animals*<sup>D</sup> (DC 15), *detect animals or plants*, *entangle* (DC 15), *faerie fire*, *hide from animals*, *speak with animals*  
-0 (at will)—*detect poison*, *know direction*, *light*, *purify food and drink*  
+7th—*[animal shapes](../../magic/spells/animal-shapes.md)*<sup>D</sup>, *[heal](../../magic/spells/heal.md)*  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*<sup>D</sup>, *[stone tell](../../magic/spells/stone-tell.md)*, *[transport via plants](../../magic/spells/transport-via-plants.md)*  
+5th—*[animal growth* ](../../magic/spells/animal-growth.md)(DC 19), *[beast shape III](../../magic/spells/beast-shape-iii.md)*<sup>D</sup> (animals only), *[call lightning storm* ](../../magic/spells/call-lightning-storm.md)(DC 19), *[insect plague](../../magic/spells/insect-plague.md)*  
+4th—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(DC 18), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[rusting grasp](../../magic/spells/rusting-grasp.md)*, *[scrying* ](../../magic/spells/scrying.md)(DC 18), *[summon nature’s ally IV](../../magic/spells/summon-natures-ally-iv.md)*<sup>D</sup> (animals only)  
+3rd—*[dominate animal](../../magic/spells/dominate-animal.md)*<sup>D</sup> (DC 17), *[meld into stone](../../magic/spells/meld-into-stone.md)*, *[poison* ](../../magic/spells/poison.md)(DC 17), *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[quench](../../magic/spells/quench.md)*, *[speak with plants](../../magic/spells/speak-with-plants.md)*  
+2nd—*[animal messenger](../../magic/spells/animal-messenger.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*, *[heat metal* ](../../magic/spells/heat-metal.md)(DC 16), *[hold animal](../../magic/spells/hold-animal.md)*<sup>D</sup> (2, DC 16), *[owl’s wisdom](../../magic/spells/owls-wisdom.md)*  
+1st—*[calm animals](../../magic/spells/calm-animals.md)*<sup>D</sup> (DC 15), *[detect animals or plants](../../magic/spells/detect-animals-or-plants.md)*, *[entangle* ](../../magic/spells/entangle.md)(DC 15), *[faerie fire](../../magic/spells/faerie-fire.md)*, *[hide from animals](../../magic/spells/hide-from-animals.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[detect poison](../../magic/spells/detect-poison.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[light](../../magic/spells/light.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*  
 **D** Domain spell; **Domain** Animal
 
 **Tactics**

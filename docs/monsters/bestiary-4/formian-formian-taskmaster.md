@@ -22,12 +22,12 @@ LN Medium monstrous humanoid
 **Ranged**  dart +12/+7 (1d4+3)  
 **Special Attacks** poison  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
-3/day—*detect thoughts* (DC 16), *sending* (to the hive queen only)  
+3/day—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16), *[sending](../../magic/spells/sending.md)* (to the hive queen only)  
 **Bard Spells Known** (caster level 7th; concentration +11)  
-3rd (2)—*confusion* (DC 18), *good hope*  
-2nd (4)—*heroism*, *invisibility*, *sound burst* (DC 16), *suggestion* (DC 17)  
-1st (5)—*charm person* (DC 16), *comprehend languages*, *cure light wounds*, *hideous laughter* (DC 16), *silent image* (DC 15)  
-0 (at will)—*dancing lights*, *daze* (DC 15), *detect magic*, *mending*, *message*, *prestidigitation*
+3rd (2)—*[confusion](../../magic/spells/confusion.md)* (DC 18), *[good hope](../../magic/spells/good-hope.md)*  
+2nd (4)—*[heroism](../../magic/spells/heroism.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[sound burst](../../magic/spells/sound-burst.md)* (DC 16), *[suggestion](../../magic/spells/suggestion.md)* (DC 17)  
+1st (5)—*[charm person](../../magic/spells/charm-person.md)* (DC 16), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[hideous laughter](../../magic/spells/hideous-laughter.md)* (DC 16), *[silent image](../../magic/spells/silent-image.md)* (DC 15)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze](../../magic/spells/daze.md)* (DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

@@ -25,13 +25,13 @@ LE Medium humanoid (aquatic)
 **Spell-Like Abilities** (CL 12th; concentration +17)  
 8/day—acidic ray (1d6+6 acid)  
 **Sorcerer Spells Known** (CL 12th; concentration +17)  
-6th (3/day)—*mass suggestion* (DC 22)  
-5th (6/day)—*dominate person* (DC 21), *feeblemind* (DC 21), *polymorph* (DC 20)  
-4th (7/day)—*black tentacles*, *charm monster* (DC 20), *locate creature*, *scrying* (DC 21)  
-3rd (7/day)—*clairaudience/clairvoyance*, *deep slumber* (DC 19), *greater invisibility*, *ray of exhaustion* (DC 18), *tongues*  
-2nd (7/day)—*alter self*, *blur*, *detect thoughts* (DC 19), *false life*, *hideous laughter* (DC 18), *see invisibility*  
-1st (8/day)—*comprehend languages*, *enlarge person* (DC 16), *expeditious retreat*, *hypnotism* (DC 17), *identify*, *shield*  
-0 (at will)—*acid splash*, *daze* (DC 16), *detect magic*, *light*, *mage hand*, *message*, *read magic*, *resistance*, *touch of fatigue* (DC 15)  
+6th (3/day)—*[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 22)  
+5th (6/day)—*[dominate person](../../magic/spells/dominate-person.md)* (DC 21), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 21), *[polymorph* ](../../magic/spells/polymorph.md)(DC 20)  
+4th (7/day)—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[charm monster* ](../../magic/spells/charm-monster.md)(DC 20), *[locate creature](../../magic/spells/locate-creature.md)*, *[scrying* ](../../magic/spells/scrying.md)(DC 21)  
+3rd (7/day)—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 19), *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[ray of exhaustion* ](../../magic/spells/ray-of-exhaustion.md)(DC 18), *[tongues](../../magic/spells/tongues.md)*  
+2nd (7/day)—*[alter self](../../magic/spells/alter-self.md)*, *[blur](../../magic/spells/blur.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 19), *[false life](../../magic/spells/false-life.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 18), *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (8/day)—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[enlarge person* ](../../magic/spells/enlarge-person.md)(DC 16), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[hypnotism* ](../../magic/spells/hypnotism.md)(DC 17), *[identify](../../magic/spells/identify.md)*, *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[daze* ](../../magic/spells/daze.md)(DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 15)  
 **Bloodline** aberrant
 
 **Statistics**

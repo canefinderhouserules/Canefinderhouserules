@@ -23,7 +23,7 @@ LG Medium humanoid (human, orc)
 **Ranged**  shortbow +1 (1d6/×3)  
 **Special Attacks** smite evil 1/day (+1 attack and AC, +2 damage)  
 **Spell-Like Abilities** (CL 2nd; concentration +3)  
-At will—*detect evil*
+At will—*[detect evil](../../magic/spells/detect-evil.md)*
 
 **Tactics**
 

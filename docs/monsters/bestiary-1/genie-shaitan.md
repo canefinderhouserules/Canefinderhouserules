@@ -22,8 +22,8 @@ LN Large outsider (earth, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** earth mastery, metalmorph, stone curse  
 **Spell-Like Abilities** (CL 9th)  
-At will—*meld into stone*, *plane shift* (willing targets to elemental planes, Astral Plane, or Material Plane only), *soften earth and stone*, *stone shape*, *veil* (self only)  
-3/day—quickened *glitterdust* (DC 14), *stoneskin*, *rusting grasp*, *stone tell*, *wall of stone*  
+At will—*[meld into stone](../../magic/spells/meld-into-stone.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(willing targets to elemental planes, Astral Plane, or Material Plane only), *[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*, *[stone shape](../../magic/spells/stone-shape.md)*, *[veil* ](../../magic/spells/veil.md)(self only)  
+3/day—quickened *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 14), *[stoneskin](../../magic/spells/stoneskin.md)*, *[rusting grasp](../../magic/spells/rusting-grasp.md)*, *[stone tell](../../magic/spells/stone-tell.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
 1/day—*trans. mud to rock*, *trans. rock to mud*
 
 **Statistics**

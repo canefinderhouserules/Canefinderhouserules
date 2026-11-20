@@ -21,10 +21,10 @@ LE Large aberration
 **Melee** bite +8 (1d4+2), sting +8 (2d4+2 plus poison)  
 **Space** 10 ft., **Reach** 5 ft.  
 **Spells Known** (CL 7th)  
-3rd (5/day)—*displacement*, *lightning bolt* (DC 16)  
-2nd (7/day)—*cat’s grace*, *invisibility*, *scorching ray*  
-1st (7/day)—*expeditious retreat*, *magic missile*, *ray of enfeeblement* (DC 14), *shield*, *silent image*  
-0 (at will)—*daze*, *detect magic*, *light*, *mage hand*, *open/close*, *ray of frost*, *read magic*
+3rd (5/day)—*[displacement](../../magic/spells/displacement.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 16)  
+2nd (7/day)—*[cat’s grace](../../magic/spells/cats-grace.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (7/day)—*[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 14), *[shield](../../magic/spells/shield.md)*, *[silent image](../../magic/spells/silent-image.md)*  
+0 (at will)—*[daze](../../magic/spells/daze.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

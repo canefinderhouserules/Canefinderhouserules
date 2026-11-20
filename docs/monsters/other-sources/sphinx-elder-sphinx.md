@@ -22,10 +22,10 @@ N Gargantuan magical beast
 **Space** 20 ft., **Reach** 15 ft.  
 **Special Attacks** litany of riddles, pounce, rake (2 claws +31, 2d6+14), trample (2d6+21, DC 34)  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*comprehend languages*, *detect magic*, *nondetection*, *read magic*, *true seeing*  
-3/day—*clairaudience/clairvoyance*, *greater dispel magic*, *hallucinatory terrain* (DC 21), *locate object*, *remove curse*, *sirocco* (DC 23)  
-1/day—*commune*, *contact other plane*, *legend lore*  
-1/week—any one of the following: *symbol of fear* (DC 22), *symbol of persuasion* (DC 23), *symbol of sleep* (DC 23), *symbol of vulnerability* (DC 26), *symbol of weakness* (DC 24); all symbols last for 1 week maximum
+Constant—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[nondetection](../../magic/spells/nondetection.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+3/day—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[hallucinatory terrain* ](../../magic/spells/hallucinatory-terrain.md)(DC 21), *[locate object](../../magic/spells/locate-object.md)*, *[remove curse](../../magic/spells/remove-curse.md)*, *[sirocco](../../magic/spells/sirocco.md)* (DC 23)  
+1/day—*[commune](../../magic/spells/commune.md)*, *[contact other plane](../../magic/spells/contact-other-plane.md)*, *[legend lore](../../magic/spells/legend-lore.md)*  
+1/week—any one of the following: *[symbol of fear* ](../../magic/spells/symbol-of-fear.md)(DC 22), *[symbol of persuasion* ](../../magic/spells/symbol-of-persuasion.md)(DC 23), *[symbol of sleep* ](../../magic/spells/symbol-of-sleep.md)(DC 23), *[symbol of vulnerability* ](../../magic/spells/symbol-of-vulnerability.md)(DC 26), *[symbol of weakness* ](../../magic/spells/symbol-of-weakness.md)(DC 24); all symbols last for 1 week maximum
 
 **Statistics**
 

@@ -28,9 +28,9 @@ healing 10
 **Ranged** 2 light vortices +19 touch (5d8)  
 **Special Attacks** create will-o’-wisp  
 **Spell-Like Abilities** (CL 12th; concentration +18)  
-Constant—*daylight* (centered on self)  
-At will—*wandering star motes* (DC 20)  
-3/day—*quickened wandering star motes* (DC 20)
+Constant—*[daylight](../../magic/spells/daylight.md)* (centered on self)  
+At will—*[wandering star motes](../../magic/spells/wandering-star-motes.md)* (DC 20)  
+3/day—*[quickened wandering star motes](../../magic/spells/wandering-star-motes.md)* (DC 20)
 
 **Statistics**
 

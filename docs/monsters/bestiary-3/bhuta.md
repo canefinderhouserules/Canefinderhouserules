@@ -22,9 +22,9 @@ NE Medium undead (incorporeal)
 **Melee** 2 incorporeal claws +17 (5d8 plus bleed)  
 **Special Attacks** bleed (1d8), blood drain (1d6 Constitution)  
 **Spell-Like Abilities** (CL 11th; concentration +17)  
-At will—*animal trance* (DC 18), *speak with animals*, *veil* (self only, as animal with backward feet; DC 22)  
-3/day—*charm animal* (DC 17)  
-1/day—*magic jar* (animals only, DC 21)
+At will—*[animal trance* ](../../magic/spells/animal-trance.md)(DC 18), *[speak with animals](../../magic/spells/speak-with-animals.md)*, *[veil* ](../../magic/spells/veil.md)(self only, as animal with backward feet; DC 22)  
+3/day—*[charm animal* ](../../magic/spells/charm-animal.md)(DC 17)  
+1/day—*[magic jar* ](../../magic/spells/magic-jar.md)(animals only, DC 21)
 
 **Statistics**
 

@@ -23,11 +23,11 @@ N Medium humanoid
 **Spell-Like Abilities** (CL 7th; concentration +12)  
 8/day—acid dart (1d6+3 acid)  
 **Wizard Spells Prepared** (CL 7th; concentration +12)  
-4th—*dimension door*, *summon monster IV*  
-3rd—*haste*, *stinking cloud* (DC 18), *summon monster III*  
-2nd—*glitterdust* (DC 17), *invisibility*, *minor image* (DC 17), *summon monster II*  
-1st—*grease* (DC 16), *mage armor*, *magic missile* (2), *protection from good*, *summon monster I*  
-0 (at will)—*detect magic*, *ghost sound* (DC 15), *mage hand*, *ray of frost*  
+4th—*[dimension door](../../magic/spells/dimension-door.md)*, *[summon monster IV](../../magic/spells/summon-monster-iv.md)*  
+3rd—*[haste](../../magic/spells/haste.md)*, *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 18), *[summon monster III](../../magic/spells/summon-monster-iii.md)*  
+2nd—*[glitterdust](../../magic/spells/glitterdust.md)* (DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[minor image](../../magic/spells/minor-image.md)* (DC 17), *[summon monster II](../../magic/spells/summon-monster-ii.md)*  
+1st—*[grease](../../magic/spells/grease.md)* (DC 16), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)* (2), *[protection from good](../../magic/spells/protection-from-good.md)*, *[summon monster I](../../magic/spells/summon-monster-i.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[mage hand](../../magic/spells/mage-hand.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*  
 **Prohibited Schools** enchantment, necromancy
 
 **Statistics**

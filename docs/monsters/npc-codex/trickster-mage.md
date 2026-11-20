@@ -23,14 +23,14 @@ CE Small humanoid (gnome)
 **Ranged**  mwk light crossbow +8 (1d6/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids  
 **Spell-Like Abilities** (CL 8th; concentration +12)  
-1/day—*dancing lights*, *ghost sound* (DC 15), *prestidigitation*, *speak with animals*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
 7/day—laughing touch  
 **Sorcerer Spells Known** (CL 8th; concentration +12)  
-4th (4/day)—*phantasmal killer* (DC 21)  
-3rd (6/day)—*deep slumber* (DC 19), *major image* (DC 20), *suggestion* (DC 19)  
-2nd (7/day)—*hideous laughter* (DC 18), *hypnotic pattern* (DC 19), *mirror image*, *scorching ray*  
-1st (7/day)—*charm person* (DC 15), *color spray* (DC 18), *entangle* (DC 15), *magic missile*, *shield*, *ventriloquism* (DC 18)  
-0 (at will)—*daze* (DC 16), *detect magic*, *flare* (DC 14), *mage hand*, *message*, *ray of frost*, *read magic*, *touch of fatigue* (DC 14)  
+4th (4/day)—*[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 21)  
+3rd (6/day)—*[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 19), *[major image* ](../../magic/spells/major-image.md)(DC 20), *[suggestion* ](../../magic/spells/suggestion.md)(DC 19)  
+2nd (7/day)—*[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 18), *[hypnotic pattern* ](../../magic/spells/hypnotic-pattern.md)(DC 19), *[mirror image](../../magic/spells/mirror-image.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (7/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 15), *[color spray* ](../../magic/spells/color-spray.md)(DC 18), *[entangle* ](../../magic/spells/entangle.md)(DC 15), *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 18)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 14), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 14)  
 **Bloodline** fey
 
 **Tactics**

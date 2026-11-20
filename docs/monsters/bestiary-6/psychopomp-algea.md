@@ -26,10 +26,10 @@ electricity 10, fire 10, sonic 10; **SR** 22
 **Space** 10 ft., **Reach** 0 ft.  
 **Special Attacks** distraction (DC 22), drain magic, soul cage  
 **Spell-Like Abilities** (CL 11th; concentration +19)  
-Constant—*greater arcane sight*  
-At will—*mass invisibility* (self only), *speak with dead* (DC 21)  
-3/day—*call spirit* (DC 23), *confusion* (DC 22)  
-1/day—*plane shift* (swarm counts as one creature; DC 27)
+Constant—*[greater arcane sight](../../magic/spells/arcane-sight-greater.md)*  
+At will—*[mass invisibility](../../magic/spells/invisibility-mass.md)* (self only), *[speak with dead](../../magic/spells/speak-with-dead.md)* (DC 21)  
+3/day—*[call spirit](../../magic/spells/call-spirit.md)* (DC 23), *[confusion](../../magic/spells/confusion.md)* (DC 22)  
+1/day—*[plane shift](../../magic/spells/plane-shift.md)* (swarm counts as one creature; DC 27)
 
 **Statistics**
 

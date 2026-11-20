@@ -22,8 +22,8 @@ CG Medium fey
 **Ranged**  shortbow +4 (1d6/×3)  
 **Special Attacks** panpipes  
 **Spell-Like Abilities** (CL 3rd; concentration +6)  
-At will—*ghost sound* (DC 13)  
-1/day—*hideous laughter* (DC 15), *sleep* (DC 14)
+At will—*[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13)  
+1/day—*[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 15), *[sleep* ](../../magic/spells/sleep.md)(DC 14)
 
 **Statistics**
 

@@ -22,7 +22,7 @@ CE Huge magical beast (augmented vermin)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** death throes (DC 21, 9d6 cold damage), constrict (1d8+10), sudden strike  
 **Spell-Like Abilities** (CL 9th; concentration +11)  
-1/day—*darkness*, *insect plague*, *vomit swarm*
+1/day—*[darkness](../../magic/spells/darkness.md)*, *[insect plague](../../magic/spells/insect-plague.md)*, *[vomit swarm](../../magic/spells/vomit-swarm.md)*
 
 **Statistics**
 

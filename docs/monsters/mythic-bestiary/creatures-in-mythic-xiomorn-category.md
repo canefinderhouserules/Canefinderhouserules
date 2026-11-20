@@ -22,13 +22,13 @@ LN Medium outsider (earth, elemental, extraplanar, mythic)
 **Melee** 4 claws +29 (2d4+10/19–20 plus crystallization)  
 **Special Attacks** crystal burst, crystallization, mythic magic 3/day, mythic power (10/day, surge +1d10), rend (2 claws, 2d4+9), xiomorn spellcasting  
 **Spell-Like Abilities** (CL 19th; concentration +27)  
-At will—*dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *shatter* (DC 20), *statue* (DC 25), *stone shape*, *stone tell*  
-3/day—*command stone* (DC 27), *flesh to stone* (DC 24), *spike stones* (DC 22), *wall of stone*  
-1/day—*permanency*, *summon monster VII* (earth elementals only), *symbol of scrying*  
+At will—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[shatter* ](../../magic/spells/shatter.md)(DC 20), *[statue* ](../../magic/spells/statue.md)(DC 25), *[stone shape](../../magic/spells/stone-shape.md)*, *[stone tell](../../magic/spells/stone-tell.md)*  
+3/day—*command stone* (DC 27), *[flesh to stone* ](../../magic/spells/flesh-to-stone.md)(DC 24), *[spike stones* ](../../magic/spells/spike-stones.md)(DC 22), *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+1/day—*[permanency](../../magic/spells/permanency.md)*, *[summon monster VII* ](../../magic/spells/summon-monster-vii.md)(earth elementals only), *[symbol of scrying](../../magic/spells/symbol-of-scrying.md)*  
 **Wizard Spells Prepared** (CL 19th; concentration +28)  
-8th—*earthquake*<sup>M</sup>, *maze*, *repel metal or stone*  
-6th—*disintegrate*<sup>M</sup> (DC 24), *flesh to stone*<sup>M</sup> (DC 24)  
-3rd—*fly*<sup>M</sup>
+8th—*[earthquake](../../magic/spells/earthquake.md)*<sup>M</sup>, *[maze](../../magic/spells/maze.md)*, *[repel metal or stone](../../magic/spells/repel-metal-or-stone.md)*  
+6th—*[disintegrate](../../magic/spells/disintegrate.md)*<sup>M</sup> (DC 24), *[flesh to stone](../../magic/spells/flesh-to-stone.md)*<sup>M</sup> (DC 24)  
+3rd—*[fly](../../magic/spells/fly.md)*<sup>M</sup>
 
 **Statistics**
 

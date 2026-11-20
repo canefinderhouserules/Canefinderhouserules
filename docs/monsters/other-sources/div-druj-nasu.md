@@ -21,10 +21,10 @@ NE Medium outsider (div, evil, extraplanar)
 **Melee** bite +16 (1d6+4 plus disease), 2 claws +16 (1d4+4 plus distraction)  
 **Special Attacks** disease, distraction (DC 20), droning  
 **Spell-Like Abilities** (CL 10th; concentration +16)  
-Constant—*detect good*, *detect magic*  
-At will—*invisibility* (self only), *putrefy food and drink*, *see invisibility*, *summon swarm*  
-3/day—*bestow curse* (DC 20), *command undead* (DC 18), *enervation*  
-1/day—*animate dead*, *insect plague*, summon
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[invisibility](../../magic/spells/invisibility.md)* (self only), *[putrefy food and drink](../../magic/spells/putrefy-food-and-drink.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*  
+3/day—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 20), *[command undead](../../magic/spells/command-undead.md)* (DC 18), *[enervation](../../magic/spells/enervation.md)*  
+1/day—*[animate dead](../../magic/spells/animate-dead.md)*, *[insect plague](../../magic/spells/insect-plague.md)*, summon
 
 **Statistics**
 

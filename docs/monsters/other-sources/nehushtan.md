@@ -22,9 +22,9 @@ NG Tiny magical beast
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** poison  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-At will—*diagnose disease*, *speak with animals* (snakes only)  
-3/day—*hypnotism* (DC 12), *remove sickness*, *sanctuary* (DC 12)  
-1/day—*neutralize poison*, *remove disease*
+At will—*[diagnose disease](../../magic/spells/diagnose-disease.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)* (snakes only)  
+3/day—*[hypnotism](../../magic/spells/hypnotism.md)* (DC 12), *[remove sickness](../../magic/spells/remove-sickness.md)*, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 12)  
+1/day—*[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[remove disease](../../magic/spells/remove-disease.md)*
 
 **Statistics**
 

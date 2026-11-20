@@ -22,7 +22,7 @@ N Medium humanoid
 **Ranged**  *+1 composite longbow* +10/+5 (1d8+4) or Rapid Shot *+1 composite longbow* +8/+8/+3 (1d8+4/×3) or dagger +9 (1d4+3/19–20)  
 **Special Attacks** favored enemy (magical beasts +4, monstrous humanoids +2)  
 **Ranger Spells Prepared** (CL 3rd; concentration +3)  
-1st—*speak with animals*
+1st—*[speak with animals](../../magic/spells/speak-with-animals.md)*
 
 **Statistics**
 

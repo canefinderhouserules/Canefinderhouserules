@@ -23,12 +23,12 @@ CN Medium humanoid (elf)
 **Ranged**  *+1 longbow* +15/+10 (1d8+1/×3)  
 **Special Attacks** favored enemy (animals +2, orcs +4)  
 **Ranger Spells Prepared** (CL 5th; concentration +6)  
-2nd—*barkskin*, *cat’s grace*  
-1st—*entangle*, *resist energy*
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*  
+1st—*[entangle](../../magic/spells/entangle.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Tactics**
 
-**Before Combat** The ranger casts *barkskin*, *cat’s grace*, and *resist energy* (fire).  
+**Before Combat** The ranger casts *[barkskin](../../magic/spells/barkskin.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*, and *[resist energy* ](../../magic/spells/resist-energy.md)(fire).  
 **During Combat** If ranger acts in the surprise round, she casts *entangle*. She prefers to attack at range and from cover.  
 **Base Statistics** Without *barkskin*, *cat’s grace*, and *resist energy*, the ranger’s statistics are **Init** +4; **AC** 20, touch 15, flat-footed 16; **Ref** +11; **Melee** mwk elven curve blade +13/+8 (1d10+1/18–20); **Ranged** *+1 longbow* +13/+8 (1d8+1/×3); **Dex** 19; **CMD** +24; **Skills** Acrobatics +11, Ride +10, Stealth +14.
 

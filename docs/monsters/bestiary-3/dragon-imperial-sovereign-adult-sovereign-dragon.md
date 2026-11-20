@@ -23,12 +23,12 @@ N Huge dragon
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite and gore)  
 **Special Attacks** breath weapon (50-ft. cone, 12d6 sonic damage, DC 25), crush (DC 25, 2d8+15), violent retort  
 **Spell-Like Abilities** (CL 18th; concentration +22)  
-At will—*calm emotions*, *detect evil*, *detect good*, *tongues*  
+At will—*[calm emotions](../../magic/spells/calm-emotions.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[tongues](../../magic/spells/tongues.md)*  
 **Spells Known** (CL 7th; concentration +12)  
-3rd (5/day)—*lightning bolt* (DC 18), *suggestion* (DC 18)  
-2nd (7/day)—*detect thoughts* (DC 17), *hideous laughter* (DC 17), *scorching ray*  
-1st (8/day)—*charm person* (DC 16), *chill touch* (DC 16), *color spray* (DC 16), *endure elements*, *true strike*  
-0 (at will)—*daze* (DC 15), *detect magic*, *flare* (DC 15), *ghost sound*, *message*, *read magic*, *resistance*
+3rd (5/day)—*[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 18), *[suggestion* ](../../magic/spells/suggestion.md)(DC 18)  
+2nd (7/day)—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 17), *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (8/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[chill touch* ](../../magic/spells/chill-touch.md)(DC 16), *[color spray* ](../../magic/spells/color-spray.md)(DC 16), *[endure elements](../../magic/spells/endure-elements.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 15), *[ghost sound](../../magic/spells/ghost-sound.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

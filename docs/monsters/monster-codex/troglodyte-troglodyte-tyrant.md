@@ -26,11 +26,11 @@ CE Medium humanoid (reptilian)
 **Spell-Like Abilities** (CL 7th; concentration +12)  
 8/day—strength surge (+3)  
 **Cleric Spells Prepared** (CL 7th; concentration +12)  
-4th—*divine power*, *mark of the reptile god* (DC 19), *unholy blight*<sup>D</sup> (DC 19)  
-3rd—*bestow curse* (DC 18), *prayer*, *rage*<sup>D</sup>, *searing light*  
-2nd—*amplify stench*, *bull’s strength*<sup>D</sup>, *cure moderate wounds*, *hold person* (DC 17), *spiritual weapon*  
-1st—*bless*, *command* (DC 16), *cure light wounds* (3), *entropic shield*, *protection from good*<sup>D</sup>  
-0 (at will)—*bleed* (DC 15), *detect magic*, *guidance*, *stabilize*  
+4th—*[divine power](../../magic/spells/divine-power.md)*, *[mark of the reptile god](../../magic/spells/mark-of-the-reptile-god.md)* (DC 19), *[unholy blight](../../magic/spells/unholy-blight.md)*<sup>D</sup> (DC 19)  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *[prayer](../../magic/spells/prayer.md)*, *[rage](../../magic/spells/rage.md)*<sup>D</sup>, *[searing light](../../magic/spells/searing-light.md)*  
+2nd—*[amplify stench](../../magic/spells/amplify-stench.md)*, *[bull’s strength](../../magic/spells/bulls-strength.md)*<sup>D</sup>, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 17), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[bless](../../magic/spells/bless.md)*, *[command](../../magic/spells/command.md)* (DC 16), *[cure light wounds](../../magic/spells/cure-light-wounds.md)* (3), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*<sup>D</sup>  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** domain spell; **Domains** Evil (Demon subdomain), Strength
 
 **Tactics**

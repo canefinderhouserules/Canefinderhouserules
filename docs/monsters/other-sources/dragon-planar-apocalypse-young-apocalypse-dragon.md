@@ -22,8 +22,8 @@ NE Large dragon (evil, extraplanar)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, 6d6 cold plus disease, DC 21), constrict (2d6+13), blight coils, virulence  
 **Oracle Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*protection from good*, *ray of sickening* (DC 14)  
-0 (at will)—*bleed* (DC 13), *detect magic*, *resistance*, *spark*
+1st (4/day)—*[protection from good](../../magic/spells/protection-from-good.md)*, *[ray of sickening](../../magic/spells/ray-of-sickening.md)* (DC 14)  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[spark](../../magic/spells/spark.md)*
 
 **Statistics**
 

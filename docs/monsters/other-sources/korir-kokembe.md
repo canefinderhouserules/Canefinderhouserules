@@ -23,10 +23,10 @@ N Huge dragon
 **Space** 15 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** constrict (2d6+7), grab (Gargantuan), rake (2 claws +18, 2d6+7/19–20)  
 **Spell-Like Abilities** (CL 13th; concentration +15)  
-Constant—*freedom of movement*  
-At will—*repel vermin* (DC 16), *vomit swarm* (must wait 1d4 rounds before using this ability again)  
-3/day—*entangle* (DC 13)  
-1/day—*creeping doom* (DC 19), *insect plague*
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+At will—*[repel vermin* ](../../magic/spells/repel-vermin.md)(DC 16), *[vomit swarm](../../magic/spells/vomit-swarm.md)* (must wait 1d4 rounds before using this ability again)  
+3/day—*[entangle* ](../../magic/spells/entangle.md)(DC 13)  
+1/day—*[creeping doom* ](../../magic/spells/creeping-doom.md)(DC 19), *[insect plague](../../magic/spells/insect-plague.md)*
 
 **Statistics**
 

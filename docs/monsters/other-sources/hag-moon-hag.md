@@ -21,9 +21,9 @@ CE Medium monstrous humanoid (extraplanar)
 **Melee** bite +14 (1d6+5), 2 claws +14 (1d6+5)  
 **Special Attacks** dreadful ravings, rend (2 claws, 1d6+3+7)  
 **Spell-Like Abilities** (CL 7th; concentration +11)  
-At will—*augury*, *deathwatch*, *doom* (DC 15)  
-3/day—*death knell* (DC 16), *rage*, *speak with dead* (DC 17)  
-1/day—*bestow curse* (DC 18), *confusion* (DC 18), *divination*, *fear* (DC 18), *tongues*
+At will—*[augury](../../magic/spells/augury.md)*, *[deathwatch](../../magic/spells/deathwatch.md)*, *[doom* ](../../magic/spells/doom.md)(DC 15)  
+3/day—*[death knell* ](../../magic/spells/death-knell.md)(DC 16), *[rage](../../magic/spells/rage.md)*, *[speak with dead* ](../../magic/spells/speak-with-dead.md)(DC 17)  
+1/day—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 18), *[confusion* ](../../magic/spells/confusion.md)(DC 18), *[divination](../../magic/spells/divination.md)*, *[fear* ](../../magic/spells/fear.md)(DC 18), *[tongues](../../magic/spells/tongues.md)*
 
 **Statistics**
 

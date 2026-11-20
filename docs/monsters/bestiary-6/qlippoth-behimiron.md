@@ -25,9 +25,9 @@ touch (rot)
 **Space** 15 ft., **Reach** 15 ft. (20 ft. with slam)  
 **Special Attacks** create spawn, horrific appearance (DC 20), rot  
 **Spell-Like Abilities** (CL 13th; concentration +16)  
-At will—*ray of exhaustion* (DC 16)  
+At will—*[ray of exhaustion](../../magic/spells/ray-of-exhaustion.md)* (DC 16)  
 3/day—*enervation, hold monster* (DC 18)  
-1/day—*power word stun*
+1/day—*[power word stun](../../magic/spells/power-word-stun.md)*
 
 **Statistics**
 

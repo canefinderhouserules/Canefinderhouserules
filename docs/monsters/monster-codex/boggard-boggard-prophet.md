@@ -23,9 +23,9 @@ CE Medium humanoid (boggard)
 **Ranged**  sling +3 (1d4+5)  
 **Special Attacks** claws (1d6+5, 5 rounds/day), terrifying croak (DC 15)  
 **Sorcerer Spells Known** (CL 4th; concentration +6)  
-2nd (4/day)—*summon monster II*  
-1st (7/day)—*burning hands* (DC 13), *cause fear* (DC 13), *mage armor*, *summon monster I*  
-0 (at will)—*acid splash*, *detect magic*, *detect poison*, *ghost sound* (DC 12), *message*, *resistance*  
+2nd (4/day)—*[summon monster II](../../magic/spells/summon-monster-ii.md)*  
+1st (7/day)—*[burning hands](../../magic/spells/burning-hands.md)* (DC 13), *[cause fear](../../magic/spells/cause-fear.md)* (DC 13), *[mage armor](../../magic/spells/mage-armor.md)*, *[summon monster I](../../magic/spells/summon-monster-i.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 12), *[message](../../magic/spells/message.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **Bloodline** abyssal
 
 **Statistics**

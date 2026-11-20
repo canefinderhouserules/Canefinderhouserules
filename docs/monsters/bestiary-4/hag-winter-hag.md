@@ -22,10 +22,10 @@ CE Medium monstrous humanoid (cold)
 **Melee** *+2 frost quarterstaff* +15/+10 (1d6+6 plus 1d6 cold) or 2 claws +13 (1d4+3)  
 **Special Attacks** breath weapon (30-ft. cone, 4d6 cold and blinded for 1d6 rounds, Reflex DC 18 partial, usable every 1d4 round)  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
-Constant—*pass without trace*, *see invisibility*  
-At will—*chill metal* (DC 16), *detect magic*, *fog cloud*, *frostbite*, *whispering wind*  
-3/day—*alter self*, *charm monster* (DC 18), *invisibility* (self only), *major image* (DC 17)  
-1/day—*cone of cold* (DC 19; see ice staff), *control weather* (windy or cold weather only), *wall of ice* (DC 18), *waves of fatigue*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[chill metal](../../magic/spells/chill-metal.md)* (DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*, *[frostbite](../../magic/spells/frostbite.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*  
+3/day—*[alter self](../../magic/spells/alter-self.md)*, *[charm monster](../../magic/spells/charm-monster.md)* (DC 18), *[invisibility](../../magic/spells/invisibility.md)* (self only), *[major image](../../magic/spells/major-image.md)* (DC 17)  
+1/day—*[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 19; see ice staff), *[control weather](../../magic/spells/control-weather.md)* (windy or cold weather only), *[wall of ice](../../magic/spells/wall-of-ice.md)* (DC 18), *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*
 
 **Statistics**
 

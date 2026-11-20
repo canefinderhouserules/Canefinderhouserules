@@ -23,10 +23,10 @@ CN Medium humanoid (human)
 **Ranged**  *+2 returning spear* +22 (1d8+7/×3)  
 **Special Attacks** colossus hunter, rage (9 rounds/day), rage powers (ferocious mount), wild shape 2/day  
 **Druid Spells Prepared** (CL 6th; concentration +9)  
-3rd—*call lightning* (DC 16), *greater magic fang*, *protection from energy*  
-2nd—*aspect of the bear*, *bear’s endurance*, *cat’s grace*, *resist energy*  
-1st—*keen senses*, *obscuring mist*, *pass without trace*, *speak with animals*  
-0 (at will)— *flare* (DC 13), *guidance*, *resistance*, *stabilize*
+3rd—*[call lightning](../../magic/spells/call-lightning.md)* (DC 16), *[greater magic fang](../../magic/spells/magic-fang-greater.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd—*[aspect of the bear](../../magic/spells/aspect-of-the-bear.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[keen senses](../../magic/spells/keen-senses.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)— *[flare](../../magic/spells/flare.md)* (DC 13), *[guidance](../../magic/spells/guidance.md)*, *[resistance](../../magic/spells/resistance.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

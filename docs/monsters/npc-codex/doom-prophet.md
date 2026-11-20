@@ -22,13 +22,13 @@ CE Medium humanoid (human, orc)
 **Melee** mwk heavy mace +7 (1d8+4)  
 **Ranged**  mwk sling +3 (1d4+4)  
 **Adept Spells Prepared** (CL 4th; concentration +6)  
-2nd—*darkness*  
-1st—*burning hands* (DC 13), *cause fear* (DC 13), *command* (DC 13)  
-0 (at will)—*detect magic*, *guidance*, *read magic*
+2nd—*[darkness](../../magic/spells/darkness.md)*  
+1st—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 13), *[cause fear* ](../../magic/spells/cause-fear.md)(DC 13), *[command* ](../../magic/spells/command.md)(DC 13)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Tactics**
 
-**Before Combat** The adept reads his *scrolls of bear’s endurance* and *bull’s strength*.  
+**Before Combat** The adept reads his *scrolls of bear’s endurance* and *[bull’s strength](../../magic/spells/bulls-strength.md)*.  
 **During Combat** The adept casts *darkness* on his mace, then casts *scorching ray* or *burning hands*.  
 **Base Statistics** Without *bear’s endurance* and *bull’s strength*, the adept’s statistics are **hp** 22; **Fort** +1; **Melee** mwk heavy mace +5 (1d8+2); **Ranged** mwk sling +3 (1d4+2); **Str** 14, **Con** 11; **CMB** +4; **CMD** 14.
 

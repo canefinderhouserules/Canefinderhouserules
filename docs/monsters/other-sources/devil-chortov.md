@@ -22,9 +22,9 @@ LE Huge outsider (devil, evil, extraplanar, lawful)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** hellfire soul  
 **Spell-Like Abilities** ( )  
-At Will — *burning hands* (DC 13), *faerie fire*, *pyrotechnics*  
-3/day — *dimension door*, *fireball* (DC 15)  
-1/day — *wall of fire*, *summon devil* (level 4, 3 bearded devils, 40%)
+At Will — *[burning hands](../../magic/spells/burning-hands.md)* (DC 13), *[faerie fire](../../magic/spells/faerie-fire.md)*, *[pyrotechnics](../../magic/spells/pyrotechnics.md)*  
+3/day — *[dimension door](../../magic/spells/dimension-door.md)*, *[fireball](../../magic/spells/fireball.md)* (DC 15)  
+1/day — *[wall of fire](../../magic/spells/wall-of-fire.md)*, *summon devil* (level 4, 3 bearded devils, 40%)
 
 **Statistics**
 

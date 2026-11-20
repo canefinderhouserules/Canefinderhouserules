@@ -22,7 +22,7 @@ NE Small fey
 **Melee** bite +8 (1d6+3)  
 **Ranged**  puffballs +9 (1d6 plus disease)  
 **Spell-Like Abilities** (CL 7th; concentration +9)  
-Constant—*speak with plants* (fungi and mold only)
+Constant—*[speak with plants* ](../../magic/spells/speak-with-plants.md)(fungi and mold only)
 
 **Statistics**
 

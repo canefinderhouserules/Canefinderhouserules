@@ -22,9 +22,9 @@ LE Large outsider (devil, evil, extraplanar, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** burn (2d6, DC 31), hellfire  
 **Spell-Like Abilities** (CL 17th; concentration +24)  
-Constant—*fire shield*, *true seeing*  
-At will—*fireball* (DC 20), *greater teleport* (self plus 50 lbs. of objects only), *persistent image* (DC 22), *wall of fire*  
-3/day—*dictum* (DC 24), *firestorm* (DC 25), *mass charm monster* (DC 25)  
+Constant—*[fire shield](../../magic/spells/fire-shield.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[fireball](../../magic/spells/fireball.md)* (DC 20), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[persistent image](../../magic/spells/persistent-image.md)* (DC 22), *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3/day—*[dictum](../../magic/spells/dictum.md)* (DC 24), *firestorm* (DC 25), *[mass charm monster](../../magic/spells/charm-monster-mass.md)* (DC 25)  
 1/day—summon (level 9, any 2d4 devils of CR 10 or lower, 90%)
 
 **Statistics**

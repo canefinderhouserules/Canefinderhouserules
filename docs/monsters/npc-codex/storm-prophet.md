@@ -22,11 +22,11 @@ CE Medium humanoid (dwarf)
 **Melee** *+1 warhammer* +11 (1d8+7/×3) or 2 claws +11 (1d6+6) and bite +10 (1d6+9)  
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, dragon bite, claws (2, 1d4+4, magic, 5 rounds/day)  
 **Sorcerer Spells Known** (CL 8th; concentration +10)  
-4th (3/day)—*greater invisibility*  
-3rd (5/day)—*fly*, *heroism*, *lightning bolt* (DC 15)  
-2nd (7/day)—*false life*, *protection from arrows*, *resist energy*, *scorching ray*  
-1st (7/day)—*enlarge person* (DC 13), *mage armor*, *magic missile*, *magic weapon*, *shield*, *shocking grasp*  
-0 (at will)—*arcane mark*, *detect magic*, *detect poison*, *ghost sound* (DC 12), *light*, *mage hand*, *message*, *resistance*  
+4th (3/day)—*[greater invisibility](../../magic/spells/invisibility-greater.md)*  
+3rd (5/day)—*[fly](../../magic/spells/fly.md)*, *[heroism](../../magic/spells/heroism.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 15)  
+2nd (7/day)—*[false life](../../magic/spells/false-life.md)*, *[protection from arrows](../../magic/spells/protection-from-arrows.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (7/day)—*[enlarge person* ](../../magic/spells/enlarge-person.md)(DC 13), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[magic weapon](../../magic/spells/magic-weapon.md)*, *[shield](../../magic/spells/shield.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 12), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **Bloodline** draconic (blue)
 
 **Tactics**

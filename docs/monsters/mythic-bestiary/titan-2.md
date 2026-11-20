@@ -23,10 +23,10 @@ CE Colossal outsider (chaotic, evil, extraplanar, mythic)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** bleed (4d6), blood rage, mythic power (8/day, surge +1d10), push (heavy mace or slam, 10 ft.), rock throwing (100 ft.), trample (2d8+24, DC 35)  
 **Spell-Like Abilities** (CL 20th; concentration +28)  
-Constant—*air walk*, *mind blank*, *true seeing*  
-At will—*break enchantment*, *divination*, *greater dispel magic*, *sending*  
-3/day—*disintegrate* (DC 24), *greater scrying* (DC 25), *heal*, *mass suggestion* (DC 24)  
-1/day—*cursed earth*, *greater planar ally*, *mage’s disjunction* (DC 27), *spell turning*, *wish*
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[mind blank](../../magic/spells/mind-blank.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[divination](../../magic/spells/divination.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[sending](../../magic/spells/sending.md)*  
+3/day—*[disintegrate](../../magic/spells/disintegrate.md)* (DC 24), *[greater scrying](../../magic/spells/scrying-greater.md)* (DC 25), *[heal](../../magic/spells/heal.md)*, *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 24)  
+1/day—*[cursed earth](../../magic/spells/cursed-earth.md)*, *[greater planar ally](../../magic/spells/planar-ally-greater.md)*, *[mage’s disjunction](../../magic/spells/mages-disjunction.md)* (DC 27), *[spell turning](../../magic/spells/spell-turning.md)*, *[wish](../../magic/spells/wish.md)*
 
 **Statistics**
 

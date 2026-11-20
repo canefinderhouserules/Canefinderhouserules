@@ -21,21 +21,21 @@ LG Medium outsider (archon, extraplanar, good, lawful)
 **Speed** 20 ft., fly 90 ft. (good)  
 **Melee** *+3 conductive greatsword* +30/+25/+20/+15 (2d6+18/17-20), 2 wings +22 (1d4+5)  
 **Spell-Like Abilities** (CL 17th; concentration +22)  
-Constant—*nondetection*, *statue*, *true seeing*  
-At will—*bestow curse* (DC 18), *detect evil*, *dimensional anchor*, *dismissal* (DC 19), *greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*calcific touch* (DC 19), *glyph of warding* (DC 18), *plane shift* (DC 20)  
-1/day—*gate*  
+Constant—*[nondetection](../../magic/spells/nondetection.md)*, *[statue](../../magic/spells/statue.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *[detect evil](../../magic/spells/detect-evil.md)*, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[dismissal](../../magic/spells/dismissal.md)* (DC 19), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
+3/day—*[calcific touch](../../magic/spells/calcific-touch.md)* (DC 19), *[glyph of warding](../../magic/spells/glyph-of-warding.md)* (DC 18), *[plane shift](../../magic/spells/plane-shift.md)* (DC 20)  
+1/day—*[gate](../../magic/spells/gate.md)*  
 **Cleric Spells Prepared** (CL 17th; concentration +23)  
-9th—*mass heal* (DC 24)  
-8th—*dimensional lock*, *greater spell immunity*  
-7th— *greater scrying* (DC 22), *holy word* (2, DC 22)  
-6th—*antilife shell*, *banishment* (2, DC 22), *blade barrier* (DC 21), *greater dispel magic*, *heal*  
-5th—*break enchantment* (2), *breath of life*, *dispel evil* (DC 20), *righteous might*, *wall of stone*  
-4th—*blessing of fervor*, *divine power*, *freedom of movement*, *greater magic weapon*, *neutralize poison*  
-3rd—*daylight*, *dispel magic*, *prayer* (2), *searing light*  
-2nd—*calm emotions* (DC 17), *consecrate*, *eagle’s splendor*, *owl’s wisdom*, *remove paralysis*, *silence* (DC 17)  
-1st—*divine favor*, *entropic shield*, *obscuring mist*, *protection from evil*, *remove fear*, *shield of faith*  
-0—*detect magic*, *guidance*, *light*, *stabilize*
+9th—*[mass heal](../../magic/spells/heal-mass.md)* (DC 24)  
+8th—*[dimensional lock](../../magic/spells/dimensional-lock.md)*, *[greater spell immunity](../../magic/spells/spell-immunity-greater.md)*  
+7th— *[greater scrying](../../magic/spells/scrying-greater.md)* (DC 22), *[holy word](../../magic/spells/holy-word.md)* (2, DC 22)  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, *[banishment](../../magic/spells/banishment.md)* (2, DC 22), *[blade barrier](../../magic/spells/blade-barrier.md)* (DC 21), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[heal](../../magic/spells/heal.md)*  
+5th—*[break enchantment](../../magic/spells/break-enchantment.md)* (2), *[breath of life](../../magic/spells/breath-of-life.md)*, *[dispel evil](../../magic/spells/dispel-evil.md)* (DC 20), *[righteous might](../../magic/spells/righteous-might.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+4th—*[blessing of fervor](../../magic/spells/blessing-of-fervor.md)*, *[divine power](../../magic/spells/divine-power.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*  
+3rd—*[daylight](../../magic/spells/daylight.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[prayer* ](../../magic/spells/prayer.md)(2), *[searing light](../../magic/spells/searing-light.md)*  
+2nd—*[calm emotions](../../magic/spells/calm-emotions.md)* (DC 17), *[consecrate](../../magic/spells/consecrate.md)*, *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[owl’s wisdom](../../magic/spells/owls-wisdom.md)*, *[remove paralysis](../../magic/spells/remove-paralysis.md)*, *[silence* ](../../magic/spells/silence.md)(DC 17)  
+1st—*[divine favor](../../magic/spells/divine-favor.md)*, *[entropic shield](../../magic/spells/entropic-shield.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

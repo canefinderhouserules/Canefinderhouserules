@@ -21,14 +21,14 @@ N Medium humanoid (human)
 **Melee** mwk quarterstaff +6/+1 (1d6–1)  
 **Ranged**  light crossbow +7 (1d8/19–20)  
 **Sorcerer Spells Known** (CL 14th; concentration +18)  
-7th (3/day)—*greater scrying* (DC 21)  
-6th (5/day)—*guards and wards* (DC 20), *legend lore*, *true seeing*  
-5th (6/day)—*break enchantment* (DC 19), *contact other plane*, *overland flight*, *sending*  
-4th (7/day)—*charm monster* (DC 18), *dimension door*, *lesser geas*, *locate creature*, *mass enlarge person* (DC 18), *scrying* (DC 18)  
-3rd (7/day)—*clairaudience/clairvoyance*, *dispel magic*, *haste*, *tiny hut*, *tongues*  
-2nd (7/day)—*detect thoughts* (DC 16), *fog cloud*, *invisibility*, *knock*, *locate object*, *scorching ray*  
-1st (7/day)—*disguise self*, *erase* (DC 15), *feather fall*, *identify*, *mage armor*, *magic missile*  
-0 (at will)—*arcane mark*, *detect magic*, *detect poison*, *light*, *mending*, *message*, *prestidigitation* (DC 14), *read magic*, *resistance*  
+7th (3/day)—*[greater scrying](../../magic/spells/scrying-greater.md)* (DC 21)  
+6th (5/day)—*[guards and wards](../../magic/spells/guards-and-wards.md)* (DC 20), *[legend lore](../../magic/spells/legend-lore.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+5th (6/day)—*[break enchantment](../../magic/spells/break-enchantment.md)* (DC 19), *[contact other plane](../../magic/spells/contact-other-plane.md)*, *[overland flight](../../magic/spells/overland-flight.md)*, *[sending](../../magic/spells/sending.md)*  
+4th (7/day)—*[charm monster](../../magic/spells/charm-monster.md)* (DC 18), *[dimension door](../../magic/spells/dimension-door.md)*, *[lesser geas](../../magic/spells/geas-lesser.md)*, *[locate creature](../../magic/spells/locate-creature.md)*, *[mass enlarge person](../../magic/spells/enlarge-person-mass.md)* (DC 18), *[scrying](../../magic/spells/scrying.md)* (DC 18)  
+3rd (7/day)—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[haste](../../magic/spells/haste.md)*, *[tiny hut](../../magic/spells/tiny-hut.md)*, *[tongues](../../magic/spells/tongues.md)*  
+2nd (7/day)—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[knock](../../magic/spells/knock.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (7/day)—*[disguise self](../../magic/spells/disguise-self.md)*, *[erase](../../magic/spells/erase.md)* (DC 15), *[feather fall](../../magic/spells/feather-fall.md)*, *[identify](../../magic/spells/identify.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)* (DC 14), *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **Bloodline** arcane
 
 **Statistics**

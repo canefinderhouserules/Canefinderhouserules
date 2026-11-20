@@ -23,11 +23,11 @@ CN Huge dragon (extraplanar)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** breath weapon (100-ft. line, 20d6 fire, Reflex DC 27 half, usable every 1d4 rounds)  
 **Spell-Like Abilities** (CL 21st; concentration +29)  
-At will—*analyze aura*, *color spray* (DC 19), *glitterdust* (DC 20), *mirror image* (DC 19)  
-3/day—*invisibility* (DC 20), *major image* (DC 21), *rainbow pattern* (DC 22)  
-1/day—*phantasmal killer* (DC 22), *prismatic spray* (DC 25)  
+At will—*[analyze aura](../../magic/spells/analyze-aura.md)*, *[color spray](../../magic/spells/color-spray.md)* (DC 19), *[glitterdust](../../magic/spells/glitterdust.md)* (DC 20), *[mirror image](../../magic/spells/mirror-image.md)* (DC 19)  
+3/day—*[invisibility](../../magic/spells/invisibility.md)* (DC 20), *[major image](../../magic/spells/major-image.md)* (DC 21), *[rainbow pattern](../../magic/spells/rainbow-pattern.md)* (DC 22)  
+1/day—*[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 22), *[prismatic spray](../../magic/spells/prismatic-spray.md)* (DC 25)  
 **Psychic Magic** (CL 21st; concentration +29)  
-20 PE—*aura alteration* (3 PE, DC 21), *emotive block* (3 PE, DC 21), *greater possession* (8 PE, DC 26), *id insinuation V* (6 PE, DC 24), *instigate psychic duel* (2 PE, DC 20), *mass synesthesia* (6 PE, DC 24), *psychic surgery* (5 PE, DC 25), *suggestion* (3 PE, DC 21), *synaptic scramble* (4 PE, DC 22)
+20 PE—*[aura alteration](../../magic/spells/aura-alteration.md)* (3 PE, DC 21), *[emotive block](../../magic/spells/emotive-block.md)* (3 PE, DC 21), *[greater possession](../../magic/spells/possession-greater.md)* (8 PE, DC 26), *id insinuation V* (6 PE, DC 24), *[instigate psychic duel](../../magic/spells/instigate-psychic-duel.md)* (2 PE, DC 20), *[mass synesthesia](../../magic/spells/synesthesia-mass.md)* (6 PE, DC 24), *[psychic surgery](../../magic/spells/psychic-surgery.md)* (5 PE, DC 25), *[suggestion](../../magic/spells/suggestion.md)* (3 PE, DC 21), *[synaptic scramble](../../magic/spells/synaptic-scramble.md)* (4 PE, DC 22)
 
 **Statistics**
 

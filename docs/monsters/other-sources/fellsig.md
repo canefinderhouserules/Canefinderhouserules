@@ -23,8 +23,8 @@ NE Medium undead (fire)
 **Ranged**  lava ball +3 ranged touch (1d6 fire plus burn)  
 **Special Attacks** burn (1d6, DC 13), eruption, lava ball  
 **Spell-Like Abilities** (CL 5th; concentration +6)  
-5/day—*pyrotechnics*  
-3/day—*burning hands* (DC 12)
+5/day—*[pyrotechnics](../../magic/spells/pyrotechnics.md)*  
+3/day—*[burning hands](../../magic/spells/burning-hands.md)* (DC 12)
 
 **Statistics**
 

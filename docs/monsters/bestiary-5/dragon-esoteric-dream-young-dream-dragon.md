@@ -22,10 +22,10 @@ N Large dragon (extraplanar)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, DC 18, 6d6 electricity), sleeping breath 1/day  
 **Psychic Magic** (CL 1st; concentration +5)  
-5 PE—*lullaby* (0 PE, DC 14), *mirror strike* (1 PE)  
+5 PE—*[lullaby](../../magic/spells/lullaby.md)* (0 PE, DC 14), *[mirror strike](../../magic/spells/mirror-strike.md)* (1 PE)  
  **Psychic Spells Known** (CL 1st; concentration +5)  
- 1st (4/day)—*shield*, *sleep* (DC 15)  
- 0 (At-will)—*daze* (DC 14), *ghost sound* (DC 14), *light*, *message*
+ 1st (4/day)—*[shield](../../magic/spells/shield.md)*, *[sleep* ](../../magic/spells/sleep.md)(DC 15)  
+ 0 (At-will)—*[daze* ](../../magic/spells/daze.md)(DC 14), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*
 
 **Statistics**
 

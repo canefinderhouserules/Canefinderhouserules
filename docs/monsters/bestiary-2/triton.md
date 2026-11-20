@@ -20,7 +20,7 @@ NG Medium outsider (native, water)
 **Melee** mwk trident +5 (1d8+1)  
 **Ranged**  heavy crossbow +3 (1d10/19–20)  
 **Spell-Like Abilities** (CL 7th; concentration +7)  
-1/day—*summon nature’s ally II* (Small water elemental or 1d3 dolphins only)
+1/day—*[summon nature’s ally II* ](../../magic/spells/summon-natures-ally-ii.md)(Small water elemental or 1d3 dolphins only)
 
 **Statistics**
 

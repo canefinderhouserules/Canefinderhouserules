@@ -23,10 +23,10 @@ CE Large dragon (fire)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, DC 19, 6d10 fire)  
 **Spell-Like Abilities** (CL 11th)  
-At will—*detect magic*  
+At will—*[detect magic](../../magic/spells/detect-magic.md)*  
 **Spells Known** (CL 1st)  
-1st (3/day)—*shield*, *true strike*  
-0 (at will)—*mage hand*, *message*, *prestidigitation*, *read magic*
+1st (3/day)—*[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

@@ -23,9 +23,9 @@ NE Medium undead (augmented humanoid, human)
 **Melee** slam +7 (1d4+4 plus energy drain)  
 **Special Attacks** bardic performance 24 rounds/day (countersong, distraction, fascinate [DC 18], inspire competence +2, inspire courage +2), blood drain, children of the night, create spawn, dominate (DC 18), energy drain (2 levels, DC 18)  
 **Bard Spells Known** (CL 5th; concentration +11)  
-2nd (4/day)—*darkness*, *enthrall* (DC 20), *share memory* (DC 18)  
-1st (6/day)—*charm person* (DC 19), *ear-piercing scream*, *lesser confusion* (DC 19), *memory lapse* (DC 19)  
-0 (at will)—*daze* (DC 18), *detect magic*, *mage hand*, *open/close*, *prestidigitation* (DC 16), *unwitting ally* (DC 18)
+2nd (4/day)—*[darkness](../../magic/spells/darkness.md)*, *[enthrall* ](../../magic/spells/enthrall.md)(DC 20), *[share memory](../../magic/spells/share-memory.md)* (DC 18)  
+1st (6/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 19), *[ear-piercing scream](../../magic/spells/ear-piercing-scream.md)*, *[lesser confusion](../../magic/spells/confusion-lesser.md)* (DC 19), *[memory lapse](../../magic/spells/memory-lapse.md)* (DC 19)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 18), *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation* ](../../magic/spells/prestidigitation.md)(DC 16), *[unwitting ally](../../magic/spells/unwitting-ally.md)* (DC 18)
 
 **Tactics**
 

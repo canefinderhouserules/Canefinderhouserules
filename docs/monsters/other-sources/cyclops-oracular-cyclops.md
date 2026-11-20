@@ -21,8 +21,8 @@ NE Large humanoid (giant)
 **Ranged**  heavy crossbow +10 (2d8/19–20)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-3/day—*divination*  
-1/day—*augury*
+3/day—*[divination](../../magic/spells/divination.md)*  
+1/day—*[augury](../../magic/spells/augury.md)*
 
 **Statistics**
 

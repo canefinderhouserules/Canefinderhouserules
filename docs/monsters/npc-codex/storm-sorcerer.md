@@ -24,10 +24,10 @@ NE Medium humanoid (elf)
 **Spell-Like Abilities** (CL 6th; concentration +9)  
 6/day—elemental ray (1d6+3 electricity)  
 **Sorcerer Spells Known** (CL 6th; concentration +9)  
-3rd (4/day)—*lightning bolt* (DC 17)  
-2nd (6/day)—*gust of wind* (DC 16), *scorching ray* (electricity), *spectral hand*  
-1st (7/day)—*burning hands* (electricity; DC 15), *mage armor*, *magic missile*, *obscuring mist*, *shocking grasp*  
-0 (at will)—*acid splash* (electricity), *dancing lights*, *detect magic*, *light*, *mage hand*, *ray of frost* (electricity), *read magic*  
+3rd (4/day)—*[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 17)  
+2nd (6/day)—*[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 16), *[scorching ray* ](../../magic/spells/scorching-ray.md)(electricity), *[spectral hand](../../magic/spells/spectral-hand.md)*  
+1st (7/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(electricity; DC 15), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[acid splash* ](../../magic/spells/acid-splash.md)(electricity), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[ray of frost* ](../../magic/spells/ray-of-frost.md)(electricity), *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** elemental (air)
 
 **Tactics**

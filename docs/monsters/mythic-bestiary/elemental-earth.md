@@ -22,8 +22,8 @@ N Huge outsider (earth, elemental, extraplanar, mythic)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** earth mastery, mythic power (5/day, surge +1d8), petrify, stun, trample (4d6+18, DC 30)  
 **Spell-Like Abilities** (CL 16th; concentration +16)  
-At will—*stone shape*  
-5/day—*transmute mud to rock* (DC 15)
+At will—*[stone shape](../../magic/spells/stone-shape.md)*  
+5/day—*[transmute mud to rock](../../magic/spells/transmute-mud-to-rock.md)* (DC 15)
 
 **Statistics**
 

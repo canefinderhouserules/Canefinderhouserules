@@ -25,10 +25,10 @@ NE Small humanoid (halfling)
 **Spell-Like Abilities** (CL 6th; concentration +8)  
 5/day—lightning arc  
 **Druid Spells Prepared** (CL 6th; concentration +8)  
-3rd—*gaseous form*<sup>D</sup>, extended *summon nature’s ally II* (2)  
-2nd—*barkskin*, extended *summon nature’s ally I*, *summon swarm*, *wind wall*<sup>D</sup>  
-1st—*endure elements*, *faerie fire*, *magic fang*, *obscuring mist*<sup>D</sup>, *speak with animals*  
-0 (at will)—*detect poison*, *know direction*, *light*, *purify food and drink*  
+3rd—*[gaseous form](../../magic/spells/gaseous-form.md)*<sup>D</sup>, extended *[summon nature’s ally II* ](../../magic/spells/summon-natures-ally-ii.md)(2)  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, extended *[summon nature’s ally I](../../magic/spells/summon-natures-ally-i.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*, *[wind wall](../../magic/spells/wind-wall.md)*<sup>D</sup>  
+1st—*[endure elements](../../magic/spells/endure-elements.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*, *[magic fang](../../magic/spells/magic-fang.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*<sup>D</sup>, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[detect poison](../../magic/spells/detect-poison.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[light](../../magic/spells/light.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*  
 **D** Domain spell; **Domain** Air
 
 **Tactics**

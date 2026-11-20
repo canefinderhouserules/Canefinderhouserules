@@ -24,7 +24,7 @@ LE Medium humanoid (dwarf)
 **Ranged**  mwk heavy crossbow +11 (2d8+1/19–20)  
 **Special Attacks** weapon training (axes +2, crossbows +1)  
 **Spell-Like Abilities** (CL 9th; concentration +6)  
-1/day—*enlarge person* (self only), *invisibility* (self only)
+1/day—*[enlarge person](../../magic/spells/enlarge-person.md)* (self only), *[invisibility](../../magic/spells/invisibility.md)* (self only)
 
 **Statistics**
 

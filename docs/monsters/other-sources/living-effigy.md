@@ -23,10 +23,10 @@ N Huge construct
 **Space** 15 ft., **Reach** 5 ft.  
 **Special Attacks** charming gaze  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-At will—*detect thoughts* (DC 15), *obscuring mist*, *sound burst* (DC 15)  
-3/day—*calm emotions* (DC 15), *crushing despair* (DC 17), *good hope*, empowered *sound burst* (DC 15), *stone shape*, *thundering drums* (DC 16)  
-1/day—*arcane concordance*, *fear* (DC 17), *witness* (DC 16)  
-1/week—*dream*, *nightmare* (DC 18)
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 15), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[sound burst](../../magic/spells/sound-burst.md)* (DC 15)  
+3/day—*[calm emotions](../../magic/spells/calm-emotions.md)* (DC 15), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 17), *[good hope](../../magic/spells/good-hope.md)*, empowered *[sound burst](../../magic/spells/sound-burst.md)* (DC 15), *[stone shape](../../magic/spells/stone-shape.md)*, *[thundering drums](../../magic/spells/thundering-drums.md)* (DC 16)  
+1/day—*[arcane concordance](../../magic/spells/arcane-concordance.md)*, *[fear](../../magic/spells/fear.md)* (DC 17), *[witness](../../magic/spells/witness.md)* (DC 16)  
+1/week—*[dream](../../magic/spells/dream.md)*, *[nightmare](../../magic/spells/nightmare.md)* (DC 18)
 
 **Statistics**
 

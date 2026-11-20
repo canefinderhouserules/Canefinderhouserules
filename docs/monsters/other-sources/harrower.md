@@ -22,11 +22,11 @@ CG Medium humanoid (human)
 **Ranged**  *+1 dagger* +8 (1d4/19–20)  
 **Special Attacks** bardic performance 20 rounds/day (move action, countersong, distraction, fascinate, inspire competence +3, inspire courage +2, move action, *suggestion*), harrow casting 3/day  
 **Bard Spells Known** (CL 10th; concentration +14)  
-4th (2/day)—*legend lore*, *shout* (DC 18)  
-3rd (4/day)—*clairaudience/clairvoyance*, *good hope*, *remove curse*, *scrying* (DC 18)  
-2nd (5/day)—*alter self*, *calm emotions* (DC 16), *detect thoughts* (DC 17), *locate object*, *hold person* (DC 16)  
-1st (6/day)—*anticipate peril* (DC 16), *comprehend languages*, *ear-piercing scream*, *hideous laughter* (DC 15), *remove fear*  
-0 (at will)—*detect magic*, *ghost sound* (DC 14), *know direction*, *light*, *mage hand*, *read magic*
+4th (2/day)—*[legend lore](../../magic/spells/legend-lore.md)*, *[shout* ](../../magic/spells/shout.md)(DC 18)  
+3rd (4/day)—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[good hope](../../magic/spells/good-hope.md)*, *[remove curse](../../magic/spells/remove-curse.md)*, *[scrying* ](../../magic/spells/scrying.md)(DC 18)  
+2nd (5/day)—*[alter self](../../magic/spells/alter-self.md)*, *[calm emotions* ](../../magic/spells/calm-emotions.md)(DC 16), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[locate object](../../magic/spells/locate-object.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 16)  
+1st (6/day)—*[anticipate peril](../../magic/spells/anticipate-peril.md)* (DC 16), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[ear-piercing scream](../../magic/spells/ear-piercing-scream.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 15), *[remove fear](../../magic/spells/remove-fear.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *[know direction](../../magic/spells/know-direction.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

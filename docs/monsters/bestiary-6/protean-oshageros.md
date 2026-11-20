@@ -26,10 +26,10 @@ tail slap +18 (1d4+3 plus grab), 4 tentacles +18
 **Special Attacks** constrict (1d4+6), draining
 tentacles, warpwave burst  
 **Spell-Like Abilities** (CL 13th; concentration +18)  
-Constant—*detect law*  
+Constant—*[detect law](../../magic/spells/detect-law.md)*  
 At will—*greater dispel magic, greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*chaos hammer* (DC 19)  
-1/day—*dispel law* (DC 20), *dismissal* (DC 20), *summon* (level 5, 2 imenteshes 75%)
+3/day—*[chaos hammer](../../magic/spells/chaos-hammer.md)* (DC 19)  
+1/day—*[dispel law](../../magic/spells/dispel-law.md)* (DC 20), *[dismissal](../../magic/spells/dismissal.md)* (DC 20), *summon* (level 5, 2 imenteshes 75%)
 
 **Statistics**
 

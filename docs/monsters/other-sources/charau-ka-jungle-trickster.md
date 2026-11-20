@@ -22,9 +22,9 @@ CE Small humanoid (charau-ka)
 **Ranged**  rock +10 (1d4+2/19–20)  
 **Special Attacks** bardic performance 23 rounds/day (countersong, distraction, fascinate [DC 16], inspire courage +2, weird words [DC 16, 1d8+3], wordstrike [1d4+6]), shrieking frenzy, thrown-weapon mastery  
 **Bard Spells Known** (CL 6th; concentration +9)  
-2nd (4/day)—*cure moderate wounds*, *detect thoughts* (DC 15), *invisibility*, *suggestion* (DC 15)  
-1st (5/day)—*charm person* (DC 14), *disguise self* (DC 14), *expeditious retreat*, *hideous laughter* (DC 14)  
-0 (at will)—*detect magic*, *ghost sound* (DC 13), *lullaby* (DC 13), *mage hand*, *prestidigitation* (DC 13), *read magic*
+2nd (4/day)—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 15), *[invisibility](../../magic/spells/invisibility.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 15)  
+1st (5/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 14), *[disguise self](../../magic/spells/disguise-self.md)* (DC 14), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[hideous laughter](../../magic/spells/hideous-laughter.md)* (DC 14)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 13), *[lullaby](../../magic/spells/lullaby.md)* (DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)* (DC 13), *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

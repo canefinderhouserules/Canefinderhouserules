@@ -23,7 +23,7 @@ affinity; **DR** 5/cold iron or good; **Immune** electricity, poison; **Resist**
 **Melee** longsword +6 (1d8+2/19–20), bite +1 (1d6+1)  
 **Special Attacks** inhabit body  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-3/day—*mass inflict light wounds* (DC 16), *spider climb*  
+3/day—*[mass inflict light wounds](../../magic/spells/inflict-light-wounds-mass.md)* (DC 16), *[spider climb](../../magic/spells/spider-climb.md)*  
 1/day—*gentle repose, summon* (level 2, 1d4 dretches 50%)
 
 **Statistics**

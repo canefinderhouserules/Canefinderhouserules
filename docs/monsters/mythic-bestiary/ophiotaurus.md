@@ -26,11 +26,11 @@ poisonous blood (nightmare vapor), second save; **DR** 15/epic; **Immune** divin
 **Special Attacks** confounding coils, constrict (2d6+22), drag along,
 mythic power (7/day, surge +1d10), trample (4d6+15, DC 27)  
 **Spell-Like Abilities** (CL 15th; concentration +19; Wisdom-based)  
-Constant—*mind blank*  
+Constant—*[mind blank](../../magic/spells/mind-blank.md)*  
 
 3/day—*restore mythic power, share glory, steal power* (DC 19)  
 
-1/day—*ascension*
+1/day—*[ascension](../../magic/spells/ascension.md)*
 
 **Statistics**
 

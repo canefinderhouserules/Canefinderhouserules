@@ -20,8 +20,8 @@ NE Medium magical beast
 **Melee** bite +4 (1d6+1 plus poison)  
 **Special Attacks** poison, web (+11 ranged touch, DC 19, 10 hp, DR 5/slashing)  
 **Spell-Like Abilities** (CL 5th; concentration +3)  
-3/day—*obscuring mist*  
-1/day—*gaseous form*
+3/day—*[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+1/day—*[gaseous form](../../magic/spells/gaseous-form.md)*
 
 **Statistics**
 

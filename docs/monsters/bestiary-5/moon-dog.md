@@ -23,7 +23,7 @@ NG Medium outsider (extraplanar, good)
 **Spell-Like Abilities** (CL 12th; concentration +15)  
 Constant—*detect evil, detect magic, see invisibility*
   
-At will—*dancing lights*
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*
   
 3/day—*alter self, mirror image*
   

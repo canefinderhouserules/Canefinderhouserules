@@ -20,10 +20,10 @@ LE Tiny outsider (native, oni)
 **Melee** bite +9 (1d4–2), gore +9 (1d4–2 plus poison)  
 **Special Attacks** poison  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-Constant—*detect magic*  
-At will—*invisibility* (self only), *mage hand*  
-1/day—*command* (DC 13), *sleep* (DC 13)  
-1/week—*commune* (CL 12th, 6 questions)
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[invisibility* ](../../magic/spells/invisibility.md)(self only), *[mage hand](../../magic/spells/mage-hand.md)*  
+1/day—*[command* ](../../magic/spells/command.md)(DC 13), *[sleep* ](../../magic/spells/sleep.md)(DC 13)  
+1/week—*[commune* ](../../magic/spells/commune.md)(CL 12th, 6 questions)
 
 **Statistics**
 

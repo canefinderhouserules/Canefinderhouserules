@@ -25,10 +25,10 @@ CE Huge outsider (chaotic, cold, demon, evil, extraplanar)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** clutch foe, crushing blow, favored enemy (giants +4, humans +4, see below), powerful slam, rock throwing (600 ft.), vengeful strike  
 **Spell-Like Abilities** (CL 26th; concentration +34)  
-Constant—*air walk*, *detect good*, *detect law*, *freedom of movement*, *true seeing*, *unholy aura* (DC 26)  
-At will—*astral projection*, *blasphemy** (DC 25), *cone of cold** (DC 23), *desecrate**, *enlarge person**, *greater dispel magic*, *greater teleport*, *telekinesis** (DC 23), *shapechange*, *unhallow*, *unholy blight** (DC 22)  
-3/day—*polar ray**, *power word stun**, *summon demons*, *symbol of stunning* (DC 25)  
-1/day—*mass icy prison* (DC 27), *polar midnight* (DC 27), *time stop**  
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura* ](../../magic/spells/unholy-aura.md)(DC 26)  
+At will—*[astral projection](../../magic/spells/astral-projection.md)*, *[blasphemy](../../magic/spells/blasphemy.md)** (DC 25), *[cone of cold](../../magic/spells/cone-of-cold.md)** (DC 23), *[desecrate](../../magic/spells/desecrate.md)**, *[enlarge person](../../magic/spells/enlarge-person.md)**, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[telekinesis](../../magic/spells/telekinesis.md)** (DC 23), *[shapechange](../../magic/spells/shapechange.md)*, *[unhallow](../../magic/spells/unhallow.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)** (DC 22)  
+3/day—*[polar ray](../../magic/spells/polar-ray.md)**, *[power word stun](../../magic/spells/power-word-stun.md)**, *summon demons*, *[symbol of stunning* ](../../magic/spells/symbol-of-stunning.md)(DC 25)  
+1/day—*[mass icy prison](../../magic/spells/icy-prison-mass.md)* (DC 27), *[polar midnight](../../magic/spells/polar-midnight.md)* (DC 27), *[time stop](../../magic/spells/time-stop.md)**  
 * Kostchtchie can use the mythic version of this ability in his realm.
 
 **Statistics**

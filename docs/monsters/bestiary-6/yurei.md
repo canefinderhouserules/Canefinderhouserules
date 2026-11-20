@@ -22,9 +22,9 @@ NE Medium undead
 **Special Attacks** choking suffocation, face of death  
 **Spell-Like Abilities** (CL 10th; concentration +16)  
 Constant—*blink, spider climb, water walk*  
-At will—*enter image*  
-3/day—*suffocation* (DC 21)  
-1/day—*mislead* (DC 22), *nightmare* (DC 21)
+At will—*[enter image](../../magic/spells/enter-image.md)*  
+3/day—*[suffocation](../../magic/spells/suffocation.md)* (DC 21)  
+1/day—*[mislead](../../magic/spells/mislead.md)* (DC 22), *[nightmare](../../magic/spells/nightmare.md)* (DC 21)
 
 **Statistics**
 

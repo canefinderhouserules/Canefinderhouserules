@@ -24,7 +24,7 @@ CE Medium humanoid (elf)
 **Ranged**  mwk repeating heavy crossbow +12/+7 (1d10/19–20 plus poison)  
 **Special Attacks** weapon training (heavy blades +1)  
 **Spell-Like Abilities** (CL 7th; concentration +7)  
-1/day—*dancing lights*, *darkness*, *faerie fire*
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[darkness](../../magic/spells/darkness.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*
 
 **Statistics**
 

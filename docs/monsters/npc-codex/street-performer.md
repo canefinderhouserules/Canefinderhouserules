@@ -22,8 +22,8 @@ CN Medium humanoid (human)
 **Ranged**  dagger +3 (1d4/19–20)  
 **Special Attacks** bardic performance 9 rounds/day (countersong, distraction, fascinate, inspire courage +1)  
 **Bard Spells Known** (CL 2nd; concentration +5)  
-1st (3/day)—*charm person* (DC 14), *expeditious retreat*, *sleep* (DC 14)  
-0 (at will)—*daze* (DC 13), *detect magic*, *flare* (DC 13), *ghost sound* (DC 13), *prestidigitation*
+1st (3/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[sleep* ](../../magic/spells/sleep.md)(DC 14)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 13), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Tactics**
 

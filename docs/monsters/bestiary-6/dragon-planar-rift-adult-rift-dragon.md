@@ -27,10 +27,10 @@ plus bleed), tail slap +27 (2d6+16/19–20), 2 wings +27 (1d8+5)
 (50-ft. cone, 12d10 acid, Reflex DC 27 half), corrosion, crush,
 foul acid, trample (2d8+16 plus bleed, DC 31)  
 **Oracle Spells Known** (CL 7th; concentration +13)  
-3rd (5)—*contagion* (DC 19), *deeper darkness*  
-2nd (8)—*death knell* (DC 18), *hold person* (DC 18), *shatter* (DC 18)  
-1st (8)—*bane* (DC 17), *cure light wounds, murderous command* (DC 17), *obscuring mist, shield of faith*  
-0 (at will)—*bleed* (DC 16), *detect magic, detect poison, guidance, read magic, resistance, spark* (DC 16)
+3rd (5)—*[contagion](../../magic/spells/contagion.md)* (DC 19), *[deeper darkness](../../magic/spells/deeper-darkness.md)*  
+2nd (8)—*[death knell](../../magic/spells/death-knell.md)* (DC 18), *[hold person](../../magic/spells/hold-person.md)* (DC 18), *[shatter](../../magic/spells/shatter.md)* (DC 18)  
+1st (8)—*[bane](../../magic/spells/bane.md)* (DC 17), *cure light wounds, murderous command* (DC 17), *obscuring mist, shield of faith*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 16), *detect magic, detect poison, guidance, read magic, resistance, spark* (DC 16)
 
 **Statistics**
 

@@ -23,14 +23,14 @@ N Colossal dragon
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** breath weapon, godslayer, rend (2 bites, 4d8+16 plus myth-drinker), swift tail, synchronized strike, tail snap  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*true seeing*  
-1/month—*miracle*  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+1/month—*[miracle](../../magic/spells/miracle.md)*  
 **Sorcerer Spells Known** (CL 20th; concentration +27)  
-9th (6)—*dominate monster* (DC 26), *foresight, time stop*  
+9th (6)—*[dominate monster](../../magic/spells/dominate-monster.md)* (DC 26), *foresight, time stop*  
 8th (6)—*greater prying eyes, maze, sunburst* (DC 25)  
-7th (7)—*greater arcane sight, greater scrying* (DC 24), *greater teleport*  
-6th (7)—*disintegrate* (DC 23), *mass suggestion* (DC 23), *shadow walk* (DC 23)  
-5th (7)—*cone of cold* (DC 22), *feeblemind* (DC 22), *hold monster* (DC 22), *wall of force*  
+7th (7)—*greater arcane sight, greater scrying* (DC 24), *[greater teleport](../../magic/spells/teleport-greater.md)*  
+6th (7)—*[disintegrate](../../magic/spells/disintegrate.md)* (DC 23), *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 23), *[shadow walk](../../magic/spells/shadow-walk.md)* (DC 23)  
+5th (7)—*[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 22), *[feeblemind](../../magic/spells/feeblemind.md)* (DC 22), *[hold monster](../../magic/spells/hold-monster.md)* (DC 22), *[wall of force](../../magic/spells/wall-of-force.md)*  
 4th (7)—*arcane eye, bestow curse* (DC 21), *dimension door, stone shape*  
 3rd (8)—*clairaudience/clairvoyance, dispel magic, haste, ray of exhaustion* (DC 20)  
 2nd (8)—*blur, glitterdust* (DC 19), *invisibility, mirror image, whispering wind*  

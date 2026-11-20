@@ -24,10 +24,10 @@ NE Large undead
 **Spell-Like Abilities** (CL 11th; concentration +16)  
 Constant - *desecrate* (centered on self)  
 **Cleric Spells Prepared** (CL 6th; concentration +9)  
-3rd — *bestow curse* (DC 16), *contagion* (DC 16), *dispel magic*<sup>D</sup>, *inflict serious wounds* (DC 16)  
-2nd — *death knell*<sup>D</sup> (DC 15), *hold person* (DC 15), *inflict moderate wounds* (DC 15), *resist energy*, *spiritual weapon*  
-1st — *cause fear*<sup>D</sup> (DC 14), *command* (DC 14), *divine favor*, *obscuring mist*, *shield of faith*  
-0 — *bleed* (DC 13), *detect magic*, *guidance*, *resistance*  
+3rd — *[bestow curse](../../magic/spells/bestow-curse.md)* (DC 16), *[contagion](../../magic/spells/contagion.md)* (DC 16), *[dispel magic](../../magic/spells/dispel-magic.md)*<sup>D</sup>, *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)* (DC 16)  
+2nd — *[death knell](../../magic/spells/death-knell.md)*<sup>D</sup> (DC 15), *[hold person](../../magic/spells/hold-person.md)* (DC 15), *[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)* (DC 15), *[resist energy](../../magic/spells/resist-energy.md)*, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st — *[cause fear](../../magic/spells/cause-fear.md)*<sup>D</sup> (DC 14), *[command](../../magic/spells/command.md)* (DC 14), *[divine favor](../../magic/spells/divine-favor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 — *[bleed](../../magic/spells/bleed.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** domain spell; **Domains** Death, Magic
 
 **Statistics**

@@ -21,7 +21,7 @@ LE Medium outsider (devil, evil, extraplanar, lawful)
 **Melee** *+1 keen battleaxe* +20/+15/+10 (1d8+11/19–20/×3), gore +14 (1d6+3)  
 **Special Attacks** enraged warrior  
 **Spell-Like Abilities** (CL 11th; concentration: +18)  
-At will—*greater teleport* (self plus 50 lbs. of objects only), *scorching ray*  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[scorching ray](../../magic/spells/scorching-ray.md)*  
  1/day—summon (level 4, 3 erinyes 60%)
 
 **Statistics**

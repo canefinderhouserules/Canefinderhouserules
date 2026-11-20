@@ -23,10 +23,10 @@ LE Large outsider (asura, evil, extraplanar, lawful)
 **Space** 10 ft., **Reach** 10 ft. (20 ft. with tongues)  
 **Special Attacks** pervert miracle, rend (2 tongues, 1d6+7)  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
-Constant—*detect chaos*, *detect evil*, *detect good*, *detect law*, *see invisibility*  
- At will—*greater teleport* (self plus 50 lbs. of objects only), *invisibility*, *magic aura*, *veil* (self only), *ventriloquism* (DC 16)  
-3/day—*bless*, *cure serious wounds*, *good hope*, *neutralize poison*, *remove blindness/deafness*, *remove curse*, *remove disease*  
-1/day—*blasphemy* (DC 22), *dream*, *limited wish*, summon (level 6, 1d3 upasundas 50%)
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+ At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[invisibility](../../magic/spells/invisibility.md)*, *[magic aura](../../magic/spells/magic-aura.md)*, *[veil](../../magic/spells/veil.md)* (self only), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 16)  
+3/day—*[bless](../../magic/spells/bless.md)*, *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[good hope](../../magic/spells/good-hope.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[remove blindness/deafness](../../magic/spells/remove-blindness-deafness.md)*, *[remove curse](../../magic/spells/remove-curse.md)*, *[remove disease](../../magic/spells/remove-disease.md)*  
+1/day—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 22), *[dream](../../magic/spells/dream.md)*, *[limited wish](../../magic/spells/limited-wish.md)*, summon (level 6, 1d3 upasundas 50%)
 
 **Statistics**
 

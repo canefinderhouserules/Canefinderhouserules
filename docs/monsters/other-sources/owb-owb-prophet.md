@@ -24,10 +24,10 @@ NE Large outsider (extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** curse of darkness  
 **Spell-Like Abilities** (CL 16th; concentration +21)  
-Constant—*blur*  
-At will—*deeper darkness*, *detect thoughts* (DC 17), *dust of twilight* (DC 17), *ray of enfeeblement* (DC 16), *shadow step*, *silence* (DC 17)  
-3/day—*dominate person* (DC 20), *plane shift* (to or from the Shadow Plane only; DC 20), quickened *shadow step*, *shadow evocation* (DC 20)  
-1/day—*greater shadow conjuration* (DC 22), *shadow walk* (DC 20)
+Constant—*[blur](../../magic/spells/blur.md)*  
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[dust of twilight](../../magic/spells/dust-of-twilight.md)* (DC 17), *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 16), *[shadow step](../../magic/spells/shadow-step.md)*, *[silence](../../magic/spells/silence.md)* (DC 17)  
+3/day—*[dominate person](../../magic/spells/dominate-person.md)* (DC 20), *[plane shift](../../magic/spells/plane-shift.md)* (to or from the Shadow Plane only; DC 20), quickened *[shadow step](../../magic/spells/shadow-step.md)*, *[shadow evocation](../../magic/spells/shadow-evocation.md)* (DC 20)  
+1/day—*[greater shadow conjuration](../../magic/spells/shadow-conjuration-greater.md)* (DC 22), *[shadow walk](../../magic/spells/shadow-walk.md)* (DC 20)
 
 **Statistics**
 

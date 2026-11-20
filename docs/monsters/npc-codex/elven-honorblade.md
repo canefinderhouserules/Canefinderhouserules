@@ -24,15 +24,15 @@ LG Medium humanoid (elf)
 **Ranged**  mwk longbow +15/+10/+5 (1d8/×3)  
 **Special Attacks** channel positive energy (DC 17, 6d6), smite evil 4/day (+2 attack and AC, +11 damage)  
 **Spell-Like Abilities** (CL 11th; concentration +13)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 8th; concentration +10)  
-3rd—*prayer*  
-2nd—*delay poison*, *resist energy*  
-1st—*bless*, *divine favor*, *lesser restoration*
+3rd—*[prayer](../../magic/spells/prayer.md)*  
+2nd—*[delay poison](../../magic/spells/delay-poison.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[bless](../../magic/spells/bless.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)*
 
 **Tactics**
 
-**Before Combat** The paladin casts *delay poison* and *resist energy* (fire).  
+**Before Combat** The paladin casts *[delay poison* ](../../magic/spells/delay-poison.md)and *[resist energy* ](../../magic/spells/resist-energy.md)(fire).  
 **During Combat** The paladin uses Mobility, Spring Attack, and Whirlwind Attack to engage and destroy multiple opponents at once. He normally uses his divine bond to give his weapon the *flaming* and *holy* special abilities, but if his foes are spread out, he gives it speed instead.  
 **Base Statistics** Without *resist energy*, the paladin’s statistics are **Immune** charm, disease, fear, sleep; **Resist** none.
 

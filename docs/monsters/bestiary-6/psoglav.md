@@ -24,7 +24,7 @@ CE Medium monstrous humanoid
 (2 claws, 1d6+13)  
 **Spell-Like Abilities** (CL 12th; concentration +11)  
 3/day—quickened *blur, darkness, slow* (DC 13)  
-1/day—*air walk, fear* (DC 14), *haste*
+1/day—*air walk, fear* (DC 14), *[haste](../../magic/spells/haste.md)*
 
 **Statistics**
 

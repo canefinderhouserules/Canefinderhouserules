@@ -22,10 +22,10 @@ CG Medium outsider (native)
 **Ranged**  *+1 shock longbow* +17/+12/+7 (1d8+4/×3 plus 1d6 electricity)  
 **Special Attacks** hatred, swooping pounce, talon or wing  
 **Spells Known** (CL 7th; concentration +10)  
-3rd (5/day)—*displacement*, *haste*  
-2nd (7/day)—*alter self*, *protection from arrows*, *see invisibility*  
-1st (7/day)—*grease* (DC 14), *mage armor*, *shield*, *shocking grasp*, *true strike*  
-0 (at will)—*detect magic*, *detect poison*, *light*, *mage hand*, *mending*, *message*, *prestidigitation*
+3rd (5/day)—*[displacement](../../magic/spells/displacement.md)*, *[haste](../../magic/spells/haste.md)*  
+2nd (7/day)—*[alter self](../../magic/spells/alter-self.md)*, *[protection from arrows](../../magic/spells/protection-from-arrows.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (7/day)—*[grease* ](../../magic/spells/grease.md)(DC 14), *[mage armor](../../magic/spells/mage-armor.md)*, *[shield](../../magic/spells/shield.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

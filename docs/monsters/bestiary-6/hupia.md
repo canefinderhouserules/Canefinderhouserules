@@ -22,8 +22,8 @@ NE Medium undead
 **Special Attacks** Charisma drain  
 **Spell-Like Abilities** (CL 6th;
 concentration +10)  
-At will—*detect thoughts* (DC 16), *fear* (single target only) (DC 18)  
-1/day—*gaseous form*
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16), *[fear](../../magic/spells/fear.md)* (single target only) (DC 18)  
+1/day—*[gaseous form](../../magic/spells/gaseous-form.md)*
 
 **Statistics**
 

@@ -32,9 +32,9 @@ predecessor’s rage, ravenous devourer, swallow whole
 wail of the consumed  
 **Spell-Like Abilities** (CL 27th; concentration +37)  
 Constant—*detect good, freedom of movement, true seeing, unholy aura* (DC 28)  
-At will—*astral projection, blasphemy*<sup>M</sup> (DC 27), *desecrate*<sup>M</sup>, *greater dispel magic, greater teleport, shapechange, telekinesis*<sup>M</sup> (DC 25), *unhallow, unholy blight*<sup>M</sup> (DC 24)  
-3/day—*control weather*<sup>M</sup>, *horrid wilting* (DC 28), quickened *hunger for flesh* (DC 24), *insanity* (DC 27), *mass hunger for flesh* (DC 27), *plane shift* (DC 27), *soul bind* (DC 29), *summon daemon, waves of fatigue*  
-1/day—*imprisonment* (DC 29), *time stop*<sup>M</sup>, *wish*<sup>M</sup>  
+At will—*astral projection, blasphemy*<sup>M</sup> (DC 27), *[desecrate](../../magic/spells/desecrate.md)*<sup>M</sup>, *greater dispel magic, greater teleport, shapechange, telekinesis*<sup>M</sup> (DC 25), *unhallow, unholy blight*<sup>M</sup> (DC 24)  
+3/day—*[control weather](../../magic/spells/control-weather.md)*<sup>M</sup>, *[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 28), quickened *[hunger for flesh](../../magic/spells/hunger-for-flesh.md)* (DC 24), *[insanity](../../magic/spells/insanity.md)* (DC 27), *[mass hunger for flesh](../../magic/spells/hunger-for-flesh-mass.md)* (DC 27), *[plane shift](../../magic/spells/plane-shift.md)* (DC 27), *[soul bind](../../magic/spells/soul-bind.md)* (DC 29), *summon daemon, waves of fatigue*  
+1/day—*[imprisonment](../../magic/spells/imprisonment.md)* (DC 29), *[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 <sup>M</sup> Trelmarixian can use this ability’s mythic version in his realm.
 
 **Statistics**

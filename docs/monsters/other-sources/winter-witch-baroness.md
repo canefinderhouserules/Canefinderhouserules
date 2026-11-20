@@ -22,12 +22,12 @@ NE Medium humanoid (human)
 **Melee** mwk dagger +2 (1d4–1/19–20)  
 **Special Attacks** hexes (blight [50 feet], evil eye [–2, 7 rounds])  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
-Constant—*endure elements* (cold temperatures only)  
+Constant—*[endure elements* ](../../magic/spells/endure-elements.md)(cold temperatures only)  
 **Witch Spells Prepared** (CL 5th; concentration +9)  
-3rd—*nature’s exile* (DC 17), *sleet storm* (DC 18)  
-2nd—*hold person* (DC 16), *mirror image*, *unshakable chill* (DC 16)  
-1st—*chill touch* (DC 15), *frostbite*, *ice spears* (DC 15), *sleep* (DC 15)  
-0 (at will)—*daze* (DC 14), *detect magic*, *ray of frost*, *read magic*  
+3rd—*[nature’s exile](../../magic/spells/natures-exile.md)* (DC 17), *[sleet storm* ](../../magic/spells/sleet-storm.md)(DC 18)  
+2nd—*[hold person* ](../../magic/spells/hold-person.md)(DC 16), *[mirror image](../../magic/spells/mirror-image.md)*, *[unshakable chill](../../magic/spells/unshakable-chill.md)* (DC 16)  
+1st—*[chill touch* ](../../magic/spells/chill-touch.md)(DC 15), *[frostbite](../../magic/spells/frostbite.md)*, *[ice spears](../../magic/spells/ice-spears.md)* (DC 15), *[sleep* ](../../magic/spells/sleep.md)(DC 15)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Patron** Trickery
 
 **Statistics**

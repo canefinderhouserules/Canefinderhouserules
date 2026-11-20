@@ -28,11 +28,11 @@ CE Large humanoid (cold, giant)
 9/day—strength surge (+4)  
 9/day—battle rage (+4)  
 **Cleric Spells Prepared** (CL 8th; concentration +14)  
-4th—*blessing of fervor*, *communal protection from energy*, *divine power*<sup>D</sup>, *unholy blight* (DC 20)  
-3rd—*enter image*, *invisibility purge*, *magic vestment*<sup>D</sup>, *protection from energy*, *sacred bond*  
-2nd—*align weapon*, *death knell* (DC 18), *hold person* (DC 18), *magic boulder*, *spiritual weapon*<sup>D</sup>, *weapon of awe*  
-1st—*bane* (DC 17), *bless*, *command* (DC 17), *cure light wounds*, *divine favor*, *enlarge person*<sup>D</sup> (DC 17), *shield of faith*  
-0 (at will)—*detect magic*, *guidance*, *mending*, *read magic*  
+4th—*[blessing of fervor](../../magic/spells/blessing-of-fervor.md)*, *[communal protection from energy](../../magic/spells/protection-from-energy-communal.md)*, *[divine power](../../magic/spells/divine-power.md)*<sup>D</sup>, *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 20)  
+3rd—*[enter image](../../magic/spells/enter-image.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*<sup>D</sup>, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[sacred bond](../../magic/spells/sacred-bond.md)*  
+2nd—*[align weapon](../../magic/spells/align-weapon.md)*, *[death knell](../../magic/spells/death-knell.md)* (DC 18), *[hold person](../../magic/spells/hold-person.md)* (DC 18), *[magic boulder](../../magic/spells/magic-boulder.md)*, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*<sup>D</sup>, *[weapon of awe](../../magic/spells/weapon-of-awe.md)*  
+1st—*[bane](../../magic/spells/bane.md)* (DC 17), *[bless](../../magic/spells/bless.md)*, *[command](../../magic/spells/command.md)* (DC 17), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[enlarge person](../../magic/spells/enlarge-person.md)*<sup>D</sup> (DC 17), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[mending](../../magic/spells/mending.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** domain spell; **Domains** Strength, War
 
 **Tactics**

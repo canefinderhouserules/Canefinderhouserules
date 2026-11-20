@@ -22,10 +22,10 @@ CN Small fey (shapechanger)
 **Melee** bite +15 (1d4+5), gore +15 (1d6+5), 2 claws +15 (1d4+5)  
 **Ranged** thrown object +13 (1d3+3)  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-Constant—*greater magic fang* (self only)  
-At will—*dancing lights, ghost sound* (DC 13), *lesser confusion* (DC 14), *scarecrow form*  
-3/day—*charm person* (DC 14), *confusion* (DC 17), *dimension door, hideous laughter* (DC 15), *invisibility*  
-1/day—*baleful polymorph* (DC 18), *fear* (DC 17)
+Constant—*[greater magic fang](../../magic/spells/magic-fang-greater.md)* (self only)  
+At will—*dancing lights, ghost sound* (DC 13), *[lesser confusion](../../magic/spells/confusion-lesser.md)* (DC 14), *scarecrow form*  
+3/day—*[charm person](../../magic/spells/charm-person.md)* (DC 14), *[confusion](../../magic/spells/confusion.md)* (DC 17), *dimension door, hideous laughter* (DC 15), *[invisibility](../../magic/spells/invisibility.md)*  
+1/day—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 18), *[fear](../../magic/spells/fear.md)* (DC 17)
 
 **Statistics**
 

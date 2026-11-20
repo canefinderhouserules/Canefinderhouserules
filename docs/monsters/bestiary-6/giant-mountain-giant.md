@@ -30,8 +30,8 @@ effects, poison
 swallow whole (3d6+11 bludgeoning, AC 18, 29 hp)  
 **Spell-Like Abilities** (CL 18th; concentration +21)  
 At will—*deeper darkness, invisibility*  
-3/day—*dimension door*  
-1/day—*mislead* (DC 19)
+3/day—*[dimension door](../../magic/spells/dimension-door.md)*  
+1/day—*[mislead](../../magic/spells/mislead.md)* (DC 19)
 
 **Statistics**
 

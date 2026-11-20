@@ -21,10 +21,10 @@ NG Tiny outsider (agathion, extraplanar, good)
 **Melee** bite +6 (1d3–4), 2 claws +6 (1d2–4)  
 **Special Attacks** heroic strength, pounce  
 **Spell-Like Abilities** (CL 2nd; concentration +3)  
-Constant—*know direction*, *speak with animals*  
-At will—*dancing lights*, *prestidigitation*, *stabilize*  
-1/day—*dimension door* (self plus 5 lbs. of objects only)  
-1/week—*commune* (6 questions, CL 12th)
+Constant—*[know direction](../../magic/spells/know-direction.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
+1/day—*[dimension door](../../magic/spells/dimension-door.md)* (self plus 5 lbs. of objects only)  
+1/week—*[commune](../../magic/spells/commune.md)* (6 questions, CL 12th)
 
 **Statistics**
 

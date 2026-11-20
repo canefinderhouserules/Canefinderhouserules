@@ -23,7 +23,7 @@ CN Tiny outsider (earth, elemental, extraplanar, swarm)
 **Space** 10 ft., **Reach** 0 ft.  
 **Special Attacks** distraction (DC 30), landslide, powerful swarm, rock throwing (120 ft.), rumble, trample (6d6+6, DC 26)  
 **Spell-Like Abilities** (CL 19th; concentration +21)  
-Constant—*stone tell*
+Constant—*[stone tell](../../magic/spells/stone-tell.md)*
 
 **Statistics**
 

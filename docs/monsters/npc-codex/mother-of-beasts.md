@@ -23,12 +23,12 @@ CE Medium humanoid (human)
 **Spell-Like Abilities** (CL 10th; concentration +14)  
 7/day—strength surge (+5), vision of madness (+/–5)  
 **Cleric Spells Prepared** (CL 10th; concentration +14)  
-5th—*flame strike* (DC 19), *righteous might*<sup>D</sup>, *summon monster V*  
-4th—*confusion*<sup>D</sup>(DC 18), *cure critical wounds*, *summon monster IV* (2), *unholy blight* (DC 18)  
-3rd—*blindness/deafness*, *magic circle against good*, *magic vestment*<sup>D</sup>, *summon monster III*, *water breathing*  
-2nd—*bull’s strength*<sup>D</sup>, *cure moderate wounds*, *darkness*, *shield other*, *silence* (DC 16), *summon monster II*  
-1st—*bane* (DC 15), *bless*, *command* (DC 15), *cure light wounds*, *divine favor*, *enlarge person*<sup>D</sup>(DC 15)  
-0 (at will)—*create water*, *detect magic*, *light*, *mending*  
+5th—*[flame strike* ](../../magic/spells/flame-strike.md)(DC 19), *[righteous might](../../magic/spells/righteous-might.md)*<sup>D</sup>, *[summon monster V](../../magic/spells/summon-monster-v.md)*  
+4th—*[confusion](../../magic/spells/confusion.md)*<sup>D</sup>(DC 18), *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[summon monster IV* ](../../magic/spells/summon-monster-iv.md)(2), *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 18)  
+3rd—*[blindness/deafness](../../magic/spells/blindness-deafness.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*<sup>D</sup>, *[summon monster III](../../magic/spells/summon-monster-iii.md)*, *[water breathing](../../magic/spells/water-breathing.md)*  
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*<sup>D</sup>, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[darkness](../../magic/spells/darkness.md)*, *[shield other](../../magic/spells/shield-other.md)*, *[silence* ](../../magic/spells/silence.md)(DC 16), *[summon monster II](../../magic/spells/summon-monster-ii.md)*  
+1st—*[bane* ](../../magic/spells/bane.md)(DC 15), *[bless](../../magic/spells/bless.md)*, *[command* ](../../magic/spells/command.md)(DC 15), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[enlarge person](../../magic/spells/enlarge-person.md)*<sup>D</sup>(DC 15)  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*  
 **D** Domain spell; **Domains** Madness, Strength
 
 **Tactics**

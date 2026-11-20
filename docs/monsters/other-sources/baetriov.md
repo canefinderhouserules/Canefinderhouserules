@@ -22,8 +22,8 @@ LE Medium undead
 **Melee** dagger +13 (1d4+3 plus bleed) or 2 slams +13 (1d4+3)  
 **Special Attacks** sneak attack +3d6  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-At will—*bleed* (DC 14), *blood biography* (DC 16), *bloodhound*, *pain strike* (DC 19)  
-3/day—*charm person* (DC 15), *modify memory* (DC 18), *rage* (DC 17)
+At will—*[bleed* ](../../magic/spells/bleed.md)(DC 14), *[blood biography* ](../../magic/spells/blood-biography.md)(DC 16), *[bloodhound](../../magic/spells/bloodhound.md)*, *[pain strike* ](../../magic/spells/pain-strike.md)(DC 19)  
+3/day—*[charm person* ](../../magic/spells/charm-person.md)(DC 15), *[modify memory* ](../../magic/spells/modify-memory.md)(DC 18), *[rage* ](../../magic/spells/rage.md)(DC 17)
 
 **Statistics**
 

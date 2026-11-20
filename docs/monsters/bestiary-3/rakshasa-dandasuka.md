@@ -21,10 +21,10 @@ LE Small outsider (native, rakshasa, shapechanger)
 **Melee** bite +8 (1d6+1 plus bleed), 2 claws +8 (1d4+1)  
 **Special Attacks** bleed 1d4, detect thoughts (DC 15), sneak attack +1d6  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
-1/day—*clairaudience/clairvoyance*  
+1/day—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*  
 **Spells Known** (CL 2nd; concentration +4)  
-1st (5/day)—*charm person* (DC 13), *ventriloquism* (DC 13)  
-0 (at will)—*bleed* (DC 12), *daze* (DC 12), *detect magic*, *ghost sound* (DC 12), *mage hand*
+1st (5/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 13), *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 13)  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 12), *[daze* ](../../magic/spells/daze.md)(DC 12), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 12), *[mage hand](../../magic/spells/mage-hand.md)*
 
 **Statistics**
 

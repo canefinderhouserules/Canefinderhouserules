@@ -24,10 +24,10 @@ NE Huge aberration (evil, Great Old One)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** critical poisoning, dreams of futility, feed, mythic power (10/day, surge +1d12), penetrating bite, poison, powerful blows, webs (DC 43, 32 hp)  
 **Spell-Like Abilities** (CL 28th; concentration +37)  
-Constant—*feather fall*, *freedom of movement*, *true seeing*  
-At will—*astral projection*, *dimension door*, *dream*, *greater dispel magic*, *insanity* (DC 27), *levitate*, *nightmare* (DC 24), *sending*, *telekinesis* (DC 24)  
-3/day—*creeping doom*, *demand* (DC 27), quickened *feeblemind* (DC 24)  
-1/day—*imprisonment* (DC 28), *symbol of insanity* (DC 27), *dominate monster* (DC 28)
+Constant—*[feather fall](../../magic/spells/feather-fall.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[astral projection](../../magic/spells/astral-projection.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[dream](../../magic/spells/dream.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[insanity](../../magic/spells/insanity.md)* (DC 27), *[levitate](../../magic/spells/levitate.md)*, *[nightmare](../../magic/spells/nightmare.md)* (DC 24), *[sending](../../magic/spells/sending.md)*, *[telekinesis](../../magic/spells/telekinesis.md)* (DC 24)  
+3/day—*[creeping doom](../../magic/spells/creeping-doom.md)*, *[demand](../../magic/spells/demand.md)* (DC 27), quickened *[feeblemind](../../magic/spells/feeblemind.md)* (DC 24)  
+1/day—*[imprisonment](../../magic/spells/imprisonment.md)* (DC 28), *[symbol of insanity](../../magic/spells/symbol-of-insanity.md)* (DC 27), *[dominate monster](../../magic/spells/dominate-monster.md)* (DC 28)
 
 **Statistics**
 

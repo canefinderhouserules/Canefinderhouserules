@@ -23,8 +23,8 @@ CN Medium humanoid (human, orc)
 **Ranged**  mwk composite longbow +11/+6 (1d8+4/×3)  
 **Special Attacks** favored enemy (giants +4, humans +2)  
 **Ranger Spells Prepared** (CL 5th; concentration +6)  
-2nd—*barkskin*  
-1st—*entangle* (DC 12), *longstrider*
+2nd—*[barkskin](../../magic/spells/barkskin.md)*  
+1st—*[entangle* ](../../magic/spells/entangle.md)(DC 12), *[longstrider](../../magic/spells/longstrider.md)*
 
 **Statistics**
 

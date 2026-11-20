@@ -21,7 +21,7 @@ NE Huge outsider (evil, extraplanar)
 **Space** 15 ft., **Reach** 10 ft.  
 **Special Attacks** smoke (DC 22)  
 **Spell-Like Abilities** (CL 15th)  
-1/hour (self plus 1 rider only)—*ethereal jaunt*, *plane shift*
+1/hour (self plus 1 rider only)—*[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[plane shift](../../magic/spells/plane-shift.md)*
 
 **Statistics**
 

@@ -22,8 +22,8 @@ LN Medium outsider (extraplanar, herald, lawful)
 **Ranged**  pebble +27/+22/+17/+12 (1d3+5)  
 **Special Attacks** stunning fist (16/day, DC 28)  
 **Spell-Like Abilities** (CL 17th; concentration +23)  
-7/day—*air walk*, *augury*, *cure light wounds*, *dimension door*, *invisibility*, *true strike*, *water walk*  
-3/day—*commune*, *haste*, *heal*, *legend lore*
+7/day—*[air walk](../../magic/spells/air-walk.md)*, *[augury](../../magic/spells/augury.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[true strike](../../magic/spells/true-strike.md)*, *[water walk](../../magic/spells/water-walk.md)*  
+3/day—*[commune](../../magic/spells/commune.md)*, *[haste](../../magic/spells/haste.md)*, *[heal](../../magic/spells/heal.md)*, *[legend lore](../../magic/spells/legend-lore.md)*
 
 **Statistics**
 

@@ -22,10 +22,10 @@ LG Medium outsider (angel, extraplanar, fire, good, lawful)
 **Melee** 2 blades +8 (1d8+1 plus burn)  
 **Special Attacks** burn (1d6 fire, DC 14), radiance  
 **Spell-Like Abilities** (CL 6th; concentration +7)  
-Constant—*protection from evil*  
-At will—*know direction*, *mage hand*  
-3/day—*burning hands* (DC 12), *expeditious retreat*  
-1/day—*scorching ray*
+Constant—*[protection from evil](../../magic/spells/protection-from-evil.md)*  
+At will—*[know direction](../../magic/spells/know-direction.md)*, *[mage hand](../../magic/spells/mage-hand.md)*  
+3/day—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 12), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*  
+1/day—*[scorching ray](../../magic/spells/scorching-ray.md)*
 
 **Statistics**
 

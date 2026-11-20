@@ -29,13 +29,13 @@ undead traits; **Resist** acid 20
 
 **Druid Spells Prepared** (CL 14th; concentration +21)  
 
-7th—quickened *contagion* (DC 20), *creeping doom* (DC 24), *elemental body IV*<sup>D</sup> (earth only), *fire storm* (DC 24)  
-6th—*antilife shell*, quickened *barkskin, greater dispel magic, stone tell, stoneskin*<sup>D</sup>  
-5th—*animal growth* (DC 22), *baleful polymorph* (DC 22), quickened *entangle* (DC 18), *transmute rock to mud, wall of stone*<sup>D</sup>  
-4th—*blight* (DC 21), *dispel magic, freedom of movement, extended greater magic fang, rusting grasp, spike stones*<sup>D</sup> (DC 21)  
-3rd—*extended bull’s strength, call lightning* (DC 20), *contagion* (DC 20), *meld into stone, poison* (DC 20), extended *spider climb, stone shape*<sup>D</sup>  
-2nd—*flaming sphere* (2, DC 19), *fog cloud, heat metal* (DC 19), extended *longstrider, soften earth and stone*<sup>D</sup> , *tree shape*  
-1st—*entangle* (2, DC 18), *faerie fire, magic stone*<sup>D</sup> , *obscuring mist, produce flame* (2)  
+7th—quickened *[contagion](../../magic/spells/contagion.md)* (DC 20), *[creeping doom](../../magic/spells/creeping-doom.md)* (DC 24), *[elemental body IV](../../magic/spells/elemental-body-iv.md)*<sup>D</sup> (earth only), *[fire storm](../../magic/spells/fire-storm.md)* (DC 24)  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, quickened *barkskin, greater dispel magic, stone tell, stoneskin*<sup>D</sup>  
+5th—*[animal growth](../../magic/spells/animal-growth.md)* (DC 22), *[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 22), quickened *[entangle](../../magic/spells/entangle.md)* (DC 18), *transmute rock to mud, wall of stone*<sup>D</sup>  
+4th—*[blight](../../magic/spells/blight.md)* (DC 21), *dispel magic, freedom of movement, extended greater magic fang, rusting grasp, spike stones*<sup>D</sup> (DC 21)  
+3rd—*extended bull’s strength, call lightning* (DC 20), *[contagion](../../magic/spells/contagion.md)* (DC 20), *meld into stone, poison* (DC 20), extended *spider climb, stone shape*<sup>D</sup>  
+2nd—*[flaming sphere](../../magic/spells/flaming-sphere.md)* (2, DC 19), *fog cloud, heat metal* (DC 19), extended *longstrider, soften earth and stone*<sup>D</sup> ,[ *tree shape](../../magic/spells/tree-shape.md)*  
+1st—*[entangle](../../magic/spells/entangle.md)* (2, DC 18), *faerie fire, magic stone*<sup>D</sup> , *obscuring mist, produce flame* (2)  
 0 (at will)—*detect magic, flare* (DC 17), *guidance, light*  
 **D** domain spell; **Domain** Earth
 

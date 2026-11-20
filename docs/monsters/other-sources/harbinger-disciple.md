@@ -21,9 +21,9 @@ CN Medium humanoid (human)
 **Melee** mwk light mace +4 (1d6)  
 **Ranged**  dagger +4 (1d4/19–20)  
 **Oracle Spells Known** (CL 4th; concentration +8)  
-2nd (4/day)—*enthrall* (DC 17), *gentle repose*, *inflict moderate wounds* (DC 16)  
-1st (7/day)—*cause fear* (DC 15), *command* (DC 16), *doom* (DC 15), *inflict light wounds* (DC 15), *memory lapse* (DC 18)  
-0 (at will)—*bleed* (DC 14), *detect magic*, *guidance*, *light*, *read magic*, *virtue*  
+2nd (4/day)—*[enthrall* ](../../magic/spells/enthrall.md)(DC 17), *[gentle repose](../../magic/spells/gentle-repose.md)*, *[inflict moderate wounds* ](../../magic/spells/inflict-moderate-wounds.md)(DC 16)  
+1st (7/day)—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 15), *[command* ](../../magic/spells/command.md)(DC 16), *[doom* ](../../magic/spells/doom.md)(DC 15), *[inflict light wounds* ](../../magic/spells/inflict-light-wounds.md)(DC 15), *[memory lapse](../../magic/spells/memory-lapse.md)* (DC 18)  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **Mystery** time
 
 **Statistics**

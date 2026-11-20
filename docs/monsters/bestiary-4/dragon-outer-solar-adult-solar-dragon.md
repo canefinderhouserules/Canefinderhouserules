@@ -23,12 +23,12 @@ LN Huge dragon (fire)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (100-ft. line, 12d10 fire, DC 23), channel life (8/day), crush, primal fire  
 **Spell-Like Abilities** (CL 7th; concentration +12)  
-At will—*cup of dust*, *detect magic*, *searing light*  
+At will—*[cup of dust](../../magic/spells/cup-of-dust.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[searing light](../../magic/spells/searing-light.md)*  
 **Sorcerer Spells Known** (CL 7th; concentration +12)  
-3rd (5/day)—*dispel magic*, *tongues*  
-2nd (7/day)—*invisibility*, *resist energy*, *scorching ray*  
-1st (8/day)—*charm person* (DC 16), *color spray* (DC 16), *mage armor*, *magic missile*, *shield*  
-0 (at will)—*bleed* (DC 15), *detect poison*, *flare* (DC 15), *light*, *mage hand*, *prestidigitation*, *read magic*
+3rd (5/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[tongues](../../magic/spells/tongues.md)*  
+2nd (7/day)—*[invisibility](../../magic/spells/invisibility.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (8/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[color spray* ](../../magic/spells/color-spray.md)(DC 16), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 15), *[detect poison](../../magic/spells/detect-poison.md)*, *[flare* ](../../magic/spells/flare.md)(DC 15), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

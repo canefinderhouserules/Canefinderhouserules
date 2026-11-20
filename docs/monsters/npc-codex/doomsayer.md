@@ -21,13 +21,13 @@ NE Medium humanoid (human)
 **Melee** *+2 unholy adamantine scythe* +21/+16/+11 (2d4+6/19-20/×4)  
 **Special Attacks** bardic performance 50 rounds/day (swift action; countersong, deadly performance, dirge of doom, distraction, fascinate, frightening tune, inspire competence +6, inspire courage +4, inspire greatness, inspire heroics, *mass suggestion*, soothing performance, *suggestion*)  
 **Bard Spells Known** (CL 20th; concentration +28)  
-6th (6/day)—*analyze dweomer*, *greater scrying* (DC 24), *programmed image* (DC 26), *project image* (DC 26), *summon monster VI*  
-5th (6/day)—*greater dispel magic*, *false vision*, *nightmare* (DC 25), *shadow walk* (DC 23), *song of discord* (DC 25)  
-4th (7/day)—*dominate person* (DC 24), *greater invisibility*, *hallucinatory terrain* (DC 24), *hold monster*(DC 24), *rainbow pattern* (DC 24), *shout* (DC 22)  
-3rd (7/day)—*crushing despair* (DC 23), *cure serious wounds* (DC 21), *fear* (DC 21), *major image* (DC 23), *phantom steed*, *see invisibility*  
-2nd (7/day)—*darkness*, *invisibility*, *mirror image*, *rage*, *shatter*, *silence* (DC 20)  
-1st (7/day)—*alarm*, *charm person* (DC 21), *disguise self*, *feather fall*, *hideous laughter* (DC 21), *magic mouth*  
-0 (at will)—*detect magic*, *flare* (DC 18), *mage hand*, *message*, *open/close*, *read magic*
+6th (6/day)—*[analyze dweomer](../../magic/spells/analyze-dweomer.md)*, *[greater scrying* ](../../magic/spells/scrying-greater.md)(DC 24), *[programmed image* ](../../magic/spells/programmed-image.md)(DC 26), *[project image* ](../../magic/spells/project-image.md)(DC 26), *[summon monster VI](../../magic/spells/summon-monster-vi.md)*  
+5th (6/day)—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[false vision](../../magic/spells/false-vision.md)*, *[nightmare* ](../../magic/spells/nightmare.md)(DC 25), *[shadow walk* ](../../magic/spells/shadow-walk.md)(DC 23), *[song of discord* ](../../magic/spells/song-of-discord.md)(DC 25)  
+4th (7/day)—*[dominate person* ](../../magic/spells/dominate-person.md)(DC 24), *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[hallucinatory terrain* ](../../magic/spells/hallucinatory-terrain.md)(DC 24), *[hold monster](../../magic/spells/hold-monster.md)*(DC 24), *[rainbow pattern* ](../../magic/spells/rainbow-pattern.md)(DC 24), *[shout* ](../../magic/spells/shout.md)(DC 22)  
+3rd (7/day)—*[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 23), *[cure serious wounds* ](../../magic/spells/cure-serious-wounds.md)(DC 21), *[fear* ](../../magic/spells/fear.md)(DC 21), *[major image* ](../../magic/spells/major-image.md)(DC 23), *[phantom steed](../../magic/spells/phantom-steed.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+2nd (7/day)—*[darkness](../../magic/spells/darkness.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[rage](../../magic/spells/rage.md)*, *[shatter](../../magic/spells/shatter.md)*, *[silence* ](../../magic/spells/silence.md)(DC 20)  
+1st (7/day)—*[alarm](../../magic/spells/alarm.md)*, *[charm person](../../magic/spells/charm-person.md)* (DC 21), *[disguise self](../../magic/spells/disguise-self.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 21), *[magic mouth](../../magic/spells/magic-mouth.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 18), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Tactics**
 

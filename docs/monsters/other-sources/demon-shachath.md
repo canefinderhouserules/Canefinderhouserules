@@ -21,11 +21,11 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Melee** *+1 longsword* +19/+14/+9 (1d8+8/19–20), 2 claws +14 (1d4+3)  
 **Special Attacks** blasphemous influence, lingering doubt, merge with host  
 **Spell-Like Abilities** (CL 13th; concentration +18)  
-Constant—*detect good*, *misdirection*  
-At will—*detect thoughts* (DC 17), *greater teleport* (self plus 50 lbs. of objects only), *telekinesis* (DC 20)  
-3/day—*chaos hammer* (DC 19), *desecrate*, *greater invisibility*, *major image* (DC 18), *suggestion* (DC 18)  
-1/day—*blasphemy* (DC 22), *scrying* (DC 19), summon (level 4, 1 succubus or 1 incubus 65%)  
-1/week—*unhallow* (only one such effect can be active at a time)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[misdirection](../../magic/spells/misdirection.md)*  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 20)  
+3/day—*[chaos hammer](../../magic/spells/chaos-hammer.md)* (DC 19), *[desecrate](../../magic/spells/desecrate.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[major image](../../magic/spells/major-image.md)* (DC 18), *[suggestion](../../magic/spells/suggestion.md)* (DC 18)  
+1/day—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 22), *[scrying](../../magic/spells/scrying.md)* (DC 19), summon (level 4, 1 succubus or 1 incubus 65%)  
+1/week—*[unhallow](../../magic/spells/unhallow.md)* (only one such effect can be active at a time)
 
 **Statistics**
 

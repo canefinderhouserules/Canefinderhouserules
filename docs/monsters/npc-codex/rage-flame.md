@@ -25,16 +25,16 @@ CN Medium humanoid (human, orc)
 **Spell-Like Abilities** (CL 19th; concentration +27)  
 11/day—fire bolt  
 **Druid Spells Prepared** (CL 19th; concentration +27)  
-9th—*elemental swarm*<sup>D</sup>(fire spell only), empowered *fire storm* (3, DC 27)  
-8th—quickened *cure serious wounds*, *incendiary cloud*<sup>D</sup>(DC 26), *reverse gravity*, *sunburst* (DC 28), *word of recall*  
-7th—quickened *cure moderate wounds*, *fire storm* (2, DC 27), *elemental body IV*<sup>D</sup>(fire only), *heal*, *true seeing*  
-6th—*fire seeds*<sup>D</sup>, empowered *flame strike* (3, DC 24), *greater dispel magic*, *mass cat's grace*  
-5th—*cure critical wounds* (2), *fire shield*<sup>D</sup>, *stoneskin*, *wall of fire* (2)  
-4th—*dispel magic* (2), *flame strike* (2, DC 24), *freedom of movement*, *ice storm* (DC 24), *wall of fire*<sup>D</sup>  
-3rd—*fireball*<sup>D</sup>(5, DC 23), *greater magic fang*, *protection from energy* (DC 21)  
-2nd—*barkskin* (2), *bull's strength* (2), *hold animal* (DC 20), *produce flame*<sup>D</sup>, *lesser restoration*  
-1st—*burning hands*<sup>D</sup>(2, DC 21), *cure light wounds*, *endure elements*, *faerie fire* (2), *shillelagh*  
-0 (at will)—*create water*, *flare* (DC 20), *guidance*, *resistance*  
+9th—*[elemental swarm](../../magic/spells/elemental-swarm.md)*<sup>D</sup>(fire spell only), empowered *[fire storm* ](../../magic/spells/fire-storm.md)(3, DC 27)  
+8th—quickened *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[incendiary cloud](../../magic/spells/incendiary-cloud.md)*<sup>D</sup>(DC 26), *[reverse gravity](../../magic/spells/reverse-gravity.md)*, *[sunburst* ](../../magic/spells/sunburst.md)(DC 28), *[word of recall](../../magic/spells/word-of-recall.md)*  
+7th—quickened *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[fire storm* ](../../magic/spells/fire-storm.md)(2, DC 27), *[elemental body IV](../../magic/spells/elemental-body-iv.md)*<sup>D</sup>(fire only), *[heal](../../magic/spells/heal.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+6th—*[fire seeds](../../magic/spells/fire-seeds.md)*<sup>D</sup>, empowered *[flame strike* ](../../magic/spells/flame-strike.md)(3, DC 24), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[mass cat's grace](../../magic/spells/cats-grace-mass.md)*  
+5th—*[cure critical wounds* ](../../magic/spells/cure-critical-wounds.md)(2), *[fire shield](../../magic/spells/fire-shield.md)*<sup>D</sup>, *[stoneskin](../../magic/spells/stoneskin.md)*, *[wall of fire* ](../../magic/spells/wall-of-fire.md)(2)  
+4th—*[dispel magic* ](../../magic/spells/dispel-magic.md)(2), *[flame strike* ](../../magic/spells/flame-strike.md)(2, DC 24), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[ice storm* ](../../magic/spells/ice-storm.md)(DC 24), *[wall of fire](../../magic/spells/wall-of-fire.md)*<sup>D</sup>  
+3rd—*[fireball](../../magic/spells/fireball.md)*<sup>D</sup>(5, DC 23), *[greater magic fang](../../magic/spells/magic-fang-greater.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(DC 21)  
+2nd—*[barkskin* ](../../magic/spells/barkskin.md)(2), *[bull's strength* ](../../magic/spells/bulls-strength.md)(2), *[hold animal* ](../../magic/spells/hold-animal.md)(DC 20), *[produce flame](../../magic/spells/produce-flame.md)*<sup>D</sup>, *[lesser restoration](../../magic/spells/restoration-lesser.md)*  
+1st—*[burning hands](../../magic/spells/burning-hands.md)*<sup>D</sup>(2, DC 21), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[faerie fire* ](../../magic/spells/faerie-fire.md)(2), *[shillelagh](../../magic/spells/shillelagh.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[flare* ](../../magic/spells/flare.md)(DC 20), *[guidance](../../magic/spells/guidance.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** Domain spell; **Domain** Fire
 
 **Tactics**

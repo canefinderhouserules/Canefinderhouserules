@@ -22,10 +22,10 @@ N Medium humanoid
 **Melee** quarterstaff +6/+1 (1d6–1)  
 **Ranged**  dart +7 (1d4-1)  
 **Wizard Spells Prepared** (CL 5th; concentration +12)  
-3rd—*magic circle against evil*, *sepia snake sigil* (DC 20), *stinking cloud* (DC 20), *suggestion* (DC 20)  
-2nd—*glitterdust* (DC 19), *locate object*, *protection from arrows*, *touch of idiocy*, *whispering wind*  
-1st—*charm person* (DC 18), *color spray* (DC 18), *feather fall*, *mage armor*, *shield*, *unseen servant*  
-0 (at will)—*arcane mark*, *detect magic*, *message*, *read magic*  
+3rd—*[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*, *[sepia snake sigil](../../magic/spells/sepia-snake-sigil.md)* (DC 20), *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 20), *[suggestion](../../magic/spells/suggestion.md)* (DC 20)  
+2nd—*[glitterdust](../../magic/spells/glitterdust.md)* (DC 19), *[locate object](../../magic/spells/locate-object.md)*, *[protection from arrows](../../magic/spells/protection-from-arrows.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*  
+1st—*[charm person](../../magic/spells/charm-person.md)* (DC 18), *[color spray](../../magic/spells/color-spray.md)* (DC 18), *[feather fall](../../magic/spells/feather-fall.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[shield](../../magic/spells/shield.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Prohibited Schools** evocation, necromancy
 
 **Statistics**

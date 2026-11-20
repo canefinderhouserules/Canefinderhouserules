@@ -22,7 +22,7 @@ N Large magical beast
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** breath weapon (DC 22), powerful charge (hooves, 2d8+12), trample (1d8+9, DC 23)  
 **Spell-Like Abilities** (CL 11th; concentration +12)  
-Constant—*air walk*
+Constant—*[air walk](../../magic/spells/air-walk.md)*
 
 **Statistics**
 

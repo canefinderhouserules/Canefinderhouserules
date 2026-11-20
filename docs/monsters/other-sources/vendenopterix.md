@@ -21,8 +21,8 @@ CN Medium outsider (chaotic, extraplanar, shapechanger)
 **Melee** 2 claws +9 (1d6+1 plus poison)  
 **Special Attacks** ability drain, poison  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-3/day—*charm person* (DC 13), *darkness*, *locate creature*  
-1/day—*dimension door*, *ethereal jaunt* (self plus 50 lbs. of objects only), heightened *charm person* (DC 16), *suggestion* (DC 15)
+3/day—*[charm person* ](../../magic/spells/charm-person.md)(DC 13), *[darkness](../../magic/spells/darkness.md)*, *[locate creature](../../magic/spells/locate-creature.md)*  
+1/day—*[dimension door](../../magic/spells/dimension-door.md)*, *[ethereal jaunt* ](../../magic/spells/ethereal-jaunt.md)(self plus 50 lbs. of objects only), heightened *[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[suggestion* ](../../magic/spells/suggestion.md)(DC 15)
 
 **Statistics**
 

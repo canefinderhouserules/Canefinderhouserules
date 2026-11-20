@@ -21,9 +21,9 @@ CN Small outsider (chaotic, extraplanar, protean, shapechanger)
 **Melee** bite +8 (1d6+2 plus 1d2 Wisdom damage), tail +7 (1d6+1 plus grab)  
 **Special Attacks** constrict (1d6+2), garbled thoughts and twisted tongues  
 **Spell-Like Abilities** (CL 9th; concentration +11)  
-Constant—*detect law*  
- At will—*arcane mark, erase* (DC 13), *dimension door*  
- 1/day—*explosive runes* (DC 15), *sepia snake sigil* (DC 15)
+Constant—*[detect law](../../magic/spells/detect-law.md)*  
+ At will—*arcane mark, erase* (DC 13), *[dimension door](../../magic/spells/dimension-door.md)*  
+ 1/day—*[explosive runes](../../magic/spells/explosive-runes.md)* (DC 15), *[sepia snake sigil](../../magic/spells/sepia-snake-sigil.md)* (DC 15)
 
 **Statistics**
 

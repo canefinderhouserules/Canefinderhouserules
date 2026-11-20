@@ -22,11 +22,11 @@ N Medium humanoid
 **Melee** quarterstaff +4 (1d6–1)  
 **Special Attacks** wild shape 2/day  
 **Druid Spells Prepared** (CL 7th; concentration +11)  
-4th—*air walk*, *flame strike* (DC 18)  
-3rd—*call lightning* (DC 18), *speak with plants*, *stone shape*  
-2nd—*flaming sphere* (DC 18), *hold animal* (DC 18), *resist energy*, *tree shape*  
-1st—*cure light wounds*, *endure elements*, *hide from animals*, *longstrider*, *produce flame*  
-0 (at will)—*create water*, *guidance*, *mending*, *purify food and drink*
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[flame strike](../../magic/spells/flame-strike.md)* (DC 18)  
+3rd—*[call lightning](../../magic/spells/call-lightning.md)* (DC 18), *[speak with plants](../../magic/spells/speak-with-plants.md)*, *[stone shape](../../magic/spells/stone-shape.md)*  
+2nd—*[flaming sphere](../../magic/spells/flaming-sphere.md)* (DC 18), *[hold animal](../../magic/spells/hold-animal.md)* (DC 18), *[resist energy](../../magic/spells/resist-energy.md)*, *[tree shape](../../magic/spells/tree-shape.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[hide from animals](../../magic/spells/hide-from-animals.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[produce flame](../../magic/spells/produce-flame.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[guidance](../../magic/spells/guidance.md)*, *[mending](../../magic/spells/mending.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*
 
 **Statistics**
 

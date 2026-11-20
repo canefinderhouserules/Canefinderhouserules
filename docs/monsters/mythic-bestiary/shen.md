@@ -29,7 +29,7 @@ dragon attacks, lingering breath (4d6 cold, 9 rounds), mists
 of madness, mythic power (9/day, surge +1d10), tail sweep
 (DC 34, 2d6+22), wild arcana  
 **Spell-Like Abilities** (CL 29th; concentration +35)  
-Constant—*true seeing*  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
 
 At will—*control water, create water, hydraulic push, water walk*  
 **Sorcerer Spells Known** (CL 17th; concentration +23)  
@@ -37,15 +37,15 @@ At will—*control water, create water, hydraulic push, water walk*
 
 7th (6/day)—*control weather<sup>M</sup>, greater shadow conjuration* (DC 27), *prismatic spray<sup>M</sup>* (DC 23)  
 
-6th (7/day)—*globe of invulnerability<sup>M</sup>, greater dispel magic, mass suggestion* (DC 22), *programmed image* (DC 26)  
+6th (7/day)—*globe of invulnerability<sup>M</sup>, greater dispel magic, mass suggestion* (DC 22), *[programmed image](../../magic/spells/programmed-image.md)* (DC 26)  
 
-5th (7/day)—*dominate person* (DC 21), *persistent image* (DC 25), *shadow evocation* (DC 25), *telekinesis<sup>M</sup>* (DC 21)  
+5th (7/day)—*[dominate person](../../magic/spells/dominate-person.md)* (DC 21), *[persistent image](../../magic/spells/persistent-image.md)* (DC 25), *[shadow evocation](../../magic/spells/shadow-evocation.md)* (DC 25), *telekinesis<sup>M</sup>* (DC 21)  
 
-4th (7/day)—*dimension door<sup>M</sup>, greater invisibility, rainbow pattern* (DC 24), *shadow conjuration* (DC 24)  
+4th (7/day)—*dimension door<sup>M</sup>, greater invisibility, rainbow pattern* (DC 24), *[shadow conjuration](../../magic/spells/shadow-conjuration.md)* (DC 24)  
 
 3rd (7/day)—*deep slumber<sup>M</sup>* (DC 19), *dispel magic, haste<sup>M</sup>, major image* (DC 23)  
 
-2nd (8/day)—*euphoric cloud* (DC 18), *hypnotic pattern* (DC 22), *minor image* (DC 22), *mirror image<sup>M</sup>, invisibility<sup>M</sup>*  
+2nd (8/day)—*[euphoric cloud](../../magic/spells/euphoric-cloud.md)* (DC 18), *[hypnotic pattern](../../magic/spells/hypnotic-pattern.md)* (DC 22), *[minor image](../../magic/spells/minor-image.md)* (DC 22), *mirror image<sup>M</sup>, invisibility<sup>M</sup>*  
 
 1st (8/day)—*comprehend languages, obscuring mist, silent image* (DC 21), *unseen servant, vanish*  
 

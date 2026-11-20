@@ -22,10 +22,10 @@ CN Medium fey
 **Ranged**  *+3 ironwood longbow* +20/+20/+15 (1d8+3/×3 plus bleed)  
 **Special Attacks** bleed (1d6), favored enemy (all humanoids +10), ironwood mastery  
 **Spell-Like Abilities** (CL 20th; concentration +25)  
-Constant—*blur*, *haste* (self only), *protection from evil*, *protection from law*, *speak with animals*, *speak with plants*  
-At will—*whispering wind*  
-3/day—*animate plants*, *black tentacles*, *cure critical wounds*, *haste*, *ironwood*, *move earth*, *plant growth*, *summon nature’s ally VI*, summon (level 6, 1d4+1 centaurs or 1 treant 100%), *tree stride*  
-1/day—*finger of death* (DC 23), *repel metal or stone*, *summon nature’s ally IX*
+Constant—*[blur](../../magic/spells/blur.md)*, *[haste](../../magic/spells/haste.md)* (self only), *[protection from evil](../../magic/spells/protection-from-evil.md)*, *[protection from law](../../magic/spells/protection-from-law.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*, *[speak with plants](../../magic/spells/speak-with-plants.md)*  
+At will—*[whispering wind](../../magic/spells/whispering-wind.md)*  
+3/day—*[animate plants](../../magic/spells/animate-plants.md)*, *[black tentacles](../../magic/spells/black-tentacles.md)*, *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[haste](../../magic/spells/haste.md)*, *[ironwood](../../magic/spells/ironwood.md)*, *[move earth](../../magic/spells/move-earth.md)*, *[plant growth](../../magic/spells/plant-growth.md)*, *[summon nature’s ally VI](../../magic/spells/summon-natures-ally-vi.md)*, summon (level 6, 1d4+1 centaurs or 1 treant 100%), *[tree stride](../../magic/spells/tree-stride.md)*  
+1/day—*[finger of death](../../magic/spells/finger-of-death.md)* (DC 23), *[repel metal or stone](../../magic/spells/repel-metal-or-stone.md)*, *[summon nature’s ally IX](../../magic/spells/summon-natures-ally-ix.md)*
 
 **Statistics**
 

@@ -24,7 +24,7 @@ ooze traits
 **Space** 5 ft., **Reach** 15 ft.  
 **Special Attacks** plagued domain  
 **Spell-Like Abilities** (CL 15th; concentration +20)  
-1/day—*blight* (DC 20), *cloudkill* (DC 20), *command plants* (DC 19), *dominate monster* (animals, magical beasts, and mindless oozes only, DC 24), *greater curse terrain, hallucinatory terrain* (DC 19)
+1/day—*[blight](../../magic/spells/blight.md)* (DC 20), *[cloudkill](../../magic/spells/cloudkill.md)* (DC 20), *[command plants](../../magic/spells/command-plants.md)* (DC 19), *[dominate monster](../../magic/spells/dominate-monster.md)* (animals, magical beasts, and mindless oozes only, DC 24), *greater curse terrain, hallucinatory terrain* (DC 19)
 
 **Statistics**
 

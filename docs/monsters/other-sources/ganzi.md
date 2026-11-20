@@ -22,8 +22,8 @@ CN Medium outsider (native)
 **Melee** dagger +0 (1d4/19–20)  
 **Special Attacks** bardic performance 7 rounds/day (countersong, distraction, fascinate [DC 13], inspire courage +1), ganzi oddity (quibble)  
 **Bard Spells Known** (CL 1st; concentration +4)  
-1st (2/day)—*cure light wounds*, *grease* (DC 14)  
-0 (at will)—*daze* (DC 13), *ghost sound* (DC 13), *mage hand*, *prestidigitation*
+1st (2/day)—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[grease* ](../../magic/spells/grease.md)(DC 14)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 13), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

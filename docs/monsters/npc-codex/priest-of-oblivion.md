@@ -23,16 +23,16 @@ NE Medium humanoid (human)
 **Spell-Like Abilities** (CL 19th; concentration +25)  
 9/day—bleeding touch (9 rounds), touch of darkness (9 rounds)  
 **Cleric Spells Prepared** (CL 19th; concentration +25)  
-9th—*energy drain* (DC 25), *etherealness*, *implosion* (DC 25), *wail of the banshee*<sup>D</sup>(DC 25)  
-8th—*antimagic field*, *create greater undead*<sup>D</sup>, *earthquake*, *fire storm* (DC 24)  
-7th—*blasphemy* (2, DC 23), *ethereal jaunt*, *power word blind*<sup>D</sup>, *repulsion* (DC 23)  
-6th—*antilife shell*, *blade barrier* (DC 22), *harm* (2, DC 22), *shadow walk*<sup>D</sup>(DC 22), *word of recall*  
-5th—*greater command* (DC 21), *insect plague*, *slay living*<sup>D</sup>(2), *unhallow*, *wall of stone*  
-4th—*air walk*, *death ward*<sup>D</sup>, *freedom of movement*, *greater magic weapon*, *neutralize poison*, *unholy blight* (DC 20)  
-3rd—*deeper darkness*<sup>D</sup>(2), *dispel magic* (2), *invisibility purge*, *magic vestment*  
-2nd—*darkness*, *death knell*<sup>D</sup> (DC 18), *desecrate*, *gentle repose*, *hold person* (DC 18), *shield other*, *spiritual weapon*  
-1st—*bane* (DC 17), *bless*, *cause fear*<sup>D</sup>(DC 17), *deathwatch*, *doom* (DC 17), *entropic shield*, *obscuring mist*  
-0 (at will)—*detect magic*, *guidance*, *read magic*, *virtue*  
+9th—*[energy drain* ](../../magic/spells/energy-drain.md)(DC 25), *[etherealness](../../magic/spells/etherealness.md)*, *[implosion* ](../../magic/spells/implosion.md)(DC 25), *[wail of the banshee](../../magic/spells/wail-of-the-banshee.md)*<sup>D</sup>(DC 25)  
+8th—*[antimagic field](../../magic/spells/antimagic-field.md)*, *[create greater undead](../../magic/spells/create-greater-undead.md)*<sup>D</sup>, *[earthquake](../../magic/spells/earthquake.md)*, *[fire storm* ](../../magic/spells/fire-storm.md)(DC 24)  
+7th—*[blasphemy* ](../../magic/spells/blasphemy.md)(2, DC 23), *[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[power word blind](../../magic/spells/power-word-blind.md)*<sup>D</sup>, *[repulsion* ](../../magic/spells/repulsion.md)(DC 23)  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, *[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 22), *[harm* ](../../magic/spells/harm.md)(2, DC 22), *[shadow walk](../../magic/spells/shadow-walk.md)*<sup>D</sup>(DC 22), *[word of recall](../../magic/spells/word-of-recall.md)*  
+5th—*[greater command* ](../../magic/spells/command-greater.md)(DC 21), *[insect plague](../../magic/spells/insect-plague.md)*, *[slay living](../../magic/spells/slay-living.md)*<sup>D</sup>(2), *[unhallow](../../magic/spells/unhallow.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[death ward](../../magic/spells/death-ward.md)*<sup>D</sup>, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 20)  
+3rd—*[deeper darkness](../../magic/spells/deeper-darkness.md)*<sup>D</sup>(2), *[dispel magic* ](../../magic/spells/dispel-magic.md)(2), *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*  
+2nd—*[darkness](../../magic/spells/darkness.md)*, *[death knell](../../magic/spells/death-knell.md)*<sup>D</sup> (DC 18), *[desecrate](../../magic/spells/desecrate.md)*, *[gentle repose](../../magic/spells/gentle-repose.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 18), *[shield other](../../magic/spells/shield-other.md)*, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[bane* ](../../magic/spells/bane.md)(DC 17), *[bless](../../magic/spells/bless.md)*, *[cause fear](../../magic/spells/cause-fear.md)*<sup>D</sup>(DC 17), *[deathwatch](../../magic/spells/deathwatch.md)*, *[doom* ](../../magic/spells/doom.md)(DC 17), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **D** Domain spell; **Domains** Darkness, Death
 
 **Tactics**

@@ -21,9 +21,9 @@ CE Small magical beast
 **Melee** 2 talons +7 (1d6+1)  
 **Special Attacks** hexes (cackle, evil eye [–2, 6 rounds], misfortune [1 round])  
 **Spell-Like Abilities** (CL 5th; concentration +8; save DCs are Intelligence-based)  
-Constant—*detect magic*, *speak with animals* (birds only)  
-3/day—*perceive cues*, *vanish*, *ventriloquism* (DC 14)  
-1/day—*ill omen*, *mirror image*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[speak with animals* ](../../magic/spells/speak-with-animals.md)(birds only)  
+3/day—*[perceive cues](../../magic/spells/perceive-cues.md)*, *[vanish](../../magic/spells/vanish.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 14)  
+1/day—*[ill omen](../../magic/spells/ill-omen.md)*, *[mirror image](../../magic/spells/mirror-image.md)*
 
 **Statistics**
 

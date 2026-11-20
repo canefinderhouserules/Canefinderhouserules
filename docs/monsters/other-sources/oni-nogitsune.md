@@ -22,9 +22,9 @@ NE Medium outsider (kitsune, native, oni, shapechanger)
 **Ranged**  mwk dart +15/+10 (1d4+4 plus poison)  
 **Special Attacks** contagious whisper, sneak attack +3d6  
 **Spell-Like Abilities** (CL 7th; concentration +11)  
-Constant—*detect thoughts* (DC 16)  
-At will—*feather fall*, *jump*, *obscuring mist*  
-1/day—*displacement*, *haste*, *shadow walk*
+Constant—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16)  
+At will—*[feather fall](../../magic/spells/feather-fall.md)*, *[jump](../../magic/spells/jump.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+1/day—*[displacement](../../magic/spells/displacement.md)*, *[haste](../../magic/spells/haste.md)*, *[shadow walk](../../magic/spells/shadow-walk.md)*
 
 **Statistics**
 

@@ -22,9 +22,9 @@ NE Large outsider (div, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** rain of debris  
 **Spell-Like Abilities** (CL 15th; concentration +21)  
-At will—*comprehend languages*, *deeper darkness*, *greater teleport* (self plus 50 lbs. of objects only), *nondetection*, *speak with dead* (DC 19)  
-3/day—*blindness/deafness* (DC 18), *fly*, *ice storm*, *invisibility*, *mirror image*, *scorching ray*, *touch of idiocy*, *true strike*  
-1/day—*animate dead*, *baleful polymorph* (DC 21), *bestow curse* (DC 20), *break enchantment*, *create undead*, *disintegrate* (DC 22), *enervation*, *fireball*  (DC 19), *hold monster* (DC 21), summon (level 4, 1 ghawwas or 1 shira 40%), *true seeing*
+At will—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[nondetection](../../magic/spells/nondetection.md)*, *[speak with dead* ](../../magic/spells/speak-with-dead.md)(DC 19)  
+3/day—*[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 18), *[fly](../../magic/spells/fly.md)*, *[ice storm](../../magic/spells/ice-storm.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+1/day—*[animate dead](../../magic/spells/animate-dead.md)*, *[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 21), *[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 20), *[break enchantment](../../magic/spells/break-enchantment.md)*, *[create undead](../../magic/spells/create-undead.md)*, *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 22), *[enervation](../../magic/spells/enervation.md)*, *[fireball* ](../../magic/spells/fireball.md) (DC 19), *[hold monster* ](../../magic/spells/hold-monster.md)(DC 21), summon (level 4, 1 ghawwas or 1 shira 40%), *[true seeing](../../magic/spells/true-seeing.md)*
 
 **Statistics**
 

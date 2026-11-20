@@ -19,8 +19,8 @@ LG Medium magical beast
 **Speed** 40 ft.  
 **Melee** bite +4 (1d6+1)  
 **Spell-Like Abilities** (CL 7th; concentration +7)  
-Constant—*blink*  
-At will—quickened *dimension door* (self only)
+Constant—*[blink](../../magic/spells/blink.md)*  
+At will—quickened *[dimension door](../../magic/spells/dimension-door.md)* (self only)
 
 **Statistics**
 

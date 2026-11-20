@@ -28,9 +28,9 @@ electricity)
 **Spell-Like Abilities** (CL 11th; concentration +14)  
 At will—*alter winds, fog cloud, jump*  
 
-3/day—*deeper darkness, greater invisibility, gust of wind* (DC 15), *ice storm*  
+3/day—*deeper darkness, greater invisibility, gust of wind* (DC 15), *[ice storm](../../magic/spells/ice-storm.md)*  
 
-1/day—*control weather, plague storm* (DC 19), *sirocco* (DC 19)
+1/day—*control weather, plague storm* (DC 19), *[sirocco](../../magic/spells/sirocco.md)* (DC 19)
 
 **Statistics**
 

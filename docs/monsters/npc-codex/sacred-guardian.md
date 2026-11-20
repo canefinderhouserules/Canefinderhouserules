@@ -25,14 +25,14 @@ N Small humanoid (gnome)
 **Spell-Like Abilities** (CL 14th; concentration +20)  
 9/day—bit of luck, resistant touch  
 **Cleric Spells Prepared** (CL 14th; concentration +20)  
-7th—*destruction* (DC 23), *repulsion*<sup>D</sup>(DC 23), *summon monster VII*  
-6th—*antilife shell*, *antimagic field*<sup>D</sup>, *banishment* (DC 22), *blade barrier* (DC 22), *greater dispel magic*  
-5th—*breath of life*, *greater command* (DC 21), *mark of justice*, *spell resistance*<sup>D</sup>, *wall of stone*  
-4th—*air walk*, *death ward*, *freedom of movement*<sup>D</sup>, *neutralize poison*, *order’s wrath* (DC 20), *repel vermin*  
-3rd—*bestow curse* (DC 19), *blindness/deafness* (DC 19), *glyph of warding* (2), *invisibility purge*, *protection from energy*<sup>D</sup>(DC 19)  
-2nd—*bear’s endurance*, *delay poison* (DC 18), *hold person* (2, DC 18), *remove paralysis*, *shield other*<sup>D</sup>  
-1st—*cause fear* (2, DC 17), *command* (DC 17), *divine favor*, *entropic shield*, *sanctuary* (DC 17), *true strike*<sup>D</sup>  
-0 (at will)—*create water*, *detect poison*, *mending*, *read magic*  
+7th—*[destruction* ](../../magic/spells/destruction.md)(DC 23), *[repulsion](../../magic/spells/repulsion.md)*<sup>D</sup>(DC 23), *[summon monster VII](../../magic/spells/summon-monster-vii.md)*  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, *[antimagic field](../../magic/spells/antimagic-field.md)*<sup>D</sup>, *[banishment* ](../../magic/spells/banishment.md)(DC 22), *[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 22), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*  
+5th—*[breath of life](../../magic/spells/breath-of-life.md)*, *[greater command* ](../../magic/spells/command-greater.md)(DC 21), *[mark of justice](../../magic/spells/mark-of-justice.md)*, *[spell resistance](../../magic/spells/spell-resistance.md)*<sup>D</sup>, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[death ward](../../magic/spells/death-ward.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*<sup>D</sup>, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[order’s wrath* ](../../magic/spells/orders-wrath.md)(DC 20), *[repel vermin](../../magic/spells/repel-vermin.md)*  
+3rd—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 19), *[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 19), *[glyph of warding* ](../../magic/spells/glyph-of-warding.md)(2), *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*<sup>D</sup>(DC 19)  
+2nd—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[delay poison* ](../../magic/spells/delay-poison.md)(DC 18), *[hold person* ](../../magic/spells/hold-person.md)(2, DC 18), *[remove paralysis](../../magic/spells/remove-paralysis.md)*, *[shield other](../../magic/spells/shield-other.md)*<sup>D</sup>  
+1st—*[cause fear* ](../../magic/spells/cause-fear.md)(2, DC 17), *[command* ](../../magic/spells/command.md)(DC 17), *[divine favor](../../magic/spells/divine-favor.md)*, *[entropic shield](../../magic/spells/entropic-shield.md)*, *[sanctuary* ](../../magic/spells/sanctuary.md)(DC 17), *[true strike](../../magic/spells/true-strike.md)*<sup>D</sup>  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[mending](../../magic/spells/mending.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** Domain spell; **Domains** Luck, Protection
 
 **Tactics**

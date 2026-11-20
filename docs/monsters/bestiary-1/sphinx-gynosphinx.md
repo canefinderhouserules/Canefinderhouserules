@@ -21,10 +21,10 @@ N Large magical beast
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** pounce, rake (2 claws +17, 2d6+6)  
 **Spell-Like Abilities** (CL 12th)  
-Constant—*comprehend languages*, *detect magic*, *read magic*, *see invisibility*  
-3/day—*clairaudience/clairvoyance*  
-1/day—*dispel magic*, *locate object*, *remove curse*, *legend lore*  
-1/week—any one of the following: *symbol of fear* (DC 20), *symbol of pain* (DC 19), *symbol of persuasion* (DC 20), *symbol of sleep* (DC 19), *symbol of stunning* (DC 21); all symbols last for 1 week maximum
+Constant—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+3/day—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*  
+1/day—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[remove curse](../../magic/spells/remove-curse.md)*, *[legend lore](../../magic/spells/legend-lore.md)*  
+1/week—any one of the following: *[symbol of fear* ](../../magic/spells/symbol-of-fear.md)(DC 20), *[symbol of pain* ](../../magic/spells/symbol-of-pain.md)(DC 19), *[symbol of persuasion* ](../../magic/spells/symbol-of-persuasion.md)(DC 20), *[symbol of sleep* ](../../magic/spells/symbol-of-sleep.md)(DC 19), *[symbol of stunning* ](../../magic/spells/symbol-of-stunning.md)(DC 21); all symbols last for 1 week maximum
 
 **Statistics**
 

@@ -21,8 +21,8 @@ CE Small fey
 **Speed** 30 ft.  
 **Melee** bite +4 (1d4–2), dagger +4 (1d3–2/19–20)  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-At will—*prestidigitation*, *putrefy food and drink* (DC 11), *ghost sound* (DC 12), *silent image* (DC 12)  
-1/day—*glitterdust*
+At will—*[prestidigitation](../../magic/spells/prestidigitation.md)*, *[putrefy food and drink](../../magic/spells/putrefy-food-and-drink.md)* (DC 11), *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 12), *[silent image](../../magic/spells/silent-image.md)* (DC 12)  
+1/day—*[glitterdust](../../magic/spells/glitterdust.md)*
 
 **Statistics**
 

@@ -24,16 +24,16 @@ CE Gargantuan dragon (fire, mythic)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** bleed (2d6), breath weapon (60-ft. cone, 22d10 fire damage, Reflex DC 32 half, usable every 1d4 rounds), crush, dragon fury (2d6 fire), lingering breath (4d6 fire, 10 rounds), manipulate flames, melt stone, mythic power (10/day, surge +1d12), sooty flame, swallow whole (2d6 bludgeoning and 2d6 fire damage, AC 28, 51 hp), tail sweep (DC 32, 2d6+25), wild arcana (see page 14)  
 **Spell-Like Abilities** (CL 27th; concentration +34)  
-At will—*detect magic*, *find the path*, *pyrotechnics* (DC 19), *suggestion* (DC 20), *wall of fire*  
+At will—*[detect magic](../../magic/spells/detect-magic.md)*, *[find the path](../../magic/spells/find-the-path.md)*, *[pyrotechnics](../../magic/spells/pyrotechnics.md)* (DC 19), *[suggestion](../../magic/spells/suggestion.md)* (DC 20), *[wall of fire](../../magic/spells/wall-of-fire.md)*  
 **Sorcerer Spells Known** (caster level 17th; concentration +24)  
-8th (4)—*discern location*, *iron body*  
-7th (7)—*insanity* (DC 24), *limited wish*<sup>M</sup>, *spell turning*  
-6th (7)—*antimagic field*<sup>M</sup>, *contingency*<sup>M</sup>, *greater dispel magic*  
-5th (7)—*polymorph*, *telekinesis*, *teleport*, *wall of force*<sup>M</sup>  
-4th (7)—*fear* (DC 21), *fire shield*, *greater invisibility*, *stoneskin*<sup>M</sup>  
-3rd (8)—*dispel magic*<sup>M</sup>, *displacement*, *haste*<sup>M</sup>, *tongues*  
-2nd (8)—*alter self*, *detect thoughts* (DC 19), *misdirection*, *resist energy*<sup>M</sup>, *see invisibility*  
-1st (8)—*alarm*, *grease*, *magic missile*<sup>M</sup>, *shield*, *true strike*<sup>M</sup>  
+8th (4)—*[discern location](../../magic/spells/discern-location.md)*, *[iron body](../../magic/spells/iron-body.md)*  
+7th (7)—*[insanity](../../magic/spells/insanity.md)* (DC 24), *[limited wish](../../magic/spells/limited-wish.md)*<sup>M</sup>, *[spell turning](../../magic/spells/spell-turning.md)*  
+6th (7)—*[antimagic field](../../magic/spells/antimagic-field.md)*<sup>M</sup>, *[contingency](../../magic/spells/contingency.md)*<sup>M</sup>, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*  
+5th (7)—*[polymorph](../../magic/spells/polymorph.md)*, *[telekinesis](../../magic/spells/telekinesis.md)*, *[teleport](../../magic/spells/teleport.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*<sup>M</sup>  
+4th (7)—*[fear](../../magic/spells/fear.md)* (DC 21), *[fire shield](../../magic/spells/fire-shield.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*<sup>M</sup>  
+3rd (8)—*[dispel magic](../../magic/spells/dispel-magic.md)*<sup>M</sup>, *[displacement](../../magic/spells/displacement.md)*, *[haste](../../magic/spells/haste.md)*<sup>M</sup>, *[tongues](../../magic/spells/tongues.md)*  
+2nd (8)—*[alter self](../../magic/spells/alter-self.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 19), *[misdirection](../../magic/spells/misdirection.md)*, *[resist energy](../../magic/spells/resist-energy.md)*<sup>M</sup>, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (8)—*[alarm](../../magic/spells/alarm.md)*, *[grease](../../magic/spells/grease.md)*, *[magic missile](../../magic/spells/magic-missile.md)*<sup>M</sup>, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*<sup>M</sup>  
 **M** Mythic spell
 
 **Statistics**

@@ -21,10 +21,10 @@ LN Medium outsider (extraplanar, inevitable, lawful)
 **Melee** mwk katana +12/+7 (1d8+4/18–20)  
 **Special Attacks** smite dishonorable foe  
 **Spell-Like Abilities** (CL 4th; concentration +6)  
-Constant—*deathwatch*, *detect chaos*  
-At will—*command* (DC 13), *stabilize*  
-3/day—*cure moderate wounds*  
-1/day—*keen edge*
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*, *[detect chaos](../../magic/spells/detect-chaos.md)*  
+At will—*[command* ](../../magic/spells/command.md)(DC 13), *[stabilize](../../magic/spells/stabilize.md)*  
+3/day—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*  
+1/day—*[keen edge](../../magic/spells/keen-edge.md)*
 
 **Statistics**
 

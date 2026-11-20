@@ -23,9 +23,9 @@ N Huge outsider (air, elemental, extraplanar, herald, water)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** drench, vortex (10–60 ft. high, DC 27), water mastery, whirlwind (10–60 ft. high, DC 27)  
 **Spell-Like Abilities** (CL 17th; concentration +21)  
-At will—*create water*, *invisibility* (self only), *summon monster II* (air or water elemental only)  
-5/day—*air breathing* (as *water breathing*, but allows water-breathing creatures to breathe air or water), *control water*, *control weather* (as a druid), *water breathing*  
-1/day—*beast shape IV*, *possess object*, *summon monster IX* (air or water elementals only)
+At will—*[create water](../../magic/spells/create-water.md)*, *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[summon monster II* ](../../magic/spells/summon-monster-ii.md)(air or water elemental only)  
+5/day—*[air breathing* ](../../magic/spells/air-breathing.md)(as *[water breathing](../../magic/spells/water-breathing.md)*, but allows water-breathing creatures to breathe air or water), *[control water](../../magic/spells/control-water.md)*, *[control weather* ](../../magic/spells/control-weather.md)(as a druid), *[water breathing](../../magic/spells/water-breathing.md)*  
+1/day—*[beast shape IV](../../magic/spells/beast-shape-iv.md)*, *[possess object](../../magic/spells/possess-object.md)*, *[summon monster IX](../../magic/spells/summon-monster-ix.md)* (air or water elementals only)
 
 **Statistics**
 

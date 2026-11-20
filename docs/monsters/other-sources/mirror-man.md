@@ -23,7 +23,7 @@ NE Medium construct
 **Ranged**  dagger +12/+7 (1d4+3/19–20)  
 **Special Attacks** sneak attack +2d6  
 **Spell-Like Abilities** (CL 10th; concentration +11)  
-At will—*detect magic*, *light*
+At will—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*
 
 **Statistics**
 

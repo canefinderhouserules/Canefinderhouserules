@@ -21,7 +21,7 @@ N Medium plant
 **Speed** 30 ft.  
 **Melee** 2 slams +6 (1d6+4)  
 **Spell-Like Abilities** (CL 5th; concentration +4)  
-Constant—*pass without trace*  
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*  
 3/day—*hedge stride*
 
 **Statistics**

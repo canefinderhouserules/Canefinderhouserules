@@ -24,9 +24,9 @@ CN Huge humanoid (giant)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** rend (2 claws, 2d6+13), rock throwing (120 ft.)  
 **Spell-Like Abilities** (CL 14th; concentration +13)  
-At will—*stone shape*  
-3/day—*spike stones* (DC 13), *stone tell*  
-1/day—*earthquake* (DC 17), *flesh to stone* (DC 15), *summon monster VIII* (earth elemental only)
+At will—*[stone shape](../../magic/spells/stone-shape.md)*  
+3/day—*[spike stones* ](../../magic/spells/spike-stones.md)(DC 13), *[stone tell](../../magic/spells/stone-tell.md)*  
+1/day—*[earthquake* ](../../magic/spells/earthquake.md)(DC 17), *[flesh to stone* ](../../magic/spells/flesh-to-stone.md)(DC 15), *[summon monster VIII* ](../../magic/spells/summon-monster-viii.md)(earth elemental only)
 
 **Statistics**
 

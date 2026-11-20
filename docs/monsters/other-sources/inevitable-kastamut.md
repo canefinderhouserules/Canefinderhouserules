@@ -21,11 +21,11 @@ LN Medium outsider (extraplanar, inevitable, lawful)
 **Melee** *+1 warhammer* +14/+9 (1d8+7/×3)  
 **Special Attacks** compulsive orthodoxy  
 **Spell-Like Abilities** (CL 8th; concentration +10)  
-At will—*bane* (DC 13), *command* (DC 13), *forbid action* (DC 13), *litany of sloth* (DC 13)  
-5/day—*litany of weakness* (DC 13)  
-3/day—*divine favor*, *enthrall* (DC 14), *litany of entanglement* (DC 15), *protection from chaos* (DC 13), *zone of truth* (DC 14)  
-1/day—*bestow curse* (DC 15), *litany of vengeance* (DC 17), *terrible remorse* (DC 16)  
-1/week—*plane shift* (self only)
+At will—*[bane](../../magic/spells/bane.md)* (DC 13), *[command* ](../../magic/spells/command.md)(DC 13), *[forbid action* ](../../magic/spells/forbid-action.md)(DC 13), *[litany of sloth* ](../../magic/spells/litany-of-sloth.md)(DC 13)  
+5/day—*[litany of weakness* ](../../magic/spells/litany-of-weakness.md)(DC 13)  
+3/day—*[divine favor](../../magic/spells/divine-favor.md)*, *[enthrall* ](../../magic/spells/enthrall.md)(DC 14), *[litany of entanglement* ](../../magic/spells/litany-of-entanglement.md)(DC 15), *[protection from chaos* ](../../magic/spells/protection-from-chaos.md)(DC 13), *[zone of truth* ](../../magic/spells/zone-of-truth.md)(DC 14)  
+1/day—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 15), *[litany of vengeance* ](../../magic/spells/litany-of-vengeance.md)(DC 17), *[terrible remorse* ](../../magic/spells/terrible-remorse.md)(DC 16)  
+1/week—*[plane shift* ](../../magic/spells/plane-shift.md)(self only)
 
 **Statistics**
 

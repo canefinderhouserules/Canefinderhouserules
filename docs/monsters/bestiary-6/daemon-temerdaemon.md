@@ -23,8 +23,8 @@ NE Large outsider (daemon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** confusion  
 **Spell-Like Abilities** (CL 15th; concentration +20)  
-At will—*bestow curse* (DC 19), *death knell* (DC 17), *gaseous form, passwall, stone shape, telekinesis* (DC 20)  
-3/day—*disintegrate* (DC 21), *greater dispel magic, illusory wall* (DC 19), *suggestion* (DC 18)  
+At will—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 19), *[death knell](../../magic/spells/death-knell.md)* (DC 17), *gaseous form, passwall, stone shape, telekinesis* (DC 20)  
+3/day—*[disintegrate](../../magic/spells/disintegrate.md)* (DC 21), *greater dispel magic, illusory wall* (DC 19), *[suggestion](../../magic/spells/suggestion.md)* (DC 18)  
 1/day—*summon* (level 5, 1 temerdaemon 30%)
 
 **Statistics**

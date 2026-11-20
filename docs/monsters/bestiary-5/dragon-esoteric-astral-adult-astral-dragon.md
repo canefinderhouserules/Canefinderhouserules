@@ -23,12 +23,12 @@ N Huge dragon (extraplanar)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (100-ft. line, DC 23, 12d6 force), crush  
 **Psychic Magic** (CL 16th; concentration +21)  
-11 PE—*analyze aura* (3 PE), *aversion* (2 PE, DC 17), *deja vu* (1 PE), *id insinuation I* (3 PE, DC 18), *telekinetic projectile* (0 PE)  
+11 PE—*[analyze aura](../../magic/spells/analyze-aura.md)* (3 PE), *[aversion](../../magic/spells/aversion.md)* (2 PE, DC 17), *[deja vu](../../magic/spells/deja-vu.md)* (1 PE), *[id insinuation I](../../magic/spells/id-insinuation-i.md)* (3 PE, DC 18), *[telekinetic projectile](../../magic/spells/telekinetic-projectile.md)* (0 PE)  
  **Psychic Spells Known** (CL 7th; concentration +12)  
- 3rd (5/day)—*ego whip I*, *haste*  
- 2nd (7/day)—*blur*, *hideous laughter* (DC 17), *locate object*  
- 1st (8/day)—*burst of insight*, *feather fall*, *sundering shards* (DC 16), *true strike*, *unwitting ally* (DC 16)  
- 0 (at will)—*dancing lights*, *daze* (DC 15), *detect magic*, *detect poison*, *mage hand*, *message*, *open/close*
+ 3rd (5/day)—*[ego whip I](../../magic/spells/ego-whip-i.md)*, *[haste](../../magic/spells/haste.md)*  
+ 2nd (7/day)—*[blur](../../magic/spells/blur.md)*, *[hideous laughter](../../magic/spells/hideous-laughter.md)* (DC 17), *[locate object](../../magic/spells/locate-object.md)*  
+ 1st (8/day)—*[burst of insight](../../magic/spells/burst-of-insight.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[sundering shards](../../magic/spells/sundering-shards.md)* (DC 16), *[true strike](../../magic/spells/true-strike.md)*, *[unwitting ally](../../magic/spells/unwitting-ally.md)* (DC 16)  
+ 0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze](../../magic/spells/daze.md)* (DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*
 
 **Statistics**
 

@@ -24,12 +24,12 @@ LG Huge dragon (cold)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, DC 23, 12d8 cold), crush, paralyzing breath  
 **Spell-Like Abilities** (CL 17th)  
-At will—*detect evil*, *feather fall*, *fog cloud*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*  
 **Spells Known** (CL 7th)  
-3rd (5/day)—*dispel magic*, *wind wall*  
-2nd (7/day)—*augury*, *cure moderate wounds*, *web* (DC 17)  
-1st (7/day)—*alarm*, *bless*, *divine favor*, *shield*, *true strike*  
-0 (at will)—*detect magic*, *flare*, *light*, *message*, *prestidigitation*, *read magic*, *stabilize*
+3rd (5/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd (7/day)—*[augury](../../magic/spells/augury.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[web* ](../../magic/spells/web.md)(DC 17)  
+1st (7/day)—*[alarm](../../magic/spells/alarm.md)*, *[bless](../../magic/spells/bless.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[flare](../../magic/spells/flare.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

@@ -21,8 +21,8 @@ NE Small fey (extraplanar)
 **Melee** 2 claws +9 (1d3+1) or dagger +9 (1d3+1/19–20 plus poison)  
 **Special Attacks** sneak attack +3d6  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-At will—*dancing lights*, *flare* (DC 13), *ghost sound* (DC 13), *light*, *mage hand*  
-3/day—*daylight*, *blindness/deafness* (DC 16)
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[flare* ](../../magic/spells/flare.md)(DC 13), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*  
+3/day—*[daylight](../../magic/spells/daylight.md)*, *[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 16)
 
 **Statistics**
 

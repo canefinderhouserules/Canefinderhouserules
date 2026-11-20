@@ -27,7 +27,7 @@ slashing; **Immune** plant traits; **SR** 29
 (DC 29 plus soporific spores, 1d10 rounds, hardness 5, hp 10),
 seamless reality, soporific spores  
 **Spell-Like Abilities** (CL 18th; concentration +30)  
-At will—*greater create mindscape*
+At will—*[greater create mindscape](../../magic/spells/create-mindscape-greater.md)*
 
 **Statistics**
 

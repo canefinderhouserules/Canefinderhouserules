@@ -23,13 +23,13 @@ NE Small humanoid (gnome)
 **Ranged**  mwk composite longbow +15/+10/+5 (1d6+2/×3)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, favored enemy (earth outsiders +2, giants +6, oozes +2)  
 **Ranger Spells Prepared** (CL 8th; concentration +10)  
-3rd—*cure moderate wounds*  
-2nd—*barkskin*, *bear’s endurance*  
-1st—*delay poison*, *entangle*, *resist energy*
+3rd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*  
+1st—*[delay poison](../../magic/spells/delay-poison.md)*, *[entangle](../../magic/spells/entangle.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Tactics**
 
-**Before Combat** The ranger casts *barkskin*, *bear’s endurance*, *delay poison*, and *resist energy* (fire).  
+**Before Combat** The ranger casts *[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[delay poison](../../magic/spells/delay-poison.md)*, and *[resist energy* ](../../magic/spells/resist-energy.md)(fire).  
 **During Combat** If facing multiple opponents with reach, the ranger uses Lunge.  
 **Base Statistics** Without *barkskin*, *bear’s endurance*, *delay poison*, and *resist energy*, the ranger’s statistics are **hp** 94; **Fort** +10; **AC** 21, touch 15, flat-footed 18; **Immune** none; **Resist** none; **Con** 14.
 

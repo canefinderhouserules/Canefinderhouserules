@@ -22,7 +22,7 @@ N Large construct
 **Space** 10 ft., **Reach** 10 ft. (5 ft. with bite)  
 **Special Attacks** cursed wound, eye beam, haste  
 **Spell-Like Abilities** (CL 11th; concentration +6)  
-Constant—*true seeing*
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*
 
 **Statistics**
 

@@ -25,7 +25,7 @@ CN Small dragon (shapechanger)
 damage, Reflex DC 16 for half, usable every 1d4 rounds),
 corded breath, discorporating coils  
 **Spell-Like Abilities** (CL 6th)  
-At will—*animate rope*
+At will—*[animate rope](../../magic/spells/animate-rope.md)*
 
 **Statistics**
 

@@ -22,8 +22,8 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with longspear)  
 **Special Attacks** sneak attack +2d6  
 **Spell-Like Abilities** (CL 7th)  
-Constant—*see invisibility*  
-At will—*darkness*, *dispel magic*, *greater teleport* (self plus 50 lbs. of objects only)  
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[darkness](../../magic/spells/darkness.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)  
 1/day—summon (level 3, 1 babau at 40%)
 
 **Statistics**

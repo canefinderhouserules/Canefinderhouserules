@@ -22,15 +22,15 @@ NG Medium humanoid (human)
 **Melee** club +4 (1d6–1)  
 **Special Attacks** hand of the apprentice (8/day)  
 **Spell-Like Abilities** (CL 6th)  
-Constant—*protection from evil*  
+Constant—*[protection from evil](../../magic/spells/protection-from-evil.md)*  
 **Wizard Spells Prepared** (CL 11th; concentration +16)  
-6th—*summon monster VI*  
-5th—*break enchantment*, *dismissal* (DC 20), *dominate person* (DC 20)  
-4th—*ice storm*, *reincarnate*, *shout* (DC 19), *solid fog*  
-3rd—*cure moderate wounds*, *daylight*, *dispel magic*, *magic circle against evil*, *remove disease* (DC 18)  
-2nd—*acid arrow*, *flame blade*, *resist energy*, *scorching ray*, *warp wood*  
-1st—*mage armor*, *magic missile* (2), *ray of enfeeblement* (DC 16), *shillelagh* (2)  
-0 (at will)—*detect magic*, *light*, *mage hand*, *read magic*  
+6th—*[summon monster VI](../../magic/spells/summon-monster-vi.md)*  
+5th—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[dismissal](../../magic/spells/dismissal.md)* (DC 20), *[dominate person](../../magic/spells/dominate-person.md)* (DC 20)  
+4th—*[ice storm](../../magic/spells/ice-storm.md)*, *[reincarnate](../../magic/spells/reincarnate.md)*, *[shout](../../magic/spells/shout.md)* (DC 19), *[solid fog](../../magic/spells/solid-fog.md)*  
+3rd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[daylight](../../magic/spells/daylight.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*, *[remove disease](../../magic/spells/remove-disease.md)* (DC 18)  
+2nd—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[flame blade](../../magic/spells/flame-blade.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[warp wood](../../magic/spells/warp-wood.md)*  
+1st—*[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)* (2), *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 16), *[shillelagh](../../magic/spells/shillelagh.md)* (2)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*  
  If cast as a good spell, this spell is cast at +1 caster level and lasts an additional 6 rounds.
 
 **Statistics**

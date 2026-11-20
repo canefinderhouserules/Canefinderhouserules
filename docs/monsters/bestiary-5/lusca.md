@@ -25,12 +25,12 @@ plus grab)
 poison), rend ship, vicious grapple  
 **Spell-Like Abilities** (CL 18th;
 concentration +22)  
-3/day—*chain lightning* (DC 20),
-*geyser* (DC 19)  
+3/day—*[chain lightning](../../magic/spells/chain-lightning.md)* (DC 20),
+*[geyser](../../magic/spells/geyser.md)* (DC 19)  
 
 1/day—*summon* (level 8,
 1d4+1 dire sharks 50%),
-*vortex* (DC 21)
+*[vortex](../../magic/spells/vortex.md)* (DC 21)
 
 **Statistics**
 

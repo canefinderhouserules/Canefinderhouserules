@@ -25,9 +25,9 @@ affinity; **DR** 15/good and silver; **Immune** bleed, fear; **SR** 25
 **Special Attacks** create bloody bones, sneak attack +3d6  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
 Constant—*air walk, blur, freedom of movement*  
-At will—*command undead* (DC 17), *suggestion* (DC 18)  
-3/day—*clairaudience/clairvoyance, deeper darkness, hold person* (DC 19), *phantasmal killer* (DC 19)  
-1/day—*gaseous form, greater scrying* (DC 22), *shadow walk*
+At will—*[command undead](../../magic/spells/command-undead.md)* (DC 17), *[suggestion](../../magic/spells/suggestion.md)* (DC 18)  
+3/day—*clairaudience/clairvoyance, deeper darkness, hold person* (DC 19), *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 19)  
+1/day—*gaseous form, greater scrying* (DC 22), *[shadow walk](../../magic/spells/shadow-walk.md)*
 
 **Statistics**
 

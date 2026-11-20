@@ -21,8 +21,8 @@ CN Small outsider (air, extraplanar, shapechanger)
 **Melee** 2 claw +8 (1d3+1 plus 1d6 electricity), tail slap +3 (1d4 plus 1d6 electricity)  
 **Special Attacks** shocking burst  
 **Spell-Like Abilities** (CL 5)  
-3/day—*call lightning*  
-1/day—*control weather* (thunderstorm only)
+3/day—*[call lightning](../../magic/spells/call-lightning.md)*  
+1/day—*[control weather* ](../../magic/spells/control-weather.md)(thunderstorm only)
 
 **Statistics**
 

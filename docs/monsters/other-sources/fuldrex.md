@@ -22,8 +22,8 @@ NE Small plant
 **Melee** bite +21 (2d6+8/19–20), 3 slams +21 (1d8+8 plus choking fungus)  
 **Special Attacks** choking fungus, rotten flesh  
 **Spell-Like Abilities** (CL 10th; concentration +12)  
-Constant—*pass without trace*  
-3/day—*entangle* (underground only; DC 13)
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*  
+3/day—*[entangle](../../magic/spells/entangle.md)* (underground only; DC 13)
 
 **Statistics**
 

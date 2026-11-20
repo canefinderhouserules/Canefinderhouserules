@@ -22,9 +22,9 @@ LE Medium outsider (devil, evil, extraplanar, lawful)
 **Space** 5 ft., **Reach** 10 ft.  
 **Special Attacks** boundless reach, ohrwurm  
 **Spell-Like Abilities** (CL 18th; concentration +27)  
-At will—*alter self*, *dream* (DC 24), *greater teleport* (self plus 50 lbs. of objects only), *major image* (DC 22), *mirage arcana* (DC 24), *ventriloquism* (DC 19)  
-3/day—*blasphemy* (DC 26), *dominate person* (DC 24), *hold monster* (DC 24), *insanity* (DC 26), *touch of idiocy*, *veil* (DC 25)  
-1/day—*mind fog* (DC 24), *screen* (DC 27), summon (level 8, 1d6 bone devils or 2d4 bearded devils 50% or 1 ice devil 20%)
+At will—*[alter self](../../magic/spells/alter-self.md)*, *[dream](../../magic/spells/dream.md)* (DC 24), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[major image](../../magic/spells/major-image.md)* (DC 22), *[mirage arcana](../../magic/spells/mirage-arcana.md)* (DC 24), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 19)  
+3/day—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 26), *[dominate person](../../magic/spells/dominate-person.md)* (DC 24), *[hold monster](../../magic/spells/hold-monster.md)* (DC 24), *[insanity](../../magic/spells/insanity.md)* (DC 26), *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*, *[veil](../../magic/spells/veil.md)* (DC 25)  
+1/day—*[mind fog](../../magic/spells/mind-fog.md)* (DC 24), *[screen](../../magic/spells/screen.md)* (DC 27), summon (level 8, 1d6 bone devils or 2d4 bearded devils 50% or 1 ice devil 20%)
 
 **Statistics**
 

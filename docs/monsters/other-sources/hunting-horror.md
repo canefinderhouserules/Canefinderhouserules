@@ -23,11 +23,11 @@ CE Gargantuan magical beast
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** constrict (2d8+18), crush, squeezing coils, swallow whole (2d6+18 bludgeoning plus 6d6 acid damage, AC 19, 20 hp)  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
-Constant—*detect scrying*, *freedom of movement*  
-At will—*gaseous form*, *locate creature*, *locate object*, *telekinesis* (DC 20)  
-3/day—*demand* (DC 23), *limited wish* (to duplicate sorcerer/wizard spells of 6th level or lower only)  
-1/day—*discern location*, *ethereal jaunt*, *scrying* (DC 19), *vision*  
-1/year—*interplanetary teleport*
+Constant—*[detect scrying](../../magic/spells/detect-scrying.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+At will—*[gaseous form](../../magic/spells/gaseous-form.md)*, *[locate creature](../../magic/spells/locate-creature.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 20)  
+3/day—*[demand* ](../../magic/spells/demand.md)(DC 23), *[limited wish* ](../../magic/spells/limited-wish.md)(to duplicate sorcerer/wizard spells of 6th level or lower only)  
+1/day—*[discern location](../../magic/spells/discern-location.md)*, *[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[scrying* ](../../magic/spells/scrying.md)(DC 19), *[vision](../../magic/spells/vision.md)*  
+1/year—*[interplanetary teleport](../../magic/spells/interplanetary-teleport.md)*
 
 **Statistics**
 

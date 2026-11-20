@@ -23,18 +23,18 @@ CE Large outsider (chaotic, demon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** bane (9 rounds/day), black flame knives, death-stealing gaze (DC 28), madness (DC 28), multiweapon mastery  
 **Spell-Like Abilities** (CL 19th; concentration +28)  
-Constant—*true seeing*  
-At will—*deeper darkness*, *enervation*, *greater teleport* (self plus 50 lbs. of objects only), *telekinesis* (DC 24)  
-3/day—quickened *enervation*, *regenerate*, *silence* (DC 21), *vampiric touch*  
-1/day—*mass hold monster* (DC 28), summon (level 6, 1 marilith 50% or 1d4 glabrezus 75%), symbol of death (DC 27)  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[enervation](../../magic/spells/enervation.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 24)  
+3/day—quickened *[enervation](../../magic/spells/enervation.md)*, *[regenerate](../../magic/spells/regenerate.md)*, *[silence* ](../../magic/spells/silence.md)(DC 21), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+1/day—*[mass hold monster* ](../../magic/spells/hold-monster-mass.md)(DC 28), summon (level 6, 1 marilith 50% or 1d4 glabrezus 75%), symbol of death (DC 27)  
 **Inquisitor Spell-Like Abilities** (CL 9th; concentration +18)  
 At will—*detect alignment*  
-9 rounds/day—*discern lies*  
+9 rounds/day—*[discern lies](../../magic/spells/discern-lies.md)*  
 **Inquisitor Spells Known** (CL 9th; concentration +18)  
-3rd (5/day)—*cure serious wounds*, *dimensional anchor*, *seek thoughts* (DC 22), *speak with dead* (DC 22)  
-2nd (6/day)—*barkskin*, *death knell* (DC 21), *detect thoughts* (DC 21), *spiritual weapon*  
-1st (8/day)—*command* (DC 20), *cure light wounds*, *divine favor*, *protection from good*, *shield of faith*  
-0 (at will)—*acid splash*, *brand* (DC 19), *bleed* (DC 19), *detect magic*, *disrupt undead*, *read magic*  
+3rd (5/day)—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[seek thoughts* ](../../magic/spells/seek-thoughts.md)(DC 22), *[speak with dead* ](../../magic/spells/speak-with-dead.md)(DC 22)  
+2nd (6/day)—*[barkskin](../../magic/spells/barkskin.md)*, *[death knell* ](../../magic/spells/death-knell.md)(DC 21), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 21), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st (8/day)—*[command* ](../../magic/spells/command.md)(DC 20), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[brand* ](../../magic/spells/brand.md)(DC 19), *[bleed* ](../../magic/spells/bleed.md)(DC 19), *[detect magic](../../magic/spells/detect-magic.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Domain** Decay
 
 **Statistics**

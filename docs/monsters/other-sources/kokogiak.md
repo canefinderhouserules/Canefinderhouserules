@@ -22,8 +22,8 @@ NE Huge magical beast
 **Space** 15 ft., **Reach** 10 ft. (20 ft. with bite)  
 **Special Attacks** blizzard breath, forlorn gaze, pull (bite, 10 ft.)  
 **Spell-Like Abilities** (CL 15th; concentration +18)  
-At will—*fog cloud*, *ventriloquism* (DC 14)  
-3/day—*major image* (DC 16), *solid fog*
+At will—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 14)  
+3/day—*[major image](../../magic/spells/major-image.md)* (DC 16), *[solid fog](../../magic/spells/solid-fog.md)*
 
 **Statistics**
 

@@ -23,11 +23,11 @@ LN Medium fey
 **Ranged**  *+2 seeking composite longbow* +18/+13 (1d8+7/19–20/x3)  
 **Special Attacks** Rider’s weapon, weal or woe (DC 23)  
 **Spell-Like Abilities** (CL 11th; concentration +16)  
-Constant—*see invisibility*  
-At will—*chill touch* (DC 16), *detect thoughts* (DC 17), *zone of truth* (DC 17)  
-5/day—*ice storm*, *daybreak arrow*  
-3/day— *charm monster* (DC 19), *cone of cold* (DC 20)  
-1/day—*mass suggestion* (DC 21)
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[chill touch* ](../../magic/spells/chill-touch.md)(DC 16), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[zone of truth* ](../../magic/spells/zone-of-truth.md)(DC 17)  
+5/day—*[ice storm](../../magic/spells/ice-storm.md)*, *[daybreak arrow](../../magic/spells/daybreak-arrow.md)*  
+3/day— *[charm monster* ](../../magic/spells/charm-monster.md)(DC 19), *[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 20)  
+1/day—*[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 21)
 
 **Statistics**
 

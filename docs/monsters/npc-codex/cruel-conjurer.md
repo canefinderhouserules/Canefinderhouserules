@@ -24,15 +24,15 @@ LE Medium humanoid (human)
 At will—dimensional steps (450 feet/day)  
  9/day—acid dart (1d6+7 acid)  
 **Conjurer Spells Prepared** (CL 15th; concentration +21)  
-8th—*incendiary cloud* (DC 26), *summon monster VIII*  
-7th—extended *acid fog*, widened *black tentacles*, *mass hold person* (DC 23)  
-6th—quickened *acid arrow*, *acid fog*, *disintegrate* (DC 22), quickened *invisibility*, *summon monster VI*  
-5th—*cloudkill* (DC 23), *dismissal* (DC 21), *shadow evocation* (DC 21), *summon monster V*, *teleport*, widened *glitterdust* (DC 20)  
-4th—*arcane eye*, *confusion* (DC 20), *dimension door*, *greater invisibility*, *phantasmal killer* (DC 20), *solid fog*  
-3rd—*displacement*, *magic circle against good*, *protection from energy*, *slow* (DC 19), *stinking cloud* (2, DC 21)  
-2nd—*acid arrow*, *glitterdust* (DC 20), *knock*, *mirror image*, *resist energy*, *see invisibility*, *web* (DC 20)  
-1st—*charm person* (DC 17), *color spray* (DC 17), *expeditious retreat*, *feather fall*, *grease*, *mage armor*, *mount*  
-0 (at will)—*acid splash*, *detect magic*, *mage hand*, *read magic*  
+8th—*[incendiary cloud* ](../../magic/spells/incendiary-cloud.md)(DC 26), *[summon monster VIII](../../magic/spells/summon-monster-viii.md)*  
+7th—extended *[acid fog](../../magic/spells/acid-fog.md)*, widened *[black tentacles](../../magic/spells/black-tentacles.md)*, *[mass hold person* ](../../magic/spells/hold-person-mass.md)(DC 23)  
+6th—quickened *[acid arrow](../../magic/spells/acid-arrow.md)*, *[acid fog](../../magic/spells/acid-fog.md)*, *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 22), quickened *[invisibility](../../magic/spells/invisibility.md)*, *[summon monster VI](../../magic/spells/summon-monster-vi.md)*  
+5th—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 23), *[dismissal* ](../../magic/spells/dismissal.md)(DC 21), *[shadow evocation* ](../../magic/spells/shadow-evocation.md)(DC 21), *[summon monster V](../../magic/spells/summon-monster-v.md)*, *[teleport](../../magic/spells/teleport.md)*, widened *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 20)  
+4th—*[arcane eye](../../magic/spells/arcane-eye.md)*, *[confusion* ](../../magic/spells/confusion.md)(DC 20), *[dimension door](../../magic/spells/dimension-door.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 20), *[solid fog](../../magic/spells/solid-fog.md)*  
+3rd—*[displacement](../../magic/spells/displacement.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[slow* ](../../magic/spells/slow.md)(DC 19), *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(2, DC 21)  
+2nd—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 20), *[knock](../../magic/spells/knock.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[web* ](../../magic/spells/web.md)(DC 20)  
+1st—*[charm person* ](../../magic/spells/charm-person.md)(DC 17), *[color spray* ](../../magic/spells/color-spray.md)(DC 17), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[grease](../../magic/spells/grease.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[mount](../../magic/spells/mount.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Opposition Schools** evocation, necromancy
 
 **Tactics**

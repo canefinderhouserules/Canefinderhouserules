@@ -21,10 +21,10 @@ LE Medium monstrous humanoid
 **Melee** bite +9 (1d6+2), 2 claws +9 (1d4+2)  
 **Special Attacks** choke on cinders  
 **Spell-Like Abilities** (CL 8th; concentration +11; save DCs are Int-based)  
-Constant—*pass without trace*, *tongues*  
-At will—*alter self*, *beguiling gift* (DC 14), *burning hands* (DC 14), *detect magic*, *infernal healing*  
-3/day—*burning gaze* (DC 15), *feast of ashes* (DC 15), *inflict moderate wounds* (DC 15), *invisibility* (self only)  
-1/day—*ash storm*, *cup of dust* (DC 16), *inflict serious wounds* (DC 17), *phantasmal killer* (DC 17)
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[alter self](../../magic/spells/alter-self.md)*, *[beguiling gift](../../magic/spells/beguiling-gift.md)* (DC 14), *[burning hands](../../magic/spells/burning-hands.md)* (DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[infernal healing](../../magic/spells/infernal-healing.md)*  
+3/day—*[burning gaze](../../magic/spells/burning-gaze.md)* (DC 15), *[feast of ashes](../../magic/spells/feast-of-ashes.md)* (DC 15), *[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)* (DC 15), *[invisibility](../../magic/spells/invisibility.md)* (self only)  
+1/day—*[ash storm](../../magic/spells/ash-storm.md)*, *[cup of dust](../../magic/spells/cup-of-dust.md)* (DC 16), *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)* (DC 17), *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 17)
 
 **Statistics**
 

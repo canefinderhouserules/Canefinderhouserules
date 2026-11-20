@@ -20,8 +20,8 @@ NE Medium outsider (extraplanar, incorporeal)
 **Speed** fly 40 ft. (perfect)  
 **Melee** incorporeal touch +16 (6d8 negative energy plus nightmare curse)  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-3/day—*deep slumber* (DC 18), *dimension door*, *nightmare* (DC 20)  
-1/day—*confusion* (DC 19), *fear* (DC 19), *phantasmal killer* (DC 19)
+3/day—*[deep slumber](../../magic/spells/deep-slumber.md)* (DC 18), *[dimension door](../../magic/spells/dimension-door.md)*, *[nightmare* ](../../magic/spells/nightmare.md)(DC 20)  
+1/day—*[confusion](../../magic/spells/confusion.md)* (DC 19), *[fear](../../magic/spells/fear.md)* (DC 19), *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 19)
 
 **Statistics**
 

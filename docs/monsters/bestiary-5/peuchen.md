@@ -23,9 +23,9 @@ Perception +16
 **Special Attacks** bleed (1d6), blood drain (1d2 Constitution),
 constrict (2d6+9)  
 **Spell-Like Abilities** (CL 13th; concentration +18)  
-At will—*vampiric touch*  
+At will—*[vampiric touch](../../magic/spells/vampiric-touch.md)*  
 
-3/day—*hold person* (DC 18)
+3/day—*[hold person](../../magic/spells/hold-person.md)* (DC 18)
 
 **Statistics**
 

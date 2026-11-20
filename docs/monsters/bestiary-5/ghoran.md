@@ -23,10 +23,10 @@ N Medium plant
 **Melee** rapier +1 (1d6–1/18–20)  
 **Special Attacks** bardic performance 7 rounds/day (countersong, distraction, fascinate, inspire courage +1)  
 **Spell-Like Abilities** (CL 1st; concentration +4)  
-1/day—*detect poison*, *goodberry*, *purify food and drink*  
+1/day—*[detect poison](../../magic/spells/detect-poison.md)*, *[goodberry](../../magic/spells/goodberry.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*  
 **Spells Known** (CL 1st; concentration +4)  
-1st (2/day)—*charm person* (DC 14), *sleep* (DC 14)  
-0 (at will)—*daze* (DC 13), *light*, *mending*, *message*
+1st (2/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 14), *[sleep](../../magic/spells/sleep.md)* (DC 14)  
+0 (at will)—*[daze](../../magic/spells/daze.md)* (DC 13), *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*
 
 **Statistics**
 

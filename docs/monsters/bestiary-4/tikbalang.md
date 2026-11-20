@@ -22,11 +22,11 @@ CE Large monstrous humanoid
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** pounce, spines, trample (1d8+10, DC 23)  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-Constant—*spider climb*  
-At will—*ventriloquism* (DC 15), *invisibility*  
-3/day—*major image* (DC 17)  
-1/day—*fly* (self only), *mirage arcana* (DC 19)  
-1/week—*maze*
+Constant—*[spider climb](../../magic/spells/spider-climb.md)*  
+At will—*[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 15), *[invisibility](../../magic/spells/invisibility.md)*  
+3/day—*[major image](../../magic/spells/major-image.md)* (DC 17)  
+1/day—*[fly](../../magic/spells/fly.md)* (self only), *[mirage arcana](../../magic/spells/mirage-arcana.md)* (DC 19)  
+1/week—*[maze](../../magic/spells/maze.md)*
 
 **Statistics**
 

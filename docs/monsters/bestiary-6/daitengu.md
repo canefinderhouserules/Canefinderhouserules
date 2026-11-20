@@ -24,9 +24,9 @@ unarmed strike flurry of blows +17/+17/+12/+12/+7 (2d6+3)
 **Ranged** *+2 flaming dart* +19/+14/+9 (1d4+5 plus 1d6 fire)  
 **Special Attacks** stunning fist (12/day, DC 16)  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
-Constant—*speak with animals* (birds only), *true seeing*  
-3/day—*bestow curse* (DC 18), *gust of wind, remove curse, stone shape*  
-1/day—*wind walk*
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)* (birds only), *[true seeing](../../magic/spells/true-seeing.md)*  
+3/day—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *gust of wind, remove curse, stone shape*  
+1/day—*[wind walk](../../magic/spells/wind-walk.md)*
 
 **Statistics**
 

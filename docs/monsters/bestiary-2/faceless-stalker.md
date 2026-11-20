@@ -22,7 +22,7 @@ CE Medium aberration (shapechanger)
 **Space** 5 ft., **Reach** 10 ft.  
 **Special Attacks** blood drain (1 Constitution), sneak attack +2d6  
 **Spell-Like Abilities** (CL 5th; concentration +8)  
-Constant—*tongues*
+Constant—*[tongues](../../magic/spells/tongues.md)*
 
 **Statistics**
 

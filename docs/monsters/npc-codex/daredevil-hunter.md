@@ -23,13 +23,13 @@ CN Medium humanoid (elf)
 **Ranged**  *+2 composite longbow* +26/+21/+16/+11 (1d8+4/19–20/×3)  
 **Special Attacks** favored enemy (animals +2, dragons +4, giants +4, magical beasts +4)  
 **Ranger Spells Prepared** (CL 14th; concentration +15)  
-3rd—*darkvision*, *neutralize poison*  
-2nd—*barkskin*, *bear’s endurance*, *protection from energy*, *snare*  
-1st—*delay poison*, *hide from animals*, *longstrider*, *pass without trace*, *resist energy*
+3rd—*[darkvision](../../magic/spells/darkvision.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[snare](../../magic/spells/snare.md)*  
+1st—*[delay poison](../../magic/spells/delay-poison.md)*, *[hide from animals](../../magic/spells/hide-from-animals.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Tactics**
 
-**Before Combat** The ranger casts *barkskin*, *bear’s endurance*, *darkvision*, *delay poison*, *longstrider*, and *pass without trace*.  
+**Before Combat** The ranger casts *[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[darkvision](../../magic/spells/darkvision.md)*, *[delay poison](../../magic/spells/delay-poison.md)*, *[longstrider](../../magic/spells/longstrider.md)*, and *[pass without trace](../../magic/spells/pass-without-trace.md)*.  
 **During Combat** The ranger prefers ranged combat. He uses Deadly Aim with Rapid Shot, hoping to also use Tiring Critical.  
 **Base Statistics** Without *barkskin*, *bear’s endurance*, *darkvision*, *delay poison*, and *longstrider*, the ranger’s statistics are **Senses** low-light vision; **AC** 28, touch 19, flat-footed 21; **hp** 108; **Fort** +13; **Immune** sleep; **Speed** 30 ft.; **Con** 11; **Skills** Acrobatics +23.
 

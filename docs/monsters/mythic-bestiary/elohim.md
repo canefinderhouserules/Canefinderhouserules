@@ -22,11 +22,11 @@ N Huge outsider (extraplanar, mythic)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** breath weapon (60-ft. cone, 20d8 electricity, Reflex DC 32 half, usable every 1d4 rounds), constrict (2d8+10), mythic magic, mythic power (6/day, surge +1d8)  
 **Spell-Like Abilities** (CL 23rd; concentration +30)  
-Constant—*deathwatch*, *mind blank*, *speak with animals*  
-At will—*baleful polymorph* (DC 22), *charm monster* (DC 21), *etherealness*, *rest eternal*, *shapechange*, *stone shape*, *greater teleport* (self plus 50 lbs. of objects only)  
-5/day—*control weather*, *greater dispel magic*, *greater polymorph*, *heal*, *plane shift* (DC 24), *terraform*  
-3/day—*circle of death* (DC 23), *disintegrate* (DC 23), *power word stun*  
-1/day—*create demiplane*, *mage’s disjunction*
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*, *[mind blank](../../magic/spells/mind-blank.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 22), *[charm monster](../../magic/spells/charm-monster.md)* (DC 21), *[etherealness](../../magic/spells/etherealness.md)*, *[rest eternal](../../magic/spells/rest-eternal.md)*, *[shapechange](../../magic/spells/shapechange.md)*, *[stone shape](../../magic/spells/stone-shape.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
+5/day—*[control weather](../../magic/spells/control-weather.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater polymorph](../../magic/spells/polymorph-greater.md)*, *[heal](../../magic/spells/heal.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (DC 24), *[terraform](../../magic/spells/terraform.md)*  
+3/day—*[circle of death](../../magic/spells/circle-of-death.md)* (DC 23), *[disintegrate](../../magic/spells/disintegrate.md)* (DC 23), *[power word stun](../../magic/spells/power-word-stun.md)*  
+1/day—*[create demiplane](../../magic/spells/create-demiplane.md)*, *[mage’s disjunction](../../magic/spells/mages-disjunction.md)*
 
 **Statistics**
 

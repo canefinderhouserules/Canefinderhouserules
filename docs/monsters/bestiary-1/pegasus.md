@@ -20,7 +20,7 @@ CG Large magical beast
 **Melee** bite +7 (1d3+4), 2 hooves +2 (1d6+2)  
 **Space** 10 ft., **Reach** 5 ft.  
 **Spell-Like Abilities** (CL 4th)  
-Constant—*detect evil* (60-ft. radius), *detect good* (60-ft. radius)
+Constant—*[detect evil* ](../../magic/spells/detect-evil.md)(60-ft. radius), *[detect good* ](../../magic/spells/detect-good.md)(60-ft. radius)
 
 **Statistics**
 

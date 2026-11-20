@@ -22,8 +22,8 @@ LN Large dragon (extraplanar, lawful)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (80-foot line, 6d10 slashing damage, Reflex DC 22 half), powerful wings, scrivener  
 **Oracle Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*command* (DC 14), *comprehend languages*  
-0 (at will)—*detect magic*, *guidance*, *purify food and drink*, *read magic*
+1st (4/day)—*[command](../../magic/spells/command.md)* (DC 14), *[comprehend languages](../../magic/spells/comprehend-languages.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

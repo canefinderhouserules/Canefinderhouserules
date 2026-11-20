@@ -23,9 +23,9 @@ NE Large plant
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** bleed (2d6), constrict (1d10+10), feed  
 **Spell-Like Abilities** (CL 13th; concentration +18)  
-At will—*charm monster* (DC 19), *detect thoughts* (DC 17), *suggestion* (DC 18)  
-3/day—quickened *glitterdust* (DC 17), *hold monster* (DC 20)  
-1/day—*commune with nature*, *mind fog*, *wall of thorns*
+At will—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 19), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[suggestion* ](../../magic/spells/suggestion.md)(DC 18)  
+3/day—quickened *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 17), *[hold monster* ](../../magic/spells/hold-monster.md)(DC 20)  
+1/day—*[commune with nature](../../magic/spells/commune-with-nature.md)*, *[mind fog](../../magic/spells/mind-fog.md)*, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*
 
 **Statistics**
 

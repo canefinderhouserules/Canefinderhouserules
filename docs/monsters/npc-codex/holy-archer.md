@@ -24,9 +24,9 @@ LG Medium humanoid (elf)
 **Ranged**  *+1 longbow* +11/+6 (1d8+1/×3)  
 **Special Attacks** channel positive energy (DC 15, 3d6), smite evil 2/day (+2 attack and AC, +6 damage)  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 3rd; concentration +5)  
-1st—*bless weapon*, *cure light wounds*
+1st—*[bless weapon](../../magic/spells/bless-weapon.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*
 
 **Tactics**
 

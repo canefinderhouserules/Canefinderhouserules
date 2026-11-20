@@ -20,12 +20,12 @@ CN Small fey
 **Speed** 30 ft., fly 40 ft. (poor)  
 **Melee** spear +2 (1d6+1/×3)  
 **Spell-Like Abilities** (CL 1st; concentration +4)  
-1/day—*entangle*, *feather step*  
+1/day—*[entangle](../../magic/spells/entangle.md)*, *[feather step](../../magic/spells/feather-step.md)*  
 **Bloodline Spell-Like Abilities** (CL 1st; concentration +4)  
 6/day—laughing touch  
 **Sorcerer Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*color spray* (DC 14), *magic missile*  
-0 (at will)—*dancing lights*, *daze* (DC 15), *ghost sound* (DC 13), *ray of frost*  
+1st (4/day)—*[color spray](../../magic/spells/color-spray.md)* (DC 14), *[magic missile](../../magic/spells/magic-missile.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze](../../magic/spells/daze.md)* (DC 15), *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 13), *[ray of frost](../../magic/spells/ray-of-frost.md)*  
 **Bloodline** fey
 
 **Statistics**

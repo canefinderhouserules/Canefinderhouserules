@@ -22,10 +22,10 @@ CN Medium outsider (chaotic, extraplanar, shapechanger)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with lash)  
 **Special Attacks** lash, sneak attack +3d6  
 **Spell-Like Abilities** (CL 13th; concentration +19)  
-Constant—*tongues*  
-At will—*invisibility*, *major image* (DC 20), *modify memory* (DC 20), *suggestion* (DC 19)  
-3/day—*charm monster* (DC 20), *phantasmal vengeance* (DC 20), *teleport* (self plus 50 lbs. of gear only)  
-1/day—*mislead* (DC 22), *true seeing*
+Constant—*[tongues](../../magic/spells/tongues.md)*  
+At will—*[invisibility](../../magic/spells/invisibility.md)*, *[major image](../../magic/spells/major-image.md)* (DC 20), *[modify memory](../../magic/spells/modify-memory.md)* (DC 20), *[suggestion](../../magic/spells/suggestion.md)* (DC 19)  
+3/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 20), *phantasmal vengeance* (DC 20), *[teleport](../../magic/spells/teleport.md)* (self plus 50 lbs. of gear only)  
+1/day—*[mislead](../../magic/spells/mislead.md)* (DC 22), *[true seeing](../../magic/spells/true-seeing.md)*
 
 **Statistics**
 

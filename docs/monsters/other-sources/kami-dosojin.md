@@ -21,9 +21,9 @@ NG Medium outsider (kami, native)
 **Melee** 2 slams +13 (1d6+2)  
 **Special Attacks** manipulate path, mimic statue  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-Constant—*know direction*, *misdirection* (DC 15), *speak with plants*  
-3/day—*dispel magic*, *fog cloud*, quickened *invisibility*, *longstrider*, *pass without trace*, *stone shape*  
-1/day—*locate object*, *mirage arcana* (DC 18), *nondetection*
+Constant—*[know direction](../../magic/spells/know-direction.md)*, *[misdirection* ](../../magic/spells/misdirection.md)(DC 15), *[speak with plants](../../magic/spells/speak-with-plants.md)*  
+3/day—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*, quickened *[invisibility](../../magic/spells/invisibility.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[stone shape](../../magic/spells/stone-shape.md)*  
+1/day—*[locate object](../../magic/spells/locate-object.md)*, *[mirage arcana* ](../../magic/spells/mirage-arcana.md)(DC 18), *[nondetection](../../magic/spells/nondetection.md)*
 
 **Statistics**
 

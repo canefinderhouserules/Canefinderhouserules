@@ -23,9 +23,9 @@ NE Medium undead
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** blood drain (1d2 Constitution), fear cone (30 ft., DC 16)  
 **Spell-Like Abilities** (CL 7th; concentration +9)  
-Constant—*detect evil*  
-At will—*invisibility*  
-1/day—*disguise self*
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*  
+At will—*[invisibility](../../magic/spells/invisibility.md)*  
+1/day—*[disguise self](../../magic/spells/disguise-self.md)*
 
 **Statistics**
 

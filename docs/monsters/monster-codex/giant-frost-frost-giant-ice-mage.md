@@ -27,10 +27,10 @@ CE Large humanoid (cold, giant)
 **Spell-Like Abilities** (CL 6th; concentration +9)  
 7/day—cold steel (grant weapon or 50 ammunition *frost* weapon special ability for 3 rounds)  
 **Sorcerer Spells Known** (CL 6th; concentration +9)  
-3rd (4/day)—*dispel magic*  
-2nd (6/day)—*frigid touch*, *ice slick*, *rage* (DC 16)  
-1st (7/day)—*enlarge person*, *expeditious retreat*, *obscuring mist*, *shield*, *true strike*  
-0 (at will)—*detect magic*, *ghost sound* (DC 13), *flare* (DC 13), *mage hand*, *message*, *ray of frost*, *touch of fatigue* (DC 13)  
+3rd (4/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*  
+2nd (6/day)—*[frigid touch](../../magic/spells/frigid-touch.md)*, *[ice slick](../../magic/spells/ice-slick.md)*, *[rage](../../magic/spells/rage.md)* (DC 16)  
+1st (7/day)—*[enlarge person](../../magic/spells/enlarge-person.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 13), *[flare](../../magic/spells/flare.md)* (DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 13)  
 **Bloodline** boreal
 
 **Tactics**

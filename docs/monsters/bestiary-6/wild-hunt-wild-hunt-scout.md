@@ -24,7 +24,7 @@ CN Medium fey (wild hunt)
 **Spell-Like Abilities** (CL 15th; concentration +20)  
 Constant—*know direction, pass without trace, speak with animals, speak with plants*  
 3/day—*clairaudience/clairvoyance, dimension door, stone tell*  
-1/day—*true seeing*
+1/day—*[true seeing](../../magic/spells/true-seeing.md)*
 
 **Statistics**
 

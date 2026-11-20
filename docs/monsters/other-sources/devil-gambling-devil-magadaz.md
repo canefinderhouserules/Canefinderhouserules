@@ -23,8 +23,8 @@ LE Medium outsider (devil, evil, extraplanar, lawful)
 **Ranged**  thrown coin +6 (1d4+3)  
 **Special Attacks** double down, produce coins  
 **Spell-Like Abilities** (CL 8th; concentration +12)  
-Constant—*detect chaos*  
-At will—*greater teleport* (self plus 50 lbs. of objects only)
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)
 
 **Statistics**
 

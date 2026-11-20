@@ -22,9 +22,9 @@ CE Medium outsider (aquatic, chaotic, demon, evil, extraplanar)
 **Ranged**  slime +20 (1d6 plus 3d6 acid and entangle)  
 **Special Attacks** smothering  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-At will—*create water*, *greater teleport* (self plus 50 lbs. of objects only), *liquid leap* (see below), *telekinesis* (DC 19)  
-3/day—*gaseous form*, *control water*, *poison* (DC 18), *stinking cloud* (DC 17)  
-1/day—*acid fog*, summon (level 4, 1 omox 30% or 1d4 babaus 60%)
+At will—*[create water](../../magic/spells/create-water.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *liquid leap* (see below), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 19)  
+3/day—*[gaseous form](../../magic/spells/gaseous-form.md)*, *[control water](../../magic/spells/control-water.md)*, *[poison* ](../../magic/spells/poison.md)(DC 18), *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 17)  
+1/day—*[acid fog](../../magic/spells/acid-fog.md)*, summon (level 4, 1 omox 30% or 1d4 babaus 60%)
 
 **Statistics**
 

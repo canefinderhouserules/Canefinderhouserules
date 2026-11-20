@@ -22,13 +22,13 @@ CG Large outsider (azata, chaotic, extraplanar, good)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** bardic performance (20 rounds/day), constrict (2d6+5)  
 **Spell-Like Abilities** (CL 7th)  
-3/day—*darkness*, *hallucinatory terrain* (DC 18), *knock*, *light*  
-1/day—*charm person* (DC 15), *speak with animals*, *speak with plants*  
+3/day—*[darkness](../../magic/spells/darkness.md)*, *[hallucinatory terrain* ](../../magic/spells/hallucinatory-terrain.md)(DC 18), *[knock](../../magic/spells/knock.md)*, *[light](../../magic/spells/light.md)*  
+1/day—*[charm person* ](../../magic/spells/charm-person.md)(DC 15), *[speak with animals](../../magic/spells/speak-with-animals.md)*, *[speak with plants](../../magic/spells/speak-with-plants.md)*  
 **Spells Known** (CL 7th)  
-3rd (2/day)—*charm monster* (DC 17), *cure serious wounds*  
-2nd (4/day)—*hold person* (DC 16), *invisibility*, *sound burst* (DC 16), *suggestion* (DC 16)  
-1st (5/day)—*charm person* (DC 15), *cure light wounds*, *identify*, *sleep* (DC 15)  
-0 (at will)—*dancing lights*, *daze* (DC 14), *detect magic*, *lullaby* (DC 14), *mage hand*, *read magic*
+3rd (2/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 17), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*  
+2nd (4/day)—*[hold person* ](../../magic/spells/hold-person.md)(DC 16), *[invisibility](../../magic/spells/invisibility.md)*, *[sound burst* ](../../magic/spells/sound-burst.md)(DC 16), *[suggestion* ](../../magic/spells/suggestion.md)(DC 16)  
+1st (5/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 15), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[identify](../../magic/spells/identify.md)*, *[sleep* ](../../magic/spells/sleep.md)(DC 15)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[lullaby* ](../../magic/spells/lullaby.md)(DC 14), *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

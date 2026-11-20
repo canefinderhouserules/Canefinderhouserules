@@ -21,7 +21,7 @@ LG Small outsider (archon, extraplanar, good, lawful)
 **Speed** fly 60 ft. (perfect)  
 **Ranged**  2 light rays +3 ranged touch (1d6)  
 **Spell-Like Abilities** (CL 3rd)  
-At Will—*aid*, *continual flame*, *detect evil*, *greater teleport* (self plus 50 lbs. of objects only)
+At Will—*[aid](../../magic/spells/aid.md)*, *[continual flame](../../magic/spells/continual-flame.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)
 
 **Statistics**
 

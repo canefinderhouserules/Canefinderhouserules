@@ -23,8 +23,8 @@ NE Medium outsider (native)
 **Ranged**  mwk dagger +9 (1d4+4/19–20)  
 **Special Attacks** blood drain (1 Con), deeds (derring-do, dodging panache, opportune parry, riposte), panache (4), Strength damage  
 **Spell-Like Abilities** (CL 3rd; concentration +7)  
-At will—*feather fall*  
-3/day—*align weapon*, *death knell* (DC 15), *ray of enfeeblement* (DC 15)
+At will—*[feather fall](../../magic/spells/feather-fall.md)*  
+3/day—*[align weapon](../../magic/spells/align-weapon.md)*, *[death knell](../../magic/spells/death-knell.md)* (DC 15), *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 15)
 
 **Statistics**
 

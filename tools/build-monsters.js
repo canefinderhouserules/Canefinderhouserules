@@ -210,6 +210,15 @@ function toMarkdown(html) {
     return featPages.has(s) ? '[[LINK:../../rules/feats/' + s + '.md]]' + text + '[[/LINK]]' : text;
   });
   h = h.replace(/<a [^>]*>([\s\S]*?)<\/a>/g, '$1');
+  // spell-list lines ("3rd—", "At will—", "1/day—"): link italic spell names the source left unlinked
+  h = h.split(/(<br\s*\/?>)/).map(line => {
+    if (!/^\s*(?:\d|At will|Constant)[^—<]{0,40}—/i.test(line.replace(/<[^>]+>/g, ''))) return line;
+    return line.replace(/(\[\[LINK:[^\]]+\]\][\s\S]*?\[\[\/LINK\]\])|<i>([^<]+)<\/i>/g, (all, linked, name) => {
+      if (linked) return linked;
+      const s = spellSlug(name.trim().replace(/\s*\([^)]*\)$/, ''));
+      return s ? '[[LINK:../../magic/spells/' + s + '.md]]<i>' + name + '</i>[[/LINK]]' : all;
+    });
+  }).join('');
   h = h.replace(/<i>(\s*)([\s\S]*?)(\s*)<\/i>/g, (_, a, t, b) => t ? a + '*' + t + '*' + b : a + b);
   h = h.replace(/<b>(\s*)([\s\S]*?)(\s*)<\/b>/g, (_, a, t, b) => t ? a + '**' + t + '**' + b : a + b);
   h = h.replace(/<h3[^>]*>([\s\S]*?)<\/h3>/g, '\n\n**$1**\n\n');

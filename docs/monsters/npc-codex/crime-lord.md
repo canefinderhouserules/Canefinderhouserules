@@ -23,11 +23,11 @@ N Small humanoid (gnome)
 **Ranged**  dart +27/+27/+22/+17/+12 (1d4+7)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, weapon training (double +4, thrown +3, close +2, hammers +1)  
 **Spell-Like Abilities** (CL 19th; concentration +20)  
-1/day—*dancing lights*, *ghost sound* (DC 11), *prestidigitation*, *speak with animals*
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 11), *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*
 
 **Tactics**
 
-**Before Combat** The fighter drinks his *potions of barkskin* and *bear’s endurance*, then activates his *ring of blinking* and *boots of speed*.  
+**Before Combat** The fighter drinks his *potions of barkskin* and *[bear’s endurance](../../magic/spells/bears-endurance.md)*, then activates his *ring of blinking* and *boots of speed*.  
 **During Combat** The fighter starts off with a Dazzling Display, then engages in melee, fighting less armored enemies first. He deals most of his attacks with the spear end of his weapon.  
 **Base Statistics** Without *barkskin*, *bear’s endurance*, *blink* from his *ring of blinking*, and *haste* from his *boots of speed*, the fighter’s statistics are **AC** 28, touch 17, flat-footed 24; **hp** 166; **Fort** +18, **Ref** +13; **Defensive Abilities** no *blink*; **Speed** 20 ft.; **Melee** *+2 dwarven urgrosh* +29/+24/+19/+14 (1d4+12/19–20/×3), *+2 dwarven urgrosh* +29 (1d6+12/19–20/×3) or *+2 dwarven urgrosh* (two-handed) +31/+26/+21/+16 (1d4+14/19–20/×3) or *+1 spiked armor* +27/+22/+17/+12 (1d4+8); **Ranged** dart +26/+21/+16/+11 (1d4+7); **Con** 16; **CMB** +22; **CMD** 38.
 

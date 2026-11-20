@@ -23,9 +23,9 @@ LG Large outsider (archon, extraplanar, good, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** transpose ally  
 **Spell-Like Abilities** (CL 9th; concentration +11)  
-Constant—*magic circle against evil*  
-At will—*aid*, *greater teleport* (self plus 50 lbs. of objects only), *message*  
-1/day—*disrupting weapon*, *divine power*, *shield other*
+Constant—*[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[message](../../magic/spells/message.md)*  
+1/day—*[disrupting weapon](../../magic/spells/disrupting-weapon.md)*, *[divine power](../../magic/spells/divine-power.md)*, *[shield other](../../magic/spells/shield-other.md)*
 
 **Statistics**
 

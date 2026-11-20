@@ -24,7 +24,7 @@ NE Huge magical beast (fire)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** burn (2d6 fire, DC 24), heat, rock throwing (120 ft.)  
 **Spell-Like Abilities** (CL 18th; concentration +18)  
-1/month—*earthquake*
+1/month—*[earthquake](../../magic/spells/earthquake.md)*
 
 **Statistics**
 

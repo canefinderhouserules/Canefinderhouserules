@@ -24,8 +24,8 @@ LN Medium humanoid
 **Spell-Like Abilities** (CL 1st; concentration +3)  
 5/day—rebuke death, touch of law  
 **Cleric Spells Prepared** (CL 1st; concentration +3)  
-1st—*bless*, *command* (DC 13), *cure light wounds*<sup>D</sup>  
-0 (at will)—*guidance*, *resistance*, *virtue*  
+1st—*[bless](../../magic/spells/bless.md)*, *[command](../../magic/spells/command.md)* (DC 13), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*<sup>D</sup>  
+0 (at will)—*[guidance](../../magic/spells/guidance.md)*, *[resistance](../../magic/spells/resistance.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **D** domain spell; **Domains** Healing, Law
 
 **Statistics**

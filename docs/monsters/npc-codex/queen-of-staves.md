@@ -21,10 +21,10 @@ N Medium humanoid (elf)
 **Speed** 30 ft.  
 **Melee** *+1 quarterstaff* +11/+6 (1d6+7)  
 **Abjurer Spells Prepared** (CL 6th; concentration +8)  
-3rd—*displacement*, *lightning bolt* (DC 15), *protection from energy*  
-2nd—*darkness*, *false life*, *mirror image* (2), *protection from arrows*  
-1st—*cause fear* (DC 13), *magic missile*, *shield* (2), *true strike*  
-0 (at will)—*ghost sound* (DC 12), *message*, *open/close*, *touch of fatigue* (DC 12)  
+3rd—*[displacement](../../magic/spells/displacement.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 15), *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd—*[darkness](../../magic/spells/darkness.md)*, *[false life](../../magic/spells/false-life.md)*, *[mirror image* ](../../magic/spells/mirror-image.md)(2), *[protection from arrows](../../magic/spells/protection-from-arrows.md)*  
+1st—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 13), *[magic missile](../../magic/spells/magic-missile.md)*, *[shield* ](../../magic/spells/shield.md)(2), *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 12), *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 12)  
 **Opposition Schools** conjuration, enchantment
 
 **Tactics**

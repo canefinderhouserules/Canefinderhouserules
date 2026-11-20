@@ -26,14 +26,14 @@ LN Medium humanoid (elf, human)
 At will—elemental wall (14 rounds/day)  
  9/day—*force missile* (1d4+7)  
 **Evoker Spells Prepared** (CL 14th; concentration +20)  
-7th—enlarged maximized *fireball* (DC 21), *prismatic spray*, *spell turning*  
-6th—*disintegrate* (DC 23), *greater dispel magic*, enlarged maximized *scorching ray* (2), enlarged *telekinesis* (DC 22)  
-5th—maximized *acid arrow*, enlarged *black tentacles*, maximized *scorching ray*, *teleport*, *wall of force*  
-4th—*arcane eye*, *dimension door*, *greater invisibility*, enlarged *lightning bolt* (DC 21), maximized *magic missile*, *shout* (DC 22)  
-3rd—*clairaudience/clairvoyance* (2), *dispel magic*, *fly*, *nondetection*, *wind wall*  
-2nd—*acid arrow*, *darkness*, *darkvision*, *glitterdust* (DC 18), *resist energy* (2), *see invisibility*  
-1st—*endure elements*, *expeditious retreat*, *mage armor*, *magic missile*, *shield*, *true strike* (2)  
-0 (at will)—*dancing lights*, *detect magic*, *mage hand*, *message*  
+7th—enlarged maximized *[fireball* ](../../magic/spells/fireball.md)(DC 21), *[prismatic spray](../../magic/spells/prismatic-spray.md)*, *[spell turning](../../magic/spells/spell-turning.md)*  
+6th—*[disintegrate* ](../../magic/spells/disintegrate.md)(DC 23), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, enlarged maximized *[scorching ray* ](../../magic/spells/scorching-ray.md)(2), enlarged *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 22)  
+5th—maximized *[acid arrow](../../magic/spells/acid-arrow.md)*, enlarged *[black tentacles](../../magic/spells/black-tentacles.md)*, maximized *[scorching ray](../../magic/spells/scorching-ray.md)*, *[teleport](../../magic/spells/teleport.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th—*[arcane eye](../../magic/spells/arcane-eye.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, enlarged *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 21), maximized *[magic missile](../../magic/spells/magic-missile.md)*, *[shout* ](../../magic/spells/shout.md)(DC 22)  
+3rd—*[clairaudience/clairvoyance* ](../../magic/spells/clairaudience-clairvoyance.md)(2), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[fly](../../magic/spells/fly.md)*, *[nondetection](../../magic/spells/nondetection.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[darkness](../../magic/spells/darkness.md)*, *[darkvision](../../magic/spells/darkvision.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 18), *[resist energy* ](../../magic/spells/resist-energy.md)(2), *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st—*[endure elements](../../magic/spells/endure-elements.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike* ](../../magic/spells/true-strike.md)(2)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*  
 **Opposition Schools** enchantment, necromancy
 
 **Tactics**

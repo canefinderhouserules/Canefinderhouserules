@@ -22,8 +22,8 @@ CN Medium aberration (aquatic)
 **Space** 5 ft., **Reach** 5 ft. (15 ft. with tentacle)  
 **Special Attacks** arcane echo, poison, pull (tentacle, 5 ft.), vitrify  
 **Spell-Like Abilities** (CL 4th; concentration +4)  
-Constant—*detect magic*  
-3/day—*delay poison*, *light*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+3/day—*[delay poison](../../magic/spells/delay-poison.md)*, *[light](../../magic/spells/light.md)*
 
 **Statistics**
 

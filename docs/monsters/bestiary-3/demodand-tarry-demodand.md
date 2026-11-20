@@ -21,9 +21,9 @@ CE Medium outsider (chaotic, demodand, evil, extraplanar)
 **Melee** mwk short sword +27/+22/+17/+12 (1d6+9/19–20), mwk short sword +27/+22/+17 (1d6+4/19–20), bite +22 (1d8+4)  
 **Special Attacks** adhesion, faith-stealing strike (DC 22)  
 **Spell-Like Abilities** (CL 13th; concentration +16)  
-Constant—*detect good*, *detect magic*  
-3/day—*dispel magic*  
-1/day—*chaos hammer* (DC 17), summon (level 4, 1d2 tarry demodands 40%)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+3/day—*[dispel magic](../../magic/spells/dispel-magic.md)*  
+1/day—*[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 17), summon (level 4, 1d2 tarry demodands 40%)
 
 **Statistics**
 

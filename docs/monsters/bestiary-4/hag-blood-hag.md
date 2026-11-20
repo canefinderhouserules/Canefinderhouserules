@@ -21,9 +21,9 @@ NE Medium monstrous humanoid (shapechanger)
 **Melee** bite +18 (2d4+4), 2 claws +18 (1d6+4 plus grab)  
 **Special Attacks** blood drain (1d2 Con), detonate  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-Constant—*detect good*, *detect magic*  
-At will—*inflict moderate wounds* (DC 16), *scorching ray*, *spider climb* (self only)  
-3/day—*deep slumber* (DC 17)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)* (DC 16), *[scorching ray](../../magic/spells/scorching-ray.md)*, *[spider climb](../../magic/spells/spider-climb.md)* (self only)  
+3/day—*[deep slumber](../../magic/spells/deep-slumber.md)* (DC 17)
 
 **Statistics**
 

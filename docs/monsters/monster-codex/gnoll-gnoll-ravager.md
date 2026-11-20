@@ -23,14 +23,14 @@ CE Medium humanoid (gnoll)
 **Melee** *+1 human-bane falchion* +19/+14/+9 (2d4+10/15–20)  
 **Special Attacks** channel negative energy (DC 16, 5d6), smite good 4/day (+1 attack and AC, +10 damage)  
 **Spell-Like Abilities** (CL 10th; concentration +11)  
-At will—*detect good*  
+At will—*[detect good](../../magic/spells/detect-good.md)*  
 **Antipaladin Spells Prepared** (CL 7th; concentration +8)  
-2nd—*bull’s strength*  
-1st—*doom* (DC 12), *litany of sloth*, *protection from good*
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*  
+1st—*[doom* ](../../magic/spells/doom.md)(DC 12), *[litany of sloth](../../magic/spells/litany-of-sloth.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*
 
 **Tactics**
 
-**Before Combat** The ravager casts *bull’s strength* on himself.  
+**Before Combat** The ravager casts *[bull’s strength](../../magic/spells/bulls-strength.md)* on himself.  
  **Base Statistics** Without *bull’s strength*, the ravager’s base statistics are Melee *+1 human-bane falchion* +17/+12/+7 (2d4+7/15–20); **Str** 19; **CMB** +15; **CMD** 25.
 
 **Statistics**

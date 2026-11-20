@@ -22,8 +22,8 @@ NG Tiny magical beast
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** luckbringer  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-Constant—*detect magic*  
-At will—*mage hand*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[mage hand](../../magic/spells/mage-hand.md)*
 
 **Statistics**
 

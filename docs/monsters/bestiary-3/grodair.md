@@ -21,7 +21,7 @@ CN Medium magical beast (aquatic, extraplanar)
 **Ranged**  water blast +7 touch (1d8 plus push)  
 **Special Attacks** death flood, push (water blast, 5 ft.)  
 **Spell-Like Abilities** (CL 7th; concentration +9)  
-At will—*control water*
+At will—*[control water](../../magic/spells/control-water.md)*
 
 **Statistics**
 

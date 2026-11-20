@@ -23,10 +23,10 @@ CE Huge outsider (chaotic, demon, evil, extraplanar, water)
 **Space** 15 ft., **Reach** 15 ft. (30 ft. with tentacle)  
 **Special Attacks** breath weapon, command aquatic creature, constrict (2d6+25), fast swallow, poison, swallow whole (transformation, AC 17, 67 hp)  
 **Spell-Like Abilities** (CL 28th; concentration +38)  
-Constant—*detect good*, *detect law*, *freedom of movement*, *speak with animals* (aquatic animals only), *true seeing*, *unholy aura* (DC 28)  
-At will—*astral projection*, *blasphemy** (DC 27), *control water*, *control weather**, *desecrate**, *greater dispel magic*, *greater teleport*, *shapechange*, *telekinesis** (DC 25), *unhallow*, *unholy blight** (DC 24)  
-3/day—quickened *greater dispel magic*, *insanity* (DC 27), summon demons, *symbol of insanity* (DC 28), *vortex* (DC 27)  
-1/day—*storm of vengeance** (DC 29), *time stop**, *tsunami** (DC 29)  
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[speak with animals* ](../../magic/spells/speak-with-animals.md)(aquatic animals only), *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura* ](../../magic/spells/unholy-aura.md)(DC 28)  
+At will—*[astral projection](../../magic/spells/astral-projection.md)*, *[blasphemy](../../magic/spells/blasphemy.md)** (DC 27), *[control water](../../magic/spells/control-water.md)*, *[control weather](../../magic/spells/control-weather.md)**, *[desecrate](../../magic/spells/desecrate.md)**, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[shapechange](../../magic/spells/shapechange.md)*, *[telekinesis](../../magic/spells/telekinesis.md)** (DC 25), *[unhallow](../../magic/spells/unhallow.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)** (DC 24)  
+3/day—quickened *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[insanity* ](../../magic/spells/insanity.md)(DC 27), summon demons, *[symbol of insanity* ](../../magic/spells/symbol-of-insanity.md)(DC 28), *[vortex](../../magic/spells/vortex.md)* (DC 27)  
+1/day—*[storm of vengeance](../../magic/spells/storm-of-vengeance.md)** (DC 29), *[time stop](../../magic/spells/time-stop.md)**, *[tsunami](../../magic/spells/tsunami.md)** (DC 29)  
 * Dagon can use the mythic version of this ability in his realm.
 
 **Statistics**

@@ -24,10 +24,10 @@ CE Colossal undead (aquatic, extraplanar, nightshade)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** channel energy (10d6, DC 33, 10/day), energy drain (2 levels, DC 31), swallow whole (5d10+28 bludgeoning plus energy drain, AC 25, 39 hp)  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*detect magic*, *magic fang*, *see invisibility*  
-At will—*confusion* (DC 21), *contagion* (DC 21), *deeper darkness*, *greater dispel magic*, *invisibility*, *unholy blight* (DC 21)  
-3/day—quickened *cone of cold* (DC 22), *finger of death* (DC 24), *haste*, *hold monster* (DC 22)  
-1/day—*mass hold monster* (DC 26), *plane shift* (DC 24), summon (level 9, 1 nightwing), *wail of the banshee* (DC 26)
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[magic fang](../../magic/spells/magic-fang.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[confusion* ](../../magic/spells/confusion.md)(DC 21), *[contagion* ](../../magic/spells/contagion.md)(DC 21), *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 21)  
+3/day—quickened *[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 22), *[finger of death* ](../../magic/spells/finger-of-death.md)(DC 24), *[haste](../../magic/spells/haste.md)*, *[hold monster* ](../../magic/spells/hold-monster.md)(DC 22)  
+1/day—*[mass hold monster* ](../../magic/spells/hold-monster-mass.md)(DC 26), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 24), summon (level 9, 1 nightwing), *[wail of the banshee* ](../../magic/spells/wail-of-the-banshee.md)(DC 26)
 
 **Statistics**
 

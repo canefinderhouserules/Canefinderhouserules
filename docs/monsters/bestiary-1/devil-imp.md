@@ -21,10 +21,10 @@ LE Tiny outsider (devil, evil, extraplanar, lawful)
 **Melee** sting +8 (1d4 plus poison)  
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 6th)  
-Constant—*detect good*, *detect magic*  
-At will—*invisibility* (self only)  
-1/day—*augury*, *suggestion* (DC 15)  
-1/week—*commune* (6 questions, CL 12th)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[invisibility* ](../../magic/spells/invisibility.md)(self only)  
+1/day—*[augury](../../magic/spells/augury.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 15)  
+1/week—*[commune* ](../../magic/spells/commune.md)(6 questions, CL 12th)
 
 **Statistics**
 

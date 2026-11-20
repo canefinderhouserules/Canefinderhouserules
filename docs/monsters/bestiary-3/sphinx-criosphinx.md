@@ -21,7 +21,7 @@ N Large magical beast
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** swooping charge (gore, 4d4+12)  
 **Spell-Like Abilities** (CL 10th; concentration +10)  
-Constant—*speak with animals*
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)*
 
 **Statistics**
 

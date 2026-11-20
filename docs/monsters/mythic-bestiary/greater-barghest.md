@@ -22,8 +22,8 @@ LE Large outsider (evil, extraplanar, lawful, mythic, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** burn (1d6, DC 18), goblin king, improved bite, mythic power (2/day, surge +1d6), vorpal bite  
 **Spell-Like Abilities** (CL 9th; concentration +13)  
-At will—*blink*, *invisibility sphere*, *levitate*, *misdirection*  
-1/day—*charm monster* (DC 18), *crushing despair* (DC 18), *dimension door*, *mass bull’s strength*, *mass enlarge*
+At will—*[blink](../../magic/spells/blink.md)*, *[invisibility sphere](../../magic/spells/invisibility-sphere.md)*, *[levitate](../../magic/spells/levitate.md)*, *[misdirection](../../magic/spells/misdirection.md)*  
+1/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 18), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 18), *[dimension door](../../magic/spells/dimension-door.md)*, *[mass bull’s strength](../../magic/spells/bulls-strength-mass.md)*, *[mass enlarge](../../magic/spells/enlarge-person-mass.md)*
 
 **Statistics**
 

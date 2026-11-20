@@ -22,10 +22,10 @@ N Medium humanoid
 **Ranged**  dagger +5 (1d4–1/19–20)  
 **Special Attacks** intense spells +3  
 **Wizard Spells Prepared** (CL 6th; concentration +9)  
-3rd—*dispel magic*, *fly*, *haste*, *fireball* (2) (DC 17)  
-2nd—*flaming sphere* (DC 16), *glitterdust* (DC 15), *mirror image*, *protection from arrows*, *scorching ray* (DC 16)  
-1st—*burning hands* (DC 15), *color spray* (DC 14), *expeditious retreat*, *mage armor* (already cast), *shocking grasp*  
-0 (at will)—*dancing lights*, *detect magic*, *light*, *message*  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fly](../../magic/spells/fly.md)*, *[haste](../../magic/spells/haste.md)*, *[fireball](../../magic/spells/fireball.md)* (2) (DC 17)  
+2nd—*[flaming sphere](../../magic/spells/flaming-sphere.md)* (DC 16), *[glitterdust](../../magic/spells/glitterdust.md)* (DC 15), *[mirror image](../../magic/spells/mirror-image.md)*, *[protection from arrows](../../magic/spells/protection-from-arrows.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)* (DC 16)  
+1st—*[burning hands](../../magic/spells/burning-hands.md)* (DC 15), *[color spray](../../magic/spells/color-spray.md)* (DC 14), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[mage armor](../../magic/spells/mage-armor.md)* (already cast), *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*  
 **Prohibited Schools** enchantment, necromancy
 
 **Statistics**

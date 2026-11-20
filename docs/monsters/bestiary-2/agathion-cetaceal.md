@@ -22,11 +22,11 @@ NG Medium outsider (agathion, aquatic, extraplanar, good)
 **Melee** *+1 shocking burst shortspear* +28/+23/+18/+13 (1d6+14 plus 1d6 electricity), tail slap +22 (1d6+4 plus push and stun)  
 **Special Attacks** shockwave, push (tail slap, 10 ft.)  
 **Spell-Like Abilities** (CL 15th; concentration +18)  
-Constant—*speak with animals*  
-At will—*detect thoughts* (DC 15), *light*, *lightning bolt* (DC 16), *hold monster* (DC 18), *message*, *greater teleport* (self plus 50 lbs. of objects only)  
-7/day—*break enchantment*, *cure serious wounds*, *neutralize poison*, *remove disease*  
-3/day—*cone of cold* (DC 18), *cure critical wounds*, *greater restoration*, *heal*  
-1/day—*awaken*, *summon monster VIII* (water elementals only)
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 15), *[light](../../magic/spells/light.md)*, *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 16), *[hold monster](../../magic/spells/hold-monster.md)* (DC 18), *[message](../../magic/spells/message.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
+7/day—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[remove disease](../../magic/spells/remove-disease.md)*  
+3/day—*[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 18), *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[greater restoration](../../magic/spells/restoration-greater.md)*, *[heal](../../magic/spells/heal.md)*  
+1/day—*[awaken](../../magic/spells/awaken.md)*, *[summon monster VIII](../../magic/spells/summon-monster-viii.md)* (water elementals only)
 
 **Statistics**
 

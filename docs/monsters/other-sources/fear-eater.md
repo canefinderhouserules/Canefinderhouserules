@@ -21,9 +21,9 @@ NE Medium fey
 **Melee** 2 claws +10 (1d6+2 plus anxiety spores)  
 **Special Attacks** anxiety spores, dread burst, fungal snare  
 **Spell-Like Abilities** (CL 5th, concentration +7)  
-At will—*cause fear* (DC 13), *dancing lights*  
-3/day—*faerie fire*, *paranoia* (DC 14)  
-1/day—*fear*, *feather fall*
+At will—*[cause fear](../../magic/spells/cause-fear.md)* (DC 13), *[dancing lights](../../magic/spells/dancing-lights.md)*  
+3/day—*[faerie fire](../../magic/spells/faerie-fire.md)*, *[paranoia](../../magic/spells/paranoia.md)* (DC 14)  
+1/day—*[fear](../../magic/spells/fear.md)*, *[feather fall](../../magic/spells/feather-fall.md)*
 
 **Statistics**
 

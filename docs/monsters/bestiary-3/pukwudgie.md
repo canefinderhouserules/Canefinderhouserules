@@ -22,10 +22,10 @@ NE Small monstrous humanoid (shapechanger)
 **Ranged**  2 quills +15 (1d4+2 plus poison)  
 **Special Attacks** sneak attack +3d6, spawn undead  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
-Constant—*deathwatch*, *detect good*, *detect magic*  
-At will—*command undead* (DC 16), *produce flame*  
-3/day—*animate dead*, *death knell* (DC 16), *invisibility*, *ray of enfeeblement* (DC 15), *scare* (DC 16)  
-1/day—*nondetection* (DC 17)
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[command undead* ](../../magic/spells/command-undead.md)(DC 16), *[produce flame](../../magic/spells/produce-flame.md)*  
+3/day—*[animate dead](../../magic/spells/animate-dead.md)*, *[death knell* ](../../magic/spells/death-knell.md)(DC 16), *[invisibility](../../magic/spells/invisibility.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 15), *[scare* ](../../magic/spells/scare.md)(DC 16)  
+1/day—*[nondetection* ](../../magic/spells/nondetection.md)(DC 17)
 
 **Statistics**
 

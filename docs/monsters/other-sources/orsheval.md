@@ -22,9 +22,9 @@ LN Medium outsider (extraplanar, lawful)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** glittering radiance  
 **Spell-Like Abilities** (CL 6th; concentration +6)  
-At will—*light*, *mage hand*  
-3/day—*ant haul*, *bless*, *expeditious retreat*  
-1/day—*dimension door* (self and rider only), *lesser restoration*, *zone of truth*
+At will—*[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*  
+3/day—*[ant haul](../../magic/spells/ant-haul.md)*, *[bless](../../magic/spells/bless.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*  
+1/day—*[dimension door* ](../../magic/spells/dimension-door.md)(self and rider only), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[zone of truth](../../magic/spells/zone-of-truth.md)*
 
 **Statistics**
 

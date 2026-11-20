@@ -23,7 +23,7 @@ N Small plant (leshy, shapechanger)
 **Ranged** acidic spittle +7 (1d4 acid and digest)  
 **Special Attacks** digest, sneak attack +1d6  
 **Spell-Like Abilities** (CL 10th; concentration +12)  
-Constant—*pass without trace* (CL 12th)
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)* (CL 12th)
 
 **Statistics**
 

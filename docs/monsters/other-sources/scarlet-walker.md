@@ -23,10 +23,10 @@ LE Huge outsider (evil, extraplanar, lawful)
 **Space** 15 ft., **Reach** 30 ft.  
 **Special Attacks** bleed (1d6), blood-draining gaze, paralysis (1d4 rounds, DC 23)  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-Constant—*air walk*, *detect thoughts*  
-At will—*sending*  
-3/day—*confusion* (DC 19), *demand* (DC 23), quickened *lesser confusion* (DC 16)  
-1/day—*feeblemind* (DC 20), *insanity* (DC 22), *true seeing*
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)*  
+At will—*[sending](../../magic/spells/sending.md)*  
+3/day—*[confusion](../../magic/spells/confusion.md)* (DC 19), *[demand* ](../../magic/spells/demand.md)(DC 23), quickened *[lesser confusion](../../magic/spells/confusion-lesser.md)* (DC 16)  
+1/day—*[feeblemind](../../magic/spells/feeblemind.md)* (DC 20), *[insanity* ](../../magic/spells/insanity.md)(DC 22), *[true seeing](../../magic/spells/true-seeing.md)*
 
 **Statistics**
 

@@ -23,7 +23,7 @@ LE Medium dragon (fire)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with bite and gore)  
 **Special Attacks** adamantine claws, breath weapon (60-ft. line, 6d6 fire damage, DC 17)  
 **Spell-Like Abilities** (CL 8th; concentration +9)  
-At will—*soften earth and stone*
+At will—*[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*
 
 **Statistics**
 

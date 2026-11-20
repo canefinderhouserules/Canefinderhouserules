@@ -22,9 +22,9 @@ LG Large outsider (angel, extraplanar, good, herald, lawful)
 **Melee** *+2 holy longsword* +23/+18/+13/+8 (2d6+9/19–20), *+2/+2 heavy steel shield* +27 (1d6+5 plus bull rush)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 18th; concentration +24)  
-At will—*aid*, *detect evil*, *dispel magic*, *lesser restoration*, *magic weapon*, *plane shift* (DC 23), *remove fear*  
-3/day—*bull’s strength*, *burst of glory*, *cure moderate wounds*, *flame strike* (DC 21), *holy smite* (DC 20), *mark of justice* (DC 21), *order’s wrath* (DC 20), *power word stun*, *prayer*, *raise dead*, *resist energy*, *see invisibility*  
-1/day—*blade barrier* (DC 22), *death ward*, *dispel evil* (DC 21), *greater magic weapon*, *greater restoration*, *heal*
+At will—*[aid](../../magic/spells/aid.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[magic weapon](../../magic/spells/magic-weapon.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(DC 23), *[remove fear](../../magic/spells/remove-fear.md)*  
+3/day—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[burst of glory](../../magic/spells/burst-of-glory.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(DC 21), *[holy smite* ](../../magic/spells/holy-smite.md)(DC 20), *[mark of justice* ](../../magic/spells/mark-of-justice.md)(DC 21), *[order’s wrath* ](../../magic/spells/orders-wrath.md)(DC 20), *[power word stun](../../magic/spells/power-word-stun.md)*, *[prayer](../../magic/spells/prayer.md)*, *[raise dead](../../magic/spells/raise-dead.md)*,[ *resist energy](../../magic/spells/resist-energy.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1/day—*[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 22), *[death ward](../../magic/spells/death-ward.md)*, *[dispel evil* ](../../magic/spells/dispel-evil.md)(DC 21), *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)*, *[greater restoration](../../magic/spells/restoration-greater.md)*, *[heal](../../magic/spells/heal.md)*
 
 **Statistics**
 

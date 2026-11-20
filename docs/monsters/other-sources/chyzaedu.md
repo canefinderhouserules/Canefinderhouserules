@@ -23,12 +23,12 @@ LE Gargantuan aberration
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** swallow whole (5d6 acid damage, AC 16, 13 hp)  
 **Cleric Spells Prepared** (CL 10th; concentration +15)  
-5th—*greater command* (DC 20), *mass inflict light wounds* (DC 20), *scrying* (DC 20)  
-4th—*air walk*, *cure critical wounds*, *dimensional anchor*, *sending*  
-3rd—*blindness/deafness* (DC 18), *deeper darkness*, *magic circle against good*, *prayer*  
-2nd—*enthrall* (DC 17), *shatter* (DC 17), *silence* (DC 17), *sound burst* (DC 17), *spiritual weapon*  
-1st—*cause fear* (DC 16), *command* (DC 16), *cure light wounds*, *divine favor*, *sanctuary* (DC 16), *shield of faith*  
-0—*bleed*, *create water*, *detect magic*, *resistance*
+5th—*[greater command](../../magic/spells/command-greater.md)* (DC 20), *[mass inflict light wounds](../../magic/spells/inflict-light-wounds-mass.md)* (DC 20), *[scrying](../../magic/spells/scrying.md)* (DC 20)  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[sending](../../magic/spells/sending.md)*  
+3rd—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 18), *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*, *[prayer](../../magic/spells/prayer.md)*  
+2nd—*[enthrall](../../magic/spells/enthrall.md)* (DC 17), *[shatter](../../magic/spells/shatter.md)* (DC 17), *[silence](../../magic/spells/silence.md)* (DC 17), *[sound burst](../../magic/spells/sound-burst.md)* (DC 17), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[cause fear](../../magic/spells/cause-fear.md)* (DC 16), *[command](../../magic/spells/command.md)* (DC 16), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 16), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0—*[bleed](../../magic/spells/bleed.md)*, *[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

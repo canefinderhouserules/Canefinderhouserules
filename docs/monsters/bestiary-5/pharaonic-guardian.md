@@ -22,9 +22,9 @@ LE Large undead (incorporeal)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** insightful strike, judging gaze, soul-rending wings  
 **Spell-Like Abilities** (CL 15th; concentration +20)  
-3/day—*suggestion* (DC 18)  
+3/day—*[suggestion](../../magic/spells/suggestion.md)* (DC 18)  
 
-1/day—*greater command* (DC 20)
+1/day—*[greater command](../../magic/spells/command-greater.md)* (DC 20)
 
 **Statistics**
 

@@ -24,11 +24,11 @@ LE Medium construct (augmented humanoid)
 **Space** 5 ft., **Reach** 10 ft.  
 **Special Attacks** aurokinesis (kinetic blast—earth blast [5d6+10], metal blast [10d6+15]; burn [3 points/round, maximum 8]; infusions—impale, kinetic blade, magnetic infusion, rare-metal infusion; kinetic blast; gather power), bold stare (disorientation, timidity), greedy grab (1,000 gp), hypnotic stare (–3), manifold tricks (3), mental potency (+2), mesmerist tricks 10/day (astounding avoidance, compel alacrity, false flanker, levitation buffer, mesmeric mirror, spectral smoke), painful stare (+7 or +4d6+7)  
 **Mesmerist Spells Known** (CL 10th; concentration +15)  
-4th (2/day)—*enervation*, *hold monster* (DC 19)  
-3rd (4/day)—*bestow curse* (DC 18), *confusion* (DC 18), *dispel magic*, *ray of exhaustion* (DC 18)  
-2nd (5/day)—*blindness/deafness* (DC 17), *detect thoughts* (DC 17), *false life*, *glitterdust* (DC 17), *mirror image*  
-1st (7/day)—*beguiling gift* (DC 16), *comprehend languages*, *ill omen*, *ray of enfeeblement* (DC 16), *vanish* (DC 16)  
-0 (at will)—*detect magic*, *detect psychic significance*, *ghost sound* (DC 15), *mage hand*, *open/close* (DC 15), *prestidigitation*
+4th (2/day)—*[enervation](../../magic/spells/enervation.md)*, *[hold monster](../../magic/spells/hold-monster.md)* (DC 19)  
+3rd (4/day)—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *[confusion](../../magic/spells/confusion.md)* (DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[ray of exhaustion](../../magic/spells/ray-of-exhaustion.md)* (DC 18)  
+2nd (5/day)—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 17), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[false life](../../magic/spells/false-life.md)*, *[glitterdust](../../magic/spells/glitterdust.md)* (DC 17), *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (7/day)—*[beguiling gift](../../magic/spells/beguiling-gift.md)* (DC 16), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[ill omen](../../magic/spells/ill-omen.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 16), *[vanish](../../magic/spells/vanish.md)* (DC 16)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect psychic significance](../../magic/spells/detect-psychic-significance.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)* (DC 15), *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

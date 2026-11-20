@@ -22,9 +22,9 @@ NE Tiny ooze
 **Melee** 2 tentacles +13 touch (1d6 electricity plus neural pulse)  
 **Space** 2-1/2 feet, **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
-Constant—*detect thoughts*, *mage armor*  
-At will—*charm monster* (DC 18), *dominate animal* (DC 17), *dominate person* (DC 19)  
-3/day—*dispel magic*, *modify memory* (DC 18)
+Constant—*[detect thoughts](../../magic/spells/detect-thoughts.md)*, *[mage armor](../../magic/spells/mage-armor.md)*  
+At will—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 18), *[dominate animal* ](../../magic/spells/dominate-animal.md)(DC 17), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 19)  
+3/day—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[modify memory* ](../../magic/spells/modify-memory.md)(DC 18)
 
 **Statistics**
 

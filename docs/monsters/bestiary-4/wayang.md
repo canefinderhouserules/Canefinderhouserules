@@ -21,12 +21,12 @@ CN Small humanoid (wayang)
 **Melee** dagger +0 (1d3–1/19–20)  
 **Ranged**  blowgun +4 (1)  
 **Spell-Like Abilities** (CL 1st; concentration +2)  
-1/day—*ghost sound* (DC 11), *pass without trace*, *ventriloquism* (DC 12)  
+1/day—*[ghost sound](../../magic/spells/ghost-sound.md)* (DC 11), *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 12)  
 **Arcane School Spell-Like Abilities** (CL 1st; concentration +4)  
 6/day—blinding ray  
 **Illusionist Spells Prepared** (CL 1st; concentration +4)  
-1st—*hypnotism* (DC 14), *silent image* (DC 14), *vanish*  
-0 (at will)—*detect magic*, *ghost sound* (DC 13), *read magic*  
+1st—*[hypnotism](../../magic/spells/hypnotism.md)* (DC 14), *[silent image](../../magic/spells/silent-image.md)* (DC 14), *[vanish](../../magic/spells/vanish.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 13), *[read magic](../../magic/spells/read-magic.md)*  
 **Opposition Schools** necromancy, transmutation
 
 **Statistics**

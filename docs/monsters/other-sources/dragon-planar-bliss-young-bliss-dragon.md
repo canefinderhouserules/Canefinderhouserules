@@ -22,8 +22,8 @@ NG Large dragon (extraplanar, good)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (80-ft. line, 6d10 electricity, DC 22), subduing strikes  
 **Oracle Spells Known** (CL 1st; concentration +6)  
-1st (5/day)—*remove fear*, *sanctuary* (DC 16)  
-0 (at will)—*detect magic*, *detect poison*, *guidance*, *light*
+1st (5/day)—*[remove fear](../../magic/spells/remove-fear.md)*, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 16)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*
 
 **Statistics**
 

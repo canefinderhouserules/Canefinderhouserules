@@ -22,10 +22,10 @@ CG Colossal outsider (chaotic, extraplanar, good)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** trample (2d8+25, DC 37)  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*air walk*, *mind blank*, *true seeing*  
-At will—*bestow curse* (DC 21), *break enchantment*, *divination*, *greater dispel magic*, *sending*  
-3/day—*greater scrying* (DC 24), *heal*, *mass suggestion* (DC 23)  
-1/day—*freedom*, *greater planar ally*, *meteor swarm* (DC 26)
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[mind blank](../../magic/spells/mind-blank.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 21), *[break enchantment](../../magic/spells/break-enchantment.md)*, *[divination](../../magic/spells/divination.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[sending](../../magic/spells/sending.md)*  
+3/day—*[greater scrying* ](../../magic/spells/scrying-greater.md)(DC 24), *[heal](../../magic/spells/heal.md)*, *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 23)  
+1/day—*[freedom](../../magic/spells/freedom.md)*, *[greater planar ally](../../magic/spells/planar-ally-greater.md)*, *[meteor swarm* ](../../magic/spells/meteor-swarm.md)(DC 26)
 
 **Statistics**
 

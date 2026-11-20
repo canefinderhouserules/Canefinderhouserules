@@ -21,9 +21,9 @@ N Small outsider (aeon, extraplanar)
 **Speed** fly 40 ft. (good)  
 **Melee** slam +3 (1d3–1 plus 1d6 electricity)  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-At will—*sanctuary* (DC 12)  
-3/day—*calm emotions* (DC 13)  
-1/week—*commune* (6 questions, CL 12th)
+At will—*[sanctuary](../../magic/spells/sanctuary.md)* (DC 12)  
+3/day—*[calm emotions](../../magic/spells/calm-emotions.md)* (DC 13)  
+1/week—*[commune](../../magic/spells/commune.md)* (6 questions, CL 12th)
 
 **Statistics**
 

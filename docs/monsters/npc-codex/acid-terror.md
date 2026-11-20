@@ -22,13 +22,13 @@ LE Medium humanoid (human)
 **Melee** 2 claws +10 (1d6+3 plus 1d6 acid), bite +10 (1d6+4) or quarterstaff +10/+5 (1d6+3)  
 **Special Attacks** breath weapon (30-foot cone, 13d6 acid, DC 22, 2/day), claws (2, 1d6+3 plus 1d6 acid, magic, 9 rounds/day), dragon bite  
 **Sorcerer Spells Known** (CL 12th; concentration +18)  
-6th (4/day)—*acid fog*, *form of the dragon I*  
-5th (6/day)—*cloudkill* (DC 23), *feeblemind* (DC 22), *spell resistance*  
-4th (7/day)—*black tentacles*, *confusion* (DC 21), *dimension door*, *fear* (DC 20)  
-3rd (7/day)—*displacement*, *fly*, *hold person* (DC 20), *stinking cloud* (DC 21), *suggestion* (DC 20)  
-2nd (8/day)—*acid arrow*, *glitterdust* (DC 20), *hideous laughter* (DC 19), *invisibility*, *resist energy*, *web* (DC 20)  
-1st (8/day)—*charm person* (DC 18), *color spray* (DC 17), *mage armor*, *magic missile*, *reduce person* (DC 17), *silent image* (DC 17)  
-0 (at will)—*acid splash*, *dancing lights*, *daze* (DC 17), *detect magic*, *mage hand*, *message*, *open/close*, *ray of frost*, *read magic*  
+6th (4/day)—*[acid fog](../../magic/spells/acid-fog.md)*, *[form of the dragon I](../../magic/spells/form-of-the-dragon-i.md)*  
+5th (6/day)—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 23), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 22), *[spell resistance](../../magic/spells/spell-resistance.md)*  
+4th (7/day)—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[confusion* ](../../magic/spells/confusion.md)(DC 21), *[dimension door](../../magic/spells/dimension-door.md)*, *[fear* ](../../magic/spells/fear.md)(DC 20)  
+3rd (7/day)—*[displacement](../../magic/spells/displacement.md)*, *[fly](../../magic/spells/fly.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 20), *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 21), *[suggestion* ](../../magic/spells/suggestion.md)(DC 20)  
+2nd (8/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 20), *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 19), *[invisibility](../../magic/spells/invisibility.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[web* ](../../magic/spells/web.md)(DC 20)  
+1st (8/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 18), *[color spray* ](../../magic/spells/color-spray.md)(DC 17), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[reduce person* ](../../magic/spells/reduce-person.md)(DC 17), *[silent image* ](../../magic/spells/silent-image.md)(DC 17)  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 17), *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** draconic (green)
 
 **Tactics**

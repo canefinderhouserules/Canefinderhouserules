@@ -24,9 +24,9 @@ NE Medium humanoid
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
 6/day—rebuke death (1d4+1), touch of evil (1 round)  
 **Cleric Spells Prepared** (CL 3rd; concentration +5)  
-2nd—*cure moderate wounds*<sup>D</sup>, *death knell* (DC 14), *hold person* (DC 14)  
-1st—*bane* (DC 13), *cause fear* (DC 13), *cure light wounds*<sup>D</sup>, *doom* (DC 13)  
-0 (at will)—*bleed* (DC 12), *guidance*, *light*, *resistance*  
+2nd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*<sup>D</sup>, *[death knell](../../magic/spells/death-knell.md)* (DC 14), *[hold person](../../magic/spells/hold-person.md)* (DC 14)  
+1st—*[bane](../../magic/spells/bane.md)* (DC 13), *[cause fear](../../magic/spells/cause-fear.md)* (DC 13), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*<sup>D</sup>, *[doom](../../magic/spells/doom.md)* (DC 13)  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 12), *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** domain spell; **Domains** Evil, Healing
 
 **Statistics**

@@ -23,8 +23,8 @@ energy drain, fear, negative energy
 **Melee** bite +12 (1d8+4 plus disease), 2 claws +12 (1d6+4)  
 **Special Attacks** create undead  
 **Spell-Like Abilities** (CL 6th; concentration +10)  
-At will—*command undead* (DC 16), *ghost sound* (DC 14), *mage hand, open/close*  
-3/day—*charm person* (DC 15), *halt undead* (DC 17), *telekinesis* (DC 19)
+At will—*[command undead](../../magic/spells/command-undead.md)* (DC 16), *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 14), *mage hand, open/close*  
+3/day—*[charm person](../../magic/spells/charm-person.md)* (DC 15), *[halt undead](../../magic/spells/halt-undead.md)* (DC 17), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 19)
 
 **Statistics**
 

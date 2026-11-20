@@ -23,12 +23,12 @@ NE Huge aberration
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** breath weapon (80-ft. line, 12d6 force damage plus magical disruption, Reflex DC 23 for half, usable every 1d4 rounds)  
 **Sorcerer Spells Known** (CL 11th; concentration +14)  
-5th (4)—*commune with nature*, *telekinesis*  
-4th (6)—*bestow curse* (DC 17), *cure serious wounds*, *illusory wall* (DC 17)  
-3rd (7)—*aversion* (DC 16), *dispel magic*, *greater magic fang*, *snare*  
-2nd (7)—*barkskin*, *false life*, *resist energy*, *scare* (DC 15), *web* (DC 15)  
-1st (7)—*cure light wounds*, *magic missile*, *obscuring mist*, *pass without trace*, *true strike*  
-0 (at will)—*bleed* (DC 13), *detect magic*, *ghost sound* (DC 13), *guidance*, *mage hand*, *open/close*, *read magic*, *resistance*, *virtue*
+5th (4)—*[commune with nature](../../magic/spells/commune-with-nature.md)*, *[telekinesis](../../magic/spells/telekinesis.md)*  
+4th (6)—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 17), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[illusory wall](../../magic/spells/illusory-wall.md)* (DC 17)  
+3rd (7)—*[aversion* ](../../magic/spells/aversion.md)(DC 16), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[greater magic fang](../../magic/spells/magic-fang-greater.md)*, *[snare](../../magic/spells/snare.md)*  
+2nd (7)—*[barkskin](../../magic/spells/barkskin.md)*, *[false life](../../magic/spells/false-life.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[scare* ](../../magic/spells/scare.md)(DC 15), *[web* ](../../magic/spells/web.md)(DC 15)  
+1st (7)—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[guidance](../../magic/spells/guidance.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[virtue](../../magic/spells/virtue.md)*
 
 **Statistics**
 

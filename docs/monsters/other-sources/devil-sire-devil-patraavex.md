@@ -21,10 +21,10 @@ LE Medium outsider (devil, evil, extraplanar, lawful, shapechanger)
 **Melee** *+1 heavy flail* +16/+11 (1d10+11/19–20) or 2 claws +15 (1d4+7/19–20)  
 **Special Attacks** rend (2 claws, 1d4+10)  
 **Spell-Like Abilities** (CL 8th; concentration +12)  
-Constant—*see invisibility*  
-At will—*detect thoughts* (DC 16), *greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*protection from good*  
-1/day—*greater magic fang*, summon (level 3, 1 bearded devil 50%)
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
+3/day—*[protection from good](../../magic/spells/protection-from-good.md)*  
+1/day—*[greater magic fang](../../magic/spells/magic-fang-greater.md)*, summon (level 3, 1 bearded devil 50%)
 
 **Statistics**
 

@@ -21,10 +21,10 @@ NE Medium outsider (daemon, evil, extraplanar)
 **Melee** *+1 light mace* +15/+10 (1d6+4/19–20), 2 claws +8 (1d6+1)  
 **Special Attacks** final verdict  
 **Spell-Like Abilities** (CL 10th; concentration +12)  
-Constant—*detect thoughts* (DC 13)  
-At will—*erase*, *identify*, *secret page*  
-3/day—*acid arrow*, *dispel magic*, *greater teleport*, *slow* (DC 14)  
-1/day—*corrosive consumption* *lesser geas* (DC 16), *misdirection*, *modify memory* (DC 16)
+Constant—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 13)  
+At will—*[erase](../../magic/spells/erase.md)*, *[identify](../../magic/spells/identify.md)*, *[secret page](../../magic/spells/secret-page.md)*  
+3/day—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[slow](../../magic/spells/slow.md)* (DC 14)  
+1/day—*[corrosive consumption](../../magic/spells/corrosive-consumption.md)* *[lesser geas](../../magic/spells/geas-lesser.md)* (DC 16), *[misdirection](../../magic/spells/misdirection.md)*, *[modify memory](../../magic/spells/modify-memory.md)* (DC 16)
 
 **Statistics**
 

@@ -24,16 +24,16 @@ NE Huge humanoid (giant)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** rock throwing (140 ft.)  
 **Spell-Like Abilities** (CL 16th; concentration +22)  
-At will—*levitate* (self plus 2,000 lbs.), *obscuring mist*  
+At will—*[levitate* ](../../magic/spells/levitate.md)(self plus 2,000 lbs.), *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
 1/day—fog cloud  
 **Oracle Spells Known** (CL 12th; concentration +18)  
-6th (4/day)—*mass inflict moderate wounds*, *sirocco*, *wind walk*  
-5th (6/day)—*breath of life*, *control winds*, *greater command*, *mass inflict light wounds*  
-4th (7/day)—*air walk*, *death ward*, *discern lies*, *inflict critical wounds*, *river of wind**  
-3rd (7/day)—*cloak of winds**, *dispel magic*, *guiding star**, *inflict serious wounds*, *magic vestment*, *wind wall*  
-2nd (8/day)—*darkness*, *gust of wind*, *inflict moderate wounds*, *oracle’s burden** (DC 18), *share language**, *shatter*, *silence*  
-1st (8/day)—*alter winds*, *bane*, *comprehend languages*, *divine favor*, *endure elements*, *inflict light wounds*, *shield of faith*  
-0 (at will)—*bleed*, *create water*, *detect magic*, *detect poison*, *guidance*, *light*, *mending*, *purify food and drink*, *read magic*  
+6th (4/day)—*[mass inflict moderate wounds](../../magic/spells/inflict-moderate-wounds-mass.md)*, *[sirocco](../../magic/spells/sirocco.md)*, *[wind walk](../../magic/spells/wind-walk.md)*  
+5th (6/day)—*[breath of life](../../magic/spells/breath-of-life.md)*, *[control winds](../../magic/spells/control-winds.md)*, *[greater command](../../magic/spells/command-greater.md)*, *[mass inflict light wounds](../../magic/spells/inflict-light-wounds-mass.md)*  
+4th (7/day)—*[air walk](../../magic/spells/air-walk.md)*, *[death ward](../../magic/spells/death-ward.md)*, *[discern lies](../../magic/spells/discern-lies.md)*,[ *inflict critical wounds](../../magic/spells/inflict-critical-wounds.md)*, *[river of wind](../../magic/spells/river-of-wind.md)**  
+3rd (7/day)—*[cloak of winds](../../magic/spells/cloak-of-winds.md)**, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[guiding star](../../magic/spells/guiding-star.md)**, *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd (8/day)—*[darkness](../../magic/spells/darkness.md)*, *[gust of wind](../../magic/spells/gust-of-wind.md)*, *[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)*, *[oracle’s burden](../../magic/spells/oracles-burden.md)** (DC 18), *[share language](../../magic/spells/share-language.md)**, *[shatter](../../magic/spells/shatter.md)*, *[silence](../../magic/spells/silence.md)*  
+1st (8/day)—*[alter winds](../../magic/spells/alter-winds.md)*, *[bane](../../magic/spells/bane.md)*, *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[inflict light wounds](../../magic/spells/inflict-light-wounds.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)*, *[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Mystery** wind  
 * See the *Advanced Player’s Guide*.
 

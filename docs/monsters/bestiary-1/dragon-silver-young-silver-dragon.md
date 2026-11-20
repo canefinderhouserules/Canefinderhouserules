@@ -23,10 +23,10 @@ LG Large dragon (cold)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, DC 18, 6d8 cold), paralyzing breath  
 **Spell-Like Abilities** (CL 11th)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Spells Known** (CL 1st)  
-1st (4/day)—*alarm*, *true strike*  
-0 (at will)—*detect magic*, *light*, *message*, *read magic*
+1st (4/day)—*[alarm](../../magic/spells/alarm.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

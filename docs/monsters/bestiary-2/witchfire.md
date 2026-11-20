@@ -21,7 +21,7 @@ CE Medium undead (incorporeal)
 **Melee** incorporeal touch +13 (8d6 fire plus witchflame)  
 **Ranged**  witchflame bolt +13 (8d6 fire plus witchflame)  
 **Spell-Like Abilities** (CL 9th; concentration +16)  
-At will—*dancing lights*, *disguise self*, *ghost sound* (DC 17), *invisibility*, *pyrotechnics* (DC 19), *ray of enfeeblement* (DC 18)  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 19), *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 18)  
 1/day—summon (level 4, 2 will-o’-wisps 50%)
 
 **Statistics**

@@ -22,16 +22,16 @@ LG Small humanoid (gnome)
 **Melee** *+1 warhammer* +14/+9 (1d6+5/×3)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, smite evil (+3 attack and AC, +2 damage)  
 **Spell-Like Abilities** (CL 13th; concentration +16)  
-1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Paladin Spell-Like Abilities** (CL 2nd; concentration +5)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Sorcerer Spells Known** (CL 10th; concentration +13; arcane spell failure 15%)  
-5th (3/day)—*wall of force*  
-4th (5/day)—*dimension door*, *resilient sphere* (DC 17), *stoneskin*  
-3rd (7/day)—*dispel magic*, *displacement*, *fly*, *heroism*  
-2nd (7/day)—*darkvision*, *invisibility*, *scorching ray*, *see invisibility*, *web* (DC 15)  
-1st (7/day)—*comprehend languages*, *enlarge person*, *identify*, *magic missile*, *shield*, *true strike*  
-0 (at will)—*arcane mark*, *dancing lights*, *detect magic*, *disrupt undead*, *mending*, *prestidigitation*, *ray of frost*, *read magic*, *resistance*  
+5th (3/day)—*[wall of force](../../magic/spells/wall-of-force.md)*  
+4th (5/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[resilient sphere* ](../../magic/spells/resilient-sphere.md)(DC 17), *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[displacement](../../magic/spells/displacement.md)*, *[fly](../../magic/spells/fly.md)*, *[heroism](../../magic/spells/heroism.md)*  
+2nd (7/day)—*[darkvision](../../magic/spells/darkvision.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[web* ](../../magic/spells/web.md)(DC 15)  
+1st (7/day)—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[enlarge person](../../magic/spells/enlarge-person.md)*, *[identify](../../magic/spells/identify.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[mending](../../magic/spells/mending.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **Bloodline** arcane
 
 **Tactics**

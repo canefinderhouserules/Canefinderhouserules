@@ -21,11 +21,11 @@ LE Medium outsider (devil, evil, extraplanar, lawful)
 **Melee** 2 claws +11 (1d6+4), proboscis +10 touch (memory siphon)  
 **Special Attacks** memory siphon  
 **Spell-Like Abilities** (CL 6th; concentration +9)  
-Constant—*detect magic*, *detect thoughts*  
-At will—*greater teleport*, *suggestion* (DC 15)  
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)*  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 15)  
 1/day—summon (level 3, 1 bearded devil or 6 lemures 50%)  
 **Psychic Magic** (CL 6th; concentration +9)  
-16 PE—*aversion* (2 PE, DC 15), *calm emotions* (2 PE, DC 15), *confusion* (4 PE, DC 17), *deja vu* (1 PE), *invisibility* (2 PE)
+16 PE—*[aversion](../../magic/spells/aversion.md)* (2 PE, DC 15), *[calm emotions](../../magic/spells/calm-emotions.md)* (2 PE, DC 15), *[confusion](../../magic/spells/confusion.md)* (4 PE, DC 17), *[deja vu](../../magic/spells/deja-vu.md)* (1 PE), *[invisibility](../../magic/spells/invisibility.md)* (2 PE)
 
 **Statistics**
 

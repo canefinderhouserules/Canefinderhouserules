@@ -23,9 +23,9 @@ Unique gutaki (variant devilfish)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** savage bite (+20 melee, 4d8+11/18–20 plus poison), unholy blood  
 **Spell-Like Abilities** (CL 15th; concentration +20)  
-At will—*disfiguring touch* (DC 17)  
-3/day—*bestow curse* (DC 18), *freedom of movement*, *protection from energy*  
-1/day—*dominate monster* (DC 24), *rage*
+At will—*[disfiguring touch](../../magic/spells/disfiguring-touch.md)* (DC 17)  
+3/day—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+1/day—*[dominate monster](../../magic/spells/dominate-monster.md)* (DC 24), *[rage](../../magic/spells/rage.md)*
 
 **Statistics**
 

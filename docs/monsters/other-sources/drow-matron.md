@@ -23,22 +23,22 @@ CE Medium humanoid (elf)
 **Ranged**  mwk hand crossbow +17 (1d4/19–20 plus poison)  
 **Special Attacks** channel negative energy 6/day (DC 20, 8d6)  
 **Spell-Like Abilities** (CL 15th)  
-Constant—*detect magic*  
-At will—*dancing lights*, *deeper darkness*, *faerie fire*, *feather fall*, *levitate*  
-1/day—*divine favor*, *dispel magic*, *suggestion* (DC 16)  
+Constant—*[detect magic* ](../../magic/spells/detect-magic.md)  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[levitate](../../magic/spells/levitate.md)*  
+1/day—*[divine favor](../../magic/spells/divine-favor.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 16)  
 **Domain Spell-Like Abilities** (CL 15th; concentration +21)  
 At will—charming smile (15 rounds, DC 17)  
 9/day—dazing touch, touch of darkness (7 rounds)  
 **Cleric Spells Prepared** (CL 15th; concentration +21)  
-8th—*demand*<sup>D</sup> (DC 24), *summon monster VIII*  
-7th—*destruction* (DC 23), *power word blind*<sup>D</sup>, *word of chaos*  
-6th—*blade barrier* (DC 22), *greater dispel magic*, *harm* (DC 22), *heal*, *shadow walk* (DC 22)<sup>D</sup>  
-5th—*break enchantment*, *breath of life*, *charm monster*<sup>D</sup> (DC 21), *dispel good*, *flame strike* (DC 21), *slay living* (DC 21)  
-4th—*air walk*, *cure critical wounds* (2), *freedom of movement*, *heroism*<sup>D</sup>, *neutralize poison*  
-3rd—*bestow curse* (2, DC 19), *prayer*, *protection from energy*, *stone shape*, *suggestion* (DC 19)<sup>D</sup>  
-2nd—*align weapon*, *bear’s endurance*, *blindness/deafness*<sup>D</sup> (DC 18, only to cause blindness), *death knell* (DC 18), *hold person* (DC 18), *silence* (2, DC 18)  
-1st—*bless*, *charm person*<sup>D</sup> (DC 17), *command* (2, DC 17), *detect good*, *shield of faith* (2)  
-0 (at will)—*bleed* (DC 16), *read magic*, *resistance*, *virtue*  
+8th—*[demand](../../magic/spells/demand.md)*<sup>D</sup> (DC 24), *[summon monster VIII](../../magic/spells/summon-monster-viii.md)*  
+7th—*[destruction* ](../../magic/spells/destruction.md)(DC 23), *[power word blind](../../magic/spells/power-word-blind.md)*<sup>D</sup>, *[word of chaos](../../magic/spells/word-of-chaos.md)*  
+6th—*[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 22), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[harm* ](../../magic/spells/harm.md)(DC 22), *[heal](../../magic/spells/heal.md)*, *[shadow walk* ](../../magic/spells/shadow-walk.md)(DC 22)<sup>D</sup>  
+5th—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[breath of life](../../magic/spells/breath-of-life.md)*, *[charm monster](../../magic/spells/charm-monster.md)*<sup>D</sup> (DC 21), *[dispel good](../../magic/spells/dispel-good.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(DC 21), *[slay living* ](../../magic/spells/slay-living.md)(DC 21)  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[cure critical wounds* ](../../magic/spells/cure-critical-wounds.md)(2), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[heroism](../../magic/spells/heroism.md)*<sup>D</sup>, *[neutralize poison](../../magic/spells/neutralize-poison.md)*  
+3rd—*[bestow curse* ](../../magic/spells/bestow-curse.md)(2, DC 19), *[prayer](../../magic/spells/prayer.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[stone shape](../../magic/spells/stone-shape.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 19)<sup>D</sup>  
+2nd—*[align weapon](../../magic/spells/align-weapon.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[blindness/deafness](../../magic/spells/blindness-deafness.md)*<sup>D</sup> (DC 18, only to cause blindness), *[death knell* ](../../magic/spells/death-knell.md)(DC 18), *[hold person* ](../../magic/spells/hold-person.md)(DC 18), *[silence* ](../../magic/spells/silence.md)(2, DC 18)  
+1st—*[bless](../../magic/spells/bless.md)*, *[charm person](../../magic/spells/charm-person.md)*<sup>D</sup> (DC 17), *[command* ](../../magic/spells/command.md)(2, DC 17), *[detect good](../../magic/spells/detect-good.md)*, *[shield of faith* ](../../magic/spells/shield-of-faith.md)(2)  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 16), *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **D** domain spell; **Domains** Charm, Darkness
 
 **Statistics**

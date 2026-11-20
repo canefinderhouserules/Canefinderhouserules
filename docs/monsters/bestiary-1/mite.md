@@ -23,8 +23,8 @@ LE Small fey
 **Ranged**  dart +2 (1d3–1)  
 **Special Attacks** hatred  
 **Spell-Like Abilities** (CL 1st)  
-At will—*prestidigitation*  
-1/day—*doom* (DC 10)
+At will—*[prestidigitation](../../magic/spells/prestidigitation.md)*  
+1/day—*[doom* ](../../magic/spells/doom.md)(DC 10)
 
 **Statistics**
 

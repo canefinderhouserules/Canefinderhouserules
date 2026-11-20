@@ -20,9 +20,9 @@ NE Medium outsider (div, evil, extraplanar, shapechanger)
 **Speed** 30 ft., fly 50 ft. (good)  
 **Melee** 2 claws +14 (1d6+3 plus disease)  
 **Spell-Like Abilities** (CL 12th; concentration +19)  
-Constant—*detect good*, *detect magic*  
-At will—*charm monster* (DC 21), *dimension door* (self plus 50 lbs. of objects only), *misdirection* (DC 19)  
-1/day—*insect plague*, summon (level 3, 1d4 dorus 50%)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 21), *[dimension door* ](../../magic/spells/dimension-door.md)(self plus 50 lbs. of objects only), *[misdirection* ](../../magic/spells/misdirection.md)(DC 19)  
+1/day—*[insect plague](../../magic/spells/insect-plague.md)*, summon (level 3, 1d4 dorus 50%)
 
 **Statistics**
 

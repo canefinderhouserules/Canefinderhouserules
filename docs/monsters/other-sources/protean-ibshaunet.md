@@ -24,9 +24,9 @@ swim 30 ft.
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** constrict (1d8+12), fast swallow, swallow whole (2d8 acid damage plus warpwave, AC 16, hp 14), warpwave breath (50-ft. cone, 10d6 acid damage plus warpwave, Reflex DC 22 half)  
 **Spell-Like Abilities** (CL 9th; concentration +12)  
-Constant—*detect law*  
- At will—*dimension door* (self plus 50 lbs. of objects only)  
- 1/day—*plane shift* (DC 20), *resilient sphere* (DC 19)
+Constant—*[detect law](../../magic/spells/detect-law.md)*  
+ At will—*[dimension door](../../magic/spells/dimension-door.md)* (self plus 50 lbs. of objects only)  
+ 1/day—*[plane shift](../../magic/spells/plane-shift.md)* (DC 20), *[resilient sphere](../../magic/spells/resilient-sphere.md)* (DC 19)
 
 **Statistics**
 

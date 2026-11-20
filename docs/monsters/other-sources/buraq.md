@@ -21,7 +21,7 @@ Always NG Large magical beast
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** drink the wind, shimmering wings  
 **Spell-Like Abilities** (CL 6th)  
-At will — *call lightning* (DC 15), *create food and water*, *bless water*, *magic circle against evil*, *purify food and drink*, *shocking grasp*
+At will — *[call lightning](../../magic/spells/call-lightning.md)* (DC 15), *[create food and water](../../magic/spells/create-food-and-water.md)*, *[bless water](../../magic/spells/bless-water.md)*, *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*
 
 **Statistics**
 

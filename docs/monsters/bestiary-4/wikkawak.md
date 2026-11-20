@@ -21,7 +21,7 @@ CE Medium humanoid (goblinoid)
 **Melee** battleaxe +9 (1d8+7/×3)  
 **Ranged**  javelin +7 (1d6+5)  
 **Spell-Like Abilities** (CL 4th; concentration +5)  
-3/day—*quench*
+3/day—*[quench](../../magic/spells/quench.md)*
 
 **Statistics**
 

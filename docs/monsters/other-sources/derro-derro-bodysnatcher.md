@@ -24,8 +24,8 @@ CE Small humanoid (derro)
 **Ranged**  +1 repeating heavy crossbow +13/+8 (1d8+1 nonlethal/19–20) or net +12 touch (entangle)  
 **Special Attacks** sneak attack +5d6  
 **Spell-Like Abilities** (CL 3rd; concentration +7)  
-At will—*darkness*, *ghost sound* (DC 14)  
-1/day—*daze* (DC 14), *sound burst* (DC 16)
+At will—*[darkness](../../magic/spells/darkness.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 14)  
+1/day—*[daze](../../magic/spells/daze.md)* (DC 14), *[sound burst](../../magic/spells/sound-burst.md)* (DC 16)
 
 **Statistics**
 

@@ -22,7 +22,7 @@ NE Medium undead
 **Melee** 2 claws +7 (1d4+3), 2 wraithfire wings +5 (1d4 cold plus staggered)  
 **Special Attacks** unholy blast, wraithfire wings  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-At will—*feather fall*
+At will—*[feather fall](../../magic/spells/feather-fall.md)*
 
 **Statistics**
 

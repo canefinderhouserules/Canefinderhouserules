@@ -23,8 +23,8 @@ NE Gargantuan magical beast (aquatic)
 **Space** 20 ft., **Reach** 20 ft. (60 ft. with arm, 40 ft. with tentacle)  
 **Special Attacks** constrict (tentacles, 1d8+10), ink cloud, rend ship  
 **Spell-Like Abilities** (CL 19th; concentration +24)  
-3/day—*chain lightning* (DC 21), *dominate person* (DC 20), *summon monster IX* (1d4+1 dire sharks only)  
-1/day—*call lightning storm* (DC 20), *control weather*, *control winds*, *dominate monster* (DC 24, animal only), *greater teleport*, *resist energy*
+3/day—*[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 21), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 20), *[summon monster IX* ](../../magic/spells/summon-monster-ix.md)(1d4+1 dire sharks only)  
+1/day—*[call lightning storm* ](../../magic/spells/call-lightning-storm.md)(DC 20), *[control weather](../../magic/spells/control-weather.md)*, *[control winds](../../magic/spells/control-winds.md)*, *[dominate monster* ](../../magic/spells/dominate-monster.md)(DC 24, animal only), *[greater teleport](../../magic/spells/teleport-greater.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Statistics**
 

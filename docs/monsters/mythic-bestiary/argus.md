@@ -25,9 +25,9 @@ LN Gargantuan aberration (mythic)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** accurate strikes, constrict (3d6+14), eye gouge, fascinating gaze, mythic power (6/day, surge +1d8), rend (2 claws, 3d6+21), rock throwing (200 ft.)  
 **Spell-Like Abilities** (CL 14th; concentration +20)  
-Constant—*arcane sight*, *detect scrying*, *true seeing*  
-At will—*arcane eye*, *clairaudience/clairvoyance*, *status*, *true strike*  
-3/day—quickened *true strike*
+Constant—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[detect scrying](../../magic/spells/detect-scrying.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[arcane eye](../../magic/spells/arcane-eye.md)*, *[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[status](../../magic/spells/status.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+3/day—quickened *[true strike](../../magic/spells/true-strike.md)*
 
 **Statistics**
 

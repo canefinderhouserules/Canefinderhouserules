@@ -24,7 +24,7 @@ NE Small humanoid (gnome)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with glaive)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, weapon training (crossbows +1)  
 **Spell-Like Abilities** (CL 8th; concentration +9)  
-1/day—*dancing lights*, *ghost sound* (DC 11), *prestidigitation*, *speak with animals*
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 11), *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*
 
 **Tactics**
 

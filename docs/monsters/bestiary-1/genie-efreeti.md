@@ -22,10 +22,10 @@ LE Large outsider (extraplanar, fire)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** change size, heat  
 **Spell-Like Abilities** (CL 11th)  
-Constant—*detect magic*  
-At Will—*plane shift* (willing targets to elemental planes, Astral Plane, or Material Plane only), *produce flame*, *pyrotechnics* (DC 14), *scorching ray*  
-3/day—invisibility, quickened *scorching ray*, *wall of fire* (DC 16)  
-1/day—grant up to 3 *wishes* (to nongenies only), *gaseous form*, *permanent image* (DC 18)
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+At Will—*[plane shift* ](../../magic/spells/plane-shift.md)(willing targets to elemental planes, Astral Plane, or Material Plane only), *[produce flame](../../magic/spells/produce-flame.md)*, *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 14), *[scorching ray](../../magic/spells/scorching-ray.md)*  
+3/day—invisibility, quickened *[scorching ray](../../magic/spells/scorching-ray.md)*, *[wall of fire* ](../../magic/spells/wall-of-fire.md)(DC 16)  
+1/day—grant up to 3 *wishes* (to nongenies only), *[gaseous form](../../magic/spells/gaseous-form.md)*, *[permanent image* ](../../magic/spells/permanent-image.md)(DC 18)
 
 **Statistics**
 

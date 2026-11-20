@@ -23,10 +23,10 @@ CE Gargantuan outsider (chaotic, demon, evil, extraplanar)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** breath weapon (60-ft. cone, 16d6 acid damage plus disease, Reflex DC 32 halves, usable every 1d4 rounds), constrict (2d6+10), rend (2 slams, 2d6+15)  
 **Spell-Like Abilities** (CL 23rd; concentration +30)  
-Constant—*mind blank*, *see invisibility*  
-At will—*crushing despair* (DC 21), *detect magic*, *dispel magic*, *eyebite* (DC 23), *protection from good*, *stone shape*  
-3/day—*create undead*, *feeblemind* (DC 22), *insanity* (DC 24), quickened *mind fog* (DC 22), *phantasmal killer* (DC 21), *song of discord* (DC 22), *symbol of pain* (DC 22)  
-1/day—*desecrate*, *greater teleport* (self plus 50 lbs. of objects only), summon (level 9, any 1 CR 19 or lower demon 100%), *symbol of insanity* (DC 25), *weird* (DC 26)
+Constant—*[mind blank](../../magic/spells/mind-blank.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 21), *[detect magic](../../magic/spells/detect-magic.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[eyebite* ](../../magic/spells/eyebite.md)(DC 23), *[protection from good](../../magic/spells/protection-from-good.md)*, *[stone shape](../../magic/spells/stone-shape.md)*  
+3/day—*[create undead](../../magic/spells/create-undead.md)*, *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 22), *[insanity* ](../../magic/spells/insanity.md)(DC 24), quickened *[mind fog* ](../../magic/spells/mind-fog.md)(DC 22), *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 21), *[song of discord* ](../../magic/spells/song-of-discord.md)(DC 22), *[symbol of pain* ](../../magic/spells/symbol-of-pain.md)(DC 22)  
+1/day—*[desecrate](../../magic/spells/desecrate.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), summon (level 9, any 1 CR 19 or lower demon 100%), *[symbol of insanity* ](../../magic/spells/symbol-of-insanity.md)(DC 25), *[weird* ](../../magic/spells/weird.md)(DC 26)
 
 **Statistics**
 

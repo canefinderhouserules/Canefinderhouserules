@@ -21,7 +21,7 @@ CE Medium magical beast
 **Melee** bite +4 (1d6+3 plus poison)  
 **Special Attacks** abyssal energy (acid), breath weapon (60-ft. line, 2d6 acid, DC 13 half), web (+5 ranged, DC 13, 3 hp)  
 **Spell-Like Abilities** (CL 2nd; concentration +4)  
-1/day—*darkness*
+1/day—*[darkness](../../magic/spells/darkness.md)*
 
 **Statistics**
 

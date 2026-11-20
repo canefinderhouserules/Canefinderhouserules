@@ -24,18 +24,18 @@ CG Huge humanoid (giant)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** channel positive energy 6/day (DC 19, 7d6), gale aura*, surge*  
 **Spell-Like Abilities** (CL 15th; concentration +18)  
-Constant—*freedom of movement*  
-2/day—*control weather*, *levitate*  
-1/day—*call lightning* (DC 16), *chain lightning* (DC 19)  
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+2/day—*[control weather](../../magic/spells/control-weather.md)*, *[levitate](../../magic/spells/levitate.md)*  
+1/day—*[call lightning* ](../../magic/spells/call-lightning.md)(DC 16), *[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 19)  
 **Cleric Spells Prepared** (CL 13th; concentration +23)  
-7th—*elemental body IV* <sup>D</sup> (water only), *holy word* (DC 27), *waves of ecstasy* (DC 27)  
-6th—*antilife shell*, *banishment* (DC 26), *cold ice strike*** (DC 26), *heal*, *sirocco*<sup>D</sup>* (DC 26)  
-5th—*call lightning storm*<sup>D</sup> (DC 25), *cleanse*, *greater forbid action*** (DC 25), *holy ice*** (DC 25), *righteous might*, *true seeing*  
-4th—*air walk*, *aura of doom*** (DC 24), *blessing of fervor** (DC 24), *control water*<sup>D</sup>, *death ward*, *dismissal* (DC 24), *divination*  
-3rd—*bestow curse* (DC 23), *blindness/deafness* (DC 23), *create food and water*, *daylight*, *dispel magic*, *magic vestment*, *water walk*<sup>D</sup>  
-2nd—*augury*, *compassionate ally*** (DC 22), *grace**, *hold person* (DC 22), *silence* (DC 22), *slipstream*<sup>D</sup> (DC 22), *sound burst* (DC 22), *zone of truth* (DC 22)  
-1st—*command* (DC 21), *divine favor*, *murderous command*** (DC 21), *obscuring mist*<sup>D</sup>, *protection from evil*, *remove fear*, *sanctuary* (DC 21), *shield of faith*  
-0 (at will)—*detect magic*, *guidance*, *light*, *purify food and drink*  
+7th—*[elemental body IV* ](../../magic/spells/elemental-body-iv.md)<sup>D</sup> (water only), *[holy word* ](../../magic/spells/holy-word.md)(DC 27), *[waves of ecstasy* ](../../magic/spells/waves-of-ecstasy.md)(DC 27)  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, *[banishment* ](../../magic/spells/banishment.md)(DC 26), *[cold ice strike](../../magic/spells/cold-ice-strike.md)*** (DC 26), *[heal](../../magic/spells/heal.md)*, *[sirocco](../../magic/spells/sirocco.md)*<sup>D</sup>* (DC 26)  
+5th—*[call lightning storm](../../magic/spells/call-lightning-storm.md)*<sup>D</sup> (DC 25), *[cleanse](../../magic/spells/cleanse.md)*, *[greater forbid action](../../magic/spells/forbid-action-greater.md)*** (DC 25), *[holy ice](../../magic/spells/holy-ice.md)*** (DC 25), *[righteous might](../../magic/spells/righteous-might.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[aura of doom](../../magic/spells/aura-of-doom.md)*** (DC 24), *[blessing of fervor](../../magic/spells/blessing-of-fervor.md)** (DC 24), *[control water](../../magic/spells/control-water.md)*<sup>D</sup>, *[death ward](../../magic/spells/death-ward.md)*, *[dismissal* ](../../magic/spells/dismissal.md)(DC 24), *[divination](../../magic/spells/divination.md)*  
+3rd—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 23), *[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 23), *[create food and water](../../magic/spells/create-food-and-water.md)*, *[daylight](../../magic/spells/daylight.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*, *[water walk](../../magic/spells/water-walk.md)*<sup>D</sup>  
+2nd—*[augury](../../magic/spells/augury.md)*, *[compassionate ally](../../magic/spells/compassionate-ally.md)*** (DC 22), *[grace](../../magic/spells/grace.md)**, *[hold person* ](../../magic/spells/hold-person.md)(DC 22), *[silence* ](../../magic/spells/silence.md)(DC 22), *[slipstream](../../magic/spells/slipstream.md)*<sup>D</sup> (DC 22), *[sound burst* ](../../magic/spells/sound-burst.md)(DC 22), *[zone of truth* ](../../magic/spells/zone-of-truth.md)(DC 22)  
+1st—*[command* ](../../magic/spells/command.md)(DC 21), *[divine favor](../../magic/spells/divine-favor.md)*, *[murderous command](../../magic/spells/murderous-command.md)*** (DC 21), *[obscuring mist](../../magic/spells/obscuring-mist.md)*<sup>D</sup>, *[protection from evil](../../magic/spells/protection-from-evil.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[sanctuary* ](../../magic/spells/sanctuary.md)(DC 21), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*  
 **D** Domain spell; **Domains** Water (Oceans subdomain*), Weather (Storms subdomain*)
 
 **Statistics**

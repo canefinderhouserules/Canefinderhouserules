@@ -21,7 +21,7 @@ N Small construct
 **Melee** 2 claws +9 (1d4+4)  
 **Ranged**  fiery bolt +8 (1d6 fire)  
 **Spell-Like Abilities** (CL 2nd; concentration –1)  
-Constant—*detect magic*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*
 
 **Statistics**
 

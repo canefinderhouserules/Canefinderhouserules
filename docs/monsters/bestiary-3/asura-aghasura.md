@@ -23,9 +23,9 @@ LE Huge outsider (asura, evil, extraplanar, lawful)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** dual wielder, infused weapons, swallow whole (2d6+12 acid damage, AC 13, 16 hp)  
 **Spell-Like Abilities** (CL 11th; concentration +15)  
-At will—*greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*deeper darkness*  
-1/day—*cloudkill* (DC 19), summon (level 4, 1d4+1 adhukaits, 45%, or 1 aghasura, 20%)
+At will—*[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)  
+3/day—*[deeper darkness](../../magic/spells/deeper-darkness.md)*  
+1/day—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 19), summon (level 4, 1d4+1 adhukaits, 45%, or 1 aghasura, 20%)
 
 **Statistics**
 

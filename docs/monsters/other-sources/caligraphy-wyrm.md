@@ -22,9 +22,9 @@ N Diminutive dragon
 **Space** 1 ft., **Reach** 0 ft.  
 **Special Attacks** ink spray, sneak attack +2d6  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-At will—*arcane mark*, *read magic*  
-3/day—*erase*  
-1/day—*secret page*
+At will—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[read magic](../../magic/spells/read-magic.md)*  
+3/day—*[erase](../../magic/spells/erase.md)*  
+1/day—*[secret page](../../magic/spells/secret-page.md)*
 
 **Statistics**
 

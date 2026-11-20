@@ -30,9 +30,9 @@ fire, petrification, poison; **Resist** acid 30, cold 30; **SR** 37
 festering filth  
 **Spell-Like Abilities** (CL 26th; concentration +36)  
 Constant—*air walk, detect chaos, detect good, mind blank, speak with animals, true seeing, unholy aura* (DC 28)  
-At will—*astral projection, blasphemy*<sup>M</sup> (DC 27), *desecrate*<sup>M</sup>, *dominate person*<sup>M</sup> (DC 25), *greater dispel magic, dominate animal* (DC 23), *greater scrying* (DC 27), *greater teleport, plane shift*<sup>M</sup> (DC 27), *unhallow, unholy blight*<sup>M</sup> (DC 24)  
-3/day—*banishment* (DC 27), *quickened contagion*<sup>M</sup> (DC 24), *dimensional lock*<sup>M</sup>, *maze*<sup>M</sup>, *summon devils*  
-1/day—*gate, time stop*<sup>M</sup>, *wish*<sup>M</sup>  
+At will—*astral projection, blasphemy*<sup>M</sup> (DC 27), *[desecrate](../../magic/spells/desecrate.md)*<sup>M</sup>, *[dominate person](../../magic/spells/dominate-person.md)*<sup>M</sup> (DC 25), *greater dispel magic, dominate animal* (DC 23), *[greater scrying](../../magic/spells/scrying-greater.md)* (DC 27), *greater teleport, plane shift*<sup>M</sup> (DC 27), *unhallow, unholy blight*<sup>M</sup> (DC 24)  
+3/day—*[banishment](../../magic/spells/banishment.md)* (DC 27), *[quickened contagion](../../magic/spells/contagion.md)*<sup>M</sup> (DC 24), *[dimensional lock](../../magic/spells/dimensional-lock.md)*<sup>M</sup>, *[maze](../../magic/spells/maze.md)*<sup>M</sup>, *summon devils*  
+1/day—*gate, time stop*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 <sup>M</sup> Barbatos can use this ability’s mythic version in his realm
 
 **Statistics**

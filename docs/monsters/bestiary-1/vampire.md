@@ -25,11 +25,11 @@ CE Medium undead (augmented humanoid)
 **Spell-Like Abilities** (CL 8th, +7 touch)  
 11/day—grave touch  
 **Sorcerer Spells Known** (CL 8th, +8 ranged touch)  
-4th (5/day)—*greater invisibility*  
-3rd (5/day)—*dispel magic*, *fireball* (DC 21), *vampiric touch*  
-2nd (8/day)—*false life*, *invisibility*, *scorching ray*, *web* (DC 20)  
-1st (8/day)—*burning hands* (DC 19), *chill touch* (DC 19), *disguise self*, *expeditious retreat*, *mage armor*, *magic missile*  
-0—*acid splash*, *detect magic*, *light*, *mage hand*, *mending*, *message*, *open/close*, *read magic*  
+4th (5/day)—*[greater invisibility](../../magic/spells/invisibility-greater.md)*  
+3rd (5/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 21), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd (8/day)—*[false life](../../magic/spells/false-life.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[web* ](../../magic/spells/web.md)(DC 20)  
+1st (8/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 19), *[chill touch* ](../../magic/spells/chill-touch.md)(DC 19), *[disguise self](../../magic/spells/disguise-self.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*  
+0—*[acid splash](../../magic/spells/acid-splash.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** undead
 
 **Statistics**

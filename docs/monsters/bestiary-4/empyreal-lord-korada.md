@@ -23,10 +23,10 @@ NG Large outsider (agathion, extraplanar, good)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** shatter spells, stunning fist (8/day, DC 22)  
 **Spell-Like Abilities** (CL 20th; concentration +34)  
-Constant—*detect evil*, *detect thoughts*, *foresight**, *sanctuary** (DC 25), *water walk*  
-At will—*augury*, *bless**, *calm animals* (DC 25), *calm emotions* (DC 26), *cure serious wounds**, *greater teleport*, *mirror image**  
-3/day—*divination*, *mad monkeys*, quickened *mirror image**, *neutralize poison*, *true seeing*, *wall of force**  
-1/day—*antimagic field*, *moment of prescience*  
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)*, *[foresight](../../magic/spells/foresight.md)**, *[sanctuary](../../magic/spells/sanctuary.md)** (DC 25), *[water walk](../../magic/spells/water-walk.md)*  
+At will—*[augury](../../magic/spells/augury.md)*, *[bless](../../magic/spells/bless.md)**, *[calm animals](../../magic/spells/calm-animals.md)* (DC 25), *[calm emotions](../../magic/spells/calm-emotions.md)* (DC 26), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)**, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[mirror image](../../magic/spells/mirror-image.md)**  
+3/day—*[divination](../../magic/spells/divination.md)*, *[mad monkeys](../../magic/spells/mad-monkeys.md)*, quickened *[mirror image](../../magic/spells/mirror-image.md)**, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[wall of force](../../magic/spells/wall-of-force.md)**  
+1/day—*[antimagic field](../../magic/spells/antimagic-field.md)*, *[moment of prescience](../../magic/spells/moment-of-prescience.md)*  
 * Korada can use the mythic version of this ability in his realm.
 
 **Statistics**

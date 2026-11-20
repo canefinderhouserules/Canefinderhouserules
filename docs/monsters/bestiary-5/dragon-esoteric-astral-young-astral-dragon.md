@@ -23,10 +23,10 @@ N Large dragon (extraplanar)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (80-ft. line, DC 18, 6d6 force)  
 **Psychic Magic** (CL 10th; concentration +13)  
-5 PE—*deja vu* (1 PE), *telekinetic projectile* (0 PE)  
+5 PE—*[deja vu](../../magic/spells/deja-vu.md)* (1 PE), *[telekinetic projectile](../../magic/spells/telekinetic-projectile.md)* (0 PE)  
 **Psychic Spells Known** (CL 1st; concentration +4)  
- 1st (4/day)— *burst of insight*, *sundering shards* (DC 14)  
-0 (at will)—*daze* (DC 13), *detect magic*, *mage hand*, *open/close*
+ 1st (4/day)— *[burst of insight](../../magic/spells/burst-of-insight.md)*, *[sundering shards](../../magic/spells/sundering-shards.md)* (DC 14)  
+0 (at will)—*[daze](../../magic/spells/daze.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*
 
 **Statistics**
 

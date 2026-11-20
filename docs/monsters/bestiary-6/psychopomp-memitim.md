@@ -24,9 +24,9 @@ electricity 10; **SR** 26
 **Melee** *+3 scythe* +27/+22/+17/+12 (2d4+13/19–20/×4)  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
 Constant—*detect evil, detect good, freedom of movement, true seeing*  
-At will—*dimensional anchor, dispel magic, gaseous form, greater teleport* (self plus 50 lbs. of objects only), *invisibility* (self only), *plane shift* (self only), *speak with dead, status, veil* (DC 21)  
+At will—*dimensional anchor, dispel magic, gaseous form, greater teleport* (self plus 50 lbs. of objects only), *[invisibility](../../magic/spells/invisibility.md)* (self only), *[plane shift](../../magic/spells/plane-shift.md)* (self only), *speak with dead, status, veil* (DC 21)  
 3/day—quickened *dispel magic, finger of death* (DC 22), *forbiddance, undeath to death* (DC 21)  
-1/day—*energy drain* (DC 24)
+1/day—*[energy drain](../../magic/spells/energy-drain.md)* (DC 24)
 
 **Statistics**
 

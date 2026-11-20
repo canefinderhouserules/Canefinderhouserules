@@ -20,7 +20,7 @@ CE Medium undead (incorporeal)
 **Speed** fly 30 ft. (good)  
 **Melee** 2 wracking touches +6 touch (2d6 plus doom)  
 **Spell-Like Abilities** (CL 4th; concentration +8)  
-At will—*doom* (DC 15)
+At will—*[doom](../../magic/spells/doom.md)* (DC 15)
 
 **Statistics**
 

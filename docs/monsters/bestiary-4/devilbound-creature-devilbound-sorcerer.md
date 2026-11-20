@@ -22,19 +22,19 @@ LE Medium humanoid (human)
 **Speed** 30 ft.  
 **Melee** dagger +5/+0 (1d4–1/19–20)  
 **Spell-Like Abilities** (CL 13th; concentration +20)  
-3/day—quickened *fireball* (DC 20), *invisibility*  
- 1/day—*blasphemy* (DC 24), summon (level 7, 1 lemure, 1 bearded devil, or 1 erinyes 100%)  
+3/day—quickened *[fireball](../../magic/spells/fireball.md)* (DC 20), *[invisibility](../../magic/spells/invisibility.md)*  
+ 1/day—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 24), summon (level 7, 1 lemure, 1 bearded devil, or 1 erinyes 100%)  
  **Bloodline Spell-Like Abilities** (CL 13th; concentration +20)  
  10/day—elemental ray (1d6+6 cold)  
  1/day—elemental blast (13d6 cold, DC 23)  
 **Sorcerer Spells Known** (CL 13th; concentration +20)  
-6th (5/day)—*acid fog*, *elemental body III*, *summon monster VI*  
-5th (7/day)—*cloudkill* (DC 23), *elemental body II*, *summon monster V*, *teleport*  
-4th (6/day)—*charm monster* (DC 22), *confusion* (DC 22), *elemental body I*, *fear* (DC 21), *stoneskin* (already cast)  
-3rd (8/day)—*displacement*, *hold person* (DC 21), *protection from energy*, *stinking cloud* (DC 21), *summon monster III*  
-2nd (8/day)—*acid arrow*, *darkness*, *detect thoughts* (DC 19), *glitterdust* (DC 20), *scorching ray* (cold), *web* (DC 20)  
-1st (7/day)—*burning hands* (cold) (DC 18), *charm person* (DC 19), *disguise self*, *feather fall*, *mage armor* (already cast), *magic missile*  
-0 (at will)—*acid splash*, *arcane mark*, *detect magic*, *ghost sound* (DC 17), *mage hand*, *mending*, *message*, *prestidigitation*, *read magic*  
+6th (5/day)—*[acid fog](../../magic/spells/acid-fog.md)*, *[elemental body III](../../magic/spells/elemental-body-iii.md)*, *[summon monster VI](../../magic/spells/summon-monster-vi.md)*  
+5th (7/day)—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 23), *[elemental body II](../../magic/spells/elemental-body-ii.md)*, *[summon monster V](../../magic/spells/summon-monster-v.md)*, *[teleport](../../magic/spells/teleport.md)*  
+4th (6/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 22), *[confusion* ](../../magic/spells/confusion.md)(DC 22), *[elemental body I](../../magic/spells/elemental-body-i.md)*, *[fear* ](../../magic/spells/fear.md)(DC 21), *[stoneskin* ](../../magic/spells/stoneskin.md)(already cast)  
+3rd (8/day)—*[displacement](../../magic/spells/displacement.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 21), *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 21), *[summon monster III](../../magic/spells/summon-monster-iii.md)*  
+2nd (8/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[darkness](../../magic/spells/darkness.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 19), *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 20), *[scorching ray* ](../../magic/spells/scorching-ray.md)(cold), *[web* ](../../magic/spells/web.md)(DC 20)  
+1st (7/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(cold) (DC 18), *[charm person* ](../../magic/spells/charm-person.md)(DC 19), *[disguise self](../../magic/spells/disguise-self.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[mage armor* ](../../magic/spells/mage-armor.md)(already cast), *[magic missile](../../magic/spells/magic-missile.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 17), *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** elemental (water)
 
 **Statistics**

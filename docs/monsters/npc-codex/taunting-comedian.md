@@ -22,13 +22,13 @@ CE Small humanoid (halfling)
 **Ranged**  sling +6 (1d4)  
 **Special Attacks** bardic performance 14 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +1)  
 **Bard Spells Known** (CL 4th; concentration +8)  
-2nd (2/day)—*suggestion* (DC 16), *tongues*  
-1st (4/day)—*animate rope*, *cure light wounds* (DC 15), *lesser confusion* (DC 15), *ventriloquism* (DC 15)  
-0 (at will)—*daze* (DC 14), *detect magic*, *flare* (DC 14), *ghost sound* (DC 14), *mending*, *read magic*
+2nd (2/day)—*[suggestion* ](../../magic/spells/suggestion.md)(DC 16), *[tongues](../../magic/spells/tongues.md)*  
+1st (4/day)—*[animate rope](../../magic/spells/animate-rope.md)*, *[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(DC 15), *[lesser confusion* ](../../magic/spells/confusion-lesser.md)(DC 15), *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 15)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 14), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *[mending](../../magic/spells/mending.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Tactics**
 
-**During Combat** The bard hides using *ventriloquism*, and snares enemies with *animate rope*.
+**During Combat** The bard hides using *[ventriloquism](../../magic/spells/ventriloquism.md)*, and snares enemies with *[animate rope](../../magic/spells/animate-rope.md)*.
 
 **Statistics**
 

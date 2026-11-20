@@ -22,10 +22,10 @@ CN Medium outsider (extraplanar)
 **Ranged**  mwk throwing axe +17 (1d6+4)  
 **Special Attacks** challenge of single combat  
 **Spell-Like Abilities** (CL 10th; concentration +10)  
-Constant—*deathwatch*, *freedom of movement*  
-At will—*rage*  
-3/day—*divine power*  
-1/day—*heroes’ feast*
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+At will—*[rage](../../magic/spells/rage.md)*  
+3/day—*[divine power](../../magic/spells/divine-power.md)*  
+1/day—*[heroes’ feast](../../magic/spells/heroes-feast.md)*
 
 **Statistics**
 

@@ -22,17 +22,17 @@ CE Small humanoid (halfling)
 **Ranged**  *+1 seeking sling* +20/+15/+10 (1d3+1)  
 **Special Attacks** bardic performance 43 rounds/day (swift action; countersong, dirge of doom, distraction, fascinate, frightening tune, inspire competence +5, inspire courage +4, inspire greatness, inspire heroics, soothing performance, *suggestion*)  
 **Bard Spells Known** (CL 17th; concentration +24)  
-6th (3/day)—*animate objects*, *irresistible dance* (DC 23), *project image* (DC 23)  
-5th (5/day)—*greater dispel magic*, *mislead*, *shadow evocation* (DC 22), *song of discord* (DC 22)  
-4th (5/day)—*cure critical wounds* (DC 21), *dimension door*, *dominate person* (DC 21), *freedom of movement*, *locate creature*  
-3rd (7/day)—*charm monster* (DC 20), *confusion* (DC 20), *displacement*, *haste* (DC 20), *scrying* (DC 20), *see invisibility*  
-2nd (7/day)—*cat’s grace*, *detect thoughts* (DC 19), *glitterdust* (DC 19), *invisibility*, *mirror image*, *silence* (DC 19)  
-1st (7/day)—*charm person* (DC 18), *comprehend languages*, *disguise self*, *grease*, *hideous laughter* (DC 18), *silent image* (DC 18)  
-0 (at will)—*detect magic*, *flare* (DC 17), *light*, *message*, *prestidigitation*, *resistance*
+6th (3/day)—*[animate objects](../../magic/spells/animate-objects.md)*, *[irresistible dance* ](../../magic/spells/irresistible-dance.md)(DC 23), *[project image* ](../../magic/spells/project-image.md)(DC 23)  
+5th (5/day)—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[mislead](../../magic/spells/mislead.md)*, *[shadow evocation* ](../../magic/spells/shadow-evocation.md)(DC 22), *[song of discord* ](../../magic/spells/song-of-discord.md)(DC 22)  
+4th (5/day)—*[cure critical wounds* ](../../magic/spells/cure-critical-wounds.md)(DC 21), *[dimension door](../../magic/spells/dimension-door.md)*, *[dominate person* ](../../magic/spells/dominate-person.md)(DC 21), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[locate creature](../../magic/spells/locate-creature.md)*  
+3rd (7/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 20), *[confusion* ](../../magic/spells/confusion.md)(DC 20), *[displacement](../../magic/spells/displacement.md)*, *[haste* ](../../magic/spells/haste.md)(DC 20), *[scrying* ](../../magic/spells/scrying.md)(DC 20), *[see invisibility](../../magic/spells/see-invisibility.md)*  
+2nd (7/day)—*[cat’s grace](../../magic/spells/cats-grace.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 19), *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 19), *[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[silence* ](../../magic/spells/silence.md)(DC 19)  
+1st (7/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 18), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[grease](../../magic/spells/grease.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 18), *[silent image* ](../../magic/spells/silent-image.md)(DC 18)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 17), *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Tactics**
 
-**Before Combat** The bard casts *cat's grace* and uses her *scroll of bull's strength*.  
+**Before Combat** The bard casts *[cat's grace* ](../../magic/spells/cats-grace.md)and uses her *scroll of bull's strength*.  
 **During Combat** The bard uses spells like *song of discord*, then dominates or charms those who resist.  
 **Base Statistics** Without *bull's strength* and *cat's grace*, the bard's statistics are **Init** +3; **AC** 24, touch 17; **Melee** *+2 keen rapier* +19/+14/+9 (1d4+2/15–20); **Ranged** *+1 seeking sling* +18/+13/+8 (1d3+1); **Str** 10, **Dex** 16; **CMB** +11; **CMD** 27; **Skills** Acrobatics +4 (+0 when jumping), Climb +1, Stealth +26.
 

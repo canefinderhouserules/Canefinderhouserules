@@ -25,8 +25,8 @@ sting +29 (1d6+10 plus poison)
 **Special Attacks** pounce, soul rend, swift spawning  
 **Spell-Like Abilities** (CL 18th; concentration +25)  
 Constant—*deathwatch, greater magic weapon, shield of faith*  
-At will—*animate dead, command undead* (DC 19), *death knell* (DC 19), *deeper darkness*  
-3/day—*control undead* (DC 24), *quickened death knell* (DC 19)  
+At will—*animate dead, command undead* (DC 19), *[death knell](../../magic/spells/death-knell.md)* (DC 19), *[deeper darkness](../../magic/spells/deeper-darkness.md)*  
+3/day—*[control undead](../../magic/spells/control-undead.md)* (DC 24), *[quickened death knell](../../magic/spells/death-knell.md)* (DC 19)  
 1/day—*create greater undead, create undead, finger of death* (DC 24)
 
 **Statistics**

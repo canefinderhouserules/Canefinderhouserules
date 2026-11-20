@@ -23,10 +23,10 @@ NE Medium undead (cold)
 **Melee** ice staff +27/+22/+17/+12 (1d6+14 plus 1d6 cold and energy drain) or 2 claws +22 (1d6+6 plus 1d6 cold and energy drain)  
 **Special Attacks** cold, energy drain (2 levels, DC 25), hexes (blight, evil eye, hoarfrost, ice tomb, misfortune), ice staff, unearthly cold  
 **Spell-Like Abilities** (CL 19th; concentration +23)  
-Constant—*mage armor*  
-At will—*frost fall*(DC 16), ice missile (as *magic missile*, but deals cold damage), *obscuring mist*, *screech*(DC 17)  
-3/day—*bestow curse* (DC 17), *crushing despair* (DC 18), *ice storm*, *unshakable chill* (DC 16), *wall of ice* (DC 18)  
-1/day—*cone of cold* (DC 19), *freezing sphere* (DC 20), *polar ray*
+Constant—*[mage armor](../../magic/spells/mage-armor.md)*  
+At will—*[frost fall](../../magic/spells/frost-fall.md)*(DC 16), ice missile (as *[magic missile](../../magic/spells/magic-missile.md)*, but deals cold damage), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[screech](../../magic/spells/screech.md)*(DC 17)  
+3/day—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 17), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 18), *[ice storm](../../magic/spells/ice-storm.md)*, *[unshakable chill](../../magic/spells/unshakable-chill.md)* (DC 16), *[wall of ice](../../magic/spells/wall-of-ice.md)* (DC 18)  
+1/day—*[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 19), *[freezing sphere](../../magic/spells/freezing-sphere.md)* (DC 20), *[polar ray](../../magic/spells/polar-ray.md)*
 
 **Statistics**
 

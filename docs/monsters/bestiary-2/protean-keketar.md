@@ -23,10 +23,10 @@ CN Large outsider (chaotic, extraplanar, protean, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** constrict 1d8+9, reshape reality  
 **Spell-Like Abilities** (CL 17th; concentration +24)  
-Constant—*detect law*, *tongues*  
-At will—*chaos hammer* (DC 21), *greater dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *major creation*, *move earth*, *shatter* (DC 19)  
-3/day—quickened *confusion* (DC 21), *dispel law* (DC 22), empowered *chaos hammer* (DC 21), *polymorph any object* (DC 25)  
-1/day—*disintegrate* (DC 23), *prismatic spray* (DC 24), *prismatic sphere* (DC 26), *reshape reality*
+Constant—*[detect law](../../magic/spells/detect-law.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 21), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[major creation](../../magic/spells/major-creation.md)*, *[move earth](../../magic/spells/move-earth.md)*, *[shatter* ](../../magic/spells/shatter.md)(DC 19)  
+3/day—quickened *[confusion* ](../../magic/spells/confusion.md)(DC 21), *[dispel law* ](../../magic/spells/dispel-law.md)(DC 22), empowered *[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 21), *[polymorph any object* ](../../magic/spells/polymorph-any-object.md)(DC 25)  
+1/day—*[disintegrate* ](../../magic/spells/disintegrate.md)(DC 23), *[prismatic spray* ](../../magic/spells/prismatic-spray.md)(DC 24), *[prismatic sphere* ](../../magic/spells/prismatic-sphere.md)(DC 26), *reshape reality*
 
 **Statistics**
 

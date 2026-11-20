@@ -21,12 +21,12 @@ CE Medium humanoid (human)
 **Melee** *+1 dagger* +8/+3 (1d4+1/19–20)  
 **Ranged**  *+1 dagger* +10/+5 (1d4+1/19–20)  
 **Oracle Spells Known** (CL 10th; concentration +15)  
-5th (4/day)—*feeblemind* (DC 20), *mass inflict light wounds* (DC 20), *summon monster V*  
-4th (6/day)—*black tentacles*, *divine power*, *inflict critical wounds* (DC 19), *summon monster IV*  
-3rd (7/day)—*animate dead*, *bestow curse* (DC 18), *inflict serious wounds* (DC 18), *prayer*, *tongues*  
-2nd (7/day)—*disfiguring touch* (DC 17), *dust of twilight* (DC 17), *enthrall* (DC 17), *inflict moderate wounds* (DC 17), *lesser restoration*, *shard of chaos* (DC 17)  
-1st (8/day)—*command* (DC 16), *divine favor*, *doom* (DC 16), *entropic shield*, *inflict light wounds* (DC 16), *ray of sickening* (DC 16), *shield of faith*  
-0 (at will)—*bleed* (DC 15), *detect magic*, *detect poison*, *guidance*, *light*, *mending*, *read magic*, *resistance*, *spark*  
+5th (4/day)—*[feeblemind](../../magic/spells/feeblemind.md)* (DC 20), *[mass inflict light wounds](../../magic/spells/inflict-light-wounds-mass.md)* (DC 20), *[summon monster V](../../magic/spells/summon-monster-v.md)*  
+4th (6/day)—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[divine power](../../magic/spells/divine-power.md)*, *[inflict critical wounds](../../magic/spells/inflict-critical-wounds.md)* (DC 19), *[summon monster IV](../../magic/spells/summon-monster-iv.md)*  
+3rd (7/day)—*[animate dead](../../magic/spells/animate-dead.md)*, *[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)* (DC 18), *[prayer](../../magic/spells/prayer.md)*, *[tongues](../../magic/spells/tongues.md)*  
+2nd (7/day)—*[disfiguring touch](../../magic/spells/disfiguring-touch.md)* (DC 17), *[dust of twilight](../../magic/spells/dust-of-twilight.md)* (DC 17), *[enthrall](../../magic/spells/enthrall.md)* (DC 17), *[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)* (DC 17), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[shard of chaos](../../magic/spells/shard-of-chaos.md)* (DC 17)  
+1st (8/day)—*[command](../../magic/spells/command.md)* (DC 16), *[divine favor](../../magic/spells/divine-favor.md)*, *[doom](../../magic/spells/doom.md)* (DC 16), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[inflict light wounds](../../magic/spells/inflict-light-wounds.md)* (DC 16), *[ray of sickening](../../magic/spells/ray-of-sickening.md)* (DC 16), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[spark](../../magic/spells/spark.md)*  
 **Mystery** dark tapestry
 
 **Statistics**

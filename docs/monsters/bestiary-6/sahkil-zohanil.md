@@ -25,9 +25,9 @@ plus addiction)
 **Special Attacks** look of fear (30 ft., DC 22)  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
 Constant—*detect good, detect magic, see invisibility*  
-At will—*greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*foe to friend* (DC 19), *greater invisibility, overwhelming grief* (DC 20), *protection from good, suggestion* (DC 17)  
-1/day—*nightmare* (DC 19)
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
+3/day—*[foe to friend](../../magic/spells/foe-to-friend.md)* (DC 19), *greater invisibility, overwhelming grief* (DC 20), *protection from good, suggestion* (DC 17)  
+1/day—*[nightmare](../../magic/spells/nightmare.md)* (DC 19)
 
 **Statistics**
 

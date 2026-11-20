@@ -23,10 +23,10 @@ CE Huge monstrous humanoid
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** devastating bite, vile spew  
 **Spell-Like Abilities** (CL 15th; concentration +19)  
-Constant—*fly*  
-At will—*grease* (DC 15), *major image* (DC 17), *ventriloquism* (DC 15)  
-3/day—*charm monster* (DC 18), *gust of wind* (DC 16), quickened *stinking cloud* (DC 17), *suggestion* (DC 17)  
-1/day—*deep slumber* (DC 17), *mass charm monster* (DC 22), *mirror image*
+Constant—*[fly](../../magic/spells/fly.md)*  
+At will—*[grease](../../magic/spells/grease.md)* (DC 15), *[major image](../../magic/spells/major-image.md)* (DC 17), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 15)  
+3/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 18), *[gust of wind](../../magic/spells/gust-of-wind.md)* (DC 16), quickened *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 17), *[suggestion* ](../../magic/spells/suggestion.md)(DC 17)  
+1/day—*[deep slumber](../../magic/spells/deep-slumber.md)* (DC 17), *[mass charm monster](../../magic/spells/charm-monster-mass.md)* (DC 22), *[mirror image](../../magic/spells/mirror-image.md)*
 
 **Statistics**
 

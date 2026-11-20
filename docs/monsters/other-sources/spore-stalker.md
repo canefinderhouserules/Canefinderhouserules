@@ -21,7 +21,7 @@ NE Medium plant
 **Melee** bite +14 (2d6+12 plus grab)  
 **Special Attacks** colonize victim, paralytic spores  
 **Spell-Like Abilities** (CL 7th; concentration +6)  
-3/day—*ethereal jaunt* (self only)
+3/day—*[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)* (self only)
 
 **Statistics**
 

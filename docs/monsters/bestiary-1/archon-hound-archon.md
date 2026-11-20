@@ -21,8 +21,8 @@ LG Medium outsider (archon, extraplanar, good, lawful)
 **Speed** 40 ft.  
 **Melee** bite +8 (1d8+3), slam +8 (1d4+1) or mwk greatsword +9/+4 (2d6+3), bite +3 (1d8+2)  
 **Spell-Like Abilities** (CL 6th)  
-Constant—*detect evil*, *magic circle against evil*  
-At Will—*aid*, *continual flame*, *greater teleport* (self plus 50 lbs. of objects only), *message*
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*  
+At Will—*[aid](../../magic/spells/aid.md)*, *[continual flame](../../magic/spells/continual-flame.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[message](../../magic/spells/message.md)*
 
 **Statistics**
 

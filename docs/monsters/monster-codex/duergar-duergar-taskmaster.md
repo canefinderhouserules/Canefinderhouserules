@@ -24,7 +24,7 @@ LE Medium humanoid (dwarf)
 **Ranged**  *+1 light slaver’s crossbow* +11 (1d4+1 nonlethal/19–20 plus entangle)  
 **Special Attacks** sneak attack +3d6  
 **Spell-Like Abilities** (CL 10th; concentration +7)  
-1/day—*invisibility* (self only), *ironskin*  
+1/day—*[invisibility](../../magic/spells/invisibility.md)* (self only), *[ironskin](../../magic/spells/ironskin.md)*  
 **Shadowdancer Spell-Like Abilities** (CL 4th; concentration +1)  
 2/day—*shadow illusion* (DC 8)  
 1/day—*shadow call* (DC 11)

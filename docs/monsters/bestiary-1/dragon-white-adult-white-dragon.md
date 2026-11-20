@@ -24,10 +24,10 @@ CE Large dragon (cold)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, DC 21, 12d4 cold)  
 **Spell-Like Abilities** (CL 13th)  
-At will—*fog cloud*, *gust of wind*  
+At will—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[gust of wind](../../magic/spells/gust-of-wind.md)*  
 **Spells Known** (CL 1st)  
-1st (4/day)—*shield*, *true strike*  
-0 (at will)—*dancing lights*, *detect magic*, *ray of frost*, *mending*
+1st (4/day)—*[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[mending](../../magic/spells/mending.md)*
 
 **Statistics**
 

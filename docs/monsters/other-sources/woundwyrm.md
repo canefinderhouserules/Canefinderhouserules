@@ -22,8 +22,8 @@ CE Huge dragon (chaotic, evil)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (100-ft. line, 16d6, Reflex DC 25 for half, usable every 1d4 rounds), entropic breath, maw of the Abyss  
 **Spell-Like Abilities** (CL 18th; concentration +23)  
-Constant—*entropic shield*, *freedom of movement*  
-1/day—*polymorph any object* (DC 23)
+Constant—*[entropic shield](../../magic/spells/entropic-shield.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+1/day—*[polymorph any object* ](../../magic/spells/polymorph-any-object.md)(DC 23)
 
 **Statistics**
 

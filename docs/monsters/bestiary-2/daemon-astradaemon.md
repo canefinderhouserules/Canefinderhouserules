@@ -23,10 +23,10 @@ NE Large outsider (daemon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with tail)  
 **Special Attacks** devour soul, energy drain (1 level, DC 25)  
 **Spell-Like Abilities** (CL 17th; concentration +24)  
-Constant—*deathwatch*, *displacement*, *true seeing*  
-At will—*enervation*, *fear* (DC21), *greater teleport* (self plus 50 lbs. of objects only), *vampiric touch*  
-3/day—*locate creature*, *plane shift* (DC 24)  
-1/day—*energy drain* (DC 24), *finger of death* (DC 24), summon (level 6, 1d3 derghodaemons 50%)
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*, *[displacement](../../magic/spells/displacement.md)*,[ *true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[enervation](../../magic/spells/enervation.md)*, *[fear* ](../../magic/spells/fear.md)(DC21), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+3/day—*[locate creature](../../magic/spells/locate-creature.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (DC 24)  
+1/day—*[energy drain](../../magic/spells/energy-drain.md)* (DC 24), *[finger of death](../../magic/spells/finger-of-death.md)* (DC 24), summon (level 6, 1d3 derghodaemons 50%)
 
 **Statistics**
 

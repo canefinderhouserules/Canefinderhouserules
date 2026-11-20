@@ -27,11 +27,11 @@ movement*; **DR** 15/lawful; **Immune** acid, polymorph effects; **Resist** elec
 (1d6+9 plus greater warpwave), 2 tail slaps +32 (1d8+4 plus grab)  
 **Special Attacks** constrict (1d8+13)  
 **Spell-Like Abilities** (CL 20th; concentration +29)  
-Constant—*cloak of chaos* (DC 27), *detect law, true seeing*  
-At will—*confusion* (DC 23), *greater dispel magic, greater teleport* (self plus 50 lbs. of objects only), *major creation, plane shift* (DC 26), *telekinesis* (DC 34)  
-3/day—quickened *confusion* (DC 23), quickened *disintegrate* (DC 25), *prismatic spray* (DC 26), *reshape reality* (DC 26), quickened *telekinesis* (DC 24), *word of chaos* (DC 26)  
+Constant—*[cloak of chaos](../../magic/spells/cloak-of-chaos.md)* (DC 27), *detect law, true seeing*  
+At will—*[confusion](../../magic/spells/confusion.md)* (DC 23), *greater dispel magic, greater teleport* (self plus 50 lbs. of objects only), *major creation, plane shift* (DC 26), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 34)  
+3/day—quickened *[confusion](../../magic/spells/confusion.md)* (DC 23), quickened *[disintegrate](../../magic/spells/disintegrate.md)* (DC 25), *[prismatic spray](../../magic/spells/prismatic-spray.md)* (DC 26), *reshape reality* (DC 26), quickened *[telekinesis](../../magic/spells/telekinesis.md)* (DC 24), *[word of chaos](../../magic/spells/word-of-chaos.md)* (DC 26)  
 1/day—*heal, implosion* (DC 28), *mage’s disjunction, prismatic sphere* (DC 28)  
-1/year—*miracle*
+1/year—*[miracle](../../magic/spells/miracle.md)*
 
 **Statistics**
 

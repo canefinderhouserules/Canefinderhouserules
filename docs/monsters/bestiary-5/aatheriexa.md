@@ -23,10 +23,10 @@ NE Medium aberration
 **Space** 5 ft., **Reach** 5 ft. (15 ft. with tentacles)  
 **Special Attacks** constrict (3d6 plus withering), gnaw, pull (tentacles, 5 feet)  
 **Spell-Like Abilities** (CL 13th; concentration +17)  
-At will—*calm emotions* (DC 16), *charm monster* (DC 18), *clairaudience/clairvoyance* (clairvoyance only), *daze monster* (DC 16), *feather fall*  
-3/day—*dispel magic*, *lightning bolt* (DC 17)  
-1/day—*dominate monster* (DC 23)  
-1/month—*interplanetary teleport*
+At will—*[calm emotions* ](../../magic/spells/calm-emotions.md)(DC 16), *[charm monster* ](../../magic/spells/charm-monster.md)(DC 18), *[clairaudience/clairvoyance* ](../../magic/spells/clairaudience-clairvoyance.md)(clairvoyance only), *[daze monster* ](../../magic/spells/daze-monster.md)(DC 16), *[feather fall](../../magic/spells/feather-fall.md)*  
+3/day—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 17)  
+1/day—*[dominate monster* ](../../magic/spells/dominate-monster.md)(DC 23)  
+1/month—*[interplanetary teleport](../../magic/spells/interplanetary-teleport.md)*
 
 **Statistics**
 

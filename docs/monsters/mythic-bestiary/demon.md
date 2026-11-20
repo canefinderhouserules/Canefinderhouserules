@@ -23,9 +23,9 @@ CE Large outsider (chaotic, demon, evil, extraplanar, mythic)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** constrict (tail slap, 2d6+15 plus crushing coils), greater infuse weapon, multiweapon mastery, mythic power (8/day, surge +1d10), poisoned weapons  
 **Spell-Like Abilities** (CL 16th; concentration +24)  
-Constant—*true seeing*, *unholy aura* (DC 26)  
-At will—*greater teleport* (self plus 50 lbs. of objects only), *project image* (DC 25), *telekinesis* (DC 23)  
-3/day—*blade barrier* (DC 24), *fly*, *heal* (self only)  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura](../../magic/spells/unholy-aura.md)* (DC 26)  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[project image](../../magic/spells/project-image.md)* (DC 25), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 23)  
+3/day—*[blade barrier](../../magic/spells/blade-barrier.md)* (DC 24), *[fly](../../magic/spells/fly.md)*, *[heal](../../magic/spells/heal.md)* (self only)  
 1/day—summon (level 5, 1 marilith 20%, 1 nalfeshnee 35%, or 1d4 hezrous 60%)
 
 **Statistics**

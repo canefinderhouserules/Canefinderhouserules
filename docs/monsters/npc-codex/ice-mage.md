@@ -25,14 +25,14 @@ NE Medium humanoid (elf, human)
 9/day—elemental ray (1d6+7 cold)  
 1/day—elemental blast (14d6 cold, DC 23)  
 **Sorcerer Spells Known** (CL 14th, concentration +20)  
-7th (3/day)—*delayed blast fireball* (cold, DC 25)  
-6th (6/day)—*chain lightning* (cold, DC 24), *elemental body III*, *freezing sphere* (DC 24)  
-5th (7/day)—*baleful polymorph* (DC 21), *cone of cold* (DC 23), *elemental body II*, *summon monster V*  
-4th (7/day)—*elemental body I*, *ice storm*, *resilient sphere* (DC 22), *solid fog*, *wall of ice* (DC 22)  
-3rd (7/day)—*fly*, *lightning bolt* (cold, DC 21), *protection from energy*, *ray of exhaustion* (DC 19), *sleet storm*  
-2nd (8/day)—*acid arrow* (cold), *blindness/deafness* (DC 18), *fog cloud*, *gust of wind* (DC 20), *mirror image*, *scorching ray* (cold)  
-1st (8/day)—*burning hands* (cold, DC 19), *endure elements*, *mage armor*, *magic missile*, *obscuring mist*, *shield*  
-0 (at will)—*acid splash* (cold), *bleed* (DC 16), *detect magic*, *detect poison*, *mage hand*, *ray of frost*, *read magic*, *resistance*, *touch of fatigue* (DC 16)  
+7th (3/day)—*[delayed blast fireball* ](../../magic/spells/delayed-blast-fireball.md)(cold, DC 25)  
+6th (6/day)—*[chain lightning* ](../../magic/spells/chain-lightning.md)(cold, DC 24), *[elemental body III](../../magic/spells/elemental-body-iii.md)*, *[freezing sphere* ](../../magic/spells/freezing-sphere.md)(DC 24)  
+5th (7/day)—*[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 21), *[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 23), *[elemental body II](../../magic/spells/elemental-body-ii.md)*, *[summon monster V](../../magic/spells/summon-monster-v.md)*  
+4th (7/day)—*[elemental body I](../../magic/spells/elemental-body-i.md)*, *[ice storm](../../magic/spells/ice-storm.md)*, *[resilient sphere* ](../../magic/spells/resilient-sphere.md)(DC 22), *[solid fog](../../magic/spells/solid-fog.md)*, *[wall of ice* ](../../magic/spells/wall-of-ice.md)(DC 22)  
+3rd (7/day)—*[fly](../../magic/spells/fly.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(cold, DC 21), *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[ray of exhaustion* ](../../magic/spells/ray-of-exhaustion.md)(DC 19), *[sleet storm](../../magic/spells/sleet-storm.md)*  
+2nd (8/day)—*[acid arrow* ](../../magic/spells/acid-arrow.md)(cold), *[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 18), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 20), *[mirror image](../../magic/spells/mirror-image.md)*, *[scorching ray* ](../../magic/spells/scorching-ray.md)(cold)  
+1st (8/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(cold, DC 19), *[endure elements](../../magic/spells/endure-elements.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[acid splash* ](../../magic/spells/acid-splash.md)(cold), *[bleed* ](../../magic/spells/bleed.md)(DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 16)  
 **Bloodline** elemental (water)
 
 **Tactics**

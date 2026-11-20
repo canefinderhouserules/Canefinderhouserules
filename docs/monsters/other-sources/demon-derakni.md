@@ -22,9 +22,9 @@ CE Large outsider (chaotic, demon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** drone  
 **Spell-Like Abilities** (CL 12th; concentration +15)  
-At will—*contagion* (DC 17), *greater teleport* (self plus 50 lbs. of objects only), *gust of wind*  
-3/day—*enervation*, quickened *summon swarm*  
-1/day—*insect plague*, summon (level 4, 1 derakni or 1d4 vescavor swarms 40%)
+At will—*[contagion](../../magic/spells/contagion.md)* (DC 17), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[gust of wind](../../magic/spells/gust-of-wind.md)*  
+3/day—*[enervation](../../magic/spells/enervation.md)*, quickened *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1/day—*[insect plague](../../magic/spells/insect-plague.md)*, summon (level 4, 1 derakni or 1d4 vescavor swarms 40%)
 
 **Statistics**
 

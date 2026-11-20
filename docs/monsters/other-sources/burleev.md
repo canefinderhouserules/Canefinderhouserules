@@ -21,13 +21,13 @@ N Medium outsider (cold or fire, extraplanar)
 **Speed** 30 ft.  
 **Melee** 2 slams +5 (1d6 plus 1d6 cold or fire)  
 **Spell-Like Abilities** (CL 5th; concentration +8)  
-At will—*detect magic*, *read magic*  
-3/day—*cure light wounds*  
-1/day—*invisibility*  
+At will—*[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*  
+3/day—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*  
+1/day—*[invisibility](../../magic/spells/invisibility.md)*  
 **Sorcerer Spells Known** (CL 5th; concentration +8)  
-2nd (5)—*acid arrow*, *daze monster* (DC 15)  
-1st (7)—*chill touch* (DC 14), *color spray* (DC 14), *magic missile*, *sleep* (DC 14)  
-0 (at will)—*dancing lights*, *daze* (DC 13), *disrupt undead*, *ghost sound* (DC 13), *mage hand*, *prestidigitation*
+2nd (5)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[daze monster* ](../../magic/spells/daze-monster.md)(DC 15)  
+1st (7)—*[chill touch* ](../../magic/spells/chill-touch.md)(DC 14), *[color spray* ](../../magic/spells/color-spray.md)(DC 14), *[magic missile](../../magic/spells/magic-missile.md)*, *[sleep* ](../../magic/spells/sleep.md)(DC 14)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 13), *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

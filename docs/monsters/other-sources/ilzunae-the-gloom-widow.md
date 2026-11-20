@@ -22,25 +22,25 @@ CE Medium outsider (chaotic, demon, evil, extraplanar, incorporeal)
 **Melee** bite +24 (1d6 plus 1d6 cold), 2 claws +24 (1d4 plus 1d6 cold)  
 **Special Attacks** channel negative energy 11/day (DC 25, 8d6), pounce, shadow blend, sprint  
 **Spell-Like Abilities** (CL 22nd; concentration +30)  
-3/day—quickened *blindness/deafness* (DC 20), *charm person* (DC 19)  
+3/day—quickened *[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 20), *[charm person* ](../../magic/spells/charm-person.md)(DC 19)  
 1/day—dominate thrall  
 **Domain Spell-Like Abilities** (CL 15th; concentration +20)  
 At Will—charming smile (15 rounds, DC 17)  
 8/day—dazing touch, touch of darkness (7 rounds)  
 **Invidiak Spell-Like Abilities** (CL 10th; concentration +18)  
-At will—*deeper darkness*, *fear* (DC 22), *greater teleport* (self only), *telekinesis* (DC 23)  
-3/day—*shadow conjuration* (DC 22), *shadow evocation* (DC 23)  
-1/day—*magic jar* (DC 23), summon (level 3, 1 shadow demon 50%)  
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[fear* ](../../magic/spells/fear.md)(DC 22), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self only), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 23)  
+3/day—*[shadow conjuration* ](../../magic/spells/shadow-conjuration.md)(DC 22), *[shadow evocation* ](../../magic/spells/shadow-evocation.md)(DC 23)  
+1/day—*[magic jar* ](../../magic/spells/magic-jar.md)(DC 23), summon (level 3, 1 shadow demon 50%)  
 **Cleric Spells Prepared** (CL 15th; concentration +20)  
-8th—*demand*<sup>D</sup> (DC 23), *rift of ruin* (DC 23)  
-7th—quickened *cure critical wounds*, *destruction* (DC 22), *power word blind*<sup>D</sup>  
-6th—*blade barrier* (DC 21), quickened *death knell* (DC 17), *geas/quest*<sup>D</sup>, *heal*  
-5th—*breath of life*, quickened *command* (DC 16), *flame strike* (DC 20), *greater command* (DC 20), *slay living* (DC 20), *summon monster V*<sup>D</sup> (summons 1d3 shadows)  
-4th—*cure critical wounds*, *discern lies* (DC 19), *poison* (DC 19), *sending*, *shadow conjuration*<sup>D</sup> (DC 19), *unholy blight* (DC 19)  
-3rd—*bestow curse* (DC 18), *cure serious wounds* (2), *dispel magic*, *speak with dead* (DC 18), *suggestion*<sup>D</sup> (DC 18)  
-2nd—*blindness/deafness*<sup>D</sup> (DC 17, only to cause blindness), *cure moderate wounds* (2), *hold person* (DC 17), *silence* (DC 17), *undetectable alignment*  
-1st—*charm person*<sup>D</sup> (DC 16), *command* (DC 16), *cure light wounds* (5), *divine favor*  
-0 (at will)—*bleed* (DC 15), *detect magic*, *guidance*, *read magic*  
+8th—*[demand](../../magic/spells/demand.md)*<sup>D</sup> (DC 23), *[rift of ruin](../../magic/spells/rift-of-ruin.md)* (DC 23)  
+7th—quickened *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[destruction* ](../../magic/spells/destruction.md)(DC 22), *[power word blind](../../magic/spells/power-word-blind.md)*<sup>D</sup>  
+6th—*[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 21), quickened *[death knell* ](../../magic/spells/death-knell.md)(DC 17), *[geas/quest](../../magic/spells/geas-quest.md)*<sup>D</sup>, *[heal](../../magic/spells/heal.md)*  
+5th—*[breath of life](../../magic/spells/breath-of-life.md)*, quickened *[command* ](../../magic/spells/command.md)(DC 16), *[flame strike* ](../../magic/spells/flame-strike.md)(DC 20), *[greater command* ](../../magic/spells/command-greater.md)(DC 20), *[slay living* ](../../magic/spells/slay-living.md)(DC 20), *[summon monster V](../../magic/spells/summon-monster-v.md)*<sup>D</sup> (summons 1d3 shadows)  
+4th—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[discern lies* ](../../magic/spells/discern-lies.md)(DC 19), *[poison* ](../../magic/spells/poison.md)(DC 19), *[sending](../../magic/spells/sending.md)*, *[shadow conjuration](../../magic/spells/shadow-conjuration.md)*<sup>D</sup> (DC 19), *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 19)  
+3rd—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 18), *[cure serious wounds* ](../../magic/spells/cure-serious-wounds.md)(2), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[speak with dead* ](../../magic/spells/speak-with-dead.md)(DC 18), *[suggestion](../../magic/spells/suggestion.md)*<sup>D</sup> (DC 18)  
+2nd—*[blindness/deafness](../../magic/spells/blindness-deafness.md)*<sup>D</sup> (DC 17, only to cause blindness), *[cure moderate wounds* ](../../magic/spells/cure-moderate-wounds.md)(2), *[hold person* ](../../magic/spells/hold-person.md)(DC 17), *[silence* ](../../magic/spells/silence.md)(DC 17), *[undetectable alignment](../../magic/spells/undetectable-alignment.md)*  
+1st—*[charm person](../../magic/spells/charm-person.md)*<sup>D</sup> (DC 16), *[command* ](../../magic/spells/command.md)(DC 16), *[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(5), *[divine favor](../../magic/spells/divine-favor.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** Domain spell; **Domains** Charm, Darkness
 
 **Statistics**

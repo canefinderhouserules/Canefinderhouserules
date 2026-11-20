@@ -26,16 +26,16 @@ NE Medium humanoid (elf)
 9/day—bleeding touch (9 rounds), copycat (18 rounds)  
 At will—master’s illusion (18 rounds/day, DC 27)  
 **Cleric Spells Prepared** (CL 18th; concentration +24)  
-9th—*energy drain* (DC 25), *implosion* (DC 25), *time stop*<sup>D</sup>  
-8th—*antimagic field*, *discern location*, *greater spell immunity*, *mass invisibility*<sup>D</sup>  
-7th—*blasphemy* (2, DC 23), *ethereal jaunt*, *screen*<sup>D</sup>  
-6th—*blade barrier* (DC 22), *harm* (DC 22), *heal*, *mislead*<sup>D</sup>, *wind walk*, *word of recall*  
-5th—*dispel good*, *false vision*<sup>D</sup>, *insect plague*, *slay living* (2, DC 21), *spell resistance*  
-4th—*confusion*<sup>D</sup> (DC 20), *divine power*, *freedom of movement*, *greater magic weapon* (2), *neutralize poison*  
-3rd—*deeper darkness*, *invisibility purge*, *magic vestment*, *meld with stone*, *poison* (DC 19), *nondetection*<sup>D</sup>  
-2nd—*darkness*, *delay poison* (DC 18), *hold person* (DC 18), *invisibility*<sup>D</sup>, *silence* (2, DC 18), *undetectable alignment*  
-1st—*cause fear* (DC 17), *comprehend languages*, *disguise self*<sup>D</sup>, *divine favor*, *entropic shield*, *obscuring mist*, *shield of faith*  
-0 (at will)—*bleed* (DC 16), *detect magic*, *detect poison*, *mending*  
+9th—*[energy drain* ](../../magic/spells/energy-drain.md)(DC 25), *[implosion* ](../../magic/spells/implosion.md)(DC 25), *[time stop](../../magic/spells/time-stop.md)*<sup>D</sup>  
+8th—*[antimagic field](../../magic/spells/antimagic-field.md)*, *[discern location](../../magic/spells/discern-location.md)*, *[greater spell immunity](../../magic/spells/spell-immunity-greater.md)*, *[mass invisibility](../../magic/spells/invisibility-mass.md)*<sup>D</sup>  
+7th—*[blasphemy* ](../../magic/spells/blasphemy.md)(2, DC 23), *[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[screen](../../magic/spells/screen.md)*<sup>D</sup>  
+6th—*[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 22), *[harm* ](../../magic/spells/harm.md)(DC 22), *[heal](../../magic/spells/heal.md)*, *[mislead](../../magic/spells/mislead.md)*<sup>D</sup>, *[wind walk](../../magic/spells/wind-walk.md)*, *[word of recall](../../magic/spells/word-of-recall.md)*  
+5th—*[dispel good](../../magic/spells/dispel-good.md)*, *[false vision](../../magic/spells/false-vision.md)*<sup>D</sup>, *[insect plague](../../magic/spells/insect-plague.md)*, *[slay living* ](../../magic/spells/slay-living.md)(2, DC 21), *[spell resistance](../../magic/spells/spell-resistance.md)*  
+4th—*[confusion](../../magic/spells/confusion.md)*<sup>D</sup> (DC 20), *[divine power](../../magic/spells/divine-power.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[greater magic weapon* ](../../magic/spells/magic-weapon-greater.md)(2), *[neutralize poison](../../magic/spells/neutralize-poison.md)*  
+3rd—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*, *[meld with stone](../../magic/spells/meld-into-stone.md)*, *[poison* ](../../magic/spells/poison.md)(DC 19), *[nondetection](../../magic/spells/nondetection.md)*<sup>D</sup>  
+2nd—*[darkness](../../magic/spells/darkness.md)*, *[delay poison* ](../../magic/spells/delay-poison.md)(DC 18), *[hold person* ](../../magic/spells/hold-person.md)(DC 18), *[invisibility](../../magic/spells/invisibility.md)*<sup>D</sup>, *[silence* ](../../magic/spells/silence.md)(2, DC 18), *[undetectable alignment](../../magic/spells/undetectable-alignment.md)*  
+1st—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 17), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[disguise self](../../magic/spells/disguise-self.md)*<sup>D</sup>, *[divine favor](../../magic/spells/divine-favor.md)*, *[entropic shield](../../magic/spells/entropic-shield.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[mending](../../magic/spells/mending.md)*  
 **D** Domain spell; **Domains** Death, Trickery
 
 **Tactics**

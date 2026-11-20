@@ -22,14 +22,14 @@ N Medium humanoid (human)
 **Melee** mwk dagger +6/+1 (1d4–1/19–20)  
 **Special Attacks** bardic performance 25 rounds/day (move action; countersong, distraction, fascinate, inspire competence +3, inspire courage +2, suggestion)  
 **Bard Spells Known** (CL 7th; concentration +10)  
-3rd (2/day)—*glibness*, *scrying* (DC 16)  
-2nd (4/day)—*blur*, *daze monster* (DC 17), *detect thoughts* (DC 15), *locate object*  
-1st (5/day)—*charm person* (DC 16), *comprehend languages*, *detect secret doors*, *silent image* (DC 14), *unseen servant*  
-0 (at will)—*dancing lights*, *detect magic*, *know direction*, *mage hand*, *message*, *open/close*
+3rd (2/day)—*[glibness](../../magic/spells/glibness.md)*, *[scrying* ](../../magic/spells/scrying.md)(DC 16)  
+2nd (4/day)—*[blur](../../magic/spells/blur.md)*, *[daze monster* ](../../magic/spells/daze-monster.md)(DC 17), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 15), *[locate object](../../magic/spells/locate-object.md)*  
+1st (5/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[detect secret doors](../../magic/spells/detect-secret-doors.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 14), *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*
 
 **Tactics**
 
-**During Combat** The Pathfinder chronicler casts *blur*, then casts *haste* from her scroll. Preferring to stay out of melee, she uses bardic performance to aid her allies, and casts *daze monster* or *charm person* on enemies who come close. If threatened, she withdraws, drinks her *potion of invisibility*, and makes her escape.
+**During Combat** The Pathfinder chronicler casts *[blur](../../magic/spells/blur.md)*, then casts *[haste* ](../../magic/spells/haste.md)from her scroll. Preferring to stay out of melee, she uses bardic performance to aid her allies, and casts *[daze monster* ](../../magic/spells/daze-monster.md)or *[charm person* ](../../magic/spells/charm-person.md)on enemies who come close. If threatened, she withdraws, drinks her *potion of invisibility*, and makes her escape.
 
 **Statistics**
 

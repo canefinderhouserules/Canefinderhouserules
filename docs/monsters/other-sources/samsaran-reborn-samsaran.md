@@ -21,8 +21,8 @@ N Medium humanoid (samsaran)
 **Speed** 30 ft.  
 **Melee** nine-ring broadsword +0 (1d8/×3)  
 **Occultist Spells Known** (CL 1st; concentration +4)  
-1st (2/day)—*disguise self*, *shocking grasp*  
-0 (at will)—*ghost sound* (DC 13), *telekinetic projectile*  
+1st (2/day)—*[disguise self](../../magic/spells/disguise-self.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[ghost sound](../../magic/spells/ghost-sound.md)* (DC 13), *[telekinetic projectile](../../magic/spells/telekinetic-projectile.md)*  
 **Implements**  
 **Evocation** (rod, 2 points)-*Resonant* intense focus (+1); *Focus* energy ray (1d6), radiance (1 min.)  
 **Illusion** (ring, 2 points)-*Resonant* distortion (10%); *Focus* minor figment (1 round)

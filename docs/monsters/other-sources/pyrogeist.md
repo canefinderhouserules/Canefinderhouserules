@@ -22,9 +22,9 @@ CE Large undead (incorporeal)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** breath weapon (30-ft. cone, 10d6 negative energy damage, Reflex DC 22 half, usable every 1d4 rounds), pyrokinetic whirlwind (3/day, 10–30 ft. high, 10d6 negative energy damage, DC 15), soul consumption  
 **Spell-Like Abilities** (CL 11th; concentration +18)  
-At will—*ghost sound* (DC 17), *hold portal*, *mage hand*  
-3/day—*major image* (DC 20)  
-1/day—*nightmare* (DC 22)
+At will—*[ghost sound](../../magic/spells/ghost-sound.md)* (DC 17), *[hold portal](../../magic/spells/hold-portal.md)*, *[mage hand](../../magic/spells/mage-hand.md)*  
+3/day—*[major image](../../magic/spells/major-image.md)* (DC 20)  
+1/day—*[nightmare](../../magic/spells/nightmare.md)* (DC 22)
 
 **Statistics**
 

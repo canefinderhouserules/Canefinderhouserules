@@ -22,7 +22,7 @@ CN Large outsider (chaotic, extraplanar, protean, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** adaptive strike, constrict (1d8+4), warpwave exit  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
-3/day—*color spray* (DC 13)  
+3/day—*[color spray](../../magic/spells/color-spray.md)* (DC 13)  
 1/day—*dispel magic, rage*
 
 **Statistics**

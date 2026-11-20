@@ -22,11 +22,11 @@ CN Small fey
 **Melee** 2 claws +15 (1d6+2)  
 **Special Attacks** sneak attack +3d6, steal shadow, tear shadow  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-At will—*dancing lights, disguise self, major image* (DC 17), *shadow evocation* (simulating leashed shackles only; DC 19), *shadow step*  
+At will—*dancing lights, disguise self, major image* (DC 17), *[shadow evocation](../../magic/spells/shadow-evocation.md)* (simulating leashed shackles only; DC 19), *[shadow step](../../magic/spells/shadow-step.md)*  
 
-3/day—*shadow conjuration* (DC 18)  
+3/day—*[shadow conjuration](../../magic/spells/shadow-conjuration.md)* (DC 18)  
 
-1/day—*shadow evocation* (DC 19), *shadow walk*
+1/day—*[shadow evocation](../../magic/spells/shadow-evocation.md)* (DC 19), *[shadow walk](../../magic/spells/shadow-walk.md)*
 
 **Statistics**
 

@@ -23,7 +23,7 @@ NE Large fey (aquatic)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** breath weapon (30-ft. cone, 10d6 damage plus disease, Reflex DC 21 for half, usable every 1d4 rounds), trample (1d6+9, DC 21)  
 **Spell-Like Abilities** (CL 9th; concentration +14)  
-3/day—*control water*, *diminish plants*, *obscuring mist*
+3/day—*[control water](../../magic/spells/control-water.md)*, *[diminish plants](../../magic/spells/diminish-plants.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*
 
 **Statistics**
 

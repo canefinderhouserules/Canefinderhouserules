@@ -23,10 +23,10 @@ N Medium aberration
 **Ranged** *+1 dagger* +7 (1d4+2)  
 **Special Attacks** hand of the apprentice (7/day)  
 **Spell-Like Abilities** (CL 9th; concentration +13)  
-5th—*feeblemind* (DC 19)  
+5th—*[feeblemind](../../magic/spells/feeblemind.md)* (DC 19)  
 4th—*detect scrying, dimension door, scrying* (DC 18)  
-3rd—*displacement, fly, lightning bolt* (DC 17), *sleet storm*  
-2nd—*alter self, blindness/deafness* (3, DC 16), *mirror image*  
+3rd—*displacement, fly, lightning bolt* (DC 17), *[sleet storm](../../magic/spells/sleet-storm.md)*  
+2nd—*alter self, blindness/deafness* (3, DC 16), *[mirror image](../../magic/spells/mirror-image.md)*  
 1st—*mage armor, magic missile* (2), *shield, ventriloquism* (DC 15)  
 0 (at will)—*arcane mark, daze* (DC 14), *detect magic, read magic*
 

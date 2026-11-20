@@ -22,9 +22,9 @@ CG Medium outsider (azata, chaotic, extraplanar, good, water)
 **Ranged**  cascade +9 ranged touch (3d6)  
 **Special Attacks** cascade, drench  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
-At will—*create water*, *hydraulic push*, *purify food and drink* (water only)  
-3/day—*slipstream*  
-1/day—*control water*, *hydraulic torrent*
+At will—*[create water](../../magic/spells/create-water.md)*, *[hydraulic push](../../magic/spells/hydraulic-push.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)* (water only)  
+3/day—*[slipstream](../../magic/spells/slipstream.md)*  
+1/day—*[control water](../../magic/spells/control-water.md)*, *[hydraulic torrent](../../magic/spells/hydraulic-torrent.md)*
 
 **Statistics**
 

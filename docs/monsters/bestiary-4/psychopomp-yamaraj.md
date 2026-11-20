@@ -23,10 +23,10 @@ N Huge outsider (extraplanar, psychopomp)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** breath weapon (60-ft. cone, 20d6 cold, Reflex DC 30 half, usable every 1d4 rounds; or beetles), poison  
 **Spell-Like Abilities** (CL 20th; concentration +30)  
-Constant—*detect thoughts* (DC 22), *mage armor*, *true seeing*  
-At will—*greater dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *reincarnate*, *rest eternal*, *scrying*, *share language*, *telekinesis* (DC 25), *tongues*  
-3/day—*circle of death* (DC 26), *forcecage* (DC 27), *miracle* (DC 29) (see final judgment), quickened *lightning bolt* (DC 23), *undeath to death* (DC 26)  
-1/day—*soul bind*, summon (level 9, any one CR 19 or lower psychopomp 100%), *wail of the banshee* (DC 29)
+Constant—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 22), *[mage armor](../../magic/spells/mage-armor.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[reincarnate](../../magic/spells/reincarnate.md)*, *[rest eternal](../../magic/spells/rest-eternal.md)*, *[scrying](../../magic/spells/scrying.md)*, *[share language](../../magic/spells/share-language.md)*, *[telekinesis](../../magic/spells/telekinesis.md)* (DC 25), *[tongues](../../magic/spells/tongues.md)*  
+3/day—*[circle of death](../../magic/spells/circle-of-death.md)* (DC 26), *[forcecage](../../magic/spells/forcecage.md)* (DC 27), *[miracle](../../magic/spells/miracle.md)* (DC 29) (see final judgment), quickened *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 23), *[undeath to death](../../magic/spells/undeath-to-death.md)* (DC 26)  
+1/day—*[soul bind](../../magic/spells/soul-bind.md)*, summon (level 9, any one CR 19 or lower psychopomp 100%), *[wail of the banshee](../../magic/spells/wail-of-the-banshee.md)* (DC 29)
 
 **Statistics**
 

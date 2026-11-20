@@ -21,10 +21,10 @@ LG Large dragon (water)
 **Melee** bite +14 (2d6+7), 2 claws +14 (1d8+5), 2 wings +12 (1d6+2), tail +12 (1d8+7)  
 **Special Attacks** breath weapon (80-ft. line, DC 18, 6d6 electricity), repulsion breath  
 **Spell-Like Abilities** (CL 10th)  
-At will—*speak with animals*  
+At will—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Spells Known** (CL 1st)  
-1st (4/day)—*alarm*, *obscuring mist*  
-0 (at will)—*detect magic*, *light*, *message*, *resistance*
+1st (4/day)—*[alarm](../../magic/spells/alarm.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

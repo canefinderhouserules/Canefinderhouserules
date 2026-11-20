@@ -23,9 +23,9 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 bite +8 (1d6+2)  
 **Special Attacks** break bones  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-Constant—*see invisibility*  
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
 At will—*darkness, greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*hold person* (DC 16), *vampiric touch*  
+3/day—*[hold person](../../magic/spells/hold-person.md)* (DC 16), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
 1/day—*summon* (level 3, 1 yaenit 40%)
 
 **Statistics**

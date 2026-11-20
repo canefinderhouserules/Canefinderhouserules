@@ -24,9 +24,9 @@ cold 10, fire 10; **SR** 24
 thought siphon)  
 **Special Attacks** oviposition, sneak attack +3d6  
 **Spell-Like Abilities** (CL 14th; concentration +20)  
-At will—*calm emotions* (DC 18), *charm person* (DC 17), *detect thoughts* (DC 22), *greater teleport* (self plus 50 lbs. of objects only), *invisibility, modify memory* (DC 19), *sending*  
-3/day—*hold person* (DC 19), quickened *invisibility, suggestion* (DC 19)  
-1/day—*dream, feeblemind* (DC 21), *nightmare* (DC 21), *summon* (level 4, 1 oolioddroo 35% or 1d4 shadow demons 35%)
+At will—*[calm emotions](../../magic/spells/calm-emotions.md)* (DC 18), *[charm person](../../magic/spells/charm-person.md)* (DC 17), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 22), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *invisibility, modify memory* (DC 19), *[sending](../../magic/spells/sending.md)*  
+3/day—*[hold person](../../magic/spells/hold-person.md)* (DC 19), quickened *invisibility, suggestion* (DC 19)  
+1/day—*dream, feeblemind* (DC 21), *[nightmare](../../magic/spells/nightmare.md)* (DC 21), *summon* (level 4, 1 oolioddroo 35% or 1d4 shadow demons 35%)
 
 **Statistics**
 

@@ -24,16 +24,16 @@ LG Medium humanoid (human)
 **Ranged**  *+1 shortbow* +21/+16/+11/+6 (1d6+1/×3)  
 **Special Attacks** channel positive energy (DC 23, 60 points), smite evil 7/day (+3 attack and AC, +20 damage, banish evil outsiders)  
 **Spell-Like Abilities** (CL 20th; concentration +23)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 17th; concentration +20)  
-4th—*break enchantment*, *death ward*, *dispel evil*  
-3rd—*daylight* (2), *greater magic weapon*, *prayer*  
-2nd—*delay poison*, *eagle’s splendor* (2), *protection from energy* (2)  
-1st—*divine favor* (3), *lesser restoration* (2)
+4th—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[death ward](../../magic/spells/death-ward.md)*, *[dispel evil](../../magic/spells/dispel-evil.md)*  
+3rd—*[daylight* ](../../magic/spells/daylight.md)(2), *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)*, *[prayer](../../magic/spells/prayer.md)*  
+2nd—*[delay poison](../../magic/spells/delay-poison.md)*, *[eagle’s splendor* ](../../magic/spells/eagles-splendor.md)(2), *[protection from energy* ](../../magic/spells/protection-from-energy.md)(2)  
+1st—*[divine favor* ](../../magic/spells/divine-favor.md)(3), *[lesser restoration* ](../../magic/spells/restoration-lesser.md)(2)
 
 **Tactics**
 
-**Before Combat** The paladin casts *delay poison* and *protection from energy* (electricity and fire) on herself, and *greater magic weapon* on her greatsword.  
+**Before Combat** The paladin casts *[delay poison* ](../../magic/spells/delay-poison.md)and *[protection from energy* ](../../magic/spells/protection-from-energy.md)(electricity and fire) on herself, and *[greater magic weapon* ](../../magic/spells/magic-weapon-greater.md)on her greatsword.  
 **During Combat** The paladin targets the most powerful creature present or an obviously demonic target. She uses her divine bond to add the *brilliant energy*, *holy*, *keen*, and *speed* special abilities to her greatsword as appropriate, and uses mercies to counteract any negative conditions or afflictions she gains.  
 **Base Statistics** Without *delay poison*, *greater magic weapon*, and *protection from energy*, the paladin’s statistics are **Immune** charm, compulsion, disease, fear; **Resist** none; **Melee** *+1 cold iron evil outsider-bane greatsword* +29/+24/+19/+14 (2d6+11/17–20).
 

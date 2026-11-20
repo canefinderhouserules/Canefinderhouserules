@@ -23,15 +23,15 @@ NE Huge dragon (extraplanar)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, DC 29, 20d6 acid), crush, nightmare talons  
 **Psychic Magic** (CL 21st; concentration +27)  
-16 PE—*dimension door* (4 PE), *ghost sound* (0 PE), *nightmare* (5 PE, DC 20), *true strike* (1 PE)  
+16 PE—*[dimension door](../../magic/spells/dimension-door.md)* (4 PE), *[ghost sound](../../magic/spells/ghost-sound.md)* (0 PE), *[nightmare* ](../../magic/spells/nightmare.md)(5 PE, DC 20), *[true strike* ](../../magic/spells/true-strike.md)(1 PE)  
  **Psychic Spells Known** (CL 13th; concentration +18)  
- 6th (4/day)—*dream travel*, *greater dispel magic*  
- 5th (7/day)—*dream scan*, *ego whip III*, *erase impressions*  
- 4th (7/day)—*agonize* (DC 19), *crushing despair* (DC 19), *phantasmal killer* (DC 19), *stoneskin*  
- 3rd (7/day)—*deep slumber* (DC 18), *major image* (DC 18), *vision of Hell*, *wall of nausea*  
- 2nd (7/day)—*haunting mists*, *mind thrust II*, *mirror image*, *scare* (DC 17), *touch of idiocy*  
- 1st (8/day)—*command* (DC 16), *compel hostility*, *detect thoughts* (DC 16), *ill omen*, *unwitting ally* (DC 16)  
- 0 (at will)—*bleed* (DC 15), *dancing lights*, *daze* (DC 15), *detect magic*, *detect psychic significance*, *lullaby* (DC 15), *resistance*, *telekinetic projectile*
+ 6th (4/day)—*[dream travel](../../magic/spells/dream-travel.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*  
+ 5th (7/day)—*[dream scan](../../magic/spells/dream-scan.md)*, *[ego whip III](../../magic/spells/ego-whip-iii.md)*, *[erase impressions](../../magic/spells/erase-impressions.md)*  
+ 4th (7/day)—*[agonize* ](../../magic/spells/agonize.md)(DC 19), *[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 19), *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 19), *[stoneskin](../../magic/spells/stoneskin.md)*  
+ 3rd (7/day)—*[deep slumber](../../magic/spells/deep-slumber.md)* (DC 18), *[major image* ](../../magic/spells/major-image.md)(DC 18), *[vision of Hell](../../magic/spells/vision-of-hell.md)*, *[wall of nausea](../../magic/spells/wall-of-nausea.md)*  
+ 2nd (7/day)—*[haunting mists](../../magic/spells/haunting-mists.md)*, *[mind thrust II](../../magic/spells/mind-thrust-ii.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[scare* ](../../magic/spells/scare.md)(DC 17), *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+ 1st (8/day)—*[command* ](../../magic/spells/command.md)(DC 16), *[compel hostility](../../magic/spells/compel-hostility.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[ill omen](../../magic/spells/ill-omen.md)*, *[unwitting ally* ](../../magic/spells/unwitting-ally.md)(DC 16)  
+ 0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 15), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect psychic significance](../../magic/spells/detect-psychic-significance.md)*, *[lullaby* ](../../magic/spells/lullaby.md)(DC 15), *[resistance](../../magic/spells/resistance.md)*, *[telekinetic projectile](../../magic/spells/telekinetic-projectile.md)*
 
 **Statistics**
 

@@ -22,9 +22,9 @@ NG Small outsider (angel, extraplanar, good)
 **Melee** slam –1 (1d3–4)  
 **Special Attacks** breath weapon (15-ft. line, 1d6 cold or 1d6 fire, Reflex DC 12 half, usable every 1d4 rounds)  
 **Spell-Like Abilities** (CL 3rd; concentration +3)  
-Constant—*detect evil*, *know direction*  
-1/day—*aid*, *daylight*  
-1/week—*commune* (six questions, CL 12th)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[know direction](../../magic/spells/know-direction.md)*  
+1/day—*[aid](../../magic/spells/aid.md)*, *[daylight](../../magic/spells/daylight.md)*  
+1/week—*[commune](../../magic/spells/commune.md)* (six questions, CL 12th)
 
 **Statistics**
 

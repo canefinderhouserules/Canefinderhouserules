@@ -23,9 +23,9 @@ CN Small fey
 **Spell-Like Abilities** (CL 5th; concentration +10)  
 8/day—shadowstrike (1d4+2 nonlethal and dazed 1 minute)  
 **Sorcerer Spells Known** (CL 5th; concentration +10)  
-2nd (5/day)—*darkvision*, *dust of twilight* (DC 17),  *haunting mists* (DC 17)  
-1st (8/day)—*bungle* (DC 16), *lock gaze* (DC 16), *mage  armor*, *ray of enfeeblement* (DC 16), *shadow weapon* (DC 16)  
-0 (at will)—*arcane mark*, *daze*(DC 15), *detect magic*,  *haunted fey aspect*, *message*, *read magic*  
+2nd (5/day)—*[darkvision](../../magic/spells/darkvision.md)*, *[dust of twilight](../../magic/spells/dust-of-twilight.md)* (DC 17),  *[haunting mists](../../magic/spells/haunting-mists.md)* (DC 17)  
+1st (8/day)—*[bungle](../../magic/spells/bungle.md)* (DC 16), *[lock gaze](../../magic/spells/lock-gaze.md)* (DC 16), *[mage  armor](../../magic/spells/mage-armor.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 16), *[shadow weapon](../../magic/spells/shadow-weapon.md)* (DC 16)  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[daze](../../magic/spells/daze.md)*(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*,  *[haunted fey aspect](../../magic/spells/haunted-fey-aspect.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** shadow
 
 **Statistics**

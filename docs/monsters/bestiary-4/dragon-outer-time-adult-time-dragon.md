@@ -23,13 +23,13 @@ N Huge dragon
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, 12d10 electricity, DC 26), crush  
 **Spell-Like Abilities** (CL 19th; concentration +23)  
-Constant—*detect magic*  
-At will—*clairaudience/clairvoyance*, *share memory*  
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[share memory](../../magic/spells/share-memory.md)*  
 **Sorcerer Spells Known** (CL 7th; concentration +11)  
-3rd (5/day)—*dispel magic*, *slow* (DC 17)  
-2nd (7/day)—*arcane lock*, *blur*, *detect thoughts* (DC 16)  
-1st (7/day)—*erase*, *feather fall*, *identify*, *mage armor*, *magic missile*  
-0 (at will)—*light*, *mage hand*, *message*, *read magic*, 3 more
+3rd (5/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[slow* ](../../magic/spells/slow.md)(DC 17)  
+2nd (7/day)—*[arcane lock](../../magic/spells/arcane-lock.md)*, *[blur](../../magic/spells/blur.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16)  
+1st (7/day)—*[erase](../../magic/spells/erase.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[identify](../../magic/spells/identify.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*  
+0 (at will)—*[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, 3 more
 
 **Statistics**
 

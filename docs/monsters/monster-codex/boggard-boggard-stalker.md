@@ -22,7 +22,7 @@ CE Medium humanoid (boggard)
 **Ranged**  javelin +10 (1d6+5)  
 **Special Attacks** combat style (two-weapon), favored enemy (dragons +2, humans +4), terrifying croak (DC 12)  
 **Ranger Spells Prepared** (CL 4th; concentration +5)  
-1st—*longstrider*, *resist energy*
+1st—*[longstrider](../../magic/spells/longstrider.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Statistics**
 

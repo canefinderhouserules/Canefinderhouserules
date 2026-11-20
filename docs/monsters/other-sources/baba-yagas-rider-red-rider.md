@@ -21,11 +21,11 @@ LN Medium fey
 **Melee** *+2 flaming scimitar* +18/+13 (1d6+9/15–20)  
 **Special Attacks** bright blast, Rider’s weapon, weal or woe (DC 23)  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-Constant—*see invisibility*  
-At will—*chill touch* (DC 16), *detect thoughts* (DC 17), *zone of truth* (DC 17)  
-5/day—*ice storm*  
-3/day—*cone of cold* (DC 20), *flame strike* (DC 20)  
-1/day—*fire storm* (DC 23)
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[chill touch* ](../../magic/spells/chill-touch.md)(DC 16), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[zone of truth* ](../../magic/spells/zone-of-truth.md)(DC 17)  
+5/day—*[ice storm](../../magic/spells/ice-storm.md)*  
+3/day—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 20), *[flame strike* ](../../magic/spells/flame-strike.md)(DC 20)  
+1/day—*[fire storm* ](../../magic/spells/fire-storm.md)(DC 23)
 
 **Statistics**
 

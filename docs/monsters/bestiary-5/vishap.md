@@ -28,23 +28,23 @@ Reflex DC 30 half, usable every 1d4 rounds), constrict
 (2d8+13), poison, swallow whole (10d6 bludgeoning
 damage, AC 25, 36 hp)  
 **Spell-Like Abilities** (CL 25th; concentration +32)  
-Constant—*tongues*  
+Constant—*[tongues](../../magic/spells/tongues.md)*  
 
-At will—*etherealness*  
+At will—*[etherealness](../../magic/spells/etherealness.md)*  
 
 5/day—*greater create mindscape, greater possession* (DC 25)  
 **Psychic Spells Known** (CL 15th; concentration +22)  
-7th (1/day)—*ethereal envelopment* (DC 24), *psychic crush III* (DC 24)  
+7th (1/day)—*[ethereal envelopment](../../magic/spells/ethereal-envelopment.md)* (DC 24), *[psychic crush III](../../magic/spells/psychic-crush-iii.md)* (DC 24)  
 
-6th (2/day)—*ego whip IV* (DC 23), *psychic surgery*  
+6th (2/day)—*[ego whip IV](../../magic/spells/ego-whip-iv.md)* (DC 23), *[psychic surgery](../../magic/spells/psychic-surgery.md)*  
 
-5th (3/day)—*etheric shards* (DC 22), *explode head* (DC 22), *id insinuation IV* (DC 22), *wall of ectoplasm*  
+5th (3/day)—*[etheric shards](../../magic/spells/etheric-shards.md)* (DC 22), *[explode head](../../magic/spells/explode-head.md)* (DC 22), *[id insinuation IV](../../magic/spells/id-insinuation-iv.md)* (DC 22), *[wall of ectoplasm](../../magic/spells/wall-of-ectoplasm.md)*  
 
-4th (5/day)—*condensed ether, mind probe* (DC 21), *mindwipe* (DC 21), *synaptic scramble* (DC 21), *thought shield III, thoughtsense*  
+4th (5/day)—*condensed ether, mind probe* (DC 21), *[mindwipe](../../magic/spells/mindwipe.md)* (DC 21), *[synaptic scramble](../../magic/spells/synaptic-scramble.md)* (DC 21), *thought shield III, thoughtsense*  
 
 3rd (6/day)—*analyze aura, ectoplasmic snare, node of blasting* (DC 20), *purge spirit, mindscape door, synaptic pulse* (DC 20)  
 
-2nd (7/day)—*anticipate thoughts, aversion* (DC 19), *demand offering* (DC 19), *detect mindscape, hypercognition, instigate psychic duel* (DC 19), *mental block* (DC 19)  
+2nd (7/day)—*anticipate thoughts, aversion* (DC 19), *[demand offering](../../magic/spells/demand-offering.md)* (DC 19), *detect mindscape, hypercognition, instigate psychic duel* (DC 19), *[mental block](../../magic/spells/mental-block.md)* (DC 19)  
 
 1st (7/day)—*burst of adrenaline, charge object, decrepit disguise* (DC 18), *deja vu, mindlink, psychic reading, telempathic projection*
 

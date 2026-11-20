@@ -25,14 +25,14 @@ CE Medium humanoid (human)
 At will—elemental wall (13 rounds/day)  
  9/day—force missile (1d4+6)  
 **Evoker Spells Prepared** (CL 13th; concentration +19)  
-7th—*delayed blast fireball* (DC 25), *statue*  
-6th—*elemental body III*, maximized *fireball* (2, DC 21), *greater dispel magic*  
-5th—*passwall*, maximized *scorching ray* (2), *telekinesis*, *waves of fatigue*  
-4th—maximized *burning hands* (2, DC 19), *greater invisibility*, *phantasmal killer* (DC 20), *shout* (DC 22), *wall of fire*  
-3rd—*dispel magic*, *explosive runes*, *fireball* (DC 21), *flame arrow*, *fly*, *protection from energy*  
-2nd—*flaming sphere* (DC 20), *gust of wind* (DC 20), *pyrotechnics* (2, DC 18), *resist energy*, *scorching ray*, *web* (DC 18)  
-1st—*burning hands* (DC 19), *expeditious retreat*, *grease*, *mage armor*, *magic missile* (2), *ray of enfeeblement* (DC 17)  
-0 (at will)—*bleed* (DC 16), *dancing lights*, *mage hand*, *open/close*  
+7th—*[delayed blast fireball* ](../../magic/spells/delayed-blast-fireball.md)(DC 25), *[statue](../../magic/spells/statue.md)*  
+6th—*[elemental body III](../../magic/spells/elemental-body-iii.md)*, maximized *[fireball* ](../../magic/spells/fireball.md)(2, DC 21), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*  
+5th—*[passwall](../../magic/spells/passwall.md)*, maximized *[scorching ray* ](../../magic/spells/scorching-ray.md)(2), *[telekinesis](../../magic/spells/telekinesis.md)*, *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*  
+4th—maximized *[burning hands* ](../../magic/spells/burning-hands.md)(2, DC 19), *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 20), *[shout* ](../../magic/spells/shout.md)(DC 22), *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[explosive runes](../../magic/spells/explosive-runes.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 21), *[flame arrow](../../magic/spells/flame-arrow.md)*, *[fly](../../magic/spells/fly.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd—*[flaming sphere* ](../../magic/spells/flaming-sphere.md)(DC 20), *[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 20), *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(2, DC 18), *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[web* ](../../magic/spells/web.md)(DC 18)  
+1st—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 19), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[grease](../../magic/spells/grease.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile* ](../../magic/spells/magic-missile.md)(2), *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 17)  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 16), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*  
 **Opposition Schools** divination, enchantment
 
 **Tactics**

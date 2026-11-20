@@ -23,15 +23,15 @@ LN Medium humanoid (dwarf)
 **Ranged**  light crossbow +10 (1d8/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids  
 **Abjurer Spells Prepared** (CL 16th; concentration +22)  
-8th—quickened *charm monster* (DC 23), *mind blank*, *prismatic wall*  
-7th—*banishment* (DC 23), quickened *haste*, *mass hold person* (DC 25), *phase door*  
-6th—*globe of invulnerability*, *greater dispel magic*, *greater heroism*, *mass bull’s strength*, *mass suggestion* (DC 24)  
-5th—*break enchantment*, stilled *dimension door*, *dominate person* (2, DC 23), *telepathic bond*, *wall of stone*  
-4th—*arcane eye*, *charm monster* (DC 22), *confusion* (DC 22), *remove curse*, *solid fog*, *stoneskin*  
-3rd—*dispel magic*, *haste* (DC 19), *hold person* (2, DC 21), *protection from energy*, *wind wall*  
-2nd—*acid arrow*, *hideous laughter* (DC 20), *invisibility*, *levitate*, *resist energy* (2), *see invisibility*  
-1st—*alarm*, *charm person* (DC 19), *expeditious retreat*, *feather fall*, *grease*, *mage armor*, *true strike*  
-0 (at will)—*dancing lights*, *detect magic*, *message*, *resistance*  
+8th—quickened *[charm monster* ](../../magic/spells/charm-monster.md)(DC 23), *[mind blank](../../magic/spells/mind-blank.md)*, *[prismatic wall](../../magic/spells/prismatic-wall.md)*  
+7th—*[banishment* ](../../magic/spells/banishment.md)(DC 23), quickened *[haste](../../magic/spells/haste.md)*, *[mass hold person* ](../../magic/spells/hold-person-mass.md)(DC 25), *[phase door](../../magic/spells/phase-door.md)*  
+6th—*[globe of invulnerability](../../magic/spells/globe-of-invulnerability.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater heroism](../../magic/spells/heroism-greater.md)*, *[mass bull’s strength](../../magic/spells/bulls-strength-mass.md)*, *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 24)  
+5th—*[break enchantment](../../magic/spells/break-enchantment.md)*, stilled *[dimension door](../../magic/spells/dimension-door.md)*, *[dominate person* ](../../magic/spells/dominate-person.md)(2, DC 23), *[telepathic bond](../../magic/spells/telepathic-bond.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+4th—*[arcane eye](../../magic/spells/arcane-eye.md)*, *[charm monster* ](../../magic/spells/charm-monster.md)(DC 22), *[confusion* ](../../magic/spells/confusion.md)(DC 22), *[remove curse](../../magic/spells/remove-curse.md)*, *[solid fog](../../magic/spells/solid-fog.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[haste* ](../../magic/spells/haste.md)(DC 19), *[hold person* ](../../magic/spells/hold-person.md)(2, DC 21), *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 20), *[invisibility](../../magic/spells/invisibility.md)*, *[levitate](../../magic/spells/levitate.md)*, *[resist energy* ](../../magic/spells/resist-energy.md)(2), *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st—*[alarm](../../magic/spells/alarm.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 19), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[grease](../../magic/spells/grease.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[message](../../magic/spells/message.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **Opposition Schools** evocation, necromancy
 
 **Tactics**

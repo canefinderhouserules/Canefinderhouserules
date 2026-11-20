@@ -26,9 +26,9 @@ polymorph effects; **Resist** electricity 10, fire 10; **SR** 22
 (DC 20), oviposition, web (+17 ranged, DC 22, 11 hp)  
 **Spell-Like Abilities** (CL 11th; concentration +16)  
 Constant—*air walk, freedom of movement*  
-At will—*statue*  
-3/day—*baleful polymorph* (DC 20), *protection from law*  
-1/day—*dimension door, mass reduce person* (DC 19), *polymorph any object* (DC 23)
+At will—*[statue](../../magic/spells/statue.md)*  
+3/day—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 20), *[protection from law](../../magic/spells/protection-from-law.md)*  
+1/day—*dimension door, mass reduce person* (DC 19), *[polymorph any object](../../magic/spells/polymorph-any-object.md)* (DC 23)
 
 **Statistics**
 

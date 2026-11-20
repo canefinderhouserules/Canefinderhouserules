@@ -24,10 +24,10 @@ CE Large outsider (cold, oni, giant, native, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** staggering strikes  
 **Spell-Like Abilities** (CL 18th; concentration +22)  
-Constant—*fly*, *mage armor*  
-At will—*darkness*, *invisibility* (self only)  
-3/day— *charm monster* (DC 18), *cone of cold* (DC 19), *deep slumber* (DC 17), *gaseous form* (self only)  
-1/day—*polar ray*, *solid fog*
+Constant—*[fly](../../magic/spells/fly.md)*, *[mage armor](../../magic/spells/mage-armor.md)*  
+At will—*[darkness](../../magic/spells/darkness.md)*, *[invisibility* ](../../magic/spells/invisibility.md)(self only)  
+3/day— *[charm monster* ](../../magic/spells/charm-monster.md)(DC 18), *[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 19), *[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 17), *[gaseous form* ](../../magic/spells/gaseous-form.md)(self only)  
+1/day—*[polar ray](../../magic/spells/polar-ray.md)*, *[solid fog](../../magic/spells/solid-fog.md)*
 
 **Statistics**
 

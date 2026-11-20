@@ -23,10 +23,10 @@ CG Huge magical beast
 **Space** 15 ft., **Reach** 5 ft. (15 ft. with tail)  
 **Special Attacks** glowsap, rake (4 claws +10, 1d6+3)  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-Constant—*entropic shield*  
-At will—*dancing lights*, *restful sleep*  
-3/day—*deep slumber* (DC 17), *dream*, *wandering star motes* (DC 18)  
-1/day—*cloak of dreams* (DC 20)
+Constant—*[entropic shield](../../magic/spells/entropic-shield.md)*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[restful sleep](../../magic/spells/restful-sleep.md)*  
+3/day—*[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 17), *[dream](../../magic/spells/dream.md)*, *[wandering star motes](../../magic/spells/wandering-star-motes.md)* (DC 18)  
+1/day—*[cloak of dreams](../../magic/spells/cloak-of-dreams.md)* (DC 20)
 
 **Statistics**
 

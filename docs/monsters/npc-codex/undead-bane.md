@@ -25,13 +25,13 @@ N Medium humanoid (human)
 **Spell-Like Abilities** (CL 6th; concentration +8)  
 5/day—touch of destiny  
 **Ranger Spells Prepared** (CL 6th; concentration +8)  
-2nd—*barkskin*, *snare*  
-1st—*alarm*, *entangle*, *resist energy*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[snare](../../magic/spells/snare.md)*  
+1st—*[alarm](../../magic/spells/alarm.md)*, *[entangle](../../magic/spells/entangle.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
 **Sorcerer Spells Known**(CL 6th; concentration +8; arcane spell failure 20%)  
-3rd (3/day)—*slow* (DC 15)  
-2nd (6/day)—*false life*, *mirror image*  
-1st (7/day)—*burning hands* (DC 13), *detect undead*, *silent image* (DC 13), *true strike*  
-0 (at will)—*acid splash*, *disrupt undead*, *light*, *mage hand*, *message*, *open/close*, *resistance*  
+3rd (3/day)—*[slow* ](../../magic/spells/slow.md)(DC 15)  
+2nd (6/day)—*[false life](../../magic/spells/false-life.md)*, *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (7/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 13), *[detect undead](../../magic/spells/detect-undead.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 13), *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **Bloodline** destined
 
 **Tactics**

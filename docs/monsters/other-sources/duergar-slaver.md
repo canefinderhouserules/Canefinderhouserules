@@ -24,7 +24,7 @@ LE Medium humanoid (dwarf)
 **Ranged**  mwk light crossbow +5 (1d8/19–20)  
 **Special Attacks** favored enemy (dwarves +2)  
 **Spell-Like Abilities** (CL 3rd)  
-1/day—*enlarge person* (self only), *invisibility* (self only)
+1/day—*[enlarge person* ](../../magic/spells/enlarge-person.md)(self only), *[invisibility* ](../../magic/spells/invisibility.md)(self only)
 
 **Statistics**
 

@@ -20,9 +20,9 @@ NE Medium undead
 **Speed** 30 ft.  
 **Melee** battleaxe +4 (1d8+1/×3), claw –1 (1d4) or 2 claws +4 (1d4+1)  
 **Spell-Like Abilities** (CL 4th; concentration +6)  
-At will—*darkness*  
-3/day—*ghoul touch*, *scare* (DC 14)  
-1/day—*animate dead*, *ray of exhaustion*, summon (level 3, 1d3 bat or bird swarms [use the same stats], 1d2 constrictor snakes, 1d3 venomous snakes, or 1d4 wolves)
+At will—*[darkness](../../magic/spells/darkness.md)*  
+3/day—*[ghoul touch](../../magic/spells/ghoul-touch.md)*, *[scare* ](../../magic/spells/scare.md)(DC 14)  
+1/day—*[animate dead](../../magic/spells/animate-dead.md)*, *[ray of exhaustion](../../magic/spells/ray-of-exhaustion.md)*, summon (level 3, 1d3 bat or bird swarms [use the same stats], 1d2 constrictor snakes, 1d3 venomous snakes, or 1d4 wolves)
 
 **Statistics**
 

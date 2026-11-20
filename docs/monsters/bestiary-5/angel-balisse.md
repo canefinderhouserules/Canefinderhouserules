@@ -22,10 +22,10 @@ NG Medium outsider (angel, extraplanar, good)
 **Melee** +1 flaming heavy mace +14/+9 (1d8+4 plus 1d6 fire)  
 **Special Attacks** brand of the impenitent  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
-Constant—*detect evil*  
-At will—*aid*, *dispel evil* (DC 19), *dispel magic*, *holy smite* (DC 18), *invisibility* (self only), *plane shift* (self only), *remove curse*, *remove disease*, *remove fear*  
-3/day—*cure serious wounds*, *hold person* (DC 16)  
-1/day—*atonement*, *mark of justice*
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[dispel evil](../../magic/spells/dispel-evil.md)* (DC 19), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[holy smite](../../magic/spells/holy-smite.md)* (DC 18), *[invisibility](../../magic/spells/invisibility.md)* (self only), *[plane shift](../../magic/spells/plane-shift.md)* (self only),[ *remove curse](../../magic/spells/remove-curse.md)*, *[remove disease](../../magic/spells/remove-disease.md)*, *[remove fear](../../magic/spells/remove-fear.md)*  
+3/day—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 16)  
+1/day—*[atonement](../../magic/spells/atonement.md)*, *[mark of justice](../../magic/spells/mark-of-justice.md)*
 
 **Statistics**
 

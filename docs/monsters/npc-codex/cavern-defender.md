@@ -24,10 +24,10 @@ N Medium humanoid (elf, human)
 **Spell-Like Abilities** (CL 5th; concentration +9)  
 7/day—acid dart  
 **Druid Spells Prepared** (CL 5th; concentration +9)  
-3rd—*spike growth* (2, DC 17), *stone shape*<sup>D</sup>  
-2nd—*barkskin*, *bear’s endurance*, *soften earth and stone*<sup>D</sup>, *summon swarm*  
-1st—*cure light wounds*, *magic stone*<sup>D</sup>, *obscuring mist*, *shillelagh*, *speak with animals*  
-0 (at will)—*create water*, *guidance*, *know direction*, *light*  
+3rd—*[spike growth* ](../../magic/spells/spike-growth.md)(2, DC 17), *[stone shape](../../magic/spells/stone-shape.md)*<sup>D</sup>  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*<sup>D</sup>,[ *summon swarm](../../magic/spells/summon-swarm.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[magic stone](../../magic/spells/magic-stone.md)*<sup>D</sup>, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shillelagh](../../magic/spells/shillelagh.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[guidance](../../magic/spells/guidance.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[light](../../magic/spells/light.md)*  
 **D** Domain spell; **Domain** Earth
 
 **Tactics**

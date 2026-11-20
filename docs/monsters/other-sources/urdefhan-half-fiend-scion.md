@@ -22,15 +22,15 @@ NE Medium outsider (native)
 **Melee** *+1 vicious rhoka sword* +20/+15/+10 (1d10+7/18–20 plus 2d6), bite +13 (1d6+3), claw +13 (1d4+3) or mwk silver light mace +19/+14/+9 (1d6+6), bite +13 (1d6+3), claw +13 (1d4+3)  
 **Special Attacks** blessings 9/day, blood drain (1 Con), channel negative energy 6/day (DC 23, 4d6), fervor 13/day (4d6), sacred weapon (+3 1d10, 12 rounds/day), smite good, Strength damage  
 **Spell-Like Abilities** (CL 3rd; concentration +9)  
-At will—*feather fall*  
-3/day—*align weapon*, *darkness*, *death knell* (DC 17), *poison*, *ray of enfeeblement* (DC 17), *unholy aura*  
-1/day—*blasphemy*, *contagion*, *desecrate*, *horrid wilting*, *unhallow*, *unholy blight*  
+At will—*[feather fall](../../magic/spells/feather-fall.md)*  
+3/day—*[align weapon](../../magic/spells/align-weapon.md)*, *[darkness](../../magic/spells/darkness.md)*, *[death knell](../../magic/spells/death-knell.md)* (DC 17), *[poison](../../magic/spells/poison.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 17), *[unholy aura](../../magic/spells/unholy-aura.md)*  
+1/day—*[blasphemy](../../magic/spells/blasphemy.md)*, *[contagion](../../magic/spells/contagion.md)*, *[desecrate](../../magic/spells/desecrate.md)*, *[horrid wilting](../../magic/spells/horrid-wilting.md)*, *[unhallow](../../magic/spells/unhallow.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)*  
 **Warpriest Spells Prepared** (CL 12th; concentration +19)  
-4th—*dismissal* (DC 21), *divine power*, *inflict critical wounds* (DC 21), *summon monster IV*  
-3rd—*bestow curse* (DC 20), *contagion* (DC 20), *deeper darkness*, *magic circle against good*, *protection from energy*, *summon monster III*  
-2nd—*augury*, *bull’s strength*, *enthrall* (DC 19), *lesser restoration*, *spiritual weapon*, *summon monster II* (2)  
-1st—*bless*, *cause fear* (DC 18), *command* (DC 18), *divine favor*, *shield of faith*, *summon monster I* (2)  
-0 (at will)—*bleed* (DC 17), *detect magic*, *guidance*, *read magic*, *resistance*
+4th—*[dismissal](../../magic/spells/dismissal.md)* (DC 21), *[divine power](../../magic/spells/divine-power.md)*, *[inflict critical wounds* ](../../magic/spells/inflict-critical-wounds.md)(DC 21), *[summon monster IV](../../magic/spells/summon-monster-iv.md)*  
+3rd—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 20), *[contagion* ](../../magic/spells/contagion.md)(DC 20), *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[summon monster III](../../magic/spells/summon-monster-iii.md)*  
+2nd—*[augury](../../magic/spells/augury.md)*, *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[enthrall* ](../../magic/spells/enthrall.md)(DC 19), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*, *[summon monster II](../../magic/spells/summon-monster-ii.md)* (2)  
+1st—*[bless](../../magic/spells/bless.md)*, *[cause fear* ](../../magic/spells/cause-fear.md)(DC 18), *[command* ](../../magic/spells/command.md)(DC 18), *[divine favor](../../magic/spells/divine-favor.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*, *[summon monster I](../../magic/spells/summon-monster-i.md)* (2)  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 17), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

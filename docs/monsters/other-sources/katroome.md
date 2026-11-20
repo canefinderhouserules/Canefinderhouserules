@@ -20,8 +20,8 @@ CN Small magical beast
 **Melee** slam +1 (1d3–2)  
 **Special Attacks** web (+5 ranged, DC 11, 2 hp)  
 **Spell-Like Abilities** (CL 5th; concentration +6)  
-3/day—*command* (DC 12), *detect magic*  
-1/day—*invisibility*, *suggestion* (DC 14)
+3/day—*[command](../../magic/spells/command.md)* (DC 12), *[detect magic](../../magic/spells/detect-magic.md)*  
+1/day—*[invisibility](../../magic/spells/invisibility.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 14)
 
 **Statistics**
 

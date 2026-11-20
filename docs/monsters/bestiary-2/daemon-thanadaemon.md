@@ -21,9 +21,9 @@ NE Medium outsider (daemon, evil, extraplanar)
 **Melee** *+2 quarterstaff* +22/+17/+12 (1d6+9 plus energy drain) or 2 claws +20 (1d4+5 plus energy drain)  
 **Special Attacks** draining weapon, energy drain (1 level, DC 21), fear gaze, soul crush  
 **Spell-Like Abilities** (CL 15th; concentration +19)  
-Constant—*air walk*, *true seeing*  
-At will—*greater teleport* (self plus skiff and passengers only), *plane shift* (self plus skiff and passengers only, Astral, Ethereal, and evil-aligned planes only)  
-3/day—*animate dead*, *desecrate*, *enervation*  
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus skiff and passengers only), *[plane shift](../../magic/spells/plane-shift.md)* (self plus skiff and passengers only, Astral, Ethereal, and evil-aligned planes only)  
+3/day—*[animate dead](../../magic/spells/animate-dead.md)*, *[desecrate](../../magic/spells/desecrate.md)*, *[enervation](../../magic/spells/enervation.md)*  
 1/day—summon (level 4, 1d4 hydrodaemons 80% or 1 thanadaemon 35%)
 
 **Statistics**

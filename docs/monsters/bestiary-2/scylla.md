@@ -23,10 +23,10 @@ CE Huge aberration (aquatic)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** bleed (1d6), constrict (1d6+8)  
 **Spell-Like Abilities** (CL 16th; concentration +22)  
-Constant—*freedom of movement*, *nondetection*, *see invisibility*  
-At will—*acid arrow*, *control water*, *fog cloud*, *greater dispel magic*, *major image* (DC 19)  
-3/day—*black tentacles*, *charm monster* (DC 20), *insanity* (DC 23), *mirage arcana* (DC 21), *solid fog*  
-1/day—*control weather*, *power word stun*, *project image* (DC 23), summon (level 8, 1 charybdis)
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[nondetection](../../magic/spells/nondetection.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[control water](../../magic/spells/control-water.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[major image* ](../../magic/spells/major-image.md)(DC 19)  
+3/day—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[charm monster* ](../../magic/spells/charm-monster.md)(DC 20), *[insanity* ](../../magic/spells/insanity.md)(DC 23), *[mirage arcana* ](../../magic/spells/mirage-arcana.md)(DC 21), *[solid fog](../../magic/spells/solid-fog.md)*  
+1/day—*[control weather](../../magic/spells/control-weather.md)*, *[power word stun](../../magic/spells/power-word-stun.md)*, *[project image* ](../../magic/spells/project-image.md)(DC 23), summon (level 8, 1 charybdis)
 
 **Statistics**
 

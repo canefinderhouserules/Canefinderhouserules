@@ -23,11 +23,11 @@ CE Gargantuan monstrous humanoid (aquatic, deep one)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** Devastating Strike, staggering presence  
 **Spell-Like Abilities** (CL 14th; concentration +18)  
-Constant—*cloak of chaos* (DC 22), *freedom of movement*  
-At will—*dream*, *hold monster* (DC 19)  
-3/day—*black tentacles*, *demand* (DC 22), *insanity* (DC 21), *nightmare* (DC 19)  
-1/day—*dominate monster* (DC 23), *symbol of insanity* (DC 22)  
-1/week—*binding* (DC 22)
+Constant—*[cloak of chaos](../../magic/spells/cloak-of-chaos.md)* (DC 22), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+At will—*[dream](../../magic/spells/dream.md)*, *[hold monster](../../magic/spells/hold-monster.md)* (DC 19)  
+3/day—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[demand](../../magic/spells/demand.md)* (DC 22), *[insanity](../../magic/spells/insanity.md)* (DC 21), *[nightmare](../../magic/spells/nightmare.md)* (DC 19)  
+1/day—*[dominate monster](../../magic/spells/dominate-monster.md)* (DC 23), *[symbol of insanity](../../magic/spells/symbol-of-insanity.md)* (DC 22)  
+1/week—*[binding](../../magic/spells/binding.md)* (DC 22)
 
 **Statistics**
 

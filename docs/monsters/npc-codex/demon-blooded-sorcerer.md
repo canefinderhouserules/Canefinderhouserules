@@ -22,16 +22,16 @@ CE Medium humanoid (human, orc)
 **Melee** 2 claws +12 (1d6+3 plus 1d6 fire) or *+1 flaming greataxe* +13/+8 (1d12+5/×3 plus 1d6 fire)  
 **Special Attacks** claws (2, 1d6+7 plus 1d6 fire, treated as magic weapons, 7 rounds/day)  
 **Sorcerer Spells Known** (CL 18th; concentration +25)  
-9th (3/day)—*meteor swarm*  
-8th (5/day)—*incendiary cloud* (DC 27), *summon monster VIII*, *unholy aura*  
-7th (7/day)—*delayed blast fireball* (DC 24), *greater teleport*, *power word blind*, *reverse gravity*  
-6th (7/day)—*acid fog*, *chain lightning* (DC 23), *transformation*, *true seeing*  
-5th (7/day)—*cloudkill* (DC 24), *cone of cold* (DC 22), *dismissal* (DC 22), *feeblemind* (DC 22), *summon monster V*  
-4th (7/day)—*black tentacles*, *confusion* (DC 21), *dimension door*, *phantasmal killer* (DC 21), *stoneskin*  
-3rd (8/day)—*dispel magic*, *fly*, *gaseous form*, *rage*, *slow* (DC 20)  
-2nd (8/day)—*acid arrow*, *bull’s strength*, *darkness*, *false life*, *mirror image*, *scorching ray*  
-1st (8/day)—*burning hands* (DC 18), *cause fear* (DC 18), *enlarge person* (DC 18), *grease*, *ray of enfeeblement* (DC 18), *shield*  
-0 (at will)—*acid splash*, *bleed* (DC 17), *daze* (DC 17), *detect magic*, *light*, *mage hand*, *message*, *ray of frost*, *read magic*  
+9th (3/day)—*[meteor swarm](../../magic/spells/meteor-swarm.md)*  
+8th (5/day)—*[incendiary cloud* ](../../magic/spells/incendiary-cloud.md)(DC 27), *[summon monster VIII](../../magic/spells/summon-monster-viii.md)*, *[unholy aura](../../magic/spells/unholy-aura.md)*  
+7th (7/day)—*[delayed blast fireball* ](../../magic/spells/delayed-blast-fireball.md)(DC 24), *[greater teleport](../../magic/spells/teleport-greater.md)*, *[power word blind](../../magic/spells/power-word-blind.md)*, *[reverse gravity](../../magic/spells/reverse-gravity.md)*  
+6th (7/day)—*[acid fog](../../magic/spells/acid-fog.md)*, *[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 23), *[transformation](../../magic/spells/transformation.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+5th (7/day)—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 24), *[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 22), *[dismissal* ](../../magic/spells/dismissal.md)(DC 22), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 22), *[summon monster V](../../magic/spells/summon-monster-v.md)*  
+4th (7/day)—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[confusion* ](../../magic/spells/confusion.md)(DC 21), *[dimension door](../../magic/spells/dimension-door.md)*, *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 21), *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (8/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fly](../../magic/spells/fly.md)*, *[gaseous form](../../magic/spells/gaseous-form.md)*, *[rage](../../magic/spells/rage.md)*, *[slow* ](../../magic/spells/slow.md)(DC 20)  
+2nd (8/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[darkness](../../magic/spells/darkness.md)*, *[false life](../../magic/spells/false-life.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (8/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 18), *[cause fear* ](../../magic/spells/cause-fear.md)(DC 18), *[enlarge person* ](../../magic/spells/enlarge-person.md)(DC 18), *[grease](../../magic/spells/grease.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 18), *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 17), *[daze* ](../../magic/spells/daze.md)(DC 17), *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** abyssal
 
 **Tactics**

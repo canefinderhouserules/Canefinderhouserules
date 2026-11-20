@@ -22,7 +22,7 @@ LG Medium humanoid (human, shapechanger)
 **Ranged**  mwk throwing axe +7 (1d6+3)  
 **Special Attacks** favored enemy (orcs +2)  
 **Ranger Spells Prepared** (CL 1st; concentration +2)  
-1st—*detect poison*
+1st—*[detect poison](../../magic/spells/detect-poison.md)*
 
 **Statistics**
 

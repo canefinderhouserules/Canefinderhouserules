@@ -27,7 +27,7 @@ electricity 10
 Reflex DC 27 half, usable every 1d4 rounds), constrict
 (2d8+10), rend (2 bites, 2d10+15), tenacious grapple  
 **Spell-Like Abilities** (CL 16th; concentration +23)  
-3/day—*fire shield* (chill shield only), *empowered ice storm, incendiary cloud* (DC 25, deals cold damage), *suggestion* (DC 20)  
+3/day—*[fire shield](../../magic/spells/fire-shield.md)* (chill shield only), *empowered ice storm, incendiary cloud* (DC 25, deals cold damage), *[suggestion](../../magic/spells/suggestion.md)* (DC 20)  
 1/day—*control weather, polar ray*
 
 **Statistics**

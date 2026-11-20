@@ -28,8 +28,8 @@ stomp +29 (6d6+22 plus pinning stomp)
 **Special Attacks** mythic power (4/day, surge +1d8), mythic
 quickening, pinning stomp, rock throwing (120 ft.)  
 **Spell-Like Abilities** (CL 12th, concentration +13)  
-3/day—*true strike*  
- 1/day—*moment of prescience*
+3/day—*[true strike](../../magic/spells/true-strike.md)*  
+ 1/day—*[moment of prescience](../../magic/spells/moment-of-prescience.md)*
 
 **Statistics**
 

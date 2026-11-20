@@ -26,16 +26,16 @@ LE Medium humanoid (human)
 8/day—fire bolt (1d6+10 fire)  
 4/day—dispelling touch  
 **Cleric Spells Prepared** (CL 20th; concentration +25)  
-9th—*elemental swarm*<sup>D</sup>(fire spell only), *energy drain* (DC 24), *gate*, *implosion* (DC 26), *summon monster IX*  
-8th—*antimagic field*, *fire storm* (DC 25), *incendiary cloud*<sup>D</sup>(DC 24), *summon monster VIII*, *unholy aura*  
-7th—*blasphemy* (DC 24), *ethereal jaunt*, *greater restoration*, *spell turning*<sup>D</sup>, *summon monster VII*  
-6th—*antimagic field*<sup>D</sup>, *blade barrier* (2, DC 23), *heal* (2)  
-5th—*break enchantment*, *dispel good*, *flame strike* (DC 22), *greater command* (DC 20), *insect plague*, *spell resistance*<sup>D</sup>  
-4th—*cure critical wounds*, *dimensional anchor*, *dismissal* (DC 19), *freedom of movement*, *unholy blight* (DC 21), *wall of fire*<sup>D</sup>  
-3rd—*bestow curse* (DC 18), *fireball*<sup>D</sup>(DC 20), *magic vestment* (2), *protection from energy* (2, DC 18)  
-2nd—*align weapon*, *delay poison*, *hold person* (DC 17), *lesser restoration*, *produce flame*<sup>D</sup>, *spiritual weapon*  
-1st—*bless*, *burning hands*<sup>D</sup>(DC 18), *command* (3, DC 16), *doom* (DC 16), *sanctuary* (DC 16)  
-0 (at will)—*create water*, *detect magic*, *guidance*, *mending*  
+9th—*[elemental swarm](../../magic/spells/elemental-swarm.md)*<sup>D</sup>(fire spell only), *[energy drain* ](../../magic/spells/energy-drain.md)(DC 24), *[gate](../../magic/spells/gate.md)*, *[implosion* ](../../magic/spells/implosion.md)(DC 26), *[summon monster IX](../../magic/spells/summon-monster-ix.md)*  
+8th—*[antimagic field](../../magic/spells/antimagic-field.md)*, *[fire storm* ](../../magic/spells/fire-storm.md)(DC 25), *[incendiary cloud](../../magic/spells/incendiary-cloud.md)*<sup>D</sup>(DC 24), *[summon monster VIII](../../magic/spells/summon-monster-viii.md)*, *[unholy aura](../../magic/spells/unholy-aura.md)*  
+7th—*[blasphemy* ](../../magic/spells/blasphemy.md)(DC 24), *[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[greater restoration](../../magic/spells/restoration-greater.md)*, *[spell turning](../../magic/spells/spell-turning.md)*<sup>D</sup>, *[summon monster VII](../../magic/spells/summon-monster-vii.md)*  
+6th—*[antimagic field](../../magic/spells/antimagic-field.md)*<sup>D</sup>, *[blade barrier* ](../../magic/spells/blade-barrier.md)(2, DC 23), *[heal* ](../../magic/spells/heal.md)(2)  
+5th—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[dispel good](../../magic/spells/dispel-good.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(DC 22), *[greater command* ](../../magic/spells/command-greater.md)(DC 20), *[insect plague](../../magic/spells/insect-plague.md)*, *[spell resistance](../../magic/spells/spell-resistance.md)*<sup>D</sup>  
+4th—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[dismissal* ](../../magic/spells/dismissal.md)(DC 19), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 21), *[wall of fire](../../magic/spells/wall-of-fire.md)*<sup>D</sup>  
+3rd—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 18), *[fireball](../../magic/spells/fireball.md)*<sup>D</sup>(DC 20), *[magic vestment* ](../../magic/spells/magic-vestment.md)(2), *[protection from energy* ](../../magic/spells/protection-from-energy.md)(2, DC 18)  
+2nd—*[align weapon](../../magic/spells/align-weapon.md)*, *[delay poison](../../magic/spells/delay-poison.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 17), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[produce flame](../../magic/spells/produce-flame.md)*<sup>D</sup>, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[bless](../../magic/spells/bless.md)*, *[burning hands](../../magic/spells/burning-hands.md)*<sup>D</sup>(DC 18), *[command* ](../../magic/spells/command.md)(3, DC 16), *[doom* ](../../magic/spells/doom.md)(DC 16), *[sanctuary* ](../../magic/spells/sanctuary.md)(DC 16)  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[mending](../../magic/spells/mending.md)*  
 **D** Domain spell; **Domains** Fire, Magic
 
 **Tactics**

@@ -23,10 +23,10 @@ CE Huge outsider (demon, native)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** defoliation  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant — *detect good*, *detect law*, *freedom of movement*, *true seeing*, *unholy aura*, *water breathing*  
-At will — *antiplant shell*, *contagion* (DC 21), *desecrate*, *greater dispel magic*, *greater teleport* (within Tanglebriar only), *telekinesis* (DC 22), *unholy blight* (DC 21)  
-3/day — *control plants* (DC 25), quickened *greater dispel magic*, *wall of thorns*  
-1/day — *horrid wilting* (DC 25), *summon demons*, *symbol of death* (DC 25), *time stop*
+Constant — *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura](../../magic/spells/unholy-aura.md)*, *[water breathing](../../magic/spells/water-breathing.md)*  
+At will — *[antiplant shell](../../magic/spells/antiplant-shell.md)*, *[contagion](../../magic/spells/contagion.md)* (DC 21), *[desecrate](../../magic/spells/desecrate.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (within Tanglebriar only), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 22), *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 21)  
+3/day — *[control plants](../../magic/spells/control-plants.md)* (DC 25), quickened *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+1/day — *[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 25), *summon demons*, *[symbol of death](../../magic/spells/symbol-of-death.md)* (DC 25), *[time stop](../../magic/spells/time-stop.md)*
 
 **Statistics**
 

@@ -22,8 +22,8 @@ NE Tiny undead
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** devour soul  
 **Spell-Like Abilities** (CL 20th; concentration +25)  
-Constant—*true seeing*  
-At will—*greater bestow curse* (DC 21), *telekinesis* (DC 20), *wail of the banshee* (20-ft.-radius spread centered on the demilich; DC 24)
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[greater bestow curse* ](../../magic/spells/bestow-curse-greater.md)(DC 21), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 20), *[wail of the banshee* ](../../magic/spells/wail-of-the-banshee.md)(20-ft.-radius spread centered on the demilich; DC 24)
 
 **Statistics**
 

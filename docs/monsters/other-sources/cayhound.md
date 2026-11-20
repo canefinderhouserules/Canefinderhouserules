@@ -21,9 +21,9 @@ CG Medium outsider
 **Melee** bite +11 (1d10+7 plus 1d6 sonic and trip)  
 **Special Attacks** righteous bite, thunderous bark  
 **Spell-Like Abilities** (CL 7th; concentration +8)  
-Constant—*freedom of movement*  
-At will—*open/close*  
-3/day—*dimension door*, *knock*
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+At will—*[open/close](../../magic/spells/open-close.md)*  
+3/day—*[dimension door](../../magic/spells/dimension-door.md)*, *[knock](../../magic/spells/knock.md)*
 
 **Statistics**
 

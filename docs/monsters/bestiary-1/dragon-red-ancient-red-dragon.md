@@ -24,16 +24,16 @@ CE Gargantuan dragon (fire)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. cone, DC 30, 20d10 fire), crush, manipulate flames, melt stone, tail sweep  
 **Spell-Like Abilities** (CL 25th)  
-At will—*detect magic*, *find the path*, *pyrotechnics* (DC 17), *suggestion* (DC 18), *wall of fire*  
+At will—*[detect magic](../../magic/spells/detect-magic.md)*, *[find the path](../../magic/spells/find-the-path.md)*, *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 17), *[suggestion* ](../../magic/spells/suggestion.md)(DC 18), *[wall of fire](../../magic/spells/wall-of-fire.md)*  
 **Spells Known** (CL 15th)  
-7th (4/day)—*limited wish*, *spell turning*  
-6th (6/day)—*antimagic field*, *contingency*, *greater dispel magic*  
-5th (7/day)—*polymorph*, *telekinesis* (DC 20), *teleport*, *wall of force*  
-4th (7/day)—*fear* (DC 19), *fire shield*, *greater invisibility*, *stoneskin*  
-3rd (7/day)—*dispel magic*, *displacement*, *haste*, *tongues*  
-2nd (7/day)—*alter self*, *detect thoughts* (DC 17), *misdirection* (DC 17), *resist energy*, *see invisibility*  
-1st (8/day)—*alarm*, *grease* (DC 16), *magic missile*, *shield*, *true strike*  
-0 (at will)—*arcane mark*, *bleed*, *light*, *mage hand*, *mending*, *message*, *open/close*, *prestidigitation*, *read magic*
+7th (4/day)—*[limited wish](../../magic/spells/limited-wish.md)*, *[spell turning](../../magic/spells/spell-turning.md)*  
+6th (6/day)—*[antimagic field](../../magic/spells/antimagic-field.md)*, *[contingency](../../magic/spells/contingency.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*  
+5th (7/day)—*[polymorph](../../magic/spells/polymorph.md)*, *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 20), *[teleport](../../magic/spells/teleport.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th (7/day)—*[fear* ](../../magic/spells/fear.md)(DC 19), *[fire shield](../../magic/spells/fire-shield.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[displacement](../../magic/spells/displacement.md)*, *[haste](../../magic/spells/haste.md)*, *[tongues](../../magic/spells/tongues.md)*  
+2nd (7/day)—*[alter self](../../magic/spells/alter-self.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[misdirection* ](../../magic/spells/misdirection.md)(DC 17), *[resist energy](../../magic/spells/resist-energy.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (8/day)—*[alarm](../../magic/spells/alarm.md)*, *[grease* ](../../magic/spells/grease.md)(DC 16), *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[bleed](../../magic/spells/bleed.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

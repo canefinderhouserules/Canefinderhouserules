@@ -23,10 +23,10 @@ CE Large aberration
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** incendiary webs, poison, web (+10 ranged, DC 19, 11 hp)  
 **Spell-Like Abilities** (CL 11th; concentration +13)  
-Constant—*tongues*  
-At will—*remove fear*, *rage*  
-3/day—*command* (DC 13)  
-1/day—*resist energy*
+Constant—*[tongues](../../magic/spells/tongues.md)*  
+At will—*[remove fear](../../magic/spells/remove-fear.md)*, *[rage](../../magic/spells/rage.md)*  
+3/day—*[command](../../magic/spells/command.md)* (DC 13)  
+1/day—*[resist energy](../../magic/spells/resist-energy.md)*
 
 **Statistics**
 

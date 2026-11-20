@@ -21,9 +21,9 @@ NG Medium outsider (agathion, extraplanar, good)
 **Speed** 40 ft., fly 90 ft. (good)  
 **Melee** 2 claws +16 (2d6+3), 2 wings +10 (2d6+1)  
 **Spell-Like Abilities** (CL 9th; concentration +12)  
-Constant—*detect magic*, *see invisibility*, *speak with animals*  
-At will—*aid*, *blur* (self only), *command* (DC 14), *detect magic*, *dimension door*, *dispel magic*, *gust of wind* (DC 15), *hold person* (DC 16), *light*, *magic circle against evil* (self only)  
-3/day—*lightning bolt* (DC 16), empowered *magic missile*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[blur](../../magic/spells/blur.md)* (self only), *[command](../../magic/spells/command.md)* (DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[gust of wind](../../magic/spells/gust-of-wind.md)* (DC 15), *[hold person](../../magic/spells/hold-person.md)* (DC 16), *[light](../../magic/spells/light.md)*, *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)* (self only)  
+3/day—*[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 16), empowered *[magic missile](../../magic/spells/magic-missile.md)*
 
 **Statistics**
 

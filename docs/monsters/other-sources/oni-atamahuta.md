@@ -22,9 +22,9 @@ LE Large outsider (oni, giant, native, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** double weapon mastery, spellstrike  
 **Spell-Like Abilities** (CL 11th; concentration +14)  
-Constant—*see invisibility*  
-3/day—*chill touch* (DC 14), *dimension door*, *fireball* (DC 16), *haste*, *rage*, *shocking grasp*  
-1/day—*black tentacles*, *stoneskin*, *wall of fire*
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+3/day—*[chill touch* ](../../magic/spells/chill-touch.md)(DC 14), *[dimension door](../../magic/spells/dimension-door.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 16), *[haste](../../magic/spells/haste.md)*, *[rage](../../magic/spells/rage.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+1/day—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*
 
 **Statistics**
 

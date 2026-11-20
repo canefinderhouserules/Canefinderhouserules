@@ -23,13 +23,13 @@ LE Medium humanoid (dwarf)
 **Melee** *+1 warhammer* +14/+9 (1d10+7/19–20/×3)  
 **Special Attacks** blessings 8/day, channel negative energy 4/ day (DC 16, 4d6), fervor 8/day (4d6), sacred weapon (+2 1d10, 11 rounds/day)  
 **Spell-Like Abilities** (CL 11th; concentration +9)  
-1/day—*enlarge person* (self only) (DC 9), *invisibility* (self only)  
+1/day—*[enlarge person](../../magic/spells/enlarge-person.md)* (self only) (DC 9), *[invisibility](../../magic/spells/invisibility.md)* (self only)  
 **Warpriest Spells Prepared** (CL 11th; concentration +14)  
-4th—*divine power*, *freedom of movement*  
-3rd—*bestow curse* (DC 16), *blindness/deafness* (DC 16), *cure serious wounds*, *dispel magic*, *wind wall*  
-2nd—*cure moderate wounds*, *hold person* (DC 15), *shatter* (DC 15), *sound burst* (DC 15), *spiritual weapon*  
-1st—*bless*, *command* (DC 14), *divine favor*, *doom* (DC 14), *protection from good*, *shield of faith*  
-0 (at will)—*create water*, *detect magic*, *detect poison*, *guidance*, *resistance*
+4th—*[divine power](../../magic/spells/divine-power.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 16), *[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 16), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 15), *[shatter](../../magic/spells/shatter.md)* (DC 15), *[sound burst](../../magic/spells/sound-burst.md)* (DC 15), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[bless](../../magic/spells/bless.md)*, *[command](../../magic/spells/command.md)* (DC 14), *[divine favor](../../magic/spells/divine-favor.md)*, *[doom](../../magic/spells/doom.md)* (DC 14), *[protection from good](../../magic/spells/protection-from-good.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

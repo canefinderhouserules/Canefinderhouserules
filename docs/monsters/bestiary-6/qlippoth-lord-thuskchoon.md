@@ -32,10 +32,10 @@ Reflex DC 33 half, every 1d4 rounds), fast swallow, horrific
 appearance (DC 27), swallow whole (10d6 bludgeoning damage,
 10d6 acid damage, and 1d6 Intelligence damage; AC 18; 39 hp)  
 **Spell-Like Abilities** (CL 21st; concentration +26)  
-Constant—*cloak of chaos* (DC 23), *detect good, detect law, fly, freedom of movement, true seeing*  
-At will—*acid fog, blindness/deafness*<sup>M</sup> (DC 17), *desecrate*<sup>M</sup>, *greater dispel magic, greater teleport, slow*<sup>M</sup> (DC 18)  
-3/day—*foresight*<sup>M</sup>, *mass hunger for flesh* (DC 21), *power word blind*<sup>M</sup>, quickened *slow* (DC 18), *vision, waves of exhaustion*  
-1/day—*imprisonment* (DC 24), *summon qlippoth*  
+Constant—*[cloak of chaos](../../magic/spells/cloak-of-chaos.md)* (DC 23), *detect good, detect law, fly, freedom of movement, true seeing*  
+At will—*acid fog, blindness/deafness*<sup>M</sup> (DC 17), *[desecrate](../../magic/spells/desecrate.md)*<sup>M</sup>, *greater dispel magic, greater teleport, slow*<sup>M</sup> (DC 18)  
+3/day—*[foresight](../../magic/spells/foresight.md)*<sup>M</sup>, *[mass hunger for flesh](../../magic/spells/hunger-for-flesh-mass.md)* (DC 21), *[power word blind](../../magic/spells/power-word-blind.md)*<sup>M</sup>, quickened *[slow](../../magic/spells/slow.md)* (DC 18), *vision, waves of exhaustion*  
+1/day—*[imprisonment](../../magic/spells/imprisonment.md)* (DC 24), *summon qlippoth*  
 <sup>M</sup> Thuskchoon can use the mythic version of this ability within his sanctum.
 
 **Statistics**

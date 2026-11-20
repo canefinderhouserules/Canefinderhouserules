@@ -23,10 +23,10 @@ NG Medium dragon
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (30-ft. cone, DC 16, 6d6 cold or fire)  
 **Psychic Magic** (CL 6th; concentration +9)  
-3 PE—*forbid action* (1 PE, DC 14), *mending* (0 PE)  
+3 PE—*[forbid action](../../magic/spells/forbid-action.md)* (1 PE, DC 14), *[mending](../../magic/spells/mending.md)* (0 PE)  
  **Psychic Spells Known** (CL 1st; concentration +4)  
- 1st (4/day)—*mage armor*, *sleep* (DC 14)  
- 0 (at-will)—*detect magic*, *detect psychic significance*, *mage hand*, *read magic*
+ 1st (4/day)—*[mage armor](../../magic/spells/mage-armor.md)*, *[sleep](../../magic/spells/sleep.md)* (DC 14)  
+ 0 (at-will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect psychic significance](../../magic/spells/detect-psychic-significance.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

@@ -21,9 +21,9 @@ NE Medium outsider (evil, extraplanar)
 **Melee** 2 claws +13 (1d4+5), bite +13 (2d6+5 plus disease)  
 **Special Attacks** dream haunting  
 **Spell-Like Abilities** (CL 8th)  
-Constant—*detect chaos*, *detect evil*, *detect good*, *detect law*, *detect magic*  
-At will—*deep slumber* (DC 16), *invisibility*, *magic missile*, *ray of enfeeblement* (DC 14)  
-At will (with heartstone)—*etherealness*, *soul bind*
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 16), *[invisibility](../../magic/spells/invisibility.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 14)  
+At will (with heartstone)—*[etherealness](../../magic/spells/etherealness.md)*, *[soul bind](../../magic/spells/soul-bind.md)*
 
 **Statistics**
 

@@ -29,7 +29,7 @@ attack +1d6
 concentration +11)  
 Constant—*detect evil, detect magic*  
 3/day—*cure moderate wounds, invisibility*  
-1/day—*charm person* (DC 16), *remove paralysis*
+1/day—*[charm person](../../magic/spells/charm-person.md)* (DC 16), *[remove paralysis](../../magic/spells/remove-paralysis.md)*
 
 **Statistics**
 

@@ -21,10 +21,10 @@ CN Tiny outsider (chaotic, extraplanar, protean, shapechanger)
 **Melee** bite +8 (1d3–2), tail slap +3 (1d3–2 plus confusion)  
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 6th; concentration +7)  
-Constant—*detect law*  
-At will—*dancing lights*, *ghost sound* (DC 11), *prestidigitation*  
-3/day—*blur* (self only), *obscuring mist*  
-1/week—*commune* (CL 12th, 6 questions)
+Constant—*[detect law](../../magic/spells/detect-law.md)*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 11), *[prestidigitation](../../magic/spells/prestidigitation.md)*  
+3/day—*[blur* ](../../magic/spells/blur.md)(self only), *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+1/week—*[commune* ](../../magic/spells/commune.md)(CL 12th, 6 questions)
 
 **Statistics**
 

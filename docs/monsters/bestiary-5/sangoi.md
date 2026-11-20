@@ -25,13 +25,13 @@ plus 1d4 bleed)
 **Special Attacks** bleed (1d4), blood rage, curse of misery,
 horrific critical, sneak attack +2d6  
 **Spell-Like Abilities** (CL 11th; concentration +15)  
-Constant—*hide from animals* (self only), *hide from undead* (self only), *tongues*  
+Constant—*[hide from animals](../../magic/spells/hide-from-animals.md)* (self only), *[hide from undead](../../magic/spells/hide-from-undead.md)* (self only), *[tongues](../../magic/spells/tongues.md)*  
 
-At will—*detect thoughts* (DC 16)  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16)  
 
-3/day—*animal trance* (DC 16), *invisibility* (self only), *snare* (DC 17)  
+3/day—*[animal trance](../../magic/spells/animal-trance.md)* (DC 16), *[invisibility](../../magic/spells/invisibility.md)* (self only), *[snare](../../magic/spells/snare.md)* (DC 17)  
 
-1/day—*control weather, dominate animal* (DC 17), *speak with dead* (DC 17)
+1/day—*control weather, dominate animal* (DC 17), *[speak with dead](../../magic/spells/speak-with-dead.md)* (DC 17)
 
 **Statistics**
 

@@ -23,9 +23,9 @@ NE Huge dragon
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. cone, 1d6 Str drain plus mummy rot, Fortitude DC 27 negates, usable every 1d4 rounds)  
 **Spell-Like Abilities** (CL 20th; concentration +25)  
-Constant—*deathwatch*  
-3/day—*animate dead*, *inflict serious wounds* (DC 18)  
-1/day—*eyebite* (DC 21), *horrid wilting* (DC 23), *symbol of pain* (DC 20)
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*  
+3/day—*[animate dead](../../magic/spells/animate-dead.md)*, *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)* (DC 18)  
+1/day—*[eyebite](../../magic/spells/eyebite.md)* (DC 21), *[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 23), *[symbol of pain](../../magic/spells/symbol-of-pain.md)* (DC 20)
 
 **Statistics**
 

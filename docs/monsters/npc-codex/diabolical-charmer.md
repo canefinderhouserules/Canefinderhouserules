@@ -24,14 +24,14 @@ LE Medium humanoid (human)
 9/day—corrupting touch (7 rounds)  
 1/day—hellfire (15d6 fire, DC 23)  
 **Sorcerer Spells Known** (CL 15th; concentration +21)  
-7th (4/day)—*delayed blast fireball* (DC 24), *greater teleport*, *summon monster VII*  
-6th (7/day)—*disintegrate* (DC 22), *globe of invulnerability*, *mass suggestion* (DC 22), *planar binding* (devils/fiendish creatures only, DC 22)  
-5th (7/day)—*cone of cold* (DC 22), *dismissal* (DC 21), *dominate person* (DC 21), *polymorph*, *wall of force*  
-4th (7/day)—*black tentacles*, *charm monster* (DC 22), *dimension door*, *stoneskin*, *wall of fire*  
-3rd (7/day)—*dispel magic*, *fireball* (DC 20), *hold person* (DC 19), *suggestion* (DC 19), *vampiric touch*  
-2nd (8/day)—*acid arrow*, *darkness*, *false life*, *invisibility*, *scorching ray*, *web* (DC 18)  
-1st (8/day)—*burning hands* (DC 18), *charm person* (DC 19), *magic missile*, *protection from good*, *shield*, *true strike*  
-0 (at will)—*acid splash*, *bleed* (DC 16), *daze* (DC 16), *detect magic*, *open/close*, *prestidigitation*, *ray of frost*, *read magic*, *touch of fatigue* (DC 16)  
+7th (4/day)—*[delayed blast fireball* ](../../magic/spells/delayed-blast-fireball.md)(DC 24), *[greater teleport](../../magic/spells/teleport-greater.md)*, *[summon monster VII](../../magic/spells/summon-monster-vii.md)*  
+6th (7/day)—*[disintegrate* ](../../magic/spells/disintegrate.md)(DC 22), *[globe of invulnerability](../../magic/spells/globe-of-invulnerability.md)*, *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 22), *[planar binding* ](../../magic/spells/planar-binding.md)(devils/fiendish creatures only, DC 22)  
+5th (7/day)—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 22), *[dismissal* ](../../magic/spells/dismissal.md)(DC 21), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 21), *[polymorph](../../magic/spells/polymorph.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th (7/day)—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[charm monster* ](../../magic/spells/charm-monster.md)(DC 22), *[dimension door](../../magic/spells/dimension-door.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 20), *[hold person* ](../../magic/spells/hold-person.md)(DC 19), *[suggestion* ](../../magic/spells/suggestion.md)(DC 19), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd (8/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[darkness](../../magic/spells/darkness.md)*, *[false life](../../magic/spells/false-life.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[web* ](../../magic/spells/web.md)(DC 18)  
+1st (8/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 18), *[charm person* ](../../magic/spells/charm-person.md)(DC 19), *[magic missile](../../magic/spells/magic-missile.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 16), *[daze* ](../../magic/spells/daze.md)(DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 16)  
 **Bloodline** infernal
 
 **Tactics**

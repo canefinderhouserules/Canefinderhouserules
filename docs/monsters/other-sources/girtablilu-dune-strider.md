@@ -23,7 +23,7 @@ N Large monstrous humanoid
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** combat style (archery), constrict (1d6+5), favored enemy (humans +2), poison  
 **Spell-Like Abilities** (CL 11th; concentration +12)  
-1/day—*summon nature’s ally V* (1d3 giant scorpions)
+1/day—*[summon nature’s ally V](../../magic/spells/summon-natures-ally-v.md)* (1d3 giant scorpions)
 
 **Statistics**
 

@@ -26,7 +26,7 @@ damage, ability drain, acid, exhaustion, fatigue, ooze traits
 **Special Attacks** constrict (4d6+16 plus 2d6 acid), pull (strand,
 20 feet)  
 **Spell-Like Abilities** (CL 15th; concentration +15)  
-Constant—*feather fall*
+Constant—*[feather fall](../../magic/spells/feather-fall.md)*
 
 **Statistics**
 

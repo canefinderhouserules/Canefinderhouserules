@@ -21,9 +21,9 @@ NG Small outsider (angel, extraplanar, good)
 **Speed** 20 ft., fly 50 ft. (good)  
 **Ranged**  mwk longbow +9 (1d6/×3)  
 **Spell-Like Abilities** (CL 3rd; concentration +3)  
-Constant—*detect evil*  
-At will—*light*, *resistance*  
-3/day—*bless*
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*  
+At will—*[light](../../magic/spells/light.md)*, *[resistance](../../magic/spells/resistance.md)*  
+3/day—*[bless](../../magic/spells/bless.md)*
 
 **Statistics**
 

@@ -23,10 +23,10 @@ LE Large outsider (devil, evil, extraplanar, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** drown, poison  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-Constant—*see invisibility*, *water breathing*  
-At will—*control water*, *curse water*, *discern lies*, *greater teleport* (self plus 50 lbs. of objects only), *hydraulic push*  
-3/day—*hydraulic torrent*, *poison* (DC 18), *protection from good*  
-1/day—*freedom of movement*, summon (level 4, 1 drowning devil 35%)
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*, *[water breathing](../../magic/spells/water-breathing.md)*  
+At will—*[control water](../../magic/spells/control-water.md)*, *[curse water](../../magic/spells/curse-water.md)*, *[discern lies](../../magic/spells/discern-lies.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[hydraulic push](../../magic/spells/hydraulic-push.md)*  
+3/day—*[hydraulic torrent](../../magic/spells/hydraulic-torrent.md)*, *[poison* ](../../magic/spells/poison.md)(DC 18), *[protection from good](../../magic/spells/protection-from-good.md)*  
+1/day—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*, summon (level 4, 1 drowning devil 35%)
 
 **Statistics**
 

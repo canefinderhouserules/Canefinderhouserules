@@ -21,10 +21,10 @@ CE Large aberration
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** charming gaze  
 **Spells Known** (CL 7th)  
-3rd (5/day)—*displacement*, *fireball* (DC 16)  
-2nd (7/day)—*cat’s grace*, *invisibility*, *summon swarm*  
-1st (7/day)—*charm person* (DC 14), *cure light wounds*, *divine favor*, *magic missile*, *shield of faith*  
-0 (at will)—*bleed*, *daze* (DC 13), *detect magic*, *mage hand*, *open/close*, *ray of frost*, *read magic*
+3rd (5/day)—*[displacement](../../magic/spells/displacement.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 16)  
+2nd (7/day)—*[cat’s grace](../../magic/spells/cats-grace.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st (7/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)*, *[daze* ](../../magic/spells/daze.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

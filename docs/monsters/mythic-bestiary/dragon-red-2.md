@@ -23,10 +23,10 @@ CE Large dragon (fire, mythic)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, 6d10 fire, Reflex DC 19 half, usable every 1d4 rounds), lingering breath (2d6 fire, 5 rounds), mythic power (5/day, surge +1d8), swallow whole (1d6 bludgeoning and 1d6 fire damage, AC 18, 16 hp)  
 **Spell-Like Abilities** (CL 11th; concentration +13)  
-At will—*detect magic*  
+At will—*[detect magic](../../magic/spells/detect-magic.md)*  
 **Sorcerer Spells Known** (CL 1st; concentration +3)  
-1st (3)—*shield*, *true strike*  
-0 (at will)—*mage hand*, *message*, *prestidigitation*, *read magic*
+1st (3)—*[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

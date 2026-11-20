@@ -22,8 +22,8 @@ CN Gargantuan plant (extraplanar, mythic)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** mythic power (7/day, surge +1d10)  
 **Spell-Like Abilities** (CL 20th; concentration +26)  
-Constant—*see alignment* (its own alignment only)  
-At will—*telekinesis* (DC 21)
+Constant—*[see alignment](../../magic/spells/see-alignment.md)* (its own alignment only)  
+At will—*[telekinesis](../../magic/spells/telekinesis.md)* (DC 21)
 
 **Statistics**
 

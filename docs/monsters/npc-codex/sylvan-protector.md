@@ -23,11 +23,11 @@ CN Small humanoid (gnome)
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids  
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
 5/day—lightning arc  
-1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Druid Spells Prepared** (CL 3rd; concentration +5)  
-2nd—*flaming sphere* (DC 14), *summon swarm*, *wind wall*<sup>D</sup>  
-1st—*cure light wounds* (2), *obscuring mist*<sup>D</sup>, *speak with animals*  
-0 (at will)—*flare* (DC 12), *light*, *stabilize*, *virtue*  
+2nd—*[flaming sphere* ](../../magic/spells/flaming-sphere.md)(DC 14), *[summon swarm](../../magic/spells/summon-swarm.md)*, *[wind wall](../../magic/spells/wind-wall.md)*<sup>D</sup>  
+1st—*[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(2), *[obscuring mist](../../magic/spells/obscuring-mist.md)*<sup>D</sup>, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[flare* ](../../magic/spells/flare.md)(DC 12), *[light](../../magic/spells/light.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **D** Domain spell; **Domain** Air
 
 **Tactics**

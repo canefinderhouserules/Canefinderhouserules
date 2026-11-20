@@ -23,10 +23,10 @@ CN Medium fey (water)
 **Ranged**  waterspout +8 (7d6)  
 **Special Attacks** water telekinesis  
 **Spell-Like Abilities** (CL 9th; concentration +14)  
-Constant—*speak with animals* (sea creatures only)  
-At will—*control water*, *create water*, *purify food and drink* (water only), *water breathing* (up to 9 creatures at a time)  
-3/day—*control winds*, *summon nature’s ally V* (sea creatures or water elementals only)  
-1/day—*control weather*
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)* (sea creatures only)  
+At will—*[control water](../../magic/spells/control-water.md)*, *[create water](../../magic/spells/create-water.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)* (water only), *[water breathing](../../magic/spells/water-breathing.md)* (up to 9 creatures at a time)  
+3/day—*[control winds](../../magic/spells/control-winds.md)*, *[summon nature’s ally V](../../magic/spells/summon-natures-ally-v.md)* (sea creatures or water elementals only)  
+1/day—*[control weather](../../magic/spells/control-weather.md)*
 
 **Statistics**
 

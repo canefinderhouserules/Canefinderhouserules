@@ -24,8 +24,8 @@ NE Huge construct
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** shearing jaws, trample (2d6+13, DC 29)  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-At will—*dimension door, enervation* (DC 18), *invisibility*  
-3/day—quickened *invisibility*
+At will—*dimension door, enervation* (DC 18), *[invisibility](../../magic/spells/invisibility.md)*  
+3/day—quickened *[invisibility](../../magic/spells/invisibility.md)*
 
 **Statistics**
 

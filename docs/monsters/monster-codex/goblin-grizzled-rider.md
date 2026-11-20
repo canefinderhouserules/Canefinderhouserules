@@ -22,7 +22,7 @@ NE Small humanoid (goblinoid)
 **Ranged**  mwk composite shortbow +12/+7 (1d4+2/×3)  
 **Special Attacks** combat style (mounted combat), favored enemy (elves +2, humans +4)  
 **Ranger Spells Prepared** (CL 3rd; concentration +4)  
-1st—*longstrider*, *resist energy*
+1st—*[longstrider](../../magic/spells/longstrider.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Tactics**
 

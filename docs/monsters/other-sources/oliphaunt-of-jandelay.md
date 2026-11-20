@@ -23,9 +23,9 @@ CN Colossal outsider (chaotic, extraplanar)
 **Space** 80 ft., **Reach** 80 ft.  
 **Special Attacks** constrict (4d8+25), ruinous tusks, swallow whole (4d10+17 damage, AC 20, 74 hp), trample (4d10+25, DC 47), weather sphere  
 **Spell-Like Abilities** (CL 40th; concentration +51)  
-Constant—*air walk*, *freedom*, *true seeing*  
-At will—*greater shout* (DC 29)  
-3/day—*transmute rock to mud*
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[freedom](../../magic/spells/freedom.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[greater shout](../../magic/spells/shout-greater.md)* (DC 29)  
+3/day—*[transmute rock to mud](../../magic/spells/transmute-rock-to-mud.md)*
 
 **Statistics**
 

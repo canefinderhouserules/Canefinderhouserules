@@ -22,10 +22,10 @@ CN Large outsider (chaotic, extraplanar, protean, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** constrict (1d8+7), inflict warpwave, sneak attack +4d6  
 **Spell-Like Abilities** (CL 10th; concentration +15)  
-Constant—*detect law*, *tongues*  
-At will—*dimension door* (self plus 50 lbs. of objects only), *make whole*, *major creation*, *shatter* (DC 17), *shrink item*  
-3/day—*chaos hammer* (DC 19), *dispel magic*, *slow* (DC 18)  
-1/day—*break enchantment*, *dispel law* (DC 20), *haste*, *polymorph any object* (DC 23)
+Constant—*[detect law](../../magic/spells/detect-law.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[dimension door* ](../../magic/spells/dimension-door.md)(self plus 50 lbs. of objects only), *[make whole](../../magic/spells/make-whole.md)*, *[major creation](../../magic/spells/major-creation.md)*, *[shatter* ](../../magic/spells/shatter.md)(DC 17), *[shrink item](../../magic/spells/shrink-item.md)*  
+3/day—*[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 19), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[slow* ](../../magic/spells/slow.md)(DC 18)  
+1/day—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[dispel law* ](../../magic/spells/dispel-law.md)(DC 20), *[haste](../../magic/spells/haste.md)*, *[polymorph any object* ](../../magic/spells/polymorph-any-object.md)(DC 23)
 
 **Statistics**
 

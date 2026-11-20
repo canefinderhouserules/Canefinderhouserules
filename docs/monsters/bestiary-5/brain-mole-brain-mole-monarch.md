@@ -22,7 +22,7 @@ N Tiny magical beast
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** brain exchange, monarch bite  
 **Psychic Magic** (CL 6th; concentration +8)  
-16 PE—*aversion* (2 PE, DC 14), *fly* (3 PE), *major image* (3 PE, DC 15), *mental barrier* I (2 PE), *mind thrust II* (2 PE, DC 14), *silent image* (1 PE, DC 13)
+16 PE—*[aversion](../../magic/spells/aversion.md)* (2 PE, DC 14), *[fly](../../magic/spells/fly.md)* (3 PE), *[major image](../../magic/spells/major-image.md)* (3 PE, DC 15), *mental barrier* I (2 PE), *[mind thrust II](../../magic/spells/mind-thrust-ii.md)* (2 PE, DC 14), *[silent image](../../magic/spells/silent-image.md)* (1 PE, DC 13)
 
 **Statistics**
 

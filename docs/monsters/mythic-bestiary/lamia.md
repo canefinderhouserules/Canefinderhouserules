@@ -23,14 +23,14 @@ CE Large monstrous humanoid (mythic, shapechanger)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** mythic power (3/day, surge +1d6), pounce, Wisdom drain  
 **Spell-Like Abilities** (CL 9th; concentration +11)  
-At will—*disguise self*, *ventriloquism*  
-3/day—*charm monster* (DC 16), *major image* (DC 15), *mirror image*, *suggestion* (DC 15)  
-1/day—*deep slumber* (DC 15)  
+At will—*[disguise self](../../magic/spells/disguise-self.md)*, *[ventriloquism](../../magic/spells/ventriloquism.md)*  
+3/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 16), *[major image](../../magic/spells/major-image.md)* (DC 15), *[mirror image](../../magic/spells/mirror-image.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 15)  
+1/day—*[deep slumber](../../magic/spells/deep-slumber.md)* (DC 15)  
 **Sorcerer Spells Known** (CL 6th; concentration +8)  
-3rd (3)—*haste*  
-2nd (6)—*death knell* (DC 14), *invisibility*  
-1st (7)—*cure light wounds*, *divine favor*, *mage armor*, *magic missile*  
-0 (at will)—*dancing lights*, *daze* (DC 12), *detect magic*, *ghost sound* (DC 12), *mage hand*, *mending*, *prestidigitation*
+3rd (3)—*[haste](../../magic/spells/haste.md)*  
+2nd (6)—*[death knell](../../magic/spells/death-knell.md)* (DC 14), *[invisibility](../../magic/spells/invisibility.md)*  
+1st (7)—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze](../../magic/spells/daze.md)* (DC 12), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 12), *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

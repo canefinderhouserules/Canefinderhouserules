@@ -22,10 +22,10 @@ NE Medium outsider (div, evil, extraplanar)
 **Melee** bite +13 (1d8+3), 2 claws +13 (1d6+3 plus 1d6 nonlethal)  
 **Special Attacks** staggering touch, withering effort  
 **Spell-Like Abilities** (CL 6th; concentration +10)  
-Constant—*detect good*, *detect magic*, *spider climb*  
- At will—*dimension door* (self plus 50 lbs. of objects only), *touch of fatigue* (DC 14)  
- 3/day—*deep slumber* (DC 17), *gust of wind* (DC 16)  
- 1/day—*slow* (DC 17), *suggestion* (DC 17), summon (level 4, 2 aghashes 50%)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[spider climb](../../magic/spells/spider-climb.md)*  
+ At will—*[dimension door](../../magic/spells/dimension-door.md)* (self plus 50 lbs. of objects only), *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 14)  
+ 3/day—*[deep slumber](../../magic/spells/deep-slumber.md)* (DC 17), *[gust of wind](../../magic/spells/gust-of-wind.md)* (DC 16)  
+ 1/day—*[slow](../../magic/spells/slow.md)* (DC 17), *[suggestion](../../magic/spells/suggestion.md)* (DC 17), summon (level 4, 2 aghashes 50%)
 
 **Statistics**
 

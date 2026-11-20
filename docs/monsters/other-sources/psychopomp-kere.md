@@ -22,9 +22,9 @@ N Medium outsider (psychopomp, extraplanar)
 **Space** 5 ft., **Reach** 5 ft. (15 ft. with shroud)  
 **Special Attacks** infectious fear (DC 20), veil of tears  
 **Spell-Like Abilities** (CL 11th; concentration +15)  
-At will—*ghost sound* (DC 14), *grave tell*, *greater invisibility*, *hide from undead* (DC 15), *minor image* (DC 16), *searing light*, *whispering wind*  
-3/day—*fog cloud*, *mage’s faithful hound*, *mirage arcana* (DC 19), *speak with dead* (DC 17), *waves of fatigue*  
-1/day—*gate* (to the Boneyard or Material Plane only; planar travel only)
+At will—*[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *grave tell*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[hide from undead* ](../../magic/spells/hide-from-undead.md)(DC 15), *[minor image* ](../../magic/spells/minor-image.md)(DC 16), *[searing light](../../magic/spells/searing-light.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*  
+3/day—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[mage’s faithful hound](../../magic/spells/mages-faithful-hound.md)*, *[mirage arcana* ](../../magic/spells/mirage-arcana.md)(DC 19), *[speak with dead* ](../../magic/spells/speak-with-dead.md)(DC 17), *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*  
+1/day—*[gate* ](../../magic/spells/gate.md)(to the Boneyard or Material Plane only; planar travel only)
 
 **Statistics**
 

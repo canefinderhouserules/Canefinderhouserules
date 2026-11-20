@@ -22,10 +22,10 @@ LE Large aberration (aquatic)
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with claws and tentacles)  
 **Special Attacks** deadlight, glyph carver, mucus cloud, water manipulation (DC 20)  
 **Spell-Like Abilities** (CL 14th; concentration +18)  
-Constant—*read magic*  
-At will—*detect magic*, *detect thoughts* (DC 16), *hydraulic torrent*, *project image* (DC 21), *telekinesis*  
-3/day—*illusory wall* (DC 18), *mirage arcana* (DC 19), quickened *hydraulic torrent*, *stone shape*, *wall of force*  
-1/day—*disintegrate* (DC 20), *fabricate*, *make whole*, *move earth*
+Constant—*[read magic](../../magic/spells/read-magic.md)*  
+At will—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16), *[hydraulic torrent](../../magic/spells/hydraulic-torrent.md)*, *[project image](../../magic/spells/project-image.md)* (DC 21), *[telekinesis](../../magic/spells/telekinesis.md)*  
+3/day—*[illusory wall](../../magic/spells/illusory-wall.md)* (DC 18), *[mirage arcana](../../magic/spells/mirage-arcana.md)* (DC 19), quickened *[hydraulic torrent](../../magic/spells/hydraulic-torrent.md)*, *[stone shape](../../magic/spells/stone-shape.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+1/day—*[disintegrate](../../magic/spells/disintegrate.md)* (DC 20), *[fabricate](../../magic/spells/fabricate.md)*, *[make whole](../../magic/spells/make-whole.md)*, *[move earth](../../magic/spells/move-earth.md)*
 
 **Statistics**
 

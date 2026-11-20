@@ -23,8 +23,8 @@ N Medium humanoid (strix)
 **Ranged**  shortbow +6 (1d6/×3)  
 **Special Attacks** hatred, studied combat (+2, 2 rounds), studied strike +1d6  
 **Investigator Extracts Prepared** (CL 4th; concentration +6)  
-2nd—*detect thoughts* (DC 14), *invisibility*  
-1st—*disguise self*, *expeditious retreat*, *keen senses* (DC 13), *shield*
+2nd—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 14), *[invisibility](../../magic/spells/invisibility.md)*  
+1st—*[disguise self](../../magic/spells/disguise-self.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[keen senses](../../magic/spells/keen-senses.md)* (DC 13), *[shield](../../magic/spells/shield.md)*
 
 **Statistics**
 

@@ -23,17 +23,17 @@ NG Large outsider (native)
 **Special Attacks** breath weapon (60-ft. line, 6d6 fire and 6d6 electricity, Reflex DC 22 half, usable every 1d6 rounds), burn (1d6 fire, DC 22), constrict (2d6+12), poison  
 **Spell-Like Abilities** (CL 15th; concentration +21)  
 Constant—*detect chaos/evil/good/law*  
-At will—*detect thoughts* (DC 18), *invisibility*, *plane shift* (DC 23)  
-1/week—*atonement*  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 18), *[invisibility](../../magic/spells/invisibility.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (DC 23)  
+1/week—*[atonement](../../magic/spells/atonement.md)*  
 **Psychic Spells Known** (CL 15th; concentration +21)  
-7th (4/day)—*greater arcane sight*, *vision*  
-6th (7/day)—*greater dispel magic*, *legend lore*, *veil* (DC 22)  
-5th (7/day)—*commune with nature*, *mind thrust V* (DC 21), *psychic crush I* (DC 21), *wall of force*  
-4th (7/day)—*divination*, *dream*, *locate creature*, *sending*  
-3rd (7/day)—*clairaudience/clairvoyance*, *deep slumber* (DC 20), *dispel magic*, *haste*  
-2nd (8/day)—*anticipate thoughts* (DC 18), *augury*, *aversion* (DC 18), *demand offering* (DC 18), *scare* (DC 19)  
-1st (8/day)—*anticipate peril* (DC 17), *charm person* (DC 18), *forbid action* (DC 18), *mindlink*, *sleep* (DC 18)  
-0 (at will)—*bleed* (DC 17), *detect magic*, *detect poison*, *ghost sound* (DC 17), *know direction*, *light*, *mage hand*, *read magic*, *stabilize*
+7th (4/day)—*[greater arcane sight](../../magic/spells/arcane-sight-greater.md)*, *[vision](../../magic/spells/vision.md)*  
+6th (7/day)—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[legend lore](../../magic/spells/legend-lore.md)*, *[veil](../../magic/spells/veil.md)* (DC 22)  
+5th (7/day)—*[commune with nature](../../magic/spells/commune-with-nature.md)*, *[mind thrust V](../../magic/spells/mind-thrust-v.md)* (DC 21), *[psychic crush I](../../magic/spells/psychic-crush-i.md)* (DC 21), *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th (7/day)—*[divination](../../magic/spells/divination.md)*, *[dream](../../magic/spells/dream.md)*, *[locate creature](../../magic/spells/locate-creature.md)*, *[sending](../../magic/spells/sending.md)*  
+3rd (7/day)—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[deep slumber](../../magic/spells/deep-slumber.md)* (DC 20), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[haste](../../magic/spells/haste.md)*  
+2nd (8/day)—*[anticipate thoughts](../../magic/spells/anticipate-thoughts.md)* (DC 18), *[augury](../../magic/spells/augury.md)*, *[aversion](../../magic/spells/aversion.md)* (DC 18), *[demand offering](../../magic/spells/demand-offering.md)* (DC 18), *[scare](../../magic/spells/scare.md)* (DC 19)  
+1st (8/day)—*[anticipate peril](../../magic/spells/anticipate-peril.md)* (DC 17), *[charm person](../../magic/spells/charm-person.md)* (DC 18), *[forbid action](../../magic/spells/forbid-action.md)* (DC 18), *[mindlink](../../magic/spells/mindlink.md)*, *[sleep](../../magic/spells/sleep.md)* (DC 18)  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 17), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 17), *[know direction](../../magic/spells/know-direction.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

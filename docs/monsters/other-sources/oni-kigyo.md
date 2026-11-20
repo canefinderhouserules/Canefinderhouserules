@@ -22,9 +22,9 @@ LE Medium outsider (aquatic, native, oni, shapechanger)
 **Ranged** mwk triden +11 (1d8+4)  
 **Special Attacks** grasping eddy  
 **Spell-Like Abilities** (CL 8th; concentration +10)  
-At will—*invisibility* (self only)  
-3/day—*charm person* (DC 13), *enthrall* (DC 14), *hydraulic push*  
-1/day—*freedom of movement* (self only)
+At will—*[invisibility](../../magic/spells/invisibility.md)* (self only)  
+3/day—*[charm person](../../magic/spells/charm-person.md)* (DC 13), *[enthrall](../../magic/spells/enthrall.md)* (DC 14), *[hydraulic push](../../magic/spells/hydraulic-push.md)*  
+1/day—*[freedom of movement](../../magic/spells/freedom-of-movement.md)* (self only)
 
 **Statistics**
 

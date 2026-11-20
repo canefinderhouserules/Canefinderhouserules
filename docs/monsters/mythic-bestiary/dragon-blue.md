@@ -23,10 +23,10 @@ LE Huge dragon (earth, mythic)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** bend bolt, breath weapon (100-ft. line of electricity or 50-ft. cone of sand, 14d8 electricity or 14d8 piercing, Reflex DC 25 half, usable every 1d4 rounds), crush, desert thirst, dragon fury (1d8 electricity), mythic power (7/day, surge +1d10), persuasive whisper, wild arcana (see page 14)  
 **Spell-Like Abilities** (CL 18th; concentration +10)  
-At will—*ghost sound*, *minor image*  
+At will—*[ghost sound](../../magic/spells/ghost-sound.md)*, *[minor image](../../magic/spells/minor-image.md)*  
 **Sorcerer Spells Known** (CL 5th; concentration +8)  
-2nd (5)—*invisibility*, *resist energy*  
-1st (5)—*alarm*, *mage armor*, *shield*, *true strike*
+2nd (5)—*[invisibility](../../magic/spells/invisibility.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st (5)—*[alarm](../../magic/spells/alarm.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*
 
 **Statistics**
 

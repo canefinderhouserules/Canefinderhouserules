@@ -23,9 +23,9 @@ CE Small undead
 **Special Attacks** hobbling gait, ravaging despair, sanguinary
 rejuvenation  
 **Spell-Like Abilities** (CL 9th; concentration +13)  
-At will—*suggestion* (DC 16)  
+At will—*[suggestion](../../magic/spells/suggestion.md)* (DC 16)  
 
-1/day—*crushing despair* (DC 17), *dimension door, shout* (DC 18)
+1/day—*[crushing despair](../../magic/spells/crushing-despair.md)* (DC 17), *dimension door, shout* (DC 18)
 
 **Statistics**
 

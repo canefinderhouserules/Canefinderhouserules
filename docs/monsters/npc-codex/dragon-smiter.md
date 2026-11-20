@@ -24,15 +24,15 @@ LG Medium humanoid (human)
 **Ranged**  mwk heavy crossbow +15 (1d10/19–20)  
 **Special Attacks** channel positive energy (DC 17, 7d6), smite evil 5/day (+1 attack and AC, +13 damage)  
 **Spell-Like Abilities** (CL 13th; concentration +14)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 10th; concentration +11)  
-3rd—*prayer*  
-2nd—*eagle’s splendor*, *resist energy*  
-1st—*bless* (2), *divine favor* (2)
+3rd—*[prayer](../../magic/spells/prayer.md)*  
+2nd—*[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[bless* ](../../magic/spells/bless.md)(2), *[divine favor* ](../../magic/spells/divine-favor.md)(2)
 
 **Tactics**
 
-**Before Combat** The paladin casts *resist energy* against the breath weapon energy type of dragons he expects to fight.  
+**Before Combat** The paladin casts *[resist energy* ](../../magic/spells/resist-energy.md)against the breath weapon energy type of dragons he expects to fight.  
 **During Combat** The paladin casts *eagle’s splendor* to improve his smite and divine grace. He uses Improved Vital Strike and Lunge to land solid hits on creatures with reach.
 
 **Statistics**

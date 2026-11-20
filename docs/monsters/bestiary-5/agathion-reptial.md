@@ -21,10 +21,10 @@ NG Small outsider (agathion, extraplanar, good)
 **Melee** bite +9 (1d4+1), 2 claws +9 (1d3+1)  
 **Special Attacks** imposing presence  
 **Spell-Like Abilities** (CL 5th; concentration +9)  
-Constant—*speak with animals*  
-At will—*faerie fire*  
-3/day—*color spray* (DC 15), *hypnotism* (DC 15), *protection from evil* (DC 15), *object reading*  
-1/day—*hideous laughter* (DC 16)
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[faerie fire](../../magic/spells/faerie-fire.md)*  
+3/day—*[color spray](../../magic/spells/color-spray.md)* (DC 15), *[hypnotism* ](../../magic/spells/hypnotism.md)(DC 15), *[protection from evil* ](../../magic/spells/protection-from-evil.md)(DC 15),[ *object reading](../../magic/spells/object-reading.md)*  
+1/day—*[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 16)
 
 **Statistics**
 

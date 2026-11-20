@@ -21,9 +21,9 @@ CE Medium fey
 **Speed** 30 ft.  
 **Melee** 2 claws +6 (2d6 plus grab)  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
-At will—*mage hand*, *open/close*  
-3/day—*sleep* (DC 13), *spider climb* (self only), *ventriloquism* (DC 13)  
-1/day—*dimension door*
+At will—*[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*  
+3/day—*[sleep](../../magic/spells/sleep.md)* (DC 13), *[spider climb](../../magic/spells/spider-climb.md)* (self only), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 13)  
+1/day—*[dimension door](../../magic/spells/dimension-door.md)*
 
 **Statistics**
 

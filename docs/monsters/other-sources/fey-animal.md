@@ -21,7 +21,7 @@ CN Medium fey (augmented animal)
 **Melee** bite +4 (1d4+2), 2 claws +4 (1d6+2)  
 **Special Attacks** death curse (DC 13), rage  
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
-1/day—*charm person* (DC 13), *faerie fire*
+1/day—*[charm person* ](../../magic/spells/charm-person.md)(DC 13), *[faerie fire](../../magic/spells/faerie-fire.md)*
 
 **Statistics**
 

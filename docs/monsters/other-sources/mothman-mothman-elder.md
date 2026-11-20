@@ -24,10 +24,10 @@ CN Large monstrous humanoid
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** mind-warping gaze (DC 22)  
 **Spell-Like Abilities** (CL 15th; concentration +20)  
-Constant—*blur*, *see invisibility*  
-At will—*control weather*, *greater dispel magic*  
-3/day—*cloudkill* (DC 20), *hold monster* (DC 20), *phantasmal killer* (DC 19), *scrying* (DC 19)  
-1/day—*earthquake* (DC 23), *incendiary cloud* (DC 23)
+Constant—*[blur](../../magic/spells/blur.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[control weather](../../magic/spells/control-weather.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*  
+3/day—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 20), *[hold monster* ](../../magic/spells/hold-monster.md)(DC 20), *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 19), *[scrying* ](../../magic/spells/scrying.md)(DC 19)  
+1/day—*[earthquake* ](../../magic/spells/earthquake.md)(DC 23), *[incendiary cloud* ](../../magic/spells/incendiary-cloud.md)(DC 23)
 
 **Statistics**
 

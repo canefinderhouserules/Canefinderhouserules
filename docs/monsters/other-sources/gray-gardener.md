@@ -23,12 +23,12 @@ NE Medium humanoid (human)
 **Special Attacks** *bane* (8 rounds/day), sneak attack +1d6  
 **Spell-Like Abilities** (CL 5th; concentration +9)  
 At will—*detect alignment*  
-5 rounds/day—*discern lies*  
+5 rounds/day—*[discern lies](../../magic/spells/discern-lies.md)*  
 **Inquisitor Spells Known** (CL 7th; concentration +11)  
-3rd (2/day)—*retribution* (DC 17), *seek thoughts* (DC 17)  
-2nd (4/day)—*confess* (DC 16), *cure moderate wounds*, *detect thoughts* (DC 16), *hold person* (DC 16)  
-1st (5/day)—*cause fear* (DC 15), *comprehend languages*, *disguise self*, *divine favor*, *vocal alteration* (DC 15)  
-0 (at will)—*bleed* (DC 13), *brand* (DC 13), *daze* (DC 13), *detect magic*, *guidance*, *sift*  
+3rd (2/day)—*[retribution](../../magic/spells/retribution.md)* (DC 17), *[seek thoughts](../../magic/spells/seek-thoughts.md)* (DC 17)  
+2nd (4/day)—*[confess](../../magic/spells/confess.md)* (DC 16), *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[hold person* ](../../magic/spells/hold-person.md)(DC 16)  
+1st (5/day)—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 15), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[vocal alteration](../../magic/spells/vocal-alteration.md)* (DC 15)  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[brand](../../magic/spells/brand.md)* (DC 13), *[daze* ](../../magic/spells/daze.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[sift](../../magic/spells/sift.md)*  
 **Domain** Heresy inquisition
 
 **Statistics**

@@ -21,9 +21,9 @@ LG Medium outsider (extraplanar, good, lawful, shapechanger)
 **Melee** mwk cestus +9 (1d4+3/19–20 plus 1d6 electricity)  
 **Special Attacks** breath weapon (5-ft. cone, 2d6 electricity, Reflex DC 15 for half, usable every 1d4 rounds)  
 **Spell-Like Abilities** (CL 5th; concentration +4)  
-At will—*guidance*, *light*, *mending*, *resistance*  
-3/day—*cure light wounds*, *magic weapon*  
-1/day—*bear’s endurance*, *crafter’s fortune*, *status*
+At will—*[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[resistance](../../magic/spells/resistance.md)*  
+3/day—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[magic weapon](../../magic/spells/magic-weapon.md)*  
+1/day—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[crafter’s fortune](../../magic/spells/crafters-fortune.md)*, *[status](../../magic/spells/status.md)*
 
 **Statistics**
 

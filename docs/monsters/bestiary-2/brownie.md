@@ -21,8 +21,8 @@ N Tiny fey
 **Melee** short sword +6 (1d2–2/19–20)  
 **Space** 2–1/2 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 7th; concentration +10)  
-At will—*dancing lights*, *mending*, *prestidigitation*  
-1/day—*lesser confusion* (DC 14), *dimension door* (self only), *mirror image*, *ventriloquism* (DC 14)
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[mending](../../magic/spells/mending.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*  
+1/day—*[lesser confusion](../../magic/spells/confusion-lesser.md)* (DC 14), *[dimension door](../../magic/spells/dimension-door.md)* (self only), *[mirror image](../../magic/spells/mirror-image.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 14)
 
 **Statistics**
 

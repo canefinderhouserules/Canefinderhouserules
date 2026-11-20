@@ -22,9 +22,9 @@ CG Huge humanoid (giant)
 **Ranged**  mwk composite longbow +15/+10/+5 (3d6+14/×3)  
 **Space** 15 ft., **Reach** 15 ft.  
 **Spell-Like Abilities** (CL 15th)  
-Constant—*freedom of movement*  
-2/day—*control weather*, *levitate*  
-1/day—*call lightning* (DC 15), *chain lightning* (DC 18)
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+2/day—*[control weather](../../magic/spells/control-weather.md)*, *[levitate](../../magic/spells/levitate.md)*  
+1/day—*[call lightning* ](../../magic/spells/call-lightning.md)(DC 15), *[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 18)
 
 **Statistics**
 

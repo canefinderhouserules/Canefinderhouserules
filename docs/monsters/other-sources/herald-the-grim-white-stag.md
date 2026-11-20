@@ -23,9 +23,9 @@ LG Colossal outsider (extraplanar, good, lawful)
 **Space** 30 ft., **Reach** 20 ft.  
 **Special Attacks** lay on hands (10/day, 9d6), push (gore, 10 ft.), trample (2d8+21, DC 33)  
 **Spell-Like Abilities** (CL 18th; concentration +19)  
-Constant—*detect evil*  
-3/day—*neutralize poison*, *remove disease*  
-1/month—*heroes’ feast* (see below)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*  
+3/day—*[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[remove disease](../../magic/spells/remove-disease.md)*  
+1/month—*[heroes’ feast* ](../../magic/spells/heroes-feast.md)(see below)
 
 **Statistics**
 

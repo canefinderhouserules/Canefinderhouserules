@@ -23,17 +23,17 @@ CN Small humanoid (gnome)
 **Ranged**  mwk dagger +9 (1d3–2/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids  
 **Spell-Like Abilities** (CL 10th; concentration +11)  
-1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Arcane School Spell-Like Abilities** (CL 10th; concentration +14)  
 At will—invisibility field (10 rounds/day)  
 7/day—blinding ray  
 **Illusionist Spells Prepared** (CL 10th; concentration +14)  
-5th—*cloudkill* (DC 19), *persistent image* (DC 21), *teleport*  
-4th—*greater invisibility*, *phantasmal killer* (DC 20), empowered *scorching ray*, *solid fog*, *stone shape*  
-3rd—*dispel magic*, *displacement*, *fly*, *haste* (DC 17), *major image* (DC 19)  
-2nd—*detect thoughts* (DC 16), *glitterdust* (DC 16), *hypnotic pattern* (DC 18), *magic mouth*, *mirror image*, *scorching ray*  
-1st—*color spray* (2, DC 17), *feather fall*, *grease*, *magic missile*, *silent image* (DC 17)  
-0 (at will)—*dancing lights*, *detect magic*, *ghost sound* (DC 16), *mage hand*  
+5th—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 19), *[persistent image* ](../../magic/spells/persistent-image.md)(DC 21), *[teleport](../../magic/spells/teleport.md)*  
+4th—*[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 20), empowered *[scorching ray](../../magic/spells/scorching-ray.md)*, *[solid fog](../../magic/spells/solid-fog.md)*, *[stone shape](../../magic/spells/stone-shape.md)*  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[displacement](../../magic/spells/displacement.md)*, *[fly](../../magic/spells/fly.md)*, *[haste* ](../../magic/spells/haste.md)(DC 17), *[major image* ](../../magic/spells/major-image.md)(DC 19)  
+2nd—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 16), *[hypnotic pattern* ](../../magic/spells/hypnotic-pattern.md)(DC 18), *[magic mouth](../../magic/spells/magic-mouth.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st—*[color spray* ](../../magic/spells/color-spray.md)(2, DC 17), *[feather fall](../../magic/spells/feather-fall.md)*, *[grease](../../magic/spells/grease.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 17)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 16), *[mage hand](../../magic/spells/mage-hand.md)*  
 **Opposition Schools** enchantment, necromancy
 
 **Tactics**

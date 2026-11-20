@@ -25,11 +25,11 @@ LE Large humanoid (fire, giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** heated rock, rock throwing (120 ft.), weapon training (hammers +1)  
 **Sorcerer Spells Known** (CL 8th; concentration +13)  
-4th (4/day)—*dimension door*  
-3rd (6/day)—*dispel magic*, *fireball* (DC 18), *fly*  
-2nd (7/day)—*bull’s strength*, *dust of twilight* (DC 17), *invisibility*, *scorching ray*  
-1st (8/day)—*burning hands* (DC 16), *color spray* (DC 16), *endure elements*, *identify*, *ray of enfeeblement* (DC 16), *summon monster I*  
-0 (at will)—*acid splash*, *bleed* (DC 15), *daze* (DC 15), *detect magic*, *detect poison*, *flare* (DC 15), *read magic*, *touch of fatigue* (DC 15)  
+4th (4/day)—*[dimension door](../../magic/spells/dimension-door.md)*  
+3rd (6/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball](../../magic/spells/fireball.md)* (DC 18), *[fly](../../magic/spells/fly.md)*  
+2nd (7/day)—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[dust of twilight](../../magic/spells/dust-of-twilight.md)* (DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (8/day)—*[burning hands](../../magic/spells/burning-hands.md)* (DC 16), *[color spray](../../magic/spells/color-spray.md)* (DC 16), *[endure elements](../../magic/spells/endure-elements.md)*, *[identify](../../magic/spells/identify.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 16), *[summon monster I](../../magic/spells/summon-monster-i.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[bleed](../../magic/spells/bleed.md)* (DC 15), *[daze](../../magic/spells/daze.md)* (DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[flare](../../magic/spells/flare.md)* (DC 15), *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 15)  
 **Bloodline** arcane
 
 **Tactics**

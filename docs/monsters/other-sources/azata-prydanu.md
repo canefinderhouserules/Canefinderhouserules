@@ -23,11 +23,11 @@ CG Large outsider (azata, chaotic, extraplanar, good)
 **Ranged** *+2 aberration-bane returning trident* +24 (1d8+9/19–20)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 18th; concentration +24)  
-Constant—*true seeing*  
-At will—*remove paralysis*, *water breathing*, *zone of truth* (DC 18)  
-5/day—*break enchantment*, *cure serious wounds*, *dimension door*, *dispel magic*, *freedom of movement*, *invisibility purge*, *remove disease*  
-3/day—*greater dispel magic*, *protection from spells* (enchantment and illusion only)  
-1/day—*freedom*
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[remove paralysis](../../magic/spells/remove-paralysis.md)*, *[water breathing](../../magic/spells/water-breathing.md)*, *[zone of truth](../../magic/spells/zone-of-truth.md)* (DC 18)  
+5/day—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[remove disease](../../magic/spells/remove-disease.md)*  
+3/day—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[protection from spells](../../magic/spells/protection-from-spells.md)* (enchantment and illusion only)  
+1/day—*[freedom](../../magic/spells/freedom.md)*
 
 **Statistics**
 

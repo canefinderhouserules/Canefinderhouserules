@@ -27,13 +27,13 @@ CE Large monstrous humanoid
 7/day—touch of evil (5 rounds)  
 7/day—strength surge (+5)  
 **Cleric Spells Prepared** (CL 11th; concentration +15)  
-6th—*blade barrier* (DC 21), *stoneskin*<sup>D</sup>  
-5th—*flame strike* (DC 20), *righteous might*<sup>D</sup>, *slay living* (DC 19)  
-4th—*air walk*, *chaos hammer* (DC 19), *cure critical wounds*, *greater magic weapon*, *spell immunity*<sup>D</sup>  
-3rd—*cure serious wounds*, *deeper darkness*, *dispel magic*, *magic circle against good*<sup>D</sup>, *meld into stone*, *mind maze* (DC 17)  
-2nd— *bull’s strength*<sup>D</sup>, *resist energy*, *shatter* (DC 17), *spiritual weapon*, *status*, *wind wall*  
-1st—*bane* (DC 15), *cause fear* (DC 15), *cure light wounds*, *divine favor*, *protection from good*<sup>D</sup>, *shield of faith*  
-0 (at will)—*bleed* (DC 14), *detect magic*, *guidance*, *read magic*  
+6th—*[blade barrier](../../magic/spells/blade-barrier.md)* (DC 21), *[stoneskin](../../magic/spells/stoneskin.md)*<sup>D</sup>  
+5th—*[flame strike](../../magic/spells/flame-strike.md)* (DC 20), *[righteous might](../../magic/spells/righteous-might.md)*<sup>D</sup>, *[slay living](../../magic/spells/slay-living.md)* (DC 19)  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[chaos hammer](../../magic/spells/chaos-hammer.md)* (DC 19), *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)*, *[spell immunity](../../magic/spells/spell-immunity.md)*<sup>D</sup>  
+3rd—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*<sup>D</sup>, *[meld into stone](../../magic/spells/meld-into-stone.md)*, *[mind maze](../../magic/spells/mind-maze.md)* (DC 17)  
+2nd— *[bull’s strength](../../magic/spells/bulls-strength.md)*<sup>D</sup>, *[resist energy](../../magic/spells/resist-energy.md)*, *[shatter](../../magic/spells/shatter.md)* (DC 17), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*, *[status](../../magic/spells/status.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+1st—*[bane](../../magic/spells/bane.md)* (DC 15), *[cause fear](../../magic/spells/cause-fear.md)* (DC 15), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*<sup>D</sup>, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** domain spell; **Domains** Evil, Strength
 
 **Statistics**

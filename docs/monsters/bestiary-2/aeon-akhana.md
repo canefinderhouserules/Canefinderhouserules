@@ -21,10 +21,10 @@ N Medium outsider (aeon, extraplanar)
 **Melee** 4 claws +16 (1d4+5 plus grab)  
 **Special Attacks** soul siphoning  
 **Spell-Like Abilities** (CL 11th; concentration +15)  
-Constant—*deathwatch*  
-At will—*cure serious wounds*, *gentle repose*, *inflict serious wounds* (DC 17), *sanctuary* (DC 15)  
-3/day—*restoration*, *slay living* (DC 19)  
-1/day—*raise dead*
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*  
+At will—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[gentle repose](../../magic/spells/gentle-repose.md)*, *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)* (DC 17), *[sanctuary* ](../../magic/spells/sanctuary.md)(DC 15)  
+3/day—*[restoration](../../magic/spells/restoration.md)*, *[slay living](../../magic/spells/slay-living.md)* (DC 19)  
+1/day—*[raise dead](../../magic/spells/raise-dead.md)*
 
 **Statistics**
 

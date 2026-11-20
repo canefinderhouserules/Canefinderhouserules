@@ -22,10 +22,10 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Melee** *+3 wounding scimitar* +27/+22/+17 (1d6+11/15-20), 3 claws +21 (1d6+4 plus grab), gore +21 (2d6+4) or 4 claws +23 (1d6+8 plus grab), gore +23 (2d6+8)  
 **Special Attacks** compelling domination, constrict (4d6+12 plus 2d6 bleed and 1d4 Strength drain), multi-arm grab  
 **Spell-Like Abilities** (CL 15th; concentration +20)  
-Constant—*deathwatch*, *true seeing*, *unholy aura* (DC 23)  
-At will—*crushing despair* (DC 18), *dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *telekinesis* (DC 20)  
-3/day—*confusion* (DC 19), *demand* (DC 23), *dominate person* (DC 19), *fly*  
-1/day—*symbol of insanity* (DC 23), summon (level 5, 1 seraptis 20% or 1 glabrezu 40%)
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura](../../magic/spells/unholy-aura.md)* (DC 23)  
+At will—*[crushing despair](../../magic/spells/crushing-despair.md)* (DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 20)  
+3/day—*[confusion](../../magic/spells/confusion.md)* (DC 19), *[demand](../../magic/spells/demand.md)* (DC 23), *[dominate person](../../magic/spells/dominate-person.md)* (DC 19), *[fly](../../magic/spells/fly.md)*  
+1/day—*[symbol of insanity](../../magic/spells/symbol-of-insanity.md)* (DC 23), summon (level 5, 1 seraptis 20% or 1 glabrezu 40%)
 
 **Statistics**
 

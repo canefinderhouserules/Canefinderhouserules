@@ -21,10 +21,10 @@ LN Medium dragon (extraplanar, water)
 **Melee** bite +15 (1d8+10), 2 claws +15 (1d6+7), 2 wings +10 (1d4+3)  
 **Special Attacks** breath weapon (60-ft. line, 6d6 acid, DC 16)  
 **Spell-Like Abilities** (CL 8th; concentration +9)  
-At will—*obscuring mist*, *speak with animals* (fish only)  
+At will—*[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)* (fish only)  
 **Spells Known** (CL 1st; concentration +2)  
-1st (4/day)—*color spray* (DC 12), *touch of the sea*  
-0 (at will)—*detect magic*, *mage hand*, *open/close*, *prestidigitation*
+1st (4/day)—*[color spray](../../magic/spells/color-spray.md)* (DC 12), *[touch of the sea](../../magic/spells/touch-of-the-sea.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

@@ -23,12 +23,12 @@ NE Small humanoid (halfling)
 **Ranged**  mwk light crossbow +16 (1d6/19–20)  
 **Special Attacks** favored enemy (aquatic humanoids +4, humans +4, magical beasts +2)  
 **Ranger Spells Prepared** (CL 7th; concentration +9)  
-2nd—*barkskin*, *wind wall*  
-1st—*endure elements*, *longstrider*, *resist energy*
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+1st—*[endure elements](../../magic/spells/endure-elements.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Tactics**
 
-**Before Combat** The ranger casts *barkskin*, *endure elements*, *longstrider*, and *resist energy* (fire).  
+**Before Combat** The ranger casts *[barkskin](../../magic/spells/barkskin.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[longstrider](../../magic/spells/longstrider.md)*, and *[resist energy* ](../../magic/spells/resist-energy.md)(fire).  
 **During Combat** The ranger prefers melee, using Mobility and Spring Attack to engage the enemy leader while her pirate allies deal with underlings.  
 **Base Statistics** Without *barkskin*, *longstrider*, and *resist energy*, the ranger’s statistics are **AC** 22, touch 17, flat-footed 17; **Resist** none; **Speed** 20 ft.
 

@@ -22,10 +22,10 @@ N Huge outsider (elemental, extraplanar, mythic, water)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** capsize, mythic power (6/day, surge +1d8)  
 **Spell-Like Abilities** (CL 17th; concentration +20)  
-Constant—*arcane sight*  
-At will—*crushing despair*, *fog cloud<sup>M</sup>*, *good hope*, *hydraulic torrent<sup>M</sup>*, *water walk*  
-3/day—*control water* (DC 21), *dispel magic<sup>M</sup>*, quickened *rusting grasp*, *warp wood* (DC 19)  
-1/day—*control weather* (as druid), *vortex* (DC 24)  
+Constant—*[arcane sight](../../magic/spells/arcane-sight.md)*  
+At will—*[crushing despair](../../magic/spells/crushing-despair.md)*, *fog cloud<sup>M</sup>*, *[good hope](../../magic/spells/good-hope.md)*, *hydraulic torrent<sup>M</sup>*, *[water walk](../../magic/spells/water-walk.md)*  
+3/day—*[control water](../../magic/spells/control-water.md)* (DC 21), *dispel magic<sup>M</sup>*, quickened *[rusting grasp](../../magic/spells/rusting-grasp.md)*, *[warp wood](../../magic/spells/warp-wood.md)* (DC 19)  
+1/day—*control weather* (as druid), *[vortex](../../magic/spells/vortex.md)* (DC 24)  
 **M** mythic spell
 
 **Statistics**

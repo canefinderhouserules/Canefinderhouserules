@@ -23,8 +23,8 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Ranged**  composite longbow +8/+3 (1d8+4/×3)  
 **Special Attacks** betrayer’s blade, disrupt coordination  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-At will—*alter self*, *greater teleport* (self plus 50 pounds of objects only), *lesser confusion* (DC 13)  
-3/day—*murderous command* (DC 13)
+At will—*[alter self](../../magic/spells/alter-self.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 pounds of objects only), *[lesser confusion](../../magic/spells/confusion-lesser.md)* (DC 13)  
+3/day—*[murderous command](../../magic/spells/murderous-command.md)* (DC 13)
 
 **Statistics**
 

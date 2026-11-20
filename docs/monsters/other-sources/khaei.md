@@ -20,8 +20,8 @@ N Small monstrous humanoid
 **Melee** club +5 (1d4) or touch +5 (lost time)  
 **Ranged**  sling +6 (1d3)  
 **Spell-Like Abilities** (CL 4th; concentration +5)  
-Constant—*blur*  
-At will—*dancing lights*
+Constant—*[blur](../../magic/spells/blur.md)*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*
 
 **Statistics**
 

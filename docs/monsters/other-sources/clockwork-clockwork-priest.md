@@ -22,9 +22,9 @@ N Medium construct (clockwork)
 **Melee** 4 slams +21 (1d4+3)  
 **Special Attacks** domain magic  
 **Spell-Like Abilities** (CL 11th; concentration +6)  
-At will—*animate rope*, *cure light wounds*  
-3/day—*cure moderate wounds*, *wood shape* (DC 16)  
-1/day—*cure serious wounds*, *stone shape*  
+At will—*[animate rope](../../magic/spells/animate-rope.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*  
+3/day—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[wood shape](../../magic/spells/wood-shape.md)* (DC 16)  
+1/day—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[stone shape](../../magic/spells/stone-shape.md)*  
 **Domain** Artifice
 
 **Statistics**

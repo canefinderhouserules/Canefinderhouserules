@@ -24,8 +24,8 @@ CE Colossal magical beast
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** hungry gaze, spines, swallow whole (2d10+13 plus 1d4 Str damage, AC 28, 47 hp)  
 **Spell-Like Abilities** (CL 27th; concentration +32)  
-At will—*disintegrate* (DC 21)  
-1/day—*earthquake*
+At will—*[disintegrate* ](../../magic/spells/disintegrate.md)(DC 21)  
+1/day—*[earthquake](../../magic/spells/earthquake.md)*
 
 **Statistics**
 

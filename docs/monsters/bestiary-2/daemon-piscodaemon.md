@@ -21,9 +21,9 @@ NE Medium outsider (aquatic, daemon, evil, extraplanar)
 **Melee** 2 claws +18 (2d6+7/18-20/×3 plus grab and 1d6 bleed), tentacles +16 (1d10+3 plus poison)  
 **Special Attacks** constrict (2d6+10)  
 **Spell-Like Abilities** (CL 11th; concentration +14)  
-Constant—*detect good*, *detect magic*, *see invisibility*  
-At will—*dispel magic*, *greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*fly*, *stinking cloud* (DC 16)  
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
+3/day—*[fly](../../magic/spells/fly.md)*, *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 16)  
 1/day—summon (level 4, 1d3 hydrodaemons 35%)
 
 **Statistics**

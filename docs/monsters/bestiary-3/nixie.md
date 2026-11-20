@@ -21,8 +21,8 @@ N Small fey (aquatic)
 **Melee** short sword +5 (1d4–2/19–20)  
 **Ranged**  light crossbow +5 (1d6/19–20)  
 **Spell-Like Abilities** (CL 6th; concentration +10)  
-3/day—*charm person* (DC 15)  
-1/day—*water breathing* (CL 12th)
+3/day—*[charm person* ](../../magic/spells/charm-person.md)(DC 15)  
+1/day—*[water breathing* ](../../magic/spells/water-breathing.md)(CL 12th)
 
 **Statistics**
 

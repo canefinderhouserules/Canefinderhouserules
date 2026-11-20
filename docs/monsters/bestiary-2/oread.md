@@ -22,7 +22,7 @@ N Medium outsider (native)
 **Melee** longsword +3 (1d8+3/19–20)  
 **Ranged**  composite longbow +4 (1d8+2/×3)  
 **Spell-Like Abilities** (CL 1st; concentration +0)  
-1/day—*magic stone*
+1/day—*[magic stone](../../magic/spells/magic-stone.md)*
 
 **Statistics**
 

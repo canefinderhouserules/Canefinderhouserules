@@ -22,9 +22,9 @@ N Medium humanoid
 **Ranged**  *+1 light crossbow* +7 (1d8+1/19–20)  
 **Special Attacks** bardic performance 24 rounds/day (countersong, distraction, fascinate [DC 17], inspire competence +2, inspire courage +2, suggestion [DC 17])  
 **Bard Spells Known** (CL 6th; concentration +10)  
-2nd (4/day)—*calm emotions*, *enthrall* (DC 16), *sound burst* (DC 16), *tongues*  
-1st (5/day)—*charm person* (DC 15), *cure light wounds*, *expeditious retreat*, *grease* (DC 15)  
-0 (at will)—*ghost sound* (DC 14), *light*, *lullaby*, *mage hand*, *resistance*, *summon instrument*
+2nd (4/day)—*[calm emotions](../../magic/spells/calm-emotions.md)*, *[enthrall](../../magic/spells/enthrall.md)* (DC 16), *[sound burst](../../magic/spells/sound-burst.md)* (DC 16), *[tongues](../../magic/spells/tongues.md)*  
+1st (5/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 15), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[grease](../../magic/spells/grease.md)* (DC 15)  
+0 (at will)—*[ghost sound](../../magic/spells/ghost-sound.md)* (DC 14), *[light](../../magic/spells/light.md)*, *[lullaby](../../magic/spells/lullaby.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[resistance](../../magic/spells/resistance.md)*, *[summon instrument](../../magic/spells/summon-instrument.md)*
 
 **Statistics**
 

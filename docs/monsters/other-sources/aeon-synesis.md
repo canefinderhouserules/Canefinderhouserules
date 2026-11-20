@@ -22,9 +22,9 @@ N Medium outsider (aeon, extraplanar)
 **Melee** 4 claws +7 (1d4+1)  
 **Space** 5 ft., **Reach** 5 ft. (unintuitive reach)  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-At will—*daze* (DC 13)  
-3/day—*id insinuation I* (DC 14), *touch of idiocy*  
-1/day—*cognitive block* (DC 15), *fox’s cunning*, *mental block* (DC 14)
+At will—*[daze](../../magic/spells/daze.md)* (DC 13)  
+3/day—*[id insinuation I](../../magic/spells/id-insinuation-i.md)* (DC 14), *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1/day—*[cognitive block](../../magic/spells/cognitive-block.md)* (DC 15), *[fox’s cunning](../../magic/spells/foxs-cunning.md)*, *[mental block](../../magic/spells/mental-block.md)* (DC 14)
 
 **Statistics**
 

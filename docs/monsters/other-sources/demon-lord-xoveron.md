@@ -23,10 +23,10 @@ CE Huge outsider
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** devastating blow, feed, poison, rend (2 claws, 2d8+25), roar, shatter petrification, shockwave  
 **Spell-Like Abilities** (CL 27th; concentration +36)  
-Constant—*detect good*, *detect law*, *freedom of movement*, *true seeing*, *unholy aura* (DC 27)  
-At will—*astral projection*, *blasphemy* (DC 26), *desecrate*, *flesh to stone* (DC 25), *greater dispel magic*, *greater teleport*, *shapechange*, *stone shape*, *telekinesis* (DC 24), *unhallow*, *unholy blight* (DC 23)  
-3/day—*earthquake*, quickened *flesh to stone* (DC 25), *reverse gravity*, *symbol of weakness* (DC 26)  
-1/day—*implosion* (DC 28), *imprisonment* (DC 28), *time stop*
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura* ](../../magic/spells/unholy-aura.md)(DC 27)  
+At will—*[astral projection](../../magic/spells/astral-projection.md)*, *[blasphemy* ](../../magic/spells/blasphemy.md)(DC 26), *[desecrate](../../magic/spells/desecrate.md)*, *[flesh to stone* ](../../magic/spells/flesh-to-stone.md)(DC 25), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[shapechange](../../magic/spells/shapechange.md)*, *[stone shape](../../magic/spells/stone-shape.md)*, *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 24), *[unhallow](../../magic/spells/unhallow.md)*, *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 23)  
+3/day—*[earthquake](../../magic/spells/earthquake.md)*, quickened *[flesh to stone* ](../../magic/spells/flesh-to-stone.md)(DC 25), *[reverse gravity](../../magic/spells/reverse-gravity.md)*, *[symbol of weakness* ](../../magic/spells/symbol-of-weakness.md)(DC 26)  
+1/day—*[implosion* ](../../magic/spells/implosion.md)(DC 28), *[imprisonment* ](../../magic/spells/imprisonment.md)(DC 28), *[time stop](../../magic/spells/time-stop.md)*
 
 **Statistics**
 

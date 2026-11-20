@@ -22,7 +22,7 @@ N Large ooze (mythic)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** constrict (6d6+4 plus 1d6 acid plus grab and poison), mythic power (3/day, surge +1d6), poison  
 **Spell-Like Abilities** (CL 10th; concentration +11)  
-3/day—*charm monster* (vermin only), *giant vermin*, *hold monster* (vermin only), *dominate monster* (vermin only)
+3/day—*[charm monster](../../magic/spells/charm-monster.md)* (vermin only), *[giant vermin](../../magic/spells/giant-vermin.md)*, *[hold monster](../../magic/spells/hold-monster.md)* (vermin only), *[dominate monster](../../magic/spells/dominate-monster.md)* (vermin only)
 
 **Statistics**
 

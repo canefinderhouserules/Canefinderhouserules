@@ -22,8 +22,8 @@ LE Medium outsider (native, rakshasa, shapechanger)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with trip)  
 **Special Attacks** detect thoughts (DC 23), wicked reach  
 **Spell-Like Abilities** (CL 11th; concentration +15)  
-At will—*magic missile*  
- 3/day—*dispel magic*, *magic circle against good* 1/day—*true form* (DC 18)
+At will—*[magic missile](../../magic/spells/magic-missile.md)*  
+ 3/day—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)* 1/day—*[true form](../../magic/spells/true-form.md)* (DC 18)
 
 **Statistics**
 

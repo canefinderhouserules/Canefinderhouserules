@@ -22,7 +22,7 @@ CE Large outsider (chaotic, evil, extraplanar)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** terrifying howl  
 **Spell-Like Abilities** (CL 6th; concentration +10)  
-Constant—*deathwatch*
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*
 
 **Statistics**
 

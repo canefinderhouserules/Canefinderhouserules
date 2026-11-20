@@ -22,9 +22,9 @@ LN Tiny outsider (extraplanar, inevitable, lawful)
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** electrical burst  
 **Spell-Like Abilities** (CL 2nd; concentration +4)  
-Constant—*detect chaos*  
-3/day—*command* (DC 13), *make whole*, *protection from chaos*  
-1/week—*commune* (CL 12th, 6 questions)
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*  
+3/day—*[command* ](../../magic/spells/command.md)(DC 13), *[make whole](../../magic/spells/make-whole.md)*, *[protection from chaos](../../magic/spells/protection-from-chaos.md)*  
+1/week—*[commune* ](../../magic/spells/commune.md)(CL 12th, 6 questions)
 
 **Statistics**
 

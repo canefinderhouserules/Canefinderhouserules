@@ -31,9 +31,9 @@ grab), 2 claws +30 (2d6+8), tail slap
 **Spell-Like Abilities** (CL 18th;
 concentration +24)  
 Constant—*deathwatch, true seeing*  
-At will—*greater teleport* (self plus 50 lbs. of objects only), *persistent image* (DC 21)  
-3/day—*greater shadow conjuration* (DC 23), *greater shadow evocation* (DC 24), *mirage arcana* (DC 21), *nightmare* (DC 21), *permanent image* (DC 22), *quickened phantasmal killer* (DC 20)  
-1/day—*mislead* (DC 22), *summon* (level 8, 1 temerdaemon or 1d3 suspiridaemons 50%), *symbol of fear* (DC 22), *weird* (DC 25)
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only),[ *persistent image](../../magic/spells/persistent-image.md)* (DC 21)  
+3/day—*[greater shadow conjuration](../../magic/spells/shadow-conjuration-greater.md)* (DC 23), *[greater shadow evocation](../../magic/spells/shadow-evocation-greater.md)* (DC 24), *[mirage arcana](../../magic/spells/mirage-arcana.md)* (DC 21), *[nightmare](../../magic/spells/nightmare.md)* (DC 21), *[permanent image](../../magic/spells/permanent-image.md)* (DC 22), *[quickened phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 20)  
+1/day—*[mislead](../../magic/spells/mislead.md)* (DC 22), *summon* (level 8, 1 temerdaemon or 1d3 suspiridaemons 50%), *[symbol of fear](../../magic/spells/symbol-of-fear.md)* (DC 22), *[weird](../../magic/spells/weird.md)* (DC 25)
 
 **Statistics**
 

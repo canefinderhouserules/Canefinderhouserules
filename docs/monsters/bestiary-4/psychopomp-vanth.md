@@ -21,8 +21,8 @@ N Medium outsider (extraplanar, psychopomp)
 **Speed** 30 ft., fly 50 ft. (average)  
 **Melee** *+1 adamantine scythe* +14/+9 (2d4+7/×4) or 2 claws +13 (1d6+4)  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-At will—*deathwatch*, *greater teleport* (self plus 50 lbs. of objects only), *invisibility* (self only)  
-3/day—*bestow curse* (DC 17), *locate creature*, *searing light*
+At will—*[deathwatch](../../magic/spells/deathwatch.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[invisibility](../../magic/spells/invisibility.md)* (self only)  
+3/day—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 17), *[locate creature](../../magic/spells/locate-creature.md)*, *[searing light](../../magic/spells/searing-light.md)*
 
 **Statistics**
 

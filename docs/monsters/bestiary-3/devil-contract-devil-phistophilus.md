@@ -22,10 +22,10 @@ LE Medium outsider (devil, evil, extraplanar, lawful)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with binding contract)  
 **Special Attacks** binding contract, bleed (1d6), impale (2d8+4)  
 **Spell-Like Abilities** (CL 13th; concentration +19)  
-Constant—*tongues*  
-At will—*bestow curse* (DC 20), *detect thoughts* (DC 18), *dimension door*, *erase*, *identify*, *major image* (DC 19), *produce flame*, *sending*  
-3/day—*arcane eye*, *break enchantment*, *greater teleport* (self plus 50 lbs. of objects only), *hold person* (DC 19), *locate creature*, *mage’s private sanctum*, *scorching ray*, *silence* (DC 18), *vision*  
-1/day—*contact other plane*, *delayed blast fireball* (DC 23), *dismissal* (DC 21), *plane shift* (DC 23), summon (level 4, 1d6 bearded devils or 1 bone devil 50%), *symbol of pain* (DC 21)
+Constant—*[tongues](../../magic/spells/tongues.md)*  
+At will—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 20), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 18), *[dimension door](../../magic/spells/dimension-door.md)*, *[erase](../../magic/spells/erase.md)*, *[identify](../../magic/spells/identify.md)*, *[major image* ](../../magic/spells/major-image.md)(DC 19), *[produce flame](../../magic/spells/produce-flame.md)*, *[sending](../../magic/spells/sending.md)*  
+3/day—*[arcane eye](../../magic/spells/arcane-eye.md)*, *[break enchantment](../../magic/spells/break-enchantment.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[hold person* ](../../magic/spells/hold-person.md)(DC 19), *[locate creature](../../magic/spells/locate-creature.md)*, *[mage’s private sanctum](../../magic/spells/mages-private-sanctum.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[silence* ](../../magic/spells/silence.md)(DC 18), *[vision](../../magic/spells/vision.md)*  
+1/day—*[contact other plane](../../magic/spells/contact-other-plane.md)*, *[delayed blast fireball* ](../../magic/spells/delayed-blast-fireball.md)(DC 23), *[dismissal* ](../../magic/spells/dismissal.md)(DC 21), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 23), summon (level 4, 1d6 bearded devils or 1 bone devil 50%), *[symbol of pain* ](../../magic/spells/symbol-of-pain.md)(DC 21)
 
 **Statistics**
 

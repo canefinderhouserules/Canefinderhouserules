@@ -24,9 +24,9 @@ NE Large outsider (evil, herald)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** bury alive, long arm of the reaper, pull (heavy pick, 5 ft.)  
 **Spell-Like Abilities** (CL 17th; concentration +21)  
-At will—*dimension door* (self only), *invisibility* (self only)  
-3/day—*bestow curse* (DC 18), *greater invisibility* (self only), *gust of wind* (DC 16), *ice storm*, *slay living* (DC 19)  
-1/day—*animate dead*, *chain lightning* (DC 20), *telekinesis* (DC 19)
+At will—*[dimension door](../../magic/spells/dimension-door.md)* (self only), *[invisibility](../../magic/spells/invisibility.md)* (self only)  
+3/day—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *[greater invisibility](../../magic/spells/invisibility-greater.md)* (self only), *[gust of wind](../../magic/spells/gust-of-wind.md)* (DC 16), *[ice storm](../../magic/spells/ice-storm.md)*, *[slay living](../../magic/spells/slay-living.md)* (DC 19)  
+1/day—*[animate dead](../../magic/spells/animate-dead.md)*, *[chain lightning](../../magic/spells/chain-lightning.md)* (DC 20), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 19)
 
 **Statistics**
 

@@ -22,13 +22,13 @@ N Small humanoid (ratfolk)
 **Ranged**  light crossbow +12 (1d6/19–20) or bomb +12/+7 (4d6+4 cold or fire)  
 **Special Attacks** bomb 12/day (4d6+4 cold or fire, DC 18), swarming  
 **Alchemist Extracts Prepared** (CL 8th)  
-3rd—*cure serious wounds*, *fly*, *heroism*  
-2nd—*barkskin*, *bull’s strength*, *invisibility*, *resist energy*, *see invisibility*  
-1st—*comprehend languages*, *crafter’s fortune*, *negate aroma* (DC 15), *reduce person* (DC 15), *shield*
+3rd—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[fly](../../magic/spells/fly.md)*, *[heroism](../../magic/spells/heroism.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[crafter’s fortune](../../magic/spells/crafters-fortune.md)*, *[negate aroma](../../magic/spells/negate-aroma.md)* (DC 15), *[reduce person](../../magic/spells/reduce-person.md)* (DC 15), *[shield](../../magic/spells/shield.md)*
 
 **Tactics**
 
-**Before Combat** The chemist imbibes her mutagen and extracts of *barkskin* and *fly*. She gives infusions of *bull’s strength* and *heroism* to allies.  
+**Before Combat** The chemist imbibes her mutagen and extracts of *[barkskin* ](../../magic/spells/barkskin.md)and *[fly](../../magic/spells/fly.md)*. She gives infusions of *[bull’s strength* ](../../magic/spells/bulls-strength.md)and *[heroism* ](../../magic/spells/heroism.md)to allies.  
  **During Combat** The chemist drops bombs while flying above the fray.  
  **Base Statistics** Without her mutagen and *barkskin*, the chemist’s statistics are **Init** +7; **Senses** Perception +14; **AC** 19, touch 15, flat-footed 16; **Ref** +12; **Ranged** light crossbow +10 (1d6/19–20) or bomb +10/+5 (4d6+4 cold or fire); **Dex** 16, **Wis** 12; **CMD** 18; **Skills** Heal +8, Perception +14, Profession (herbalist) +12, Survival +8.
 

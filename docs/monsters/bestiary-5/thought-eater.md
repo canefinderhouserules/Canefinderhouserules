@@ -21,8 +21,8 @@ N Tiny aberration (extraplanar)
 **Melee** bite +9 (1d3–3 plus eat thoughts)  
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Psychic Magic** (CL 4th; concentration +6)  
-5 PE—*identify* (1 PE), *daze monster* (2 PE, DC 14),
-*detect thoughts* (2 PE, DC 14), *resist energy*
+5 PE—*[identify](../../magic/spells/identify.md)* (1 PE), *[daze monster](../../magic/spells/daze-monster.md)* (2 PE, DC 14),
+*[detect thoughts](../../magic/spells/detect-thoughts.md)* (2 PE, DC 14), *[resist energy](../../magic/spells/resist-energy.md)*
 (2 PE)
 
 **Statistics**

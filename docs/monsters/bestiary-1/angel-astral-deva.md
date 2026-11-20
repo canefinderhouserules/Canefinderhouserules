@@ -21,9 +21,9 @@ NG Medium outsider (angel, extraplanar, good)
 **Speed** 50 ft., fly 100 ft. (good)  
 **Melee** *+2 disrupting warhammer* +26/+21/+16 (1d8+14/×3 plus stun) or slam +23 (1d8+12)  
 **Spell-Like Abilities** (CL 13th)  
-At Will—*aid*, *continual flame*, *detect evil*, *discern lies* (DC 20), *dispel evil* (DC 21), *dispel magic*, *holy aura* (DC 24), *holy smite* (DC 20), *holy word* (DC 23), *invisibility* (self only), *plane shift* (DC 23), *remove curse*, *remove disease*, *remove fear*  
-7/day—*cure light wounds*, *see invisibility*  
-1/day—*blade barrier* (DC 22), *heal*
+At Will—*[aid](../../magic/spells/aid.md)*, *[continual flame](../../magic/spells/continual-flame.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[discern lies* ](../../magic/spells/discern-lies.md)(DC 20), *[dispel evil* ](../../magic/spells/dispel-evil.md)(DC 21), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[holy aura* ](../../magic/spells/holy-aura.md)(DC 24), *[holy smite* ](../../magic/spells/holy-smite.md)(DC 20), *[holy word* ](../../magic/spells/holy-word.md)(DC 23), *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 23), *[remove curse](../../magic/spells/remove-curse.md)*, *[remove disease](../../magic/spells/remove-disease.md)*, *[remove fear](../../magic/spells/remove-fear.md)*  
+7/day—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1/day—*[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 22), *[heal](../../magic/spells/heal.md)*
 
 **Statistics**
 

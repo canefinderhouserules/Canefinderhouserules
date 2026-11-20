@@ -23,8 +23,8 @@ NE Huge undead (incorporeal)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** collect soul  
 **Spell-Like Abilities** (CL 16th; concentration +24)  
-At will—*ghost sound* (DC 18), *scare* (DC 20), *distracting cacophony* (DC 21)  
-3/day—quickened *fear* (DC 22), *phantasmal killer* (DC 22)
+At will—*[ghost sound](../../magic/spells/ghost-sound.md)* (DC 18), *[scare](../../magic/spells/scare.md)* (DC 20), *[distracting cacophony](../../magic/spells/distracting-cacophony.md)* (DC 21)  
+3/day—quickened *[fear](../../magic/spells/fear.md)* (DC 22), *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 22)
 
 **Statistics**
 

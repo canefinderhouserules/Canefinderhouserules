@@ -23,16 +23,16 @@ CG Gargantuan dragon (water)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite and gore)  
 **Special Attacks** breath weapon (60-ft. cone, 20d6 fire damage, DC 28), crush (DC 28, 4d6+18), tail sweep (DC 28, 2d6+18), torrent breath  
 **Spell-Like Abilities** (CL 23rd; concentration +30)  
-At will—*control water*, *call lightning* (DC 20), *create water*, *hydraulic push*, *water walk*  
+At will—*[control water](../../magic/spells/control-water.md)*, *[call lightning* ](../../magic/spells/call-lightning.md)(DC 20), *[create water](../../magic/spells/create-water.md)*, *[hydraulic push](../../magic/spells/hydraulic-push.md)*, *[water walk](../../magic/spells/water-walk.md)*  
 **Spells Known** (CL 15th; concentration +22)  
-7th (5/day)—*insanity* (DC 24), *plane shift* (DC 24)  
-6th (7/day)—*chain lightning* (DC 23), *freezing sphere* (DC 23), *forceful hand*  
-5th (7/day)—*cone of cold* (DC 22), *dream*, *mind fog* (DC 22), *persistent image* (DC 22)  
-4th (7/day)—*black tentacles*, *confusion* (DC 21), *lesser geas* (DC 21), *rainbow pattern* (DC 21)  
-3rd (8/day)—*haste*, *hold person* (DC 20), *lightning bolt* (DC 20), *sleet storm*  
-2nd (8/day)—*gust of wind* (DC 19), *mirror image*, *obscure object*, *scare* (DC 19), *see invisibility*  
-1st (8/day)—*charm person* (DC 18), *chill touch*, *color spray* (DC 18), *expeditious retreat*, *sleep*  
-0 (at will)—*acid splash*, *daze* (DC 17), *detect magic*, *ghost sound*, *mage hand*, *message*, *ray of frost*, *read magic*, *resistance*
+7th (5/day)—*[insanity* ](../../magic/spells/insanity.md)(DC 24), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 24)  
+6th (7/day)—*[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 23), *[freezing sphere* ](../../magic/spells/freezing-sphere.md)(DC 23), *[forceful hand](../../magic/spells/forceful-hand.md)*  
+5th (7/day)—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 22), *[dream](../../magic/spells/dream.md)*, *[mind fog* ](../../magic/spells/mind-fog.md)(DC 22), *[persistent image* ](../../magic/spells/persistent-image.md)(DC 22)  
+4th (7/day)—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[confusion* ](../../magic/spells/confusion.md)(DC 21), *[lesser geas* ](../../magic/spells/geas-lesser.md)(DC 21), *[rainbow pattern* ](../../magic/spells/rainbow-pattern.md)(DC 21)  
+3rd (8/day)—*[haste](../../magic/spells/haste.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 20), *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 20), *[sleet storm](../../magic/spells/sleet-storm.md)*  
+2nd (8/day)—*[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 19), *[mirror image](../../magic/spells/mirror-image.md)*, *[obscure object](../../magic/spells/obscure-object.md)*, *[scare* ](../../magic/spells/scare.md)(DC 19), *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (8/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 18), *[chill touch](../../magic/spells/chill-touch.md)*, *[color spray* ](../../magic/spells/color-spray.md)(DC 18), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[sleep](../../magic/spells/sleep.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[daze* ](../../magic/spells/daze.md)(DC 17), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

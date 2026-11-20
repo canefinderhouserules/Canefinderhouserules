@@ -21,10 +21,10 @@ LE Medium outsider (evil, extraplanar, kyton, lawful)
 **Melee** bite +30 (2d6+10 plus pain), 2 claws +30 (2d6+10/19–20 plus grab and pain), 2 wings +25 (1d8+5 plus pain)  
 **Special Attacks** evisceration, unnerving gaze (30 ft., DC 31)  
 **Spell-Like Abilities** (CL 20th; concentration +31)  
-Constant—*true seeing*  
-At will—*greater teleport* (self plus 50 lbs. of objects only), *inflict critical wounds* (DC 25), *shadow walk*, *telekinesis* (DC 26)  
-3/day—*blade barrier* (DC 27), *dimensional lock*, *forcecage* (DC 28), *greater shadow evocation* (DC 29), *heal* (self only), *insanity* (DC 28), *mass inflict critical wounds* (DC 29), *plane shift*  (DC 28), *shades* (DC 30), *symbol of pain* (DC 26), *wall of force*  
-1/day—*binding* (DC 29), *trap the soul* (DC 29)
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[inflict critical wounds* ](../../magic/spells/inflict-critical-wounds.md)(DC 25), *[shadow walk](../../magic/spells/shadow-walk.md)*, *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 26)  
+3/day—*[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 27), *[dimensional lock](../../magic/spells/dimensional-lock.md)*, *[forcecage* ](../../magic/spells/forcecage.md)(DC 28), *[greater shadow evocation* ](../../magic/spells/shadow-evocation-greater.md)(DC 29), *[heal* ](../../magic/spells/heal.md)(self only), *[insanity* ](../../magic/spells/insanity.md)(DC 28), *[mass inflict critical wounds* ](../../magic/spells/inflict-critical-wounds-mass.md)(DC 29), *[plane shift* ](../../magic/spells/plane-shift.md) (DC 28), *[shades* ](../../magic/spells/shades.md)(DC 30), *[symbol of pain* ](../../magic/spells/symbol-of-pain.md)(DC 26), *[wall of force](../../magic/spells/wall-of-force.md)*  
+1/day—*[binding* ](../../magic/spells/binding.md)(DC 29), *[trap the soul* ](../../magic/spells/trap-the-soul.md)(DC 29)
 
 **Statistics**
 

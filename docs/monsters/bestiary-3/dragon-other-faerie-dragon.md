@@ -22,10 +22,10 @@ CG Tiny dragon
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** breath weapon (5-ft. cone, euphoria, Fort DC 12 negates, usable every 1d4 rounds)  
 **Spell-Like Abilities** (CL 3rd; concentration +6)  
-3/day—*greater invisibility* (self only)  
+3/day—*[greater invisibility* ](../../magic/spells/invisibility-greater.md)(self only)  
 **Spells Known** (CL 3rd; concentration +6)  
-1st (6/day)—*grease* (DC 14), *silent image* (DC 14), *sleep* (DC 14)  
-0 (at will)—*dancing lights*, *flare* (DC 13), *ghost sound* (DC 13), *mage hand*, *open/close*
+1st (6/day)—*[grease* ](../../magic/spells/grease.md)(DC 14), *[silent image* ](../../magic/spells/silent-image.md)(DC 14), *[sleep* ](../../magic/spells/sleep.md)(DC 14)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[flare* ](../../magic/spells/flare.md)(DC 13), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*
 
 **Statistics**
 

@@ -23,9 +23,9 @@ LE Large outsider (asura, evil, extraplanar, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** destructive blades, punitive penance, rend (2 slams or 2 punching daggers, 4d6 bleed and punitive penance), repentant rain  
 **Spell-Like Abilities** (CL 18th; concentration +24)  
-At will—*gaseous form*  
-3/day—*chain lightning* (DC 22), *cloudkill* (DC 21), *cone of cold* (DC 21), *dimension door*, *fire snake* (DC 21), *greater dispel magic*, *wall of fire*  
-1/day—*control water*, *control weather*, *greater shout* (DC 24), summon (level 6, 1d3 aghasuras, 40%)
+At will—*[gaseous form](../../magic/spells/gaseous-form.md)*  
+3/day—*[chain lightning](../../magic/spells/chain-lightning.md)* (DC 22), *[cloudkill](../../magic/spells/cloudkill.md)* (DC 21), *[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 21), *[dimension door](../../magic/spells/dimension-door.md)*, *[fire snake](../../magic/spells/fire-snake.md)* (DC 21), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+1/day—*[control water](../../magic/spells/control-water.md)*, *[control weather](../../magic/spells/control-weather.md)*, *[greater shout](../../magic/spells/shout-greater.md)* (DC 24), summon (level 6, 1d3 aghasuras, 40%)
 
 **Statistics**
 

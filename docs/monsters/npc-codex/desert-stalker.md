@@ -23,14 +23,14 @@ LE Medium humanoid (human, orc)
 **Ranged**  mwk composite longbow +16/+11/+6 (1d8+5/×3)  
 **Special Attacks** favored enemy (animals +2, humans +4, magical beasts +4)  
 **Ranger Spells Prepared** (CL 11th; concentration +13)  
-4th—*freedom of movement*  
-3rd—*neutralize poison*  
-2nd—*barkskin*, *protection from energy*, *wind wall*  
-1st—*endure elements*, *longstrider*, *pass without trace*, *resist energy*
+4th—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+3rd—*[neutralize poison](../../magic/spells/neutralize-poison.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+1st—*[endure elements](../../magic/spells/endure-elements.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Tactics**
 
-**Before Combat** The ranger casts *barkskin*, *endure elements*, *freedom of movement*, *longstrider*, *pass without trace*, *protection from energy* (fire), and *resist energy* (electricity).  
+**Before Combat** The ranger casts *[barkskin](../../magic/spells/barkskin.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(fire), and *[resist energy* ](../../magic/spells/resist-energy.md)(electricity).  
 **During Combat** The ranger casts *wind wall* to separate foes, then uses Improved Shield Bash to manipulate positioning.  
 **Base Statistics** Without *barkskin*, *longstrider*, *protection from energy*, and *resist energy*, the ranger’s statistics are **AC** 23, touch 14, flat-footed 21; **Immune** none; **Resist** none; **Speed** 30 ft.; **Skills** Acrobatics +11.
 

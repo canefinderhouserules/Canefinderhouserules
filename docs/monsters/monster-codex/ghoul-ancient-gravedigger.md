@@ -23,12 +23,12 @@ CE Medium undead
 **Ranged**  rock +13/+8 (2d4+7)  
 **Special Attacks** disease (DC 15), paralysis (1d4+1 rounds, DC 15, elves are immune to this effect)  
 **Oracle Spells Known** (CL 10th; concentration +14)  
-5th (3/day)—*flame strike* (DC 19), *mass inflict light wounds*, *stoneskin*  
-4th (6/day)—*divine power*, *inflict critical wounds*, *summon monster IV*, *wall of stone* (DC 18)  
-3rd (7/day)—*animate dead*, *blindness/deafness* (DC 17), *dispel magic*, *inflict serious wounds*, *meld into stone*  
-2nd (7/day)—*darkness*, *desecrate*, *hold person* (DC 16), *inflict moderate wounds*, *spiritual weapon*, *stone call*  
-1st (7/day)—*command* (DC 15), *entropic shield*, *inflict light wounds*, *liberating command*, *magic stone*, *obscuring mist*, *shield of faith*  
-0 (at will)—*bleed* (DC 14), *create water*, *detect magic*, *detect poison*, *guidance*, *mending*, *read magic*, *resistance*, *spark*  
+5th (3/day)—*[flame strike](../../magic/spells/flame-strike.md)* (DC 19), *[mass inflict light wounds](../../magic/spells/inflict-light-wounds-mass.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*  
+4th (6/day)—*[divine power](../../magic/spells/divine-power.md)*, *[inflict critical wounds](../../magic/spells/inflict-critical-wounds.md)*, *[summon monster IV](../../magic/spells/summon-monster-iv.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)* (DC 18)  
+3rd (7/day)—*[animate dead](../../magic/spells/animate-dead.md)*, *[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 17), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)*, *[meld into stone](../../magic/spells/meld-into-stone.md)*  
+2nd (7/day)—*[darkness](../../magic/spells/darkness.md)*, *[desecrate](../../magic/spells/desecrate.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 16), *[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)*, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*, *[stone call](../../magic/spells/stone-call.md)*  
+1st (7/day)—*[command](../../magic/spells/command.md)* (DC 15), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[inflict light wounds](../../magic/spells/inflict-light-wounds.md)*, *[liberating command](../../magic/spells/liberating-command.md)*, *[magic stone](../../magic/spells/magic-stone.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 14), *[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[mending](../../magic/spells/mending.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[spark](../../magic/spells/spark.md)*  
 **Mystery** stone
 
 **Tactics**

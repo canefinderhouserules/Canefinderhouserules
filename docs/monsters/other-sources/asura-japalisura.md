@@ -23,10 +23,10 @@ LE Medium outsider (asura, evil, extraplanar, lawful)
 **Ranged** *+1 composite shortbow* +22/+17/+12 (1d6+4/×3) or *+1 composite shortbows* +20/+20/+15/+15/+10 (1d6+4/×3)  
 **Special Attacks** dual bows  
 **Spell-Like Abilities** (CL 14th; concentration +17)  
-Constant—*see invisibility*  
-At will—*augury*, *flame arrow*  
-3/day—*arcane sight*, *divination*  
-1/day—summon (level 5, 1d3 adhukaits 50% or 1 upasunda 30%), *true seeing*, *vision*
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[augury](../../magic/spells/augury.md)*, *[flame arrow](../../magic/spells/flame-arrow.md)*  
+3/day—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[divination](../../magic/spells/divination.md)*  
+1/day—summon (level 5, 1d3 adhukaits 50% or 1 upasunda 30%), *[true seeing](../../magic/spells/true-seeing.md)*, *[vision](../../magic/spells/vision.md)*
 
 **Statistics**
 

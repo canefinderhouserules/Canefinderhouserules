@@ -25,7 +25,7 @@ to cold
 **Special Attacks** breath weapon (10-ft. cone, 1d4
 fire, Reflex DC 9 half, usable every 1d4 rounds)  
 **Spell-Like Abilities** (CL 1st; concentration +2)  
-At will—*spark*
+At will—*[spark](../../magic/spells/spark.md)*
 
 **Statistics**
 

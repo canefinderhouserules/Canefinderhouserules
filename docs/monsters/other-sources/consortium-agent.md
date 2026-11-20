@@ -21,9 +21,9 @@ LE Medium humanoid (human)
 **Melee** *+1 rapier* +6 (1d6+2/18–20)  
 **Special Attacks** bardic performance 15 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +2)  
 **Bard Spells Known** (CL 5th; concentration +8)  
-2nd (3/day)—*alter self*, *invisibility*, *mirror image*  
-1st (5/day)—*charm person* (DC 14), *comprehend languages*, *disguise self*, *sleep* (DC 14)  
-0 (at will)—*daze* (DC 13), *detect magic*, *ghost sound* (DC 13), *lullaby* (DC 13), *prestidigitation*, *read magic*
+2nd (3/day)—*[alter self](../../magic/spells/alter-self.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (5/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[sleep* ](../../magic/spells/sleep.md)(DC 14)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[lullaby* ](../../magic/spells/lullaby.md)(DC 13), *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

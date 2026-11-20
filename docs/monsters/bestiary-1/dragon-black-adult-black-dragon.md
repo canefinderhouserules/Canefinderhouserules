@@ -23,10 +23,10 @@ CE Large dragon (water)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (80-ft. line, DC 22, 12d6 acid), corrupt water  
 **Spell-Like Abilities** (CL 14th)  
-At will—*darkness* (60-ft. radius)  
+At will—*[darkness* ](../../magic/spells/darkness.md)(60-ft. radius)  
 **Spells Known** (CL 3rd)  
-1st (6/day)—*alarm*, *mage armor*, *obscuring mist*  
-0 (at will)—*dancing lights*, *detect magic*, *mending*, *message*, *read magic*
+1st (6/day)—*[alarm](../../magic/spells/alarm.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

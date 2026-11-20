@@ -24,10 +24,10 @@ Perception +7
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** repartee  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-At will—*daze* (DC 12), *prestidigitation*  
+At will—*[daze](../../magic/spells/daze.md)* (DC 12), *[prestidigitation](../../magic/spells/prestidigitation.md)*  
 
-3/day—*fumbletongue* (DC 13), *invisibility* (self only),
-*memory lapse* (DC 13)
+3/day—*[fumbletongue](../../magic/spells/fumbletongue.md)* (DC 13), *[invisibility](../../magic/spells/invisibility.md)* (self only),
+*[memory lapse](../../magic/spells/memory-lapse.md)* (DC 13)
 
 **Statistics**
 

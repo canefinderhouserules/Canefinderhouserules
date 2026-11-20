@@ -32,10 +32,10 @@ poison, precision damage; **Resist** acid 30, cold 30; **SR** 41
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** infernal wings, profane gift  
 **Spell-Like Abilities** (CL 30th; concentration +44)  
-Constant—*detect chaos, detect good, discern lies* (DC 28), *freedom of movement, mind blank, shield of law* (DC 32), *true seeing*  
-At will—*astral projection, deeper darkness, desecrate*<sup>M</sup>, *dictum*<sup>M</sup> (DC 31), *dominate person*<sup>M</sup> (DC 29), *greater dispel magic, greater scrying* (DC 31), *greater teleport, order’s wrath*<sup>M</sup> (DC 28), *secret page, unhallow*  
-3/day—*quickened dominate person*<sup>M</sup> (DC 29), *fire storm*<sup>M</sup> (DC 32), *globe of invulnerability*<sup>M</sup>, *mass charm monster* (DC 32), *mislead*<sup>M</sup> (DC 30), *summon devils*  
-1/day—*soul bind* (DC 33), *time stop*<sup>M</sup>, *wish*<sup>M</sup>  
+Constant—*detect chaos, detect good, discern lies* (DC 28), *freedom of movement, mind blank, shield of law* (DC 32), *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*astral projection, deeper darkness, desecrate*<sup>M</sup>, *[dictum](../../magic/spells/dictum.md)*<sup>M</sup> (DC 31), *[dominate person](../../magic/spells/dominate-person.md)*<sup>M</sup> (DC 29), *greater dispel magic, greater scrying* (DC 31), *greater teleport, order’s wrath*<sup>M</sup> (DC 28), *secret page, unhallow*  
+3/day—*[quickened dominate person](../../magic/spells/dominate-person.md)*<sup>M</sup> (DC 29), *[fire storm](../../magic/spells/fire-storm.md)*<sup>M</sup> (DC 32), *[globe of invulnerability](../../magic/spells/globe-of-invulnerability.md)*<sup>M</sup>, *[mass charm monster](../../magic/spells/charm-monster-mass.md)* (DC 32), *[mislead](../../magic/spells/mislead.md)*<sup>M</sup> (DC 30), *summon devils*  
+1/day—*[soul bind](../../magic/spells/soul-bind.md)* (DC 33), *[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 <sup>M</sup> Mephistopheles can use this ability’s mythic version in his realm.
 
 **Statistics**

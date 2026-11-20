@@ -28,8 +28,8 @@ crush, inexorable attacks, rotting breath (1d2 negative levels)
 **Oracle Spells Known** (CL 7th; concentration +12)  
 3rd (5)—*searing light, speak with dead* (DC 18)  
 2nd (7)—*augury, gentle repose, resist energy*  
-1st (8)—*bless, cure light wounds, hide from undead, sanctuary* (DC 16), *shield of faith*  
-0 (at will)—*bleed* (DC 15), *detect magic, guidance, mending, read magic, resistance, stabilize*
+1st (8)—*bless, cure light wounds, hide from undead, sanctuary* (DC 16), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 15), *detect magic, guidance, mending, read magic, resistance, stabilize*
 
 **Statistics**
 

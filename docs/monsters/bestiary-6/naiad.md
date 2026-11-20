@@ -25,7 +25,7 @@ NG Medium fey (water)
 (countersong, distraction, fascinate [DC 13], inspire
 courage +1)  
 **Bard Spells Known** (CL 1st; concentration +4)  
-1st (2/day)—*charm person* (DC 14), *cure light wounds*  
+1st (2/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 14), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*  
 0 (at will)—*detect magic, light, message, prestidigitation* (DC 13)
 
 **Statistics**

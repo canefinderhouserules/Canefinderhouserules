@@ -21,8 +21,8 @@ LE Medium outsider (devil, evil, extraplanar, lawful)
 **Melee** mwk ranseur +12/+7 (2d4+6/×3) or 2 claws +11 (1d6+4 plus 2 bleed)  
 **Special Attacks** noxious breath, rend (2 claws, 1d6+6 plus 2 bleed)  
 **Spell-Like Abilities** (CL 12th; concentration +12)  
-Constant—*detect magic*  
-At will—*greater teleport* (self plus 50 lbs. of objects only)  
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)  
 1/day—summon (CL 3rd, 1 magaav 40%)
 
 **Statistics**

@@ -23,8 +23,8 @@ NE Medium humanoid (human)
 **Spell-Like Abilities** (CL 2nd; concentration +3)  
 4/day—storm burst  
 **Druid Spells Prepared** (CL 2nd; concentration +3)  
-1st—*cure light wounds*, *jump*, *obscuring mist*<sup>D</sup>, *shillelagh*  
-0 (at will)—*flare* (DC 11), *know direction*, *light*, *stabilize*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[jump](../../magic/spells/jump.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*<sup>D</sup>, *[shillelagh](../../magic/spells/shillelagh.md)*  
+0 (at will)—*[flare* ](../../magic/spells/flare.md)(DC 11), *[know direction](../../magic/spells/know-direction.md)*, *[light](../../magic/spells/light.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domain** Weather
 
 **Tactics**

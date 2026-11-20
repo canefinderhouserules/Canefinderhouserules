@@ -22,10 +22,10 @@ CE Large aberration
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** rend (2 tentacles, 1d6+9 plus Wisdom drain)  
 **Spell-Like Abilities** (CL 11th; concentration +18)  
-Constant—*air walk*  
-At will—*detect thoughts* (DC 19)  
-3/day—*charm monster* (DC 21), *dispel magic*, *dominate person* (DC 22), *shadow conjuration* (DC 21), *shadow evocation* (DC 22), *veil* (DC 23)  
-1/day—*confusion* (DC 21), *major image* (DC 20), *mirage arcana* (DC 22), *plane shift* (self only)
+Constant—*[air walk](../../magic/spells/air-walk.md)*  
+At will—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 19)  
+3/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 21), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[dominate person* ](../../magic/spells/dominate-person.md)(DC 22), *[shadow conjuration* ](../../magic/spells/shadow-conjuration.md)(DC 21), *[shadow evocation* ](../../magic/spells/shadow-evocation.md)(DC 22), *[veil* ](../../magic/spells/veil.md)(DC 23)  
+1/day—*[confusion* ](../../magic/spells/confusion.md)(DC 21), *[major image* ](../../magic/spells/major-image.md)(DC 20), *[mirage arcana* ](../../magic/spells/mirage-arcana.md)(DC 22), *[plane shift* ](../../magic/spells/plane-shift.md)(self only)
 
 **Statistics**
 

@@ -22,10 +22,10 @@ CE Large aberration
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** rend (2 claws, 2d6+7)  
 **Sorcerer Spells Known** (CL 7th; concentration +17)  
-3rd (5/day)—*lightning bolt* (DC 16), *hold person* (DC 16)  
-2nd (7/day)—*acid arrow*, *alter self*, *invisibility*  
-1st (7/day)—*grease* (DC 14), *magic missile*, *ray of enfeeblement* (DC 14), *shield*, *unseen servant*  
-0 (at will)—*acid splash*, *dancing lights*, *detect magic*, *mage hand*, *open/close*, *prestidigitation*, *read magic*
+3rd (5/day)—*[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 16), *[hold person* ](../../magic/spells/hold-person.md)(DC 16)  
+2nd (7/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[alter self](../../magic/spells/alter-self.md)*, *[invisibility](../../magic/spells/invisibility.md)*  
+1st (7/day)—*[grease* ](../../magic/spells/grease.md)(DC 14), *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 14), *[shield](../../magic/spells/shield.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

@@ -22,9 +22,9 @@ LE Large outsider (devil, evil, extraplanar, lawful)
 **Space** 10 ft., **Reach** 10 ft. (20 ft. with tongues)  
 **Special Attacks** blood drain (1d4 Con damage), constrict (1d6+7), possession, strangle  
 **Spell-Like Abilities** (CL 17th; concentration +24)  
-At will—*acid arrow*, *greater dispel magic*, *greater teleport* (self plus 50 pounds of objects only), *persistent image* (DC 22)  
-3/day—*acid fog*, *dimensional anchor*, *dominate person* (DC 22), *greater scrying* (DC 24), *mass suggestion* (DC 23)  
-1/day—*blasphemy* (DC 24), *demand* (DC 25), *magic jar* (DC 22), *plane shift* (DC 22), summon (level 6, 3 barbed devils 45%), *waves of exhaustion*
+At will—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 pounds of objects only), *[persistent image](../../magic/spells/persistent-image.md)* (DC 22)  
+3/day—*[acid fog](../../magic/spells/acid-fog.md)*, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[dominate person](../../magic/spells/dominate-person.md)* (DC 22), *[greater scrying](../../magic/spells/scrying-greater.md)* (DC 24), *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 23)  
+1/day—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 24), *[demand](../../magic/spells/demand.md)* (DC 25), *[magic jar](../../magic/spells/magic-jar.md)* (DC 22), *[plane shift](../../magic/spells/plane-shift.md)* (DC 22), summon (level 6, 3 barbed devils 45%), *[waves of exhaustion](../../magic/spells/waves-of-exhaustion.md)*
 
 **Statistics**
 

@@ -21,9 +21,9 @@ CN Medium fey (shapechanger)
 **Melee** rapier +15/+10 (1d6+4/18–20 plus mischief )  
 **Special Attacks** befuddling gaze  
 **Spell-Like Abilities** (CL 11th; concentration +14)  
-5/day—*burning hands* (DC 14), *gust of wind* (DC 15)  
-3/day—*hallucinatory terrain* (DC 17), *invisibility*, *solid fog*, *suggestion* (DC 15)  
-1/day—*cone of cold* (DC 18), *mirage arcana* (DC 18)
+5/day—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 14), *[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 15)  
+3/day—*[hallucinatory terrain* ](../../magic/spells/hallucinatory-terrain.md)(DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[solid fog](../../magic/spells/solid-fog.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 15)  
+1/day—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 18), *[mirage arcana* ](../../magic/spells/mirage-arcana.md)(DC 18)
 
 **Statistics**
 

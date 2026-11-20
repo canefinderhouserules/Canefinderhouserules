@@ -21,8 +21,8 @@ NE Medium outsider (div, evil, extraplanar)
 **Melee** 2 claws +8 (1d6+2)  
 **Special Attacks** cursed gaze, sandstorm  
 **Spell-Like Abilities** (CL 6th; concentration +10)  
-At will—*bestow curse* (DC 18), *detect good*, *detect magic*, *dimension door*, *minor image* (DC 16), *spectral hand*  
-1/day—*suggestion* (DC 17), summon (level 3, 1d2 dorus 25%)
+At will—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 18), *[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[minor image* ](../../magic/spells/minor-image.md)(DC 16), *[spectral hand](../../magic/spells/spectral-hand.md)*  
+1/day—*[suggestion* ](../../magic/spells/suggestion.md)(DC 17), summon (level 3, 1d2 dorus 25%)
 
 **Statistics**
 

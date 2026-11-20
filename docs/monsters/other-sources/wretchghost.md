@@ -23,7 +23,7 @@ CE Medium undead (incorporeal)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. vs. addicts)  
 **Special Attacks** tormented howl  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
-1/day—*ray of exhaustion* (DC 15), *touch of idiocy*
+1/day—*[ray of exhaustion](../../magic/spells/ray-of-exhaustion.md)* (DC 15), *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*
 
 **Statistics**
 

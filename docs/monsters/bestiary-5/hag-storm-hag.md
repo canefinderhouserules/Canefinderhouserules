@@ -22,11 +22,11 @@ CE Medium monstrous humanoid
 plus 1d6 electricity)  
 **Special Attacks** storm strike, whipping winds  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-At will—*bleed, gust of wind* (DC 15), *whispering wind*  
+At will—*bleed, gust of wind* (DC 15), *[whispering wind](../../magic/spells/whispering-wind.md)*  
 
-3/day—*invisibility, lightning bolt* (DC 16), *river of wind* (DC 17), *sleet storm*  
+3/day—*invisibility, lightning bolt* (DC 16), *[river of wind](../../magic/spells/river-of-wind.md)* (DC 17), *[sleet storm](../../magic/spells/sleet-storm.md)*  
 
-1/day—*control winds* (DC 18)
+1/day—*[control winds](../../magic/spells/control-winds.md)* (DC 18)
 
 **Statistics**
 

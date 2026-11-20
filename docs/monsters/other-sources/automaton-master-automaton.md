@@ -23,10 +23,10 @@ LN Huge construct (automaton, extraplanar)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** energy beam (90-ft. line or 60-ft. cone, DC 30, 20d6, usable every 1d3 rounds), rend (2 arcane hooks, 4d10+18)  
 **Spell-Like Abilities** (CL 25th; concentration +33)  
-Constant—*tongues*, *true seeing*  
-At will—*cloudkill* (DC 23), *fireball* (DC 21), *lightning bolt* (DC 21), *teleport*  
-3/day—*banishment* (DC 25), *blade barrier* (DC 24), *plane shift*, *power word stun* (DC 26)  
-1/day—*reverse gravity*, *prismatic wall*, *time stop*
+Constant—*[tongues](../../magic/spells/tongues.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[cloudkill](../../magic/spells/cloudkill.md)* (DC 23), *[fireball](../../magic/spells/fireball.md)* (DC 21), *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 21), *[teleport](../../magic/spells/teleport.md)*  
+3/day—*[banishment](../../magic/spells/banishment.md)* (DC 25), *[blade barrier](../../magic/spells/blade-barrier.md)* (DC 24), *[plane shift](../../magic/spells/plane-shift.md)*, *[power word stun](../../magic/spells/power-word-stun.md)* (DC 26)  
+1/day—*[reverse gravity](../../magic/spells/reverse-gravity.md)*, *[prismatic wall](../../magic/spells/prismatic-wall.md)*, *[time stop](../../magic/spells/time-stop.md)*
 
 **Statistics**
 

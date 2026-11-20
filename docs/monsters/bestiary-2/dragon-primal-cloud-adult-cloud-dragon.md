@@ -23,11 +23,11 @@ CN Huge dragon (air, extraplanar)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, 12d8 electricity, DC 23), crush  
 **Spell-Like Abilities** (CL 16th; concentration +20)  
-At will—*fog cloud*, *obscuring mist*, *solid fog*  
+At will—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[solid fog](../../magic/spells/solid-fog.md)*  
 **Spells Known** (CL 5th; concentration +9)  
-2nd (5/day)—*blur*, *see invisibility*  
-1st (7/day)—*charm person* (DC 15), *detect secret doors*, *shield*, *true strike*  
-0 (at will)—*dancing lights*, *detect poison*, *light*, *message*, *prestidigitation*, *read magic*
+2nd (5/day)—*[blur](../../magic/spells/blur.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (7/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 15), *[detect secret doors](../../magic/spells/detect-secret-doors.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

@@ -23,9 +23,9 @@ N Large outsider (extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** dilating strike  
 **Spell-Like Abilities** (CL 19th; concentration +22)  
-At will—*dimension door*, *greater teleport* (self plus 50 lbs. of objects only), *haste*, *memory lapse* (DC 14), *modify memory* (DC 17), *plane shift* (self only)  
-3/day—*disintegrate* (DC 19), *sands of time* (DC 16)  
-1/day—*temporal stasis* (DC 21), *time stop*
+At will—*[dimension door](../../magic/spells/dimension-door.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[haste](../../magic/spells/haste.md)*, *[memory lapse](../../magic/spells/memory-lapse.md)* (DC 14), *[modify memory](../../magic/spells/modify-memory.md)* (DC 17), *[plane shift](../../magic/spells/plane-shift.md)* (self only)  
+3/day—*[disintegrate](../../magic/spells/disintegrate.md)* (DC 19), *[sands of time](../../magic/spells/sands-of-time.md)* (DC 16)  
+1/day—*[temporal stasis](../../magic/spells/temporal-stasis.md)* (DC 21), *[time stop](../../magic/spells/time-stop.md)*
 
 **Statistics**
 

@@ -22,7 +22,7 @@ N Small plant (leshy)
 **Melee** head butt +0 (1d4–2)  
 **Special Attacks** seed spray (1d4, 15-ft. cone, DC 16)  
 **Spell-Like Abilities** (CL 4; concentration +6)  
-Constant—*pass without trace*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*
 
 **Statistics**
 

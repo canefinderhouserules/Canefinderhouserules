@@ -23,7 +23,7 @@ LE Medium humanoid (dwarf)
 **Ranged**  dagger +13/+8 (1d4/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, sneak attack +7d6  
 **Spell-Like Abilities** (CL 13th; concentration +14)  
-3/day—*detect magic*
+3/day—*[detect magic](../../magic/spells/detect-magic.md)*
 
 **Tactics**
 

@@ -23,12 +23,12 @@ CN Medium fey
 **Ranged**  mwk sling +9 (1d4)  
 **Special Attacks** weep  
 **Spell-Like Abilities** (CL 7th; concentration +12)  
-At will—*meld into stone*, *stone tell*  
+At will—*[meld into stone](../../magic/spells/meld-into-stone.md)*, *[stone tell](../../magic/spells/stone-tell.md)*  
 **Druid Spells Prepared** (CL 5th; concentration +8)  
-3rd—*stone shape*  
-2nd—*spider climb*, *stone call*  
-1st—*cure light wounds*, *faerie fire*, *magic stone*  
-0—*detect magic*, *detect poison*, *light*, *mending*
+3rd—*[stone shape](../../magic/spells/stone-shape.md)*  
+2nd—*[spider climb](../../magic/spells/spider-climb.md)*, *[stone call](../../magic/spells/stone-call.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*, *[magic stone](../../magic/spells/magic-stone.md)*  
+0—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*
 
 **Statistics**
 

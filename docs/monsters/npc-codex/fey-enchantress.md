@@ -25,13 +25,13 @@ CN Medium humanoid (elf)
 8/day—laughing touch  
 12 rounds/day—fleeting glance  
 **Sorcerer Spells Known** (CL 12th; concentration +17)  
-6th (3/day)—*mass suggestion* (DC 25)  
-5th (6/day)—*dominate person* (DC 24), *mind fog* (DC 24), *tree stride*  
-4th (7/day)—*bestow curse* (DC 19), *charm monster* (DC 21), *crushing despair* (DC 23), *poison* (DC 19)  
-3rd (7/day)—*deep slumber* (DC 22), *fly*, *hold person* (DC 22), *lightning bolt* (DC 18), *suggestion* (DC 22)  
-2nd (7/day)—*false life*, *glitterdust* (DC 17), *hideous laughter* (DC 21), *scorching ray*, *spectral hand*, *touch of idiocy*  
-1st (8/day)—*charm person* (DC 18), *entangle* (DC 16), *mage armor*, *magic missile*, *shield*, *ventriloquism* (DC 16)  
-0 (at will)—*dancing lights*, *daze* (DC 19), *detect magic*, *ghost sound* (DC 15), *mage hand*, *message*, *prestidigitation*, *ray of frost*, *read magic*  
+6th (3/day)—*[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 25)  
+5th (6/day)—*[dominate person* ](../../magic/spells/dominate-person.md)(DC 24), *[mind fog* ](../../magic/spells/mind-fog.md)(DC 24), *[tree stride](../../magic/spells/tree-stride.md)*  
+4th (7/day)—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 19), *[charm monster* ](../../magic/spells/charm-monster.md)(DC 21), *[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 23), *[poison* ](../../magic/spells/poison.md)(DC 19)  
+3rd (7/day)—*[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 22), *[fly](../../magic/spells/fly.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 22), *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 18), *[suggestion* ](../../magic/spells/suggestion.md)(DC 22)  
+2nd (7/day)—*[false life](../../magic/spells/false-life.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 17), *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 21), *[scorching ray](../../magic/spells/scorching-ray.md)*, *[spectral hand](../../magic/spells/spectral-hand.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1st (8/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 18), *[entangle* ](../../magic/spells/entangle.md)(DC 16), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 16)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 19), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 15), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** fey
 
 **Tactics**

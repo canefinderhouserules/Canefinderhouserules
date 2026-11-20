@@ -20,9 +20,9 @@ LN Medium outsider (extraplanar, inevitable, lawful)
 **Speed** 30 ft.  
 **Melee** *+2 bastard sword* +20/+15/+10 (1d10+8/19–20), slam +13 (2d6+3) or 2 slams +18 (2d6+6)  
 **Spell-Like Abilities** (CL 12th; concentration +15)  
-At will—*discern lies* (DC 17), *disguise self*, *enervation*, *fear* (DC 17), *hold person* (DC 16), *invisibility* (self only), *locate creature*, *suggestion* (DC 16), *vampiric touch*  
-3/day—*hold monster* (DC 18), *mark of justice*, quickened *suggestion* (DC 16)  
-1/week—*geas/quest*
+At will—*[discern lies* ](../../magic/spells/discern-lies.md)(DC 17), *[disguise self](../../magic/spells/disguise-self.md)*, *[enervation](../../magic/spells/enervation.md)*, *[fear* ](../../magic/spells/fear.md)(DC 17), *[hold person* ](../../magic/spells/hold-person.md)(DC 16), *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[locate creature](../../magic/spells/locate-creature.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 16), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+3/day—*[hold monster* ](../../magic/spells/hold-monster.md)(DC 18), *[mark of justice](../../magic/spells/mark-of-justice.md)*, quickened *[suggestion* ](../../magic/spells/suggestion.md)(DC 16)  
+1/week—*[geas/quest](../../magic/spells/geas-quest.md)*
 
 **Statistics**
 

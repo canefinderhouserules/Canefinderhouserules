@@ -21,10 +21,10 @@ CN Medium outsider (extraplanar, incorporeal)
 **Melee** gore +19 (1d8 plus 2d6 force), 2 claws +19 (1d6 plus 2d6 force)  
 **Special Attacks** force of nature, powerful charge (gore, 2d8 plus 4d6 force), spirit walk  
 **Spell-Like Abilities** (CL 13th; concentration +17)  
-Constant—*speak with animals*  
-At will—*call animal*, *charm animal* (DC 15)  
-3/day—*dominate animal* (DC 17), *moonstruck* (DC 18)  
-1/day—*baleful polymorph* (DC 19), *commune with nature*
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[call animal](../../magic/spells/call-animal.md)*, *[charm animal](../../magic/spells/charm-animal.md)* (DC 15)  
+3/day—*[dominate animal](../../magic/spells/dominate-animal.md)* (DC 17), *[moonstruck](../../magic/spells/moonstruck.md)* (DC 18)  
+1/day—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 19), *[commune with nature](../../magic/spells/commune-with-nature.md)*
 
 **Statistics**
 

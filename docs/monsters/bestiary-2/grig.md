@@ -23,7 +23,7 @@ NG Tiny fey
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** fiddle  
 **Spell-Like Abilities** (CL 9th; concentration +11)  
-3/day—*disguise self*, *entangle* (DC 13), *invisibility* (self only), *pyrotechnics* (DC 14)
+3/day—*[disguise self](../../magic/spells/disguise-self.md)*, *[entangle* ](../../magic/spells/entangle.md)(DC 13), *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 14)
 
 **Statistics**
 

@@ -26,8 +26,8 @@ corpse +17 (2d6+16 plus disease)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** hurl corpse, rock throwing (140 ft.)  
 **Spell-Like Abilities** (CL 15th; concentration +18)  
-At will—*contagion* (DC 17), *death knell* (DC 15)  
-3/day—*plague carrier* (DC 18), *plague storm* (DC 20), *wither limb* (DC 19)  
+At will—*[contagion](../../magic/spells/contagion.md)* (DC 17), *[death knell](../../magic/spells/death-knell.md)* (DC 15)  
+3/day—*[plague carrier](../../magic/spells/plague-carrier.md)* (DC 18), *[plague storm](../../magic/spells/plague-storm.md)* (DC 20), *[wither limb](../../magic/spells/wither-limb.md)* (DC 19)  
 1/day—*summon* (level 6, 1 tick swarm 100%)
 
 **Statistics**

@@ -22,13 +22,13 @@ CE Large outsider (azata, chaotic, extraplanar, evil)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** agonized wail (DC 18), baleful gaze (DC 18), bardic performance (21 rounds/day), constrict (2d6+5)  
 **Spell-Like Abilities** (CL 7th; concentration +2)  
-3/day—*darkness*, *hallucinatory terrain* (DC 19), *knock*, *light*  
-1/day—*charm person* (DC 16), *speak with animals*, *speak with plants*  
+3/day—*[darkness](../../magic/spells/darkness.md)*, *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)* (DC 19), *[knock](../../magic/spells/knock.md)*, *[light](../../magic/spells/light.md)*  
+1/day—*[charm person](../../magic/spells/charm-person.md)* (DC 16), *[speak with animals](../../magic/spells/speak-with-animals.md)*, *[speak with plants](../../magic/spells/speak-with-plants.md)*  
 **Bard Spells Known** (CL 7th; concentration +2)  
-3rd (2/day)—*crushing despair* (DC 18), *terrible remorse* (DC 18)  
-2nd (4/day)—*blindness/deafness* (DC 17), *piercing shriek* (DC 17), *rage*, *suggestion* (DC 17)  
-1st (6/day)—*cause fear* (DC 16), *charm person* (DC 16), *ear-piercing scream* (DC 16), *hideous laughter* (DC 16), *lesser confusion* (DC 16)  
-0 (at will)—*dancing lights*, *daze* (DC 15), *detect magic*, *ghost sound* (DC 15), *read magic*, *resistance*
+3rd (2/day)—*[crushing despair](../../magic/spells/crushing-despair.md)* (DC 18), *[terrible remorse](../../magic/spells/terrible-remorse.md)* (DC 18)  
+2nd (4/day)—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 17), *[piercing shriek](../../magic/spells/piercing-shriek.md)* (DC 17), *[rage](../../magic/spells/rage.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 17)  
+1st (6/day)—*[cause fear](../../magic/spells/cause-fear.md)* (DC 16), *[charm person](../../magic/spells/charm-person.md)* (DC 16), *[ear-piercing scream](../../magic/spells/ear-piercing-scream.md)* (DC 16), *[hideous laughter](../../magic/spells/hideous-laughter.md)* (DC 16), *[lesser confusion](../../magic/spells/confusion-lesser.md)* (DC 16)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze](../../magic/spells/daze.md)* (DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

@@ -23,29 +23,29 @@ CE Medium undead
 **Ranged**  ray +17 (by spell/19–20)  
 **Special Attacks** alter channel, the blood is the life (13/day), channel negative energy 15/day (DC 22, 3d6), death’s kiss (2 rounds, 14/day), disease, divine surge (inspired spell), eldritch breach, enduring blessing (1 minute/level), faith’s reach, lore keeper, mythic power (15/day, surge +1d8), paralysis (1d4+1 rounds, DC 21, elves are immune to this effect), spell synthesis  
 **Spell-Like Abilities** (CL 22nd)  
-2/day—*ghoul touch*  
+2/day—*[ghoul touch](../../magic/spells/ghoul-touch.md)*  
 1/day—undead minion  
 **Cleric Spells Prepared** (CL 15th; concentration +26)  
-8th—*fire storm*<sup>M</sup> (DC 29), *mind blank*<sup>D</sup> (already cast), *unholy aura*  
-7th—*destruction*<sup>D</sup> (2, DC 29), empowered *flame strike* (2), *repulsion* (DC 28)  
-6th—*create undead*<sup>D</sup>, *greater dispel magic*, *harm*<sup>M</sup> (2, DC 29), *plague storm*, *word of recall*  
-5th—*plane shift*<sup>M</sup> (DC 26), *scrying* (DC 26), *slay living*<sup>D</sup> (3, DC 27), *steal power* (DC 28), *true seeing* (already cast)  
-4th—*aura of doom*, *blessing of fervor*, *dismissal* (DC 25), *divine power*, *enervation* (2), *freedom of movement*  
-3rd—*bestow curse* (3, DC 25), *dispel magic*, *magic vestment* (already cast), *prayer*<sup>M</sup> (2), *seek thoughts*  
-2nd—*darkness*<sup>M</sup>, *ghoul touch*<sup>D</sup> (DC 25), *remove paralysis*, *resist energy* (2), *silence*<sup>M</sup> (2, DC 23), *spiritual weapon*  
-1st—*comprehend languages*<sup>D</sup>, *divine favor*, *entropic shield*, *protection from good* (3), *shield of faith*<sup>M</sup> (2)  
-0 (at will)—*detect magic*, *guidance*, *light*, *mending*  
+8th—*[fire storm](../../magic/spells/fire-storm.md)*<sup>M</sup> (DC 29), *[mind blank](../../magic/spells/mind-blank.md)*<sup>D</sup> (already cast), *[unholy aura](../../magic/spells/unholy-aura.md)*  
+7th—*[destruction](../../magic/spells/destruction.md)*<sup>D</sup> (2, DC 29), empowered *[flame strike](../../magic/spells/flame-strike.md)* (2), *[repulsion](../../magic/spells/repulsion.md)* (DC 28)  
+6th—*[create undead](../../magic/spells/create-undead.md)*<sup>D</sup>, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[harm](../../magic/spells/harm.md)*<sup>M</sup> (2, DC 29), *[plague storm](../../magic/spells/plague-storm.md)*, *[word of recall](../../magic/spells/word-of-recall.md)*  
+5th—*[plane shift](../../magic/spells/plane-shift.md)*<sup>M</sup> (DC 26), *[scrying](../../magic/spells/scrying.md)* (DC 26), *[slay living](../../magic/spells/slay-living.md)*<sup>D</sup> (3, DC 27), *[steal power](../../magic/spells/steal-power.md)* (DC 28), *[true seeing](../../magic/spells/true-seeing.md)* (already cast)  
+4th—*[aura of doom](../../magic/spells/aura-of-doom.md)*, *[blessing of fervor](../../magic/spells/blessing-of-fervor.md)*, *[dismissal](../../magic/spells/dismissal.md)* (DC 25), *[divine power](../../magic/spells/divine-power.md)*, *[enervation](../../magic/spells/enervation.md)* (2), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (3, DC 25), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)* (already cast), *[prayer](../../magic/spells/prayer.md)*<sup>M</sup> (2), *[seek thoughts](../../magic/spells/seek-thoughts.md)*  
+2nd—*[darkness](../../magic/spells/darkness.md)*<sup>M</sup>, *[ghoul touch](../../magic/spells/ghoul-touch.md)*<sup>D</sup> (DC 25), *[remove paralysis](../../magic/spells/remove-paralysis.md)*, *[resist energy](../../magic/spells/resist-energy.md)* (2), *[silence](../../magic/spells/silence.md)*<sup>M</sup> (2, DC 23), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[comprehend languages](../../magic/spells/comprehend-languages.md)*<sup>D</sup>, *[divine favor](../../magic/spells/divine-favor.md)*, *[entropic shield](../../magic/spells/entropic-shield.md)*, *[protection from good](../../magic/spells/protection-from-good.md)* (3), *[shield of faith](../../magic/spells/shield-of-faith.md)*<sup>M</sup> (2)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*  
 **D** domain spell; **Domains** Death (Undead subdomain), Knowledge (Thought subdomain); **M** mythic spell
   
 **Sorcerer Spells Known** (CL 15th; concentration +25)  
-7th (5/day)—*finger of death*<sup>M</sup> (DC 29), *power word blind*, *prismatic spray*<sup>M</sup>  
-6th (8/day)—*contagious flame*, *contingency*<sup>M</sup>, *greater dispel magic*, *undeath to death* (DC 28)  
-5th (8/day)—*cone of cold* (DC 25), *dominate person*<sup>M</sup> (DC 25), *mage's private sanctum*, *teleport*, *waves of fatigue*  
-4th (8/day)—*animate dead*, *bestow curse* (DC 26), *charm monster* (DC 24), *enervation*<sup>M</sup>, *fire shield*  
-3rd (8/day)—*fly*, *hold person* (DC 23), *magic circle against good*, *nondetection*, *vampiric touch*<sup>M</sup>  
-2nd (9/day, 8 remaining)—*command undead* (DC 23), *false life* (cast once), *mirror image*, *resist energy*, *scorching ray*, *spider climb*<sup>M</sup>  
-1st (9/day)—*chill touch* (DC 23), *expeditious retreat*, *feather fall*, *ray of enfeeblement* (DC 23), *silent image* (DC 21), *vanish*  
-0 (at will)—*acid splash*, *arcane mark*, *dancing lights*, *ghost sound* (DC 20), *mage hand*, *message*, *prestidigitation*, *read magic*, *tough of fatigue*  
+7th (5/day)—*[finger of death](../../magic/spells/finger-of-death.md)*<sup>M</sup> (DC 29), *[power word blind](../../magic/spells/power-word-blind.md)*, *[prismatic spray](../../magic/spells/prismatic-spray.md)*<sup>M</sup>  
+6th (8/day)—*[contagious flame](../../magic/spells/contagious-flame.md)*, *[contingency](../../magic/spells/contingency.md)*<sup>M</sup>, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[undeath to death](../../magic/spells/undeath-to-death.md)* (DC 28)  
+5th (8/day)—*[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 25), *[dominate person](../../magic/spells/dominate-person.md)*<sup>M</sup> (DC 25), *[mage's private sanctum](../../magic/spells/mages-private-sanctum.md)*, *[teleport](../../magic/spells/teleport.md)*, *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*  
+4th (8/day)—*[animate dead](../../magic/spells/animate-dead.md)*, *[bestow curse](../../magic/spells/bestow-curse.md)* (DC 26), *[charm monster](../../magic/spells/charm-monster.md)* (DC 24), *[enervation](../../magic/spells/enervation.md)*<sup>M</sup>, *[fire shield](../../magic/spells/fire-shield.md)*  
+3rd (8/day)—*[fly](../../magic/spells/fly.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 23), *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*, *[nondetection](../../magic/spells/nondetection.md)*, *[vampiric touch](../../magic/spells/vampiric-touch.md)*<sup>M</sup>  
+2nd (9/day, 8 remaining)—*[command undead](../../magic/spells/command-undead.md)* (DC 23), *[false life](../../magic/spells/false-life.md)* (cast once), *[mirror image](../../magic/spells/mirror-image.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[spider climb](../../magic/spells/spider-climb.md)*<sup>M</sup>  
+1st (9/day)—*[chill touch](../../magic/spells/chill-touch.md)* (DC 23), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 23), *[silent image](../../magic/spells/silent-image.md)* (DC 21), *[vanish](../../magic/spells/vanish.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[arcane mark](../../magic/spells/arcane-mark.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 20), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[tough of fatigue](../../magic/spells/touch-of-fatigue.md)*  
 **Bloodline** undead (sanguine); **M** mythic spell
 
 **Statistics**

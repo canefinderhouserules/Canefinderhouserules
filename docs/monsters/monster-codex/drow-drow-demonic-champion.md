@@ -25,17 +25,17 @@ CE Medium humanoid (elf)
 **Ranged**  heavy crossbow +12 (1d10/19–20)  
 **Special Attacks** channel negative energy (DC 18, 5d6), smite good 4/day (+3 attack and AC, +10 damage)  
 **Spell-Like Abilities** (CL 10th; concentration +3)  
-1/day—*dancing lights*, *darkness*, *faerie fire*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[darkness](../../magic/spells/darkness.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*  
 Antipaladin Spell-Like Abilities (CL 10th; concentration +13)  
-At will—*detect good*  
+At will—*[detect good](../../magic/spells/detect-good.md)*  
 **Antipaladin Spells Prepared** (CL 7th; concentration +10)  
-3rd—*litany of sight*  
-2nd—*invisibility*, *silence* (DC 15)  
-1st—*litany of sloth*, *murderous command* (DC 14), *protection from good*
+3rd—*[litany of sight](../../magic/spells/litany-of-sight.md)*  
+2nd—*[invisibility](../../magic/spells/invisibility.md)*, *[silence](../../magic/spells/silence.md)* (DC 15)  
+1st—*[litany of sloth](../../magic/spells/litany-of-sloth.md)*, *[murderous command](../../magic/spells/murderous-command.md)* (DC 14), *[protection from good](../../magic/spells/protection-from-good.md)*
 
 **Tactics**
 
-**Before Combat** The demonic champion casts *invisibility* and *protection from good* on herself, then uses her *scroll of defile armor* on her full plate. She prefers to use her fiendish boon ability to grant her scimitar the *anarchic*, *flaming*, *unholy*, or *vicious* weapon special ability.  
+**Before Combat** The demonic champion casts *[invisibility](../../magic/spells/invisibility.md)* and *[protection from good](../../magic/spells/protection-from-good.md)* on herself, then uses her *scroll of defile armor* on her full plate. She prefers to use her fiendish boon ability to grant her scimitar the *anarchic*, *flaming*, *unholy*, or *vicious* weapon special ability.  
  **During Combat** The demonic champion uses smite good and Channel Smite with her scimitar attacks to harm foes, or uses her cruelties and touch of corruption to disable opponents. She casts *silence* to interfere with spellcasters employing ranged spells against her.
 
 **Statistics**

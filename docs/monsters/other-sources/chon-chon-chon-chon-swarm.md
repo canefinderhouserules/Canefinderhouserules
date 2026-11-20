@@ -23,7 +23,7 @@ CN Tiny aberration (swarm)
 **Space** 10 ft., **Reach** 0 ft.  
 **Special Attacks** babble, distraction (DC 13)  
 **Spell-Like Abilities** (CL 7th; concentration +8)  
-Constant—*detect magic*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*
 
 **Statistics**
 

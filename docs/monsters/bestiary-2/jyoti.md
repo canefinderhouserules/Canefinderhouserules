@@ -22,9 +22,9 @@ N Medium outsider (extraplanar)
 **Ranged**  ray +16 ranged touch (by spell)  
 **Special Attacks** breath weapon (60-ft. cone, 11d6 fire, Reflex DC 19 half, usable once every 1d4 rounds), positive energy  
 **Spell-Like Abilities** (CL 11th; concentration +13)  
-Constant—*mage armor*  
-3/day—*aid*, *cure serious wounds*, *daylight*, *dimension door*, *lesser restoration*, *searing light*  
-1/day—*breath of life*, *disrupting weapon*
+Constant—*[mage armor](../../magic/spells/mage-armor.md)*  
+3/day—*[aid](../../magic/spells/aid.md)*, *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[daylight](../../magic/spells/daylight.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[searing light](../../magic/spells/searing-light.md)*  
+1/day—*[breath of life](../../magic/spells/breath-of-life.md)*, *[disrupting weapon](../../magic/spells/disrupting-weapon.md)*
 
 **Statistics**
 

@@ -22,14 +22,14 @@ NE Medium vermin (augmented human)
 **Melee** slam +10 (1d4–1 plus grab)  
 **Special Attacks** discorporate, grab (Large), squirming embrace  
 **Conjurer Spells Prepared** (CL 13th; concentration +18)  
-7th—*plane shift* (DC 22), *project image*  
-6th—*acid fog*, *disintegrate* (DC 21), *summon monster VI*  
-5th—*cloudkill* (DC 20), *dismissal* (DC 20), *shadow evocation* (DC 20), *telekinesis* (DC 20), *teleport*  
-4th—*black tentacles*, *confusion* (DC 19), *dimension door* (2), *phantasmal killer* (DC 19), *summon monster IV*  
-3rd—*dispel magic*, *fly*, *protection from energy*, *slow* (DC 18), *stinking cloud* (DC 18), *summon monster III*  
-2nd—*acid arrow*, *detect thoughts* (DC 17), *fog cloud*, *glitterdust* (DC 17), *invisibility*, *summon swarm*  
-1st—*charm person* (DC 16), *feather fall*, *grease* (DC 16), *obscuring mist*, *protection from good*, *reduce person* (DC 16), *shield*  
-0 (at will)—*detect magic*, *mage hand*, *prestidigitation*, *read magic*  
+7th—*[plane shift* ](../../magic/spells/plane-shift.md)(DC 22), *[project image](../../magic/spells/project-image.md)*  
+6th—*[acid fog](../../magic/spells/acid-fog.md)*, *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 21), *[summon monster VI](../../magic/spells/summon-monster-vi.md)*  
+5th—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 20), *[dismissal* ](../../magic/spells/dismissal.md)(DC 20), *[shadow evocation* ](../../magic/spells/shadow-evocation.md)(DC 20), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 20), *[teleport](../../magic/spells/teleport.md)*  
+4th—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[confusion* ](../../magic/spells/confusion.md)(DC 19), *[dimension door* ](../../magic/spells/dimension-door.md)(2), *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 19), *[summon monster IV](../../magic/spells/summon-monster-iv.md)*  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fly](../../magic/spells/fly.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[slow* ](../../magic/spells/slow.md)(DC 18), *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 18), *[summon monster III](../../magic/spells/summon-monster-iii.md)*  
+2nd—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st—*[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[feather fall](../../magic/spells/feather-fall.md)*, *[grease* ](../../magic/spells/grease.md)(DC 16), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*, *[reduce person* ](../../magic/spells/reduce-person.md)(DC 16), *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Opposition Schools** Evocation, Necromancy
 
 **Statistics**

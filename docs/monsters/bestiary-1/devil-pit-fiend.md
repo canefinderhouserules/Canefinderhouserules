@@ -23,10 +23,10 @@ LE Large outsider (devil, evil, extraplanar, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** constrict 2d8+19, devil shaping  
 **Spell-Like Abilities** (CL 18th)  
-At will—*blasphemy* (DC 25), *create undead*, *fireball* (DC 21), *greater dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *greater scrying* (DC 25), *invisibility*, *magic circle against good*, *mass hold monster* (DC 27), *persistent image* (DC 23), *power word stun*, *scorching ray*, *trap the soul* (DC 26), *unholy aura* (DC 26), *wall of fire*  
-3/day—quickened *fireball* (DC 21)  
-1/day—*meteor swarm*, summon (level 9, any 1 CR 19 or lower devil, 100%)  
-1/year—*wish*
+At will—*[blasphemy* ](../../magic/spells/blasphemy.md)(DC 25), *[create undead](../../magic/spells/create-undead.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 21), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[greater scrying* ](../../magic/spells/scrying-greater.md)(DC 25), *[invisibility](../../magic/spells/invisibility.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*, *[mass hold monster* ](../../magic/spells/hold-monster-mass.md)(DC 27), *[persistent image* ](../../magic/spells/persistent-image.md)(DC 23), *[power word stun](../../magic/spells/power-word-stun.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[trap the soul* ](../../magic/spells/trap-the-soul.md)(DC 26), *[unholy aura* ](../../magic/spells/unholy-aura.md)(DC 26), *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3/day—quickened *[fireball* ](../../magic/spells/fireball.md)(DC 21)  
+1/day—*[meteor swarm](../../magic/spells/meteor-swarm.md)*, summon (level 9, any 1 CR 19 or lower devil, 100%)  
+1/year—*[wish](../../magic/spells/wish.md)*
 
 **Statistics**
 

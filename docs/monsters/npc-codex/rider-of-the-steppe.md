@@ -24,11 +24,11 @@ LG Medium humanoid (elf, human)
 **Ranged**  *+2 composite longbow* +22/+17/+12 (1d8+4/×3)  
 **Special Attacks** channel positive energy (DC 18, 7d6), smite evil 5/day (+1 attack and AC, +14 damage)  
 **Spell-Like Abilities** (CL 14th; concentration +15)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 11th; concentration +12)  
-3rd—*heal mount*  
-2nd—*eagle’s splendor*, *resist energy*  
-1st—*create water*, *divine favor* (2), *endure elements*
+3rd—*[heal mount](../../magic/spells/heal-mount.md)*  
+2nd—*[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[create water](../../magic/spells/create-water.md)*, *[divine favor* ](../../magic/spells/divine-favor.md)(2), *[endure elements](../../magic/spells/endure-elements.md)*
 
 **Tactics**
 

@@ -21,9 +21,9 @@ NG Medium outsider (good, native)
 **Melee** *+2 flaming burst scimitar* +27/+22/+17/+12 (1d6+11/18–20 plus 1d6 fire), 2 wings +20 (1d6+3 plus burn)  
 **Special Attacks** burn (2d6, DC 23), whirlwind dance  
 **Spell-Like Abilities** (CL 15th; concentration +23)  
-Constant—*fire shield* (warm shield)  
-At will—*aid*, *flame jump*, *pyrotechnics* (DC 20), *scorching ray*  
-3/day—*fireball* (DC 21), *flame strike* (DC 23), *wall of fire*
+Constant—*[fire shield* ](../../magic/spells/fire-shield.md)(warm shield)  
+At will—*[aid](../../magic/spells/aid.md)*, *flame jump*, *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 20), *[scorching ray](../../magic/spells/scorching-ray.md)*  
+3/day—*[fireball* ](../../magic/spells/fireball.md)(DC 21), *[flame strike* ](../../magic/spells/flame-strike.md)(DC 23), *[wall of fire](../../magic/spells/wall-of-fire.md)*
 
 **Statistics**
 

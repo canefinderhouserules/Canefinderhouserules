@@ -23,8 +23,8 @@ LN Medium humanoid (human)
 **Ranged**  mwk dagger +14 (1d4+2/19–20)  
 **Special Attacks** smite chaos 2/day (+2 attack and AC, +6 damage), weapon training (flail +1)  
 **Spell-Like Abilities** (CL 12th)  
-At will—*detect chaos*  
-5/day—*discern lies*  
+At will—*[detect chaos](../../magic/spells/detect-chaos.md)*  
+5/day—*[discern lies](../../magic/spells/discern-lies.md)*  
 **Domain Spell-Like Abilities** (CL 6th; concentration +7)  
 4/day—touch of law
 

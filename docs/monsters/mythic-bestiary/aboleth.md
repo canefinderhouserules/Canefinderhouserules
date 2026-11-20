@@ -23,8 +23,8 @@ LE Huge aberration (aquatic, mythic)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** mucus mist, mythic power (3/day, surge +1d6)  
 **Spell-Like Abilities** (CL 16th; concentration +20)  
-At will—*hypnotic pattern* (DC 16), *illusory wall* (DC 18), *mirage arcana* (DC 19), *persistent image* (DC 19), *programmed image* (DC 20), *project image* (DC 21), *veil* (DC 20)  
-3/day—*dominate monster* (DC 23)
+At will—*[hypnotic pattern](../../magic/spells/hypnotic-pattern.md)* (DC 16), *[illusory wall* ](../../magic/spells/illusory-wall.md)(DC 18), *[mirage arcana* ](../../magic/spells/mirage-arcana.md)(DC 19), *[persistent image* ](../../magic/spells/persistent-image.md)(DC 19), *[programmed image* ](../../magic/spells/programmed-image.md)(DC 20), *[project image* ](../../magic/spells/project-image.md)(DC 21), *[veil* ](../../magic/spells/veil.md)(DC 20)  
+3/day—*[dominate monster* ](../../magic/spells/dominate-monster.md)(DC 23)
 
 **Statistics**
 

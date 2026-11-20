@@ -22,13 +22,13 @@ NE Medium humanoid (human)
 **Melee** mwk light flail +10/+5 (1d8+3) or spear +9/+4 (1d8+4/×3)  
 **Special Attacks** judgment 2/day, rage (14 rounds/day), rage power (animal fury)  
 **Spell-Like Abilities** (CL 7th; concentration +7)  
-1/day—*decompose corpse*  
+1/day—*[decompose corpse](../../magic/spells/decompose-corpse.md)*  
 **Inquisitor Spell-Like Abilities** (CL 4th; concentration +7)  
 At will—*detect alignment*  
 **Inquisitor Spells Known** (CL 4th; concentration +7)  
-2nd (2/day)—*hold person* (DC 15), *weapon of awe* (DC 15)  
-1st (4/day)—*command* (DC 14), *cure light wounds*, *shield of faith*, *wrath*  
-0 (at will)—*bleed* (DC 13), *create water*, *daze* (DC 13), *guidance*, *light*, *stabilize*  
+2nd (2/day)—*[hold person](../../magic/spells/hold-person.md)* (DC 15), *[weapon of awe](../../magic/spells/weapon-of-awe.md)* (DC 15)  
+1st (4/day)—*[command](../../magic/spells/command.md)* (DC 14), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*, *[wrath](../../magic/spells/wrath.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[create water](../../magic/spells/create-water.md)*, *[daze](../../magic/spells/daze.md)* (DC 13), *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **Inquisition** Anger
 
 **Statistics**

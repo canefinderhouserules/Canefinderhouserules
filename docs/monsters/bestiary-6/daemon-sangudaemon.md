@@ -24,9 +24,9 @@ disease, poison; **Resist** cold 10, electricity 10, fire 10; **SR** 20
 (1d6+7/19–20)  
 **Special Attacks** bleed (2d4+2), blood drain (1d2 Con), drain soul  
 **Spell-Like Abilities** (CL 12th; concentration +14)  
-At will—*greater teleport* (self plus 50 lbs. of objects only)  
-3/day—quickened *death knell* (DC 14), *invisibility, summon swarm*  
-1/day—*hold monster* (DC 17), *summon* (level 6, 1 sangudaemon 40%)
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
+3/day—quickened *[death knell](../../magic/spells/death-knell.md)* (DC 14), *invisibility, summon swarm*  
+1/day—*[hold monster](../../magic/spells/hold-monster.md)* (DC 17), *summon* (level 6, 1 sangudaemon 40%)
 
 **Statistics**
 

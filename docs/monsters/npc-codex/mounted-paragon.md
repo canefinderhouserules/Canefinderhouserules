@@ -24,16 +24,16 @@ LG Medium humanoid (human)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with lance)  
 **Special Attacks** channel positive energy (DC 20, 8d6), smite evil 6/day (+2 attack and AC, +16 damage)  
 **Spell-Like Abilities** (CL 16th; concentration +18)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 13th; concentration +15)  
-4th—*holy sword*  
-3rd—*heal mount*, *prayer*  
-2nd—*delay poison*, *eagle’s splendor*, *remove paralysis*, *resist energy*  
-1st—*bless* (2), *divine favor* (2)
+4th—*[holy sword](../../magic/spells/holy-sword.md)*  
+3rd—*[heal mount](../../magic/spells/heal-mount.md)*, *[prayer](../../magic/spells/prayer.md)*  
+2nd—*[delay poison](../../magic/spells/delay-poison.md)*, *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[remove paralysis](../../magic/spells/remove-paralysis.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[bless* ](../../magic/spells/bless.md)(2), *[divine favor* ](../../magic/spells/divine-favor.md)(2)
 
 **Tactics**
 
-**Before Combat** The paladin casts *delay poison* and *resist energy* (fire).  
+**Before Combat** The paladin casts *[delay poison* ](../../magic/spells/delay-poison.md)and *[resist energy* ](../../magic/spells/resist-energy.md)(fire).  
 **During Combat** The paladin fights from horseback with his lance, positioning himself where he can attack the enemy leader using Spirited Charge. He uses Improved Overrun and Trample to pass and crush creatures in his way. If he is unhorsed and mounting again is dangerous or impractical, he casts holy sword on his mace and fights on foot.  
 **Base Statistics** Without *delay poison* and *resist energy*, the paladin’s statistics are **Immune** charm, disease, fear; **Resist** none.
 

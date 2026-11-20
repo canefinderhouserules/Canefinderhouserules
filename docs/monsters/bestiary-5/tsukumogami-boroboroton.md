@@ -22,7 +22,7 @@ petrification, polymorph; **Resist** acid 10, electricity 10, fire 10
 **Melee** 2 slams +8 (1d8+4 plus grab)  
 **Special Attacks** constrict (1d8+4)  
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
-At will—*decrepit disguise* (self only), *ghost sound,
+At will—*[decrepit disguise](../../magic/spells/decrepit-disguise.md)* (self only), *ghost sound,
 invisibility* (self only), *levitate, mending, quintessence*
 (self only), *silent image, ventriloquism*
 

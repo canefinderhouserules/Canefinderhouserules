@@ -23,7 +23,7 @@ CE Medium humanoid (elf, troop)
 **Space** 20 ft., **Reach** 5 ft.  
 **Special Attacks** channel negative energy (DC 14, 3d6)  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
-3/day—quickened *blindness/deafness* (DC 14), quickened *dancing lights*, quickened *darkness*, quickened *dispel magic*, quickened *faerie fire*, quickened *hold person* (DC 14)  
+3/day—quickened *[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 14), quickened *[dancing lights](../../magic/spells/dancing-lights.md)*, quickened *[darkness](../../magic/spells/darkness.md)*, quickened *[dispel magic](../../magic/spells/dispel-magic.md)*, quickened *[faerie fire](../../magic/spells/faerie-fire.md)*, quickened *[hold person](../../magic/spells/hold-person.md)* (DC 14)  
 1/day—*resist energy, shield of faith*
 
 **Statistics**

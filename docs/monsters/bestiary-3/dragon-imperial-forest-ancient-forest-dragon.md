@@ -23,16 +23,16 @@ CE Gargantuan dragon (earth)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite and gore)  
 **Special Attacks** breath weapon (60-ft. cone, 20d6 piercing damage, DC 32) crush (DC 32, 2d8+19), destructive crush, tail sweep (2d6+19, DC 35)  
 **Spell-Like Abilities** (CL 25th; concentration +30)  
-At will—*animate plants*, *entangle* (DC 16), *blight* (DC 20), *pass without trace*, *tree stride*  
+At will—*[animate plants](../../magic/spells/animate-plants.md)*, *[entangle* ](../../magic/spells/entangle.md)(DC 16), *[blight* ](../../magic/spells/blight.md)(DC 20), *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[tree stride](../../magic/spells/tree-stride.md)*  
 **Spells Known** (CL 15th; concentration +20)  
-7th (4/day)—*power word blind*, *waves of exhaustion* (DC 22)  
-6th (6/day)—*acid fog*, *disintegrate* (DC 21), *move earth*  
-5th (7/day)—*baleful polymorph* (DC 20), *cloudkill* (DC 20), *feeblemind* (DC 20), *passwall*  
-4th (7/day)—*bestow curse* (DC 19), *charm monster* (DC 19), *solid fog*, *stone shape*  
-3rd (7/day)—*lightning bolt* (DC 18), *wind wall*, *slow* (DC 18), *stinking cloud* (DC 18)  
-2nd (7/day)—*fog cloud*, *glitterdust* (DC 17), *hideous laughter* (DC 17), *invisibility*, *touch of idiocy*  
-1st (8/day)—*hypnotism* (DC 16), *obscuring mist*, *magic missile*, *ray of enfeeblement* (DC 16), *shield*  
-0 (at-will)—*dancing lights*, *daze* (DC 15), *detect magic*, *ghost sound*, *mage hand*, *mending*, *read magic*, *resistance*, *touch of fatigue*
+7th (4/day)—*[power word blind](../../magic/spells/power-word-blind.md)*, *[waves of exhaustion* ](../../magic/spells/waves-of-exhaustion.md)(DC 22)  
+6th (6/day)—*[acid fog](../../magic/spells/acid-fog.md)*, *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 21), *[move earth](../../magic/spells/move-earth.md)*  
+5th (7/day)—*[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 20), *[cloudkill* ](../../magic/spells/cloudkill.md)(DC 20), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 20), *[passwall](../../magic/spells/passwall.md)*  
+4th (7/day)—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 19), *[charm monster* ](../../magic/spells/charm-monster.md)(DC 19), *[solid fog](../../magic/spells/solid-fog.md)*, *[stone shape](../../magic/spells/stone-shape.md)*  
+3rd (7/day)—*[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 18), *[wind wall](../../magic/spells/wind-wall.md)*, *[slow* ](../../magic/spells/slow.md)(DC 18), *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 18)  
+2nd (7/day)—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[glitterdust](../../magic/spells/glitterdust.md)* (DC 17), *[hideous laughter](../../magic/spells/hideous-laughter.md)* (DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1st (8/day)—*[hypnotism* ](../../magic/spells/hypnotism.md)(DC 16), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 16), *[shield](../../magic/spells/shield.md)*  
+0 (at-will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)*
 
 **Statistics**
 

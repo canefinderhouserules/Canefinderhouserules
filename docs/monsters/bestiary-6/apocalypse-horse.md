@@ -30,8 +30,8 @@ electricity 30, fire 30; **SR** 36
 trample (4d10+15 plus energy drain, DC 32)  
 **Spell-Like Abilities** (CL 25th; concentration +32)  
 Constant—*air walk, unholy aura* (DC 25)  
-At will—*greater teleport* (self plus rider only)  
-3/day—*plane shift* (self plus rider only)
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus rider only)  
+3/day—*[plane shift](../../magic/spells/plane-shift.md)* (self plus rider only)
 
 **Statistics**
 

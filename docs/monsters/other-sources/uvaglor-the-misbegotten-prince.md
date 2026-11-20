@@ -23,18 +23,18 @@ CE Large outsider (chaotic, demon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** command avian, dance of ruin, spores, stunning screech  
 **Spell-Like Abilities** (CL 12th; concentration +19)  
-At will—*greater teleport* (self plus 50 lbs. of objects only), *telekinesis* (DC 22)  
-3/day—*dominate monster* (creatures with wings only)  
-1/day—*heroism*, *mirror image*, summon (level 3, 1 vrock 35%)  
+At will—*[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 22)  
+3/day—*[dominate monster* ](../../magic/spells/dominate-monster.md)(creatures with wings only)  
+1/day—*[heroism](../../magic/spells/heroism.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, summon (level 3, 1 vrock 35%)  
 **Oracle Spells Known** (CL 15th; concentration +22)  
-7th (5/day)—*destruction* (DC 24), *insanity* (DC 24), *mass cure serious wounds*, *refuge*, *reverse gravity*  
-6th (7/day)—*blade barrier* (DC 23), *geas/quest*, *heal*, *mass cure moderate wounds*, *planar binding* (DC 23)  
-5th (7/day)—*breath of life*, *greater command* (DC 22), *insect plague*, *lesser planar binding* (DC 22), *mass cure light wounds*, *telekinesis*, *unhallow*  
-4th (7/day)—*confusion* (DC 21), *cure critical wounds*, *dimensional anchor*, *freedom of movement*, *poison* (DC 21), *sending*  
-3rd (8/day)—*blindness/deafness* (DC 20), *cure serious wounds*, *dispel magic*, *searing light*, *vermin shape I*, *water breathing*  
-2nd (8/day)—*bull’s strength*, *cure moderate wounds*, *death knell* (DC 19), *hold person* (DC 19), *levitate*, *minor image* (DC 19), *resist energy*, *sound burst* (DC 19), *status*  
-1st (8/day)—*command* (DC 18), *cure light wounds*, *divine favor*, *endure elements*, *entropic shield*, *sanctuary* (DC 18), *shield of faith*  
-0 (at will)—*bleed* (DC 17), *create water*, *detect magic*, *ghost sound*, *guidance*, *light*, *mage hand*, *mending*, *read magic*, *resistance*, *stabilize*  
+7th (5/day)—*[destruction* ](../../magic/spells/destruction.md)(DC 24), *[insanity* ](../../magic/spells/insanity.md)(DC 24), *[mass cure serious wounds](../../magic/spells/cure-serious-wounds-mass.md)*, *[refuge](../../magic/spells/refuge.md)*, *[reverse gravity](../../magic/spells/reverse-gravity.md)*  
+6th (7/day)—*[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 23), *[geas/quest](../../magic/spells/geas-quest.md)*, *[heal](../../magic/spells/heal.md)*, *[mass cure moderate wounds](../../magic/spells/cure-moderate-wounds-mass.md)*, *[planar binding* ](../../magic/spells/planar-binding.md)(DC 23)  
+5th (7/day)—*[breath of life](../../magic/spells/breath-of-life.md)*, *[greater command* ](../../magic/spells/command-greater.md)(DC 22), *[insect plague](../../magic/spells/insect-plague.md)*, *[lesser planar binding* ](../../magic/spells/planar-binding-lesser.md)(DC 22), *[mass cure light wounds](../../magic/spells/cure-light-wounds-mass.md)*, *[telekinesis](../../magic/spells/telekinesis.md)*, *[unhallow](../../magic/spells/unhallow.md)*  
+4th (7/day)—*[confusion* ](../../magic/spells/confusion.md)(DC 21), *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[poison* ](../../magic/spells/poison.md)(DC 21), *[sending](../../magic/spells/sending.md)*  
+3rd (8/day)—*[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 20), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[searing light](../../magic/spells/searing-light.md)*, *[vermin shape I](../../magic/spells/vermin-shape-i.md)*, *[water breathing](../../magic/spells/water-breathing.md)*  
+2nd (8/day)—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[death knell* ](../../magic/spells/death-knell.md)(DC 19), *[hold person* ](../../magic/spells/hold-person.md)(DC 19), *[levitate](../../magic/spells/levitate.md)*, *[minor image* ](../../magic/spells/minor-image.md)(DC 19), *[resist energy](../../magic/spells/resist-energy.md)*, *[sound burst* ](../../magic/spells/sound-burst.md)(DC 19), *[status](../../magic/spells/status.md)*  
+1st (8/day)—*[command* ](../../magic/spells/command.md)(DC 18), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[entropic shield](../../magic/spells/entropic-shield.md)*, *[sanctuary* ](../../magic/spells/sanctuary.md)(DC 18), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 17), *[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **Mystery** outer rifts
 
 **Statistics**

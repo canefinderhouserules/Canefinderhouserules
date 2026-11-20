@@ -23,7 +23,7 @@ CE Large monstrous humanoid (cold)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** rend (2 claws, 1d6+12)  
 **Spell-Like Abilities** (CL 7th; concentration +7)  
-3/day—*alter self*, *fog cloud*
+3/day—*[alter self](../../magic/spells/alter-self.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*
 
 **Statistics**
 

@@ -23,7 +23,7 @@ N Medium outsider (native)
 **Ranged**  dagger +3 (1d4–1/19–20)  
 **Special Attacks** sneak attack +1d6  
 **Spell-Like Abilities** (CL 1st; concentration +1)  
-1/day—*feather fall*
+1/day—*[feather fall](../../magic/spells/feather-fall.md)*
 
 **Statistics**
 

@@ -21,10 +21,10 @@ CE Medium aberration (extraplanar)
 **Melee** bite +18 (2d6+9/19–20), 2 claws +18 (1d6+9)  
 **Special Attacks** haunting howl, mutilate  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-Constant—*sense fear*  
+Constant—*[sense fear](../../magic/spells/sense-fear.md)*  
 At will—*locate creature, locate object*  
-3/day—*dimension door*, quickened *summon swarm* (bats only)  
-1/day—*word of recall* (see grave link)
+3/day—*[dimension door](../../magic/spells/dimension-door.md)*, quickened *[summon swarm](../../magic/spells/summon-swarm.md)* (bats only)  
+1/day—*[word of recall](../../magic/spells/word-of-recall.md)* (see grave link)
 
 **Statistics**
 

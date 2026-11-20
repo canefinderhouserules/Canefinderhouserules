@@ -24,7 +24,7 @@ LG Medium humanoid (dwarf)
 **Ranged**  mwk light crossbow +13 (1d8/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, channel positive energy (DC 16, 6d6), smite evil 4/day (+0 attack and AC, +12 damage)  
 **Spell-Like Abilities** (CL 12th; concentration +12)  
-At will—*detect evil*
+At will—*[detect evil](../../magic/spells/detect-evil.md)*
 
 **Tactics**
 

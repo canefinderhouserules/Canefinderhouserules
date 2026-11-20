@@ -23,9 +23,9 @@ NE Medium undead (extraplanar)
 **Special Attacks** death strike (DC 34), energy drain (2 levels, DC 34), final death  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
 Constant—*haste, see invisibility, true seeing*  
- At will—*call spirit* (DC 23)  
- 3/day—*finger of death* (DC 26), *power word kill*  
- 1/day—*plane shift* (DC 23)
+ At will—*[call spirit](../../magic/spells/call-spirit.md)* (DC 23)  
+ 3/day—*[finger of death](../../magic/spells/finger-of-death.md)* (DC 26), *[power word kill](../../magic/spells/power-word-kill.md)*  
+ 1/day—*[plane shift](../../magic/spells/plane-shift.md)* (DC 23)
 
 **Statistics**
 

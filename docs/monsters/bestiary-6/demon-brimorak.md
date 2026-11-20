@@ -27,8 +27,8 @@ hoof +5 (1d3+1 plus 1d6 fire)
 of boiling blood, 5d6 fire damage, Ref DC 17 half, once every
 1d4 rounds)  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-3/day—*dispel magic, heat metal* (DC 14), *produce flame*  
-1/day—*air walk, fireball* (DC 15), *greater teleport* (self plus 50 lbs. of objects only), *summon* (level 3, 1 brimorak 50%)
+3/day—*dispel magic, heat metal* (DC 14), *[produce flame](../../magic/spells/produce-flame.md)*  
+1/day—*air walk, fireball* (DC 15), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *summon* (level 3, 1 brimorak 50%)
 
 **Statistics**
 

@@ -24,11 +24,11 @@ CE Small humanoid (gnome)
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, long limbs (+5 ft.)  
 **Spell-Like Abilities** (CL 4th; concentration +8)  
 7/day—acidic ray (1d6+2 acid)  
-1/day—*dancing lights*, *ghost sound* (DC 15), *prestidigitation*, *speak with animals*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 15), *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Sorcerer Spells Known** (CL 4th; concentration +8)  
-2nd (4/day)—*alter self*  
-1st (7/day)—*enlarge person* (DC 16), *reduce person* (DC 16), *shield*, *shocking grasp*  
-0 (at will)—*acid splash*, *bleed* (DC 14), *detect magic*, *mage hand*, *read magic*, *touch of fatigue* (DC 14)  
+2nd (4/day)—*[alter self](../../magic/spells/alter-self.md)*  
+1st (7/day)—*[enlarge person* ](../../magic/spells/enlarge-person.md)(DC 16), *[reduce person* ](../../magic/spells/reduce-person.md)(DC 16), *[shield](../../magic/spells/shield.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 14)  
 **Bloodline** aberrant
 
 **Tactics**

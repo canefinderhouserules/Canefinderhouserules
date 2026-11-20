@@ -23,7 +23,7 @@ CE Large humanoid (giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** rock throwing (120 ft.)  
 **Spell-Like Abilities** (CL 12th; concentration +13)  
-3/day—*augury*, *bestow curse* (DC 15), *fog cloud*
+3/day—*[augury](../../magic/spells/augury.md)*, *[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 15), *[fog cloud](../../magic/spells/fog-cloud.md)*
 
 **Statistics**
 

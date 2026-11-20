@@ -22,9 +22,9 @@ LN Tiny construct (automaton, extraplanar)
 **Melee** bite +5 (1d3-1 plus disease), 2 claws +5 (1d2-1)  
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-At will—*detect magic*, *invisibility* (self only)  
-3/day—*magic missile*  
-1/week—*plane shift* (self plus 5 lbs. of objects only)
+At will—*[detect magic](../../magic/spells/detect-magic.md)*, *[invisibility](../../magic/spells/invisibility.md)* (self only)  
+3/day—*[magic missile](../../magic/spells/magic-missile.md)*  
+1/week—*[plane shift](../../magic/spells/plane-shift.md)* (self plus 5 lbs. of objects only)
 
 **Statistics**
 

@@ -21,9 +21,9 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Melee** 2 claws +11 (1d6+1)  
 **Special Attacks** energy drain, profane gift  
 **Spell-Like Abilities** (CL 12th)  
-Constant—*detect good*, *tongues*  
-At will—*charm monster* (DC 22), *detect thoughts* (DC 20), *ethereal jaunt* (self plus 50 lbs. of objects only), *suggestion* (DC 21), *greater teleport* (self plus 50 lbs. of objects only), *vampiric touch*  
-1/day—*dominate person* (DC 23), summon (level 3, 1 babau 50%)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 22), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 20), *[ethereal jaunt* ](../../magic/spells/ethereal-jaunt.md)(self plus 50 lbs. of objects only), *[suggestion* ](../../magic/spells/suggestion.md)(DC 21), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+1/day—*[dominate person* ](../../magic/spells/dominate-person.md)(DC 23), summon (level 3, 1 babau 50%)
 
 **Statistics**
 

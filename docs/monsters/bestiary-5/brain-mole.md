@@ -22,7 +22,7 @@ N Tiny magical beast
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** brain drain  
 **Psychic Magic** (CL 2nd; concentration +2)  
-12 PE—*expeditious retreat* (1 PE), *mind thrust* I (1 PE, DC 11), *silent image* (1 PE, DC 11)
+12 PE—*[expeditious retreat](../../magic/spells/expeditious-retreat.md)* (1 PE), *mind thrust* I (1 PE, DC 11), *[silent image](../../magic/spells/silent-image.md)* (1 PE, DC 11)
 
 **Statistics**
 

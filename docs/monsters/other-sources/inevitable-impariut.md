@@ -21,9 +21,9 @@ LN Medium outsider (extraplanar, inevitable, lawful)
 **Melee** *+1 mithral longsword* +18/+13/+8 (1d8+6/19–20), slam +12 (1d8+2) or 2 slams +17 (1d8+5)  
 **Special Attacks** dethrone, kingslayer  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-At will—*arcane mark*, *discern lies* (DC 19), *dispel magic*  
-3/day—*dimension door*, *hold monster* (DC 20), *invisibility*, *magic missile*, *mark of justice*  
-1/day—*plane shift* (willing targets only), *true seeing*
+At will—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[discern lies](../../magic/spells/discern-lies.md)* (DC 19), *[dispel magic](../../magic/spells/dispel-magic.md)*  
+3/day—*[dimension door](../../magic/spells/dimension-door.md)*, *[hold monster](../../magic/spells/hold-monster.md)* (DC 20), *[invisibility](../../magic/spells/invisibility.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[mark of justice](../../magic/spells/mark-of-justice.md)*  
+1/day—*[plane shift](../../magic/spells/plane-shift.md)* (willing targets only), *[true seeing](../../magic/spells/true-seeing.md)*
 
 **Statistics**
 

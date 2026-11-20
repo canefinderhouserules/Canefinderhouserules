@@ -22,14 +22,14 @@ LE Medium humanoid (human)
 **Melee** mwk club +6/+1 (1d6–1)  
 **Special Attacks** bardic performance 24 rounds/day (move action; countersong, dirge of doom, distraction, fascinate, inspire competence +3, inspire courage +2, inspire greatness, *suggestion*)  
 **Bard Spells Known** (CL 9th; concentration +13)  
-3rd (4/day)—*clairaudience/clairvoyance*, *dispel magic*, *illusory script* (DC 19), *secret page*  
-2nd (5/day)—*eagle’s splendor*, *enthrall* (DC 18), *misdirection*, *tongues*  
-1st (6/day)—*cure light wounds* (DC 17), *disguise self*, *erase*, *hypnotism* (DC 17), *undetectable alignment*  
-0 (at will)—*daze* (DC 16), *detect magic*, *light*, *mage hand*, *message*, *read magic*
+3rd (4/day)—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[illusory script* ](../../magic/spells/illusory-script.md)(DC 19), *[secret page](../../magic/spells/secret-page.md)*  
+2nd (5/day)—*[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[enthrall* ](../../magic/spells/enthrall.md)(DC 18), *[misdirection](../../magic/spells/misdirection.md)*, *[tongues](../../magic/spells/tongues.md)*  
+1st (6/day)—*[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(DC 17), *[disguise self](../../magic/spells/disguise-self.md)*, *[erase](../../magic/spells/erase.md)*, *[hypnotism* ](../../magic/spells/hypnotism.md)(DC 17), *[undetectable alignment](../../magic/spells/undetectable-alignment.md)*  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Tactics**
 
-**Before Combat** The bard casts *eagle’s splendor*. He typically has *misdirection* in place during the day.  
+**Before Combat** The bard casts *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*. He typically has *[misdirection* ](../../magic/spells/misdirection.md)in place during the day.  
 **During Combat** Weak in melee, the bard uses wands and scrolls from a distance.  
 **Base Statistics** Without *eagle’s splendor*, the bard’s statistics are **Bard Spells Known** reduce spell DCs by 2; **Cha** 14; **Skills** Bluff +12, Intimidate +8, Perform (keyboard) +12, Perform (oratory) +19, Use Magic Device +16.
 

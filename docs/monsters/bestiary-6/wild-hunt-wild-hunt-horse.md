@@ -27,8 +27,8 @@ cooperation, wild grace; **DR** 10/cold iron; **Immune** cold; **Resist** electr
 wild gaze (DC 22)  
 **Spell-Like Abilities** (CL 13th; concentration +16)  
 Constant—*air walk, freedom of movement, know direction, speak with animals, speak with plants*  
-At will—*transport via plants* (self and rider only)  
-3/day—*stone tell*
+At will—*[transport via plants](../../magic/spells/transport-via-plants.md)* (self and rider only)  
+3/day—*[stone tell](../../magic/spells/stone-tell.md)*
 
 **Statistics**
 

@@ -22,10 +22,10 @@ LN Large dragon (fire)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (80-ft. line, 6d10 fire, DC 18), channel life (6/day), primal fire  
 **Spell-Like Abilities** (CL 1st; concentration +4)  
-At will—*detect magic*  
+At will—*[detect magic](../../magic/spells/detect-magic.md)*  
 **Sorcerer Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*color spray* (DC 14), *mage armor*  
-0 (at will)—*bleed* (DC 13), *detect poison*, *flare* (DC 13), *read magic*
+1st (4/day)—*[color spray* ](../../magic/spells/color-spray.md)(DC 14), *[mage armor](../../magic/spells/mage-armor.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[detect poison](../../magic/spells/detect-poison.md)*, *[flare* ](../../magic/spells/flare.md)(DC 13), *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

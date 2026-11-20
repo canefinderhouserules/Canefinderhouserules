@@ -22,9 +22,9 @@ N Medium outsider (extraplanar, psychopomp)
 **Ranged** +14 (1d8/×4)  
 **Special Attacks** bardic performance, show stopper  
 **Spell-Like Abilities** (CL 11th; concentration +15)  
-At will—*deathwatch*, *greater teleport* (self plus 50 lbs. of objects only), *invisibility* (self only)  
-3/day—*good hope*, *heroes’ feast*  
-1/day—*irresistible dance* (DC 20), *modify memory* (DC 18)
+At will—*[deathwatch](../../magic/spells/deathwatch.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[invisibility](../../magic/spells/invisibility.md)* (self only)  
+3/day—*[good hope](../../magic/spells/good-hope.md)*, *[heroes’ feast](../../magic/spells/heroes-feast.md)*  
+1/day—*[irresistible dance](../../magic/spells/irresistible-dance.md)* (DC 20), *[modify memory](../../magic/spells/modify-memory.md)* (DC 18)
 
 **Statistics**
 

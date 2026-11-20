@@ -22,10 +22,10 @@ LN Large outsider (extraplanar, inevitable, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** disperse the rabble, drastic measures, smite chaos 3/day (+8 damage), trample (2d6+12, DC 28)  
 **Spell-Like Abilities** (CL 20th; concentration +28)  
-Constant—*detect chaos*, *shield of law* (DC 26), *true seeing*  
-At will—*enthrall* (DC 20), *mark of justice*, *order’s wrath* (DC 22)  
-3/day—*dimension door*, *dispel chaos*, *fly*, *greater command* (DC 23), *greater dispel magic*, *plane shift* (DC 23)  
-1/day—*dictum* (DC 25)
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[shield of law](../../magic/spells/shield-of-law.md)* (DC 26), *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[enthrall](../../magic/spells/enthrall.md)* (DC 20), *[mark of justice](../../magic/spells/mark-of-justice.md)*, *[order’s wrath](../../magic/spells/orders-wrath.md)* (DC 22)  
+3/day—*[dimension door](../../magic/spells/dimension-door.md)*, *[dispel chaos](../../magic/spells/dispel-chaos.md)*, *[fly](../../magic/spells/fly.md)*, *[greater command](../../magic/spells/command-greater.md)* (DC 23), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (DC 23)  
+1/day—*[dictum](../../magic/spells/dictum.md)* (DC 25)
 
 **Statistics**
 

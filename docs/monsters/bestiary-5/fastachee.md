@@ -21,17 +21,17 @@ NG Tiny fey
 **Melee** 2 vines +18 (1d8–2)  
 **Space** 2-1/2 ft., **Reach** 0 ft. (30 ft. with vines)  
 **Spell-Like Abilities** (CL 11th; concentration +15)  
-At will—*plant growth*, *speak with plants*, *thorny entanglement* (DC 16), *transport via plants*  
+At will—*[plant growth](../../magic/spells/plant-growth.md)*, *[speak with plants](../../magic/spells/speak-with-plants.md)*, *[thorny entanglement](../../magic/spells/thorny-entanglement.md)* (DC 16), *[transport via plants](../../magic/spells/transport-via-plants.md)*  
  **Domain Spell-Like Abilities** (CL 11th; concentration +17)  
  9/day—rebuke death (1d4+5)  
 **Druid Spells Prepared** (CL 11th; concentration +17)  
-6th—*greater dispel magic*, *heal*<sup>D</sup>, *mass bear’s endurance*  
-5th—*baleful polymorph* (DC 21), *breath of life*<sup>D</sup>, *commune with nature*, *wall of thorns*  
-4th—*command plants* (DC 20), *cure critical wounds*<sup>D</sup>, *flame strike* (DC 20), *freedom of movement*, *spike stones* (DC 20)  
-3rd—*aqueous orb* (DC 20), *call lightning* (DC 19), *cure serious wounds*<sup>D</sup>, *protection from energy*, *remove disease*, *spike growth* (DC 19)  
-2nd—*barkskin*, *cat’s grace*, *cure moderate wounds*<sup>D</sup>, *flaming sphere* (DC 18), *lesser restoration*, *soften earth and stone*, *tree shape*  
-1st—*ant haul*, *cure light wounds*<sup>D</sup>, *endure elements*, *faerie fire*, *goodberry*, *longstrider*, *obscuring mist*  
-0—*create water*, *detect magic*, *purify food and drink*, *stabilize*  
+6th—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[heal](../../magic/spells/heal.md)*<sup>D</sup>, *[mass bear’s endurance](../../magic/spells/bears-endurance-mass.md)*  
+5th—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 21), *[breath of life](../../magic/spells/breath-of-life.md)*<sup>D</sup>, *[commune with nature](../../magic/spells/commune-with-nature.md)*, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+4th—*[command plants](../../magic/spells/command-plants.md)* (DC 20), *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*<sup>D</sup>, *[flame strike](../../magic/spells/flame-strike.md)* (DC 20), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[spike stones](../../magic/spells/spike-stones.md)* (DC 20)  
+3rd—*[aqueous orb](../../magic/spells/aqueous-orb.md)* (DC 20), *[call lightning](../../magic/spells/call-lightning.md)* (DC 19), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*<sup>D</sup>, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[remove disease](../../magic/spells/remove-disease.md)*, *[spike growth](../../magic/spells/spike-growth.md)* (DC 19)  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*<sup>D</sup>, *[flaming sphere](../../magic/spells/flaming-sphere.md)* (DC 18), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*, *[tree shape](../../magic/spells/tree-shape.md)*  
+1st—*[ant haul](../../magic/spells/ant-haul.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*<sup>D</sup>, *[endure elements](../../magic/spells/endure-elements.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*, *[goodberry](../../magic/spells/goodberry.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** domain spell; **Domain** Healing
 
 **Statistics**

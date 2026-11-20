@@ -24,9 +24,9 @@ and lifeleech)
 **Space** 5 ft., **Reach** 10 ft.  
 **Special Attacks** create spawn, lifeleech, swift slam  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-At will—*ghost sound* (DC 15), *telekinesis* (DC 20)  
-3/day—quickened *death knell* (DC 17), *phantasmal killer* (DC 19), *wall of ectoplasm* (DC 20)  
-1/day—*harm* (DC 21)
+At will—*[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 20)  
+3/day—quickened *[death knell](../../magic/spells/death-knell.md)* (DC 17), *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 19), *[wall of ectoplasm](../../magic/spells/wall-of-ectoplasm.md)* (DC 20)  
+1/day—*[harm](../../magic/spells/harm.md)* (DC 21)
 
 **Statistics**
 

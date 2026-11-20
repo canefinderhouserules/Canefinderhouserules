@@ -22,10 +22,10 @@ NE Large outsider (daemon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** breath weapon (30-ft. cone; 6d6 fire damage; Reflex DC 17 for half; usable once every 1d4 rounds)  
 **Spell-Like Abilities** (CL 8th; concentration +10)  
-Constant—*detect good*, *detect magic*, *see invisibility*  
-At will—*dimension door*  
-3/day—*dispel magic*, *fly*  
-1/day—*hold monster* (DC 17), *slow* (DC 15)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[dimension door](../../magic/spells/dimension-door.md)*  
+3/day—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fly](../../magic/spells/fly.md)*  
+1/day—*[hold monster](../../magic/spells/hold-monster.md)* (DC 17), *[slow* ](../../magic/spells/slow.md)(DC 15)
 
 **Statistics**
 

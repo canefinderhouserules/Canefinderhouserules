@@ -21,7 +21,7 @@ CE Small humanoid (gnome)
 **Ranged**  light crossbow +8 (1d6/19–20)  
 **Special Attacks** sneak attack +2d6  
 **Spell-Like Abilities** (CL 4th; concentration +4)  
-At will—*flare* (DC 10), *scare* (DC 12), *shatter* (DC 12)
+At will—*[flare* ](../../magic/spells/flare.md)(DC 10), *[scare* ](../../magic/spells/scare.md)(DC 12), *[shatter* ](../../magic/spells/shatter.md)(DC 12)
 
 **Statistics**
 

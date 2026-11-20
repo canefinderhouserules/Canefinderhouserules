@@ -21,7 +21,7 @@ CN Small humanoid (dark folk)
 **Melee** dagger +6 (1d3/19–20 plus poison)  
 **Special Attacks** death throes, sneak attack (+1d6)  
 **Spell-Like Abilities** (CL 3rd)  
-At will—*darkness*, *detect magic*
+At will—*[darkness](../../magic/spells/darkness.md)*, *[detect magic](../../magic/spells/detect-magic.md)*
 
 **Statistics**
 

@@ -28,16 +28,16 @@ invader, swallow whole (8d6 bludgeoning and 8d6 acid
 damage, AC 24, 40 hp)  
 **Spell-Like Abilities** (CL 19th; concentration +28)  
 Constant—*air walk, true seeing*  
-At will—*detect thoughts* (DC 21)  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 21)  
 **Psychic Spells Known** (CL 19th; concentration +29)  
-9th (5)—*dominate monster* (DC 29), *implosion* (DC 29), *time stop*  
-8th (7)—*demand* (DC 28), *mass charm monster* (DC 28), *psychic crush IV* (DC 27)  
-7th (8)—*ego whip V* (DC 26), *insanity* (DC 27), *project image* (DC 27)  
-6th (8)—*mass inflict pain* (DC 25), *mind thrust VI* (DC 25), *veil* (DC 26)  
-5th (8)—*greater command* (DC 25), *greater synaptic pulse* (DC 24), *mind fog* (DC 25), *possession* (DC 24)  
-4th (8)—*dream, hallucinatory terrain* (DC 24), *mind probe* (DC 23), *scrying* (DC 24)  
-3rd (9)—*clairaudience/clairvoyance, dispel magic, illusory script* (DC 23), *telekinetic maneuver*  
-2nd (9)—*enthrall* (DC 22), *share memory* (DC 22), *status, suggestion* (DC 22), *undetectable alignment*  
+9th (5)—*[dominate monster](../../magic/spells/dominate-monster.md)* (DC 29), *[implosion](../../magic/spells/implosion.md)* (DC 29), *[time stop](../../magic/spells/time-stop.md)*  
+8th (7)—*[demand](../../magic/spells/demand.md)* (DC 28), *[mass charm monster](../../magic/spells/charm-monster-mass.md)* (DC 28), *[psychic crush IV](../../magic/spells/psychic-crush-iv.md)* (DC 27)  
+7th (8)—*[ego whip V](../../magic/spells/ego-whip-v.md)* (DC 26), *[insanity](../../magic/spells/insanity.md)* (DC 27), *[project image](../../magic/spells/project-image.md)* (DC 27)  
+6th (8)—*[mass inflict pain](../../magic/spells/inflict-pain-mass.md)* (DC 25), *[mind thrust VI](../../magic/spells/mind-thrust-vi.md)* (DC 25), *[veil](../../magic/spells/veil.md)* (DC 26)  
+5th (8)—*[greater command](../../magic/spells/command-greater.md)* (DC 25), *[greater synaptic pulse](../../magic/spells/synaptic-pulse-greater.md)* (DC 24), *[mind fog](../../magic/spells/mind-fog.md)* (DC 25),[ *possession](../../magic/spells/possession.md)* (DC 24)  
+4th (8)—*dream, hallucinatory terrain* (DC 24), *[mind probe](../../magic/spells/mind-probe.md)* (DC 23), *[scrying](../../magic/spells/scrying.md)* (DC 24)  
+3rd (9)—*clairaudience/clairvoyance, dispel magic, illusory script* (DC 23), *[telekinetic maneuver](../../magic/spells/telekinetic-maneuver.md)*  
+2nd (9)—*[enthrall](../../magic/spells/enthrall.md)* (DC 22), *[share memory](../../magic/spells/share-memory.md)* (DC 22), *status, suggestion* (DC 22), *[undetectable alignment](../../magic/spells/undetectable-alignment.md)*  
 1st (9)—*alarm, entropic shield, mage armor, psychic reading, unseen servant*  
 0 (at will)—*arcane mark, daze* (DC 20), *detect magic, detect psychic significance, mage hand, message, open/close, read magic, telekinetic projectile*
 

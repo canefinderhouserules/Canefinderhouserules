@@ -23,9 +23,9 @@ NG Huge outsider (native)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** spirit stampede  
 **Spell-Like Abilities** (CL 19th; concentration +26)  
-Constant—*detect evil*, *freedom of movement*, *greater invisibility*, *pass without trace*, *speak with animals*, *true seeing*  
-3/day—*heal*, *neutralize poison*, *restoration*, *summon nature’s ally VIII*  
-1/day—*earthquake*
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+3/day—*[heal](../../magic/spells/heal.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[restoration](../../magic/spells/restoration.md)*, *[summon nature’s ally VIII](../../magic/spells/summon-natures-ally-viii.md)*  
+1/day—*[earthquake](../../magic/spells/earthquake.md)*
 
 **Statistics**
 

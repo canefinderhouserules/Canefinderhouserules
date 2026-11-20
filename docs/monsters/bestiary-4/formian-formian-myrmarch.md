@@ -23,9 +23,9 @@ LN Large monstrous humanoid
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** poison  
 **Spell-Like Abilities** (CL 12th; concentration +15)  
-At will—*charm monster* (DC 17), *clairaudience/clairvoyance*, *detect thoughts* (DC 15)  
-3/day—*hold monster* (DC 18)  
-1/day—*feeblemind* (DC 18)
+At will—*[charm monster](../../magic/spells/charm-monster.md)* (DC 17), *[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 15)  
+3/day—*[hold monster](../../magic/spells/hold-monster.md)* (DC 18)  
+1/day—*[feeblemind](../../magic/spells/feeblemind.md)* (DC 18)
 
 **Statistics**
 

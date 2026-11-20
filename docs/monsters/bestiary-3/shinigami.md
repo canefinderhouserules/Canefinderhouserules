@@ -23,8 +23,8 @@ LN Large outsider (extraplanar, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** destroy soul  
 **Spell-Like Abilities** (CL 20th; concentration +29)  
-Constant—*detect chaos*, *detect law*, *tongues*, *true seeing*  
-3/day—*destruction* (DC 26), *energy drain*, *greater scrying* (DC 26), *soul bind* (DC 28)
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[tongues](../../magic/spells/tongues.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+3/day—*[destruction* ](../../magic/spells/destruction.md)(DC 26), *[energy drain](../../magic/spells/energy-drain.md)*, *[greater scrying* ](../../magic/spells/scrying-greater.md)(DC 26), *[soul bind* ](../../magic/spells/soul-bind.md)(DC 28)
 
 **Statistics**
 

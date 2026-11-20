@@ -21,9 +21,9 @@ CE Medium outsider (chaotic, demon, evil, native)
 **Melee** 2 claws +15 (1d6+6), bite +15 (1d8+6)  
 **Special Attacks** consume life, death-stealing gaze, sneak attack +2d6  
 **Spell-Like Abilities** (CL 8th)  
-At will—*deeper darkness*, *greater teleport* (self plus 50 lbs. of objects only), *telekinesis* (DC 19)  
-3/day—*enervation*, *silence* (DC 16), *vampiric touch*  
-1/day—*mass hold person* (DC 21), *regenerate*, summon (level 4, 1 nabasu 30% or 1d4 babaus 30%)
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 19)  
+3/day—*[enervation](../../magic/spells/enervation.md)*, *[silence* ](../../magic/spells/silence.md)(DC 16), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+1/day—*[mass hold person* ](../../magic/spells/hold-person-mass.md)(DC 21), *[regenerate](../../magic/spells/regenerate.md)*, summon (level 4, 1 nabasu 30% or 1d4 babaus 30%)
 
 **Statistics**
 

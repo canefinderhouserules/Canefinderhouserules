@@ -23,7 +23,7 @@ NE Huge magical beast
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** darting strike, lethargy curse, swallow whole (4d8+12 bludgeoning and lethargy curse, AC 19, 20 hp)  
 **Spell-Like Abilities** (CL 18th; concentration +22)  
-1/day—*call lightning storm* (DC 19), *horrid wilting* (DC 22)
+1/day—*[call lightning storm](../../magic/spells/call-lightning-storm.md)* (DC 19), *[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 22)
 
 **Statistics**
 

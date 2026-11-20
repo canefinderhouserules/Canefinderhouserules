@@ -28,14 +28,14 @@ CE Huge aberration (aquatic)
 **Spell-Like Abilities** (CL 16th; concentration +23)  
 Constant—*fly, freedom of movement, nondetection, see invisibility*  
 At will—*acid arrow, control water, fog cloud, greater dispel magic, major image* (DC 20)  
-3/day—*black tentacles, charm monster* (DC 21), *insanity* (DC 24), *mirage arcana* (DC 22), *solid fog*  
+3/day—*black tentacles, charm monster* (DC 21), *[insanity](../../magic/spells/insanity.md)* (DC 24), *[mirage arcana](../../magic/spells/mirage-arcana.md)* (DC 22), *[solid fog](../../magic/spells/solid-fog.md)*  
 1/day—*control weather, power word stun, project image* (DC 24), *summon* (level 8, 1 charybdis 100%)  
 **Cleric Spells Prepared** (CL 8th; concentration +17)  
-4th—*cure critical wounds* (DC 23), *divine power, inflict critical wounds* (DC 23), *tongues, unholy blight* (DC 23)  
-3rd—*call lightning* (DC 22), *cure serious wounds* (DC 22, 2), *invisibility purge, magic circle against good, water breathing*  
-2nd—*darkness, death knell* (DC 21), *gust of wind* (DC 21), *shatter* (2), *spiritual weapon*  
-1st—*cause fear* (DC 20), *command* (DC 20, 2), *divine favor, entropic shield, obscuring mist, shield of faith, true strike*  
-0 (at will)—*bleed* (DC 19), *detect magic, guidance, virtue*  
+4th—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)* (DC 23), *divine power, inflict critical wounds* (DC 23), *tongues, unholy blight* (DC 23)  
+3rd—*[call lightning](../../magic/spells/call-lightning.md)* (DC 22), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)* (DC 22, 2), *invisibility purge, magic circle against good, water breathing*  
+2nd—*darkness, death knell* (DC 21), *[gust of wind](../../magic/spells/gust-of-wind.md)* (DC 21), *[shatter](../../magic/spells/shatter.md)* (2), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[cause fear](../../magic/spells/cause-fear.md)* (DC 20), *[command](../../magic/spells/command.md)* (DC 20, 2), *divine favor, entropic shield, obscuring mist, shield of faith, true strike*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 19), *detect magic, guidance, virtue*  
 **D** Domain spell; **Domains** Destruction (Catastrophe subdomain), Weather (Storms subdomain)
 
 **Statistics**

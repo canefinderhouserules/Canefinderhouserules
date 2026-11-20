@@ -23,10 +23,10 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Ranged**  thrown surgical tool +47/+42/+37/+32 (1d6+10)  
 **Special Attacks** command blood, frightful weapon prowess, painful cuts, sneak attack +5d6  
 **Spell-Like Abilities** (CL 28th; concentration +38)  
-Constant—*detect good*, *detect law*, *freedom of movement*, *true seeing*, *unholy aura*  
-At will—*astral projection*, *blasphemy* (DC 27), *blood biography* (DC 23), *desecrate*, *greater dispel magic*, *greater teleport*, *telekinesis* (DC 25), *shapechange*, *spiritual weapon*, *unhallow*, *unholy blight* (DC 24)  
-3/day—*blade barrier* (DC 26), *mage’s sword*, *summon demons*, *symbol of pain* (DC 25)  
-1/day—*finger of death* (DC 27), *time stop*, *weird* (DC 29)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura](../../magic/spells/unholy-aura.md)*  
+At will—*[astral projection](../../magic/spells/astral-projection.md)*, *[blasphemy](../../magic/spells/blasphemy.md)* (DC 27), *[blood biography](../../magic/spells/blood-biography.md)* (DC 23), *[desecrate](../../magic/spells/desecrate.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[telekinesis](../../magic/spells/telekinesis.md)* (DC 25), *[shapechange](../../magic/spells/shapechange.md)*, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*, *[unhallow](../../magic/spells/unhallow.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 24)  
+3/day—*[blade barrier](../../magic/spells/blade-barrier.md)* (DC 26), *[mage’s sword](../../magic/spells/mages-sword.md)*, *summon demons*, *[symbol of pain](../../magic/spells/symbol-of-pain.md)* (DC 25)  
+1/day—*[finger of death](../../magic/spells/finger-of-death.md)* (DC 27), *[time stop](../../magic/spells/time-stop.md)*, *[weird](../../magic/spells/weird.md)* (DC 29)
 
 **Statistics**
 

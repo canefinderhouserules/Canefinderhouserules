@@ -23,8 +23,8 @@ CE Medium undead
 **Melee** 2 slams +12 (1d6+6) or entropic drain +11 touch (energy drain)  
 **Special Attacks** energy drain (1 level, DC 17)  
 **Spell-Like Abilities** (CL 7th; concentration +11)  
-3/day—*darkness*, *invisibility* (self only)  
-1/day—*bestow curse* (DC 17), *dream* (DC 19), *rusting grasp*, *warp wood*
+3/day—*[darkness](../../magic/spells/darkness.md)*, *[invisibility](../../magic/spells/invisibility.md)* (self only)  
+1/day—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 17), *[dream](../../magic/spells/dream.md)* (DC 19), *[rusting grasp](../../magic/spells/rusting-grasp.md)*, *[warp wood](../../magic/spells/warp-wood.md)*
 
 **Statistics**
 

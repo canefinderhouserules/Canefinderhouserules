@@ -21,7 +21,7 @@ NE Medium undead (incorporeal)
 **Melee** incorporeal touch +21 (3d8 plus 1d6 Con drain)  
 **Special Attacks** bound spirits  
 **Spell-Like Abilities** (CL 15th; concentration +22)  
-3/day—*harm* (DC 23), *slay living* (DC 22), *telekinesis* (DC 22)  
+3/day—*[harm](../../magic/spells/harm.md)* (DC 23), *[slay living](../../magic/spells/slay-living.md)* (DC 22), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 22)  
 
 1/day—*antilife shell, wall of force*
 

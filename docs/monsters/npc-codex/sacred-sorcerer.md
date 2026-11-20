@@ -24,11 +24,11 @@ N Medium humanoid (human)
 **Spell-Like Abilities** (CL 9th; concentration +13)  
 7/day—heavenly fire (1d4+4 divine energy)  
 **Sorcerer Spells Known** (CL 9th; concentration +13)  
-4th (5/day)—*remove curse*, *summon monster IV*, *wall of fire*  
-3rd (7/day)—*dispel magic*, *lightning bolt* (DC 17), *magic circle against evil*, *ray of exhaustion* (DC 17)  
-2nd (7/day)—*acid arrow*, *false life*, *resist energy*, *scorching ray*, *shatter*  
-1st (7/day)—*bless*, *mage armor*, *magic missile*, *ray of enfeeblement* (DC 15), *shield*, *true strike*  
-0 (at will)—*daze* (DC 14), *detect magic*, *light*, *mage hand*, *mending*, *ray of frost*, *read magic*, *resistance*  
+4th (5/day)—*[remove curse](../../magic/spells/remove-curse.md)*, *[summon monster IV](../../magic/spells/summon-monster-iv.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 17), *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*, *[ray of exhaustion* ](../../magic/spells/ray-of-exhaustion.md)(DC 17)  
+2nd (7/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[false life](../../magic/spells/false-life.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[shatter](../../magic/spells/shatter.md)*  
+1st (7/day)—*[bless](../../magic/spells/bless.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 15), *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **Bloodline** celestial
 
 **Tactics**

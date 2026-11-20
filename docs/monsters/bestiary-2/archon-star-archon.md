@@ -23,20 +23,20 @@ LG Large outsider (archon, extraplanar, good, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** smite evil 1/day (+6 attack and AC, +19 damage)  
 **Spell-Like Abilities** (CL 19th; concentration +25)  
-Constant—*detect evil*, *magic circle against evil*, *true seeing*  
-At will—*aid*, *continual flame*, *greater teleport* (self plus 50 lbs. of objects only), *message*, *sunbeam* (DC 23)  
-1/day—*meteor swarm* (DC 25), *polar ray* (DC 24), *prismatic spray* (DC 23), *sunburst* (DC 24)  
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[continual flame](../../magic/spells/continual-flame.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[message](../../magic/spells/message.md)*, *[sunbeam* ](../../magic/spells/sunbeam.md)(DC 23)  
+1/day—*[meteor swarm](../../magic/spells/meteor-swarm.md)* (DC 25), *[polar ray](../../magic/spells/polar-ray.md)* (DC 24), *[prismatic spray](../../magic/spells/prismatic-spray.md)* (DC 23), *[sunburst* ](../../magic/spells/sunburst.md)(DC 24)  
 **Cleric Spells Prepared** (CL 19th; concentration +26)  
-9th—*implosion* (DC 26), *mass heal*, *miracle*  
-8th—*dimensional lock*, *fire storm* (DC 25), *holy aura* (DC 25)  
-7th—*destruction* (2, DC 24), *holy word* (2, DC 24), *resurrection*  
-6th—*greater dispel magic*, *heal*, *mass cure moderate wounds* (3)  
-5th—*break enchantment* (2), *breath of life* (2), *flame strike* (DC 22)  
-4th—*cure critical wounds* (3), *death ward*, *divine power*  
-3rd—*cure serious wounds* (3), *dispel magic* (2), *invisibility purge*  
-2nd—*cure moderate wounds* (4), *eagle’s splendor*, *status*  
-1st—*cure light wounds* (4), *divine favor*, *sanctuary* (DC 18)  
-0—*guidance*, *resistance*, *stabilize*, *virtue*
+9th—*[implosion](../../magic/spells/implosion.md)* (DC 26), *[mass heal](../../magic/spells/heal-mass.md)*, *[miracle](../../magic/spells/miracle.md)*  
+8th—*[dimensional lock](../../magic/spells/dimensional-lock.md)*, *[fire storm](../../magic/spells/fire-storm.md)* (DC 25), *[holy aura](../../magic/spells/holy-aura.md)* (DC 25)  
+7th—*[destruction](../../magic/spells/destruction.md)* (2, DC 24), *[holy word](../../magic/spells/holy-word.md)* (2, DC 24), *[resurrection](../../magic/spells/resurrection.md)*  
+6th—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[heal](../../magic/spells/heal.md)*, *[mass cure moderate wounds](../../magic/spells/cure-moderate-wounds-mass.md)* (3)  
+5th—*[break enchantment](../../magic/spells/break-enchantment.md)* (2), *[breath of life](../../magic/spells/breath-of-life.md)* (2), *[flame strike](../../magic/spells/flame-strike.md)* (DC 22)  
+4th—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)* (3), *[death ward](../../magic/spells/death-ward.md)*, *[divine power](../../magic/spells/divine-power.md)*  
+3rd—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)* (3), *[dispel magic](../../magic/spells/dispel-magic.md)* (2),[ *invisibility purge](../../magic/spells/invisibility-purge.md)*  
+2nd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)* (4), *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[status](../../magic/spells/status.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)* (4), *[divine favor](../../magic/spells/divine-favor.md)*, *[sanctuary* ](../../magic/spells/sanctuary.md)(DC 18)  
+0—*[guidance](../../magic/spells/guidance.md)*, *[resistance](../../magic/spells/resistance.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[virtue](../../magic/spells/virtue.md)*
 
 **Statistics**
 

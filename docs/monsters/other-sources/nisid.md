@@ -21,9 +21,9 @@ CG Small fey
 **Melee** dagger +7 (1d3–1/19–20) or spear +3 (1d6–1/×3)  
 **Ranged** longbow +7 (1d6/×3) or spear +7 (1d6–1/×3)  
 **Spell-Like Abilities** (CL 6th; concentration +10)  
-At will—*charm animal* (DC 15), *create water*, *endure elements*  
-3/day—*detect thoughts* (DC 16), *entangle* (DC 15), *invisibility* (self only)  
-1/day—*call lightning* (DC 17), *confusion* (DC 18), *gust of wind* (DC 16), *hallucinatory terrain* (DC 18)
+At will—*[charm animal](../../magic/spells/charm-animal.md)* (DC 15), *[create water](../../magic/spells/create-water.md)*, *[endure elements](../../magic/spells/endure-elements.md)*  
+3/day—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16), *[entangle](../../magic/spells/entangle.md)* (DC 15), *[invisibility](../../magic/spells/invisibility.md)* (self only)  
+1/day—*[call lightning](../../magic/spells/call-lightning.md)* (DC 17), *[confusion](../../magic/spells/confusion.md)* (DC 18), *[gust of wind](../../magic/spells/gust-of-wind.md)* (DC 16), *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)* (DC 18)
 
 **Statistics**
 

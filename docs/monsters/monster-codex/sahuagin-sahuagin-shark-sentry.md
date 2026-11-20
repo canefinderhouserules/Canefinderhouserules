@@ -23,7 +23,7 @@ LE Medium monstrous humanoid (aquatic)
 **Ranged**  mwk underwater heavy crossbow +9 (1d10/19–20)  
 **Special Attacks** blood frenzy, combat style (natural weapon), favored enemy (elves +2)  
 **Ranger Spells Prepared** (CL 1st; concentration +2)  
-1st—*hunter’s howl* (DC 12)
+1st—*[hunter’s howl](../../magic/spells/hunters-howl.md)* (DC 12)
 
 **Tactics**
 

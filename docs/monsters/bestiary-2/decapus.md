@@ -21,7 +21,7 @@ CE Medium aberration
 **Space** 5 ft., **Reach** 5 ft.  
 **Special Attacks** constrict (2d4+4)  
 **Spell-Like Abilities** (CL 6th; concentration +7)  
-At will—*minor image* (DC 13)
+At will—*[minor image](../../magic/spells/minor-image.md)* (DC 13)
 
 **Statistics**
 

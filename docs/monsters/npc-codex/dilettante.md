@@ -23,8 +23,8 @@ N Medium humanoid (human)
 **Ranged**  dagger +11 (1d4–1/19–20)  
 **Special Attacks** sneak attack +6d6  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-3/day—*message*  
- 2/day—*comprehend languages*
+3/day—*[message](../../magic/spells/message.md)*  
+ 2/day—*[comprehend languages](../../magic/spells/comprehend-languages.md)*
 
 **Tactics**
 

@@ -22,10 +22,10 @@ NG Medium outsider (agathion, extraplanar, good)
 **Melee** unarmed strike +26/+21/+16/+11 (2d8+7/19–20)  
 **Special Attacks** reckless bravura  
 **Spell-Like Abilities** (CL 18th; concentration +20)  
-Constant—*speak with animals*  
-At will—*soften earth and stone*, *thunderstomp*  
-3/day—*meld into stone*, *stone call*, *stone shape*  
-1/day—*summon monster V* (Large earth elemental only)
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*, *[thunderstomp](../../magic/spells/thunderstomp.md)*  
+3/day—*[meld into stone](../../magic/spells/meld-into-stone.md)*, *[stone call](../../magic/spells/stone-call.md)*, *[stone shape](../../magic/spells/stone-shape.md)*  
+1/day—*[summon monster V](../../magic/spells/summon-monster-v.md)* (Large earth elemental only)
 
 **Statistics**
 

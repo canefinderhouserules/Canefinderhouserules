@@ -23,16 +23,16 @@ CE Medium humanoid (human)
 **Spell-Like Abilities** (CL 17th; concentration +22)  
 8/day—battle rage (+8 damage), touch of evil (8 rounds)  
 **Cleric Spells Prepared** (CL 17th; concentration +22)  
-9th—*power word kill*<sup>D</sup>, *storm of vengeance*  
-8th—*earthquake*, *fire storm* (DC 23), *power word stun*<sup>D</sup>  
-7th—*blasphemy*<sup>D</sup>(DC 22), *destruction* (2, DC 22), *ethereal jaunt*  
-6th—*blade barrier*<sup>D</sup>(DC 21), *greater dispel magic*, *harm* (DC 21), *heal*, *mass bull’s strength*  
-5th—*dispel good*, *flame strike*<sup>D</sup>(DC 20), *righteous might*, *slay living* (2, DC 20), *spell resistance*  
-4th—*air walk*, *chaos hammer* (DC 19), *death ward*, *divine power*<sup>D</sup>, *poison* (DC 19), *unholy blight* (DC 19)  
-3rd—*cure serious wounds*, *deeper darkness*, *dispel magic*, *magic circle against good*<sup>D</sup>, *meld into stone*, *prayer*  
-2nd—*bear’s endurance*, *bull’s strength*, *death knell* (DC 17), *hold person* (2, DC 17), *spiritual weapon*<sup>D</sup>  
-1st—*bane* (DC 16), *cause fear* (2, DC 16), *divine favor*, *doom* (DC 16), *entropic shield*, *true strike*<sup>D</sup>  
-0 (at will)—*bleed* (DC 15), *guidance*, *read magic*, *resistance*  
+9th—*[power word kill](../../magic/spells/power-word-kill.md)*<sup>D</sup>, *[storm of vengeance](../../magic/spells/storm-of-vengeance.md)*  
+8th—*[earthquake](../../magic/spells/earthquake.md)*, *[fire storm* ](../../magic/spells/fire-storm.md)(DC 23), *[power word stun](../../magic/spells/power-word-stun.md)*<sup>D</sup>  
+7th—*[blasphemy](../../magic/spells/blasphemy.md)*<sup>D</sup>(DC 22), *[destruction* ](../../magic/spells/destruction.md)(2, DC 22), *[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*  
+6th—*[blade barrier](../../magic/spells/blade-barrier.md)*<sup>D</sup>(DC 21), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[harm* ](../../magic/spells/harm.md)(DC 21), *[heal](../../magic/spells/heal.md)*, *[mass bull’s strength](../../magic/spells/bulls-strength-mass.md)*  
+5th—*[dispel good](../../magic/spells/dispel-good.md)*, *[flame strike](../../magic/spells/flame-strike.md)*<sup>D</sup>(DC 20), *[righteous might](../../magic/spells/righteous-might.md)*, *[slay living* ](../../magic/spells/slay-living.md)(2, DC 20), *[spell resistance](../../magic/spells/spell-resistance.md)*  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 19), *[death ward](../../magic/spells/death-ward.md)*, *[divine power](../../magic/spells/divine-power.md)*<sup>D</sup>, *[poison* ](../../magic/spells/poison.md)(DC 19), *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 19)  
+3rd—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*<sup>D</sup>, *[meld into stone](../../magic/spells/meld-into-stone.md)*, *[prayer](../../magic/spells/prayer.md)*  
+2nd—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[death knell* ](../../magic/spells/death-knell.md)(DC 17), *[hold person* ](../../magic/spells/hold-person.md)(2, DC 17), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*<sup>D</sup>  
+1st—*[bane* ](../../magic/spells/bane.md)(DC 16), *[cause fear* ](../../magic/spells/cause-fear.md)(2, DC 16), *[divine favor](../../magic/spells/divine-favor.md)*, *[doom* ](../../magic/spells/doom.md)(DC 16), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[true strike](../../magic/spells/true-strike.md)*<sup>D</sup>  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 15), *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** Domain spell; **Domains** Evil, War
 
 **Tactics**

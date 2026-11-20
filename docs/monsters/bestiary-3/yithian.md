@@ -22,7 +22,7 @@ LN Large aberration
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** amnesia, deadly pincers, mind swap  
 **Spell-Like Abilities** (CL 15th; concentration +19)  
-At will—*astral projection* (self only), *detect thoughts* (DC 16), *hold monster* (DC 19), *modify memory* (DC 18)
+At will—*[astral projection* ](../../magic/spells/astral-projection.md)(self only), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[hold monster* ](../../magic/spells/hold-monster.md)(DC 19), *[modify memory* ](../../magic/spells/modify-memory.md)(DC 18)
 
 **Statistics**
 

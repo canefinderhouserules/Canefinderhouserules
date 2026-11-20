@@ -20,10 +20,10 @@ CN Medium monstrous humanoid (shapechanger)
 **Melee** mwk quarterstaff +7 (1d6+2), mwk quarterstaff +7 (1d6+1), slam +2 (1d6+1)  
 **Ranged**  sling +8 (1d4+2)  
 **Spell-Like Abilities** (CL 7th; concentration +11)  
-Constant—*detect poison*  
-At will—*purify food and drink*  
-3/day—*magic stone*, *major creation* (up to 1 cubic foot)  
-1/day—*create food and water*, *shrink item*, *veil* (self only)
+Constant—*[detect poison](../../magic/spells/detect-poison.md)*  
+At will—*[purify food and drink](../../magic/spells/purify-food-and-drink.md)*  
+3/day—*[magic stone](../../magic/spells/magic-stone.md)*, *[major creation* ](../../magic/spells/major-creation.md)(up to 1 cubic foot)  
+1/day—*[create food and water](../../magic/spells/create-food-and-water.md)*, *[shrink item](../../magic/spells/shrink-item.md)*, *[veil* ](../../magic/spells/veil.md)(self only)
 
 **Statistics**
 

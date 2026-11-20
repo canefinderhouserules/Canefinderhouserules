@@ -22,17 +22,17 @@ NG Huge outsider (native)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** breath weapon (50-ft. cone, 12d6 fire, Reflex DC 25 half, usable every 1d4 rounds), burn (2d6 fire, DC 25), constrict (2d8+11 plus burn)  
 **Spell-Like Abilities** (CL 12th; concentration +18)  
-Constant—*detect chaos*, *detect evil*, *detect good*, *detect law*  
- At will—*detect thoughts* (DC 17), *ethereal jaunt*, *invisibility*, *plane shift* (DC 22)  
- 1/day—*sunburst* (DC 24)  
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*  
+ At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (DC 22)  
+ 1/day—*[sunburst](../../magic/spells/sunburst.md)* (DC 24)  
 **Spells Known** (CL 12th; concentration +18)  
-6th (4/day)—*holy word* (DC 22)  
- 5th (6/day)—*dismissal* (DC 21), *flame strike*  
-4th (7/day)—*dispel evil* (DC 20), *holy smite*, *wall of fire*  
-3rd (7/day)—*daylight*, *dispel magic*, *fireball* (DC 19), *searing light* (DC 19)  
-2nd (8/day)—*castigate* (DC 18), *eagle’s splendor*, *flaming sphere* (DC 18), *gust of wind* (DC 18), *scorching ray*  
-1st (8/day)—*burning hands* (DC 17), *charm person* (DC 17), *comprehend languages*, *magic missile*, *protection from evil*  
-0 (at will)—*dancing lights*, *daze* (DC 16), *detect magic*, *flare* (DC 16), *light*, *mage hand*, *message*, *read magic*, *resistance*
+6th (4/day)—*[holy word](../../magic/spells/holy-word.md)* (DC 22)  
+ 5th (6/day)—*[dismissal](../../magic/spells/dismissal.md)* (DC 21), *[flame strike](../../magic/spells/flame-strike.md)*  
+4th (7/day)—*[dispel evil](../../magic/spells/dispel-evil.md)* (DC 20), *[holy smite](../../magic/spells/holy-smite.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3rd (7/day)—*[daylight](../../magic/spells/daylight.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball](../../magic/spells/fireball.md)* (DC 19), *[searing light](../../magic/spells/searing-light.md)* (DC 19)  
+2nd (8/day)—*[castigate](../../magic/spells/castigate.md)* (DC 18), *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[flaming sphere](../../magic/spells/flaming-sphere.md)* (DC 18), *[gust of wind](../../magic/spells/gust-of-wind.md)* (DC 18), *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (8/day)—*[burning hands](../../magic/spells/burning-hands.md)* (DC 17), *[charm person](../../magic/spells/charm-person.md)* (DC 17), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze](../../magic/spells/daze.md)* (DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[flare](../../magic/spells/flare.md)* (DC 16), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

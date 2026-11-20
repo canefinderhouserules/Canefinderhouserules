@@ -21,8 +21,8 @@ CG Small outsider (native)
 **Melee** bite +6 (1d4+3)  
 **Special Attacks** thunderous growl  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-3/day—*knock*, *open/close*, *stabilize*  
-1/day—*dimension door* (self plus 5 lbs. of objects only)
+3/day—*[knock](../../magic/spells/knock.md)*, *[open/close](../../magic/spells/open-close.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
+1/day—*[dimension door](../../magic/spells/dimension-door.md)* (self plus 5 lbs. of objects only)
 
 **Statistics**
 

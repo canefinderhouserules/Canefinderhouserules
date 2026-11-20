@@ -23,9 +23,9 @@ NE Medium humanoid (human)
 **Spell-Like Abilities** (CL 3rd; concentration +6)  
 6/day—bleeding touch (1 rounds)  
 **Cleric Spells Prepared** (CL 3rd; concentration +6)  
-2nd—*invisibility*<sup>D</sup>, *mirror image*, *undetectable alignment*  
-1st—*disguise self*<sup>D</sup>, *murderous command* (DC 15), *protection from good*, *shield of faith*  
-0 (at will)—*bleed* (DC 13), *detect magic*, *guidance*, *resistance*  
+2nd—*[invisibility](../../magic/spells/invisibility.md)*<sup>D</sup>, *[mirror image](../../magic/spells/mirror-image.md)*, *[undetectable alignment](../../magic/spells/undetectable-alignment.md)*  
+1st—*[disguise self](../../magic/spells/disguise-self.md)*<sup>D</sup>, *[murderous command](../../magic/spells/murderous-command.md)* (DC 15), *[protection from good](../../magic/spells/protection-from-good.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** Domain spell; **Domains** Death, Deception
 
 **Statistics**

@@ -23,8 +23,8 @@ CN Huge plant
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** blow smoke  
 **Spell-Like Abilities** (CL 14th; concentration +18)  
-Constant—*speak with plants*  
-At will—*invisibility*
+Constant—*[speak with plants](../../magic/spells/speak-with-plants.md)*  
+At will—*[invisibility](../../magic/spells/invisibility.md)*
 
 **Statistics**
 

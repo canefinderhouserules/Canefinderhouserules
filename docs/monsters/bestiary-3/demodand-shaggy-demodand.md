@@ -21,10 +21,10 @@ CE Medium outsider (chaotic, demodand, evil, extraplanar)
 **Melee** *+2 unholy morningstar* +36/+31/+26/+21 (1d8+11), bite +32 (2d6+4), claw +32 (1d6+4) or bite +34 (2d6+9), 2 claws +34 (1d6+9)  
 **Special Attacks** faith-stealing strike (DC 27)  
 **Spell-Like Abilities** (CL 20th; concentration +25)  
-Constant—*detect good*, *detect magic*, *see invisibility*  
-At will—*detect thoughts* (DC 17), *fear* (DC 19), *gaseous form*, *greater dispel magic*, *invisibility* (self only), *magic circle against good*  
-3/day—empowered *cloudkill* (DC 20), *fog cloud*, quickened *ray of enfeeblement* (DC 16), *stinking cloud* (DC 18)  
-1/day—*blasphemy* (DC 22), *chaos hammer* (DC 19), *mass charm monster* (DC 23), summon (level 6, 1d6 tarry demodands or 1d4 slimy demodands 60%)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[fear* ](../../magic/spells/fear.md)(DC 19), *[gaseous form](../../magic/spells/gaseous-form.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*  
+3/day—empowered *[cloudkill* ](../../magic/spells/cloudkill.md)(DC 20), *[fog cloud](../../magic/spells/fog-cloud.md)*, quickened *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 16), *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 18)  
+1/day—*[blasphemy* ](../../magic/spells/blasphemy.md)(DC 22), *[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 19), *[mass charm monster* ](../../magic/spells/charm-monster-mass.md)(DC 23), summon (level 6, 1d6 tarry demodands or 1d4 slimy demodands 60%)
 
 **Statistics**
 

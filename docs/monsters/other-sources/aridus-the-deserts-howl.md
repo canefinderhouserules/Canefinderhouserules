@@ -24,9 +24,9 @@ CE Huge outsider (air, fire, native)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** dream haunting, howl, rend (2 claws, 2d8+16 plus 4d6 fire and 1d4 Cha damage) , wendigo psychosis  
 **Spell-Like Abilities** (CL 20th; concentration +28)  
-At will—*wind walk* (DC 25)  
-3/day—empowered *sirocco* (DC 24)  
-1/day—*control weather* (as druid), *nightmare* (DC 24)
+At will—*[wind walk* ](../../magic/spells/wind-walk.md)(DC 25)  
+3/day—empowered *[sirocco](../../magic/spells/sirocco.md)* (DC 24)  
+1/day—*[control weather* ](../../magic/spells/control-weather.md)(as druid), *[nightmare* ](../../magic/spells/nightmare.md)(DC 24)
 
 **Statistics**
 

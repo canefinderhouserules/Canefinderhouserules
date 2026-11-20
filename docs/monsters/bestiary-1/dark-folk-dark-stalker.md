@@ -21,7 +21,7 @@ CN Medium humanoid (dark folk)
 **Melee** 2 short swords +6/+6 (1d6+2 plus poison/19–20)  
 **Special Attacks** death throes, sneak attack (+3d6)  
 **Spell-Like Abilities** (CL 6th)  
-At will—*deeper darkness*, *detect magic*, *fog cloud*
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*
 
 **Statistics**
 

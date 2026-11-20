@@ -23,10 +23,10 @@ CN Medium fey
 **Special Attacks** blood drain (1d2 Constitution), crushing leap,
 nightmare rider, sneak attack +2d6  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-Constant—*greater magic fang*  
-At will—*deep slumber* (DC 16), *prestidigitation*  
-3/day—*nightmare* (DC 18), *putrefy food and drink*  
-1/day—*greater invisibility* (self only)
+Constant—*[greater magic fang](../../magic/spells/magic-fang-greater.md)*  
+At will—*[deep slumber](../../magic/spells/deep-slumber.md)* (DC 16), *[prestidigitation](../../magic/spells/prestidigitation.md)*  
+3/day—*[nightmare](../../magic/spells/nightmare.md)* (DC 18), *[putrefy food and drink](../../magic/spells/putrefy-food-and-drink.md)*  
+1/day—*[greater invisibility](../../magic/spells/invisibility-greater.md)* (self only)
 
 **Statistics**
 

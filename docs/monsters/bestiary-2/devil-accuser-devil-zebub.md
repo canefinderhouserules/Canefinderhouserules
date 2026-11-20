@@ -20,8 +20,8 @@ LE Small outsider (devil, evil, extraplanar, lawful)
 **Speed** 20 ft., fly 60 ft. (perfect)  
 **Melee** bite +5 (1d6 plus 1d6 acid and disease)  
 **Spell-Like Abilities** (CL 8th; concentration +9)  
-At will—*greater teleport* (self plus 50 lbs. of objects only), *invisibility* (self only)  
-3/day—*grease*, *summon swarm*, *whispering wind*  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[invisibility](../../magic/spells/invisibility.md)* (self only)  
+3/day—*[grease](../../magic/spells/grease.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*  
 1/day—summon (level 3, 1 zebub or 1d4 lemures, 40%)
 
 **Statistics**

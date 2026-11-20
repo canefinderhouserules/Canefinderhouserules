@@ -21,9 +21,9 @@ LE Medium outsider (native)
 **Melee** spiked chain +11/+6 (2d4+3 plus grab)  
 **Special Attacks** taste fear  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-Constant—*levitate*, *mage hand*  
- At will—*bane* (DC 14), *cause fear* (DC 14), *command* (DC 14), *darkness*  
- 3/day—*bestow curse* (DC 16), *crushing despair* (DC 17), *hold person* (DC 15), *mirror image* 1/day—*augury*, summon (level 3, 1 augur kyton 35%)
+Constant—*[levitate](../../magic/spells/levitate.md)*, *[mage hand](../../magic/spells/mage-hand.md)*  
+ At will—*[bane](../../magic/spells/bane.md)* (DC 14), *[cause fear](../../magic/spells/cause-fear.md)* (DC 14), *[command](../../magic/spells/command.md)* (DC 14), *[darkness](../../magic/spells/darkness.md)*  
+ 3/day—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 16), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 17), *[hold person](../../magic/spells/hold-person.md)* (DC 15), *[mirror image](../../magic/spells/mirror-image.md)* 1/day—*[augury](../../magic/spells/augury.md)*, summon (level 3, 1 augur kyton 35%)
 
 **Statistics**
 

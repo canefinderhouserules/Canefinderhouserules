@@ -23,10 +23,10 @@ NE Huge aberration (mythic)
 **Space** 15 ft., **Reach** 15 ft. (20 ft. with claws)  
 **Special Attacks** impregnate surrogate, mythic power (10/day, surge +1d12), razor claws, well of life  
 **Spell-Like Abilities** (CL 20th; concentration +35)  
-Constant—*freedom of movement*, *true seeing*  
-At will—*dimension door*  
-3/day—*antilife shell*, *break enchantment*, *contagion* (DC 28), quickened *cure serious wounds*, *dimension door*  
-1/day—*antimagic field*, *destruction* (DC 32), *regenerate*<sup>M</sup>
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[dimension door](../../magic/spells/dimension-door.md)*  
+3/day—*[antilife shell](../../magic/spells/antilife-shell.md)*, *[break enchantment](../../magic/spells/break-enchantment.md)*, *[contagion](../../magic/spells/contagion.md)* (DC 28), quickened *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dimension door](../../magic/spells/dimension-door.md)*  
+1/day—*[antimagic field](../../magic/spells/antimagic-field.md)*, *[destruction](../../magic/spells/destruction.md)* (DC 32), *[regenerate](../../magic/spells/regenerate.md)*<sup>M</sup>
 
 **Statistics**
 

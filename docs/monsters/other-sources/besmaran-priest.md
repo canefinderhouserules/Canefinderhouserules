@@ -21,10 +21,10 @@ CN Medium humanoid (human)
 **Melee** mwk rapier +4 (1d6/18–20) or sap +3 (1d6 nonlethal)  
 **Special Attacks** channel positive energy 5/day (DC 14, 3d6)  
 **Cleric Spells Prepared** (CL 5th; concentration +8)  
-3rd—*remove disease*, *water breathing*<sup>D</sup>  
-2nd—*aid*, *cure moderate wounds*, *fog cloud*<sup>D</sup>  
-1st—*bless*, *cure light wounds*, *deathwatch*, *obscuring mist*<sup>D</sup>, *remove fear*  
-0 (at will)—*create water*, *purify food and drink*, *read magic*, *stabilize*  
+3rd—*[remove disease](../../magic/spells/remove-disease.md)*, *[water breathing](../../magic/spells/water-breathing.md)*<sup>D</sup>  
+2nd—*[aid](../../magic/spells/aid.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*<sup>D</sup>  
+1st—*[bless](../../magic/spells/bless.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[deathwatch](../../magic/spells/deathwatch.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*<sup>D</sup>, *[remove fear](../../magic/spells/remove-fear.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domains** Water, Weather
 
 **Statistics**

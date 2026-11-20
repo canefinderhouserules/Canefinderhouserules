@@ -26,16 +26,16 @@ NE Medium humanoid (elf, human)
 17/day—lightning lord  
 10/day—storm burst  
 **Druid Spells Prepared** (CL 17th; concentration +24)  
-9th—empowered *fire storm* (DC 24), *storm of vengeance*<sup>D</sup>(DC 26)  
-8th—*earthquake*, *whirlwind*<sup>D</sup>(DC 25), *word of recall*  
-7th—*control weather*<sup>D</sup>, *creeping doom* (DC 24), *fire storm* (DC 24), *heal*, *true seeing*  
-6th—*antilife shell*, *control winds*<sup>D</sup>(DC 23), empowered *flame strike* (2, DC 21), *greater dispel magic*, *wall of stone*  
-5th—*baleful polymorph* (DC 22), *call lightning storm* (DC 22), *cure critical wounds* (2), *ice storm*<sup>D</sup>, *insect plague*  
-4th—*control water*, *dispel magic*, *flame strike* (2, DC 21), *freedom of movement*, *sleet storm*<sup>D</sup>  
-3rd—*call lightning*<sup>D</sup>(DC 20), *dominate animal* (DC 20), *greater magic fang* (3), *protection from energy* (2)  
-2nd—*barkskin* (3), *bull’s strength* (2), *cat’s grace*, *fog cloud*<sup>D</sup>  
-1st—*entangle* (2, DC 18), *faerie fire* (2), *obscuring mist*<sup>D</sup>, *shillelagh*, *speak with animals*  
-0 (at will)—*flare* (DC 17), *light*, *purify food and drink*, *resistance*  
+9th—empowered *[fire storm* ](../../magic/spells/fire-storm.md)(DC 24), *[storm of vengeance](../../magic/spells/storm-of-vengeance.md)*<sup>D</sup>(DC 26)  
+8th—*[earthquake](../../magic/spells/earthquake.md)*, *[whirlwind](../../magic/spells/whirlwind.md)*<sup>D</sup>(DC 25), *[word of recall](../../magic/spells/word-of-recall.md)*  
+7th—*[control weather](../../magic/spells/control-weather.md)*<sup>D</sup>, *[creeping doom* ](../../magic/spells/creeping-doom.md)(DC 24), *[fire storm* ](../../magic/spells/fire-storm.md)(DC 24), *[heal](../../magic/spells/heal.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, *[control winds](../../magic/spells/control-winds.md)*<sup>D</sup>(DC 23), empowered *[flame strike* ](../../magic/spells/flame-strike.md)(2, DC 21), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+5th—*[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 22), *[call lightning storm* ](../../magic/spells/call-lightning-storm.md)(DC 22), *[cure critical wounds* ](../../magic/spells/cure-critical-wounds.md)(2), *[ice storm](../../magic/spells/ice-storm.md)*<sup>D</sup>, *[insect plague](../../magic/spells/insect-plague.md)*  
+4th—*[control water](../../magic/spells/control-water.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(2, DC 21), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[sleet storm](../../magic/spells/sleet-storm.md)*<sup>D</sup>  
+3rd—*[call lightning](../../magic/spells/call-lightning.md)*<sup>D</sup>(DC 20), *[dominate animal* ](../../magic/spells/dominate-animal.md)(DC 20), *[greater magic fang* ](../../magic/spells/magic-fang-greater.md)(3), *[protection from energy* ](../../magic/spells/protection-from-energy.md)(2)  
+2nd—*[barkskin* ](../../magic/spells/barkskin.md)(3), *[bull’s strength* ](../../magic/spells/bulls-strength.md)(2), *[cat’s grace](../../magic/spells/cats-grace.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*<sup>D</sup>  
+1st—*[entangle* ](../../magic/spells/entangle.md)(2, DC 18), *[faerie fire* ](../../magic/spells/faerie-fire.md)(2), *[obscuring mist](../../magic/spells/obscuring-mist.md)*<sup>D</sup>, *[shillelagh](../../magic/spells/shillelagh.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[flare* ](../../magic/spells/flare.md)(DC 17), *[light](../../magic/spells/light.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** Domain spell; **Domain** Weather
 
 **Tactics**

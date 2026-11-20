@@ -21,11 +21,11 @@ LG Large aberration
 **Ranged**  spit +14 touch (poison)  
 **Space** 10 ft., **Reach** 5 ft.  
 **Spells Known** (CL 9th)  
-4th (5/day)—*divine power*, *greater invisibility*  
-3rd (7/day)—*cure serious wounds*, *dispel magic*, *lightning bolt* (DC 17)  
-2nd (7/day)—*detect thoughts* (DC 16), *lesser restoration*, *see invisibility*, *scorching ray*  
-1st (7/day)—*cure light wounds*, *divine favor*, *expeditious retreat*, *mage armor*, *magic missile*  
-0 (at will)—*daze* (DC 14), *detect magic*, *light*, *mage hand*, *open/close*, *ray of frost*, *read magic*, *stabilize*
+4th (5/day)—*[divine power](../../magic/spells/divine-power.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*  
+3rd (7/day)—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 17)  
+2nd (7/day)—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (7/day)—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

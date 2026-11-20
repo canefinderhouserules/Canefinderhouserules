@@ -22,8 +22,8 @@ CE Tiny fey
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** sneak attack +1d6, tinker  
 **Spell-Like Abilities** (CL 1st; concentration +3)  
-At will—*prestidigitation*  
-1/hour—*dimension door* (self plus 5 lbs. only)
+At will—*[prestidigitation](../../magic/spells/prestidigitation.md)*  
+1/hour—*[dimension door* ](../../magic/spells/dimension-door.md)(self plus 5 lbs. only)
 
 **Statistics**
 

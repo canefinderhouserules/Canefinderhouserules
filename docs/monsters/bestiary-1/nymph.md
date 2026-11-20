@@ -22,13 +22,13 @@ CG Medium fey
 **Melee** mwk dagger +10 (1d4/19–20)  
 **Special Attacks** stunning glance  
 **Spell-Like Abilities** (CL 8th)  
-1/day—*dimension door*  
+1/day—*[dimension door](../../magic/spells/dimension-door.md)*  
 **Spells Prepared** (CL 7th)  
-4th—*summon nature’s ally IV*  
-3rd—*call lightning* (DC 16), *cure moderate wounds*, *water breathing*  
-2nd—*barkskin*, *flame blade*, *resist energy*, *tree shape*  
-1st—*charm animal* (DC 14), *endure elements*, *entangle* (DC 14), *obscuring mist*, *produce flame*  
-0—*detect magic*, *guidance*, *light*, *stabilize*
+4th—*[summon nature’s ally IV](../../magic/spells/summon-natures-ally-iv.md)*  
+3rd—*[call lightning* ](../../magic/spells/call-lightning.md)(DC 16), *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[water breathing](../../magic/spells/water-breathing.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[flame blade](../../magic/spells/flame-blade.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[tree shape](../../magic/spells/tree-shape.md)*  
+1st—*[charm animal* ](../../magic/spells/charm-animal.md)(DC 14), *[endure elements](../../magic/spells/endure-elements.md)*, *[entangle* ](../../magic/spells/entangle.md)(DC 14), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[produce flame](../../magic/spells/produce-flame.md)*  
+0—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

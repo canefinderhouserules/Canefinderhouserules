@@ -24,10 +24,10 @@ LG Medium humanoid (human)
 **Ranged**  mwk starknife +8/+3 (1d4+4/×3)  
 **Special Attacks** channel positive energy (DC 16, 4d6), smite evil 3/day (+2 attack and AC, +8 damage)  
 **Spell-Like Abilities** (CL 8th; concentration +10)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 5th; concentration +7)  
-2nd—*delay poison*, *resist energy*  
-1st—*bless*, *lesser restoration*
+2nd—*[delay poison](../../magic/spells/delay-poison.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[bless](../../magic/spells/bless.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)*
 
 **Tactics**
 

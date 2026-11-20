@@ -23,7 +23,7 @@ LE Medium humanoid (dwarf)
 **Melee** warhammer +3 (1d8+1/×3)  
 **Ranged**  light crossbow +0 (1d8/19–20)  
 **Spell-Like Abilities** (CL 3rd)  
-1/day—*enlarge person* (self only), *invisibility* (self only)
+1/day—*[enlarge person* ](../../magic/spells/enlarge-person.md)(self only), *[invisibility* ](../../magic/spells/invisibility.md)(self only)
 
 **Statistics**
 

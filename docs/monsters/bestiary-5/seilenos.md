@@ -26,11 +26,11 @@ thyrsus
 **Spell-Like Abilities** (CL 21st; concentration +30)  
 Constant—*haste, speak with animals, stone tell, true seeing*  
 
-At will—*commune with nature, confusion* (DC 23), *crushing despair* (DC 23), *dancing lights* (DC 19), *divination, fear* (DC 21), *good hope, mass suggestion* (DC 25), *mirage arcana* (DC 24), *persistent image* (DC 24), *polymorph any object* (DC 27), *reckless infatuation* (DC 22), *waves of ecstasy* (DC 26)  
+At will—*commune with nature, confusion* (DC 23), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 23), *[dancing lights](../../magic/spells/dancing-lights.md)* (DC 19), *divination, fear* (DC 21), *good hope, mass suggestion* (DC 25), *[mirage arcana](../../magic/spells/mirage-arcana.md)* (DC 24), *[persistent image](../../magic/spells/persistent-image.md)* (DC 24), *[polymorph any object](../../magic/spells/polymorph-any-object.md)* (DC 27), *[reckless infatuation](../../magic/spells/reckless-infatuation.md)* (DC 22), *[waves of ecstasy](../../magic/spells/waves-of-ecstasy.md)* (DC 26)  
 
 3/day—*quickened greater heroism, vengeful outrage* (DC 25)  
 
-1/day—*cloak of dreams* (DC 25), *freedom, insanity* (DC 26), *mass charm monster* (DC 27), *plant growth, reincarnate, summon* (level 9, 4d4 advanced dire tigers, 4d4 advanced maenads, or 2 storm giants 100%)
+1/day—*[cloak of dreams](../../magic/spells/cloak-of-dreams.md)* (DC 25), *freedom, insanity* (DC 26), *[mass charm monster](../../magic/spells/charm-monster-mass.md)* (DC 27), *plant growth, reincarnate, summon* (level 9, 4d4 advanced dire tigers, 4d4 advanced maenads, or 2 storm giants 100%)
 
 **Statistics**
 

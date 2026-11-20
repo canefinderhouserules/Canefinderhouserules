@@ -22,9 +22,9 @@ LN Medium humanoid (dwarf)
 **Melee** quarterstaff +2 (1d6–1)  
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids  
 **Adept Spells Prepared** (CL 6th; concentration +9)  
-2nd—*invisibility*, *mirror image*  
-1st—*bless*, *cure light wounds*, *obscuring mist*  
-0 (at will)—*create water*, *guidance*, *mending*
+2nd—*[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*  
+1st—*[bless](../../magic/spells/bless.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[guidance](../../magic/spells/guidance.md)*, *[mending](../../magic/spells/mending.md)*
 
 **Tactics**
 

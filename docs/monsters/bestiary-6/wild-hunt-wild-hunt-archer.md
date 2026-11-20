@@ -24,9 +24,9 @@ see in darkness; Perception +31
 **Ranged** *+5 icy burst seeking composite longbow* +26/+21/+16 (1d8+10/19–20/x3 plus 1d6 cold)  
 **Special Attacks** infuse arrow, wild gaze (DC 26)  
 **Spell-Like Abilities** (CL 13th; concentration +18)  
-Constant—*know direction, speak with animals, speak with plants* At will—*vampiric touch*  
+Constant—*know direction, speak with animals, speak with plants* At will—*[vampiric touch](../../magic/spells/vampiric-touch.md)*  
 3/day—*black tentacles, haste, slay living* (DC 20), *sleet storm, stone tell*  
-1/day—*cloudkill* (DC 20), *disintegrate* (DC 21), *freezing sphere* (DC 21)
+1/day—*[cloudkill](../../magic/spells/cloudkill.md)* (DC 20), *[disintegrate](../../magic/spells/disintegrate.md)* (DC 21), *[freezing sphere](../../magic/spells/freezing-sphere.md)* (DC 21)
 
 **Statistics**
 

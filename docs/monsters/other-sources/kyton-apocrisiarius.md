@@ -24,9 +24,9 @@ LE Medium outsider (evil, extraplanar, kyton, lawful)
 **Special Attacks** unnerving gaze (30 ft., DC 16)  
 **Spell-Like Abilities** (CL 7th; concentration +9)  
 Constant—aura of truth (DC 14)  
-At will—*mage hand*, *open/close*, *stabilize*  
-3/day—*cure moderate wounds*, *poison* (DC 16), *sending*, *tongues*  
-1/day—*order’s wrath* (DC 16), *plane shift* (self only, to or from the Material Plane or the Plane of Shadow)
+At will—*[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
+3/day—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[poison](../../magic/spells/poison.md)* (DC 16), *[sending](../../magic/spells/sending.md)*, *[tongues](../../magic/spells/tongues.md)*  
+1/day—*[order’s wrath](../../magic/spells/orders-wrath.md)* (DC 16), *[plane shift](../../magic/spells/plane-shift.md)* (self only, to or from the Material Plane or the Plane of Shadow)
 
 **Statistics**
 

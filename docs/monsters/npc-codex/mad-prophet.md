@@ -25,14 +25,14 @@ CE Small humanoid (gnome)
 At will—lore keeper, remote viewing (9 rounds/day)  
 7/day—vision of madness  
 **Gnome Spell-Like Abilities** (CL 13th; concentration +16)  
-1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Cleric Spells Prepared** (CL 9th; concentration +13)  
-5th—*slay living* (DC 20), *true seeing*<sup>D</sup>  
-4th—*chaos hammer* (DC 18), *confusion*<sup>D</sup> (DC 18), *summon monster IV*, *tongues*  
-3rd—*blindness/deafness* (DC 18), *invisibility purge*, *prayer*, *rage*<sup>D</sup>, *searing light*  
-2nd—*cure moderate wounds*, *hold person* (2, DC 16), *resist energy*, *spiritual weapon*, *touch of idiocy*<sup>D</sup>  
-1st—*cause fear* (DC 16), *doom* (DC 16), *entropic shield*, *lesser confusion*<sup>D</sup> (DC 15), *obscuring mist*, *shield of faith*  
-0 (at will)—*bleed* (DC 15), *detect poison*, *light*, *read magic*  
+5th—*[slay living* ](../../magic/spells/slay-living.md)(DC 20), *[true seeing](../../magic/spells/true-seeing.md)*<sup>D</sup>  
+4th—*[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 18), *[confusion](../../magic/spells/confusion.md)*<sup>D</sup> (DC 18), *[summon monster IV](../../magic/spells/summon-monster-iv.md)*, *[tongues](../../magic/spells/tongues.md)*  
+3rd—*[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 18), *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[prayer](../../magic/spells/prayer.md)*, *[rage](../../magic/spells/rage.md)*<sup>D</sup>, *[searing light](../../magic/spells/searing-light.md)*  
+2nd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[hold person* ](../../magic/spells/hold-person.md)(2, DC 16), *[resist energy](../../magic/spells/resist-energy.md)*, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*<sup>D</sup>  
+1st—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 16), *[doom* ](../../magic/spells/doom.md)(DC 16), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[lesser confusion](../../magic/spells/confusion-lesser.md)*<sup>D</sup> (DC 15), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 15), *[detect poison](../../magic/spells/detect-poison.md)*, *[light](../../magic/spells/light.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** Domain spell; **Domains** Knowledge, Madness
 
 **Tactics**

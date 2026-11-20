@@ -26,9 +26,9 @@ mwk falchion +16/+11 (2d4+5/18–20)
 **Ranged** javelin +11/+6 (1d6+5)  
 **Special Attacks** leech life (1 level, DC 17)  
 **Spell-Like Abilities** (CL 8th; concentration +9)  
-Constant—*deathwatch*  
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*  
 
-3/day—*death knell (DC 17)*
+3/day—*[death knell (DC 17)](../../magic/spells/death-knell.md)*
 
 **Statistics**
 

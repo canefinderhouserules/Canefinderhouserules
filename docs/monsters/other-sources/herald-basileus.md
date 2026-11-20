@@ -22,9 +22,9 @@ LE Medium outsider (devil, evil, extraplanar, herald, lawful)
 **Space** 5 ft., **Reach** 5 ft. (15 ft. with slam)  
 **Special Attacks** terror, terror shape  
 **Spell-Like Abilities** (CL 16th; concentration +23)  
-At will—*cloudkill* (DC 22), *false vision*, *greater teleport* (self plus 50 lbs. of objects only), *mirage arcana* (DC 22), *persistent image* (DC 22), *scorching ray*  
-3/day—*crushing despair* (DC 21), *dimensional anchor* (DC 21), *ethereal jaunt*, *greater dispel magic*, *greater invisibility*, *legend lore*, *nightmare* (DC 22), *phantasmal killer* (DC 21), *true seeing*  
-1/day—*geas/quest*, grant 1 *wish* (to mortals only), summon (level 5, 2 bone devils 75%)
+At will—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 22), *[false vision](../../magic/spells/false-vision.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[mirage arcana* ](../../magic/spells/mirage-arcana.md)(DC 22), *[persistent image* ](../../magic/spells/persistent-image.md)(DC 22), *[scorching ray](../../magic/spells/scorching-ray.md)*  
+3/day—*[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 21), *[dimensional anchor* ](../../magic/spells/dimensional-anchor.md)(DC 21), *[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[legend lore](../../magic/spells/legend-lore.md)*, *[nightmare* ](../../magic/spells/nightmare.md)(DC 22), *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 21), *[true seeing](../../magic/spells/true-seeing.md)*  
+1/day—*[geas/quest](../../magic/spells/geas-quest.md)*, grant 1 *[wish* ](../../magic/spells/wish.md)(to mortals only), summon (level 5, 2 bone devils 75%)
 
 **Statistics**
 

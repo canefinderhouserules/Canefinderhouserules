@@ -23,9 +23,9 @@ CE Huge aberration
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** breath weapon (50-ft. cone, 10d10 acid, Reflex DC 24 half, usable every 1d4 rounds), mind thrust (12d10, DC 23), psychic crush (DC 23), swallow whole (1d8+8 plus 1d8 acid damage, AC 20, 17 hp)  
 **Spell-Like Abilities** (CL 17th; concentration +22)  
-At will—*charm monster* (DC 19), *detect thoughts* (DC 17), *poison* (DC 19), *suggestion* (DC 18), *teleport*  
-3/day—*clairvoyance/clairaudience*, *telekinesis* (DC 20)  
-1/day—quickened *suggestion* (DC 18)
+At will—*[charm monster](../../magic/spells/charm-monster.md)* (DC 19), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[poison](../../magic/spells/poison.md)* (DC 19), *[suggestion](../../magic/spells/suggestion.md)* (DC 18), *[teleport](../../magic/spells/teleport.md)*  
+3/day—*clairvoyance/clairaudience*, *[telekinesis](../../magic/spells/telekinesis.md)* (DC 20)  
+1/day—quickened *[suggestion](../../magic/spells/suggestion.md)* (DC 18)
 
 **Statistics**
 

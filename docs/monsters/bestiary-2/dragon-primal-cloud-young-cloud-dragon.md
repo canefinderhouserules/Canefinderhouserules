@@ -21,7 +21,7 @@ CN Large dragon (air, extraplanar)
 **Melee** bite +13 (2d6+6), 2 claws +14 (1d8+4), 2 wings +11 (1d6+2), tail slap +11 (1d8+6)  
 **Special Attacks** breath weapon (40-ft. cone, 6d8 electricity, DC 18)  
 **Spell-Like Abilities** (CL 10th; concentration +12)  
-At will—*fog cloud*, *obscuring mist*
+At will—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*
 
 **Statistics**
 

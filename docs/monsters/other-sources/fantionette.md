@@ -22,9 +22,9 @@ CE Small outsider (chaotic, evil, extraplanar)
 **Melee** bite +7 (1d4+1), 2 claws +7 (1d3+1)  
 **Special Attacks** rend (2 claws, 1d4+1), sneak attack +1d6  
 **Spell-Like Abilities** (CL 5th; concentration +8)  
-At will—*bleed* (DC 14), *charm person* (DC 14), *dancing lights*, *ghost sound* (DC 14)  
-3/day—*darkness*, *dimension door*, *spiritual weapon*  
-1/day—*glitterdust* (DC 15), *scare* (DC 15)
+At will—*[bleed](../../magic/spells/bleed.md)* (DC 14), *[charm person](../../magic/spells/charm-person.md)* (DC 14), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 14)  
+3/day—*[darkness](../../magic/spells/darkness.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1/day—*[glitterdust](../../magic/spells/glitterdust.md)* (DC 15), *[scare](../../magic/spells/scare.md)* (DC 15)
 
 **Statistics**
 

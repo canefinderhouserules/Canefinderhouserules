@@ -20,10 +20,10 @@ NG Medium outsider (kami, native)
 **Speed** 60 ft. (30 ft. without *haste*), fly 90 ft. (good, 60 ft. without *haste*)  
 **Melee** *+2 quarterstaff* +24/+24/+19/+14/+9 (1d6+4 plus touch of ages), *+2 quarterstaff* +24/+19/+14 (1d6+3 plus touch of ages) or touch +23 (touch of ages)  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*deathwatch*, *fly*, *foresight*, *haste*, *speak with plants*, *true seeing*  
-At will—*cure moderate wounds*, *tree shape* (cherry tree only), *tree stride* (self plus 50 lbs. of objects only)  
-3/day—*greater restoration*, *slow* (DC 20)  
-1/day—*finger of death* (DC 24), *time stop*, *waves of exhaustion*
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*, *[fly](../../magic/spells/fly.md)*, *[foresight](../../magic/spells/foresight.md)*, *[haste](../../magic/spells/haste.md)*, *[speak with plants](../../magic/spells/speak-with-plants.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[tree shape* ](../../magic/spells/tree-shape.md)(cherry tree only), *[tree stride* ](../../magic/spells/tree-stride.md)(self plus 50 lbs. of objects only)  
+3/day—*[greater restoration](../../magic/spells/restoration-greater.md)*, *[slow* ](../../magic/spells/slow.md)(DC 20)  
+1/day—*[finger of death* ](../../magic/spells/finger-of-death.md)(DC 24), *[time stop](../../magic/spells/time-stop.md)*, *[waves of exhaustion](../../magic/spells/waves-of-exhaustion.md)*
 
 **Statistics**
 

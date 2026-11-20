@@ -25,12 +25,12 @@ NE Medium humanoid
 **Spell-Like Abilities** (CL 10th; concentration +15)  
 8/day—rebuke death (1d4+5), touch of evil (5 rounds)  
 **Cleric Spells Prepared** (CL 10th; concentration +15)  
-5th—*breath of life*<sup>D</sup>, *mass cure light wounds*, *righteous might*, *summon monster V*  
-4th—*air walk*, *cure critical wounds*, *dismissal* (DC 19), *divine power*, *unholy blight*<sup>D</sup> (DC 19)  
-3rd—*cure serious wounds* (2), *dispel magic*, *magic circle against good*<sup>D</sup>, *prayer*  
-2nd—*aid*, *cure moderate wounds*<sup>D</sup>, *death knell* (DC 17), *silence* (DC 17), *spiritual weapon*, *undetectable alignment*  
-1st—*command* (DC 16), *cure light wounds*<sup>D</sup>, *deathwatch*, *divine favor*, *obscuring mist*, *remove fear*, *shield of faith*  
-0 (at will)—*create water*, *guidance*, *light*, *purify food & drink*  
+5th—*[breath of life](../../magic/spells/breath-of-life.md)*<sup>D</sup>, *[mass cure light wounds](../../magic/spells/cure-light-wounds-mass.md)*, *[righteous might](../../magic/spells/righteous-might.md)*, *[summon monster V](../../magic/spells/summon-monster-v.md)*  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[dismissal](../../magic/spells/dismissal.md)* (DC 19), *[divine power](../../magic/spells/divine-power.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)*<sup>D</sup> (DC 19)  
+3rd—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)* (2), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*<sup>D</sup>, *[prayer](../../magic/spells/prayer.md)*  
+2nd—*[aid](../../magic/spells/aid.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*<sup>D</sup>, *[death knell](../../magic/spells/death-knell.md)* (DC 17), *[silence](../../magic/spells/silence.md)* (DC 17), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*, *[undetectable alignment](../../magic/spells/undetectable-alignment.md)*  
+1st—*[command](../../magic/spells/command.md)* (DC 16), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*<sup>D</sup>, *[deathwatch](../../magic/spells/deathwatch.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[purify food & drink](../../magic/spells/purify-food-and-drink.md)*  
 **D** domain spell; **Domains** Evil, Healing
 
 **Statistics**

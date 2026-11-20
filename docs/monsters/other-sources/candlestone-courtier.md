@@ -21,10 +21,10 @@ NE Medium fey
 **Melee** *+1 keen rapier* +20/+15 (1d6+4/15–20)  
 **Special Attacks** spellthrust  
 **Spell-Like Abilities** (CL 19th; concentration +25)  
-Constant—*misdirection*, *see invisibility*  
-At will—*disfiguring touch* (DC 18), *disguise self*, *faerie fire*, *touch of idiocy*, *whispering wind*  
-3/day—*excruciating deformation* (DC 19), *major image* (DC 19), *sands of time*  
-1/day—*ethereal jaunt*, *phantom steed*, *shadow walk*
+Constant—*[misdirection](../../magic/spells/misdirection.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[disfiguring touch](../../magic/spells/disfiguring-touch.md)* (DC 18), *[disguise self](../../magic/spells/disguise-self.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*  
+3/day—*[excruciating deformation](../../magic/spells/excruciating-deformation.md)* (DC 19), *[major image](../../magic/spells/major-image.md)* (DC 19), *[sands of time](../../magic/spells/sands-of-time.md)*  
+1/day—*[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[phantom steed](../../magic/spells/phantom-steed.md)*, *[shadow walk](../../magic/spells/shadow-walk.md)*
 
 **Statistics**
 

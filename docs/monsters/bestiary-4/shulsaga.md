@@ -21,7 +21,7 @@ N Medium outsider (extraplanar)
 **Ranged**  mwk longbow +9 (1d8/×3)  
 **Special Attacks** astral recoil  
 **Spell-Like Abilities** (CL 3rd; concentration +1)  
-3/day—*floating disk* (see below), *shield*, *spiritual weapon*
+3/day—*[floating disk](../../magic/spells/floating-disk.md)* (see below), *[shield](../../magic/spells/shield.md)*, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*
 
 **Statistics**
 

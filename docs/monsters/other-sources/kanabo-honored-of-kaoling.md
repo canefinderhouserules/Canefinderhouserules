@@ -23,12 +23,12 @@ LE Medium outsider (goblinoid, native)
 **Ranged**  mwk composite longbow +8 (1d8+5/×3)  
 **Special Attacks** challenge 2/day (+4 damage, +2 to Intimidate)  
 **Spell-Like Abilities** (CL 4th, concentration +4)  
-3/day—*command* (DC 11), *doom*, *magic weapon*  
-1/day—*bull’s strength*
+3/day—*[command](../../magic/spells/command.md)* (DC 11), *[doom](../../magic/spells/doom.md)*, *[magic weapon](../../magic/spells/magic-weapon.md)*  
+1/day—*[bull’s strength](../../magic/spells/bulls-strength.md)*
 
 **Tactics**
 
-**Before Combat** The honored of Kaoling depends on his mount to track down foes. If a fight seems likely, he casts *bull’s strength* and *magic weapon*.  
+**Before Combat** The honored of Kaoling depends on his mount to track down foes. If a fight seems likely, he casts *[bull’s strength](../../magic/spells/bulls-strength.md)* and *[magic weapon](../../magic/spells/magic-weapon.md)*.  
  **During Combat** The honored of Kaoling moves to be adjacent to the most powerful foe as soon as possible, preferring to fight in melee without his mount. If this isn’t a realistic option, he remains mounted and uses his longbow. If badly injured, the honored of Kaoling seeks to fall back long enough for his regeneration to heal him.
 
 **Statistics**

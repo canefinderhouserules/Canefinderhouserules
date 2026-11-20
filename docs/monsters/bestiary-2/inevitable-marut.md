@@ -22,10 +22,10 @@ LN Large outsider (extraplanar, inevitable, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** fists of lightning and thunder  
 **Spell-Like Abilities** (CL 16th; concentration +23)  
-Constant—*air walk*, *true seeing*  
-At will—*dimension door*, *fear* (DC 21), *greater command* (DC 22), *greater dispel magic*, *mass inflict light wounds* (DC 22), *locate creature*  
-1/day—*chain lightning* (DC 23), *circle of death* (DC 23), *mark of justice*, *wall of force*  
-1/week—*earthquake* (DC 25), *geas/quest*, *plane shift* (DC 22)
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[dimension door](../../magic/spells/dimension-door.md)*, *[fear* ](../../magic/spells/fear.md)(DC 21), *[greater command* ](../../magic/spells/command-greater.md)(DC 22), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[mass inflict light wounds* ](../../magic/spells/inflict-light-wounds-mass.md)(DC 22), *[locate creature](../../magic/spells/locate-creature.md)*  
+1/day—*[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 23), *[circle of death* ](../../magic/spells/circle-of-death.md)(DC 23), *[mark of justice](../../magic/spells/mark-of-justice.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+1/week—*[earthquake* ](../../magic/spells/earthquake.md)(DC 25), *[geas/quest](../../magic/spells/geas-quest.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(DC 22)
 
 **Statistics**
 

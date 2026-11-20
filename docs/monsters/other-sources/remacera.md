@@ -22,7 +22,7 @@ CN Large fey
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** new growth, reincarnation  
 **Spell-Like Abilities** (CL 5th; concentration +6)  
-3/day—*plant growth*
+3/day—*[plant growth](../../magic/spells/plant-growth.md)*
 
 **Statistics**
 

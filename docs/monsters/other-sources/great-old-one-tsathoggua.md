@@ -23,21 +23,21 @@ CE Large aberration (chaotic, evil, Great Old One)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** constrict (4d6+25), consume spellcaster, create spawn, feed, mythic power (10/day, surge +1d12), outcast’s dreams  
 **Spell-Like Abilities** (CL 29th; concentration +41)  
-Constant—*air walk*, *freedom of movement*, *tongues*, *true seeing*  
-At will—*astral projection*, *dimension door*<sup>M</sup>, *dream*<sup>M</sup>, *greater dispel magic*, *insanity* (DC 29), *nightmare*<sup>M</sup> (DC 27), *sending*<sup>M</sup>  
-3/day—*demand* (DC 30), quickened *feeblemind* (DC 27), *hungry pit* (DC 27), *power word stun*  
-1/day—*maze*, *weird* (DC 31), *wish*<sup>M</sup>  
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[tongues](../../magic/spells/tongues.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[astral projection](../../magic/spells/astral-projection.md)*, *[dimension door](../../magic/spells/dimension-door.md)*<sup>M</sup>, *[dream](../../magic/spells/dream.md)*<sup>M</sup>, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[insanity](../../magic/spells/insanity.md)* (DC 29), *[nightmare](../../magic/spells/nightmare.md)*<sup>M</sup> (DC 27), *[sending](../../magic/spells/sending.md)*<sup>M</sup>  
+3/day—*[demand](../../magic/spells/demand.md)* (DC 30), quickened *[feeblemind](../../magic/spells/feeblemind.md)* (DC 27), *[hungry pit](../../magic/spells/hungry-pit.md)* (DC 27), *[power word stun](../../magic/spells/power-word-stun.md)*  
+1/day—*[maze](../../magic/spells/maze.md)*, *[weird](../../magic/spells/weird.md)* (DC 31), *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 **Spells Known** (CL 29th; concentration +41)  
-9th (7/day)—*imprisonment* (DC 31), *time stop*  
-8th (8/day)—*polymorph any object* (DC 30), *prismatic wall* (DC 30)  
-7th (8/day)—*greater teleport*, *word of chaos* (DC 29)  
-6th (8/day)—*heal*, *word of recall*  
-5th (8/day)—*dominate person* (DC 27), *wall of force*  
-4th (9/day)—*black tentacles*, *greater magic fang*  
-3rd (9/day)—*displacement*, *fly*  
-2nd (9/day)—*command undead* (DC 24), *invisibility*  
-1st (9/day)—*mage armor*, *reduce person* (DC 23)  
-0 (at will)—*arcane mark*, *bleed*, *dancing lights*, *detect magic*, *ghost sound* (DC 22), *prestidigitation*
+9th (7/day)—*[imprisonment](../../magic/spells/imprisonment.md)* (DC 31), *[time stop](../../magic/spells/time-stop.md)*  
+8th (8/day)—*[polymorph any object](../../magic/spells/polymorph-any-object.md)* (DC 30), *[prismatic wall](../../magic/spells/prismatic-wall.md)* (DC 30)  
+7th (8/day)—*[greater teleport](../../magic/spells/teleport-greater.md)*, *[word of chaos](../../magic/spells/word-of-chaos.md)* (DC 29)  
+6th (8/day)—*[heal](../../magic/spells/heal.md)*, *[word of recall](../../magic/spells/word-of-recall.md)*  
+5th (8/day)—*[dominate person](../../magic/spells/dominate-person.md)* (DC 27), *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th (9/day)—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[greater magic fang](../../magic/spells/magic-fang-greater.md)*  
+3rd (9/day)—*[displacement](../../magic/spells/displacement.md)*, *[fly](../../magic/spells/fly.md)*  
+2nd (9/day)—*[command undead](../../magic/spells/command-undead.md)* (DC 24), *[invisibility](../../magic/spells/invisibility.md)*  
+1st (9/day)—*[mage armor](../../magic/spells/mage-armor.md)*, *[reduce person](../../magic/spells/reduce-person.md)* (DC 23)  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[bleed](../../magic/spells/bleed.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 22), *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

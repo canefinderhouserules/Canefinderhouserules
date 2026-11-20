@@ -21,10 +21,10 @@ LN Gargantuan outsider
 **Melee** 6 talons +32 (2d8+10/19–20 plus stasis)  
 **Space** 20 ft., **Reach** 30 ft.  
 **Spell-Like Abilities** (CL 20th; concentration +25)  
-Constant—*air walk*, *freedom of movement*, *true seeing*  
-At will—*control weather*, *plane shift* (DC 22), *telekinesis* (DC 20)  
-3/day—*call lightning storm* (DC 21), *earthquake* (DC 22), quickened *teleport*, *sirocco* (DC 21), *vortex* (DC 22), *whirlwind* (DC 23)  
-1/day—*meteor swarm* (DC 24), *storm of vengeance* (DC 24), *time stop*, *tsunami* (DC 24)
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[control weather](../../magic/spells/control-weather.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(DC 22), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 20)  
+3/day—*[call lightning storm* ](../../magic/spells/call-lightning-storm.md)(DC 21), *[earthquake* ](../../magic/spells/earthquake.md)(DC 22), quickened *[teleport](../../magic/spells/teleport.md)*, *[sirocco* ](../../magic/spells/sirocco.md)(DC 21), *[vortex* ](../../magic/spells/vortex.md)(DC 22), *[whirlwind* ](../../magic/spells/whirlwind.md)(DC 23)  
+1/day—*[meteor swarm](../../magic/spells/meteor-swarm.md)* (DC 24), *[storm of vengeance* ](../../magic/spells/storm-of-vengeance.md)(DC 24), *[time stop](../../magic/spells/time-stop.md)*, *[tsunami* ](../../magic/spells/tsunami.md)(DC 24)
 
 **Statistics**
 

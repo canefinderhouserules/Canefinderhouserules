@@ -25,16 +25,16 @@ LE Medium humanoid (human)
 3/day—grasp of the dead (20d6 slashing, DC 28)  
 1/day—incorporeal form (20 rounds)  
 **Sorcerer Spells Known** (CL 20th; concentration +28)  
-9th (6/day)—*energy drain* (DC 29), *imprisonment* (DC 27), *power word kill*, *wail of the banshee* (DC 29)  
-8th (7/day)—*create greater undead*, *horrid wilting* (DC 28), *polar ray*, *protection from spells*  
-7th (7/day)—*finger of death* (DC 27), *mass hold person* (DC 25), *prismatic spray*, *waves of exhaustion*  
-6th (7/day)—*circle of death* (DC 26), *create undead*, *flesh to stone* (DC 24), *undeath to death* (DC 26)  
-5th (7/day)—*cloudkill* (DC 23), *cone of cold* (DC 23), *dominate person* (DC 23), *teleport*, *waves of fatigue*  
-4th (8/day)—*animate dead*, *contagion* (DC 24), *crushing despair* (DC 22), *solid fog*, *wall of ice* (DC 22)  
-3rd (8/day)—*dispel magic*, *fireball* (DC 21), *gaseous form*, *ray of exhaustion* (DC 23), *vampiric touch*  
-2nd (8/day)—*blindness/deafness* (DC 22), *false life*, *invisibility*, *mirror image*, *scorching ray*, *spectral hand*  
-1st (8/day)—*chill touch* (DC 21), *mage armor*, *magic missile*, *ray of enfeeblement* (DC 21), *shield*, *shocking grasp*  
-0 (at will)—*acid splash*, *bleed* (DC 20), *detect magic*, *disrupt undead*, *ghost sound* (DC 18), *prestidigitation*, *ray of frost*, *read magic*, *touch of fatigue* (DC 20)  
+9th (6/day)—*[energy drain* ](../../magic/spells/energy-drain.md)(DC 29), *[imprisonment* ](../../magic/spells/imprisonment.md)(DC 27), *[power word kill](../../magic/spells/power-word-kill.md)*, *[wail of the banshee* ](../../magic/spells/wail-of-the-banshee.md)(DC 29)  
+8th (7/day)—*[create greater undead](../../magic/spells/create-greater-undead.md)*, *[horrid wilting* ](../../magic/spells/horrid-wilting.md)(DC 28), *[polar ray](../../magic/spells/polar-ray.md)*, *[protection from spells](../../magic/spells/protection-from-spells.md)*  
+7th (7/day)—*[finger of death* ](../../magic/spells/finger-of-death.md)(DC 27), *[mass hold person* ](../../magic/spells/hold-person-mass.md)(DC 25), *[prismatic spray](../../magic/spells/prismatic-spray.md)*, *[waves of exhaustion](../../magic/spells/waves-of-exhaustion.md)*  
+6th (7/day)—*[circle of death* ](../../magic/spells/circle-of-death.md)(DC 26), *[create undead](../../magic/spells/create-undead.md)*, *[flesh to stone* ](../../magic/spells/flesh-to-stone.md)(DC 24), *[undeath to death* ](../../magic/spells/undeath-to-death.md)(DC 26)  
+5th (7/day)—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 23), *[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 23), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 23), *[teleport](../../magic/spells/teleport.md)*, *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*  
+4th (8/day)—*[animate dead](../../magic/spells/animate-dead.md)*, *[contagion* ](../../magic/spells/contagion.md)(DC 24), *[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 22), *[solid fog](../../magic/spells/solid-fog.md)*, *[wall of ice* ](../../magic/spells/wall-of-ice.md)(DC 22)  
+3rd (8/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 21), *[gaseous form](../../magic/spells/gaseous-form.md)*, *[ray of exhaustion* ](../../magic/spells/ray-of-exhaustion.md)(DC 23), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd (8/day)—*[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 22), *[false life](../../magic/spells/false-life.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[spectral hand](../../magic/spells/spectral-hand.md)*  
+1st (8/day)—*[chill touch* ](../../magic/spells/chill-touch.md)(DC 21), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 21), *[shield](../../magic/spells/shield.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 20), *[detect magic](../../magic/spells/detect-magic.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 18), *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 20)  
 **Bloodline** undead
 
 **Tactics**

@@ -23,16 +23,16 @@ CG Huge dragon (earth)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (100-ft. line, DC 28, 20d6 acid), crush, mass laughter, slow breath  
 **Spell-Like Abilities** (CL 23rd)  
-At will—*grease* (DC 17), *hideous laughter* (DC 18), *stone shape*, *transmute mud to rock*, *transmute rock to mud*, *wall of stone*  
+At will—*[grease* ](../../magic/spells/grease.md)(DC 17), *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 18), *[stone shape](../../magic/spells/stone-shape.md)*, *[transmute mud to rock](../../magic/spells/transmute-mud-to-rock.md)*, *[transmute rock to mud](../../magic/spells/transmute-rock-to-mud.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
 **Spells Known** (CL 15th)  
-7th (4/day)—*reverse gravity*, *teleport object* (DC 23)  
-6th (7/day)—*antimagic field*, *mislead*, *programmed image* (DC 23)  
-5th (7/day)—*mind fog* (DC 21), *polymorph*, *sending*, *teleport*  
-4th (7/day)—*confusion*, *rainbow pattern*, *stone shape*, *stoneskin*  
-3rd (7/day)—*dispel magic*, *haste*, *suggestion* (DC 19), *tongues*  
-2nd (7/day)—*glitterdust* (DC 18), *invisibility*, *phantom trap*, *pyrotechnics*, *see invisibility*  
-1st (8/day)—*expeditious retreat*, *magic aura*, *obscuring mist*, *shield*, *silent image* (DC 18)  
-0 (at will)—*dancing lights*, *detect magic*, *ghost sound* (DC 17), *light*, *mage hand*, *message*, *open/close*, *prestidigitation*, *read magic*
+7th (4/day)—*[reverse gravity](../../magic/spells/reverse-gravity.md)*, *[teleport object* ](../../magic/spells/teleport-object.md)(DC 23)  
+6th (7/day)—*[antimagic field](../../magic/spells/antimagic-field.md)*, *[mislead](../../magic/spells/mislead.md)*, *[programmed image* ](../../magic/spells/programmed-image.md)(DC 23)  
+5th (7/day)—*[mind fog* ](../../magic/spells/mind-fog.md)(DC 21), *[polymorph](../../magic/spells/polymorph.md)*, *[sending](../../magic/spells/sending.md)*, *[teleport](../../magic/spells/teleport.md)*  
+4th (7/day)—*[confusion](../../magic/spells/confusion.md)*, *[rainbow pattern](../../magic/spells/rainbow-pattern.md)*, *[stone shape](../../magic/spells/stone-shape.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[haste](../../magic/spells/haste.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 19), *[tongues](../../magic/spells/tongues.md)*  
+2nd (7/day)—*[glitterdust* ](../../magic/spells/glitterdust.md)(DC 18), *[invisibility](../../magic/spells/invisibility.md)*, *[phantom trap](../../magic/spells/phantom-trap.md)*, *[pyrotechnics](../../magic/spells/pyrotechnics.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (8/day)—*[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[magic aura](../../magic/spells/magic-aura.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield](../../magic/spells/shield.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 18)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 17), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

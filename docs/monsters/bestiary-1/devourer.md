@@ -22,7 +22,7 @@ NE Large undead (extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** devour soul, energy drain (1 level, DC 20)  
 **Spell-Like Abilities** (CL 18th)  
-At will—*animate dead*, *bestow curse* (DC 19), *confusion* (DC 19), *control undead* (DC 22), *death knell* (DC 17), *ghoul touch* (DC 17), *inflict serious wounds* (DC 18), *lesser planar ally*, *ray of enfeeblement*, *spectral hand*, *suggestion* (DC 18), *true seeing*, *vampiric touch* (DC 18)
+At will—*[animate dead](../../magic/spells/animate-dead.md)*, *[bestow curse](../../magic/spells/bestow-curse.md)* (DC 19), *[confusion](../../magic/spells/confusion.md)* (DC 19), *[control undead](../../magic/spells/control-undead.md)* (DC 22), *[death knell](../../magic/spells/death-knell.md)* (DC 17), *[ghoul touch](../../magic/spells/ghoul-touch.md)* (DC 17), *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)* (DC 18), *[lesser planar ally](../../magic/spells/planar-ally-lesser.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)*, *[spectral hand](../../magic/spells/spectral-hand.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 18), *[true seeing](../../magic/spells/true-seeing.md)*, *[vampiric touch](../../magic/spells/vampiric-touch.md)* (DC 18)
 
 **Statistics**
 

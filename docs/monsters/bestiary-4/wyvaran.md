@@ -23,8 +23,8 @@ LN Medium dragon
 **Spell-Like Abilities** (CL 1st; concentration +3)  
 6/day—lightning arc (1d6 electricity)  
 **Inquisitor Spells Known** (CL 1st; concentration +3)  
-1st (2/day)—*cause fear* (DC 15), *shield of faith*  
-0 (at will)—*acid splash*, *daze* (DC 14), *disrupt undead*, *guidance*  
+1st (2/day)—*[cause fear](../../magic/spells/cause-fear.md)* (DC 15), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[daze](../../magic/spells/daze.md)* (DC 14), *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[guidance](../../magic/spells/guidance.md)*  
 **Domain** Air
 
 **Statistics**

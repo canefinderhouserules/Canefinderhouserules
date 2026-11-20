@@ -25,12 +25,12 @@ NE Medium humanoid (dwarf)
 At will—elemental wall (9 rounds/day)  
 7/day—force missile (1d4+4)  
 **Evoker Spells Prepared** (CL 9th; concentration +13)  
-5th—*cone of cold* (DC 20), *transmute rock to mud*  
-4th—empowered *acid arrow*, *greater invisibility*, *resilient sphere* (DC 19), *stone shape*  
-3rd—*dispel magic*, *fireball* (DC 18), *gaseous form*, *ray of exhaustion* (DC 17), *stinking cloud* (DC 17)  
-2nd—*acid arrow*, *bear’s endurance*, *protection from energy*, *scorching ray*, *spider climb*, *summon swarm*  
-1st—*burning hands* (2, DC 16), *color spray* (DC 15), *feather fall*, *mage armor*, *ray of enfeeblement* (DC 15)  
-0 (at will)—*acid splash*, *dancing lights*, *detect magic*, *mage hand*  
+5th—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 20), *[transmute rock to mud](../../magic/spells/transmute-rock-to-mud.md)*  
+4th—empowered *[acid arrow](../../magic/spells/acid-arrow.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[resilient sphere* ](../../magic/spells/resilient-sphere.md)(DC 19), *[stone shape](../../magic/spells/stone-shape.md)*  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 18), *[gaseous form](../../magic/spells/gaseous-form.md)*, *[ray of exhaustion* ](../../magic/spells/ray-of-exhaustion.md)(DC 17), *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 17)  
+2nd—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[spider climb](../../magic/spells/spider-climb.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st—*[burning hands* ](../../magic/spells/burning-hands.md)(2, DC 16), *[color spray* ](../../magic/spells/color-spray.md)(DC 15), *[feather fall](../../magic/spells/feather-fall.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 15)  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*  
 **Opposition Schools** enchantment, necromancy
 
 **Tactics**

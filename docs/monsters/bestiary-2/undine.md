@@ -23,13 +23,13 @@ N Medium outsider (native)
 **Ranged**  sling +2 (1d4)  
 **Special Attacks** channel positive energy 7/day (DC 12, 1d6)  
 **Spell-Like Abilities** (CL 1st; concentration +3)  
-1/day—*hydraulic push*  
+1/day—*[hydraulic push](../../magic/spells/hydraulic-push.md)*  
  **Domain Spell-Like Abilities** (CL 1st; concentration +4)  
  6/day—dazing touch  
  6/day—icicle (1d6+1 cold damage)  
 **Cleric Spells Prepared** (CL 1st; concentration +4)  
-1st—*bless*, *charm person*, *divine favor*  
-0 (at will)—*create water*, *guidance*, *stabilize*  
+1st—*[bless](../../magic/spells/bless.md)*, *[charm person](../../magic/spells/charm-person.md)*, *[divine favor](../../magic/spells/divine-favor.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[guidance](../../magic/spells/guidance.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domains** Charm, Water
 
 **Statistics**

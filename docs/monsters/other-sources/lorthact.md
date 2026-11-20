@@ -22,10 +22,10 @@ LE Medium outsider (devil, evil, extraplanar, lawful)
 **Melee** 2 claws +44 (1d6+6 plus 1 Int drain) or *+2 quarterstaff* +40/+35/+30/+25 (1d6+11 plus 1 Intelligence drain)  
 **Special Attacks** Intelligence drain, scholastic masquerade, spell reservoir  
 **Spell-Like Abilities** (CL 25th; concentration +38)  
-Constant—*mind blank*, *tongues*, *true seeing*  
-At will—*alter self*, *blasphemy* (DC 30), *dominate person* (DC 28), *freedom of movement*, *greater arcane sight*, *greater dispel magic*, *greater invisibility*, *greater scrying* (DC 30), *greater shadow conjuration* (DC 30), *greater shadow evocation* (DC 31), *greater teleport*, *mass suggestion* (DC 29), *programmed image* (DC 29), *unholy aura* (DC 31)  
-3/day—*banishment* (DC 29), quickened *greater dispel magic*, empowered *horrid wilting* (DC 31), *polymorph any object* (DC 31), *spell turning*  
-1/day—*dominate monster* (DC 32), *limited wish*, *mage’s disjunction* (DC 32), *prismatic sphere*, *time stop*
+Constant—*[mind blank](../../magic/spells/mind-blank.md)*, *[tongues](../../magic/spells/tongues.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[alter self](../../magic/spells/alter-self.md)*, *[blasphemy* ](../../magic/spells/blasphemy.md)(DC 30), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 28), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[greater arcane sight](../../magic/spells/arcane-sight-greater.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[greater scrying* ](../../magic/spells/scrying-greater.md)(DC 30), *[greater shadow conjuration* ](../../magic/spells/shadow-conjuration-greater.md)(DC 30), *[greater shadow evocation* ](../../magic/spells/shadow-evocation-greater.md)(DC 31), *[greater teleport](../../magic/spells/teleport-greater.md)*, *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 29), *[programmed image* ](../../magic/spells/programmed-image.md)(DC 29), *[unholy aura* ](../../magic/spells/unholy-aura.md)(DC 31)  
+3/day—*[banishment* ](../../magic/spells/banishment.md)(DC 29), quickened *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, empowered *[horrid wilting* ](../../magic/spells/horrid-wilting.md)(DC 31), *[polymorph any object* ](../../magic/spells/polymorph-any-object.md)(DC 31), *[spell turning](../../magic/spells/spell-turning.md)*  
+1/day—*[dominate monster* ](../../magic/spells/dominate-monster.md)(DC 32), *[limited wish](../../magic/spells/limited-wish.md)*, *[mage’s disjunction* ](../../magic/spells/mages-disjunction.md)(DC 32), *[prismatic sphere](../../magic/spells/prismatic-sphere.md)*, *[time stop](../../magic/spells/time-stop.md)*
 
 **Statistics**
 

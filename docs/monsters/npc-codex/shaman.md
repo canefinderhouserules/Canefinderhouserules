@@ -22,12 +22,12 @@ NE Medium humanoid (human, orc)
 **Melee** dagger +0 (1d4–1/19–20)  
 **Ranged**  dart +0 (1d4–1)  
 **Adept Spells Prepared** (CL 2nd; concentration +4)  
-1st—*burning hands* (DC 13), *sleep* (DC 13)  
-0 (at will)—*ghost sound* (DC 12), *read magic*, *touch of fatigue* (DC 12)
+1st—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 13), *[sleep* ](../../magic/spells/sleep.md)(DC 13)  
+0 (at will)—*[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 12), *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 12)
 
 **Tactics**
 
-**During Combat** If fighting foes that lack darkvision, the adept reads his *scroll of darkness*. He looks for groups to target with *burning hands* or *sleep*, resorting to darts or alchemist’s fire otherwise.
+**During Combat** If fighting foes that lack darkvision, the adept reads his *scroll of darkness*. He looks for groups to target with *[burning hands* ](../../magic/spells/burning-hands.md)or *[sleep](../../magic/spells/sleep.md)*, resorting to darts or alchemist’s fire otherwise.
 
 **Statistics**
 

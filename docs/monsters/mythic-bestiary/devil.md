@@ -23,9 +23,9 @@ LE Large outsider (devil, evil, extraplanar, lawful, mythic)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** bleed (1d6), bone eruption, mythic power (4/day, surge +1d8), pain blast, pounce, rend (2 claws, 1d8+10)  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-Constant—*fly*  
-At will—*dimensional anchor*, *greater teleport* (self plus 50 lbs. of objects only), *invisibility* (self only), *major image* (DC 17), *wall of ice*  
-3/day—quickened *invisibility* (self only)  
+Constant—*[fly](../../magic/spells/fly.md)*  
+At will—*[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[invisibility](../../magic/spells/invisibility.md)* (self only), *[major image](../../magic/spells/major-image.md)* (DC 17), *[wall of ice](../../magic/spells/wall-of-ice.md)*  
+3/day—quickened *[invisibility](../../magic/spells/invisibility.md)* (self only)  
 1/day—summon (level 4, 1 bone devil 35%)
 
 **Statistics**

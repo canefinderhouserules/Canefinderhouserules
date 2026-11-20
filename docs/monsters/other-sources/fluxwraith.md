@@ -22,9 +22,9 @@ NE Medium undead (incorporeal)
 **Melee** incorporeal touch +28 (15d6 plus time shift)  
 **Special Attacks** temporal madness, time shift  
 **Spell-Like Abilities** (CL 20th; concentration +26)  
-At will—*arcane sight*, *deja vu*, *haste*  
-3/day—quickened *deja vu*, *hold monster* (DC 21), *mirror image*, *temporal stasis* (DC 24)  
-1/day—*time stop* (DC 25)
+At will—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[deja vu](../../magic/spells/deja-vu.md)*, *[haste](../../magic/spells/haste.md)*  
+3/day—quickened *[deja vu](../../magic/spells/deja-vu.md)*, *[hold monster](../../magic/spells/hold-monster.md)* (DC 21), *[mirror image](../../magic/spells/mirror-image.md)*, *[temporal stasis](../../magic/spells/temporal-stasis.md)* (DC 24)  
+1/day—*[time stop](../../magic/spells/time-stop.md)* (DC 25)
 
 **Statistics**
 

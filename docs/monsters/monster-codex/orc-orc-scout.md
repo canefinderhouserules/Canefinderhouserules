@@ -24,7 +24,7 @@ CE Medium humanoid (orc)
 **Ranged**  *+1 composite shortbow* +10/+5 (1d6+4/×3)  
 **Special Attacks** combat style (archery), favored enemy (dwarves +4, humans +2)  
 **Ranger Spells Prepared** (CL 3rd; concentration +4)  
-1st—*longstrider*, *pass without trace*
+1st—*[longstrider](../../magic/spells/longstrider.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*
 
 **Statistics**
 

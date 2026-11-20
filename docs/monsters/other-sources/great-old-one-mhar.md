@@ -23,9 +23,9 @@ CE Colossal aberration (chaotic, evil, Great Old One)
 **Space** 50 ft., **Reach** 50 ft.  
 **Special Attacks** mythic power (10/day, surge +1d12), taphophobic dreams, volcanic tempest  
 **Spell-Like Abilities** (CL 32nd; concentration +41)  
-At will—*dimension door*<sup>M</sup>, *dream*<sup>M</sup>, *greater dispel magic*, *insanity* (DC 26), *mindwipe* (DC 23), *nightmare*<sup>M</sup> (DC 24), *synesthesia* (DC 22), *wall of fire*, *wall of stone*  
-3/day—*demand* (DC 27), *earthquake* (DC 27), quickened *feeblemind* (DC 24)  
-1/day—*meteor swarm* (DC 28), *microcosm* (DC 28), *symbol of insanity* (DC 27)
+At will—*[dimension door](../../magic/spells/dimension-door.md)*<sup>M</sup>, *[dream](../../magic/spells/dream.md)*<sup>M</sup>, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[insanity](../../magic/spells/insanity.md)* (DC 26), *[mindwipe](../../magic/spells/mindwipe.md)* (DC 23), *[nightmare](../../magic/spells/nightmare.md)*<sup>M</sup> (DC 24), *[synesthesia](../../magic/spells/synesthesia.md)* (DC 22), *[wall of fire](../../magic/spells/wall-of-fire.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+3/day—*[demand](../../magic/spells/demand.md)* (DC 27), *[earthquake](../../magic/spells/earthquake.md)* (DC 27), quickened *[feeblemind](../../magic/spells/feeblemind.md)* (DC 24)  
+1/day—*[meteor swarm](../../magic/spells/meteor-swarm.md)* (DC 28), *[microcosm](../../magic/spells/microcosm.md)* (DC 28), *[symbol of insanity](../../magic/spells/symbol-of-insanity.md)* (DC 27)
 
 **Statistics**
 

@@ -25,12 +25,12 @@ NE Medium humanoid (human)
 7/day—bleeding touch (4 rounds)  
 1/day—dispelling touch  
 **Cleric Spells Prepared** (CL 9th; concentration +13)  
-5th—*slay living*<sup>D</sup>(2, DC 21)  
-4th—*death ward*<sup>D</sup>, *freedom of movement*, *poison* (DC 20), *spell immunity*  
-3rd—*bestow curse* (DC 19), *contagion* (2, DC 19), *dispel magic*<sup>D</sup>, *prayer*  
-2nd—*bear’s endurance*, *darkness*, *death knell*<sup>D</sup>(DC 18), *delay poison* (DC 16), *desecrate*, *resist energy* (DC 16)  
-1st—*bane* (DC 15), *cause fear*<sup>D</sup>(DC 17, 2), *entropic shield*, *obscuring mist*, *protection from good*  
-0 (at will)—*bleed* (DC 16), *detect poison*, *light*, *virtue*  
+5th—*[slay living](../../magic/spells/slay-living.md)*<sup>D</sup>(2, DC 21)  
+4th—*[death ward](../../magic/spells/death-ward.md)*<sup>D</sup>, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[poison* ](../../magic/spells/poison.md)(DC 20), *[spell immunity](../../magic/spells/spell-immunity.md)*  
+3rd—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 19), *[contagion* ](../../magic/spells/contagion.md)(2, DC 19), *[dispel magic](../../magic/spells/dispel-magic.md)*<sup>D</sup>, *[prayer](../../magic/spells/prayer.md)*  
+2nd—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[darkness](../../magic/spells/darkness.md)*, *[death knell](../../magic/spells/death-knell.md)*<sup>D</sup>(DC 18), *[delay poison* ](../../magic/spells/delay-poison.md)(DC 16), *[desecrate](../../magic/spells/desecrate.md)*, *[resist energy* ](../../magic/spells/resist-energy.md)(DC 16)  
+1st—*[bane* ](../../magic/spells/bane.md)(DC 15), *[cause fear](../../magic/spells/cause-fear.md)*<sup>D</sup>(DC 17, 2), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 16), *[detect poison](../../magic/spells/detect-poison.md)*, *[light](../../magic/spells/light.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **D** Domain spell; **Domains** Death, Magic
 
 **Tactics**

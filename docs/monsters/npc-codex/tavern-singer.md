@@ -23,12 +23,12 @@ CN Medium humanoid (elf, human)
 **Ranged**  shortbow +2 (1d6/×3)  
 **Special Attacks** bardic performance 7 rounds/day (countersong, distraction, fascinate, inspire courage +1)  
 **Bard Spells Known** (CL 1st; concentration +4)  
-1st (2/day)—*grease*, *hideous laughter* (DC 14)  
-0 (at will)—*dancing lights*, *ghost sound* (DC 13), *message*, *prestidigitation*
+1st (2/day)—*[grease](../../magic/spells/grease.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 14)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Tactics**
 
-**During Combat** The bard uses *grease* to escape.
+**During Combat** The bard uses *[grease* ](../../magic/spells/grease.md)to escape.
 
 **Statistics**
 

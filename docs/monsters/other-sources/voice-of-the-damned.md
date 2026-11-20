@@ -23,10 +23,10 @@ NE Large outsider (evil, native)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** blasphemous embrace, consume, malevolence, wracking gaze  
 **Spell-Like Abilities** (CL 25th; concentration +33)  
-Constant—*detect good*, *freedom of movement*, *tongues*, *true seeing*, *unholy aura* (DC 26)  
- At will—*blasphemy* (DC 25), *dimension door*, *greater dispel magic*, *greater shadow evocation*, *greater teleport*, *legend lore*, *mirage arcana*, *persistent image*, *shapechange*, *symbol of fear* (DC 24), *telekinesis* (DC 23), *unholy blight* (DC 22)  
- 3/day—quickened *heal*, *mislead*, *symbol of insanity* (DC 26), *symbol of weakness* (DC 25)  
- 1/day—quickened *symbol of death* (DC 26), summon (level 9, 1 balor, 1 olethrodaemon, or 1 pit fiend 100%), *weird* (DC 27)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[tongues](../../magic/spells/tongues.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura](../../magic/spells/unholy-aura.md)* (DC 26)  
+ At will—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 25), *[dimension door](../../magic/spells/dimension-door.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater shadow evocation](../../magic/spells/shadow-evocation-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[legend lore](../../magic/spells/legend-lore.md)*, *[mirage arcana](../../magic/spells/mirage-arcana.md)*, *[persistent image](../../magic/spells/persistent-image.md)*, *[shapechange](../../magic/spells/shapechange.md)*, *[symbol of fear](../../magic/spells/symbol-of-fear.md)* (DC 24), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 23), *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 22)  
+ 3/day—quickened *[heal](../../magic/spells/heal.md)*, *[mislead](../../magic/spells/mislead.md)*, *[symbol of insanity](../../magic/spells/symbol-of-insanity.md)* (DC 26), *[symbol of weakness](../../magic/spells/symbol-of-weakness.md)* (DC 25)  
+ 1/day—quickened *[symbol of death](../../magic/spells/symbol-of-death.md)* (DC 26), summon (level 9, 1 balor, 1 olethrodaemon, or 1 pit fiend 100%), *[weird](../../magic/spells/weird.md)* (DC 27)
 
 **Statistics**
 

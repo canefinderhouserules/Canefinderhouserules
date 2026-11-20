@@ -23,7 +23,7 @@ ooze traits; **Resist** cold 10
 **Space** 5 ft., **Reach** 15 ft.  
 **Special Attacks** hypoxic domain, tremors  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
-1/day—*blight* (DC 20), *call lightning storm* (DC 20), *command plants* (DC 19), *dominate monster* (animals and magical beasts only, DC 24), *greater curse terrain, hallucinatory terrain* (DC 19)
+1/day—*[blight](../../magic/spells/blight.md)* (DC 20), *[call lightning storm](../../magic/spells/call-lightning-storm.md)* (DC 20), *[command plants](../../magic/spells/command-plants.md)* (DC 19), *[dominate monster](../../magic/spells/dominate-monster.md)* (animals and magical beasts only, DC 24), *greater curse terrain, hallucinatory terrain* (DC 19)
 
 **Statistics**
 

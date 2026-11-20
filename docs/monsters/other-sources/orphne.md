@@ -23,9 +23,9 @@ NE Medium fey
 **Ranged**  necrotic ray +6 (2d6 negative energy, plus 2 Con)  
 **Special Attacks** necrotic ray (2d6, DC 15)  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-Constant—*detect undead*  
-At will—*command undead*, *hide from undead* (DC 15)  
-1/day—*animate dead*
+Constant—*[detect undead](../../magic/spells/detect-undead.md)*  
+At will—*[command undead](../../magic/spells/command-undead.md)*, *[hide from undead](../../magic/spells/hide-from-undead.md)* (DC 15)  
+1/day—*[animate dead](../../magic/spells/animate-dead.md)*
 
 **Statistics**
 

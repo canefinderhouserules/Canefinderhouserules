@@ -22,10 +22,10 @@ LE Large outsider (evil, extraplanar, lawful)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** constrict (2d6+9; serpentine form only), energy drain (2 levels, DC 22), euphoric gaze (3/day; wheel form only), hypnotic wheel (DC 22; wheel form only), powerful charge (slam, 2d8+9; wheel form only)  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
-Constant—*true seeing*  
-At will—*castigate* (DC 17), *enthrall* (DC 17), *hypnotism* (DC 17), *lock gaze* (DC 16), *mage hand*  
-3/day—*mass suggestion* (DC 20), *miserable pity* (DC 18), *persistent image* (DC 19), *telekinesis* (DC 20)  
-1/day—*synapse overload* (DC 21; *Occult Adventures*)
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[castigate](../../magic/spells/castigate.md)* (DC 17), *[enthrall](../../magic/spells/enthrall.md)* (DC 17), *[hypnotism](../../magic/spells/hypnotism.md)* (DC 17), *[lock gaze](../../magic/spells/lock-gaze.md)* (DC 16), *[mage hand](../../magic/spells/mage-hand.md)*  
+3/day—*[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 20), *[miserable pity](../../magic/spells/miserable-pity.md)* (DC 18), *[persistent image](../../magic/spells/persistent-image.md)* (DC 19), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 20)  
+1/day—*[synapse overload](../../magic/spells/synapse-overload.md)* (DC 21; *Occult Adventures*)
 
 **Statistics**
 

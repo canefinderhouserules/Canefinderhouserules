@@ -22,11 +22,11 @@ LN or CN Medium outsider (extraplanar, shapechanger)
 **Melee** 2 *+2 adamantine longswords* +31/+26/+21/+16 (1d8+10/17–20)  
 **Special Attacks** curse of time, temporal manipulation  
 **Spell-Like Abilities** (CL 19th; concentration +26)  
-Constant—*freedom of movement*, *haste*, *tongues*  
-At will—*greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*disintegrate* (DC 23), quickened *dispel magic*, *geas*, *mark of justice*, *mirage arcana* (DC 22), quickened *mirror image*, *persistent image* (DC 22), quickened *slow* (DC 20)  
-1/day—*divination*, *heal*, *temporal stasis* (DC 25), *time stop*  
-1/year—*wish*
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[haste](../../magic/spells/haste.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
+3/day—*[disintegrate* ](../../magic/spells/disintegrate.md)(DC 23), quickened *[dispel magic](../../magic/spells/dispel-magic.md)*, *[geas](../../magic/spells/geas-quest.md)*, *[mark of justice](../../magic/spells/mark-of-justice.md)*, *[mirage arcana* ](../../magic/spells/mirage-arcana.md)(DC 22), quickened *[mirror image](../../magic/spells/mirror-image.md)*, *[persistent image* ](../../magic/spells/persistent-image.md)(DC 22), quickened *[slow* ](../../magic/spells/slow.md)(DC 20)  
+1/day—*[divination](../../magic/spells/divination.md)*, *[heal](../../magic/spells/heal.md)*, *[temporal stasis](../../magic/spells/temporal-stasis.md)* (DC 25), *[time stop](../../magic/spells/time-stop.md)*  
+1/year—*[wish](../../magic/spells/wish.md)*
 
 **Statistics**
 

@@ -24,17 +24,17 @@ CE Large humanoid (giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** channel negative energy 7/day (DC 19, 5d6), rock throwing (120 ft.), scythe of evil (5 rounds, 1/day)  
 **Spell-Like Abilities** (CL 12th; concentration +14)  
-3/day—*augury*, *bestow curse* (DC 16), *fog cloud*  
+3/day—*[augury](../../magic/spells/augury.md)*, *[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 16), *[fog cloud](../../magic/spells/fog-cloud.md)*  
 **Domain Spell-Like Abilities** (CL 10th; concentration +16)  
 9/day—touch of evil (5 rounds)  
 9/day—icicle (1d6+5 cold damage)  
 **Cleric Spells Prepared** (CL 10th; concentration +16)  
-5th—*ice storm*<sup>D</sup>, *insect plague*, *snake staff**, *summon monster V*  
-4th—*chaos hammer* (DC 20), *control water*<sup>D</sup>, *plague carrier*** (DC 20), *spit venom*** (DC 20), *unholy blight* (DC 20)  
-3rd—*badger’s ferocity***, *deeper darkness*, *dispel magic*, *prayer*, *water breathing*<sup>D</sup>  
-2nd—*align weapon*<sup>D</sup> (evil only), *death knell* (DC 18), *dread bolt*** (DC 18), *grace**, *hold person* (DC 18), *silence* (DC 18), *spiritual weapon*  
-1st—*cause fear* (DC 17), *doom* (DC 17), *entropic shield*, *magic stone*, *murderous command*** (DC 17), *protection from good*<sup>D</sup>, *ray of sickening*** (DC 17)  
-0 (at will)—*bleed* (DC 16), *guidance*, *read magic*, *resistance*  
+5th—*[ice storm](../../magic/spells/ice-storm.md)*<sup>D</sup>, *[insect plague](../../magic/spells/insect-plague.md)*, *[snake staff](../../magic/spells/snake-staff.md)**, *[summon monster V](../../magic/spells/summon-monster-v.md)*  
+4th—*[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 20), *[control water](../../magic/spells/control-water.md)*<sup>D</sup>, *[plague carrier](../../magic/spells/plague-carrier.md)*** (DC 20), *[spit venom](../../magic/spells/spit-venom.md)*** (DC 20), *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 20)  
+3rd—*[badger’s ferocity](../../magic/spells/badgers-ferocity.md)***, *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[prayer](../../magic/spells/prayer.md)*, *[water breathing](../../magic/spells/water-breathing.md)*<sup>D</sup>  
+2nd—*[align weapon](../../magic/spells/align-weapon.md)*<sup>D</sup> (evil only), *[death knell* ](../../magic/spells/death-knell.md)(DC 18), *[dread bolt](../../magic/spells/dread-bolt.md)*** (DC 18), *[grace](../../magic/spells/grace.md)**, *[hold person* ](../../magic/spells/hold-person.md)(DC 18), *[silence* ](../../magic/spells/silence.md)(DC 18), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 17), *[doom* ](../../magic/spells/doom.md)(DC 17), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[magic stone](../../magic/spells/magic-stone.md)*, *[murderous command](../../magic/spells/murderous-command.md)*** (DC 17), *[protection from good](../../magic/spells/protection-from-good.md)*<sup>D</sup>, *[ray of sickening](../../magic/spells/ray-of-sickening.md)*** (DC 17)  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 16), *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** Domain spell; **Domains** Evil, Water  
 * See the *Advanced Player’s Guide*.  
 ** See *Ultimate Magic*.

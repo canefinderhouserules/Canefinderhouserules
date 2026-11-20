@@ -22,9 +22,9 @@ CE Huge outsider (chaotic, evil, extraplanar, qlippoth)
 **Space** 15ft., **Reach** 15 ft. (30 ft. with claws)  
 **Special Attacks** horrific appearance (DC 21)  
 **Spell-Like Abilities** (CL 14th; concentration +18)  
-Constant—*true seeing*  
-3/day—*dimension door*, *protection from law*  
-1/day—*waves of exhaustion*
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+3/day—*[dimension door](../../magic/spells/dimension-door.md)*, *[protection from law](../../magic/spells/protection-from-law.md)*  
+1/day—*[waves of exhaustion](../../magic/spells/waves-of-exhaustion.md)*
 
 **Statistics**
 

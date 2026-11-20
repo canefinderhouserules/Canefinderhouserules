@@ -24,9 +24,9 @@ NE Large outsider (daemon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** breath of flies  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-Constant—*deathwatch*, *detect good*  
-At will—*contagion* (DC 17), *dispel magic*, *greater teleport* (self plus 50 lbs. of objects only)  
-1/day—*harm* (DC 19), summon (level 3, 1 leukodaemon only, 35%)
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*, *[detect good](../../magic/spells/detect-good.md)*  
+At will—*[contagion](../../magic/spells/contagion.md)* (DC 17), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
+1/day—*[harm](../../magic/spells/harm.md)* (DC 19), summon (level 3, 1 leukodaemon only, 35%)
 
 **Statistics**
 

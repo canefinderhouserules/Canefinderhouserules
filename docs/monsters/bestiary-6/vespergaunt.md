@@ -24,9 +24,9 @@ NE Medium ooze
 **Space** 5 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 17th; concentration +20)  
 Constant—*tongues, true seeing*  
-At will—*deeper darkness*  
-3/day—*contact other plane*  
-1/month—*wish*
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*  
+3/day—*[contact other plane](../../magic/spells/contact-other-plane.md)*  
+1/month—*[wish](../../magic/spells/wish.md)*
 
 **Statistics**
 

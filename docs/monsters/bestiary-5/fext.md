@@ -21,8 +21,8 @@ LE Medium undead
 **Melee** *+1 bastard sword* +20/+15/+10 (1d10+8/17–20) or slam +18 (1d4+10 plus energy drain)  
 **Special Attacks** energy drain (1d4 levels, DC 21)  
 **Spell-Like Abilities** (CL 15th; concentration +19)  
-At will—*death knell* (DC 16), *protection from good*, *speak with dead* (DC 17)  
-3/day—*bestow curse* (DC 17)
+At will—*[death knell](../../magic/spells/death-knell.md)* (DC 16), *[protection from good](../../magic/spells/protection-from-good.md)*, *[speak with dead](../../magic/spells/speak-with-dead.md)* (DC 17)  
+3/day—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 17)
 
 **Statistics**
 

@@ -22,9 +22,9 @@ LE Medium outsider (devil, evil, extraplanar, lawful)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with tentacle)  
 **Special Attacks** tentacle cage (4d8+10 bludgeoning, AC 17, 18 hp)  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
-Constant—*spider climb*, *true seeing*  
-At will—*alter self*, *dispel good* (DC 20), *enthrall* (DC 17), *greater teleport* (self plus 1 entrapped creature and 50 lbs. of goods only), *persistent image* (DC 20)  
-3/day—*black tentacles*, *charm monster* (DC 19)  
+Constant—*[spider climb](../../magic/spells/spider-climb.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[alter self](../../magic/spells/alter-self.md)*, *[dispel good](../../magic/spells/dispel-good.md)* (DC 20), *[enthrall* ](../../magic/spells/enthrall.md)(DC 17), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 1 entrapped creature and 50 lbs. of goods only), *[persistent image](../../magic/spells/persistent-image.md)* (DC 20)  
+3/day—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[charm monster](../../magic/spells/charm-monster.md)* (DC 19)  
 1/day—summon (level 5, 3 erinyes 65%)
 
 **Statistics**

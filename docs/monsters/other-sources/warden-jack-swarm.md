@@ -22,7 +22,7 @@ N Fine construct (swarm)
 **Space** 10 ft., **Reach** 0 ft.  
 **Special Attacks** distraction (DC 12), topple, wounding spikes  
 **Spell-Like Abilities** (CL 5th; concentration +0)  
-At will—*open/close*
+At will—*[open/close](../../magic/spells/open-close.md)*
 
 **Tactics**
 

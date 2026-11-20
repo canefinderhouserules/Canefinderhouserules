@@ -21,7 +21,7 @@ N Huge magical beast
 **Melee** bite +23 (2d6+8), 2 hooves +21 (1d8+4), tail slap +21 (2d6+4)  
 **Space** 15 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 15th; concentration +16)  
-5/day—*know direction*, *locate creature*, *purify food and drink*, *teleport*
+5/day—*[know direction](../../magic/spells/know-direction.md)*, *[locate creature](../../magic/spells/locate-creature.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[teleport](../../magic/spells/teleport.md)*
 
 **Statistics**
 

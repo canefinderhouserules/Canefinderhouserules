@@ -25,14 +25,14 @@ NE Small humanoid (gnome)
 **Spell-Like Abilities** (CL 10th; concentration +14)  
 7/day—icicle  
 **Gnome Spell-Like Abilities** (CL 10th; concentration +11)  
-1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Druid Spells Prepared** (CL 10th; concentration +14)  
-5th—*call lightning storm* (DC 19), *ice storm*<sup>D</sup>, *wall of thorns*  
-4th—*control water*<sup>D</sup>, *dispel magic*, *flame strike* (2, DC 18), *freedom of movement*  
-3rd—*call lightning* (DC 17), *cure moderate wounds*, *greater magic fang* (2), *water breathing*<sup>D</sup>  
-2nd—*barkskin* (2), *cat’s grace*, *fog cloud*<sup>D</sup>, *lesser restoration*, *resist energy*  
-1st—*cure light wounds* (2), *endure elements*, *faerie fire*, *obscuring mist*<sup>D</sup>, *speak with animals*  
-0 (at will)—*create water*, *detect poison*, *light*, *purify food and drink*  
+5th—*[call lightning storm* ](../../magic/spells/call-lightning-storm.md)(DC 19), *[ice storm](../../magic/spells/ice-storm.md)*<sup>D</sup>, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+4th—*[control water](../../magic/spells/control-water.md)*<sup>D</sup>, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(2, DC 18), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+3rd—*[call lightning* ](../../magic/spells/call-lightning.md)(DC 17), *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[greater magic fang* ](../../magic/spells/magic-fang-greater.md)(2), *[water breathing](../../magic/spells/water-breathing.md)*<sup>D</sup>  
+2nd—*[barkskin* ](../../magic/spells/barkskin.md)(2), *[cat’s grace](../../magic/spells/cats-grace.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*<sup>D</sup>, *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(2), *[endure elements](../../magic/spells/endure-elements.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*<sup>D</sup>, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[light](../../magic/spells/light.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*  
 **D** Domain spell; **Domain** Water
 
 **Tactics**

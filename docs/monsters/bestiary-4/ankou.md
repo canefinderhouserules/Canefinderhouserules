@@ -22,9 +22,9 @@ LE Large fey (extraplanar)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** bleed (2d6), cold iron killer, shadow doubles, sneak attack +3d6  
 **Spell-Like Abilities** (CL 15th; concentration +22)  
-At will—*deeper darkness*, *ray of exhaustion* (DC 20), *silence* (self only)  
-3/day—*dimensional anchor*, *greater teleport*, *true seeing*  
-1/day—*circle of death* (DC 23), *discern location*, *prismatic spray* (DC 24)
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[ray of exhaustion](../../magic/spells/ray-of-exhaustion.md)* (DC 20), *[silence](../../magic/spells/silence.md)* (self only)  
+3/day—*[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+1/day—*[circle of death](../../magic/spells/circle-of-death.md)* (DC 23), *[discern location](../../magic/spells/discern-location.md)*, *[prismatic spray](../../magic/spells/prismatic-spray.md)* (DC 24)
 
 **Statistics**
 

@@ -23,10 +23,10 @@ NE Medium undead (augmented humanoid)
 **Melee** bite +6 (1d6+4 plus disease), slam +6 (1d4+4 plus grab and wither)  
 **Special Attacks** blood drain (1d4 Constitution), create spawn, disease (filth fever, DC 15), hexes (cackle, evil eye, misfortune)  
 **Witch Spells Prepared** (CL 5th; concentration +8)  
-3rd—*dispel magic*, *stinking cloud* (DC 16)  
-2nd—*glitterdust* (DC 15), *hold person* (DC 16), *see invisibility*  
-1st—*charm person* (DC 15), *command* (DC 15), *mage armor*, *obscuring mist*  
-0 (at will)—*dancing lights*, *detect magic*, *read magic*, *touch of fatigue* (DC 13)  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 16)  
+2nd—*[glitterdust* ](../../magic/spells/glitterdust.md)(DC 15), *[hold person* ](../../magic/spells/hold-person.md)(DC 16), *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st—*[charm person* ](../../magic/spells/charm-person.md)(DC 15), *[command* ](../../magic/spells/command.md)(DC 15), *[mage armor](../../magic/spells/mage-armor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 13)  
 **Patron** Plague
 
 **Statistics**

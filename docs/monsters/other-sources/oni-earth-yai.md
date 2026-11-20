@@ -23,10 +23,10 @@ NE Large outsider (giant, native, oni, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** spiky skin  
 **Spell-Like Abilities** (CL 16th; concentration +18)  
-Constant—*fly*  
-At will—*darkness*, *invisibility* (self only), *passwall* (stone only)  
-3/day—*spike stones* (DC 16), *stone shape*, *stone tell*  
-1/day—*earthquake*, *repel metal or stone*, *transmute mud to rock* (DC 17), *transmute rock to mud* (DC 17)
+Constant—*[fly](../../magic/spells/fly.md)*  
+At will—*[darkness](../../magic/spells/darkness.md)*, *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[passwall* ](../../magic/spells/passwall.md)(stone only)  
+3/day—*[spike stones* ](../../magic/spells/spike-stones.md)(DC 16), *[stone shape](../../magic/spells/stone-shape.md)*, *[stone tell](../../magic/spells/stone-tell.md)*  
+1/day—*[earthquake](../../magic/spells/earthquake.md)*, *[repel metal or stone](../../magic/spells/repel-metal-or-stone.md)*, *[transmute mud to rock* ](../../magic/spells/transmute-mud-to-rock.md)(DC 17), *[transmute rock to mud* ](../../magic/spells/transmute-rock-to-mud.md)(DC 17)
 
 **Statistics**
 

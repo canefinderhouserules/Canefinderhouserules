@@ -22,10 +22,10 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Melee** 2 claws +31 (2d6+10/19–20), 4 talons +31 (1d8+10)  
 **Special Attacks** breaching, mirror of the tainted rift  
 **Spell-Like Abilities** (CL 20th; concentration +26)  
-Constant—*freedom of movement*, *see invisibility*  
-At will—*blink*, *dimension door*, *dimensional anchor*, *greater teleport* (self plus 50 lbs. of objects only), *plane shift* (DC 23)  
-3/day—*banishment* (DC 23), empowered *disintegrate* (DC 22), *maze*  
-1/day—*gate*, summon (level 7, 1d4 fiendish army ant swarms 50%), *summon monster IX*
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[blink](../../magic/spells/blink.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 23)  
+3/day—*[banishment* ](../../magic/spells/banishment.md)(DC 23), empowered *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 22), *[maze](../../magic/spells/maze.md)*  
+1/day—*[gate](../../magic/spells/gate.md)*, summon (level 7, 1d4 fiendish army ant swarms 50%), *[summon monster IX](../../magic/spells/summon-monster-ix.md)*
 
 **Statistics**
 

@@ -25,16 +25,16 @@ NE Large humanoid (cold, giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** rock throwing (120 ft.), snowcaster, wild shape 3/day  
 **Druid Spells Prepared** (CL 10th; concentration +16)  
-5th—*animal growth* (DC 21), *cure critical wounds*, *transmute rock to mud* (DC 21)  
-4th—*cure serious wounds*, *flame strike* (DC 21), *ice storm*, *spike stones* (DC 20)  
-3rd—*call lightning* (DC 20), *dominate animal* (DC 19), *protection from energy*, *sleet storm*  
-2nd—*animal trance* (DC 18), *barkskin*, *bull’s strength*, *chill metal*, *delay poison*, *hold animal* (DC 18)  
-1st—*charm animal* (DC 17), *entangle* (DC 17), *frostbite*, *obscuring mist*, *speak with animals* (2)  
-0 (at will)—*create water*, *detect magic*, *light*, *purify food and drink*
+5th—*[animal growth](../../magic/spells/animal-growth.md)* (DC 21), *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[transmute rock to mud](../../magic/spells/transmute-rock-to-mud.md)* (DC 21)  
+4th—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[flame strike](../../magic/spells/flame-strike.md)* (DC 21), *[ice storm](../../magic/spells/ice-storm.md)*, *[spike stones](../../magic/spells/spike-stones.md)* (DC 20)  
+3rd—*[call lightning](../../magic/spells/call-lightning.md)* (DC 20), *[dominate animal](../../magic/spells/dominate-animal.md)* (DC 19), *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[sleet storm](../../magic/spells/sleet-storm.md)*  
+2nd—*[animal trance](../../magic/spells/animal-trance.md)* (DC 18), *[barkskin](../../magic/spells/barkskin.md)*, *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[chill metal](../../magic/spells/chill-metal.md)*, *[delay poison](../../magic/spells/delay-poison.md)*, *[hold animal](../../magic/spells/hold-animal.md)* (DC 18)  
+1st—*[charm animal](../../magic/spells/charm-animal.md)* (DC 17), *[entangle](../../magic/spells/entangle.md)* (DC 17), *[frostbite](../../magic/spells/frostbite.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)* (2)  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*
 
 **Tactics**
 
-**Before Combat** The houndmaster casts *protection from energy* (fire) on herself, casts *animal growth*, *barkskin*, and *bull’s strength* on her animal companion, and then casts *call lightning*.  
+**Before Combat** The houndmaster casts *[protection from energy](../../magic/spells/protection-from-energy.md)* (fire) on herself, casts *[animal growth](../../magic/spells/animal-growth.md)*, *[barkskin](../../magic/spells/barkskin.md)*, and *[bull’s strength](../../magic/spells/bulls-strength.md)* on her animal companion, and then casts *[call lightning](../../magic/spells/call-lightning.md)*.  
  **During Combat** The houndmaster fights with axe and magic together, directing lightning bolts from *call lightning* and miring opponents with *entangle*, *sleet storm*, and *transmute rock to mud*.
 
 **Statistics**

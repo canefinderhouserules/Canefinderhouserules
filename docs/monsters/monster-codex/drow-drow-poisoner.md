@@ -24,16 +24,16 @@ CE Medium humanoid (elf)
 **Ranged**  mwk hand crossbow +15 (1d4/19–20 plus poison) or bomb +14/+9 (6d6+5 fire)  
 **Special Attacks** bomb 19/day (6d6+5 fire and catch fire, DC 21, 10-ft. radius)  
 **Spell-Like Abilities** (CL 12th; concentration +12)  
-1/day—*dancing lights*, *darkness*, *faerie fire*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[darkness](../../magic/spells/darkness.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*  
 **Alchemist Extracts Prepared**(CL 12th)  
-4th—*cure critical wounds*, *fluid form*, *greater false life*, *greater invisibility*  
-3rd—*countless eyes*, *displacement*, *eruptive pustules* (DC 18), *haste*, *protection from energy*  
-2nd—*alchemical allocation*, *resist energy* (2), *see invisibility*, *touch injection*, *vomit swarm*  
-1st—*anticipate peril* (DC 16), *bomber’s eye*, *negate aroma*, *polypurpose panacea* (DC 16), *shield*, *true strike* (2)
+4th—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[fluid form](../../magic/spells/fluid-form.md)*, *[greater false life](../../magic/spells/false-life-greater.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*  
+3rd—*[countless eyes](../../magic/spells/countless-eyes.md)*, *[displacement](../../magic/spells/displacement.md)*, *[eruptive pustules](../../magic/spells/eruptive-pustules.md)* (DC 18), *[haste](../../magic/spells/haste.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd—*[alchemical allocation](../../magic/spells/alchemical-allocation.md)*, *[resist energy](../../magic/spells/resist-energy.md)* (2), *[see invisibility](../../magic/spells/see-invisibility.md)*, *[touch injection](../../magic/spells/touch-injection.md)*, *[vomit swarm](../../magic/spells/vomit-swarm.md)*  
+1st—*[anticipate peril](../../magic/spells/anticipate-peril.md)* (DC 16), *[bomber’s eye](../../magic/spells/bombers-eye.md)*, *[negate aroma](../../magic/spells/negate-aroma.md)*, *[polypurpose panacea](../../magic/spells/polypurpose-panacea.md)* (DC 16), *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)* (2)
 
 **Tactics**
 
-**Before Combat** The poisoner drinks her Dexterity mutagen and her extracts of *anticipate peril*, *countless eyes*, and *greater invisibility*.  
+**Before Combat** The poisoner drinks her Dexterity mutagen and her extracts of *[anticipate peril](../../magic/spells/anticipate-peril.md)*, *[countless eyes](../../magic/spells/countless-eyes.md)*, and *[greater invisibility](../../magic/spells/invisibility-greater.md)*.  
  **Base Statistics** Without the Dexterity mutagen, *anticipate peril*, and *countless eyes*, the drow’s statistics are **Init** +7; **Senses** no all-around vision; **AC** 21, touch 14, flat-footed 18; Ref +12, Will +6; **Ranged** mwk hand crossbow +13 (1d4/19–20 plus poison), or bomb +12/+7 (6d6+5 fire); **Dex** 17, **Wis** 12; **CMD** 23; **Skills** Disable Device +17, Fly +11, Heal +10, Perception +18, Stealth +14, Survival +10.
 
 **Statistics**

@@ -23,15 +23,15 @@ LE Gargantuan dragon (earth)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (120-ft. line, DC 29, 20d8 electricity), crush, desert thirst (DC 27), mirage, storm breath (DC 29, 20d8 electricity), tail sweep  
 **Spell-Like Abilities** (CL 24th)  
-At will—*ghost sound* (DC 15), *hallucinatory terrain* (DC 19), *minor image* (DC 17), *veil*, *ventriloquism* (DC 16)  
+At will—*[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 15), *[hallucinatory terrain* ](../../magic/spells/hallucinatory-terrain.md)(DC 19), *[minor image* ](../../magic/spells/minor-image.md)(DC 17), *[veil](../../magic/spells/veil.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 16)  
 **Spells Known** (CL 13th)  
-6th (4/day)—*forceful hand*, *mislead*  
-5th (7/day)—*dream*, *persistent image*, *hold monster* (DC 20)  
-4th (7/day)—*dimension door*, *enervation*, *fire shield*, *stoneskin*  
-3rd (7/day)—*dispel magic*, *displacement*, *haste*, *vampiric touch*  
-2nd (7/day)—*darkness*, *false life*, *invisibility*, *resist energy*, *shatter*  
-1st (7/day)—*alarm*, *mage armor*, *shield*, *true strike*, *unseen servant*  
-0 (at will)—*arcane mark*, *bleed* (DC 15), *detect magic*, *light*, *mage hand*, *mending*, *message*, *read magic*, *resistance*
+6th (4/day)—*[forceful hand](../../magic/spells/forceful-hand.md)*, *[mislead](../../magic/spells/mislead.md)*  
+5th (7/day)—*[dream](../../magic/spells/dream.md)*, *[persistent image](../../magic/spells/persistent-image.md)*, *[hold monster* ](../../magic/spells/hold-monster.md)(DC 20)  
+4th (7/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[enervation](../../magic/spells/enervation.md)*, *[fire shield](../../magic/spells/fire-shield.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[displacement](../../magic/spells/displacement.md)*, *[haste](../../magic/spells/haste.md)*, *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd (7/day)—*[darkness](../../magic/spells/darkness.md)*, *[false life](../../magic/spells/false-life.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[shatter](../../magic/spells/shatter.md)*  
+1st (7/day)—*[alarm](../../magic/spells/alarm.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

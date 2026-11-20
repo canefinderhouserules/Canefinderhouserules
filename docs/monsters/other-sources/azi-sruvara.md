@@ -21,9 +21,9 @@ NE Huge dragon
 **Space** 15 ft., **Reach** 10 ft. (bite 15 ft.)  
 **Special Attacks** breath weapon, noxious cloud, poison  
 **Spell-Like Abilities** (CL 16th)  
-At will — *acid arrow*, *curse water*, *detect thoughts* (DC 17), *major image* (DC 18), *ventriloquism* (DC 15)  
-3/day — *blindness/deafness* (DC 17), *confusion* (DC 19), *dimension door*, *displacement* (DC 18)  
-1/day — *acid fog*, *gaseous form*
+At will — *[acid arrow](../../magic/spells/acid-arrow.md)*, *[curse water](../../magic/spells/curse-water.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[major image](../../magic/spells/major-image.md)* (DC 18), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 15)  
+3/day — *[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 17), *[confusion](../../magic/spells/confusion.md)* (DC 19), *[dimension door](../../magic/spells/dimension-door.md)*, *[displacement](../../magic/spells/displacement.md)* (DC 18)  
+1/day — *[acid fog](../../magic/spells/acid-fog.md)*, *[gaseous form](../../magic/spells/gaseous-form.md)*
 
 **Statistics**
 

@@ -24,9 +24,9 @@ NE Large outsider (daemon, evil, extraplanar, fire)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** bitter flames, corpse cremation, incandescent body, incendiary grasp, pounce, rake (2 claws +35, 1d10+11 plus 2d6 fire)  
 **Spell-Like Abilities** (CL 24th; concentration +30)  
-Constant—*blur*, *true seeing*, *unholy aura* (DC 24)  
-At will—*blistering invective* (DC 18), *dispel good* (DC 21), *fire shield*, *mass charm monster* (creatures of the fire subtype only) (DC 24)  
-3/day—empowered *fire storm* (DC 24), *incendiary cloud* (DC 24), quickened *contagious flame*, *sirocco* (DC 22)  
+Constant—*[blur](../../magic/spells/blur.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura* ](../../magic/spells/unholy-aura.md)(DC 24)  
+At will—*[blistering invective](../../magic/spells/blistering-invective.md)* (DC 18), *[dispel good* ](../../magic/spells/dispel-good.md)(DC 21), *[fire shield](../../magic/spells/fire-shield.md)*, *[mass charm monster* ](../../magic/spells/charm-monster-mass.md)(creatures of the fire subtype only) (DC 24)  
+3/day—empowered *[fire storm* ](../../magic/spells/fire-storm.md)(DC 24), *[incendiary cloud* ](../../magic/spells/incendiary-cloud.md)(DC 24), quickened *[contagious flame](../../magic/spells/contagious-flame.md)*, *[sirocco](../../magic/spells/sirocco.md)* (DC 22)  
 1/day—summon (level 9, 2 fiendish elder fire elementals or any daemon of 20 Hit Dice or fewer 100%)
 
 **Statistics**

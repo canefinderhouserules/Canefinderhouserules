@@ -25,8 +25,8 @@ plus bleed), tail slap +19 (1d8+12), 2 wings +19 (1d6+4)
 DC 22 half), corrosion, foul acid, trample (2d6+12 plus bleed, DC 25)  
 **Oracle Spells Known** (CL 1st; concentration +5)
   
-1st (4)—*bane* (DC 15), *murderous command* (DC 15)  
-0 (at will)—*bleed* (DC 14), *detect magic, read magic, resistance*
+1st (4)—*[bane](../../magic/spells/bane.md)* (DC 15), *[murderous command](../../magic/spells/murderous-command.md)* (DC 15)  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 14), *detect magic, read magic, resistance*
 
 **Statistics**
 

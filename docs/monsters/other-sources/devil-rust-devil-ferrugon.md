@@ -23,10 +23,10 @@ LE Medium outsider (devil, evil, extraplanar, lawful)
 **Ranged**  4 iron feathers +18 (1d6+6/19–20 plus disease)  
 **Special Attacks** bleed (1d4), disease, iron feathers, slashing wings, vainglorious whispers  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-Constant—*detect good*  
-At will—*detect thoughts* (DC 17), *greater teleport* (self plus 50 lbs. of objects only), *heat metal* (DC 17), *make whole*, *shatter* (DC 17), *shrink item* (DC 18)  
-3/day—*fabricate*, *major creation* (iron objects only), *rusting grasp*, *suggestion* (DC 18), *wall of iron*  
-1/day—*flesh to iron* (DC 21), summon (level 4, 1 barbed devil 50%), *sympathetic vibration*
+Constant—*[detect good](../../magic/spells/detect-good.md)*  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[heat metal](../../magic/spells/heat-metal.md)* (DC 17), *[make whole](../../magic/spells/make-whole.md)*, *[shatter](../../magic/spells/shatter.md)* (DC 17), *[shrink item](../../magic/spells/shrink-item.md)* (DC 18)  
+3/day—*[fabricate](../../magic/spells/fabricate.md)*, *[major creation](../../magic/spells/major-creation.md)* (iron objects only), *[rusting grasp](../../magic/spells/rusting-grasp.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 18), *[wall of iron](../../magic/spells/wall-of-iron.md)*  
+1/day—*flesh to iron* (DC 21), summon (level 4, 1 barbed devil 50%), *[sympathetic vibration](../../magic/spells/sympathetic-vibration.md)*
 
 **Statistics**
 

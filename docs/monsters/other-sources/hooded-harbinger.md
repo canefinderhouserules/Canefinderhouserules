@@ -23,10 +23,10 @@ CE Medium aberration
 **Space** 5 ft., **Reach** 10 ft.  
 **Special Attacks** channel negative energy 3/day (DC 21, command undead only), manifest Yellow Sign, prophetic utterance  
 **Spell-Like Abilities** (CL 15th, concentration +18)  
-Constant—*see invisibility*, *tongues*  
-At will—*detect good*, *detect law*  
-3/day—*confusion* (DC 17), *mass hold person* (DC 20), *plane shift*, *silence* (DC 15), *teleport* (self plus 50 lbs. of objects only)  
-1/day—*freedom of movement*
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*  
+3/day—*[confusion](../../magic/spells/confusion.md)* (DC 17), *[mass hold person](../../magic/spells/hold-person-mass.md)* (DC 20), *[plane shift](../../magic/spells/plane-shift.md)*, *[silence](../../magic/spells/silence.md)* (DC 15), *[teleport](../../magic/spells/teleport.md)* (self plus 50 lbs. of objects only)  
+1/day—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*
 
 **Statistics**
 

@@ -22,9 +22,9 @@ N Medium humanoid (strix)
 **Ranged**  mwk sling +7 (1d4)  
 **Special Attacks** bardic performance 16 rounds/day (countersong, distraction, fascinate [DC 15], inspire competence +2, inspire courage +2, suggestion [DC 15]), hatred  
 **Bard Spells Known** (CL 6th; concentration +8)  
-2nd (4/day)—*eagle’s splendor*, *minor image* (DC 14), *mirror image*, *summon monster II*  
-1st (5/day)—*charm person* (DC 13), *cure light wounds*, *disguise self*, *summon monster I*  
-0 (at will)—*dancing lights*, *detect magic*, *flare* (DC 12), *mending*, *prestidigitation*, *resistance*
+2nd (4/day)—*[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[minor image](../../magic/spells/minor-image.md)* (DC 14), *[mirror image](../../magic/spells/mirror-image.md)*, *[summon monster II](../../magic/spells/summon-monster-ii.md)*  
+1st (5/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 13), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[summon monster I](../../magic/spells/summon-monster-i.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[flare](../../magic/spells/flare.md)* (DC 12), *[mending](../../magic/spells/mending.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

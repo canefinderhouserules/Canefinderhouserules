@@ -23,14 +23,14 @@ LG Medium humanoid (human)
 **Ranged**  mwk composite longbow +19/+14/+9/+4 (1d8+5/×3)  
 **Special Attacks** favored enemy (aberrations +2, evil outsiders +2, humans +2, undead +8)  
 **Ranger Spells Prepared** (CL 13th; concentration +15)  
-4th—*freedom of movement*  
-3rd—*remove disease* (2)  
-2nd—*barkskin*, *owl’s wisdom*, *protection from energy* (2)  
-1st—*calm animals*, *delay poison*, *longstrider*, *resist energy*
+4th—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+3rd—*[remove disease* ](../../magic/spells/remove-disease.md)(2)  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[owl’s wisdom](../../magic/spells/owls-wisdom.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(2)  
+1st—*[calm animals](../../magic/spells/calm-animals.md)*, *[delay poison](../../magic/spells/delay-poison.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Tactics**
 
-**Before Combat** The ranger casts *barkskin*, *delay poison*, *freedom of movement*, *longstrider*, *protection from energy* (cold, fire), and *resist energy* (electricity).  
+**Before Combat** The ranger casts *[barkskin](../../magic/spells/barkskin.md)*, *[delay poison](../../magic/spells/delay-poison.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(cold, fire), and *[resist energy* ](../../magic/spells/resist-energy.md)(electricity).  
 **During Combat** The ranger allows herself to be surrounded by weak undead so she can use Great Cleave and Power Attack.  
 **Base Statistics** Without *barkskin*, *delay poison*, *longstrider*, *protection from energy*, and *resist energy*, the ranger’s statistics are **AC** 20, touch 14, flat-footed 18; **Immune** none; **Resist** none; **Speed** 30 ft.; **Skills** Acrobatics +17.
 

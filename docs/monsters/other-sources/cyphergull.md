@@ -21,8 +21,8 @@ N Tiny magical beast
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** arcane attacks, natural thief  
 **Spell-Like Abilities** (CL 3rd; concentration +2)  
-Constant—*arcane sight*, *read magic*  
-At will—*arcane mark*
+Constant—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[read magic](../../magic/spells/read-magic.md)*  
+At will—*[arcane mark](../../magic/spells/arcane-mark.md)*
 
 **Statistics**
 

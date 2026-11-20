@@ -23,12 +23,12 @@ LN Small humanoid (halfling)
 **Spell-Like Abilities** (CL 9th; concentration +12)  
 6/day—resistant touch, touch of law  
 **Cleric Spells Prepared** (CL 9th; concentration +12)  
-5th—*breath of life*, *spell resistance*<sup>D</sup>  
-4th—*discern lies* (DC 17), *divination*, *order’s wrath*<sup>D</sup>  
-3rd—*invisibility purge*, *locate object*, *magic circle against chaos*<sup>D</sup>, *magic vestment*, *remove disease*  
-2nd—*augury*, *hold person* (DC 15), *lesser restoration*, *status*, *shield other*<sup>D</sup>, *zone of truth* (DC 15)  
-1st—*bane*, *bless*, *command* (DC 14), *comprehend languages*, *obscuring mist*, *sanctuary*<sup>D</sup> (DC 14)  
-0 (at will)—*detect magic*, *detect poison*, *guidance*, *light*  
+5th—*[breath of life](../../magic/spells/breath-of-life.md)*, *[spell resistance](../../magic/spells/spell-resistance.md)*<sup>D</sup>  
+4th—*[discern lies* ](../../magic/spells/discern-lies.md)(DC 17), *[divination](../../magic/spells/divination.md)*, *[order’s wrath](../../magic/spells/orders-wrath.md)*<sup>D</sup>  
+3rd—*[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[magic circle against chaos](../../magic/spells/magic-circle-against-chaos.md)*<sup>D</sup>, *[magic vestment](../../magic/spells/magic-vestment.md)*, *[remove disease](../../magic/spells/remove-disease.md)*  
+2nd—*[augury](../../magic/spells/augury.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 15), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[status](../../magic/spells/status.md)*, *[shield other](../../magic/spells/shield-other.md)*<sup>D</sup>, *[zone of truth* ](../../magic/spells/zone-of-truth.md)(DC 15)  
+1st—*[bane](../../magic/spells/bane.md)*, *[bless](../../magic/spells/bless.md)*, *[command* ](../../magic/spells/command.md)(DC 14), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[sanctuary](../../magic/spells/sanctuary.md)*<sup>D</sup> (DC 14)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*  
 **D** Domain spell; **Domains** Law, Protection
 
 **Tactics**

@@ -24,10 +24,10 @@ CG Medium humanoid (munavri)
 **Ranged**  silver dagger +8 (1d4/19–20)  
 **Special Attacks** deeds (derring-do, dodging panache, kip-up, menacing swordplay, opportune parry and riposte, precise strike +4, swashbuckler initiative), panache (3), phrenic amplification (defensive prognostication), phrenic pool (4 points)  
 **Spell-Like Abilities** (CL 2nd; concentration +3)  
-1/day—*detect thoughts* (DC 14)  
+1/day—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 14)  
 **Psychic Spells Known** (CL 2nd; concentration +3)  
-1st (5/day)—*charm person* (DC 12), *mind thrust I* (DC 12), *true strike*  
-0 (at will)—*detect magic*, *ghost sound* (DC 11), *know direction*, *mage hand*, *mending*  
+1st (5/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 12), *[mind thrust I](../../magic/spells/mind-thrust-i.md)* (DC 12), *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 11), *[know direction](../../magic/spells/know-direction.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*  
 **Psychic Discipline** rapport
 
 **Statistics**

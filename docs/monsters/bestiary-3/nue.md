@@ -21,8 +21,8 @@ NE Large magical beast
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** energy drain (2 levels, DC 16), pounce  
 **Spell-Like Abilities** (CL 12th; concentration +12)  
-3/day—*contagion* (DC 14), *hold person* (DC 13)  
-1/day—*nightmare* (DC 15), *shout* (DC 14), *waves of fatigue*
+3/day—*[contagion* ](../../magic/spells/contagion.md)(DC 14), *[hold person* ](../../magic/spells/hold-person.md)(DC 13)  
+1/day—*[nightmare* ](../../magic/spells/nightmare.md)(DC 15), *[shout* ](../../magic/spells/shout.md)(DC 14), *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*
 
 **Statistics**
 

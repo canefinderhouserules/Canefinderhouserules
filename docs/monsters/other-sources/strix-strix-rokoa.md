@@ -23,16 +23,16 @@ LN Medium humanoid (strix)
 **Ranged**  dart +10 (1d4–1 plus 1d6 electricity)  
 **Special Attacks** hatred, hexes (air barrier, fortune, healing, wind sight, wind ward)  
 **Spell-Like Abilities** (CL 12th; concentration +12)  
-Constant—*know direction*  
-1/day—*virtue*  
+Constant—*[know direction](../../magic/spells/know-direction.md)*  
+1/day—*[virtue](../../magic/spells/virtue.md)*  
 **Shaman Spells Prepared** (CL 12th; concentration +16)  
-6th—*cone of cold* (DC 21), *greater dispel magic*, *sirocco* (DC 21)  
-5th—*baleful polymorph* (DC 19), *control winds*<sup>S</sup> (DC 19), *dominate person* (DC 19), *wall of fire*  
-4th—*air geyser* (DC 19), *cure critical wounds*, *ice storm*, *poison* (DC 18), *river of wind* (DC 19)  
-3rd—*bestow curse* (DC 17), *call lightning* (DC 18), *cloak of winds* (DC 17), *deep slumber* (DC 17), *dispel magic*, *speak with dead* (DC 17)  
-2nd—*aid*, *focused scrutiny*, *gust of wind*<sup>S</sup> (DC 17), *hold person* (DC 16), *lesser restoration*, *summon swarm*  
-1st—*alter winds* (DC 15), *bless*, *hide from animals*, *magic weapon*, *obscuring mist*, *sense spirit magic*  
-0 (at will)—*detect magic*, *guidance*, *purify food and drink* (DC 14), *read magic*  
+6th—*[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 21), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[sirocco](../../magic/spells/sirocco.md)* (DC 21)  
+5th—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 19), *[control winds](../../magic/spells/control-winds.md)*<sup>S</sup> (DC 19), *[dominate person](../../magic/spells/dominate-person.md)* (DC 19), *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+4th—*[air geyser](../../magic/spells/air-geyser.md)* (DC 19), *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[ice storm](../../magic/spells/ice-storm.md)*, *[poison](../../magic/spells/poison.md)* (DC 18), *[river of wind](../../magic/spells/river-of-wind.md)* (DC 19)  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 17), *[call lightning](../../magic/spells/call-lightning.md)* (DC 18), *[cloak of winds](../../magic/spells/cloak-of-winds.md)* (DC 17), *[deep slumber](../../magic/spells/deep-slumber.md)* (DC 17), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[speak with dead](../../magic/spells/speak-with-dead.md)* (DC 17)  
+2nd—*[aid](../../magic/spells/aid.md)*, *[focused scrutiny](../../magic/spells/focused-scrutiny.md)*, *[gust of wind](../../magic/spells/gust-of-wind.md)*<sup>S</sup> (DC 17), *[hold person](../../magic/spells/hold-person.md)* (DC 16), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st—*[alter winds](../../magic/spells/alter-winds.md)* (DC 15), *[bless](../../magic/spells/bless.md)*, *[hide from animals](../../magic/spells/hide-from-animals.md)*, *[magic weapon](../../magic/spells/magic-weapon.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[sense spirit magic](../../magic/spells/sense-spirit-magic.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)* (DC 14), *[read magic](../../magic/spells/read-magic.md)*  
 **S** spirit magic spell; **Spirit** Wind
 
 **Statistics**

@@ -28,11 +28,11 @@ vs. good creatures)
 **Spell-Like Abilities** (CL 12th; concentration +17)  
 Constant—*detect good, detect magic*  
 
-At will—*acid arrow, contagion* (DC 18), *dispel magic, greater teleport* (self plus 50 lbs. of gear only), *rage*  
+At will—*acid arrow, contagion* (DC 18), *dispel magic, greater teleport* (self plus 50 lbs. of gear only), *[rage](../../magic/spells/rage.md)*  
 
-3/day—*fireball* (DC 18), *magic missile, vampiric touch*  
+3/day—*[fireball](../../magic/spells/fireball.md)* (DC 18), *magic missile, vampiric touch*  
 
-1/day—*cleanse, mass inflict moderate wounds* (DC 21), *plane shift* (self plus 50 lbs. of gear only), *wall of thorns*
+1/day—*cleanse, mass inflict moderate wounds* (DC 21), *[plane shift](../../magic/spells/plane-shift.md)* (self plus 50 lbs. of gear only), *[wall of thorns](../../magic/spells/wall-of-thorns.md)*
 
 **Statistics**
 

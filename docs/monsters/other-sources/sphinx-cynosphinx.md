@@ -22,9 +22,9 @@ NE Large magical beast
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** devour secret lore, disease, pounce, powerful bite, trip  
 **Spell-Like Abilities** (CL 9th; concentration +11)  
-At will—*speak with dead* (DC 15)  
-3/day—*detect thoughts* (DC 14)  
-1/day—*animate dead*, *seek thoughts* (DC 15)
+At will—*[speak with dead](../../magic/spells/speak-with-dead.md)* (DC 15)  
+3/day—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 14)  
+1/day—*[animate dead](../../magic/spells/animate-dead.md)*, *[seek thoughts](../../magic/spells/seek-thoughts.md)* (DC 15)
 
 **Statistics**
 

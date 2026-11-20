@@ -22,8 +22,8 @@ CE Medium monstrous humanoid
 **Ranged**  *+1 frost longbow* +21/+16/+11 (1d8+1/×3 plus 1d6 cold)  
 **Special Attacks** captivating song, favored enemy (evil outsiders +2, humans +4)  
 **Ranger Spells Prepared** (CL 4th; concentration +6)  
-2nd—*wind wall*  
-1st—*resist energy* (2)
+2nd—*[wind wall](../../magic/spells/wind-wall.md)*  
+1st—*[resist energy](../../magic/spells/resist-energy.md)* (2)
 
 **Statistics**
 

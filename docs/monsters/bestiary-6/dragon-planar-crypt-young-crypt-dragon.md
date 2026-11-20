@@ -25,8 +25,8 @@ N Large dragon (extraplanar)
 energy, Reflex DC 21 half), decaying breath, inexorable
 attacks, rotting breath (1d2 negative levels)  
 **Oracle Spells Known** (CL 1st; concentration +4)  
-1st (4)—*sanctuary* (DC 14), *shield of faith*  
-0 (at will)—*bleed* (DC 13), *detect magic, guidance, stabilize*
+1st (4)—*[sanctuary](../../magic/spells/sanctuary.md)* (DC 14), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *detect magic, guidance, stabilize*
 
 **Statistics**
 

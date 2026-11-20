@@ -23,9 +23,9 @@ CG Large magical beast
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** powerful charge (gore, 2d8+8)  
 **Spell-Like Abilities** (CL 9th)  
-At will—*detect evil* (as free action), light  
-3/day—*cure light wounds*  
-1/day—*cure moderate wounds*, *greater teleport* (within its forest territory), *neutralize poison* (DC 21)
+At will—*[detect evil* ](../../magic/spells/detect-evil.md)(as free action), light  
+3/day—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*  
+1/day—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(within its forest territory), *[neutralize poison* ](../../magic/spells/neutralize-poison.md)(DC 21)
 
 **Statistics**
 

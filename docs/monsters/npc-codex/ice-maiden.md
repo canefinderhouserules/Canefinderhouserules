@@ -22,17 +22,17 @@ NE Medium humanoid (elf)
 **Ranged**  *+1 composite longbow* +16/+11/+6 (1d8+2/×3)  
 **Special Attacks** breath weapon (30-foot cone, 20d6 cold, DC 27, 4/day), claws (2, 1d6+1 plus 1d6 cold, magic, 10 rounds/day), dragon bite  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-2/day—*form of the dragon II* (white dragon only)  
+2/day—*[form of the dragon II* ](../../magic/spells/form-of-the-dragon-ii.md)(white dragon only)  
 **Sorcerer Spells Known** (CL 17th; concentration +24)  
-8th (4/day)—*form of the dragon III*, *polar ray*, *sunburst* (DC 27)  
-7th (7/day)—*delayed blast fireball* (DC 26), *form of the dragon II*, *mass hold person* (DC 24), *prismatic spray*  
-6th (7/day)—*control water*, *disintegrate* (DC 23), *form of the dragon I*, *freezing sphere* (DC 25)  
-5th (7/day)—*blight* (DC 22), *cone of cold* (DC 24), *dream*, *spell resistance*, *wall of force*  
-4th (7/day)—*dimension door*, *fear* (DC 21), *ice storm*, *stoneskin*, *wall of ice* (DC 23)  
-3rd (8/day)—*displacement*, *fly*, *lightning bolt* (DC 22), *sleet storm*, *vampiric touch*  
-2nd (8/day)—*darkvision*, *gust of wind* (DC 21), *invisibility*, *resist energy*, *see invisibility*, *web* (DC 19)  
-1st (8/day)—*charm person* (DC 18), *expeditious retreat*, *mage armor*, *magic missile*, *shield*, *silent image* (DC 18)  
-0 (at will)—*dancing lights*, *detect magic*, *disrupt undead*, *mage hand*, *mending*, *ray of frost*, *read magic*, *resistance*, *touch of fatigue* (DC 17)  
+8th (4/day)—*[form of the dragon III](../../magic/spells/form-of-the-dragon-iii.md)*, *[polar ray](../../magic/spells/polar-ray.md)*, *[sunburst* ](../../magic/spells/sunburst.md)(DC 27)  
+7th (7/day)—*[delayed blast fireball* ](../../magic/spells/delayed-blast-fireball.md)(DC 26), *[form of the dragon II](../../magic/spells/form-of-the-dragon-ii.md)*, *[mass hold person* ](../../magic/spells/hold-person-mass.md)(DC 24), *[prismatic spray](../../magic/spells/prismatic-spray.md)*  
+6th (7/day)—*[control water](../../magic/spells/control-water.md)*, *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 23), *[form of the dragon I](../../magic/spells/form-of-the-dragon-i.md)*, *[freezing sphere* ](../../magic/spells/freezing-sphere.md)(DC 25)  
+5th (7/day)—*[blight* ](../../magic/spells/blight.md)(DC 22), *[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 24), *[dream](../../magic/spells/dream.md)*, *[spell resistance](../../magic/spells/spell-resistance.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th (7/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[fear* ](../../magic/spells/fear.md)(DC 21), *[ice storm](../../magic/spells/ice-storm.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*, *[wall of ice* ](../../magic/spells/wall-of-ice.md)(DC 23)  
+3rd (8/day)—*[displacement](../../magic/spells/displacement.md)*, *[fly](../../magic/spells/fly.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 22), *[sleet storm](../../magic/spells/sleet-storm.md)*, *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd (8/day)—*[darkvision](../../magic/spells/darkvision.md)*, *[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 21), *[invisibility](../../magic/spells/invisibility.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[web* ](../../magic/spells/web.md)(DC 19)  
+1st (8/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 18), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 18)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 17)  
 **Bloodline** draconic (white)
 
 **Tactics**

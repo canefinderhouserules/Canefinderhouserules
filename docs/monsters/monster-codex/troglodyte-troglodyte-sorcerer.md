@@ -23,9 +23,9 @@ CE Medium humanoid (reptilian)
 **Melee** mwk club +4 (1d6), bite –2 (1d4), claw –2 (1d4) or bite +3 (1d4), 2 claws +3 (1d4)  
 **Special Attacks** claws (1d6, 6 rounds/day)  
 **Sorcerer Spells Known** (CL 4th; concentration +7)  
-2nd (4/day)—*acid arrow*  
-1st (7/day)—*cause fear* (DC 15), *corrosive touch*, *ray of enfeeblement* (DC 15), *summon monster I*  
-0 (at will)—*acid splash*, *daze* (DC 13), *detect magic*, *ghost sound* (DC 13), *mage hand*, *mending*  
+2nd (4/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*  
+1st (7/day)—*[cause fear](../../magic/spells/cause-fear.md)* (DC 15), *[corrosive touch](../../magic/spells/corrosive-touch.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 15), *[summon monster I](../../magic/spells/summon-monster-i.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[daze](../../magic/spells/daze.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*  
 **Bloodline** Abyssal
 
 **Statistics**

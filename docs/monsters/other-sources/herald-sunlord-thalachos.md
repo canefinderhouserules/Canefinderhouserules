@@ -24,9 +24,9 @@ NG Large outsider (angel, extraplanar, good, herald, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** stun  
 **Spell-Like Abilities** (CL 15th; concentration +21)  
-At will—*aid*, *continual flame*, *detect evil*, *discern lies* (DC 20), *dispel evil* (DC 21), *dispel magic*, *holy aura* (DC 24), *holy smite* (DC 20), *holy word* (DC 23), *invisibility* (self only), *plane shift* (DC 21), *remove curse*, *remove disease*, *remove fear*  
-7/day—*cure light wounds*, *daylight*, *see invisibility*  
-1/day—*blade barrier* (DC 22), *fire shield*, *flame strike* (DC 21), *heal*, *sunburst* (DC 24)
+At will—*[aid](../../magic/spells/aid.md)*, *[continual flame](../../magic/spells/continual-flame.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[discern lies* ](../../magic/spells/discern-lies.md)(DC 20), *[dispel evil* ](../../magic/spells/dispel-evil.md)(DC 21), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[holy aura* ](../../magic/spells/holy-aura.md)(DC 24), *[holy smite* ](../../magic/spells/holy-smite.md)(DC 20), *[holy word* ](../../magic/spells/holy-word.md)(DC 23), *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 21), *[remove curse](../../magic/spells/remove-curse.md)*, *[remove disease](../../magic/spells/remove-disease.md)*, *[remove fear](../../magic/spells/remove-fear.md)*  
+7/day—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[daylight](../../magic/spells/daylight.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1/day—*[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 22), *[fire shield](../../magic/spells/fire-shield.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(DC 21), *[heal](../../magic/spells/heal.md)*, *[sunburst* ](../../magic/spells/sunburst.md)(DC 24)
 
 **Statistics**
 

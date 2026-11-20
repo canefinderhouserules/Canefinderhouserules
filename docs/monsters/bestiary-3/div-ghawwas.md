@@ -23,9 +23,9 @@ NE Large outsider (aquatic, div, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** boiling sea  
 **Spell-Like Abilities** (CL 12th; concentration +14)  
-Constant—*detect good*, *detect magic*  
-At will—*control water*, *curse water*, *deeper darkness*, *dimension door*  
-3/day—*hallucinatory terrain* (DC 16), *stinking cloud* (DC 15), summon (level 6, 1 pairaka 60%), *quench* (DC 15)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[control water](../../magic/spells/control-water.md)*, *[curse water](../../magic/spells/curse-water.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[dimension door](../../magic/spells/dimension-door.md)*  
+3/day—*[hallucinatory terrain* ](../../magic/spells/hallucinatory-terrain.md)(DC 16), *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 15), summon (level 6, 1 pairaka 60%), *[quench* ](../../magic/spells/quench.md)(DC 15)
 
 **Statistics**
 

@@ -21,8 +21,8 @@ LE Medium aberration (shapechanger)
 **Melee** subsonic touch +14 (1d8 plus 12d6 sonic)  
 **Special Attacks** word of sundering  
 **Spell-Like Abilities** (CL 16th; concentration +19)  
-Constant—*mind blank*  
-3/day—*shatter* (DC 15)
+Constant—*[mind blank](../../magic/spells/mind-blank.md)*  
+3/day—*[shatter](../../magic/spells/shatter.md)* (DC 15)
 
 **Statistics**
 

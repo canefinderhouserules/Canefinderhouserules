@@ -24,13 +24,13 @@ LN Medium humanoid (human)
 **Spell-Like Abilities** (CL 11th; concentration +16)  
 8/day—grave touch (5 rounds)  
 **Necromancer Spells Prepared** (CL 11th; concentration +16)  
-6th—*create undead*, *eyebite* (DC 23)  
-5th—*baleful polymorph* (DC 20), *magic jar* (DC 22), *teleport*, *waves of fatigue*  
-4th—*animate dead*, *enervation*, *fear* (DC 21), *solid fog*, *wall of fire*  
-3rd—*blink*, *fireball* (DC 18), *fly*, *ray of exhaustion* (DC 20), *vampiric touch* (2)  
-2nd—*blindness/deafness* (DC 19), *false life*, *resist energy*, *see invisibility*, *scare* (DC 19), *scorching ray*  
-1st—*alarm*, *burning hands* (DC 16), *cause fear* (DC 18), *detect undead*, *expeditious retreat*, *mage armor*, *magic missile*  
-0 (at will)—*bleed* (DC 17), *detect magic*, *read magic*, *touch of fatigue* (DC 17)  
+6th—*[create undead](../../magic/spells/create-undead.md)*, *[eyebite* ](../../magic/spells/eyebite.md)(DC 23)  
+5th—*[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 20), *[magic jar* ](../../magic/spells/magic-jar.md)(DC 22), *[teleport](../../magic/spells/teleport.md)*, *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*  
+4th—*[animate dead](../../magic/spells/animate-dead.md)*, *[enervation](../../magic/spells/enervation.md)*, *[fear* ](../../magic/spells/fear.md)(DC 21), *[solid fog](../../magic/spells/solid-fog.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3rd—*[blink](../../magic/spells/blink.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 18), *[fly](../../magic/spells/fly.md)*, *[ray of exhaustion* ](../../magic/spells/ray-of-exhaustion.md)(DC 20), *[vampiric touch* ](../../magic/spells/vampiric-touch.md)(2)  
+2nd—*[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 19), *[false life](../../magic/spells/false-life.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[scare* ](../../magic/spells/scare.md)(DC 19), *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st—*[alarm](../../magic/spells/alarm.md)*, *[burning hands* ](../../magic/spells/burning-hands.md)(DC 16), *[cause fear* ](../../magic/spells/cause-fear.md)(DC 18), *[detect undead](../../magic/spells/detect-undead.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 17), *[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 17)  
 **Opposition Schools** enchantment, illusion
 
 **Tactics**

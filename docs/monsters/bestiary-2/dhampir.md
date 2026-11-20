@@ -21,7 +21,7 @@ CE Medium humanoid (dhampir)
 **Speed** 30 ft.  
 **Melee** rapier +4 (1d6+1/18–20)  
 **Spell-Like Abilities** (CL 1st)  
-3/day—*detect undead*
+3/day—*[detect undead](../../magic/spells/detect-undead.md)*
 
 **Statistics**
 

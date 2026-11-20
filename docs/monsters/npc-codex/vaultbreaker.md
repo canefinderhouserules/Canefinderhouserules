@@ -25,13 +25,13 @@ NE Medium humanoid (human)
 **Spell-Like Abilities** (CL 11th; concentration +16)  
 8/day—telekinetic fist  
 **Transmuter Spells Prepared** (CL 11th; concentration +16; arcane spell failure 10%)  
-6th—*antimagic field*, *disintegrate* (DC 22)  
-5th—*passwall*, *prying eyes*, *teleport*, *transmute rock to mud*  
-4th—*beast shape II*, *charm monster* (DC 19), *dimension door*, *greater invisibility*, *illusory wall* (DC 19)  
-3rd—*blink*, *dispel magic*, *fly*, *slow* (DC 19), *stinking cloud* (DC 18), *water breathing*  
-2nd—*flaming sphere* (DC 17), *invisibility*, *knock*, *levitate*, *mirror image*, *spider climb*  
-1st—*comprehend languages*, *detect secret doors*, *expeditious retreat*, *feather fall*, *obscuring mist*, *shield*, *sleep* (DC 16)  
-0 (at will)—*detect magic*, *ghost sound*, *mage hand*, *open/close*  
+6th—*[antimagic field](../../magic/spells/antimagic-field.md)*, *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 22)  
+5th—*[passwall](../../magic/spells/passwall.md)*, *[prying eyes](../../magic/spells/prying-eyes.md)*, *[teleport](../../magic/spells/teleport.md)*, *[transmute rock to mud](../../magic/spells/transmute-rock-to-mud.md)*  
+4th—*[beast shape II](../../magic/spells/beast-shape-ii.md)*, *[charm monster* ](../../magic/spells/charm-monster.md)(DC 19), *[dimension door](../../magic/spells/dimension-door.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[illusory wall* ](../../magic/spells/illusory-wall.md)(DC 19)  
+3rd—*[blink](../../magic/spells/blink.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[fly](../../magic/spells/fly.md)*, *[slow* ](../../magic/spells/slow.md)(DC 19), *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 18), *[water breathing](../../magic/spells/water-breathing.md)*  
+2nd—*[flaming sphere* ](../../magic/spells/flaming-sphere.md)(DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[knock](../../magic/spells/knock.md)*, *[levitate](../../magic/spells/levitate.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[spider climb](../../magic/spells/spider-climb.md)*  
+1st—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[detect secret doors](../../magic/spells/detect-secret-doors.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield](../../magic/spells/shield.md)*, *[sleep* ](../../magic/spells/sleep.md)(DC 16)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*  
 **Opposition Schools** evocation, necromancy
 
 **Tactics**

@@ -23,10 +23,10 @@ NE Gargantuan outsider (div, evil, extraplanar)
 **Space** 20 ft., **Reach** 20 ft. (25 ft. with tail)  
 **Special Attacks** create ghul, rend (2 claws, 2d6+18), shake faith, swallow whole (6d6+18 plus 4d6 energy damage, AC 25, 37 hp), torturous gullet, trample (2d8+18, DC 34)  
 **Spell-Like Abilities** (CL 20th; concentration +28)  
-Constant—*true seeing*  
-At will—*align weapon*, *detect magic*, *greater teleport* (self plus 50 lbs. of objects only), *magic circle against good*, *telekinesis* (DC 23)  
-3/day—*blasphemy* (DC 25), *disintegrate* (DC 24), *dispel magic*, *forcecage* (DC 25), *protection from energy*  
-1/day—*geas/quest*, *plane shift*, summon (level 6, 1d2 sepids 100%)
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[align weapon](../../magic/spells/align-weapon.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*, *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 23)  
+3/day—*[blasphemy* ](../../magic/spells/blasphemy.md)(DC 25), *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 24), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[forcecage* ](../../magic/spells/forcecage.md)(DC 25), *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+1/day—*[geas/quest](../../magic/spells/geas-quest.md)*, *[plane shift](../../magic/spells/plane-shift.md)*, summon (level 6, 1d2 sepids 100%)
 
 **Statistics**
 

@@ -25,14 +25,14 @@ LN Medium humanoid
 **Spell-Like Abilities** (CL 13th; concentration +20)  
 10/day—calming touch, inspiring word (6 rounds)  
 **Cleric Spells Prepared** (CL 13th; concentration +20)  
-7th—*dictum* (DC 24), *repulsion*<sup>D</sup> (DC 24), *summon monster VII*  
-6th—*banishment* (DC 23), *heal*, *heroes’ feast*<sup>D</sup>, *word of recall*  
-5th—*breath of life*, *flame strike* (DC 22), *summon monster V*, *telepathic bond*<sup>D</sup>, *true seeing*  
-4th—*air walk*, *dimensional anchor*, *discern lies*<sup>D</sup>, *greater magic weapon*, *order’s wrath* (DC 21), *tongues*  
-3rd—*create food and water*, *dispel magic*, *magic vestment*<sup>D</sup> (2), *prayer*, *protection from energy*, *searing light*  
-2nd—*aid*, *calm emotions* (DC 19), *enthrall*<sup>D</sup> (DC 19), *hold person* (DC 19), *sound burst* (DC 19), *spiritual weapon*, *status*  
-1st—*command* (DC 18), *comprehend languages*, *divine favor*<sup>D</sup>, *hide from undead* (DC 18), *protection from chaos*, *sanctuary* (DC 18), *shield of faith*  
-0 (at will)—*detect magic*, *guidance*, *light*, *read magic*  
+7th—*[dictum](../../magic/spells/dictum.md)* (DC 24), *[repulsion](../../magic/spells/repulsion.md)*<sup>D</sup> (DC 24), *[summon monster VII](../../magic/spells/summon-monster-vii.md)*  
+6th—*[banishment](../../magic/spells/banishment.md)* (DC 23), *[heal](../../magic/spells/heal.md)*, *[heroes’ feast](../../magic/spells/heroes-feast.md)*<sup>D</sup>, *[word of recall](../../magic/spells/word-of-recall.md)*  
+5th—*[breath of life](../../magic/spells/breath-of-life.md)*, *[flame strike](../../magic/spells/flame-strike.md)* (DC 22), *[summon monster V](../../magic/spells/summon-monster-v.md)*, *[telepathic bond](../../magic/spells/telepathic-bond.md)*<sup>D</sup>, *[true seeing](../../magic/spells/true-seeing.md)*  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[discern lies](../../magic/spells/discern-lies.md)*<sup>D</sup>, *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)*, *[order’s wrath](../../magic/spells/orders-wrath.md)* (DC 21), *[tongues](../../magic/spells/tongues.md)*  
+3rd—*[create food and water](../../magic/spells/create-food-and-water.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*<sup>D</sup> (2), *[prayer](../../magic/spells/prayer.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[searing light](../../magic/spells/searing-light.md)*  
+2nd—*[aid](../../magic/spells/aid.md)*, *[calm emotions](../../magic/spells/calm-emotions.md)* (DC 19), *[enthrall](../../magic/spells/enthrall.md)*<sup>D</sup> (DC 19), *[hold person](../../magic/spells/hold-person.md)* (DC 19), *[sound burst](../../magic/spells/sound-burst.md)* (DC 19), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*, *[status](../../magic/spells/status.md)*  
+1st—*[command](../../magic/spells/command.md)* (DC 18), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[divine favor](../../magic/spells/divine-favor.md)*<sup>D</sup>, *[hide from undead](../../magic/spells/hide-from-undead.md)* (DC 18), *[protection from chaos](../../magic/spells/protection-from-chaos.md)*, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 18), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** domain spell; **Domains** Community, Nobility
 
 **Statistics**

@@ -23,8 +23,8 @@ CE Tiny fey
 **Space** 2-1/2 ft., **Reach** 0 ft. (5 ft. with spiked chain)  
 **Special Attacks** lashing chains, malicious mischief  
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
-At will—*alter self* (Small humanoid child only), *ghost sound* (DC 12)  
-1/day—*lesser confusion* (DC 13), *murderous command* (DC 13), *rage*
+At will—*[alter self](../../magic/spells/alter-self.md)* (Small humanoid child only), *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 12)  
+1/day—*[lesser confusion](../../magic/spells/confusion-lesser.md)* (DC 13), *[murderous command](../../magic/spells/murderous-command.md)* (DC 13), *[rage](../../magic/spells/rage.md)*
 
 **Statistics**
 

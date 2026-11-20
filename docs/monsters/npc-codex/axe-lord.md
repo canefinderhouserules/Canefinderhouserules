@@ -24,16 +24,16 @@ LG Medium humanoid (dwarf)
 **Ranged**  *+1 throwing axe* +17/+12/+7/+2 (1d6+7)  
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, channel positive energy (DC 20, 9d6), smite evil 6/day (+2 attack and AC, +17 damage)  
 **Spell-Like Abilities** (CL 17th; concentration +19)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 14th; concentration +16)  
-4th—*holy sword*  
-3rd—*greater magic weapon*, *prayer*  
-2nd—*delay poison*, *eagle’s splendor* (2), *shield other*  
-1st—*bless*, *divine favor* (2), *lesser restoration*, *protection from evil*
+4th—*[holy sword](../../magic/spells/holy-sword.md)*  
+3rd—*[greater magic weapon](../../magic/spells/magic-weapon-greater.md)*, *[prayer](../../magic/spells/prayer.md)*  
+2nd—*[delay poison](../../magic/spells/delay-poison.md)*, *[eagle’s splendor* ](../../magic/spells/eagles-splendor.md)(2), *[shield other](../../magic/spells/shield-other.md)*  
+1st—*[bless](../../magic/spells/bless.md)*, *[divine favor* ](../../magic/spells/divine-favor.md)(2), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*
 
 **Tactics**
 
-**Before Combat** The paladin casts *delay poison* on himself and *greater magic weapon* on his waraxe.  
+**Before Combat** The paladin casts *[delay poison* ](../../magic/spells/delay-poison.md)on himself and *[greater magic weapon* ](../../magic/spells/magic-weapon-greater.md)on his waraxe.  
 **During Combat** The paladin uses Improved Vital Strike and Cleave if he has a few targets close together.  
 **Base Statistics** Without *delay poison* and *greater magic weapon*, the paladin’s statistics are **Immune** charm, compulsion, disease, fear; **Melee** *+1 shock dwarven waraxe* +25/+20/+15/+10 (1d10+7/19–20/×3 plus 1d6 electricity).
 

@@ -21,11 +21,11 @@ CE Small aberration
 **Melee** 4 tendrils +11 (1d4+3 plus pain touch)  
 **Special Attacks** pain touch, project terror, void transmission  
 **Spell-Like Abilities** (CL 10th; concentration +12)  
-Constant—*mage armor*  
+Constant—*[mage armor](../../magic/spells/mage-armor.md)*  
 
-At will—*detect thoughts* (DC 14), *invisibility, share memory* (DC 14)  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 14), *invisibility, share memory* (DC 14)  
 
-1/day—*modify memory* (DC 16)
+1/day—*[modify memory](../../magic/spells/modify-memory.md)* (DC 16)
 
 **Statistics**
 

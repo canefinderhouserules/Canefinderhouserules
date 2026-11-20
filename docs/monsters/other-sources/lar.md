@@ -21,9 +21,9 @@ LG Medium outsider (good, incorporeal, lawful, native)
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** suggestion  
 **Spell-Like Abilities** (CL 7th)  
-At will — *create water*, *detect evil*, *ghost sound*, *guidance*, *lullaby*, *mage hand*, *mending*, *message*, *open/close*, *prestidigitation*, *purify food and drink*  
-3/day — *bless*, *bless water*, *dancing lights*, *produce flame*, *protection from evil*, *sanctuary* (DC 13), *unseen servant*  
-1/day — *calm emotions*, *continual flame*, *gust of wind*, *pyrotechnics*, *whispering wind*
+At will — *[create water](../../magic/spells/create-water.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[guidance](../../magic/spells/guidance.md)*, *[lullaby](../../magic/spells/lullaby.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*  
+3/day — *[bless](../../magic/spells/bless.md)*, *[bless water](../../magic/spells/bless-water.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[produce flame](../../magic/spells/produce-flame.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 13), *[unseen servant](../../magic/spells/unseen-servant.md)*  
+1/day — *[calm emotions](../../magic/spells/calm-emotions.md)*, *[continual flame](../../magic/spells/continual-flame.md)*, *[gust of wind](../../magic/spells/gust-of-wind.md)*, *[pyrotechnics](../../magic/spells/pyrotechnics.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*
 
 **Statistics**
 

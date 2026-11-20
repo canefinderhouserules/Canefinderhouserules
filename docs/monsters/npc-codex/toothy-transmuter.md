@@ -21,16 +21,16 @@ CE Medium humanoid (human, orc)
 **Speed** 30 ft.  
 **Melee** *+1 greataxe* +11/+6 (1d12+5/×3)  
 **Spell-Like Abilities** (CL 12th; concentration +18)  
-At will—change shape (*beast shape III*/*elemental body II*, 12 rounds/day)  
+At will—change shape (*[beast shape III](../../magic/spells/beast-shape-iii.md)*/*[elemental body II](../../magic/spells/elemental-body-ii.md)*, 12 rounds/day)  
 9/day—telekinetic fist (1d4+6 bludgeoning)  
 **Transmuter Spells Prepared** (CL 12th; concentration +18)  
-6th—*chain lightning* (DC 22), *disintegrate* (2, DC 22), *transformation*  
-5th—*cone of cold* (DC 21), *telekinesis*, *telepathic bond*, *teleport*, *wall of stone*  
-4th—*black tentacles*, *fire shield*, *greater invisibility*, *ice storm*, *mass enlarge person* (DC 20)  
-3rd—*dispel magic*, *fly*, *haste*, *lightning bolt* (2, DC 19), *protection from energy*  
-2nd—*blur*, *bull’s strength*, *invisibility*, *levitate*, *protection from arrows*, *scorching ray*, *see invisibility*  
-1st—*burning hands* (DC 17), *feather fall*, *mage armor*, *magic missile* (2), *reduce person* (DC 17), *true strike*  
-0 (at will)—*detect magic*, *mage hand*, *message*, *read magic*  
+6th—*[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 22), *[disintegrate* ](../../magic/spells/disintegrate.md)(2, DC 22), *[transformation](../../magic/spells/transformation.md)*  
+5th—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 21), *[telekinesis](../../magic/spells/telekinesis.md)*, *[telepathic bond](../../magic/spells/telepathic-bond.md)*, *[teleport](../../magic/spells/teleport.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+4th—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[fire shield](../../magic/spells/fire-shield.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[ice storm](../../magic/spells/ice-storm.md)*, *[mass enlarge person* ](../../magic/spells/enlarge-person-mass.md)(DC 20)  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fly](../../magic/spells/fly.md)*, *[haste](../../magic/spells/haste.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(2, DC 19), *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd—*[blur](../../magic/spells/blur.md)*, *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[levitate](../../magic/spells/levitate.md)*, *[protection from arrows](../../magic/spells/protection-from-arrows.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 17), *[feather fall](../../magic/spells/feather-fall.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile* ](../../magic/spells/magic-missile.md)(2), *[reduce person* ](../../magic/spells/reduce-person.md)(DC 17), *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Opposition Schools** enchantment, necromancy
 
 **Tactics**

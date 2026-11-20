@@ -23,11 +23,11 @@ poison; **Resist** cold 10, electricity 10, sonic 10
 **Special Attacks** bewildering assault, grab (Small), look of fear
 (30 ft., DC 14), spirit touch  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-At will—*cause fear* (DC 14), *mage hand*  
+At will—*[cause fear](../../magic/spells/cause-fear.md)* (DC 14), *[mage hand](../../magic/spells/mage-hand.md)*  
 
-3/day—*mirror image*  
+3/day—*[mirror image](../../magic/spells/mirror-image.md)*  
 
-1/week—*contact other plane*
+1/week—*[contact other plane](../../magic/spells/contact-other-plane.md)*
 
 **Statistics**
 

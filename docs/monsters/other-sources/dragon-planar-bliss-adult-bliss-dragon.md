@@ -23,10 +23,10 @@ NG Huge dragon (extraplanar, good)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (100-ft. line, 12d10 electricity, DC 27), crush, peacemaker, subduing strikes  
 **Oracle Spells Known** (CL 7th; concentration +14)  
-3rd (6/day)—*dispel magic*, *wind wall*  
-2nd (8/day)—*bull’s strength*, *calm emotions* (DC 19), *status*  
-1st (8/day)—*deathwatch*, *divine favor*, *remove fear*, *sanctuary* (DC 18), *shield of faith*  
-0 (at will)—*create water*, *detect magic*, *detect poison*, *guidance*, *light*, *mending*, *stabilize*
+3rd (6/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd (8/day)—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[calm emotions](../../magic/spells/calm-emotions.md)* (DC 19), *[status](../../magic/spells/status.md)*  
+1st (8/day)—*[deathwatch](../../magic/spells/deathwatch.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 18), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

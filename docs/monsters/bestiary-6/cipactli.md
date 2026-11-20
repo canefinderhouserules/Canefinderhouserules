@@ -31,7 +31,7 @@ AC 22, 40 hp), trample (2d8+16 plus grab, DC 32)
 **Spell-Like Abilities** (CL 20th; concentration +28)  
 Constant—*air walk, mind blank, true seeing*  
 At will—*control water, control weather, transmute rock to mud*  
-3/day—*horrid wilting* (DC 26), *incendiary cloud* (DC 26), *meteor swarm* (DC 27), *polar ray, vision*
+3/day—*[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 26), *[incendiary cloud](../../magic/spells/incendiary-cloud.md)* (DC 26), *[meteor swarm](../../magic/spells/meteor-swarm.md)* (DC 27), *polar ray, vision*
 
 **Statistics**
 

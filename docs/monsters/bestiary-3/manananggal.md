@@ -22,8 +22,8 @@ CE Medium undead
 **Melee** bite +11 (1d8+4), 2 claws +12 (1d8+4 plus grab)  
 **Special Attacks** blood drain (1d2 Constitution)  
 **Spell-Like Abilities** (CL 9th; concentration +13)  
-At will—*bleed* (DC 14), *dancing lights*, *touch of fatigue* (DC 14)  
-3/day—*darkness*, *deep slumber* (DC 17), *fear* (DC 18)
+At will—*[bleed* ](../../magic/spells/bleed.md)(DC 14), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 14)  
+3/day—*[darkness](../../magic/spells/darkness.md)*, *[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 17), *[fear* ](../../magic/spells/fear.md)(DC 18)
 
 **Statistics**
 

@@ -23,14 +23,14 @@ CN Medium humanoid (elf)
 **Ranged**  *+1 longbow* +10/+5 (1d8+1/×3)  
 **Special Attacks** bardic performance 21 rounds/day (move action; countersong, dirge of doom, distraction, fascinate, inspire competence +3, inspire courage +2, *suggestion*)  
 **Bard Spells Known** (CL 8th; concentration +11)  
-3rd (3/day)—*haste* (DC 18), *major image* (DC 18), *sepia snake sigil* (DC 18)  
-2nd (5/day)—*invisibility*, *mirror image*, *shatter*, *sound burst* (DC 16)  
-1st (5/day)—*animate rope*, *disguise self*, *grease*, *lesser confusion* (DC 14), *silent image* (DC 16)  
-0 (at will)—*daze* (DC 15), *detect magic*, *light*, *mage hand*, *prestidigitation*, *read magic*
+3rd (3/day)—*[haste* ](../../magic/spells/haste.md)(DC 18), *[major image* ](../../magic/spells/major-image.md)(DC 18), *[sepia snake sigil* ](../../magic/spells/sepia-snake-sigil.md)(DC 18)  
+2nd (5/day)—*[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[shatter](../../magic/spells/shatter.md)*, *[sound burst* ](../../magic/spells/sound-burst.md)(DC 16)  
+1st (5/day)—*[animate rope](../../magic/spells/animate-rope.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[grease](../../magic/spells/grease.md)*, *[lesser confusion* ](../../magic/spells/confusion-lesser.md)(DC 14), *[silent image* ](../../magic/spells/silent-image.md)(DC 16)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Tactics**
 
-**Before Combat** The bard posts political screeds in alleys, imbuing them with sepia snake sigils to trap those reading them. If anticipating combat, the bard drinks his potion of *eagle’s splendor*.  
+**Before Combat** The bard posts political screeds in alleys, imbuing them with sepia snake sigils to trap those reading them. If anticipating combat, the bard drinks his potion of *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*.  
 **During Combat** The bard starts by casting *haste* and *mirror image*. He then shoots at opposing spellcasters or deafens them with sound burst.  
 **Base Statistics** Without *eagle’s splendor*, the bard’s statistics are **Bard Spells Known** reduce spell DCs by 2; **Cha** 17; **Skills** Bluff +10, Perform (dance) +14.
 

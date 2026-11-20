@@ -22,9 +22,9 @@ N Medium humanoid
 **Ranged**  dagger +3 (1d4/19–20)  
 **Special Attacks** hand of the apprentice (7/day)  
 **Wizard Spells Prepared** (CL 3rd; concentration +7)  
-2nd—*blindness/deafness* (DC 16), *glitterdust* (DC 16)  
-1st—*charm person* (DC 15), *color spray* (DC 15), *unseen servant*  
-0 (at will)—*arcane mark*, *mage hand*, *mending*, *prestidigitation*
+2nd—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 16), *[glitterdust](../../magic/spells/glitterdust.md)* (DC 16)  
+1st—*[charm person](../../magic/spells/charm-person.md)* (DC 15), *[color spray](../../magic/spells/color-spray.md)* (DC 15), *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

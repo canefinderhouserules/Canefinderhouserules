@@ -22,10 +22,10 @@ CE Large dragon (extraplanar)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, 6d8 neg. energy, DC 18)  
 **Spell-Like Abilities** (CL 11th; concentration +14)  
-At will—*darkness*  
+At will—*[darkness](../../magic/spells/darkness.md)*  
 **Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*inflict light wounds* (DC 14), *shield*  
-0 (at will)—*bleed* (DC 13), *detect magic*, *detect poison*, *read magic*
+1st (4/day)—*[inflict light wounds](../../magic/spells/inflict-light-wounds.md)* (DC 14), *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

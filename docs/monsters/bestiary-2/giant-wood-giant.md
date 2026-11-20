@@ -22,9 +22,9 @@ CG Large humanoid (giant)
 **Ranged**  mwk composite longbow +9/+9/+4 (2d6+5/×3)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 7th; concentration +8)  
-Constant—*pass without trace*, *speak with animals*  
-3/day—*charm animal* (DC 12), *quench*, *tree shape*  
-1/day—*enlarge person* (self only), *spike growth*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+3/day—*[charm animal* ](../../magic/spells/charm-animal.md)(DC 12), *[quench](../../magic/spells/quench.md)*, *[tree shape](../../magic/spells/tree-shape.md)*  
+1/day—*[enlarge person* ](../../magic/spells/enlarge-person.md)(self only), *[spike growth](../../magic/spells/spike-growth.md)*
 
 **Statistics**
 

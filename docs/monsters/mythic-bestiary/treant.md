@@ -24,9 +24,9 @@ NG Huge plant (mythic)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** mythic power (4/day, surge +1d8), rock throwing (180 ft.), trample (3d6+15, DC 26), druidic magic  
 **Spell-Like Abilities** (CL 10th; concentration +14; save DCs are Wisdom-based)  
-7/day—*animal messenger*, *calm animals* (DC 15), *create water*, *entangle* (DC 15), *magic fang*, *neutralize poison*, *quench* (DC 17), *sleep* (DC 15), *wind wall*, *wood shape*  
-3/day—*cure serious wounds*, *darkness*, *rusting grasp*, *shout* (DC 18), *summon nature’s ally IV*  
-1/day—*call lightning storm* (DC 19)
+7/day—*[animal messenger](../../magic/spells/animal-messenger.md)*, *[calm animals](../../magic/spells/calm-animals.md)* (DC 15), *[create water](../../magic/spells/create-water.md)*, *[entangle](../../magic/spells/entangle.md)* (DC 15), *[magic fang](../../magic/spells/magic-fang.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[quench](../../magic/spells/quench.md)* (DC 17), *[sleep](../../magic/spells/sleep.md)* (DC 15), *[wind wall](../../magic/spells/wind-wall.md)*, *[wood shape](../../magic/spells/wood-shape.md)*  
+3/day—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[darkness](../../magic/spells/darkness.md)*, *[rusting grasp](../../magic/spells/rusting-grasp.md)*, *[shout](../../magic/spells/shout.md)* (DC 18), *[summon nature’s ally IV](../../magic/spells/summon-natures-ally-iv.md)*  
+1/day—*[call lightning storm](../../magic/spells/call-lightning-storm.md)* (DC 19)
 
 **Statistics**
 

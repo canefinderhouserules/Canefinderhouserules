@@ -22,10 +22,10 @@ CE Large dragon (earth)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite and gore)  
 **Special Attacks** breath weapon (40-ft. cone, 6d6 piercing damage, DC 19)  
 **Spell-Like Abilities** (CL 11th; concentration +12)  
-At will—*pass without trace*  
+At will—*[pass without trace](../../magic/spells/pass-without-trace.md)*  
 **Spells Known** (CL 1st; concentration +12)  
-1st (4/day)—*obscuring mist*, *shield*  
-0 (at-will)—*ghost sound*, *read magic*, *resistance*, *touch of fatigue*
+1st (4/day)—*[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield](../../magic/spells/shield.md)*  
+0 (at-will)—*[ghost sound](../../magic/spells/ghost-sound.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)*
 
 **Statistics**
 

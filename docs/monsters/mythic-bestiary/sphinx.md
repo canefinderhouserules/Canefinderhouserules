@@ -22,11 +22,11 @@ N Large magical beast (mythic)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** mythic power (4/day, surge +1d8), pounce, rake (2 claws +18, 2d8+7/18–20), riddle, sphinx’s curse  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-Constant—*comprehend languages*, *detect magic*, *read magic*, *see invisibility*, *tongues*  
-At will—*statue* (self only)  
-3/day—*clairaudience/clairvoyance*, *feeblemind* (DC 20)  
-1/day—*greater dispel magic*, *legend lore*, *locate object*, *remove curse*  
-1/week—any one of the following: *symbol of fear* (DC 21), *symbol of pain* (DC 20), *symbol of persuasion* (DC 21), *symbol of sleep* (DC 20), *symbol of stunning* (DC 22); all symbols last for 1 week maximum
+Constant—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[statue](../../magic/spells/statue.md)* (self only)  
+3/day—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[feeblemind](../../magic/spells/feeblemind.md)* (DC 20)  
+1/day—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[legend lore](../../magic/spells/legend-lore.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[remove curse](../../magic/spells/remove-curse.md)*  
+1/week—any one of the following: *[symbol of fear](../../magic/spells/symbol-of-fear.md)* (DC 21), *[symbol of pain](../../magic/spells/symbol-of-pain.md)* (DC 20), *[symbol of persuasion](../../magic/spells/symbol-of-persuasion.md)* (DC 21), *[symbol of sleep](../../magic/spells/symbol-of-sleep.md)* (DC 20), *[symbol of stunning](../../magic/spells/symbol-of-stunning.md)* (DC 22); all symbols last for 1 week maximum
 
 **Statistics**
 

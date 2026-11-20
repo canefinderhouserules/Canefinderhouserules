@@ -23,10 +23,10 @@ CE Gargantuan outsider (chaotic, evil, extraplanar, qlippoth)
 **Space** 20 ft., **Reach** 20 ft. (30 ft. with tentacles)  
 **Special Attacks** constrict (2d6+13), gaze weapon, horrific appearance (DC 29), polymorph plague, rend (4 bites, 2d8+19), tentacle transformation  
 **Spell-Like Abilities** (CL 20th; concentration +26)  
-Constant—*cloak of chaos* (DC 24), *detect good*, *detect law*, *fly*, *freedom of movement*, *true seeing*  
-At will—*desecrate*, *greater dispel magic*, *greater teleport*, *statue*, *stone shape*, *telekinesis* (DC 21)  
-3/day—quickened *baleful polymorph* (DC 21), *flesh to stone* (DC 22), *phase door*, *polymorph any object* (DC 24), *wall of stone*  
-1/day—*earthquake*, summon (level 9, any qlippoth or combination of qlippoth whose total combined CR is 20 or lower 100%)
+Constant—*[cloak of chaos* ](../../magic/spells/cloak-of-chaos.md)(DC 24), *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[fly](../../magic/spells/fly.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[desecrate](../../magic/spells/desecrate.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[statue](../../magic/spells/statue.md)*, *[stone shape](../../magic/spells/stone-shape.md)*, *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 21)  
+3/day—quickened *[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 21), *[flesh to stone* ](../../magic/spells/flesh-to-stone.md)(DC 22), *[phase door](../../magic/spells/phase-door.md)*, *[polymorph any object* ](../../magic/spells/polymorph-any-object.md)(DC 24), *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+1/day—*[earthquake](../../magic/spells/earthquake.md)*, summon (level 9, any qlippoth or combination of qlippoth whose total combined CR is 20 or lower 100%)
 
 **Statistics**
 

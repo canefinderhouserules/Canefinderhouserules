@@ -22,15 +22,15 @@ LE Large outsider (native, rakshasa, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** detect thoughts (DC 24), martial artist  
 **Spell-Like Abilities** (CL 15th; concentration +20)  
-Constant—*air walk*, *true seeing*  
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
 **Spells Known** (CL 12th; concentration +17)  
-6th (3/day)—*heal*  
-5th (6/day)—*flame strike* (DC 20), *telekinesis* (DC 20)  
-4th (7/day)—*charm monster* (DC 19), *dimension door*, *freedom of movement*  
-3rd (7/day)—*dispel magic*, *fireball* (DC 18), *haste*, *rage*  
-2nd (7/day)—*acid arrow*, *cure moderate wounds*, *death knell* (DC 17), *invisibility*, *misdirection*  
-1st (8/day)—*command* (DC 16), *mage armor*, *magic missile*, *ray of enfeeblement* (DC 16), *shield of faith*  
-0 (at will)—*acid splash*, *bleed* (DC 15), *light*, *mage hand*, *mending*, *message*, *open/close*, *prestidigitation*, *read magic*
+6th (3/day)—*[heal](../../magic/spells/heal.md)*  
+5th (6/day)—*[flame strike* ](../../magic/spells/flame-strike.md)(DC 20), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 20)  
+4th (7/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 19), *[dimension door](../../magic/spells/dimension-door.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 18), *[haste](../../magic/spells/haste.md)*, *[rage](../../magic/spells/rage.md)*  
+2nd (7/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[death knell* ](../../magic/spells/death-knell.md)(DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[misdirection](../../magic/spells/misdirection.md)*  
+1st (8/day)—*[command* ](../../magic/spells/command.md)(DC 16), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 16), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 15), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

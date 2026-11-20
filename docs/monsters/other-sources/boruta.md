@@ -25,11 +25,11 @@ At will - *entangle* (DC 14)
 3/day - *command plants* (DC 17)  
 1/day - *summon nature's ally V* (1 shambling mound only)  
 **Spells Prepared** (CL 7th; concentration +10)  
-4th — *spike stones* (DC 17)  
-3rd — *call lightning* (2, DC 16), *plant growth*  
-2nd — *fog cloud*, *soften earth and stone*, *tree shape*, *wood shape* (DC 15)  
-1st — *calm animals*, *detect animals or plants*, *goodberry*, *magic fang*, *speak with animals*  
-0 — *create water*, *detect magic*, *detect poison*, *know direction*, *mending*
+4th — *[spike stones](../../magic/spells/spike-stones.md)* (DC 17)  
+3rd — *[call lightning](../../magic/spells/call-lightning.md)* (2, DC 16), *[plant growth](../../magic/spells/plant-growth.md)*  
+2nd — *[fog cloud](../../magic/spells/fog-cloud.md)*, *[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*, *[tree shape](../../magic/spells/tree-shape.md)*, *[wood shape](../../magic/spells/wood-shape.md)* (DC 15)  
+1st — *[calm animals](../../magic/spells/calm-animals.md)*, *[detect animals or plants](../../magic/spells/detect-animals-or-plants.md)*, *[goodberry](../../magic/spells/goodberry.md)*, *[magic fang](../../magic/spells/magic-fang.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 — *[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[mending](../../magic/spells/mending.md)*
 
 **Statistics**
 

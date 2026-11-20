@@ -22,10 +22,10 @@ CE Small aberration
 **Melee** 8 claws +18 (1d4+2 plus attach [once per round if two or more claws hit the same creature])  
 **Special Attacks** body thief  
 **Spell-Like Abilities** (CL 10th)  
-Constant—*analyze aura*  
-At will—*invisibility*, *reduce size* (as *reduce person* but self only and affects aberrations)  
+Constant—*[analyze aura](../../magic/spells/analyze-aura.md)*  
+At will—*[invisibility](../../magic/spells/invisibility.md)*, *reduce size* (as *[reduce person](../../magic/spells/reduce-person.md)* but self only and affects aberrations)  
 **Psychic Magic** (CL 10th, concentration +14)  
-24 PE—*anticipate thoughts* (2 PE, DC 16), *ego whip IV* (6 PE, DC 20), *globe of invulnerability* (4 PE), *id insinuation III* (4 PE, DC 17)
+24 PE—*[anticipate thoughts](../../magic/spells/anticipate-thoughts.md)* (2 PE, DC 16), *[ego whip IV](../../magic/spells/ego-whip-iv.md)* (6 PE, DC 20), *[globe of invulnerability](../../magic/spells/globe-of-invulnerability.md)* (4 PE), *[id insinuation III](../../magic/spells/id-insinuation-iii.md)* (4 PE, DC 17)
 
 **Statistics**
 

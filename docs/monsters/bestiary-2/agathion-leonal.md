@@ -22,10 +22,10 @@ NG Medium outsider (agathion, extraplanar, good)
 **Melee** bite +23 (1d8+8 plus grab), 2 claws +23 (1d6+8)  
 **Special Attacks** roar, pounce, rake (2 claws +23, 1d6+8)  
 **Spell-Like Abilities** (CL 14th; concentration +16)  
-Constant—*speak with animals*  
-At will—*detect thoughts*, *fireball* (DC 15), *hold monster* (DC 17)  
-3/day—*cure critical wounds*, *neutralize poison*, *remove disease*, *wall of force*  
-1/day—*heal*
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 15), *[hold monster](../../magic/spells/hold-monster.md)* (DC 17)  
+3/day—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[remove disease](../../magic/spells/remove-disease.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+1/day—*[heal](../../magic/spells/heal.md)*
 
 **Statistics**
 

@@ -25,11 +25,11 @@ NE Medium humanoid (elf)
 **Spell-Like Abilities** (CL 8th; concentration +12)  
 7/day—dazing touch  
 **Enchanter Spells Prepared** (CL 8th; concentration +12)  
-4th—*confusion* (DC 19), *dimension door*, *greater invisibility*, *phantasmal killer* (DC 18)  
-3rd—*deep slumber* (DC 18), *dispel magic*, *hold person* (DC 18), *phantom steed*, *suggestion* (DC 18)  
-2nd—*alter self*, *daze monster* (DC 17), *hideous laughter* (DC 17), *invisibility*, *resist energy*  
-1st—*charm person* (2, DC 16), *color spray* (DC 15), *mage armor*, *shield*, *ventriloquism* (DC 15)  
-0 (at will)—*daze* (DC 15), *mage hand*, *resistance*, *touch of fatigue* (DC 14)  
+4th—*[confusion* ](../../magic/spells/confusion.md)(DC 19), *[dimension door](../../magic/spells/dimension-door.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 18)  
+3rd—*[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 18), *[phantom steed](../../magic/spells/phantom-steed.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 18)  
+2nd—*[alter self](../../magic/spells/alter-self.md)*, *[daze monster* ](../../magic/spells/daze-monster.md)(DC 17), *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[charm person* ](../../magic/spells/charm-person.md)(2, DC 16), *[color spray* ](../../magic/spells/color-spray.md)(DC 15), *[mage armor](../../magic/spells/mage-armor.md)*, *[shield](../../magic/spells/shield.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 15)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 15), *[mage hand](../../magic/spells/mage-hand.md)*, *[resistance](../../magic/spells/resistance.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 14)  
 **Opposition Schools** divination, necromancy
 
 **Tactics**

@@ -21,8 +21,8 @@ CG Medium fey (shapechanger)
 **Melee** mwk rapier +11 (1d6+1/18–20)  
 **Ranged**  longbow +10 (1d8/×3)  
 **Spell-Like Abilities** (CL 10th; concentration +12)  
-At will—*dancing lights*  
-1/day—*confusion* (DC 16), *deep slumber* (DC 15), *entangle* (DC 13), *glitterdust* (DC 14), *major image* (DC 15)
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*  
+1/day—*[confusion](../../magic/spells/confusion.md)* (DC 16), *[deep slumber](../../magic/spells/deep-slumber.md)* (DC 15), *[entangle](../../magic/spells/entangle.md)* (DC 13), *[glitterdust](../../magic/spells/glitterdust.md)* (DC 14), *[major image](../../magic/spells/major-image.md)* (DC 15)
 
 **Statistics**
 

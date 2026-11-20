@@ -21,9 +21,9 @@ NE Gargantuan dragon (aquatic)
 **Space** 20 ft., **Reach** 15 ft. (bite 20 ft.)  
 **Special Attacks** breath weapon, cursed to the depths, swim-by attack  
 **Spell-Like Abilities** (CL 14th)  
-At will — *curse water*, *fog cloud*, *detect magic*, *speak with animals*  
-3/day — *arcane eye*, *charm animal* (DC 13), *hallucinatory terrain* (DC 17), *obscure object* (DC 15), *quench* (DC 15), *solid fog*  
-1/day — *acid fog*, *control water*, *song of discord* (DC 17), *veil* (DC 18)
+At will — *[curse water](../../magic/spells/curse-water.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+3/day — *[arcane eye](../../magic/spells/arcane-eye.md)*, *[charm animal](../../magic/spells/charm-animal.md)* (DC 13), *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)* (DC 17), *[obscure object](../../magic/spells/obscure-object.md)* (DC 15), *[quench](../../magic/spells/quench.md)* (DC 15), *[solid fog](../../magic/spells/solid-fog.md)*  
+1/day — *[acid fog](../../magic/spells/acid-fog.md)*, *[control water](../../magic/spells/control-water.md)*, *[song of discord](../../magic/spells/song-of-discord.md)* (DC 17), *[veil](../../magic/spells/veil.md)* (DC 18)
 
 **Statistics**
 

@@ -23,17 +23,17 @@ LE Medium humanoid (human)
 **Ranged** +2 dagger +19/+14 (1d4+2/19-20)  
 **Special Attacks** bardic performance 47 rounds/day (swift action; countersong, dirge of doom, distraction, fascinate, frightening tune, inspire competence +6, inspire courage +4, inspire greatness, inspire heroics, mass suggestion, soothing performance, *suggestion*)  
 **Bard Spells Known** (CL 19th; concentration +26)  
-6th (5/day)—*geas/quest*, *greater scrying* (DC 23), *project image* (DC 23), *summon monster VI* (invisible stalker)  
-5th (6/day)—*dream*, *false vision*, *mislead*, *shadow walk* (DC 22), *song of discord* (DC 24)  
-4th (6/day)—*dimension door*, *dominate person* (DC 23), *freedom of movement*, *modify memory* (DC 23), *zone of silence*  
-3rd (7/day)—*blink*, *clairaudience/clairvoyance*, *dispel magic*, *haste* (DC 20), *illusory script* (DC 20), *see invisibility*  
-2nd (7/day)—*alter self*, *detect thoughts* (DC 19), *mirror image*, *misdirection*, *suggestion* (DC 21), *tongues*  
-1st (7/day)—*alarm*, *charm person* (DC 20), *expeditious retreat*, *feather fall*, *obscure object*, *unseen servant*  
-0 (at will)—*detect magic*, *ghost sound* (DC 17), *light*, *lullaby* (DC 19), *mage hand*, *open/close*
+6th (5/day)—*[geas/quest](../../magic/spells/geas-quest.md)*, *[greater scrying* ](../../magic/spells/scrying-greater.md)(DC 23), *[project image* ](../../magic/spells/project-image.md)(DC 23), *[summon monster VI* ](../../magic/spells/summon-monster-vi.md)(invisible stalker)  
+5th (6/day)—*[dream](../../magic/spells/dream.md)*, *[false vision](../../magic/spells/false-vision.md)*, *[mislead](../../magic/spells/mislead.md)*, *[shadow walk* ](../../magic/spells/shadow-walk.md)(DC 22), *[song of discord* ](../../magic/spells/song-of-discord.md)(DC 24)  
+4th (6/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[dominate person* ](../../magic/spells/dominate-person.md)(DC 23), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[modify memory* ](../../magic/spells/modify-memory.md)(DC 23), *[zone of silence](../../magic/spells/zone-of-silence.md)*  
+3rd (7/day)—*[blink](../../magic/spells/blink.md)*, *[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[haste* ](../../magic/spells/haste.md)(DC 20), *[illusory script* ](../../magic/spells/illusory-script.md)(DC 20), *[see invisibility](../../magic/spells/see-invisibility.md)*  
+2nd (7/day)—*[alter self](../../magic/spells/alter-self.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 19), *[mirror image](../../magic/spells/mirror-image.md)*, *[misdirection](../../magic/spells/misdirection.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 21), *[tongues](../../magic/spells/tongues.md)*  
+1st (7/day)—*[alarm](../../magic/spells/alarm.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 20), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[obscure object](../../magic/spells/obscure-object.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 17), *[light](../../magic/spells/light.md)*, *[lullaby* ](../../magic/spells/lullaby.md)(DC 19), *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*
 
 **Tactics**
 
-**Before Combat** The bard keeps *misdirection* in place at all times.  
+**Before Combat** The bard keeps *[misdirection* ](../../magic/spells/misdirection.md)in place at all times.  
 **During Combat** The bard opens combat by using a *scroll of disintegrate*.
 
 **Statistics**

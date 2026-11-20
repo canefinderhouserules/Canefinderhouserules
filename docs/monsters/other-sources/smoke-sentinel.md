@@ -22,9 +22,9 @@ N Huge construct
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** engulf (DC 21, 1d6 Wis)  
 **Spell-Like Abilities** (CL 9th; concentration +15)  
-Constant—*see alignment*, *tongues*  
-At will—*detect thoughts* (DC 17), *fear* (DC 20)  
-3/day—*major image* (DC 19)
+Constant—*[see alignment](../../magic/spells/see-alignment.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[fear](../../magic/spells/fear.md)* (DC 20)  
+3/day—*[major image](../../magic/spells/major-image.md)* (DC 19)
 
 **Statistics**
 

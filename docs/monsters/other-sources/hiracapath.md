@@ -22,8 +22,8 @@ LG Large outsider (extraplanar, good, lawful)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** nonlethal mastery, powerful charge (gore, 2d8+9)  
 **Spell-Like Abilities** (CL 9th; concentration +12)  
-Constant—*air walk*  
-1/day—*plane shift* (self only)
+Constant—*[air walk](../../magic/spells/air-walk.md)*  
+1/day—*[plane shift](../../magic/spells/plane-shift.md)* (self only)
 
 **Statistics**
 

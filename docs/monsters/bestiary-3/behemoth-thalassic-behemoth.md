@@ -24,7 +24,7 @@ N Colossal magical beast (aquatic, behemoth, water)
 **Space** 30 ft., **Reach** 20 ft.  
 **Special Attacks** capsize (DC 25), fast swallow, push (water jet, 20 ft.), rend (2 claws, 3d6+18), ruinous, swallow whole (4d6+27 bludgeoning, AC 28, 39 hp)  
 **Spell-Like Abilities** (CL 20th; concentration +22)  
-3/day—*tsunami* (DC 21)
+3/day—*[tsunami* ](../../magic/spells/tsunami.md)(DC 21)
 
 **Statistics**
 

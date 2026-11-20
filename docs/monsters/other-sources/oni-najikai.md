@@ -23,10 +23,10 @@ LE Large outsider (native, oni, reptilian, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** ripping spikes, sudden shed  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-Constant—*fly*  
- At will—*command* (DC 14), *darkness*, *invisibility* (self only)  
- 3/day—*charm monster* (DC 17)  
- 1/day—*cloudkill* (DC 18)
+Constant—*[fly](../../magic/spells/fly.md)*  
+ At will—*[command](../../magic/spells/command.md)* (DC 14), *[darkness](../../magic/spells/darkness.md)*, *[invisibility](../../magic/spells/invisibility.md)* (self only)  
+ 3/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 17)  
+ 1/day—*[cloudkill](../../magic/spells/cloudkill.md)* (DC 18)
 
 **Statistics**
 

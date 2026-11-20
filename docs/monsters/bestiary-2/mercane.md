@@ -21,8 +21,8 @@ LN Large outsider (extraplanar)
 **Melee** mwk Large falchion +8/+3 (2d6+3/18–20)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 9th; concentration +11)  
-3/day—*dimension door*, *invisibility* (self only)  
-1/day—*plane shift* (DC 17)
+3/day—*[dimension door](../../magic/spells/dimension-door.md)*, *[invisibility* ](../../magic/spells/invisibility.md)(self only)  
+1/day—*[plane shift* ](../../magic/spells/plane-shift.md)(DC 17)
 
 **Statistics**
 

@@ -28,12 +28,12 @@ damage, Reflex DC 31 half), crush, delirium breath, lashing
 tail, tail sweep, tripping tail  
 **Oracle Spells Known** (CL 15th; concentration +23)  
 7th (5)—*greater restoration, word of chaos*  
-6th (7)—*mass charm monster* (DC 24), *heroes’ feast, wind walk*  
+6th (7)—*[mass charm monster](../../magic/spells/charm-monster-mass.md)* (DC 24), *heroes’ feast, wind walk*  
 5th (7)—*break enchantment, greater command* (DC 23), *life bubble, mass cure light wounds* (DC 23)  
 4th (8)—*dimension door, dismissal* (DC 22), *freedom of movement, tongues*  
-3rd (8)—*charm monster* (DC 18), *dispel magic, stone shape, wind wall*  
+3rd (8)—*[charm monster](../../magic/spells/charm-monster.md)* (DC 18), *dispel magic, stone shape, wind wall*  
 2nd (8)—*bear’s endurance, cure moderate wounds, enthrall* (DC 20), *grace, sound burst* (DC 20)  
-1st (8)—*detect evil, divine favor, entropic shield, grease* (DC 15), *obscuring mist*  
+1st (8)—*detect evil, divine favor, entropic shield, grease* (DC 15), *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
 0 (at will)—*create water, detect magic, detect poison, light, mage hand, mending, open/close, resistance, stabilize*
 
 **Statistics**

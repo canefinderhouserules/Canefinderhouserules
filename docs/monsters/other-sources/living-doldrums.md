@@ -24,9 +24,9 @@ NE Gargantuan outsider (air, elemental, extraplanar)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** hypoxic heart (DC 23, 6d6 and slowed)  
 **Spell-Like Abilities** (CL 13th; concentration +20)  
-At will—*detect thoughts* (DC 19)  
-3/day—*crushing despair* (DC 21), quickened *murderous command* (DC 18), quickened *oppressive boredom* (DC 19), quickened *paranoia* (DC 19)  
-1/day—*envious urge* (DC 23), *malicious spite* (DC 21), *song of discord* (DC 22)
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 19)  
+3/day—*[crushing despair](../../magic/spells/crushing-despair.md)* (DC 21), quickened *[murderous command](../../magic/spells/murderous-command.md)* (DC 18), quickened *[oppressive boredom](../../magic/spells/oppressive-boredom.md)* (DC 19), quickened *[paranoia](../../magic/spells/paranoia.md)* (DC 19)  
+1/day—*[envious urge](../../magic/spells/envious-urge.md)* (DC 23), *[malicious spite](../../magic/spells/malicious-spite.md)* (DC 21), *[song of discord](../../magic/spells/song-of-discord.md)* (DC 22)
 
 **Statistics**
 

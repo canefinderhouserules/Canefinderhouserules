@@ -21,9 +21,9 @@ NE Medium outsider (extraplanar, incorporeal)
 **Melee** chilling touch +14 (6d8 cold)  
 **Special Attacks** disorienting gale, whispering persecution  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
-Constant—*detect thoughts* (DC 16)  
-At will—*alter winds* (DC 15), *invisibility*, *lesser confusion* (DC 15)  
-1/day—*cloak of winds* (DC 17), *confusion* (DC 17), *river of wind* (DC 18)
+Constant—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16)  
+At will—*[alter winds](../../magic/spells/alter-winds.md)* (DC 15), *[invisibility](../../magic/spells/invisibility.md)*, *[lesser confusion](../../magic/spells/confusion-lesser.md)* (DC 15)  
+1/day—*[cloak of winds](../../magic/spells/cloak-of-winds.md)* (DC 17), *[confusion](../../magic/spells/confusion.md)* (DC 17), *[river of wind](../../magic/spells/river-of-wind.md)* (DC 18)
 
 **Statistics**
 

@@ -21,9 +21,9 @@ NE Tiny construct (cold)
 **Speed** 30 ft.  
 **Melee** doll’s dagger +10 (1d2–1/19–20 plus 1d6 cold and paralysis)  
 **Spell-Like Abilities** (CL 4th; concentration +4)  
-At will—*ray of frost*  
-3/day—*alarm*, *charm person* (DC 11), *light*, *mage hand*, *open/close*, *prestidigitation*  
-1/day—*frost fall* (DC 12), *levitate*
+At will—*[ray of frost](../../magic/spells/ray-of-frost.md)*  
+3/day—*[alarm](../../magic/spells/alarm.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 11), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*  
+1/day—*[frost fall](../../magic/spells/frost-fall.md)* (DC 12), *[levitate](../../magic/spells/levitate.md)*
 
 **Statistics**
 

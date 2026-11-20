@@ -24,7 +24,7 @@ NE Large fey (aquatic)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** breath weapon (30-ft. cone, 10d6, Reflex DC 21 half, usable every 1d4 rounds), evil eye, trample (1d6+7, DC 21)  
 **Spell-Like Abilities** (CL 9th; concentration +13)  
-3/day—*black tentacles*, *call lightning*, *stinking cloud* (DC 17)
+3/day—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[call lightning](../../magic/spells/call-lightning.md)*, *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 17)
 
 **Statistics**
 

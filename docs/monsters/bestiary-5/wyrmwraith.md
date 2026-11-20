@@ -35,9 +35,9 @@ At will—*animate dead, command undead* (DC 18), *desecrate, detect undead, pro
 
 5/day—*create undead, control undead* (DC 23), *unhallow, unholy blight* (DC 20)  
 
-3/day—*create greater undead, quickened finger of death* (DC 23), *waves of exhaustion*  
+3/day—*create greater undead, quickened finger of death* (DC 23), *[waves of exhaustion](../../magic/spells/waves-of-exhaustion.md)*  
 
-1/day—*energy drain* (DC 25), *soul bind* (DC 25)
+1/day—*[energy drain](../../magic/spells/energy-drain.md)* (DC 25), *[soul bind](../../magic/spells/soul-bind.md)* (DC 25)
 
 **Statistics**
 

@@ -22,11 +22,11 @@ NE Medium humanoid (human)
 **Ranged**  *+1 blowgun* +11/+6 (1d2+1)  
 **Special Attacks** bardic performance 29 rounds/day (move action; countersong, dirge of doom, distraction, fascinate, inspire competence +3, inspire courage +2, inspire greatness, *suggestion*)  
 **Bard Spells Known** (CL 10th; concentration +17)  
-4th (2/day)—*legend lore*, *modify memory* (DC 21)  
-3rd (4/day)—*blink*, *dispel magic*, *major image* (DC 20), *scrying* (DC 20)  
-2nd (5/day)—*cure moderate wounds* (DC 19), *hypnotic pattern* (DC 19), *suggestion* (DC 19), *summon swarm*, *whispering wind*  
-1st (7/day)—*comprehend languages*, *hideous laughter* (DC 18), *silent image* (DC 18), *unseen servant*, *ventriloquism* (DC 18)  
-0 (at will)—*dancing lights*, *detect magic*, *ghost sound* (DC 17), *lullaby* (DC 17), *mage hand*, *open/close*
+4th (2/day)—*[legend lore](../../magic/spells/legend-lore.md)*, *[modify memory* ](../../magic/spells/modify-memory.md)(DC 21)  
+3rd (4/day)—*[blink](../../magic/spells/blink.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[major image* ](../../magic/spells/major-image.md)(DC 20), *[scrying* ](../../magic/spells/scrying.md)(DC 20)  
+2nd (5/day)—*[cure moderate wounds* ](../../magic/spells/cure-moderate-wounds.md)(DC 19), *[hypnotic pattern* ](../../magic/spells/hypnotic-pattern.md)(DC 19), *[suggestion* ](../../magic/spells/suggestion.md)(DC 19), *[summon swarm](../../magic/spells/summon-swarm.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*  
+1st (7/day)—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 18), *[silent image* ](../../magic/spells/silent-image.md)(DC 18), *[unseen servant](../../magic/spells/unseen-servant.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 18)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 17), *[lullaby* ](../../magic/spells/lullaby.md)(DC 17), *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*
 
 **Tactics**
 

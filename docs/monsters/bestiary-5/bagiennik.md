@@ -21,8 +21,8 @@ CN Small fey (aquatic)
 **Melee** 2 claws +9 (1d4-1)  
 **Ranged**  nasal spray +10 touch (3d6 fire, 3d6 acid, and nasal burn)  
 **Spell-Like Abilities** (CL 7th; concentration +10)  
-3/day—*cure light wounds*, *remove disease*  
-1/day—*cure moderate wounds*, *remove blindness/deafness*
+3/day—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[remove disease](../../magic/spells/remove-disease.md)*  
+1/day—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[remove blindness/deafness](../../magic/spells/remove-blindness-deafness.md)*
 
 **Statistics**
 

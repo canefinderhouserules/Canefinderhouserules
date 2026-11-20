@@ -22,8 +22,8 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Melee** *+2 corrosive bastard sword* +24/+19/+14 (1d10+10/17–20 plus 1d6 acid), bite +22 (1d6+8), claw +22 (1d6+8)  
 **Special Attacks** angel of death 1/day, death attack (DC 23), quiet death, rogue talent (bleeding attack), sneak attack +5d6, swift death 1/day, true death (DC 25)  
 **Spell-Like Abilities** (CL 7th; concentration +9)  
-Constant—*see invisibility*  
-At will—*darkness*, *dispel magic*, *greater teleport* (self plus 50 lbs. of objects only)  
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[darkness](../../magic/spells/darkness.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)  
 1/day—summon (level 3, 1 babau 40%)
 
 **Statistics**

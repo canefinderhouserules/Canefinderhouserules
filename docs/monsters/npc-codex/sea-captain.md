@@ -25,11 +25,11 @@ NE Small humanoid (halfling)
 8/day—lightning lord  
 7/day—storm burst  
 **Druid Spells Prepared** (CL 8th; concentration +12)  
-4th—*control water*, *flame strike* (DC 18), *freedom of movement*, *sleet storm*<sup>D</sup>  
-3rd—*call lightning*<sup>D</sup>(DC 17), *greater magic fang*, *protection from energy*, *quench*, *wind wall*  
-2nd—*barkskin*, *bull’s strength*, *fog cloud*<sup>D</sup>, *gust of wind* (DC 16), *warp wood*  
-1st—*cure light wounds* (4), *endure elements*, *obscuring mist*  
-0 (at will)—*create water*, *detect magic*, *flare* (DC 14), *light*  
+4th—*[control water](../../magic/spells/control-water.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(DC 18), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[sleet storm](../../magic/spells/sleet-storm.md)*<sup>D</sup>  
+3rd—*[call lightning](../../magic/spells/call-lightning.md)*<sup>D</sup>(DC 17), *[greater magic fang](../../magic/spells/magic-fang-greater.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[quench](../../magic/spells/quench.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*<sup>D</sup>, *[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 16), *[warp wood](../../magic/spells/warp-wood.md)*  
+1st—*[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(4), *[endure elements](../../magic/spells/endure-elements.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 14), *[light](../../magic/spells/light.md)*  
 **D** Domain spell; **Domain** Weather
 
 **Tactics**

@@ -24,7 +24,7 @@ LE Medium humanoid (dwarf)
 **Ranged**  *+2 shuriken* +16/+11 (1d2+4) or *+2 shuriken* flurry of blows +17/+17/+12/+12/+7 (1d2+4)  
 **Special Attacks** flurry of blows, stunning fist (12/day, DC 18)  
 **Spell-Like Abilities** (CL 12th; concentration +9)  
-1/day—*enlarge person* (self only), *invisibility* (self only), *ironskin*
+1/day—*[enlarge person](../../magic/spells/enlarge-person.md)* (self only), *[invisibility](../../magic/spells/invisibility.md)* (self only), *[ironskin](../../magic/spells/ironskin.md)*
 
 **Statistics**
 

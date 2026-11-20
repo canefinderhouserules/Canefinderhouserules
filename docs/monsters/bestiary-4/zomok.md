@@ -23,10 +23,10 @@ N Gargantuan plant (extraplanar)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with tail)  
 **Special Attacks** breath weapon (60-ft. cone, 18d6 bludgeoning plus entangle, Reflex DC 28 partial, usable every 1d4 rounds), swallow whole (6d6 bludgeoning damage, AC 23, 24 hp), trample (2d8+18, DC 30)  
 **Spell-Like Abilities** (CL 16th; concentration +24)  
-Constant—*pass without trace*  
-At will—*command plants* (DC 22), *plant growth*, *quench* (DC 21)  
-3/day—*entangle* (DC 19), *liveoak*, *transmute mud to rock*, *transmute rock to mud*, *wall of thorns*  
-1/day—*shambler*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*  
+At will—*[command plants](../../magic/spells/command-plants.md)* (DC 22), *[plant growth](../../magic/spells/plant-growth.md)*, *[quench](../../magic/spells/quench.md)* (DC 21)  
+3/day—*[entangle](../../magic/spells/entangle.md)* (DC 19), *[liveoak](../../magic/spells/liveoak.md)*, *[transmute mud to rock](../../magic/spells/transmute-mud-to-rock.md)*, *[transmute rock to mud](../../magic/spells/transmute-rock-to-mud.md)*, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+1/day—*[shambler](../../magic/spells/shambler.md)*
 
 **Statistics**
 

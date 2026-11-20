@@ -22,10 +22,10 @@ NE Medium outsider (daemon, evil, extraplanar)
 **Melee** toxic quill +41/+36/+31/+26 (3d6+15/17–20 plus poison)  
 **Ranged** toxic quill +41 (3d6+15/17–20 plus poison)  
 **Spell-Like Abilities** (CL 26th; concentration +35)  
-Constant—*true seeing*  
-At will—*dimension door*, *mirror image*  
-3/day—*displacement*, quickened *mirror image*, *power word blind*, *power word stun*, *symbol of insanity* (DC 27), *symbol of persuasion* (DC 25), *symbol of strife* (DC 28), *symbol of stunning* (DC 26)  
-1/day—quickened *mass hold person* (DC 26), *overwhelming presence* (DC 28), quickened *power word kill*
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[dimension door](../../magic/spells/dimension-door.md)*, *[mirror image](../../magic/spells/mirror-image.md)*  
+3/day—*[displacement](../../magic/spells/displacement.md)*, quickened *[mirror image](../../magic/spells/mirror-image.md)*, *[power word blind](../../magic/spells/power-word-blind.md)*, *[power word stun](../../magic/spells/power-word-stun.md)*, *[symbol of insanity](../../magic/spells/symbol-of-insanity.md)* (DC 27), *[symbol of persuasion](../../magic/spells/symbol-of-persuasion.md)* (DC 25), *[symbol of strife](../../magic/spells/symbol-of-strife.md)* (DC 28), *[symbol of stunning](../../magic/spells/symbol-of-stunning.md)* (DC 26)  
+1/day—quickened *[mass hold person](../../magic/spells/hold-person-mass.md)* (DC 26), *[overwhelming presence](../../magic/spells/overwhelming-presence.md)* (DC 28), quickened *[power word kill](../../magic/spells/power-word-kill.md)*
 
 **Statistics**
 

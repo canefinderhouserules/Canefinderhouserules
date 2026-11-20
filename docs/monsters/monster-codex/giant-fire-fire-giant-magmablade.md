@@ -25,16 +25,16 @@ LE Large humanoid (fire, giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** greater spell combat, heated rock, improved spell combat, rock throwing (120 ft.), spell combat (–2 attack, +2 concentration, double bonus), spellstrike  
 **Magus Spells Prepared** (CL 14th; concentration +19)  
-5th—*geyser* (DC 20), *telekinesis* (DC 20), *wall of stone* (DC 20)  
-4th—*arcana theft*, *ball lightning* (DC 19), *black tentacles*, *stoneskin*, *wall of fire*  
-3rd—*blink*, *dispel magic*, *fireball* (DC 18), *flame arrow*, *fly*  
-2nd—*alter self*, *blur*, *effortless armor*, *elemental touch* (DC 17), *invisibility*, *scorching ray*  
-1st—*burning hands* (DC 16), *enlarge person* (DC 16), *expeditious retreat*, *flare burst* (DC 16), *magic missile*, *mirror strike*, *reduce person* (DC 16)  
-0 (at will)—*acid splash*, *detect magic*, *flare* (DC 15), *light*, *spark*
+5th—*[geyser](../../magic/spells/geyser.md)* (DC 20), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 20), *[wall of stone](../../magic/spells/wall-of-stone.md)* (DC 20)  
+4th—*[arcana theft](../../magic/spells/arcana-theft.md)*, *[ball lightning](../../magic/spells/ball-lightning.md)* (DC 19), *[black tentacles](../../magic/spells/black-tentacles.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3rd—*[blink](../../magic/spells/blink.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball](../../magic/spells/fireball.md)* (DC 18), *[flame arrow](../../magic/spells/flame-arrow.md)*, *[fly](../../magic/spells/fly.md)*  
+2nd—*[alter self](../../magic/spells/alter-self.md)*, *[blur](../../magic/spells/blur.md)*, *[effortless armor](../../magic/spells/effortless-armor.md)*, *[elemental touch](../../magic/spells/elemental-touch.md)* (DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st—*[burning hands](../../magic/spells/burning-hands.md)* (DC 16), *[enlarge person](../../magic/spells/enlarge-person.md)* (DC 16), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[flare burst](../../magic/spells/flare-burst.md)* (DC 16), *[magic missile](../../magic/spells/magic-missile.md)*, *[mirror strike](../../magic/spells/mirror-strike.md)*, *[reduce person](../../magic/spells/reduce-person.md)* (DC 16)  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[flare](../../magic/spells/flare.md)* (DC 15), *[light](../../magic/spells/light.md)*, *[spark](../../magic/spells/spark.md)*
 
 **Tactics**
 
-**Before Combat** The magmablade casts *effortless armor*, *stoneskin*, and *shield* from a scroll.  
+**Before Combat** The magmablade casts *[effortless armor](../../magic/spells/effortless-armor.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*, and *[shield](../../magic/spells/shield.md)* from a scroll.  
  **During Combat** The magmablade wades into battle, using a mix of spellstrike, spellcasting, and melee prowess, causing as much havoc as possible.  
  **Base Statistics** Without *effortless armor*, *stoneskin*, and *shield*, the magmablade’s statistics are **AC** 31, touch 10, flat-footed 31; **DR** none; **Immune** fire; **Speed** 30 ft.; **Skills** Climb +39, Fly +24.
 

@@ -23,10 +23,10 @@ CE Large aberration
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** confusion command  
 **Spell-Like Abilities** (CL 6th; concentration +10)  
-Constant—*mage armor*  
-At will—*detect thoughts* (DC 16), *levitate*  
-3/day—*confusion* (DC 18), *dispel magic*, *suggestion* (DC 17)  
-1/day—*mind fog* (DC 19), *phantasmal killer* (DC 18)
+Constant—*[mage armor](../../magic/spells/mage-armor.md)*  
+At will—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[levitate](../../magic/spells/levitate.md)*  
+3/day—*[confusion* ](../../magic/spells/confusion.md)(DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 17)  
+1/day—*[mind fog* ](../../magic/spells/mind-fog.md)(DC 19), *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 18)
 
 **Statistics**
 

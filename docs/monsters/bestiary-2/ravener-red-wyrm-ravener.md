@@ -24,18 +24,18 @@ CE Gargantuan undead (fire)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. cone, DC 31, 22d10 fire and 2 negative levels), crush, manipulate flames, melt stone, soul consumption, soul magic, tail sweep  
 **Spell-Like Abilities** (CL 27th, concentration +35)  
-At will—*detect magic*, *find the path*, *pyrotechnics* (DC 20), *suggestion* (DC 21), *wall of fire*  
+At will—*[detect magic](../../magic/spells/detect-magic.md)*, *[find the path](../../magic/spells/find-the-path.md)*, *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 20), *[suggestion* ](../../magic/spells/suggestion.md)(DC 21), *[wall of fire](../../magic/spells/wall-of-fire.md)*  
 **Sorcerer Spells Known** (CL 20th, concentration +28)  
-9th—*energy drain*, *time stop*, *wish*  
-8th—*dimensional lock*, *horrid wilting* (DC 26), *maze*  
-7th—*forcecage* (DC 25), *greater teleport*, *spell turning*  
-6th—*chain lightning* (DC 24), *greater dispel magic*, *true seeing*  
-5th—*cone of cold* (DC 23), *dominate person* (DC 23), *feeblemind* (DC 23), *wall of force*  
-4th—*charm monster* (DC 22), *confusion* (DC 22), *greater invisibility*, *solid fog*  
-3rd—*displacement*, *haste*, *slow* (DC 21), *vampiric touch*  
-2nd—*detect thoughts* (DC 20), *false life*, *mirror image*, *see invisibility*, *web* (DC 20)  
-1st—*mage armor*, *magic missile*, *ray of enfeeblement* (DC 19), *shield*, *true strike*  
-0—*arcane mark*, *detect magic*, *mage hand*, *mending*, *message*, *prestidigitation*, *ray of frost*, *read magic*, *touch of fatigue*
+9th—*[energy drain](../../magic/spells/energy-drain.md)*, *[time stop](../../magic/spells/time-stop.md)*, *[wish](../../magic/spells/wish.md)*  
+8th—*[dimensional lock](../../magic/spells/dimensional-lock.md)*, *[horrid wilting* ](../../magic/spells/horrid-wilting.md)(DC 26), *[maze](../../magic/spells/maze.md)*  
+7th—*[forcecage* ](../../magic/spells/forcecage.md)(DC 25), *[greater teleport](../../magic/spells/teleport-greater.md)*, *[spell turning](../../magic/spells/spell-turning.md)*  
+6th—*[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 24), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+5th—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 23), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 23), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 23), *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 22), *[confusion* ](../../magic/spells/confusion.md)(DC 22), *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[solid fog](../../magic/spells/solid-fog.md)*  
+3rd—*[displacement](../../magic/spells/displacement.md)*, *[haste](../../magic/spells/haste.md)*, *[slow* ](../../magic/spells/slow.md)(DC 21), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 20), *[false life](../../magic/spells/false-life.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[web* ](../../magic/spells/web.md)(DC 20)  
+1st—*[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 19), *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)*
 
 **Statistics**
 

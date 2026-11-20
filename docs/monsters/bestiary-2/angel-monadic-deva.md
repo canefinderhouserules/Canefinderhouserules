@@ -21,10 +21,10 @@ NG Medium outsider (angel, aquatic, extraplanar, good)
 **Speed** 40 ft., fly 90 ft. (good)  
 **Melee** *+3 morningstar* +22/+17/+12 (1d8+10 plus solid blow)  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
-Constant—*detect evil*  
-At will—*aid*, *charm monster* (DC 18, elementals only), *discern lies* (DC 18), *dispel evil* (DC 19), *dispel magic*, *holy smite* (DC 18), *invisibility* (self only), *plane shift* (DC 19), *remove curse*, *remove disease*, *remove fear*  
-3/day—*cure serious wounds*, *holy word* (DC 21), *mirror image*  
-1/day—*heal*, *hold monster* (DC 19), *holy aura* (DC 22)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[charm monster](../../magic/spells/charm-monster.md)* (DC 18, elementals only), *[discern lies](../../magic/spells/discern-lies.md)* (DC 18), *[dispel evil](../../magic/spells/dispel-evil.md)* (DC 19), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[holy smite](../../magic/spells/holy-smite.md)* (DC 18), *[invisibility](../../magic/spells/invisibility.md)* (self only), *[plane shift](../../magic/spells/plane-shift.md)* (DC 19), *[remove curse](../../magic/spells/remove-curse.md)*, *[remove disease](../../magic/spells/remove-disease.md)*, *[remove fear](../../magic/spells/remove-fear.md)*  
+3/day—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[holy word](../../magic/spells/holy-word.md)* (DC 21), *[mirror image](../../magic/spells/mirror-image.md)*  
+1/day—*[heal](../../magic/spells/heal.md)*, *[hold monster](../../magic/spells/hold-monster.md)* (DC 19), *[holy aura](../../magic/spells/holy-aura.md)* (DC 22)
 
 **Statistics**
 

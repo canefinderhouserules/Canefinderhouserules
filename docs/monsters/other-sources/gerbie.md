@@ -23,8 +23,8 @@ CG Small fey
 touch +8 (forget)  
 **Special Attacks** forget, mental cacophony  
 **Spell-Like Abilities** (CL 7th; concentration +12)  
-At will—*calm animals* (DC 16), *calm emotions* (DC 17), *charm monster* (DC 18), *tongues* (DC 17)  
- 3/day—*detect thoughts* (DC 17)
+At will—*[calm animals](../../magic/spells/calm-animals.md)* (DC 16), *[calm emotions](../../magic/spells/calm-emotions.md)* (DC 17), *[charm monster](../../magic/spells/charm-monster.md)* (DC 18), *[tongues](../../magic/spells/tongues.md)* (DC 17)  
+ 3/day—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17)
 
 **Statistics**
 

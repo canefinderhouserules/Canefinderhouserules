@@ -22,16 +22,16 @@ LG Gargantuan dragon (air)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite and gore)  
 **Special Attacks** breath weapon (60-ft. cone, 20d8 electricity, DC 29) crush (DC 29; 4d6+18), grounding breath, primal lightning, tail sweep (DC 29; 2d6+18),  
 **Spell-Like Abilities** (CL 24th; concentration +31)  
-At will—*call lightning storm* (DC 22), *control winds* (DC 22), *detect evil*, *feather fall*, *gust of wind* (DC 19)  
+At will—*[call lightning storm* ](../../magic/spells/call-lightning-storm.md)(DC 22), *[control winds* ](../../magic/spells/control-winds.md)(DC 22), *[detect evil](../../magic/spells/detect-evil.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 19)  
 **Spells Known** (caster level 15th; concentration +22)  
-7th (5/day)—*forcecage* (DC 24), *mass hold person* (DC 24)  
-6th (7/day)—*acid fog*, *chain lightning* (DC 23), *legend lore*  
-5th (7/day)—*break enchantment*, *cloudkill* (DC 22), *dream*, *teleport*  
-4th (7/day)—*dimension door*, *greater invisibility*, *ice storm*, *rainbow pattern* (DC 21)  
-3rd (8/day)—*blink*, *lightning bolt* (DC 20), *sleet storm* (DC 20), *wind wall*  
-2nd (8/day)—*daze monster* (DC 19), *fog cloud*, *glitterdust* (DC 19), *invisibility*, *resist energy*  
-1st (8/day)—*endure elements*, *expeditious retreat*, *magic missile*, *obscuring mist*, *shocking grasp*  
-0 (at will)—*dancing lights*, *daze* (DC 17), *detect magic*, *disrupt undead*, *mage hand*, *mending*, *message*, *ray of frost*, *read magic*
+7th (5/day)—*[forcecage* ](../../magic/spells/forcecage.md)(DC 24), *[mass hold person* ](../../magic/spells/hold-person-mass.md)(DC 24)  
+6th (7/day)—*[acid fog](../../magic/spells/acid-fog.md)*, *[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 23), *[legend lore](../../magic/spells/legend-lore.md)*  
+5th (7/day)—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[cloudkill* ](../../magic/spells/cloudkill.md)(DC 22), *[dream](../../magic/spells/dream.md)*, *[teleport](../../magic/spells/teleport.md)*  
+4th (7/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[ice storm](../../magic/spells/ice-storm.md)*, *[rainbow pattern* ](../../magic/spells/rainbow-pattern.md)(DC 21)  
+3rd (8/day)—*[blink](../../magic/spells/blink.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 20), *[sleet storm* ](../../magic/spells/sleet-storm.md)(DC 20), *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd (8/day)—*[daze monster* ](../../magic/spells/daze-monster.md)(DC 19), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 19), *[invisibility](../../magic/spells/invisibility.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st (8/day)—*[endure elements](../../magic/spells/endure-elements.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 17), *[detect magic](../../magic/spells/detect-magic.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

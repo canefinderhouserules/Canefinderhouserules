@@ -24,9 +24,9 @@ N Medium plant
 **Space** 5 ft., **Reach** 5 ft. (15 ft. with tendrils)  
 **Special Attacks** pull (tendril, 5 ft.), star-shriek  
 **Spell-Like Abilities** (CL 4th; concentration +6)  
-Constant—*detect thoughts* (DC 14)  
+Constant—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 14)  
 At will—touch of madness (DC 14)  
-3/day—*calm emotions* (DC 14), *touch of idiocy* (DC 14)
+3/day—*[calm emotions* ](../../magic/spells/calm-emotions.md)(DC 14), *[touch of idiocy* ](../../magic/spells/touch-of-idiocy.md)(DC 14)
 
 **Statistics**
 

@@ -23,8 +23,8 @@ NE Large undead
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** channel negative energy (8d6, DC 24,  
 **Spell-Like Abilities** (CL 16th; concentration +22)  
-Constant—*freedom of movement*  
-1/day—*horrid wilting* (DC 24), *waves of exhaustion*
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+1/day—*[horrid wilting* ](../../magic/spells/horrid-wilting.md)(DC 24), *[waves of exhaustion](../../magic/spells/waves-of-exhaustion.md)*
 
 **Statistics**
 

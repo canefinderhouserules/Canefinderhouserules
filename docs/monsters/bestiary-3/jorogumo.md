@@ -21,9 +21,9 @@ NE Medium monstrous humanoid (shapechanger)
 **Melee** bite +20 (1d4+6/19–20 plus poison), 2 claws +20 (1d6+6)  
 **Special Attacks** sneak attack +3d6, web (+18 ranged, DC 23, 14 hp)  
 **Spell-Like Abilities** (CL 12th; concentration +19)  
-At will—*charm person* (DC 18), *detect thoughts* (DC 19)  
-3/day—*bestow curse* (DC 21), *suggestion* (DC 20)  
-1/day—*hold monster* (DC 22), *summon nature’s ally V* (1 ogre spider or 1d3 giant black widow spiders or 1d4+1 giant spiders)
+At will—*[charm person* ](../../magic/spells/charm-person.md)(DC 18), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 19)  
+3/day—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 21), *[suggestion* ](../../magic/spells/suggestion.md)(DC 20)  
+1/day—*[hold monster* ](../../magic/spells/hold-monster.md)(DC 22), *[summon nature’s ally V* ](../../magic/spells/summon-natures-ally-v.md)(1 ogre spider or 1d3 giant black widow spiders or 1d4+1 giant spiders)
 
 **Statistics**
 

@@ -21,13 +21,13 @@ NE Medium monstrous humanoid
 **Speed** 15 ft.  
 **Melee** *+1 quarterstaff* +12/+7 (1d6+2), bite +6 (1d6 plus poison)  
 **Spell-Like Abilities** (CL 4th; concentration +9)  
-At will—*disguise self* (DC 16, humanoid form only), *ventriloquism* (DC 16)  
-1/day—*blur*, *dominate person* (DC 20), *major image* (DC 18), *mirror image*, *suggestion* (DC 18)  
+At will—*[disguise self](../../magic/spells/disguise-self.md)* (DC 16, humanoid form only), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 16)  
+1/day—*[blur](../../magic/spells/blur.md)*, *[dominate person](../../magic/spells/dominate-person.md)* (DC 20), *[major image](../../magic/spells/major-image.md)* (DC 18), *[mirror image](../../magic/spells/mirror-image.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 18)  
 **Oracle Spells Known** (CL 7th; concentration +12)  
-3rd (5/day)—*animate dead*, *bestow curse* (DC 18), *chain of perdition*, *inflict serious wounds*  
-2nd (7/day)—*dread bolt* (DC 17), *false life*, *hold person* (DC 17), *inflict moderate wounds*, *instrument of agony*  
-1st (8/day)—*cause fear* (DC 16), *cure light wounds*, *inflict light wounds*, *murderous command* (DC 16), *obscuring mist*, *ray of sickening* (DC 16), *shield of faith*  
-0 (at will)—*bleed* (DC 15), *detect magic*, *detect poison*, *guidance*, *light*, *resistance*, *stabilize*  
+3rd (5/day)—*[animate dead](../../magic/spells/animate-dead.md)*, *[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *[chain of perdition](../../magic/spells/chain-of-perdition.md)*, *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)*  
+2nd (7/day)—*[dread bolt](../../magic/spells/dread-bolt.md)* (DC 17), *[false life](../../magic/spells/false-life.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 17), *[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)*, *[instrument of agony](../../magic/spells/instrument-of-agony.md)*  
+1st (8/day)—*[cause fear](../../magic/spells/cause-fear.md)* (DC 16), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[inflict light wounds](../../magic/spells/inflict-light-wounds.md)*, *[murderous command](../../magic/spells/murderous-command.md)* (DC 16), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[ray of sickening](../../magic/spells/ray-of-sickening.md)* (DC 16), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[resistance](../../magic/spells/resistance.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **Mystery** bones
 
 **Tactics**

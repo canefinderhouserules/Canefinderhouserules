@@ -24,9 +24,9 @@ NG Gargantuan magical beast
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** banishing swipe, glaring ray, radiant feathers  
 **Spell-Like Abilities** (CL 16th; concentration +22)  
-Constant—*detect evil*, *detect magic*, *tongues*  
-At will—*daylight*, *zone of truth* (DC 18)  
-3/day—*flame strike* (DC 21), *mass cure critical wounds*
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[daylight](../../magic/spells/daylight.md)*, *[zone of truth* ](../../magic/spells/zone-of-truth.md)(DC 18)  
+3/day—*[flame strike* ](../../magic/spells/flame-strike.md)(DC 21), *[mass cure critical wounds](../../magic/spells/cure-critical-wounds-mass.md)*
 
 **Statistics**
 

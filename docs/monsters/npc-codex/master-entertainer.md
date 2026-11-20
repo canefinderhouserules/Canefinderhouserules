@@ -23,7 +23,7 @@ CN Small humanoid (gnome)
 **Ranged**  dagger +10/+5 (1d3–2/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*
 
 **Tactics**
 

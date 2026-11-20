@@ -22,9 +22,9 @@ N Tiny magical beast
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** aided insight  
 **Spell-Like Abilities** (CL 5th; concentration +6)  
-Constant—*comprehend languages*  
-At will—*detect magic*, *detect secret doors*  
-3/day—*burning hands*, *cause fear*, *identify*, *vanish*
+Constant—*[comprehend languages](../../magic/spells/comprehend-languages.md)*  
+At will—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect secret doors](../../magic/spells/detect-secret-doors.md)*  
+3/day—*[burning hands](../../magic/spells/burning-hands.md)*, *[cause fear](../../magic/spells/cause-fear.md)*, *[identify](../../magic/spells/identify.md)*, *[vanish](../../magic/spells/vanish.md)*
 
 **Statistics**
 

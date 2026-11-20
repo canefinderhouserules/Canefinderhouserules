@@ -25,10 +25,10 @@ CE Small humanoid (charau-ka)
 6/day—touch of chaos  
 6/day—touch of evil (2 rounds)  
 **Cleric Spells Prepared** (CL 5th; concentration +8)  
-3rd—*bestow curse* (DC 16), *blindness/deafness* (DC 16), *magic circle against good*<sup>D</sup>  
-2nd—*aid*, *align weapon*<sup>D</sup>, *desecrate*, *silence* (DC 15)  
-1st—*bane* (DC 14), *cure light wounds* (2), *magic stone*, *protection from good*<sup>D</sup>  
-0 (at will)—*bleed* (DC 13), *detect magic*, *detect poison*, *purify food and drink*  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 16), *[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 16), *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*<sup>D</sup>  
+2nd—*[aid](../../magic/spells/aid.md)*, *[align weapon](../../magic/spells/align-weapon.md)*<sup>D</sup>, *[desecrate](../../magic/spells/desecrate.md)*, *[silence](../../magic/spells/silence.md)* (DC 15)  
+1st—*[bane](../../magic/spells/bane.md)* (DC 14), *[cure light wounds](../../magic/spells/cure-light-wounds.md)* (2), *[magic stone](../../magic/spells/magic-stone.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*<sup>D</sup>  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*  
 **D** domain spell; **Domains** Chaos, Evil
 
 **Statistics**

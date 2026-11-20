@@ -23,10 +23,10 @@ CN Medium fey
 At will—*forced quiet, invisibility* (self only), *mending,
 prestidigitation, stone call*  
 
-3/day—*break* (DC 16), *charm animal* (DC 16), *deep
-slumber* (DC 18), *pain strike* (DC 16)  
+3/day—*[break](../../magic/spells/break.md)* (DC 16), *[charm animal](../../magic/spells/charm-animal.md)* (DC 16), *[deep
+slumber](../../magic/spells/deep-slumber.md)* (DC 18), *[pain strike](../../magic/spells/pain-strike.md)* (DC 16)  
 
-1/day—*major image* (DC 18), *make whole, summon swarm*
+1/day—*[major image](../../magic/spells/major-image.md)* (DC 18), *make whole, summon swarm*
 
 **Statistics**
 

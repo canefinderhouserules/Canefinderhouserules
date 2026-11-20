@@ -21,7 +21,7 @@ N Large plant (extraplanar)
 **Melee** bite +12 (1d8+4 plus incite emotion), 6 tentacles +10 (1d4+2 plus trip)  
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Spell-Like Abilities** (CL 8th; concentration +10)  
-Constant—*analyze aura* (emotion only), *see invisibility*
+Constant—*[analyze aura](../../magic/spells/analyze-aura.md)* (emotion only), *[see invisibility](../../magic/spells/see-invisibility.md)*
 
 **Statistics**
 

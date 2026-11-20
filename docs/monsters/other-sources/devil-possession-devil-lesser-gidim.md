@@ -22,9 +22,9 @@ LE Medium outsider (devil, evil, extraplanar, incorporeal, lawful)
 **Melee** 2 claws +10 touch (1d4+3), bite +10 touch (1d6+3)  
 **Special Attacks** dread, malevolence  
 **Spell-Like Abilities** (CL 12th)  
-Constant — *greater invisibility*  
-At will — *bleed* (DC 13), *ghost sound** (DC 13), *greater teleport* (self plus 50 lbs. of objects only), *knock** (DC 15), *levitate** (DC 15), *open/close** (DC 13), *prestidigitation** (DC 13), *mage hand** (DC 13)  
-3/day — *animate rope** (DC 14), *dancing lights** (DC 13), *ethereal jaunt* (Ethereal Plane to Material Plane and vice versa), *minor creation*, *plane shift* (self only; to Ethereal Plane, Hell, or Material Plane only), *produce flame** (DC 14), *silent image** (DC 14), *suggestion* (DC 16), *unseen servant** (DC 14)  
+Constant — *[greater invisibility](../../magic/spells/invisibility-greater.md)*  
+At will — *[bleed](../../magic/spells/bleed.md)* (DC 13), *[ghost sound](../../magic/spells/ghost-sound.md)** (DC 13), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[knock](../../magic/spells/knock.md)** (DC 15), *[levitate](../../magic/spells/levitate.md)** (DC 15), *[open/close](../../magic/spells/open-close.md)** (DC 13), *[prestidigitation](../../magic/spells/prestidigitation.md)** (DC 13), *[mage hand](../../magic/spells/mage-hand.md)** (DC 13)  
+3/day — *[animate rope](../../magic/spells/animate-rope.md)** (DC 14), *[dancing lights](../../magic/spells/dancing-lights.md)** (DC 13), *[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)* (Ethereal Plane to Material Plane and vice versa), *[minor creation](../../magic/spells/minor-creation.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (self only; to Ethereal Plane, Hell, or Material Plane only), *[produce flame](../../magic/spells/produce-flame.md)** (DC 14), *[silent image](../../magic/spells/silent-image.md)** (DC 14), *[suggestion](../../magic/spells/suggestion.md)* (DC 16), *[unseen servant](../../magic/spells/unseen-servant.md)** (DC 14)  
 1/day — *summon* (level 4, 1 lesser possession devil, 40%)  
 * causes dread
 

@@ -23,14 +23,14 @@ CG Medium fey
 **Melee** club +5 (1d6), dagger +10 (1d4)  
 **Ranged**  mwk longbow +11 (1d8/×3)  
 **Spell-Like Abilities** (CL 6th; concentration +11)  
-Constant—*speak with plants*  
-At will—*entangle* (DC 16), *tree shape*, *wood shape* (1 lb. only)  
-3/day—*charm person* (DC 16), *deep slumber* (DC 18), *tree stride*  
-1/day—*suggestion* (DC 18)  
+Constant—*[speak with plants](../../magic/spells/speak-with-plants.md)*  
+At will—*[entangle](../../magic/spells/entangle.md)* (DC 16), *[tree shape](../../magic/spells/tree-shape.md)*, *[wood shape](../../magic/spells/wood-shape.md)* (1 lb. only)  
+3/day—*[charm person](../../magic/spells/charm-person.md)* (DC 16), *[deep slumber](../../magic/spells/deep-slumber.md)* (DC 18),[ *tree stride](../../magic/spells/tree-stride.md)*  
+1/day—*[suggestion](../../magic/spells/suggestion.md)* (DC 18)  
 **Druid Spells Prepared** (CL 3rd; concentration +7)  
-2nd—*barkskin*<sup>D</sup>, *lesser restoration*, *summon swarm*  
-1st—*cure light wounds*, *enlarge person*<sup>D</sup>, *obscuring mist*, *shillelagh*  
-0 (at will)—*create water*, *guidance*, *mending*, *stabilize*
+2nd—*[barkskin](../../magic/spells/barkskin.md)*<sup>D</sup>, *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[enlarge person](../../magic/spells/enlarge-person.md)*<sup>D</sup>, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shillelagh](../../magic/spells/shillelagh.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[guidance](../../magic/spells/guidance.md)*, *[mending](../../magic/spells/mending.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

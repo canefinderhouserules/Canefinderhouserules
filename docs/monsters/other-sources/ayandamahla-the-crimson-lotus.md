@@ -22,17 +22,17 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Melee** *+5 speed wounding rapier* +31/+31/+26/+21/+16 (1d6+10/18–20), *+5 wounding unholy whip* +31/+26/+21 (1d3+10)  
 **Special Attacks** bardic performance 56 rounds/day (swift action, countersong, deadly performance, dirge of doom, distraction, fascinate, frightening tune, inspire competence +6, inspire courage +4, inspire greatness, inspire heroics, mass suggestion, soothing performance, suggestion), energy drain, profane gift  
 **Spell-Like Abilities** (CL 12th; concentration +26)  
-Constant—*detect good*, *tongues*  
-At will—*charm monster* (DC 28), *detect thoughts* (DC 26), *ethereal jaunt* (self plus 50 lbs. of objects only), *greater teleport* (self plus 50 lbs. of objects only), *suggestion* (DC 27)  
-1/day—*dominate person* (DC 29), summon (level 3, 1 babau 50%)  
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 28), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 26), *[ethereal jaunt* ](../../magic/spells/ethereal-jaunt.md)(self plus 50 lbs. of objects only), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[suggestion* ](../../magic/spells/suggestion.md)(DC 27)  
+1/day—*[dominate person* ](../../magic/spells/dominate-person.md)(DC 29), summon (level 3, 1 babau 50%)  
 **Bard Spells Known** (CL 20th; concentration +34)  
-6th (8/day)—*mass charm monster* (DC 30), *geas/quest*, *irresistible dance*, *project image* (DC 30), *veil* (DC 30)  
-5th (8/day)—*mind fog* (DC 29), *nightmare* (DC 29), *persistent image* (DC 29), *song of discord* (DC 29), *mass suggestion* (DC 29)  
-4th (8/day)—*cure critical wounds*, *dominate person* (DC 28), *freedom of movement*, *invisibility*, *modify memory* (DC 28), *zone of silence*  
-3rd (8/day)—*confusion* (DC 27), *cure serious wounds*, *dispel magic*, *displacement*, *major image* (DC 27), *scrying* (DC 27)  
-2nd (9/day)—*blindness/deafness* (DC 26), *cure moderate wounds*, *hold person* (DC 26), *mirror image*, *misdirection*, *sound burst* (DC 26)  
-1st (9/day)—*animate rope*, *cure light wounds*, *feather fall*, *hideous laughter* (DC 25), *silent image* (DC 25), *undetectable alignment*  
-0 (at will)—*dancing lights*, *detect magic*, *ghost sound* (DC 24), *message*, *prestidigitation*, *summon instrument*
+6th (8/day)—*[mass charm monster* ](../../magic/spells/charm-monster-mass.md)(DC 30), *[geas/quest](../../magic/spells/geas-quest.md)*, *[irresistible dance](../../magic/spells/irresistible-dance.md)*, *[project image* ](../../magic/spells/project-image.md)(DC 30), *[veil* ](../../magic/spells/veil.md)(DC 30)  
+5th (8/day)—*[mind fog* ](../../magic/spells/mind-fog.md)(DC 29), *[nightmare* ](../../magic/spells/nightmare.md)(DC 29), *[persistent image* ](../../magic/spells/persistent-image.md)(DC 29), *[song of discord* ](../../magic/spells/song-of-discord.md)(DC 29), *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 29)  
+4th (8/day)—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[dominate person* ](../../magic/spells/dominate-person.md)(DC 28), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[modify memory* ](../../magic/spells/modify-memory.md)(DC 28), *[zone of silence](../../magic/spells/zone-of-silence.md)*  
+3rd (8/day)—*[confusion* ](../../magic/spells/confusion.md)(DC 27), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[displacement](../../magic/spells/displacement.md)*, *[major image* ](../../magic/spells/major-image.md)(DC 27), *[scrying* ](../../magic/spells/scrying.md)(DC 27)  
+2nd (9/day)—*[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 26), *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 26), *[mirror image](../../magic/spells/mirror-image.md)*, *[misdirection](../../magic/spells/misdirection.md)*, *[sound burst* ](../../magic/spells/sound-burst.md)(DC 26)  
+1st (9/day)—*[animate rope](../../magic/spells/animate-rope.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 25), *[silent image* ](../../magic/spells/silent-image.md)(DC 25), *[undetectable alignment](../../magic/spells/undetectable-alignment.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 24), *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[summon instrument](../../magic/spells/summon-instrument.md)*
 
 **Statistics**
 

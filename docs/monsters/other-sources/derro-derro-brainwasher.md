@@ -24,11 +24,11 @@ CE Small humanoid (derro)
 **Ranged**  repeating light crossbow +8 (1d6/19–20) or aklys +8 (1d6)  
 **Special Attacks** bardic performance 17 rounds/day (countersong, distraction, fascinate [DC 16], inspire courage +1), sneak attack +1d6  
 **Spell-Like Abilities** (CL 3rd; concentration +8)  
-At will—*darkness*, *ghost sound* (DC 15)  
-1/day—*daze* (DC 15), *sound burst* (DC 17)  
+At will—*[darkness](../../magic/spells/darkness.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15)  
+1/day—*[daze](../../magic/spells/daze.md)* (DC 15), *[sound burst](../../magic/spells/sound-burst.md)* (DC 17)  
 **Bard Spells Known** (CL 2nd; concentration +7)  
-1st (4/day)—*cause fear* (DC 16), *memory lapse* (DC 16), *sleep* (DC 16)  
-0 (at will)—*detect magic*, *flare* (DC 15), *lullaby* (DC 15), *mage hand*, *message*
+1st (4/day)—*[cause fear](../../magic/spells/cause-fear.md)* (DC 16), *[memory lapse](../../magic/spells/memory-lapse.md)* (DC 16), *[sleep](../../magic/spells/sleep.md)* (DC 16)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[flare](../../magic/spells/flare.md)* (DC 15), *[lullaby](../../magic/spells/lullaby.md)* (DC 15), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*
 
 **Statistics**
 

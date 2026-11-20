@@ -22,10 +22,10 @@ CE Large outsider (chaotic, demon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** breath weapon (30-foot cone, once every 1d4 rounds, 10d6 acid and 10d6 fire, Reflex DC 25 half), project blame, rend (2 claws, 2d4+10)  
 **Spell-Like Abilities** (CL 15th; concentration +21)  
-Constant—*see invisibility*  
- At will—*charm monster* (DC 20), *greater command* (DC 21)  
- 3/day—*dominate person* (DC 21), quickened *fireball* (DC 19), *rage* (DC 19), *song of discord* (DC 21)  
- 1/day—*demand* (DC 24), *mass suggestion* (DC 22), summon (level 6, 1 succubus 35%)
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+ At will—*[charm monster](../../magic/spells/charm-monster.md)* (DC 20), *[greater command](../../magic/spells/command-greater.md)* (DC 21)  
+ 3/day—*[dominate person](../../magic/spells/dominate-person.md)* (DC 21), quickened *[fireball](../../magic/spells/fireball.md)* (DC 19), *[rage](../../magic/spells/rage.md)* (DC 19), *[song of discord](../../magic/spells/song-of-discord.md)* (DC 21)  
+ 1/day—*[demand](../../magic/spells/demand.md)* (DC 24), *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 22), summon (level 6, 1 succubus 35%)
 
 **Statistics**
 

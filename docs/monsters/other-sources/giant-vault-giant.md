@@ -23,7 +23,7 @@ LE Gargantuan humanoid (aquatic, giant, reptilian)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** tail swat  
 **Psychic Magic** (CL 19th; concentration +24)  
-20 PE—*anticipate thoughts* (2 PE, DC 17), *greater synaptic pulse* (5 PE, DC 20), *mental barrier IV* (5 PE), *mindlink* (1 PE), *mind probe* (4 PE, DC 19), *mind thrust V* (5 PE, DC 20), *riding possession* (4 PE, DC 19)
+20 PE—*[anticipate thoughts](../../magic/spells/anticipate-thoughts.md)* (2 PE, DC 17), *[greater synaptic pulse](../../magic/spells/synaptic-pulse-greater.md)* (5 PE, DC 20), *[mental barrier IV](../../magic/spells/mental-barrier-iv.md)* (5 PE), *[mindlink](../../magic/spells/mindlink.md)* (1 PE), *[mind probe](../../magic/spells/mind-probe.md)* (4 PE, DC 19), *[mind thrust V](../../magic/spells/mind-thrust-v.md)* (5 PE, DC 20), *[riding possession](../../magic/spells/riding-possession.md)* (4 PE, DC 19)
 
 **Statistics**
 

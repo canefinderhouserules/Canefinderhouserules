@@ -21,7 +21,7 @@ NE Medium monstrous humanoid
 **Ranged**  longbow +6 (1d8/×3)  
 **Special Attacks** rend (2 claws 1d4 +1)  
 **Spell-Like Abilities** (CL 4th; concentration +4)  
-Constant—*pass without trace*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*
 
 **Statistics**
 

@@ -23,8 +23,8 @@ LN Small humanoid (reptilian)
 **Ranged**  light crossbow +4 (1d6/19–20)  
 **Special Attacks** claws (1d3–3, 5 rounds/day)  
 **Sorcerer Spells Known** (CL 1st; concentration +3)  
-1st (4/day)—*burning hands* (DC 13), *charm person* (DC 13)  
-0 (at will)—*dancing lights*, *detect magic*, *flare* (DC 12), *ray of frost*  
+1st (4/day)—*[burning hands](../../magic/spells/burning-hands.md)* (DC 13), *[charm person](../../magic/spells/charm-person.md)* (DC 13)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[flare](../../magic/spells/flare.md)* (DC 12), *[ray of frost](../../magic/spells/ray-of-frost.md)*  
 **Bloodline** draconic (gold)
 
 **Statistics**

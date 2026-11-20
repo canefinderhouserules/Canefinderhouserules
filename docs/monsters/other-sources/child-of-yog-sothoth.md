@@ -23,15 +23,15 @@ CE Medium aberration (augmented humanoid)
 **Melee** *+1 dagger* +6 (1d4+3/19–20), tail +5 (1d6+1)  
 **Special Attacks** blood drain (1d2 Con), hand of the apprentice (8/day), stench (DC 18, 7 rounds/day)  
 **Spell-Like Abilities** (CL 7th; concentration +12)  
-3/day—*comprehend languages*, *detect thoughts* (DC 17), *hypnotism* (DC 16)  
-1/day—*invisibility*  
-1/week—*contact entity I*, *contact entity II*  
+3/day—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[hypnotism](../../magic/spells/hypnotism.md)* (DC 16)  
+1/day—*[invisibility](../../magic/spells/invisibility.md)*  
+1/week—*[contact entity I](../../magic/spells/contact-entity-i.md)*, *[contact entity II](../../magic/spells/contact-entity-ii.md)*  
 **Wizard Spells Prepared** (CL 7th; concentration +12)  
-4th—*black tentacles*, *dimension door*  
-3rd—*dispel magic*, *suggestion* (DC 18), *vampiric touch*  
-2nd—*acid arrow*, *mirror image*, *summon monster II*, *summon swarm*  
-1st—*charm person* (2, DC 16), *grease* (DC 16), *mage armor*, *ray of enfeeblement* (2, DC 16)  
-0 (at will)—*arcane mark*, *detect magic*, *mage hand*, *open/close* (DC 15)
+4th—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[dimension door](../../magic/spells/dimension-door.md)*  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 18), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[summon monster II](../../magic/spells/summon-monster-ii.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st—*[charm person](../../magic/spells/charm-person.md)* (2, DC 16), *[grease](../../magic/spells/grease.md)* (DC 16), *[mage armor](../../magic/spells/mage-armor.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (2, DC 16)  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)* (DC 15)
 
 **Statistics**
 

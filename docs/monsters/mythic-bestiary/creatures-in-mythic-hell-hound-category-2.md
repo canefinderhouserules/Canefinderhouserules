@@ -23,7 +23,7 @@ LE Large outsider (evil, extraplanar, fire, lawful, mythic)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** breath weapon (30-ft. cone, 10d6 fire plus clinging flames, Reflex DC 21 half, usable every 1d4 rounds), burn (1d6, DC 21), mythic power (4/day, surge +1d8)  
 **Spell-Like Abilities** (CL 12th; concentration +10)  
-3/day—*dimension door*, *locate creature*
+3/day—*[dimension door](../../magic/spells/dimension-door.md)*, *[locate creature](../../magic/spells/locate-creature.md)*
 
 **Statistics**
 

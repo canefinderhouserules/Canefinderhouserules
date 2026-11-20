@@ -22,8 +22,8 @@ CE Medium outsider (chaotic, evil, extraplanar)
 **Melee** 4 claws +16 (1d4+6/19–20)  
 **Special Attacks** fleshwarping  
 **Spell-Like Abilities** (CL 8th; concentration +10)  
-Constant—*blur*  
-At will—*dimension door* (self plus 50 lbs. of objects only)  
+Constant—*[blur](../../magic/spells/blur.md)*  
+At will—*[dimension door](../../magic/spells/dimension-door.md)* (self plus 50 lbs. of objects only)  
 1/day—*unstable summoning*
 
 **Statistics**

@@ -20,9 +20,9 @@ N Medium magical beast (shapechanger)
 **Melee** bite +8 (1d6 plus poison)  
 **Special Attacks** web (+8 ranged, DC 14, hp 5)  
 **Sorcerer Spells Known** (CL 5th; concentration +8)  
-2nd (5/day)—*invisibility*, *mirror image*  
-1st (7/day)—*charm person* (DC 14), *mage armor* (1 already cast), *silent image* (DC 14), *sleep* (DC 14)  
-0 (at will)—*daze* (DC 13), *detect magic*, *ghost sound* (DC 13), *light*, *mage hand*, *resistance*
+2nd (5/day)—*[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (7/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 14), *[mage armor](../../magic/spells/mage-armor.md)* (1 already cast), *[silent image](../../magic/spells/silent-image.md)* (DC 14), *[sleep* ](../../magic/spells/sleep.md)(DC 14)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 13),[ *detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 13), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

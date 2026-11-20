@@ -22,10 +22,10 @@ NE Colossal undead
 **Space** 30 ft., **Reach** 20 ft. (40 ft. with tendrils)  
 **Special Attacks** voice of the ancients  
 **Spell-Like Abilities** (CL 18th; concentration +25)  
-Constant—*see invisibility*  
-At will—*augury*, *blindness/deafness* (DC 20), *doom* (DC 18)  
-3/day—*bestow curse* (DC 20), *speak with dead* (DC 20), *unholy blight* (DC 21)  
-1/day—*blasphemy* (DC 24), *horrid wilting* (DC 25)
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[augury](../../magic/spells/augury.md)*, *[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 20), *[doom* ](../../magic/spells/doom.md)(DC 18)  
+3/day—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 20), *[speak with dead* ](../../magic/spells/speak-with-dead.md)(DC 20), *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 21)  
+1/day—*[blasphemy* ](../../magic/spells/blasphemy.md)(DC 24), *[horrid wilting* ](../../magic/spells/horrid-wilting.md)(DC 25)
 
 **Statistics**
 

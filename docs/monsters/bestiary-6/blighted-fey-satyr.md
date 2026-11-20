@@ -24,8 +24,8 @@ good; **Immune** disease, paralysis, poison, polymorph; **Resist** cold 10, elec
 thorn throw +6 (1d4+4 plus parasitic bond)  
 **Special Attacks** pipes  
 **Spell-Like Abilities** (CL 8th; concentration +13)  
-At will—*charm person* (DC 16), *dancing lights, ghost sound* (DC 15), *sleep* (DC 16), *suggestion* (DC 17)  
-1/day—*fear* (DC 18), *summon nature’s ally III*
+At will—*[charm person](../../magic/spells/charm-person.md)* (DC 16), *dancing lights, ghost sound* (DC 15), *[sleep](../../magic/spells/sleep.md)* (DC 16), *[suggestion](../../magic/spells/suggestion.md)* (DC 17)  
+1/day—*[fear](../../magic/spells/fear.md)* (DC 18), *[summon nature’s ally III](../../magic/spells/summon-natures-ally-iii.md)*
 
 **Statistics**
 

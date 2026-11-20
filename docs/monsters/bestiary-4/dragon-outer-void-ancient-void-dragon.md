@@ -23,17 +23,17 @@ NE Gargantuan dragon
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. Cone, 20d8 cold, DC 29), crush, obliterate (DC 29), suffocating breath (DC 29), tail sweep, void gaze (DC 29)  
 **Spell-Like Abilities** (CL 24th; concentration +31)  
-At will—*blur*, *dimension door*, *ray of enfeeblement* (DC 18), *ray of exhaustion* (DC 20)  
-1/day—*nightmare* (DC 22)  
+At will—*[blur](../../magic/spells/blur.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 18), *[ray of exhaustion* ](../../magic/spells/ray-of-exhaustion.md)(DC 20)  
+1/day—*[nightmare* ](../../magic/spells/nightmare.md)(DC 22)  
 **Sorcerer Spells Known** (CL 15th; concentration +22)  
-7th (5/day)—*prismatic spray* (DC 24), *vision*  
-6th (7/day)—*disintegrate* (DC 23), *eyebite* (DC 23), *shadow walk*  
-5th (7/day)—*break enchantment*, *dismissal* (DC 22), *dominate person* (DC 22), *feeblemind* (DC 22)  
-4th (7/day)—*charm monster* (DC 21), *confusion* (DC 21), *dimensional anchor*, *scrying* (DC 21)  
-3rd (8/day)—*dispel magic*, *haste*, *heroism*, *lightning bolt* (DC 20)  
-2nd (7/day)—*invisibility*, *locate object*, *resist energy*, *touch of idiocy* (DC 19), *share memory* (DC 19)  
-1st (8/day)—*alarm*, *cause fear* (DC 18), *hypnotism* (DC 18), *mage armor*, *obscuring mist*  
-0 (at will)—*detect magic*, *mage hand*, *read magic*, 6 more
+7th (5/day)—*[prismatic spray* ](../../magic/spells/prismatic-spray.md)(DC 24), *[vision](../../magic/spells/vision.md)*  
+6th (7/day)—*[disintegrate* ](../../magic/spells/disintegrate.md)(DC 23), *[eyebite* ](../../magic/spells/eyebite.md)(DC 23), *[shadow walk](../../magic/spells/shadow-walk.md)*  
+5th (7/day)—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[dismissal* ](../../magic/spells/dismissal.md)(DC 22), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 22), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 22)  
+4th (7/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 21), *[confusion* ](../../magic/spells/confusion.md)(DC 21), *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[scrying* ](../../magic/spells/scrying.md)(DC 21)  
+3rd (8/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[haste](../../magic/spells/haste.md)*, *[heroism](../../magic/spells/heroism.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 20)  
+2nd (7/day)—*[invisibility](../../magic/spells/invisibility.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[touch of idiocy* ](../../magic/spells/touch-of-idiocy.md)(DC 19), *[share memory* ](../../magic/spells/share-memory.md)(DC 19)  
+1st (8/day)—*[alarm](../../magic/spells/alarm.md)*, *[cause fear* ](../../magic/spells/cause-fear.md)(DC 18), *[hypnotism* ](../../magic/spells/hypnotism.md)(DC 18), *[mage armor](../../magic/spells/mage-armor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*, 6 more
 
 **Statistics**
 

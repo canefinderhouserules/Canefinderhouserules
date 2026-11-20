@@ -23,9 +23,9 @@ CG Large outsider (native)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** smite evil 1/day (+7 attack, +4 damage), powerful charge (gore, 2d8+12)  
 **Spell-Like Abilities** (CL 9th)  
-At will—*detect evil*, *light*  
-3/day—*cure light wounds*, *protection from evil*  
-1/day—*aid*, *bless*, *cure moderate wounds*, *greater teleport* (within its territory*), *neutralize poison*
+At will—*[detect evil](../../magic/spells/detect-evil.md)*, *[light](../../magic/spells/light.md)*  
+3/day—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*  
+1/day—*[aid](../../magic/spells/aid.md)*, *[bless](../../magic/spells/bless.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(within its territory*), *[neutralize poison](../../magic/spells/neutralize-poison.md)*
 
 **Statistics**
 

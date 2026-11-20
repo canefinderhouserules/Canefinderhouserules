@@ -22,9 +22,9 @@ CG Medium outsider (chaotic, extraplanar, good)
 **Ranged**  *+1 returning starknife* +19/+14/+9 (1d4+2/19–20/×3)  
 **Special Attacks** dream powder, sneak attack +3d6  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-At will—*dancing lights*, *dream*, *restful sleep*  
-3/day—*greater teleport* (self plus 50 lbs. of gear only), *glitterdust* (DC 17), *dispel evil*, *plane shift* (DC 22)  
-1/day—*cloak of dreams* (DC 21), *confusion* (DC 19), *dream travel*
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[dream](../../magic/spells/dream.md)*, *[restful sleep](../../magic/spells/restful-sleep.md)*  
+3/day—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of gear only), *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 17), *[dispel evil](../../magic/spells/dispel-evil.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(DC 22)  
+1/day—*[cloak of dreams* ](../../magic/spells/cloak-of-dreams.md)(DC 21), *[confusion* ](../../magic/spells/confusion.md)(DC 19), *[dream travel](../../magic/spells/dream-travel.md)*
 
 **Statistics**
 

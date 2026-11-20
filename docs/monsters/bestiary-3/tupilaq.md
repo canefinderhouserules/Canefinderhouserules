@@ -21,7 +21,7 @@ N Small construct
 **Melee** bite +15 (1d8+10/19–20 plus grab), 2 claws +15 (1d4+5)  
 **Special Attacks** seek target, shearing jaws  
 **Spell-Like Abilities** (CL 7th; concentration +4)  
-3/day—*invisibility*
+3/day—*[invisibility](../../magic/spells/invisibility.md)*
 
 **Statistics**
 

@@ -23,11 +23,11 @@ LG Fine outsider (archon, extraplanar, good, lawful, swarm)
 **Space** 10 ft., **Reach** 0 ft.  
 **Special Attacks** distraction (DC 24), heat (3d6 fire), vibrating combustion  
 **Spell-Like Abilities** (CL 18th; concentration +22)  
-Constant—*deathwatch*, *magic circle against evil*  
-At will—*detect evil*, *greater teleport* (self only)  
-7/day—*lesser restoration*  
-5/day—*mass cure light wounds*, *neutralize poison*  
-3/day—*greater restoration*, *heal*
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*, *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self only)  
+7/day—*[lesser restoration](../../magic/spells/restoration-lesser.md)*  
+5/day—*[mass cure light wounds](../../magic/spells/cure-light-wounds-mass.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*  
+3/day—*[greater restoration](../../magic/spells/restoration-greater.md)*, *[heal](../../magic/spells/heal.md)*
 
 **Statistics**
 

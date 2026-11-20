@@ -25,10 +25,10 @@ LE Medium humanoid (human)
 **Spell-Like Abilities** (CL 6th; concentration +9)  
 6/day—corrupting touch (3 rounds)  
 **Sorcerer Spells Known** (CL 6th; concentration +9)  
-3rd (4/day)—*hold person* (DC 16)  
-2nd (6/day)—*bull’s strength*, *flaming sphere* (DC 16), *scorching ray*  
-1st (7/day)—*charm person* (DC 16), *magic missile*, *protection from good*, *shield*, *summon monster I*  
-0 (at will)—*arcane mark*, *bleed* (DC 13), *daze* (DC 13), *light*, *message*, *ray of frost*, *read magic*  
+3rd (4/day)—*[hold person](../../magic/spells/hold-person.md)* (DC 16)  
+2nd (6/day)—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[flaming sphere](../../magic/spells/flaming-sphere.md)* (DC 16), *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (7/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 16), *[magic missile](../../magic/spells/magic-missile.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*, *[shield](../../magic/spells/shield.md)*, *[summon monster I](../../magic/spells/summon-monster-i.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[bleed](../../magic/spells/bleed.md)* (DC 13), *[daze](../../magic/spells/daze.md)* (DC 13), *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** infernal
 
 **Tactics**

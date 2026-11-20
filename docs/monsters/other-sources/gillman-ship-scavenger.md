@@ -24,7 +24,7 @@ N Medium humanoid (aquatic)
 **Ranged**  shortspear +9/+4 (1d6+2)  
 **Special Attacks** combat style (two-weapon), favored enemy (animals +2, aquatic humanoids +4)  
 **Ranger Spells Prepared** (CL 3rd; concentration +4)  
-1st—*resist energy*, *summon nature’s ally I*
+1st—*[resist energy](../../magic/spells/resist-energy.md)*, *[summon nature’s ally I](../../magic/spells/summon-natures-ally-i.md)*
 
 **Statistics**
 

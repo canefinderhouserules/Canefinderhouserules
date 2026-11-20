@@ -23,9 +23,9 @@ LE Huge outsider (evil, native)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (30-ft. cone, 14d6 fire damage, Reflex DC 29 half, usable every 1d4 rounds), devour soul, powerful jaw, swallow whole (3d6+13 bludgeoning plus 4d6 fire plus wasting curse, AC 20, 29 hp), wasting curse  
 **Spell-Like Abilities** (CL 14th; concentration +23)  
-Constant—*detect evil*, *detect good*, *detect chaos*, *true seeing*  
-3/day—quickened *ear-piercing scream* (DC 20)  
-1/day—*dominate monster*
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect chaos](../../magic/spells/detect-chaos.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+3/day—quickened *[ear-piercing scream](../../magic/spells/ear-piercing-scream.md)* (DC 20)  
+1/day—*[dominate monster](../../magic/spells/dominate-monster.md)*
 
 **Statistics**
 

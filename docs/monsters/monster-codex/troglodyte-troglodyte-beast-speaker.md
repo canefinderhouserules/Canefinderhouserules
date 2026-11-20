@@ -22,13 +22,13 @@ CE Medium humanoid (reptilian)
 **Melee** mwk club +4 (1d6), bite –2 (1d4), claw –2 (1d4) or bite +3 (1d4), 2 claws +3 (1d4)  
 **Ranged**  javelin +3 (1d6)  
 **Druid Spells Prepared** (CL 3rd; concentration +5)  
-2nd—*hold animal*<sup>D</sup> (DC 14), *spider climb*, *summon swarm*  
-1st—*calm animals*<sup>D</sup> (DC 13), *charm animal* (DC 13), *cure light wounds*, *entangle* (DC 13)  
-0 (at will)—*create water*, *detect magic*, *guidance*, *know direction*
+2nd—*[hold animal](../../magic/spells/hold-animal.md)*<sup>D</sup> (DC 14), *[spider climb](../../magic/spells/spider-climb.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st—*[calm animals](../../magic/spells/calm-animals.md)*<sup>D</sup> (DC 13), *[charm animal](../../magic/spells/charm-animal.md)* (DC 13), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[entangle](../../magic/spells/entangle.md)* (DC 13)  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[know direction](../../magic/spells/know-direction.md)*
 
 **Tactics**
 
-**Before Combat** The beast-speaker casts *spider climb* on himself and tries to ambush his prey from the ceiling, high wall, or ledge.  
+**Before Combat** The beast-speaker casts *[spider climb](../../magic/spells/spider-climb.md)* on himself and tries to ambush his prey from the ceiling, high wall, or ledge.  
  **Base Statistics** Without *spider climb*, the beast-speaker’s statistics are **Speed** 30 ft.; **Skills** Climb +0.
 
 **Statistics**

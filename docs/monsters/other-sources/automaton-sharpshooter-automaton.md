@@ -23,10 +23,10 @@ LN Medium construct (automaton, extraplanar)
 **Ranged** automated crossbow +25/+20/+15/+10 (2d8+6/17-20 plus 1d6 fire)  
 **Special Attacks** arcane propulsion, bolt volley, energy beam  
 **Spell-Like Abilities** (CL 20th; concentration +24)  
-Constant—*see invisibility*  
-At will—*hold person* (DC 16), *mirror image*, *web* (DC 16)  
-3/day—*chain lightning* (DC 20), *wall of force*  
-1/day—*plane shift* (self plus 50 lbs. of objects only), *reverse gravity*
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[hold person](../../magic/spells/hold-person.md)* (DC 16), *[mirror image](../../magic/spells/mirror-image.md)*, *[web](../../magic/spells/web.md)* (DC 16)  
+3/day—*[chain lightning](../../magic/spells/chain-lightning.md)* (DC 20), *[wall of force](../../magic/spells/wall-of-force.md)*  
+1/day—*[plane shift](../../magic/spells/plane-shift.md)* (self plus 50 lbs. of objects only), *[reverse gravity](../../magic/spells/reverse-gravity.md)*
 
 **Statistics**
 

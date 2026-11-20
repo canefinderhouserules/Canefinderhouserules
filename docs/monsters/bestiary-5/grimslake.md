@@ -22,8 +22,8 @@ CE Large aberration (extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** constrict (1d6+6), marrow drain, penetrating jaws  
 **Spell-Like Abilities** (CL 6th; concentration +6)  
-3/day—*death knell* (DC 12), *ray of exhaustion* (DC 13)  
-1/day—*slow* (DC 13)
+3/day—*[death knell](../../magic/spells/death-knell.md)* (DC 12), *[ray of exhaustion](../../magic/spells/ray-of-exhaustion.md)* (DC 13)  
+1/day—*[slow](../../magic/spells/slow.md)* (DC 13)
 
 **Statistics**
 

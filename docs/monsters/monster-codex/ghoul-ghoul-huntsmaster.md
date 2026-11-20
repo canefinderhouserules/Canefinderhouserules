@@ -23,11 +23,11 @@ CE Medium undead
 **Ranged**  mwk composite longbow +13/+8 (1d8+2/×3)  
 **Special Attacks** combat style (archery), disease (DC 15), favored enemy (elves +2, humans +4), paralysis (1d4+1 rounds, DC 15, elves are immune to this effect)  
 **Ranger Spells Prepared** (CL 3rd; concentration +6)  
-1st—*longstrider*, *magic fang*
+1st—*[longstrider](../../magic/spells/longstrider.md)*, *[magic fang](../../magic/spells/magic-fang.md)*
 
 **Tactics**
 
-**Before Combat** The huntsmaster casts *longstrider* and uses his *wand of greater magic fang* on himself as well as on his animal companion.  
+**Before Combat** The huntsmaster casts *[longstrider](../../magic/spells/longstrider.md)* and uses his *wand of greater magic fang* on himself as well as on his animal companion.  
  **Base Statistics** Without *longstrider* and *greater magic fang*, the huntsmaster’s statistics are **Speed** 30 ft.; **Melee** bite +12 (1d6+2 plus disease and paralysis), 2 claws +13 (1d8+2 plus paralysis).
 
 **Statistics**

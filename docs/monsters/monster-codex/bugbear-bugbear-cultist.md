@@ -20,10 +20,10 @@ CE Medium humanoid (goblinoid)
 **Speed** 30 ft.  
 **Melee** *+1 morningstar* +10/+5 (1d8+4)  
 **Oracle Spells Known** (CL 6th; concentration +8)  
-3rd (3/day)—*bestow curse* (DC 16), *inflict serious wounds* (DC 15), *magic vestment*  
- 2nd (6/day)—*fog cloud*, *inflict moderate wounds* (DC 14), *resist energy*, *summon monster II*  
- 1st (7/day)—*cure light wounds*, *enlarge person*, *inflict light wounds* (DC 13), *protection from good*, *ray of sickening* (DC 14), *shield of faith* (DC 13)  
- 0 (at will)—*bleed* (DC 13), *create water*, *detect magic*, *detect poison*, *guidance*, *spark*, *virtue*  
+3rd (3/day)—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 16), *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)* (DC 15), *[magic vestment](../../magic/spells/magic-vestment.md)*  
+ 2nd (6/day)—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)* (DC 14), *[resist energy](../../magic/spells/resist-energy.md)*, *[summon monster II](../../magic/spells/summon-monster-ii.md)*  
+ 1st (7/day)—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[enlarge person](../../magic/spells/enlarge-person.md)*, *[inflict light wounds](../../magic/spells/inflict-light-wounds.md)* (DC 13), *[protection from good](../../magic/spells/protection-from-good.md)*, *[ray of sickening](../../magic/spells/ray-of-sickening.md)* (DC 14), *[shield of faith](../../magic/spells/shield-of-faith.md)* (DC 13)  
+ 0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[spark](../../magic/spells/spark.md)*, *[virtue](../../magic/spells/virtue.md)*  
  **Mystery** battle
 
 **Tactics**

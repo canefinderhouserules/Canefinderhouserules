@@ -24,12 +24,12 @@ NE Large humanoid (giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** arcane reservoir (6/14), arcanist exploits (consume magic items, counterspell, energy shield, greater counterspell, metamagic knowledge, potent magic), consume spells  
 **Arcanist Spells Prepared** (CL 11th; concentration +16)  
-5th—*teleport*, *wall of force*  
-4th—*enervation*, *greater invisibility*, *scrying* (DC 19)  
-3rd—*air geyser* (DC 18), *arcane sight*, *dispel magic*, *lightning bolt* (DC 18)  
-2nd—*aggressive thundercloud* (DC 17), *blindness/deafness* (DC 17), *locate object*, *resist energy*, *scorching ray*  
-1st—*comprehend languages*, *mage armor*, *magic missile*, *ray of enfeeblement* (DC 16), *shield*  
-0 (at will)—*acid splash*, *arcane mark*, *daze* (DC 15), *detect magic*, *detect poison*, *ghost sound* (DC 15), *light*, *mage hand*, *read magic*
+5th—*[teleport](../../magic/spells/teleport.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th—*[enervation](../../magic/spells/enervation.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[scrying](../../magic/spells/scrying.md)* (DC 19)  
+3rd—*[air geyser](../../magic/spells/air-geyser.md)* (DC 18), *[arcane sight](../../magic/spells/arcane-sight.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 18)  
+2nd—*[aggressive thundercloud](../../magic/spells/aggressive-thundercloud.md)* (DC 17), *[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 17), *[locate object](../../magic/spells/locate-object.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 16), *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[arcane mark](../../magic/spells/arcane-mark.md)*, *[daze](../../magic/spells/daze.md)* (DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

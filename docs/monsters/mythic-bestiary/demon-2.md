@@ -23,10 +23,10 @@ CE Huge outsider (chaotic, demon, evil, extraplanar, mythic)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** demonic knowledge, mythic power (7/day, surge +1d10), touch of chaos, unholy nimbus  
 **Spell-Like Abilities** (CL 12th; concentration +19)  
-Constant—*detect thoughts* (DC 19), *true seeing*, *unholy aura* (DC 25)  
-At will—*call lightning* (DC 20), *feeblemind* (DC 22), *greater dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *move earth*, *slow* (DC 20), *stone shape*, *stone tell*  
-3/day—*scrying*  
-1/day—*contact other plane*, summon (level 5, 1 nalfeshnee 20%, 1d4 hezrous 40%, or 1d4 vrocks 50%)
+Constant—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 19), *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura](../../magic/spells/unholy-aura.md)* (DC 25)  
+At will—*[call lightning](../../magic/spells/call-lightning.md)* (DC 20), *[feeblemind](../../magic/spells/feeblemind.md)* (DC 22), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[move earth](../../magic/spells/move-earth.md)*, *[slow](../../magic/spells/slow.md)* (DC 20), *[stone shape](../../magic/spells/stone-shape.md)*, *[stone tell](../../magic/spells/stone-tell.md)*  
+3/day—*[scrying](../../magic/spells/scrying.md)*  
+1/day—*[contact other plane](../../magic/spells/contact-other-plane.md)*, summon (level 5, 1 nalfeshnee 20%, 1d4 hezrous 40%, or 1d4 vrocks 50%)
 
 **Statistics**
 

@@ -23,11 +23,11 @@ NE Large dragon (extraplanar)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, DC 23, 12d6 acid), nightmare talons  
 **Psychic Magic** (CL 13th; concentration +17)  
-8 PE—*ghost sound* (0 PE), *true strike* (1 PE)  
+8 PE—*[ghost sound](../../magic/spells/ghost-sound.md)* (0 PE), *[true strike](../../magic/spells/true-strike.md)* (1 PE)  
  **Psychic Spells Known** (CL 5th; concentration +8)  
- 2nd (5/day)—*mirror image*, *scare* (DC 15)  
- 1st (7/day)—*command* (DC 14), *detect thoughts*, *ill omen*, *unwitting ally* (DC 14)  
- 0 (at will)—*bleed* (DC 13), *dancing lights*, *daze* (DC 13), *detect psychic significance*, *lullaby* (DC 13), *resistance*
+ 2nd (5/day)—*[mirror image](../../magic/spells/mirror-image.md)*, *[scare* ](../../magic/spells/scare.md)(DC 15)  
+ 1st (7/day)—*[command* ](../../magic/spells/command.md)(DC 14), *[detect thoughts](../../magic/spells/detect-thoughts.md)*, *[ill omen](../../magic/spells/ill-omen.md)*, *[unwitting ally* ](../../magic/spells/unwitting-ally.md)(DC 14)  
+ 0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 13), *[detect psychic significance](../../magic/spells/detect-psychic-significance.md)*, *[lullaby* ](../../magic/spells/lullaby.md)(DC 13), *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

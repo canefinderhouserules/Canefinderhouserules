@@ -22,15 +22,15 @@ LE Medium outsider (devil, evil, extraplanar, incorporeal, lawful)
 **Ranged** 4 *+1 daggers* +17 (1d4+1/19-20)  
 **Special Attacks** dread magic  
 **Spell-Like Abilities** (CL 8th)  
-At will — *augury*, *greater teleport* (self plus 50 lbs. of objects only), *true seeing*, *unseen servant*  
-3/day — *bestow curse* (DC 19), *blink*, *detect thoughts* (DC 17), *dispel magic*, *invisibility*  
-1/day — *blasphemy* (DC 22), *mark of justice*, *summon devil* (level 4, 2d4 imps 55%)  
+At will — *[augury](../../magic/spells/augury.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[true seeing](../../magic/spells/true-seeing.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+3/day — *[bestow curse](../../magic/spells/bestow-curse.md)* (DC 19), *[blink](../../magic/spells/blink.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[invisibility](../../magic/spells/invisibility.md)*  
+1/day — *[blasphemy](../../magic/spells/blasphemy.md)* (DC 22), *[mark of justice](../../magic/spells/mark-of-justice.md)*, *summon devil* (level 4, 2d4 imps 55%)  
 **Spells Known** (CL 8th)  
-4th (3/day) — *summon monster IV*  
-3rd (5/day) — *fireball* (DC 18), *gaseous form*  
-2nd (6/day) — *fog cloud*, *glitterdust* (DC 17), *mirror image* (DC 17)  
-1st (6/day) — *disguise self*, *identify*, *magic missile*, *ray of enfeeblement* (DC 16), *shield*  
-0 — *arcane mark*, *bleed* (DC 15), *dancing lights*, *detect magic*, *disrupt undead*, *mage hand*, *prestidigitation*, *touch of fatigue* (DC 15)
+4th (3/day) — *[summon monster IV](../../magic/spells/summon-monster-iv.md)*  
+3rd (5/day) — *[fireball](../../magic/spells/fireball.md)* (DC 18), *[gaseous form](../../magic/spells/gaseous-form.md)*  
+2nd (6/day) — *[fog cloud](../../magic/spells/fog-cloud.md)*, *[glitterdust](../../magic/spells/glitterdust.md)* (DC 17), *[mirror image](../../magic/spells/mirror-image.md)* (DC 17)  
+1st (6/day) — *[disguise self](../../magic/spells/disguise-self.md)*, *[identify](../../magic/spells/identify.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 16), *[shield](../../magic/spells/shield.md)*  
+0 — *[arcane mark](../../magic/spells/arcane-mark.md)*, *[bleed](../../magic/spells/bleed.md)* (DC 15), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 15)
 
 **Statistics**
 

@@ -26,9 +26,9 @@ poison, sonic; **SR** 31
 **Space** 10 ft., **Reach** 20 ft.  
 **Special Attacks** compel sacrifice, inescapable curse  
 **Spell-Like Abilities** (CL 20th; concentration +29)  
-At will—*animate plants, arboreal hammer, control water, control weather, dominate animal* (DC 22), *dream, etherealness, greater dispel magic, nightmare* (DC 24), *telekinesis* (DC 24), *transport via plants, triggered suggestion* (DC 23), *wind walk*  
-3/day—*commune with nature*, quickened *confusion* (DC 23), quickened *greater dispel magic, green caress* (DC 25)  
-1/day—*earthquake, reverse gravity, whirlwind* (DC 27), *wish* (to duplicate druid spells of 7th or lower level only)
+At will—*animate plants, arboreal hammer, control water, control weather, dominate animal* (DC 22), *dream, etherealness, greater dispel magic, nightmare* (DC 24), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 24), *transport via plants, triggered suggestion* (DC 23), *[wind walk](../../magic/spells/wind-walk.md)*  
+3/day—*[commune with nature](../../magic/spells/commune-with-nature.md)*, quickened *[confusion](../../magic/spells/confusion.md)* (DC 23), quickened *greater dispel magic, green caress* (DC 25)  
+1/day—*earthquake, reverse gravity, whirlwind* (DC 27), *[wish](../../magic/spells/wish.md)* (to duplicate druid spells of 7th or lower level only)
 
 **Statistics**
 

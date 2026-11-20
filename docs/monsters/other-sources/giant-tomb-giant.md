@@ -23,10 +23,10 @@ NE Large humanoid (giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** energy drain (1 level, DC 18), rock throwing (120 ft.)  
 **Spell-Like Abilities** (CL 12th; concentration +14)  
-Constant—*deathwatch*  
-At will—*detect undead*  
-3/day—*make whole*, *sculpt corpse*  
-1/day—*animate dead*, *control undead* (DC 19)
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*  
+At will—*[detect undead](../../magic/spells/detect-undead.md)*  
+3/day—*[make whole](../../magic/spells/make-whole.md)*, *[sculpt corpse](../../magic/spells/sculpt-corpse.md)*  
+1/day—*[animate dead](../../magic/spells/animate-dead.md)*, *[control undead](../../magic/spells/control-undead.md)* (DC 19)
 
 **Statistics**
 

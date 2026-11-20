@@ -23,9 +23,9 @@ N Diminutive construct
 **Space** 1 ft., **Reach** 0 ft.  
 **Special Attacks** suggestive  
 **Spell-Like Abilities** (CL 5th)  
-At will — *animal trance** (DC 14), *detect snares and pits**, *magic stone*  
-3/day — *doom* (DC 13), *hypnotic pattern** (DC 14), *reduce person* (DC 13)  
-1/day — *bear’s endurance*, *hold person* (DC 14)
+At will — *[animal trance](../../magic/spells/animal-trance.md)** (DC 14), *[detect snares and pits](../../magic/spells/detect-snares-and-pits.md)**, *[magic stone](../../magic/spells/magic-stone.md)*  
+3/day — *[doom](../../magic/spells/doom.md)* (DC 13), *[hypnotic pattern](../../magic/spells/hypnotic-pattern.md)** (DC 14), *[reduce person](../../magic/spells/reduce-person.md)* (DC 13)  
+1/day — *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 14)
 
 **Statistics**
 

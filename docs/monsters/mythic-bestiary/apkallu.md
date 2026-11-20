@@ -24,20 +24,20 @@ LN Large outsider (extraplanar, lawful, mythic, water)
 **Special Attacks** mythic power (9/day, surge +1d10), paralyzing gaze  
 **Spell-Like Abilities** (CL 19th; concentration +28)  
 Constant—*detect chaos, freedom of movement, true seeing*  
- At will—*control water, greater teleport* (self plus 50 lbs. of objects only), *major creation, order’s wrath<sup>M</sup>* (DC 23), *plane shift* (DC 24)  
+ At will—*control water, greater teleport* (self plus 50 lbs. of objects only), *major creation, order’s wrath<sup>M</sup>* (DC 23), *[plane shift](../../magic/spells/plane-shift.md)* (DC 24)  
  3/day—*quickened order’s wrath<sup>M</sup>* (DC 23)  
- 1/day—*commune*  
+ 1/day—*[commune](../../magic/spells/commune.md)*  
  **Psychic Magic** (CL 19th; concentration +28)  
- 24 PE—*detect mindscape* (2 PE, DC 21), *divide mind* (9 PE), *enshroud thoughts* (2 PE), *greater create mindscape* (6 PE, DC 25), *hypercognition* (2 PE), *intellect fortress III* (6 PE), *mind probe* (4 PE, DC 23), *mindlink* (1 PE), *mindscape door* (3 PE, DC 22), *psychic asylum* (5 PE), *psychic reading* (1 PE), *thought shield V* (6 PE), *tower of iron will V* (9 PE)  
+ 24 PE—*[detect mindscape](../../magic/spells/detect-mindscape.md)* (2 PE, DC 21), *[divide mind](../../magic/spells/divide-mind.md)* (9 PE), *[enshroud thoughts](../../magic/spells/enshroud-thoughts.md)* (2 PE), *[greater create mindscape](../../magic/spells/create-mindscape-greater.md)* (6 PE, DC 25), *[hypercognition](../../magic/spells/hypercognition.md)* (2 PE), *[intellect fortress III](../../magic/spells/intellect-fortress-iii.md)* (6 PE), *[mind probe](../../magic/spells/mind-probe.md)* (4 PE, DC 23), *[mindlink](../../magic/spells/mindlink.md)* (1 PE), *[mindscape door](../../magic/spells/mindscape-door.md)* (3 PE, DC 22), *[psychic asylum](../../magic/spells/psychic-asylum.md)* (5 PE), *[psychic reading](../../magic/spells/psychic-reading.md)* (1 PE), *[thought shield V](../../magic/spells/thought-shield-v.md)* (6 PE), *[tower of iron will V](../../magic/spells/tower-of-iron-will-v.md)* (9 PE)  
 **Oracle Spells Known** (CL 19th; concentration +28)  
 9th (5/day)—*miracle, overwhelming presence* (DC 28)  
- 8th (7/day)—*dimensional lock<sup>M</sup>, mass cure critical wounds* (DC 27), *shield of law*  
- 7th (7/day)—*destruction* (DC 26), *dictum<sup>M</sup>, repulsion* (DC 26)  
+ 8th (7/day)—*dimensional lock<sup>M</sup>, mass cure critical wounds* (DC 27), *[shield of law](../../magic/spells/shield-of-law.md)*  
+ 7th (7/day)—*[destruction](../../magic/spells/destruction.md)* (DC 26), *dictum<sup>M</sup>, repulsion* (DC 26)  
  6th (7/day)—*geas/quest, greater dispel magic, heal<sup>M</sup>*  
- 5th (8/day)—*greater command* (DC 24), *greater forbid action* (DC 24), *mass cure light wounds* (DC 24), *wall of stone*  
+ 5th (8/day)—*[greater command](../../magic/spells/command-greater.md)* (DC 24), *[greater forbid action](../../magic/spells/forbid-action-greater.md)* (DC 24), *[mass cure light wounds](../../magic/spells/cure-light-wounds-mass.md)* (DC 24), *[wall of stone](../../magic/spells/wall-of-stone.md)*  
  4th (8/day)—*dimensional anchor, divination, restoration, sending<sup>M</sup>*  
- 3rd (8/day)—*create food and water, invisibility purge, speak with dead* (DC 22), *wind wall*  
- 2nd (8/day)—*calm emotions* (DC 21), *hold person* (DC 21), *silence* (DC 21), *sound burst* (DC 21), *zone of truth* (DC 21)  
+ 3rd (8/day)—*create food and water, invisibility purge, speak with dead* (DC 22), *[wind wall](../../magic/spells/wind-wall.md)*  
+ 2nd (8/day)—*[calm emotions](../../magic/spells/calm-emotions.md)* (DC 21), *[hold person](../../magic/spells/hold-person.md)* (DC 21), *[silence](../../magic/spells/silence.md)* (DC 21), *[sound burst](../../magic/spells/sound-burst.md)* (DC 21), *[zone of truth](../../magic/spells/zone-of-truth.md)* (DC 21)  
  1st (9/day)—*comprehend languages, divine favor<sup>M</sup>, obscuring mist<sup>M</sup>, sanctuary<sup>M</sup>* (DC 20), *shield of faith<sup>M</sup>*  
  0 (at will)—*create water, detect magic, detect poison, guidance, light, mending, purify food and drink, read magic, stabilize*  
  **M** mythic spell

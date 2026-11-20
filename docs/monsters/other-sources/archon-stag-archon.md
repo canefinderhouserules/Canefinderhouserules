@@ -23,9 +23,9 @@ LG Medium outsider (archon, extraplanar, good, lawful, shapechanger)
 **Ranged**  mwk longbow +9/+4 (1d8/×3)  
 **Special Attacks** push (gore, 10 ft.)  
 **Spell-Like Abilities** (CL 6th; concentration +6)  
-Constant—*detect evil*  
-At will—*aid*, *animal messenger*, *dancing lights*, *greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*charm animal*, *true strike*
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[animal messenger](../../magic/spells/animal-messenger.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)  
+3/day—*[charm animal](../../magic/spells/charm-animal.md)*, *[true strike](../../magic/spells/true-strike.md)*
 
 **Statistics**
 

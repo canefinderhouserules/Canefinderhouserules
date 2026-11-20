@@ -21,7 +21,7 @@ NE Small fey
 **Melee** 2 claws +4 (1d4–1)  
 **Special Attacks** collateral damage  
 **Spell-Like Abilities** (CL 2nd, concentration +4)  
-At will—*dancing lights, ghost sound* (DC 12), *silent image* (DC 13)
+At will—*dancing lights, ghost sound* (DC 12), *[silent image](../../magic/spells/silent-image.md)* (DC 13)
 
 **Statistics**
 

@@ -25,9 +25,9 @@ LE Large plant
 **Special Attacks** deadwood curse, sheets of moss, yellow mold blast  
 **Spell-Like Abilities** (CL 18th; concentration +24)  
 Constant—*nondetection, pass without trace, see invisibility, speak with plants*  
-At will—*command plants* (DC 20), *fear* (DC 20), *mind thrust VI* (DC 22), *transport via plants, tree shape*  
-3/day—*animate plants, displacement*, quickened *fungal infestation* (DC 19)  
-1/day—*control plants* (DC 24), *microcosm* (DC 25)
+At will—*[command plants](../../magic/spells/command-plants.md)* (DC 20), *[fear](../../magic/spells/fear.md)* (DC 20), *[mind thrust VI](../../magic/spells/mind-thrust-vi.md)* (DC 22), *transport via plants, tree shape*  
+3/day—*animate plants, displacement*, quickened *[fungal infestation](../../magic/spells/fungal-infestation.md)* (DC 19)  
+1/day—*[control plants](../../magic/spells/control-plants.md)* (DC 24), *[microcosm](../../magic/spells/microcosm.md)* (DC 25)
 
 **Statistics**
 

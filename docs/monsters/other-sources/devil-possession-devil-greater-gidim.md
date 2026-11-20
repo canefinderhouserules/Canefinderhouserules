@@ -21,9 +21,9 @@ LE Medium outsider (devil, evil, extraplanar, incorporeal, lawful)
 **Melee** 2 claws +19 (1d4+5), bite +19 (1d6+5)  
 **Special Attacks** dread, malevolence  
 **Spell-Like Abilities** (CL 12th)  
-Constant — *greater invisibility*  
-At will — *bleed* (DC 15), *ghost sound** (DC 15), *greater teleport* (self plus 50 lbs. of objects only), *knock** (DC 17), *levitate** (DC 17), *major image** (DC 18), *prestidigitation** (DC 15), *unseen servant** (DC 16)  
-3/day — *animate dead*, *animate rope** (DC 16), *bestow curse* (DC 19), *contagion* (DC 19), *dancing lights** (DC 15), *ethereal jaunt* (Ethereal Plane to Material Plane and vice versa), *gust of wind** (DC 17), *major creation*, *plane shift* (self only; to Ethereal Plane, Hell, or Material Plane only), *produce flame** (DC 16), *stinking cloud* (DC 18), *suggestion* (DC 18)  
+Constant — *[greater invisibility](../../magic/spells/invisibility-greater.md)*  
+At will — *[bleed](../../magic/spells/bleed.md)* (DC 15), *[ghost sound](../../magic/spells/ghost-sound.md)** (DC 15), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[knock](../../magic/spells/knock.md)** (DC 17), *[levitate](../../magic/spells/levitate.md)** (DC 17), *[major image](../../magic/spells/major-image.md)** (DC 18), *[prestidigitation](../../magic/spells/prestidigitation.md)** (DC 15), *[unseen servant](../../magic/spells/unseen-servant.md)** (DC 16)  
+3/day — *[animate dead](../../magic/spells/animate-dead.md)*, *[animate rope](../../magic/spells/animate-rope.md)** (DC 16), *[bestow curse](../../magic/spells/bestow-curse.md)* (DC 19), *[contagion](../../magic/spells/contagion.md)* (DC 19), *[dancing lights](../../magic/spells/dancing-lights.md)** (DC 15), *[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)* (Ethereal Plane to Material Plane and vice versa), *[gust of wind](../../magic/spells/gust-of-wind.md)** (DC 17), *[major creation](../../magic/spells/major-creation.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (self only; to Ethereal Plane, Hell, or Material Plane only), *[produce flame](../../magic/spells/produce-flame.md)** (DC 16), *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 18), *[suggestion](../../magic/spells/suggestion.md)* (DC 18)  
 1/day — *summon* (level 5, 1d4 lesser possession devils, 40%)  
 * causes dread
 

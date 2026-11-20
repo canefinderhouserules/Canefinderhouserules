@@ -22,17 +22,17 @@ N Medium humanoid (dwarf)
 **Melee** mwk short sword +11/+6 (1d6/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, bardic performance 32 rounds/day (move action; countersong, dirge of doom, distraction, fascinate, inspire competence +3, inspire courage +2, inspire greatness, *suggestion*)  
 **Bard Spells Known** (CL 17th; concentration +21)  
-6th (2/day)—*find the path*, *permanent image* (DC 20), *summon monster VI*  
-5th (4/day)—*dream*, *mirage arcana* (DC 19), *mislead*, *seeming* (DC 19)  
-4th (5/day)—*cure critical wounds*, *greater invisibility*, *legend lore*, *secure shelter*, *shadow conjuration* (DC 18)  
-3rd (6/day)—*charm monster* (DC 19), *clairaudience/clairvoyance*, *displacement*, *remove curse*, *scrying* (DC 17), *see invisibility*  
-2nd (6/day)—*detect thoughts* (DC 16), *enthrall* (DC 18), *hold person* (DC 18), *locate object*, *suggestion* (DC 18), *tongues*  
-1st (6/day)—*charm person* (DC 17), *detect secret doors*, *disguise self*, *feather fall*, *remove fear*, *unseen servant*  
-0 (at will)—*dancing lights*, *detect magic*, *flare* (DC 14), *ghost sound* (DC 14), *mage hand*, *open/close*
+6th (2/day)—*[find the path](../../magic/spells/find-the-path.md)*, *[permanent image* ](../../magic/spells/permanent-image.md)(DC 20), *[summon monster VI](../../magic/spells/summon-monster-vi.md)*  
+5th (4/day)—*[dream](../../magic/spells/dream.md)*, *[mirage arcana* ](../../magic/spells/mirage-arcana.md)(DC 19), *[mislead](../../magic/spells/mislead.md)*, *[seeming* ](../../magic/spells/seeming.md)(DC 19)  
+4th (5/day)—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[legend lore](../../magic/spells/legend-lore.md)*, *[secure shelter](../../magic/spells/secure-shelter.md)*, *[shadow conjuration* ](../../magic/spells/shadow-conjuration.md)(DC 18)  
+3rd (6/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 19), *[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[displacement](../../magic/spells/displacement.md)*, *[remove curse](../../magic/spells/remove-curse.md)*, *[scrying* ](../../magic/spells/scrying.md)(DC 17), *[see invisibility](../../magic/spells/see-invisibility.md)*  
+2nd (6/day)—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[enthrall* ](../../magic/spells/enthrall.md)(DC 18), *[hold person* ](../../magic/spells/hold-person.md)(DC 18), *[locate object](../../magic/spells/locate-object.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 18), *[tongues](../../magic/spells/tongues.md)*  
+1st (6/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 17), *[detect secret doors](../../magic/spells/detect-secret-doors.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 14), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*
 
 **Tactics**
 
-**Before Combat** The loremaster casts *see invisibility*.  
+**Before Combat** The loremaster casts *[see invisibility](../../magic/spells/see-invisibility.md)*.  
 **During Combat** The loremaster casts *greater invisibility*, then *summon monster VI* to keep opponents busy, and uses illusions to cover his escape.  
 **Base Statistics** Without *see invisibility*, the loremaster’s statistics are **Senses** darkvision 60 ft.
 

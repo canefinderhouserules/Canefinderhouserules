@@ -23,16 +23,16 @@ LN Gargantuan dragon (fire)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (120-ft. line, 20d10 fire, DC 29), channel life (10/day), channel radiation (DC 29), crush, primal fire, tail sweep  
 **Spell-Like Abilities** (CL 25th; concentration +32)  
-At will—*animate plants*, *blight*, *cup of dust*, *detect magic*, *major creation*, *searing light*  
+At will—*[animate plants](../../magic/spells/animate-plants.md)*, *[blight](../../magic/spells/blight.md)*, *[cup of dust](../../magic/spells/cup-of-dust.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[major creation](../../magic/spells/major-creation.md)*, *[searing light](../../magic/spells/searing-light.md)*  
 **Sorcerer Spells Known** (CL 15th; concentration +22)  
-7th (5/day)—*control weather*, *plane shift* (DC 24)  
-6th (7/day)—*chain lightning* (DC 23), *greater dispel magic*, *mislead*  
-5th (7/day)—*break enchantment*, *dismissal* (DC 22), *dominate person* (DC 23), *wall of force*  
-4th (7/day)—*charm monster* (DC 22), *dimension door*, *fear* (DC 21), *greater invisibility*  
-3rd (8/day)—*dispel magic*, *lightning bolt* (DC 20), *protection from energy*, *tongues*  
-2nd (8/day)—*continual flame*, *invisibility*, *resist energy*, *scorching ray*, *see invisibility*  
-1st (8/day)—*charm person* (DC 19), *color spray* (DC 18), *mage armor*, *magic missile*, *shield*  
-0 (at will)—*detect poison*, *mage hand*, *read magic*, 6 more
+7th (5/day)—*[control weather](../../magic/spells/control-weather.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(DC 24)  
+6th (7/day)—*[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 23), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[mislead](../../magic/spells/mislead.md)*  
+5th (7/day)—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[dismissal* ](../../magic/spells/dismissal.md)(DC 22), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 23), *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th (7/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 22), *[dimension door](../../magic/spells/dimension-door.md)*, *[fear* ](../../magic/spells/fear.md)(DC 21), *[greater invisibility](../../magic/spells/invisibility-greater.md)*  
+3rd (8/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 20), *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[tongues](../../magic/spells/tongues.md)*  
+2nd (8/day)—*[continual flame](../../magic/spells/continual-flame.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (8/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 19), *[color spray* ](../../magic/spells/color-spray.md)(DC 18), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[detect poison](../../magic/spells/detect-poison.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*, 6 more
 
 **Statistics**
 

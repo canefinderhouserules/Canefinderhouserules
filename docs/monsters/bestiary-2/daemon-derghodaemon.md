@@ -23,10 +23,10 @@ NE Large outsider (daemon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** rend (2 claws, 1d8+12 plus 2 Con damage)  
 **Spell-Like Abilities** (CL 12th; concentration +15)  
-Constant—*detect magic*, *see invisibility*  
-At will—*greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*fear* (DC 17), quickened *summon swarm*  
-1/day—*creeping doom*, *insect plague*, summon (level 4, 1 derghodaemon 30%)
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
+3/day—*[fear](../../magic/spells/fear.md)* (DC 17), quickened *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1/day—*[creeping doom](../../magic/spells/creeping-doom.md)*, *[insect plague](../../magic/spells/insect-plague.md)*, summon (level 4, 1 derghodaemon 30%)
 
 **Statistics**
 

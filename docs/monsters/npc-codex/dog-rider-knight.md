@@ -24,14 +24,14 @@ LG Small humanoid (halfling)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with lance)  
 **Special Attacks** channel positive energy (DC 16, 4d6), smite evil 3/day (+3 attack and AC, +7 damage)  
 **Spell-Like Abilities** (CL 7th; concentration +10)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 4th; concentration +7)  
-2nd—*bull’s strength*  
-1st—*bless weapon*, *divine favor*
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*  
+1st—*[bless weapon](../../magic/spells/bless-weapon.md)*, *[divine favor](../../magic/spells/divine-favor.md)*
 
 **Tactics**
 
-**Before Combat** The paladin casts *bull’s strength*.  
+**Before Combat** The paladin casts *[bull’s strength](../../magic/spells/bulls-strength.md)*.  
 **During Combat** The paladin uses Ride-By Attack to charge his foes, and uses smite evil.  
 **Base Statistics** Without *bull’s strength*, the paladin’s statistics are **Melee** *+1 lance* +12/+7 (1d6+3/×3) or mwk longsword +11/+6 (1d6+2/19–20); **Str** 14; **CMB** +8; **CMD** 20; **Skills** Climb +0.
 

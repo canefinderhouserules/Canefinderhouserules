@@ -21,12 +21,12 @@ N Medium humanoid (human)
 **Melee** quarterstaff +0 (1d6)  
 **Special Attacks** hand of the apprentice (6/day)  
 **Wizard Spells Prepared** (CL 1st; concentration +4)  
-1st—*burning hands* (DC 14), *mage armor*  
-0 (at will)—*bleed* (DC 13), *detect magic*, *resistance*
+1st—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 14), *[mage armor](../../magic/spells/mage-armor.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Tactics**
 
-**Before Combat** The wizard casts *mage armor*.  
+**Before Combat** The wizard casts *[mage armor](../../magic/spells/mage-armor.md)*.  
 **During Combat** The wizard uses hand of the apprentice to throw her quarterstaff or casts *burning hands*. She offers to use her *scroll of enlarge person* on an ally who’ll protect her.  
 **Base Statistics** Without *mage armor*, the wizard’s statistics are **AC** 11, touch 11, flat-footed 10.
 

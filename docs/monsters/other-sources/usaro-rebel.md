@@ -22,10 +22,10 @@ NE Small humanoid (charau-ka)
 **Ranged**  rock +9 (1d4+5/19–20)  
 **Special Attacks** shrieking frenzy*, thrown-weapon mastery*, wild shape 1/day, wooden fist (+2, 6 rounds/day)  
 **Druid Spells Prepared** (CL 5th; concentration +8)  
-3rd—*mad monkeys*, *plant growth*<sup>D</sup>, *speak with plants*  
-2nd— *barkskin*<sup>D</sup>, *bull’s strength*, *flaming sphere* (DC 15), *warp wood*  
-1st—*cure light wounds*, *entangle*<sup>D</sup> (DC 14), *faerie fire*, *magic stone*, *longstrider*  
-0 (at will)—*create water*, *detect poison*, *guidance*, *purify food and drink*  
+3rd—*[mad monkeys](../../magic/spells/mad-monkeys.md)*, *[plant growth](../../magic/spells/plant-growth.md)*<sup>D</sup>, *[speak with plants](../../magic/spells/speak-with-plants.md)*  
+2nd— *[barkskin](../../magic/spells/barkskin.md)*<sup>D</sup>, *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[flaming sphere](../../magic/spells/flaming-sphere.md)* (DC 15), *[warp wood](../../magic/spells/warp-wood.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[entangle](../../magic/spells/entangle.md)*<sup>D</sup> (DC 14), *[faerie fire](../../magic/spells/faerie-fire.md)*, *[magic stone](../../magic/spells/magic-stone.md)*, *[longstrider](../../magic/spells/longstrider.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*  
 **D** Domain spell; **Domain** Plant
 
 **Statistics**

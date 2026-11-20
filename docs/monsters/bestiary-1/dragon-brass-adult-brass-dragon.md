@@ -23,12 +23,12 @@ CG Large dragon (fire)
 **Melee** bite +20 (2d6+10), 2 claws +20 (1d8+7), 2 wings +15 (1d6+3), tail slap +15 (1d8+10)  
 **Special Attacks** breath weapon (80-ft. line, DC 22, 12d4 fire), desert wind, sleep breath  
 **Spell-Like Abilities** (CL 14th)  
-At will—*endure elements*, *speak with animals*, *suggestion* (DC 18)  
+At will—*[endure elements](../../magic/spells/endure-elements.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 18)  
 **Spells Known** (CL 7th)  
-3rd (5/day)—*hold person* (DC 18), *tongues*  
-2nd (7/day)—*alter self*, *detect thoughts* (DC 15), *see invisibility*  
-1st (7/day)—*alarm*, *charm person* (DC 16), *protection from evil*, *shield*, *ventriloquism*  
-0 (at will)—*arcane mark*, *dancing lights*, *detect magic*, *ghost sound* (DC 13), *mage hand*, *message*, *prestidigitation*
+3rd (5/day)—*[hold person* ](../../magic/spells/hold-person.md)(DC 18), *[tongues](../../magic/spells/tongues.md)*  
+2nd (7/day)—*[alter self](../../magic/spells/alter-self.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 15), *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (7/day)—*[alarm](../../magic/spells/alarm.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[protection from evil](../../magic/spells/protection-from-evil.md)*, *[shield](../../magic/spells/shield.md)*, *[ventriloquism](../../magic/spells/ventriloquism.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

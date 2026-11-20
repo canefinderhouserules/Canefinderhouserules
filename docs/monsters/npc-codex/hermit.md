@@ -21,13 +21,13 @@ N Medium humanoid (human)
 **Melee** quarterstaff +2 (1d6–1)  
 **Ranged**  sling +3 (1d4–1)  
 **Adept Spells Prepared** (CL 7th; concentration +10)  
-2nd—*animal trance* (DC 15), *invisibility*, *web* (DC 15)  
-1st—*cause fear* (DC 14), *cure light wounds*, *endure elements*, *obscuring mist*  
-0 (at will)—*light*, *mending*, *purify food and drink*
+2nd—*[animal trance* ](../../magic/spells/animal-trance.md)(DC 15), *[invisibility](../../magic/spells/invisibility.md)*, *[web* ](../../magic/spells/web.md)(DC 15)  
+1st—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 14), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*
 
 **Tactics**
 
-**Before Combat** The adept casts *endure elements* at the start of each day. He drinks his *potion of barkskin* if expecting a fight.  
+**Before Combat** The adept casts *[endure elements* ](../../magic/spells/endure-elements.md)at the start of each day. He drinks his *potion of barkskin* if expecting a fight.  
 **During Combat** The adept casts *web*, then hurls *shock bullets* with his sling at any exposed foes, all the while uttering vile epithets.  
 **Base Statistics** Without *barkskin*, the adept’s statistics are **AC** 11, touch 11, flat-footed 11.
 

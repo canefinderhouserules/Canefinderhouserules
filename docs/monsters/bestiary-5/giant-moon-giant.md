@@ -24,10 +24,10 @@ LN Huge humanoid (giant)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** impact crater, rock throwing (180 ft.)  
 **Spell-Like Abilities** (CL 20th; concentration +23)  
-Constant—*true seeing*  
-At will—*dancing lights*, *detect magic*, *message*  
-3/day—*clairaudience/clairvoyance*, *control water*, *divination*  
-1/day—*commune*, *dream*, *scrying* (DC 18)
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[message](../../magic/spells/message.md)*  
+3/day—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[control water](../../magic/spells/control-water.md)*, *[divination](../../magic/spells/divination.md)*  
+1/day—*[commune](../../magic/spells/commune.md)*, *[dream](../../magic/spells/dream.md)*, *[scrying* ](../../magic/spells/scrying.md)(DC 18)
 
 **Statistics**
 

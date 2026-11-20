@@ -24,7 +24,7 @@ N Colossal magical beast (behemoth, earth)
 **Space** 30 ft., **Reach** 20 ft.  
 **Special Attacks** fast swallow, mighty roar, rock spitting, ruinous, swallow whole (4d6+24 bludgeoning and 4d6 fire damage, AC 27, 33 hp), trample (2d8+24, DC 38)  
 **Spell-Like Abilities** (CL 20th; concentration +22)  
-3/day—*earthquake* (DC 20)
+3/day—*[earthquake* ](../../magic/spells/earthquake.md)(DC 20)
 
 **Statistics**
 

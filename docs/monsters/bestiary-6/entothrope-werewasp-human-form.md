@@ -24,9 +24,9 @@ CN Medium humanoid (elf, shapechanger)
 **Cleric Spell-Like Abilities** (CL 5th; concentration +9)  
 7/day—*copycat* (5 rounds), *dazing touch*  
 **Cleric Spells Prepared** (CL 5th; concentration +9)  
- 3rd—*bestow curse* (DC 17), *dispel magic, suggestion<sup>D</sup>* (DC 17)  
- 2nd—*hold person* (2, DC 16), *invisibility<sup>D</sup>, spiritual weapon*  
- 1st—*bless* (2), *charm person<sup>D</sup>* (DC 15), *command* (2, DC 15)  
+ 3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 17), *dispel magic, suggestion<sup>D</sup>* (DC 17)  
+ 2nd—*[hold person](../../magic/spells/hold-person.md)* (2, DC 16), *invisibility<sup>D</sup>, spiritual weapon*  
+ 1st—*[bless](../../magic/spells/bless.md)* (2), *charm person<sup>D</sup>* (DC 15), *[command](../../magic/spells/command.md)* (2, DC 15)  
  0 (at will)—*detect magic, detect poison, guidance, resistance*  
  **D** domain spell; **Domains** Charm, Trickery
 

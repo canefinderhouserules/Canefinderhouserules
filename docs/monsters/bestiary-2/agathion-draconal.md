@@ -23,21 +23,21 @@ NG Large outsider (agathion, extraplanar, good)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** breath weapon (120-ft. line, 20d6 energy damage, Reflex DC 30 half, usable once every 1d4 rounds)  
 **Spell-Like Abilities** (CL 24th; concentration +30)  
-Constant—*speak with animals*  
-At will—*beast shape II*, *command* (DC 17), *detect thoughts*, *elemental body III* (air or water elementals only), *greater teleport* (self plus 50 lbs. of objects only), *gust of wind*, *hold monster* (DC 20), *identify*, *light*, *lightning bolt* (DC 19), *mage hand*, *message*  
-7/day—*break enchantment*, *cure serious wounds*, *neutralize poison*, *remove disease*  
-3/day—*control water*, *control weather*, *control winds*, *heal*, *plane shift* (DC 23)  
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[beast shape II](../../magic/spells/beast-shape-ii.md)*, *[command* ](../../magic/spells/command.md)(DC 17), *[detect thoughts](../../magic/spells/detect-thoughts.md)*, *[elemental body III](../../magic/spells/elemental-body-iii.md)* (air or water elementals only), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[gust of wind](../../magic/spells/gust-of-wind.md)*, *[hold monster](../../magic/spells/hold-monster.md)* (DC 20), *[identify](../../magic/spells/identify.md)*, *[light](../../magic/spells/light.md)*,[ *lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 19), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*  
+7/day—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[remove disease](../../magic/spells/remove-disease.md)*  
+3/day—*[control water](../../magic/spells/control-water.md)*, *[control weather](../../magic/spells/control-weather.md)*, *[control winds](../../magic/spells/control-winds.md)*, *[heal](../../magic/spells/heal.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (DC 23)  
 **Cleric Spells Prepared** (CL 17th; concentration +23)  
-9th—*implosion* (DC 26), *storm of vengeance*<sup>D</sup> (DC 26)  
-8th—*demand*<sup>D</sup>, *earthquake*, quickened *holy smite* (DC 21)  
-7th—empowered *breath of life*, empowered *flame strike* (DC 22), *holy word* (DC 24), quickened *invisibility purge*, *repulsion*<sup>D</sup> (DC 24)  
-6th—*animate objects*, *blade barrier*<sup>D</sup> (DC 23), *find the path*, *heal*, *heroes’ feast*, quickened *remove paralysis*  
-5th—*breath of life*, *dispel evil*<sup>D</sup>, *flame strike* (DC 22), *greater command* (DC 22), *spell resistance*, *true seeing*  
-4th—*cure critical wounds* (3), *freedom of movement*, *holy smite*<sup>D</sup> (DC 21), *repel vermin* (DC 21)  
-3rd—*bestow curse* (DC 20), *daylight*, *dispel magic*, *helping hand*, *magic vestment*<sup>D</sup>, *prayer*, *protection from energy*  
-2nd—*align weapon*<sup>D</sup> (good only), *calm emotions* (DC 19), *enthrall*, *hold person* (DC 19), *lesser restoration* (2), *shield other*  
-1st—*bless*, *detect undead*, *divine favor*<sup>D</sup>, *obscuring mist*, *remove fear*, *sanctuary* (DC 18), *shield of faith*  
-0—*detect poison*, *guidance*, *purify food and drink*, *stabilize*  
+9th—*[implosion](../../magic/spells/implosion.md)* (DC 26), *[storm of vengeance](../../magic/spells/storm-of-vengeance.md)*<sup>D</sup> (DC 26)  
+8th—*[demand](../../magic/spells/demand.md)*<sup>D</sup>, *[earthquake](../../magic/spells/earthquake.md)*, quickened *[holy smite](../../magic/spells/holy-smite.md)* (DC 21)  
+7th—empowered *[breath of life](../../magic/spells/breath-of-life.md)*, empowered *[flame strike](../../magic/spells/flame-strike.md)* (DC 22), *[holy word](../../magic/spells/holy-word.md)* (DC 24), quickened *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[repulsion](../../magic/spells/repulsion.md)*<sup>D</sup> (DC 24)  
+6th—*[animate objects](../../magic/spells/animate-objects.md)*,[ *blade barrier](../../magic/spells/blade-barrier.md)*<sup>D</sup> (DC 23), *[find the path](../../magic/spells/find-the-path.md)*, *[heal](../../magic/spells/heal.md)*, *[heroes’ feast](../../magic/spells/heroes-feast.md)*, quickened *[remove paralysis](../../magic/spells/remove-paralysis.md)*  
+5th—*[breath of life](../../magic/spells/breath-of-life.md)*, *[dispel evil](../../magic/spells/dispel-evil.md)*<sup>D</sup>, *[flame strike](../../magic/spells/flame-strike.md)* (DC 22), *[greater command](../../magic/spells/command-greater.md)* (DC 22), *[spell resistance](../../magic/spells/spell-resistance.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+4th—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)* (3), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[holy smite](../../magic/spells/holy-smite.md)*<sup>D</sup> (DC 21), *[repel vermin](../../magic/spells/repel-vermin.md)* (DC 21)  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 20), *[daylight](../../magic/spells/daylight.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*,[ *helping hand](../../magic/spells/helping-hand.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*<sup>D</sup>, *[prayer](../../magic/spells/prayer.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd—*[align weapon](../../magic/spells/align-weapon.md)*<sup>D</sup> (good only), *[calm emotions](../../magic/spells/calm-emotions.md)* (DC 19), *[enthrall](../../magic/spells/enthrall.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 19), *[lesser restoration](../../magic/spells/restoration-lesser.md)* (2), *[shield other](../../magic/spells/shield-other.md)*  
+1st—*[bless](../../magic/spells/bless.md)*, *[detect undead](../../magic/spells/detect-undead.md)*, *[divine favor](../../magic/spells/divine-favor.md)*<sup>D</sup>, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 18), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0—*[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** domain spell; **Domains** Good, Nobility
 
 **Statistics**

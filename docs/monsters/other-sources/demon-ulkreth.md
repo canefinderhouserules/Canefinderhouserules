@@ -23,9 +23,9 @@ CE Gargantuan outsider (chaotic, demon, evil, extraplanar)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** boulder barrage, ground pounder, punch through, rend (2 slams, 6d6+15), rock throwing (120 ft.), trample (3d6+10, DC 28), wrecker  
 **Spell-Like Abilities** (CL 15th; concentration +17)  
-At will—*greater teleport* (self plus 50 lbs. of objects only), *shatter* (DC 14)  
-3/day—*move earth*  
-1/day—*earthquake*, summon (level 5, 1 ulkreth or 1 omox 40%)
+At will—*[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[shatter* ](../../magic/spells/shatter.md)(DC 14)  
+3/day—*[move earth](../../magic/spells/move-earth.md)*  
+1/day—*[earthquake](../../magic/spells/earthquake.md)*, summon (level 5, 1 ulkreth or 1 omox 40%)
 
 **Statistics**
 

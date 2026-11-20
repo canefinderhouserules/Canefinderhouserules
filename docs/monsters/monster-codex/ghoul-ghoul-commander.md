@@ -24,14 +24,14 @@ CE Medium undead
 **Ranged**  mwk composite shortbow +12/+7 (1d6+5/×3)  
 **Special Attacks** channel negative energy (DC 17, 4d6), disease (DC 15), paralysis (1d4+1 rounds, DC 15, elves are immune to this effect), smite good 3/day (+4 attack and AC, +7 damage)  
 **Spell-Like Abilities** (CL 7th; concentration +11)  
-At will—*detect good*  
+At will—*[detect good](../../magic/spells/detect-good.md)*  
 **Antipaladin Spells Prepared** (CL 4th; concentration +8)  
-2nd—*desecrate*  
-1st—*disguise self*, *inflict light wounds* (DC 15)
+2nd—*[desecrate](../../magic/spells/desecrate.md)*  
+1st—*[disguise self](../../magic/spells/disguise-self.md)*, *[inflict light wounds](../../magic/spells/inflict-light-wounds.md)* (DC 15)
 
 **Tactics**
 
-**Before Combat** The ghoul commander is usually accompanied by a fiendish dire boar mount. If he is defending an area, he casts *desecrate* on the area (these bonuses are not included in his statistics).  
+**Before Combat** The ghoul commander is usually accompanied by a fiendish dire boar mount. If he is defending an area, he casts *[desecrate](../../magic/spells/desecrate.md)* on the area (these bonuses are not included in his statistics).  
  **During Combat** The commander begins combat by charging in on his boar. He prefers to attack with his greataxe.
 
 **Statistics**

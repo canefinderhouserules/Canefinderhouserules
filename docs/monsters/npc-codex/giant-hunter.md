@@ -24,13 +24,13 @@ LG Small humanoid (gnome)
 **Ranged**  *+1 light crossbow* +17 (1d6+1/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, channel positive energy (DC 20, 8d6), smite evil 5/day (+3 attack and AC, +15 damage)  
 **Spell-Like Abilities** (CL 15th; concentration +18)  
-At will—*detect evil*  
-1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Paladin Spells Prepared** (CL 12th; concentration +15)  
-4th—*holy sword*  
-3rd—*daylight*, *prayer* (2)  
-2nd—*resist energy* (2), *shield other*  
-1st—*bless*, *divine favor* (2), *endure elements*
+4th—*[holy sword](../../magic/spells/holy-sword.md)*  
+3rd—*[daylight](../../magic/spells/daylight.md)*, *[prayer* ](../../magic/spells/prayer.md)(2)  
+2nd—*[resist energy* ](../../magic/spells/resist-energy.md)(2), *[shield other](../../magic/spells/shield-other.md)*  
+1st—*[bless](../../magic/spells/bless.md)*, *[divine favor* ](../../magic/spells/divine-favor.md)(2), *[endure elements](../../magic/spells/endure-elements.md)*
 
 **Tactics**
 

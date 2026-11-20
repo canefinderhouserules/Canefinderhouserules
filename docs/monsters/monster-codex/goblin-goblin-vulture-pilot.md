@@ -22,12 +22,12 @@ NE Small humanoid (goblinoid)
 **Ranged**  bomb +9 (2d6+3 fire plus catch fire)  
 **Special Attacks** bomb 7/day (2d6+3 fire and catch fire, DC 15, 10-ft. radius)  
 **Alchemist Extracts Prepared** (CL 4th)  
-2nd—*false life*, *touch injection*  
-1st—*bomber’s eye*, *bouncy body*, *shield*, *true strike*
+2nd—*[false life](../../magic/spells/false-life.md)*, *[touch injection](../../magic/spells/touch-injection.md)*  
+1st—*[bomber’s eye](../../magic/spells/bombers-eye.md)*, *[bouncy body](../../magic/spells/bouncy-body.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*
 
 **Tactics**
 
-**Before Combat** The vulture pilot drinks a *bouncy body* extract, a *false life* extract, and a *potion of barkskin*, then feeds a *potion of barkskin* to her vulture companion.  
+**Before Combat** The vulture pilot drinks a *[bouncy body](../../magic/spells/bouncy-body.md)* extract, a *[false life](../../magic/spells/false-life.md)* extract, and a *potion of barkskin*, then feeds a *potion of barkskin* to her vulture companion.  
  **During Combat** The pilot uses her bombs to scatter opponents on the ground, tanglefoot bags to hold tasty prizes in place, and alchemical splash weapons as the situation warrants.  
  **Base Statistics** Without *barkskin* and *false life*, the vulture pilot’s statistics are **AC** 19, touch 15, flat-footed 15; **hp** 29.
 

@@ -23,9 +23,9 @@ LN Large outsider (extraplanar, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** pounce, rake (2 claws +7, 1d6+2), stunning claw (4/day, DC 15)  
 **Spell-Like Abilities** (CL 6th; concentration +6)  
-At will—*feather fall* (self only), *guidance*, *light*  
-3/day—*channel vigor*, *cure light wounds*, *true strike*  
-1/day—*bull’s strength*, *dimension door* (self plus 50 lbs. of objects only)
+At will—*[feather fall* ](../../magic/spells/feather-fall.md)(self only), *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*  
+3/day—*[channel vigor](../../magic/spells/channel-vigor.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+1/day—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[dimension door* ](../../magic/spells/dimension-door.md)(self plus 50 lbs. of objects only)
 
 **Statistics**
 

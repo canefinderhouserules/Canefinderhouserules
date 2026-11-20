@@ -23,14 +23,14 @@ LN Gargantuan dragon (extraplanar, lawful)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (120-foot line, 20d10 slashing damage, Reflex DC 33 half), crush, hindering shards, master scrivener, powerful wings, scrivener, sweeping scrawl, tail sweep  
 **Oracle Spells Known** (CL 15th; concentration +22)  
-7th (5/day)—*dictum* (DC 24), *repulsion* (DC 24)  
-6th (7/day)—*geas/quest*, *heal*, *symbol of fear* (DC 23)  
-5th (7/day)—*dispel chaos*, *mark of justice*, *symbol of pain* (DC 22), *true seeing*  
-4th (7/day)—*dimensional anchor*, *dismissal* (DC 21), *order’s wrath* (DC 21), *sending*  
-3rd (8/day)—*bestow curse* (DC 20), *dispel magic*, *glyph of warding* (DC 20), *stone shape*  
-2nd (8/day)—*calm emotions* (DC 19), *cure moderate wounds*, *make whole*, *resist energy*, *silence* (DC 19)  
-1st (8/day)—*command* (DC 18), *comprehend languages*, *detect chaos*, *remove fear*, *shield of faith*  
-0 (at will)—*create water*, *detect magic*, *detect poison*, *guidance*, *light*, *mending*, *purify food and drink*, *read magic*, *stabilize*
+7th (5/day)—*[dictum](../../magic/spells/dictum.md)* (DC 24), *[repulsion](../../magic/spells/repulsion.md)* (DC 24)  
+6th (7/day)—*[geas/quest](../../magic/spells/geas-quest.md)*, *[heal](../../magic/spells/heal.md)*, *[symbol of fear](../../magic/spells/symbol-of-fear.md)* (DC 23)  
+5th (7/day)—*[dispel chaos](../../magic/spells/dispel-chaos.md)*, *[mark of justice](../../magic/spells/mark-of-justice.md)*, *[symbol of pain](../../magic/spells/symbol-of-pain.md)* (DC 22), *[true seeing](../../magic/spells/true-seeing.md)*  
+4th (7/day)—*[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[dismissal](../../magic/spells/dismissal.md)* (DC 21), *[order’s wrath](../../magic/spells/orders-wrath.md)* (DC 21), *[sending](../../magic/spells/sending.md)*  
+3rd (8/day)—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 20), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[glyph of warding](../../magic/spells/glyph-of-warding.md)* (DC 20), *[stone shape](../../magic/spells/stone-shape.md)*  
+2nd (8/day)—*[calm emotions](../../magic/spells/calm-emotions.md)* (DC 19), *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[make whole](../../magic/spells/make-whole.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[silence](../../magic/spells/silence.md)* (DC 19)  
+1st (8/day)—*[command](../../magic/spells/command.md)* (DC 18), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[detect chaos](../../magic/spells/detect-chaos.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

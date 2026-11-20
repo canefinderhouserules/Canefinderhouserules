@@ -23,8 +23,8 @@ CE Medium aberration
 **Space** 5 ft., **Reach** 10 ft.  
 **Special Attacks** blood drain (1d2 Constitution)  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
-Constant—*freedom of movement*, *pass without trace*  
-1/day—*bestow curse* (DC 16), *blur*, *contagion* (DC 16), *diminish plants*, *gust of wind*, *hold monster* (DC 17)
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*  
+1/day—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 16), *[blur](../../magic/spells/blur.md)*, *[contagion](../../magic/spells/contagion.md)* (DC 16), *[diminish plants](../../magic/spells/diminish-plants.md)*, *[gust of wind](../../magic/spells/gust-of-wind.md)*, *[hold monster](../../magic/spells/hold-monster.md)* (DC 17)
 
 **Statistics**
 

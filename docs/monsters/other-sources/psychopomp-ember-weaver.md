@@ -22,8 +22,8 @@ N Medium outsider (psychopomp, extraplanar)
 **Melee** 2 touches +15 (4d6 fire)  
 **Special Attacks** rush of souls  
 **Spell-Like Abilities** (CL 11th; concentration +15)  
-At will—*continual flame*, *dancing lights* (DC 14), *searing light*, *suggestion* (DC 19), *whispering wind*  
-1/day—*dispel magic*, *freedom of movement*, *fly*, *locate creature*, *plane shift*, *slay living* (DC 19)
+At will—*[continual flame](../../magic/spells/continual-flame.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)* (DC 14), *[searing light](../../magic/spells/searing-light.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 19), *[whispering wind](../../magic/spells/whispering-wind.md)*  
+1/day—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[fly](../../magic/spells/fly.md)*, *[locate creature](../../magic/spells/locate-creature.md)*, *[plane shift](../../magic/spells/plane-shift.md)*, *[slay living](../../magic/spells/slay-living.md)* (DC 19)
 
 **Statistics**
 

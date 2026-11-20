@@ -22,7 +22,7 @@ CE Large outsider (native)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** smite good 1/day, powerful charge (gore +13, 2d6+9)  
 **Spell-Like Abilities** (CL 6th)  
-3/day—*darkness*; 1/day—*desecrate*, *unholy blight* (DC 14)
+3/day—*[darkness](../../magic/spells/darkness.md)*; 1/day—*[desecrate](../../magic/spells/desecrate.md)*, *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 14)
 
 **Statistics**
 

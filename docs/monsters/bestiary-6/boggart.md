@@ -22,7 +22,7 @@ CE Small fey
 **Space** 5 ft., **Reach** 10 ft.  
 **Special Attacks** abduct, sneak attack +1d6  
 **Spell-Like Abilities** (CL 8th; concentration +12)  
-10 PE—*aversion* (2 PE, DC 16), *hallucinatory terrain* (4 PE, DC 18), *hold person* (2 PE, DC 16), *invisibility* (2 PE, DC 16), *telekinetic maneuver* (0 PE)
+10 PE—*[aversion](../../magic/spells/aversion.md)* (2 PE, DC 16), *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)* (4 PE, DC 18), *[hold person](../../magic/spells/hold-person.md)* (2 PE, DC 16), *[invisibility](../../magic/spells/invisibility.md)* (2 PE, DC 16), *[telekinetic maneuver](../../magic/spells/telekinetic-maneuver.md)* (0 PE)
 
 **Statistics**
 

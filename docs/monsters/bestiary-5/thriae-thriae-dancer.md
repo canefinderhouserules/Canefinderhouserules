@@ -22,13 +22,13 @@ LN Medium monstrous humanoid
 plus poison)  
 **Special Attacks** inspiring dance, poison  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-Constant—*detect secret doors*  
+Constant—*[detect secret doors](../../magic/spells/detect-secret-doors.md)*  
 
-At will—*lullaby* (DC 13)  
+At will—*[lullaby](../../magic/spells/lullaby.md)* (DC 13)  
 
-3/day—*calm emotions* (DC 15), *charm person* (DC 14), *hypnotism* (DC 14)  
+3/day—*[calm emotions](../../magic/spells/calm-emotions.md)* (DC 15), *[charm person](../../magic/spells/charm-person.md)* (DC 14), *[hypnotism](../../magic/spells/hypnotism.md)* (DC 14)  
 
-1/day—*deep slumber* (DC 16), *suggestion* (DC 15)
+1/day—*[deep slumber](../../magic/spells/deep-slumber.md)* (DC 16), *[suggestion](../../magic/spells/suggestion.md)* (DC 15)
 
 **Statistics**
 

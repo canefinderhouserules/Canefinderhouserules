@@ -21,7 +21,7 @@ N Small outsider (air, elemental, extraplanar, incorporeal)
 **Ranged**  lightning lash +8 (2d8 electricity damage)  
 **Special Attacks** lightning lash  
 **Spell-Like Abilities** (CL 7th; concentration +11)  
-2/day—*control weather* (standard action; intensify or dispel storm only)
+2/day—*[control weather](../../magic/spells/control-weather.md)* (standard action; intensify or dispel storm only)
 
 **Statistics**
 

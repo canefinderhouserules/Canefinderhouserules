@@ -24,9 +24,9 @@ NE Large outsider (daemon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** penetrating slivers, trample (1d6+6 plus bleed 1d4, DC 17)  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-Constant—*detect good*  
-At will—*cause fear* (DC 13), *lesser confusion* (DC 13), *message*, *obscuring mist*  
-1/day—*crushing despair* (DC 16), *dispel magic*, *meld into stone*, *move earth*
+Constant—*[detect good](../../magic/spells/detect-good.md)*  
+At will—*[cause fear](../../magic/spells/cause-fear.md)* (DC 13), *[lesser confusion](../../magic/spells/confusion-lesser.md)* (DC 13), *[message](../../magic/spells/message.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+1/day—*[crushing despair](../../magic/spells/crushing-despair.md)* (DC 16), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[meld into stone](../../magic/spells/meld-into-stone.md)*, *[move earth](../../magic/spells/move-earth.md)*
 
 **Statistics**
 

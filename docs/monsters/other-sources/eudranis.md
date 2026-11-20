@@ -25,9 +25,9 @@ CE Medium monstrous humanoid
 **Spell-Like Abilities** (CL 4th; concentration +8)  
 7/day—touch of chaos, vision of madness (+/–2)  
 **Cleric Spells Prepared** (CL 4th; concentration +8)  
-2nd—*align weapon*<sup>D</sup> (chaos only), *hold person* (DC 16), *resist energy*, *spiritual weapon*  
-1st—*cure light wounds*, *divine favor*, *murderous command* (DC 15), *protection from law*<sup>D</sup>, *shield of faith*  
-0 (at will)—*bleed* (DC 14), *create water*, *detect magic*, *purify food and drink* (DC 14)  
+2nd—*[align weapon](../../magic/spells/align-weapon.md)*<sup>D</sup> (chaos only), *[hold person](../../magic/spells/hold-person.md)* (DC 16), *[resist energy](../../magic/spells/resist-energy.md)*, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[murderous command](../../magic/spells/murderous-command.md)* (DC 15), *[protection from law](../../magic/spells/protection-from-law.md)*<sup>D</sup>, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 14), *[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)* (DC 14)  
 **D** Domain spell; **Domains** Chaos, Madness
 
 **Statistics**

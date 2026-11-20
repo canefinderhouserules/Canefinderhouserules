@@ -24,11 +24,11 @@ LE Medium humanoid (human)
 **Spell-Like Abilities** (CL 8th; concentration +11)  
 6/day—corrupting touch (3 rounds)  
 **Sorcerer Spells Known** (CL 8th; concentration +11)  
-4th (3/day)—*wall of fire*  
-3rd (6/day)—*dispel magic*, *suggestion* (DC 16), *vision of hell* (DC 16)  
-2nd (7/day)—*alter self*, *resist energy*, *scorching ray*, *summon monster II*  
-1st (7/day)—*burning hands* (DC 14), *charm person* (DC 16), *infernal healing*, *magic missile*, *protection from chaos*, *protection from good*  
-0 (at will)—*acid splash*, *bleed* (DC 13), *detect magic*, *ghost sound* (DC 13), *light*, *mage hand*, *ray of frost*, *read magic*  
+4th (3/day)—*[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3rd (6/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 16), *[vision of hell](../../magic/spells/vision-of-hell.md)* (DC 16)  
+2nd (7/day)—*[alter self](../../magic/spells/alter-self.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[summon monster II](../../magic/spells/summon-monster-ii.md)*  
+1st (7/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 14), *[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[infernal healing](../../magic/spells/infernal-healing.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[protection from chaos](../../magic/spells/protection-from-chaos.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** infernal
 
 **Statistics**

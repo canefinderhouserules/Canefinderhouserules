@@ -26,13 +26,13 @@ LN Medium humanoid (human, orc)
 12/day—lightning lord  
 7/day—storm burst  
 **Druid Spells Prepared** (CL 12th; concentration +16)  
-6th—*control winds*<sup>D</sup>(DC 20), *greater dispel magic*, *repel wood*  
-5th—*call lightning storm* (DC 19), *cure critical wounds*, *ice storm*<sup>D</sup>, *tree stride*  
-4th—*cure serious wounds*, *dispel magic*, *flame strike* (DC 18), *freedom of movement*, *sleet storm*<sup>D</sup>  
-3rd—*call lightning*<sup>D</sup>(DC 17), *cure moderate wounds*, *greater magic fang* (3), *protection from energy* (DC 17)  
-2nd—*barkskin* (2), *bear’s endurance*, *bull’s strength*, *cat’s grace*, *fog cloud*<sup>D</sup>  
-1st—*endure elements*, *entangle* (DC 15), *faerie fire*, *obscuring mist*<sup>D</sup>, *shillelagh*, *speak with animals*  
-0 (at will)—*detect magic*, *guidance*, *stabilize*, *virtue*  
+6th—*[control winds](../../magic/spells/control-winds.md)*<sup>D</sup>(DC 20), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[repel wood](../../magic/spells/repel-wood.md)*  
+5th—*[call lightning storm* ](../../magic/spells/call-lightning-storm.md)(DC 19), *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[ice storm](../../magic/spells/ice-storm.md)*<sup>D</sup>, *[tree stride](../../magic/spells/tree-stride.md)*  
+4th—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(DC 18), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[sleet storm](../../magic/spells/sleet-storm.md)*<sup>D</sup>  
+3rd—*[call lightning](../../magic/spells/call-lightning.md)*<sup>D</sup>(DC 17), *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[greater magic fang* ](../../magic/spells/magic-fang-greater.md)(3), *[protection from energy* ](../../magic/spells/protection-from-energy.md)(DC 17)  
+2nd—*[barkskin* ](../../magic/spells/barkskin.md)(2), *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*<sup>D</sup>  
+1st—*[endure elements](../../magic/spells/endure-elements.md)*, *[entangle* ](../../magic/spells/entangle.md)(DC 15), *[faerie fire](../../magic/spells/faerie-fire.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*<sup>D</sup>, *[shillelagh](../../magic/spells/shillelagh.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **D** Domain spell; **Domain** Weather
 
 **Tactics**

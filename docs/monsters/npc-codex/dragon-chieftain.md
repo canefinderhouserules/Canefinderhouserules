@@ -22,18 +22,18 @@ CE Medium humanoid (human, orc)
 **Melee** bite +19 (1d6+9 plus 1d6 fire), 2 claws +19 (1d6+6) or *+1 heavy mace* +19/+14/+9 (1d8+10)  
 **Special Attacks** bardic performance 26 rounds/day (move action; countersong, dirge of doom, distraction, fascinate, inspire competence +3, inspire courage +2, inspire greatness, suggestion), breath weapon (30-foot cone, 7d6 fire, DC 17, 1/day), claws (2, 1d6+6, magic, 7 rounds/day), dragon bite  
 **Spell-Like Abilities** (CL 7th; concentration +11)  
-1/day—*form of the dragon I* (red dragon only)  
+1/day—*[form of the dragon I](../../magic/spells/form-of-the-dragon-i.md)* (red dragon only)  
 **Bard Spells Known** (CL 15th; concentration +19)  
-5th (3/day)—*greater heroism*, *mass cure light wounds*, *shadow walk* (DC 19), *song of discord* (DC 20)  
-4th (5/day)—*cure critical wounds*, *dominate person* (DC 19), *neutralize poison*, *shout* (DC 18)  
-3rd (6/day)—*clairaudience/clairvoyance*, *fear* (DC 17), *haste*, *invisibility sphere*, *phantom steed*  
-2nd (6/day)—*blur*, *cure moderate wounds*, *detect thoughts* (DC 16), *silence* (DC 16), *summon swarm*, *whispering wind*  
-1st (6/day)—*charm person* (DC 16), *cure light wounds*, *expeditious retreat*, *feather fall*, *remove fear*, *unseen servant*  
-0 (at will)—*dancing lights*, *detect magic*, *flare* (DC 14), *mage hand*, *message*, *resistance*
+5th (3/day)—*[greater heroism](../../magic/spells/heroism-greater.md)*, *[mass cure light wounds](../../magic/spells/cure-light-wounds-mass.md)*, *[shadow walk* ](../../magic/spells/shadow-walk.md)(DC 19), *[song of discord* ](../../magic/spells/song-of-discord.md)(DC 20)  
+4th (5/day)—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[dominate person* ](../../magic/spells/dominate-person.md)(DC 19), *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[shout* ](../../magic/spells/shout.md)(DC 18)  
+3rd (6/day)—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[fear* ](../../magic/spells/fear.md)(DC 17), *[haste](../../magic/spells/haste.md)*, *[invisibility sphere](../../magic/spells/invisibility-sphere.md)*, *[phantom steed](../../magic/spells/phantom-steed.md)*  
+2nd (6/day)—*[blur](../../magic/spells/blur.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[silence* ](../../magic/spells/silence.md)(DC 16), *[summon swarm](../../magic/spells/summon-swarm.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*  
+1st (6/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 14), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Tactics**
 
-**During Combat** The dragon disciple casts *greater heroism* and *haste*, then uses *dominate person* and *charm person* to create allies among his enemies. In melee, he uses his breath weapon and Dazzling Display.
+**During Combat** The dragon disciple casts *[greater heroism* ](../../magic/spells/heroism-greater.md)and *[haste](../../magic/spells/haste.md)*, then uses *[dominate person* ](../../magic/spells/dominate-person.md)and *[charm person* ](../../magic/spells/charm-person.md)to create allies among his enemies. In melee, he uses his breath weapon and Dazzling Display.
 
 **Statistics**
 

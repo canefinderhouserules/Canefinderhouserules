@@ -23,10 +23,10 @@ CE Gargantuan construct (extraplanar, mythic)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** bleed (2d6), destroyer, display of Strength, farwalker (2), mythic power (10/day, surge +1d10), rend (2 vile arms, 2d8+24), vile strikes  
 **Spell-Like Abilities** (CL 20th; concentration +26)  
-Constant—*unholy aura*  
- At will—*blade barrier* (DC 22), *dimensional anchor*  
- 3/day—*blasphemy* (DC 23), *plane shift* (DC 21)  
- 1/day—*destruction* (DC 23), *earthquake, implosion* (DC 25)
+Constant—*[unholy aura](../../magic/spells/unholy-aura.md)*  
+ At will—*[blade barrier](../../magic/spells/blade-barrier.md)* (DC 22), *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*  
+ 3/day—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 23), *[plane shift](../../magic/spells/plane-shift.md)* (DC 21)  
+ 1/day—*[destruction](../../magic/spells/destruction.md)* (DC 23), *earthquake, implosion* (DC 25)
 
 **Statistics**
 

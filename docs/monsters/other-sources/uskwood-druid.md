@@ -23,13 +23,13 @@ NE Medium humanoid (elf)
 **Ranged**  *+1 composite longbow* +11/+6 (1d8+3/×3)  
 **Special Attacks** wild shape 4/day  
 **Druid Spells Prepared** (CL 11th; concentration +15)  
-6th—*transport via plants*  
-5th—*phantasmal killer* (DC 15), *wall of thorns*  
-4th—*displacement*, *freedom of movement*, *ice storm*, *spike stones* (DC 14)  
-3rd—*cure moderate wounds*, *ghoul touch* (DC 13), *greater magic fang*, *poison* (DC 13), *sleet storm*  
-2nd—*barkskin* (2), *bear’s endurance*, *chill touch* (DC 12), *resist energy*  
-1st—*cure light wounds*, *entangle* (DC 11), *longstrider*, *obscuring mist*, *speak with animals*  
-0 (at will)—*detect magic*, *guidance*, *purify food and drink*, *ray of frost*
+6th—*[transport via plants](../../magic/spells/transport-via-plants.md)*  
+5th—*[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 15), *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+4th—*[displacement](../../magic/spells/displacement.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[ice storm](../../magic/spells/ice-storm.md)*, *[spike stones](../../magic/spells/spike-stones.md)* (DC 14)  
+3rd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[ghoul touch](../../magic/spells/ghoul-touch.md)* (DC 13), *[greater magic fang](../../magic/spells/magic-fang-greater.md)*, *[poison](../../magic/spells/poison.md)* (DC 13), *[sleet storm](../../magic/spells/sleet-storm.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)* (2), *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[chill touch](../../magic/spells/chill-touch.md)* (DC 12), *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[entangle](../../magic/spells/entangle.md)* (DC 11), *[longstrider](../../magic/spells/longstrider.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*
 
 **Statistics**
 

@@ -23,9 +23,9 @@ NE Small magical beast
 **Ranged** blinding orb +24 touch (10d8 plus blindness)  
 **Special Attacks** blinding orb (DC 26), pounce, rake (2 claws +29, 1d6+1), release shining child, sneak attack +6d6  
 **Spell-Like Abilities** (CL 23rd; concentration +28)  
-Constant—*arcane sight*  
-At will—*daylight*, *major image* (DC 18), *mirror image*, *rainbow pattern* (DC 19)  
-3/day—quickened *dispel magic*, *prismatic spray* (DC 22), *scintillating pattern*
+Constant—*[arcane sight](../../magic/spells/arcane-sight.md)*  
+At will—*[daylight](../../magic/spells/daylight.md)*, *[major image](../../magic/spells/major-image.md)* (DC 18), *[mirror image](../../magic/spells/mirror-image.md)*, *[rainbow pattern](../../magic/spells/rainbow-pattern.md)* (DC 19)  
+3/day—quickened *[dispel magic](../../magic/spells/dispel-magic.md)*, *[prismatic spray](../../magic/spells/prismatic-spray.md)* (DC 22), *[scintillating pattern](../../magic/spells/scintillating-pattern.md)*
 
 **Statistics**
 

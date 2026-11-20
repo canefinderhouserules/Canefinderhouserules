@@ -21,7 +21,7 @@ N Small construct
 **Melee** 2 claws +17 (1d6+5 plus poison), 2 wings +11 (1d3+2)  
 **Special Attacks** disorienting screech  
 **Spell-Like Abilities** (CL 2nd; concentration -1)  
-Constant—*detect magic*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*
 
 **Statistics**
 

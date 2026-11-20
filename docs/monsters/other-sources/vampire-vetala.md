@@ -23,9 +23,9 @@ NE Medium undead (augmented humanoid, human)
 **Melee** 2 claws +7 (1d6+4 plus paralysis)  
 **Special Attacks** drain prana (DC 18), malevolence, paralysis (1d4+1 rounds, DC 18), possess corpse  
 **Oracle Spells Known** (CL 5th; concentration +11)  
-2nd (6/day)—*death knell* (DC 18), *false life*, *inflict moderate wounds* (DC 18), *levitate*, *minor image* (DC 18), *silence* (DC 18)  
-1st (8/day)—*cause fear* (DC 17), *command* (DC 17), *doom* (DC 17), *inflict light wounds* (DC 17), *obscuring mist*, *shield of faith*  
-0 (at will)—*bleed* (DC 16), *detect magic*, *ghost sound*, *guidance*, *light*, *mage hand*, *read magic*, *resistance*  
+2nd (6/day)—*[death knell* ](../../magic/spells/death-knell.md)(DC 18), *[false life](../../magic/spells/false-life.md)*, *[inflict moderate wounds* ](../../magic/spells/inflict-moderate-wounds.md)(DC 18), *[levitate](../../magic/spells/levitate.md)*, *[minor image* ](../../magic/spells/minor-image.md)(DC 18), *[silence* ](../../magic/spells/silence.md)(DC 18)  
+1st (8/day)—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 17), *[command* ](../../magic/spells/command.md)(DC 17), *[doom* ](../../magic/spells/doom.md)(DC 17), *[inflict light wounds* ](../../magic/spells/inflict-light-wounds.md)(DC 17), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **Mystery** bones
 
 **Statistics**

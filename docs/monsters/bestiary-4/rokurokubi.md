@@ -23,13 +23,13 @@ LE Medium monstrous humanoid
 **Space** 5 ft., **Reach** 5 ft. (20 ft. with bite)  
 **Special Attacks** elongate neck, rokurokubi’s curse  
 **Sorcerer Spells Known** (CL 12th; concentration +17)  
-6th (3)—*permanent image* (DC 21)  
-5th (6)—*feeblemind* (DC 20), *nightmare* (DC 20)  
-4th (7)—*charm monster* (DC 19), *confusion* (DC 19), *locate creature*  
-3rd (7)—*dispel magic*, *fly*, *keen edge*, *wind wall*  
-2nd (7)—*ghoul touch* (DC 17), *invisibility*, *knock*, *touch of idiocy*  
-1st (8)—*charm person* (DC 16), *disguise self*, *obscuring mist*, *shocking grasp*, *sleep* (DC 16)  
-0 (at will)—*arcane mark*, *detect magic*, *detect poison*, *ghost sound* (DC 15), *mage hand*, *message*, *open/close*, *prestidigitation*, *read magic*
+6th (3)—*[permanent image](../../magic/spells/permanent-image.md)* (DC 21)  
+5th (6)—*[feeblemind](../../magic/spells/feeblemind.md)* (DC 20), *[nightmare](../../magic/spells/nightmare.md)* (DC 20)  
+4th (7)—*[charm monster](../../magic/spells/charm-monster.md)* (DC 19), *[confusion](../../magic/spells/confusion.md)* (DC 19), *[locate creature](../../magic/spells/locate-creature.md)*  
+3rd (7)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fly](../../magic/spells/fly.md)*, *[keen edge](../../magic/spells/keen-edge.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd (7)—*[ghoul touch](../../magic/spells/ghoul-touch.md)* (DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[knock](../../magic/spells/knock.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1st (8)—*[charm person](../../magic/spells/charm-person.md)* (DC 16), *[disguise self](../../magic/spells/disguise-self.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*, *[sleep](../../magic/spells/sleep.md)* (DC 16)  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

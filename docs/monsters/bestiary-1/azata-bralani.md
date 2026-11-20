@@ -22,8 +22,8 @@ CG Medium outsider (azata, chaotic, extraplanar, good, shapechanger)
 **Ranged**  *+1 composite longbow* +12/+7 (1d8+6/×3)  
 **Special Attacks** whirlwind blast  
 **Spell-Like Abilities** (CL 6th)  
-At Will—*blur*, *charm person* (DC 13), *gust of wind* (DC 14), *mirror image*, *wind wall*  
-2/day—*lightning bolt* (DC 15), *cure serious wounds*
+At Will—*[blur](../../magic/spells/blur.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 13), *[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 14), *[mirror image](../../magic/spells/mirror-image.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+2/day—*[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 15), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*
 
 **Statistics**
 

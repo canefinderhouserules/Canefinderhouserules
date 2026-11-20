@@ -25,15 +25,15 @@ LE Large humanoid (fire, giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** heated rock, rock throwing (120 ft.)  
 **Oracle Spells Known** (CL 16th; concentration +22)  
-8th (3/day)—*fire storm* (DC 24), *incendiary cloud* (DC 24), *mass inflict critical wounds* (DC 24)  
-7th (5/day)—*blasphemy* (DC 23), *destruction* (DC 23), *mass inflict serious wounds* (DC 23), *vision* (DC 23)  
-6th (7/day)—*blade barrier*, *circle of death* (DC 22), *harm* (DC 22), *mass bull's strength*, *mass inflict moderate wounds* (DC 22)  
-5th (7/day)—*dispel good* (DC 21), *greater command* (DC 21), *insect plague* (DC 21), *mass inflict light wounds* (DC 21), *righteous might*, *slay living* (DC 21)  
-4th (7/day)—*blessing of fervor*, *greater magic weapon*, *ice storm* (DC 20), *imbue with spell ability*, *inflict critical wounds* (DC 20), *unholy blight* (DC 20)  
-3rd (7/day)—*dispel magic*, *inflict serious wounds* (DC 19), *invisibility purge*, *magic circle against good*, *stone shape*, *explosive runes*  
-2nd (8/day)—*bear's endurance*, *darkness*, *death knell* (DC 18), *inflict moderate wounds*, *oracle's burden* (DC 18), *share language*, *summon swarm*  
-1st (8/day)—*bane* (DC 17), *cause fear* (DC 17), *deathwatch*, *doom* (DC 17), *inflict light wounds* (DC 17), *obscuring mist*, *shield of faith*  
-0 (at will)—*bleed* (DC 16), *create water*, *detect magic*, *detect poison*, *purify food and drink*, *guidance*, *read magic*, *resistance*, *spark*  
+8th (3/day)—*[fire storm](../../magic/spells/fire-storm.md)* (DC 24), *[incendiary cloud](../../magic/spells/incendiary-cloud.md)* (DC 24), *[mass inflict critical wounds](../../magic/spells/inflict-critical-wounds-mass.md)* (DC 24)  
+7th (5/day)—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 23), *[destruction](../../magic/spells/destruction.md)* (DC 23), *[mass inflict serious wounds](../../magic/spells/inflict-serious-wounds-mass.md)* (DC 23), *[vision](../../magic/spells/vision.md)* (DC 23)  
+6th (7/day)—*[blade barrier](../../magic/spells/blade-barrier.md)*, *[circle of death](../../magic/spells/circle-of-death.md)* (DC 22), *[harm](../../magic/spells/harm.md)* (DC 22), *[mass bull's strength](../../magic/spells/bulls-strength-mass.md)*, *[mass inflict moderate wounds](../../magic/spells/inflict-moderate-wounds-mass.md)* (DC 22)  
+5th (7/day)—*[dispel good](../../magic/spells/dispel-good.md)* (DC 21), *[greater command](../../magic/spells/command-greater.md)* (DC 21), *[insect plague](../../magic/spells/insect-plague.md)* (DC 21), *[mass inflict light wounds](../../magic/spells/inflict-light-wounds-mass.md)* (DC 21), *[righteous might](../../magic/spells/righteous-might.md)*, *[slay living](../../magic/spells/slay-living.md)* (DC 21)  
+4th (7/day)—*[blessing of fervor](../../magic/spells/blessing-of-fervor.md)*, *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)*, *[ice storm](../../magic/spells/ice-storm.md)* (DC 20), *[imbue with spell ability](../../magic/spells/imbue-with-spell-ability.md)*, *[inflict critical wounds](../../magic/spells/inflict-critical-wounds.md)* (DC 20), *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 20)  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)* (DC 19), *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*, *[stone shape](../../magic/spells/stone-shape.md)*, *[explosive runes](../../magic/spells/explosive-runes.md)*  
+2nd (8/day)—*[bear's endurance](../../magic/spells/bears-endurance.md)*, *[darkness](../../magic/spells/darkness.md)*, *[death knell](../../magic/spells/death-knell.md)* (DC 18), *[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)*, *[oracle's burden](../../magic/spells/oracles-burden.md)* (DC 18), *[share language](../../magic/spells/share-language.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st (8/day)—*[bane](../../magic/spells/bane.md)* (DC 17), *[cause fear](../../magic/spells/cause-fear.md)* (DC 17), *[deathwatch](../../magic/spells/deathwatch.md)*, *[doom](../../magic/spells/doom.md)* (DC 17), *[inflict light wounds](../../magic/spells/inflict-light-wounds.md)* (DC 17), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 16), *[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[spark](../../magic/spells/spark.md)*  
 **Mystery** apocalypse
 
 **Statistics**

@@ -20,9 +20,9 @@ N Medium monstrous humanoid
 **Melee** mwk scimitar +11/+11/+6/+6 (1d6+3/18–20)  
 **Special Attacks** paired weapons, raptor dive  
 **Spell-Like Abilities** (CL 8th; concentration +8)  
-Constant—*mage armor*  
-3/day—*magic weapon*  
-1/day—*cat’s grace*, *protection from evil*
+Constant—*[mage armor](../../magic/spells/mage-armor.md)*  
+3/day—*[magic weapon](../../magic/spells/magic-weapon.md)*  
+1/day—*[cat’s grace](../../magic/spells/cats-grace.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*
 
 **Statistics**
 

@@ -21,7 +21,7 @@ CN Medium outsider (incorporeal, native)
 **Melee** incorporeal touch +4 (1d6 plus memory drain)  
 **Special Attacks** memory drain  
 **Psychic Magic** (CL 2nd; concentration +4)  
-15 PE—*deja vu* (1 PE), *ghost sound* (0 PE), *disguise self* (1 PE), *mage hand* (0 PE), *mindlink* (1 PE, DC 13), *open/close* (0 PE), *teleport* (self only, 5 PE)
+15 PE—*[deja vu](../../magic/spells/deja-vu.md)* (1 PE), *[ghost sound](../../magic/spells/ghost-sound.md)* (0 PE), *[disguise self](../../magic/spells/disguise-self.md)* (1 PE), *[mage hand](../../magic/spells/mage-hand.md)* (0 PE), *[mindlink](../../magic/spells/mindlink.md)* (1 PE, DC 13), *[open/close](../../magic/spells/open-close.md)* (0 PE), *[teleport](../../magic/spells/teleport.md)* (self only, 5 PE)
 
 **Statistics**
 

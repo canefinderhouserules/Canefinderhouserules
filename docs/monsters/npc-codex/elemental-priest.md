@@ -25,15 +25,15 @@ CN Small humanoid (halfling)
 **Spell-Like Abilities** (CL 16th; concentration +23)  
 10/day— icicle (1d6+8 cold damage), lightning arc (1d6+8 electricity)  
 **Cleric Spells Prepared** (CL 16th; concentration +23)  
-8th—*horrid wilting*<sup>D</sup>(DC 25), *summon monster VIII* (2)  
-7th—*elemental body IV*<sup>D</sup>(air only), *ethereal jaunt*, *repulsion* (DC 24), *summon monster VII* (2)  
-6th—*banishment* (DC 23), *chain lightning*<sup>D</sup>(DC 23), *heal*, *summon monster VI*, *word of recall*  
-5th—*breath of life*, *greater command* (DC 22), *ice storm*<sup>D</sup>, *plane shift* (DC 23), *spell resistance*, *summon monster V*  
-4th—*air walk*<sup>D</sup>, *chaos hammer* (DC 21), *dismissal* (DC 21), *freedom of movement*, *summon monster IV* (2)  
-3rd—*dispel magic*, *invisibility purge*, *prayer*, *protection from energy* (DC 20), *remove blindness/deafness*, *water breathing*<sup>D</sup>, *wind wall*  
-2nd—*bear’s endurance*, *cure moderate wounds*, *hold person* (DC 19), *resist energy* (DC 19), *shatter*, *spiritual weapon*, *wind wall*<sup>D</sup>  
-1st—*bless*, *command* (2, DC 18), *cure light wounds*, *divine favor*, *obscuring mist*<sup>D</sup>, *shield of faith*  
-0 (at will)—*create water*, *detect magic*, *read magic*, *resistance*  
+8th—*[horrid wilting](../../magic/spells/horrid-wilting.md)*<sup>D</sup>(DC 25), *[summon monster VIII* ](../../magic/spells/summon-monster-viii.md)(2)  
+7th—*[elemental body IV](../../magic/spells/elemental-body-iv.md)*<sup>D</sup>(air only), *[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[repulsion* ](../../magic/spells/repulsion.md)(DC 24), *[summon monster VII* ](../../magic/spells/summon-monster-vii.md)(2)  
+6th—*[banishment* ](../../magic/spells/banishment.md)(DC 23), *[chain lightning](../../magic/spells/chain-lightning.md)*<sup>D</sup>(DC 23), *[heal](../../magic/spells/heal.md)*, *[summon monster VI](../../magic/spells/summon-monster-vi.md)*, *[word of recall](../../magic/spells/word-of-recall.md)*  
+5th—*[breath of life](../../magic/spells/breath-of-life.md)*, *[greater command* ](../../magic/spells/command-greater.md)(DC 22), *[ice storm](../../magic/spells/ice-storm.md)*<sup>D</sup>, *[plane shift](../../magic/spells/plane-shift.md)* (DC 23), *[spell resistance](../../magic/spells/spell-resistance.md)*, *[summon monster V](../../magic/spells/summon-monster-v.md)*  
+4th—*[air walk](../../magic/spells/air-walk.md)*<sup>D</sup>, *[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 21), *[dismissal* ](../../magic/spells/dismissal.md)(DC 21), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[summon monster IV* ](../../magic/spells/summon-monster-iv.md)(2)  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[prayer](../../magic/spells/prayer.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(DC 20), *[remove blindness/deafness](../../magic/spells/remove-blindness-deafness.md)*, *[water breathing](../../magic/spells/water-breathing.md)*<sup>D</sup>, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 19), *[resist energy* ](../../magic/spells/resist-energy.md)(DC 19), *[shatter](../../magic/spells/shatter.md)*, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*, *[wind wall](../../magic/spells/wind-wall.md)*<sup>D</sup>  
+1st—*[bless](../../magic/spells/bless.md)*, *[command* ](../../magic/spells/command.md)(2, DC 18), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*<sup>D</sup>, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** Domain spell; **Domains** Air, Water
 
 **Tactics**

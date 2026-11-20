@@ -31,10 +31,10 @@ fire, petrification, poison; **Resist** acid 30, cold 30; **SR** 40
 fast swallow, incinerate, spirit of hellfire, swallow whole
 (20d10 hellfire damage plus pain, AC 16, 73 hp)  
 **Spell-Like Abilities** (CL 29th; concentration +40)  
-Constant—*air walk, detect chaos, detect good, mind blank, shield of law* (DC 29), *true seeing*  
-At will—*astral projection, desecrate*<sup>M</sup>, *dictum*<sup>M</sup> (DC 28), *dominate person*<sup>M</sup> (DC 26), *fireball*<sup>M</sup> (DC 24), *greater dispel magic, greater teleport, order’s wrath*<sup>M</sup> (DC 25), *slow*<sup>M</sup> (DC 24), *unhallow, wall of fire*<sup>M</sup>  
-3/day—*quickened blade barrier*<sup>M</sup> (DC 27), *empowered fire storm* (DC 29), *mass charm monster* (DC 29), *mass hold person* (DC 28), *summon devils*  
-1/day—*meteor swarm*<sup>M</sup> (DC 30), *time stop*<sup>M</sup>, *wish*<sup>M</sup>  
+Constant—*air walk, detect chaos, detect good, mind blank, shield of law* (DC 29), *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*astral projection, desecrate*<sup>M</sup>, *[dictum](../../magic/spells/dictum.md)*<sup>M</sup> (DC 28), *[dominate person](../../magic/spells/dominate-person.md)*<sup>M</sup> (DC 26), *[fireball](../../magic/spells/fireball.md)*<sup>M</sup> (DC 24), *greater dispel magic, greater teleport, order’s wrath*<sup>M</sup> (DC 25), *[slow](../../magic/spells/slow.md)*<sup>M</sup> (DC 24), *unhallow, wall of fire*<sup>M</sup>  
+3/day—*[quickened blade barrier](../../magic/spells/blade-barrier.md)*<sup>M</sup> (DC 27), *[empowered fire storm](../../magic/spells/fire-storm.md)* (DC 29), *[mass charm monster](../../magic/spells/charm-monster-mass.md)* (DC 29), *[mass hold person](../../magic/spells/hold-person-mass.md)* (DC 28), *summon devils*  
+1/day—*[meteor swarm](../../magic/spells/meteor-swarm.md)*<sup>M</sup> (DC 30), *[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 <sup>M</sup> Moloch can use this ability’s mythic version in his realm
 
 **Statistics**

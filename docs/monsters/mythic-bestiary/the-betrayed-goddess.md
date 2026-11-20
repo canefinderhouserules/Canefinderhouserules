@@ -24,16 +24,16 @@ NE Medium undead (human)
 **Ranged**  ray +16 (ranged touch)  
 **Special Attacks** abundant casting, arcane metamastery (2 spell slots), archmage arcana (arcane surge), hand of the apprentice (17/day), inspire minions, marshal’s order (advance), metamagic mastery (7/day), mythic power (18/day, surge +1d10), paralyzing touch (DC 30), surge of inspiration, words of valor  
 **Wizard Spells Prepared** (CL 20th; concentration +34)  
-9th—*gate*, *overwhelming presence* (DC 36), *power word kill*<sup>M</sup> (2), *time stop*<sup>M</sup>, *wish*  
-8th—quickened *charm monster*, *horrid wilting* (2, DC 32), *mass charm monster* (2, DC 34), *prediction of failure* (DC 32)  
-7th—*finger of death*<sup>M</sup> (DC 32), quickened *invisibility sphere*, *mass fly*, *power word blind*, *spell turning*, *waves of ecstasy* (DC 34)  
-6th—*antimagic field*<sup>M</sup>, *circle of death* (DC 31), *disintegrate* (DC 30), *greater dispel magic*, *greater heroism*, *mass eagle’s splendor*, *mass suggestion* (DC 33)  
-5th—*dominate person* (2, DC 32), *feeblemind* (DC 32), *overland flight* (already cast), quickened *true strike* (3)  
-4th—*detect scrying* (already cast), *dimension door*, *fear* (DC 29), *greater invisibility*, *phantasmal killer* (2, DC 29), *terrible remorse* (DC 31)  
-3rd—*fireball*<sup>M</sup> (DC 27), *fly*, *greater magic weapon* (already cast), *haste*<sup>M</sup> (2), *heroism*<sup>M</sup>, *stinking cloud* (DC 27)  
-2nd—*detect thoughts* (DC 26), *false life* (already cast), *mirror image* (2), *resist energy* (2), *see invisibility*, *spectral hand*  
-1st—*disguise self*, *feather fall*, *mage armor*<sup>M</sup>, *ray of enfeeblement* (DC 26), *shield*, *true strike*, *vanish* (2)  
-0 (at will)—*detect magic*, *ghost sound* (DC 25), *mage hand*, *open/close*  
+9th—*[gate](../../magic/spells/gate.md)*, *[overwhelming presence](../../magic/spells/overwhelming-presence.md)* (DC 36), *[power word kill](../../magic/spells/power-word-kill.md)*<sup>M</sup> (2), *[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*  
+8th—quickened *[charm monster](../../magic/spells/charm-monster.md)*, *[horrid wilting](../../magic/spells/horrid-wilting.md)* (2, DC 32), *[mass charm monster](../../magic/spells/charm-monster-mass.md)* (2, DC 34), *[prediction of failure](../../magic/spells/prediction-of-failure.md)* (DC 32)  
+7th—*[finger of death](../../magic/spells/finger-of-death.md)*<sup>M</sup> (DC 32), quickened *[invisibility sphere](../../magic/spells/invisibility-sphere.md)*, *[mass fly](../../magic/spells/fly-mass.md)*, *[power word blind](../../magic/spells/power-word-blind.md)*, *[spell turning](../../magic/spells/spell-turning.md)*, *[waves of ecstasy](../../magic/spells/waves-of-ecstasy.md)* (DC 34)  
+6th—*[antimagic field](../../magic/spells/antimagic-field.md)*<sup>M</sup>, *[circle of death](../../magic/spells/circle-of-death.md)* (DC 31), *[disintegrate](../../magic/spells/disintegrate.md)* (DC 30), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater heroism](../../magic/spells/heroism-greater.md)*, *[mass eagle’s splendor](../../magic/spells/eagles-splendor-mass.md)*, *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 33)  
+5th—*[dominate person](../../magic/spells/dominate-person.md)* (2, DC 32), *[feeblemind](../../magic/spells/feeblemind.md)* (DC 32), *[overland flight](../../magic/spells/overland-flight.md)* (already cast), quickened *[true strike](../../magic/spells/true-strike.md)* (3)  
+4th—*[detect scrying](../../magic/spells/detect-scrying.md)* (already cast), *[dimension door](../../magic/spells/dimension-door.md)*, *[fear](../../magic/spells/fear.md)* (DC 29), *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (2, DC 29), *[terrible remorse](../../magic/spells/terrible-remorse.md)* (DC 31)  
+3rd—*[fireball](../../magic/spells/fireball.md)*<sup>M</sup> (DC 27), *[fly](../../magic/spells/fly.md)*, *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)* (already cast), *[haste](../../magic/spells/haste.md)*<sup>M</sup> (2), *[heroism](../../magic/spells/heroism.md)*<sup>M</sup>, *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 27)  
+2nd—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 26), *[false life](../../magic/spells/false-life.md)* (already cast), *[mirror image](../../magic/spells/mirror-image.md)* (2), *[resist energy](../../magic/spells/resist-energy.md)* (2), *[see invisibility](../../magic/spells/see-invisibility.md)*, *[spectral hand](../../magic/spells/spectral-hand.md)*  
+1st—*[disguise self](../../magic/spells/disguise-self.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[mage armor](../../magic/spells/mage-armor.md)*<sup>M</sup>, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 26), *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*, *[vanish](../../magic/spells/vanish.md)* (2)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 25), *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*  
 **M** mythic spell
 
 **Tactics**

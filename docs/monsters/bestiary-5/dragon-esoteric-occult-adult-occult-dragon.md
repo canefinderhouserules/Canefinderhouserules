@@ -23,12 +23,12 @@ NG Large dragon
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, DC 21, 12d6 cold or fire)  
 **Psychic Magic** (CL 12th; concentration +17)  
-9 PE—*augury* (2 PE), *blood biography* (3 PE), *forbid action* (1 PE; DC 16), *invisibility* (2 PE), *mending* (0 PE)  
+9 PE—*[augury](../../magic/spells/augury.md)* (2 PE), *[blood biography](../../magic/spells/blood-biography.md)* (3 PE), *[forbid action](../../magic/spells/forbid-action.md)* (1 PE; DC 16), *[invisibility* ](../../magic/spells/invisibility.md)(2 PE), *[mending* ](../../magic/spells/mending.md)(0 PE)  
  **Psychic Spells Known** (CL 7th; concentration +12)  
- 3rd (5/day)—*gaseous form*, *mental barrier II*  
- 2nd (7/day)—*hideous laughter* (DC 15), *protection from arrows*, *suggestion* (DC 17)  
- 1st (8/day)—*burst of adrenaline*, *burst of insight*, *interrogation* (DC 16), *mage armor*, *sleep* (DC 16)  
- 0 (at-will)—*detect magic*, *detect psychic significance*, *grave words*, *mage hand*, *message*, *read magic*, *resistance*
+ 3rd (5/day)—*[gaseous form](../../magic/spells/gaseous-form.md)*, *[mental barrier II](../../magic/spells/mental-barrier-ii.md)*  
+ 2nd (7/day)—*[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 15), *[protection from arrows](../../magic/spells/protection-from-arrows.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 17)  
+ 1st (8/day)—*[burst of adrenaline](../../magic/spells/burst-of-adrenaline.md)*, *[burst of insight](../../magic/spells/burst-of-insight.md)*, *[interrogation* ](../../magic/spells/interrogation.md)(DC 16), *[mage armor](../../magic/spells/mage-armor.md)*, *[sleep* ](../../magic/spells/sleep.md)(DC 16)  
+ 0 (at-will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect psychic significance](../../magic/spells/detect-psychic-significance.md)*, *[grave words](../../magic/spells/grave-words.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

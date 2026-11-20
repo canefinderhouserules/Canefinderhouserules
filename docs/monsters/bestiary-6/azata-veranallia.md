@@ -28,17 +28,17 @@ plus 1d6 cold), 4 vines +32 (1d8+9/19–20 plus grab)
 **Special Attacks** autumnal embrace, constrict (1d8+9), winter sickle  
 **Spell-Like Abilities** (CL 20th; concentration +29)  
 Constant—*air walk, detect animals or plants, detect evil, holy aura* (DC 27), *speak with plants, true seeing*  
-At will—*blight* (DC 24), *cure serious wounds, diminish plants, entangle* (DC 20), *plant growth*  
+At will—*[blight](../../magic/spells/blight.md)* (DC 24), *cure serious wounds, diminish plants, entangle* (DC 20), *[plant growth](../../magic/spells/plant-growth.md)*  
 3/day—*animate plants, awaken, control plants* (DC 27), *grove of respite, repel metal or stone, quickened wall of thorns* 1/day—*regenerate, shambler*  
 **Cleric Spells Prepared** (CL 20th; concentration +28)  
-9th—*implosion* (DC 27), *mass heal, storm of vengeance* (DC 27), *true resurrection*  
+9th—*[implosion](../../magic/spells/implosion.md)* (DC 27), *mass heal, storm of vengeance* (DC 27), *[true resurrection](../../magic/spells/true-resurrection.md)*  
 8th—*dimensional lock, earthquake, mass cure critical wounds, reverse gravity, sunburst* (DC 26)  
-7th—*destruction* (DC 25), *fire storm* (DC 25), *greater restoration, mass cure serious wounds, sunbeam* (DC 25)  
+7th—*[destruction](../../magic/spells/destruction.md)* (DC 25), *[fire storm](../../magic/spells/fire-storm.md)* (DC 25), *greater restoration, mass cure serious wounds, sunbeam* (DC 25)  
 6th—*antilife shell, banishment* (DC 24), *greater dispel magic, heal, word of recall*  
-5th—*breath of life, call lightning storm* (DC 23), *dispel evil* (DC 23), *greater command* (DC 23), *insect plague*  
+5th—*breath of life, call lightning storm* (DC 23), *[dispel evil](../../magic/spells/dispel-evil.md)* (DC 23), *[greater command](../../magic/spells/command-greater.md)* (DC 23), *[insect plague](../../magic/spells/insect-plague.md)*  
 4th—*antiplant shell, chaos hammer* (DC 22), *freedom of movement, holy smite* (DC 22), *ice storm, neutralize poison*  
 3rd—*daylight, dispel magic, protection from energy, remove disease, searing light, water walk*  
-2nd—*align weapon, barkskin, calm emotions* (DC 20), *enthrall* (DC 20), *gentle repose, lesser restoration*  
+2nd—*align weapon, barkskin, calm emotions* (DC 20), *[enthrall](../../magic/spells/enthrall.md)* (DC 20), *gentle repose, lesser restoration*  
 1st—*divine favor, endure elements, entropic shield, protection from evil, remove fear, sanctuary* (DC 19)  
 0—*create water, detect poison, light, purify food and drink*
 

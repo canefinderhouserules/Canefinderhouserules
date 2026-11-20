@@ -25,13 +25,13 @@ LE Large humanoid (fire, giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** combat style (two-handed weapon), favored enemy (animals +2, dragons +4, dwarves +4), heated rock, rock throwing (120 ft.)  
 **Ranger Spells Prepared** (CL 7th; concentration +11)  
-3rd—*cure moderate wounds*  
-2nd—*aspect of the bear*, *spike growth* (DC 16)  
-1st—*entangle* (DC 15), *longstrider*, *resist energy*
+3rd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*  
+2nd—*[aspect of the bear](../../magic/spells/aspect-of-the-bear.md)*, *[spike growth](../../magic/spells/spike-growth.md)* (DC 16)  
+1st—*[entangle](../../magic/spells/entangle.md)* (DC 15), *[longstrider](../../magic/spells/longstrider.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Tactics**
 
-**Before Combat** The fire giant king casts *aspect of the bear* and *longstrider*.  
+**Before Combat** The fire giant king casts *[aspect of the bear](../../magic/spells/aspect-of-the-bear.md)* and *[longstrider](../../magic/spells/longstrider.md)*.  
  **During Combat** The king typically leads his warriors into battle, supporting his troops and tearing through his enemies.  
  **Base Statistics** Without *aspect of the bear* and *longstrider*, the fire giant king’s statistics are **AC** 32, touch 10, flat-footed 32, **Speed** 30 ft.; **CMB** +36 (+38 bull rush, +38 overrun, +38 sunder)
 

@@ -22,12 +22,12 @@ CE Large humanoid (giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** hexes (agony [10 rounds], cackle, evil eye [–4, 6 rounds], misfortune [2 rounds], slumber [10 rounds], water lung), rend (2 claws, 1d6+7)  
 **Witch Spells Prepared** (CL 10th; concentration +13)  
-5th—*flame strike* (DC 20), *mass pain strike* (DC 18)  
-4th—*confusion* (DC 17), *enervation*, *wall of ice* (DC 17)  
-3rd—*fireball* (2, DC 18), *ray of exhaustion* (DC 16), *screech* (DC 16)  
-2nd—*bull’s strength*, *burning gaze* (DC 17), *enthrall* (DC 15), *flaming sphere* (DC 17), *touch of idiocy*  
-1st—*burning hands* (DC 16), *cause fear* (DC 14), ray of enfeeblement (DC 14), *reduce person* (DC 14)  
-0 (at will)—*bleed* (DC 13), *detect magic*, *purify food and drink*, *touch of fatigue* (DC 13)  
+5th—*[flame strike](../../magic/spells/flame-strike.md)* (DC 20), *[mass pain strike](../../magic/spells/pain-strike-mass.md)* (DC 18)  
+4th—*[confusion](../../magic/spells/confusion.md)* (DC 17), *[enervation](../../magic/spells/enervation.md)*, *[wall of ice](../../magic/spells/wall-of-ice.md)* (DC 17)  
+3rd—*[fireball](../../magic/spells/fireball.md)* (2, DC 18), *[ray of exhaustion](../../magic/spells/ray-of-exhaustion.md)* (DC 16), *[screech](../../magic/spells/screech.md)* (DC 16)  
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[burning gaze](../../magic/spells/burning-gaze.md)* (DC 17), *[enthrall](../../magic/spells/enthrall.md)* (DC 15), *[flaming sphere](../../magic/spells/flaming-sphere.md)* (DC 17), *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1st—*[burning hands](../../magic/spells/burning-hands.md)* (DC 16), *[cause fear](../../magic/spells/cause-fear.md)* (DC 14), ray of enfeeblement (DC 14), *[reduce person](../../magic/spells/reduce-person.md)* (DC 14)  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 13)  
 **Patron** elements
 
 **Tactics**

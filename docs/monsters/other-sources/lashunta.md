@@ -22,11 +22,11 @@ NG Medium humanoid (lashunta)
 **Ranged**  light crossbow +1 (1d8/19–20)  
 **Special Attacks** hand of the apprentice (6/day)  
 **Spell-Like Abilities** (CL 1st; concentration +4)  
-At will—*daze* (DC 13), *mage hand*  
-1/day—*detect thoughts* (DC 15)  
+At will—*[daze* ](../../magic/spells/daze.md)(DC 13), *[mage hand](../../magic/spells/mage-hand.md)*  
+1/day—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 15)  
 **Wizard Spells Prepared** (CL 1st; concentration +4)  
-1st—*charm person* (DC 14), *mage armor*, *magic missile*  
-0 (at will)—*acid splash*, *detect magic*, *flare* (DC 13), *read magic*
+1st—*[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 13), *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

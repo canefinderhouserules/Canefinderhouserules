@@ -23,17 +23,17 @@ CN Gargantuan dragon
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** bewildering breath, breath weapon (120-ft. line, 20d8 cold, DC 29), crush, moonsilver, tail sweep  
 **Spell-Like Abilities** (CL 24th; concentration +31)  
-At will—*dancing lights*, *life bubble*, *moonstruck*, *scrying*  
-3/day—quickened *moonstruck*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[life bubble](../../magic/spells/life-bubble.md)*, *[moonstruck](../../magic/spells/moonstruck.md)*, *[scrying](../../magic/spells/scrying.md)*  
+3/day—quickened *[moonstruck](../../magic/spells/moonstruck.md)*  
 **Sorcerer Spells Known** (CL 15th; concentration +22)  
-7th (5/day)—*greater teleport*, *waves of exhaustion*  
-6th (7/day)—*cold ice strike* (DC 23), *greater dispel magic*, *true seeing*  
-5th (7/day)—*dominate person* (DC 22), *feeblemind* (DC 22), *fire snake* (DC 22), *mage’s private sanctum*  
-4th (7/day)—*charm monster* (DC 21), *fire shield*, *greater invisibility*, *lesser globe of invulnerability*  
-3rd (8/day)—*haste*, *heroism*, *tongues*, *vampiric touch*  
-2nd (8/day)—*bear’s endurance*, *detect thoughts* (DC 19), *hypnotic pattern* (DC 19), *minor image* (DC 19), *mirror image*  
-1st (8/day)—*comprehend languages*, *mage armor*, *protection from evil*, *shocking grasp*, *vanish*  
-0 (at will)—*detect magic*, *light*, *read magic*, 4 more
+7th (5/day)—*[greater teleport](../../magic/spells/teleport-greater.md)*, *[waves of exhaustion](../../magic/spells/waves-of-exhaustion.md)*  
+6th (7/day)—*[cold ice strike](../../magic/spells/cold-ice-strike.md)* (DC 23), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+5th (7/day)—*[dominate person* ](../../magic/spells/dominate-person.md)(DC 22), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 22), *[fire snake* ](../../magic/spells/fire-snake.md)(DC 22), *[mage’s private sanctum](../../magic/spells/mages-private-sanctum.md)*  
+4th (7/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 21), *[fire shield](../../magic/spells/fire-shield.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[lesser globe of invulnerability](../../magic/spells/globe-of-invulnerability-lesser.md)*  
+3rd (8/day)—*[haste](../../magic/spells/haste.md)*, *[heroism](../../magic/spells/heroism.md)*, *[tongues](../../magic/spells/tongues.md)*, *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd (8/day)—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 19), *[hypnotic pattern* ](../../magic/spells/hypnotic-pattern.md)(DC 19), *[minor image* ](../../magic/spells/minor-image.md)(DC 19), *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (8/day)—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*, *[vanish](../../magic/spells/vanish.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[read magic](../../magic/spells/read-magic.md)*, 4 more
 
 **Statistics**
 

@@ -22,9 +22,9 @@ LE Large outsider (giant, native, oni, shapechanger)
 **Ranged**  composite longbow +10 (2d6+7)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 9th)  
-Constant—*fly*  
-At will—*darkness*, *invisibility*  
-1/day—*charm monster* (DC 17), *cone of cold* (DC 18), *gaseous form*, *deep slumber* (DC 16)
+Constant—*[fly](../../magic/spells/fly.md)*  
+At will—*[darkness](../../magic/spells/darkness.md)*, *[invisibility](../../magic/spells/invisibility.md)*  
+1/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 17), *[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 18), *[gaseous form](../../magic/spells/gaseous-form.md)*, *[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 16)
 
 **Statistics**
 

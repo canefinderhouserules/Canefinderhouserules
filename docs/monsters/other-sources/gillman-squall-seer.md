@@ -24,11 +24,11 @@ CN Medium humanoid (aquatic)
 **Ranged**  mwk light crossbow +11 (1d8/19–20)  
 **Special Attacks** bardic performance 31 rounds/day (move action; dirge of doom [DC 18], distraction, fascinate [DC 18], inspire courage +2, inspire greatness, sea shanty, still water, whistle the wind)  
 **Bard Spells Known** (CL 10th; concentration +13)  
-4th (1/day)—*legend lore*, *shadow conjuration* (DC 17)  
-3rd (4/day)—*charm monster* (DC 16), *elemental speech*, *seek thoughts* (DC 16), *summon monster III*  
-2nd (5/day)—*create treasure map*, *enthrall* (DC 15), *heroism*, *suggestion* (DC 15), *whispering wind*  
-1st (6/day)—*animate rope*, *comprehend languages*, *invigorate*, *remove fear*, *sleep* (DC 14)  
-0 (at will)—*dancing lights*, *daze* (DC 13), *know direction*, *mage hand*, *message*, *resistance*
+4th (1/day)—*[legend lore](../../magic/spells/legend-lore.md)*, *[shadow conjuration](../../magic/spells/shadow-conjuration.md)* (DC 17)  
+3rd (4/day)—*[charm monster](../../magic/spells/charm-monster.md)* (DC 16), *[elemental speech](../../magic/spells/elemental-speech.md)*, *[seek thoughts](../../magic/spells/seek-thoughts.md)* (DC 16), *[summon monster III](../../magic/spells/summon-monster-iii.md)*  
+2nd (5/day)—*[create treasure map](../../magic/spells/create-treasure-map.md)*, *[enthrall](../../magic/spells/enthrall.md)* (DC 15), *[heroism](../../magic/spells/heroism.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 15), *[whispering wind](../../magic/spells/whispering-wind.md)*  
+1st (6/day)—*[animate rope](../../magic/spells/animate-rope.md)*, *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[invigorate](../../magic/spells/invigorate.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[sleep](../../magic/spells/sleep.md)* (DC 14)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze](../../magic/spells/daze.md)* (DC 13), *[know direction](../../magic/spells/know-direction.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

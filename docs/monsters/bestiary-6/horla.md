@@ -21,10 +21,10 @@ CE Small aberration (extraplanar)
 **Melee** 3 tentacles +15 (1d4+2)  
 **Special Attacks** command somnambulist, ennui, sneak attack +2d6  
 **Spell-Like Abilities** (CL 8th; concentration +12)  
-Constant—*greater invisibility*  
-At will—*detect thoughts* (DC 16), *suggestion* (DC 17)  
-3/day—*crushing despair* (DC 18)  
-1/day—*charm monster* (DC 18), *deep slumber* (DC 17), *dominate person* (DC 19), *status* (DC 16)
+Constant—*[greater invisibility](../../magic/spells/invisibility-greater.md)*  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16), *[suggestion](../../magic/spells/suggestion.md)* (DC 17)  
+3/day—*[crushing despair](../../magic/spells/crushing-despair.md)* (DC 18)  
+1/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 18), *[deep slumber](../../magic/spells/deep-slumber.md)* (DC 17), *[dominate person](../../magic/spells/dominate-person.md)* (DC 19), *[status](../../magic/spells/status.md)* (DC 16)
 
 **Statistics**
 

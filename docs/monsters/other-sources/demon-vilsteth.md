@@ -21,10 +21,10 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Melee** 2 claws +24 (2d6+6), gore +24 (2d6+6 plus 1d4 Wis), tail slap +19 (1d8+3)  
 **Special Attacks** idolatry, labyrinthine mindtrap, mindrender, powerful charge (gore, 4d6+12), rend (2 claws, 2d6+9), unspeakable truth  
 **Spell-Like Abilities** (CL 18th; concentration +24)  
-Constant—*see invisibility*  
-At will—*enter image*, *greater teleport* (self plus 50 lbs. of objects only), *meld into stone*, *possess object*, *ventriloquism* (DC 17)  
-3/day—*charm monster* (DC 20), quickened *dominate person* (DC 21), *stone shape*, *vengeful outrage* (DC 22)  
-1/day—*mass suggestion* (DC 22), *statue*, summon (level 7, 1 shachath or 1d3 succubi 50%), *symbol of persuasion* (DC 22)
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[enter image](../../magic/spells/enter-image.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[meld into stone](../../magic/spells/meld-into-stone.md)*, *[possess object](../../magic/spells/possess-object.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 17)  
+3/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 20), quickened *[dominate person* ](../../magic/spells/dominate-person.md)(DC 21), *[stone shape](../../magic/spells/stone-shape.md)*, *[vengeful outrage](../../magic/spells/vengeful-outrage.md)* (DC 22)  
+1/day—*[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 22), *[statue](../../magic/spells/statue.md)*, summon (level 7, 1 shachath or 1d3 succubi 50%), *[symbol of persuasion](../../magic/spells/symbol-of-persuasion.md)* (DC 22)
 
 **Statistics**
 

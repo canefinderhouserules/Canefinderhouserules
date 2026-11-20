@@ -24,19 +24,19 @@ CE Huge outsider (chaotic, demon, evil, extraplanar)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** hand of the apprentice (16/day), metamagic mastery (4/day), unholy nimbus (DC 27)  
 **Spell-Like Abilities** (CL 12th; concentration +22)  
-Constant—*true seeing*, *unholy aura* (DC 28)  
-At will—*call lightning* (DC 23), *feeblemind* (DC 25), *greater dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *slow* (DC 23)  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura* ](../../magic/spells/unholy-aura.md)(DC 28)  
+At will—*[call lightning* ](../../magic/spells/call-lightning.md)(DC 23), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 25), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[slow* ](../../magic/spells/slow.md)(DC 23)  
 1/day—summon (level 5, 1 nalfeshnee 20%, 1d4 hezrous 40%, or 1d4 vrocks 50%)  
 **Wizard Spells Prepared** (CL 15th; concentration +28)  
-8th—quickened *confusion* (DC 27), *demand* (DC 31), *scintillating pattern*  
-7th—quickened *displacement*, quickened *lightning bolt* (DC 26), *prismatic spray*, *project image* (DC 30)  
-6th—*flesh to stone* (DC 29), *geas/quest*, *mass suggestion* (DC 29), quickened *mirror image*, *mislead*  
-5th—extended *charm monster* (DC 27), *dominate person* (2, DC 28), *mind fog* (DC 28), *nightmare* (DC 28), *persistent image* (DC 28), *polymorph*  
-4th—*bestow curse* (DC 27), *charm monster* (2, DC 27), *dimensional anchor*, *greater invisibility*, extended *haste*, *phantasmal killer* (2, DC 27), *rainbow pattern* (DC 27), *resilient sphere* (DC 27), *scrying* (DC 27)  
-3rd—extended *alter self* (2), *beast shape I*, *hold person* (DC 26), *major image* (DC 26), *nondetection*, *suggestion* (DC 26)  
-2nd—*alter self*, *detect thoughts* (DC 25), *invisibility*, *minor image* (DC 25), *misdirection*, *scorching ray* (2)  
-1st—*charm person* (2, DC 24), *magic missile* (4), *reduce person* (DC 24), *silent image* (DC 24)  
-0 (at will)—*bleed* (DC 23), *dancing lights*, *ghost sound* (DC 23), *message*
+8th—quickened *[confusion* ](../../magic/spells/confusion.md)(DC 27), *[demand* ](../../magic/spells/demand.md)(DC 31), *[scintillating pattern](../../magic/spells/scintillating-pattern.md)*  
+7th—quickened *[displacement](../../magic/spells/displacement.md)*, quickened *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 26), *[prismatic spray](../../magic/spells/prismatic-spray.md)*, *[project image* ](../../magic/spells/project-image.md)(DC 30)  
+6th—*[flesh to stone* ](../../magic/spells/flesh-to-stone.md)(DC 29), *[geas/quest](../../magic/spells/geas-quest.md)*, *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 29), quickened *[mirror image](../../magic/spells/mirror-image.md)*, *[mislead](../../magic/spells/mislead.md)*  
+5th—extended *[charm monster* ](../../magic/spells/charm-monster.md)(DC 27), *[dominate person* ](../../magic/spells/dominate-person.md)(2, DC 28), *[mind fog* ](../../magic/spells/mind-fog.md)(DC 28), *[nightmare* ](../../magic/spells/nightmare.md)(DC 28), *[persistent image* ](../../magic/spells/persistent-image.md)(DC 28), *[polymorph](../../magic/spells/polymorph.md)*  
+4th—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 27), *[charm monster* ](../../magic/spells/charm-monster.md)(2, DC 27), *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, extended *[haste](../../magic/spells/haste.md)*, *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(2, DC 27), *[rainbow pattern* ](../../magic/spells/rainbow-pattern.md)(DC 27), *[resilient sphere* ](../../magic/spells/resilient-sphere.md)(DC 27), *[scrying* ](../../magic/spells/scrying.md)(DC 27)  
+3rd—extended *[alter self* ](../../magic/spells/alter-self.md)(2), *[beast shape I](../../magic/spells/beast-shape-i.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 26), *[major image* ](../../magic/spells/major-image.md)(DC 26), *[nondetection](../../magic/spells/nondetection.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 26)  
+2nd—*[alter self](../../magic/spells/alter-self.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 25), *[invisibility](../../magic/spells/invisibility.md)*, *[minor image* ](../../magic/spells/minor-image.md)(DC 25), *[misdirection](../../magic/spells/misdirection.md)*, *[scorching ray* ](../../magic/spells/scorching-ray.md)(2)  
+1st—*[charm person* ](../../magic/spells/charm-person.md)(2, DC 24), *[magic missile* ](../../magic/spells/magic-missile.md)(4), *[reduce person* ](../../magic/spells/reduce-person.md)(DC 24), *[silent image* ](../../magic/spells/silent-image.md)(DC 24)  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 23), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 23), *[message](../../magic/spells/message.md)*
 
 **Statistics**
 

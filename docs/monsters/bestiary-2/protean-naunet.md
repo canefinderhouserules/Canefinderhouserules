@@ -22,9 +22,9 @@ CN Large outsider (chaotic, extraplanar, protean, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** adaptive strike, coalesce chaos, constrict (1d6+5)  
 **Spell-Like Abilities** (CL 7th; concentration +9)  
-Constant—*detect law*  
-At will—*acid arrow*, *fog cloud*, *dimension door* (self plus 50 lbs. of objects only), *shatter* (DC 14)  
-1/day—*chaos hammer* (DC 16)
+Constant—*[detect law](../../magic/spells/detect-law.md)*  
+At will—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*, *[dimension door* ](../../magic/spells/dimension-door.md)(self plus 50 lbs. of objects only), *[shatter* ](../../magic/spells/shatter.md)(DC 14)  
+1/day—*[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 16)
 
 **Statistics**
 

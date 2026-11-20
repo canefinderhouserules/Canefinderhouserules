@@ -21,12 +21,12 @@ CN Large outsider (extraplanar, water)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** vortex (1/10 minutes, 10–50 ft. tall, 1d8+4 damage, DC 22), water mastery, water’s fury  
 **Spell-Like Abilities** (CL 12th)  
-Constant—*detect evil*, *detect good*, *detect magic*, *water walk*  
-At will—*create water*, *invisibility*, *plane shift* (willing targets to elemental planes, Astral Plane, or Material Plane only), *purify food and drink* (liquids only), *quench*  
-5/day—*control water*, *gaseous form*, *obscuring mist*, *water breathing*  
-3/day—*see invisibility*  
-1/day—*persistent image* (DC 18)  
-1/year—grant 1 *wish* (to nongenies only)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[water walk](../../magic/spells/water-walk.md)*  
+At will—*[create water](../../magic/spells/create-water.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(willing targets to elemental planes, Astral Plane, or Material Plane only), *[purify food and drink* ](../../magic/spells/purify-food-and-drink.md)(liquids only), *[quench](../../magic/spells/quench.md)*  
+5/day—*[control water](../../magic/spells/control-water.md)*, *[gaseous form](../../magic/spells/gaseous-form.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[water breathing](../../magic/spells/water-breathing.md)*  
+3/day—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+1/day—*[persistent image* ](../../magic/spells/persistent-image.md)(DC 18)  
+1/year—grant 1 *[wish* ](../../magic/spells/wish.md)(to nongenies only)
 
 **Statistics**
 

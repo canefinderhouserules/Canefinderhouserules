@@ -22,11 +22,11 @@ CG Large monstrous humanoid
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** hand of the apprentice (7/day)  
 **Wizard Spells Prepared** (CL 7th; concentration +11)  
-4th—*charm monster* (DC 18), *summon monster IV*  
-3rd—*fly*, *haste*, merciful *lightning bolt* (DC 17)  
-2nd—*alter self*, *cat’s grace*, *glitterdust* (DC 16), *web* (DC 16)  
-1st—*alarm*, *expeditious retreat*, *feather fall*, *mage armor*, *vanish*  
-0 (at will)—*ghost sound* (DC 14), *light*, *message*, *resistance*
+4th—*[charm monster](../../magic/spells/charm-monster.md)* (DC 18), *[summon monster IV](../../magic/spells/summon-monster-iv.md)*  
+3rd—*[fly](../../magic/spells/fly.md)*, *[haste](../../magic/spells/haste.md)*, merciful *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 17)  
+2nd—*[alter self](../../magic/spells/alter-self.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*, *[glitterdust](../../magic/spells/glitterdust.md)* (DC 16), *[web](../../magic/spells/web.md)* (DC 16)  
+1st—*[alarm](../../magic/spells/alarm.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[vanish](../../magic/spells/vanish.md)*  
+0 (at will)—*[ghost sound](../../magic/spells/ghost-sound.md)* (DC 14), *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

@@ -21,7 +21,7 @@ LE Medium outsider (native, rakshasa, shapechanger)
 **Melee** 2 claws +11 (1d4+2)  
 **Special Attacks** detect thoughts (DC 17), sneak attack +3d6  
 **Psychic Magic** (CL 4th; concentration +8)  
-5 PE—*babble* (2 PE, DC 16), *blur* (2 PE), *deja vu* (1 PE, DC 15), *hideous laughter* (1 PE, DC 15), *hold person* (2 PE, DC 16), *hypnotism* (1 PE, DC 15), *id insinuation I* (2 PE, DC 16), *paranoia* (1 PE, DC 15)
+5 PE—*[babble](../../magic/spells/babble.md)* (2 PE, DC 16), *[blur](../../magic/spells/blur.md)* (2 PE), *[deja vu](../../magic/spells/deja-vu.md)* (1 PE, DC 15), *[hideous laughter](../../magic/spells/hideous-laughter.md)* (1 PE, DC 15), *[hold person](../../magic/spells/hold-person.md)* (2 PE, DC 16), *[hypnotism](../../magic/spells/hypnotism.md)* (1 PE, DC 15), *[id insinuation I](../../magic/spells/id-insinuation-i.md)* (2 PE, DC 16), *[paranoia](../../magic/spells/paranoia.md)* (1 PE, DC 15)
 
 **Statistics**
 

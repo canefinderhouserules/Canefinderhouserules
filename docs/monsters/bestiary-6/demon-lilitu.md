@@ -28,10 +28,10 @@ plus branding)
 **Special Attacks** create husk, husk link, profane pact, swift claws  
 **Spell-Like Abilities** (CL 17th; concentration +25)  
 Constant—*fly, tongues, true seeing, unholy aura* (DC 26)  
-At will—*charm monster* (DC 22), *detect thoughts* (DC 20), *greater teleport* (self plus 50 lbs. of objects only), *suggestion* (DC 21), *telekinesis* (DC 23)  
-3/day—quickened *charm monster* (DC 22), *persistent image* (DC 23), *seeming* (DC 23)  
-1/day—*demand* (DC 26), *dominate monster* (DC 27), *project image* (DC 25), *summon* (level 5, 1 lilitu 20%, 1d2 glabrezus 40%, or 1d6 vrocks 50%)  
-1/week—*binding* (DC 26), *wish* (granted to a mortal humanoid only)
+At will—*[charm monster](../../magic/spells/charm-monster.md)* (DC 22), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 20), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[suggestion](../../magic/spells/suggestion.md)* (DC 21), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 23)  
+3/day—quickened *[charm monster](../../magic/spells/charm-monster.md)* (DC 22), *[persistent image](../../magic/spells/persistent-image.md)* (DC 23), *[seeming](../../magic/spells/seeming.md)* (DC 23)  
+1/day—*[demand](../../magic/spells/demand.md)* (DC 26), *[dominate monster](../../magic/spells/dominate-monster.md)* (DC 27), *[project image](../../magic/spells/project-image.md)* (DC 25), *summon* (level 5, 1 lilitu 20%, 1d2 glabrezus 40%, or 1d6 vrocks 50%)  
+1/week—*[binding](../../magic/spells/binding.md)* (DC 26), *[wish](../../magic/spells/wish.md)* (granted to a mortal humanoid only)
 
 **Statistics**
 

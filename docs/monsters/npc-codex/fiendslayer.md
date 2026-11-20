@@ -23,13 +23,13 @@ N Medium humanoid (elf, human)
 **Ranged**  *+1 light crossbow* +19 (1d8+1/19–20)  
 **Special Attacks** favored enemy (evil outsiders +6, magical beasts +2, undead +2)  
 **Ranger Spells Prepared** (CL 10th; concentration +12)  
-3rd—*cure moderate wounds*  
-2nd—*barkskin*, *bear’s endurance*, *protection from energy*  
-1st—*delay poison*, *longstrider*, *resist energy* (2)
+3rd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+1st—*[delay poison](../../magic/spells/delay-poison.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[resist energy* ](../../magic/spells/resist-energy.md)(2)
 
 **Tactics**
 
-**Before Combat** The ranger casts *barkskin*, *bear’s endurance*, *delay poison*, *longstrider*, *protection from energy* (fire), and *resist energy* (electricity).  
+**Before Combat** The ranger casts *[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[delay poison](../../magic/spells/delay-poison.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(fire), and *[resist energy* ](../../magic/spells/resist-energy.md)(electricity).  
 **During Combat** If fighting demons or devils, the ranger applies *oil of bless weapon* to one weapon and drinks her *potion of heroism*.  
 **Base Statistics** Without *barkskin*, *bear’s endurance*, *delay poison*, *longstrider*, *protection from energy*, and *resist energy*, the ranger’s statistics are **AC** 24, touch 16, flat-footed 18; **hp** 99; **Fort** +10; **Immune** sleep; **Resist** none; **Speed** 30; **Con** 12; **Skills** Acrobatics +15.
 

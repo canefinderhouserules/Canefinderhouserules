@@ -23,20 +23,20 @@ LG Huge outsider (native)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** constrict (2d8+10)  
 **Spell-Like Abilities** (CL 18th; concentration +26)  
-Constant—*detect chaos*, *detect evil*, *detect good*, *detect law*  
-At will—*detect thoughts* (DC 19), *ethereal jaunt*, *invisibility*, *plane shift* (DC 24)  
- 1/week—*reincarnate*  
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 19), *[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (DC 24)  
+ 1/week—*[reincarnate](../../magic/spells/reincarnate.md)*  
 **Spells Prepared** (CL 18th; concentration +27)  
-9th—*antipathy* (DC 28), *regenerate*, *summon nature’s ally IX*  
-8th—*control plants* (DC 27), *mass cure serious wounds*, *repel metal or stone*, *whirlwind* (DC 27)  
-7th—*animate plants*, *control weather*, *heal*, *transmute metal to wood*  
-6th—*greater dispel magic*, *liveoak*, *move earth*, *transport via plants*, *wall of stone*  
-5th—*animal growth* (DC 24), *awaken* (DC 24), *commune with nature*, *control winds* (DC 24), *hallow*, *wall of thorns*  
-4th—*antiplant shell*, *command plants* (DC 23), *control water*, *dispel magic*, *freedom of movement*, *repel vermin*  
-3rd—*daylight*, *dominate animal* (DC 22), *neutralize poison*, *quench* (DC 22), *remove disease*, *speak with plants*  
-2nd—*animal messenger*, *gust of wind* (DC 21), *lesser restoration*, *soften earth and stone*, *warp wood* (DC 21), *wood shape* (DC 21)  
-1st—*calm animals* (DC 20), *charm animal* (DC 20), *detect animals or plants*, *entangle* (DC 20), *faerie fire*, *obscuring mist*, *speak with animals*  
-0 (at will)—*create water*, *detect magic*, *know direction*, *purify food and drink* (DC 19)
+9th—*[antipathy](../../magic/spells/antipathy.md)* (DC 28), *[regenerate](../../magic/spells/regenerate.md)*, *[summon nature’s ally IX](../../magic/spells/summon-natures-ally-ix.md)*  
+8th—*[control plants](../../magic/spells/control-plants.md)* (DC 27), *[mass cure serious wounds](../../magic/spells/cure-serious-wounds-mass.md)*, *[repel metal or stone](../../magic/spells/repel-metal-or-stone.md)*, *[whirlwind](../../magic/spells/whirlwind.md)* (DC 27)  
+7th—*[animate plants](../../magic/spells/animate-plants.md)*, *[control weather](../../magic/spells/control-weather.md)*, *[heal](../../magic/spells/heal.md)*, *[transmute metal to wood](../../magic/spells/transmute-metal-to-wood.md)*  
+6th—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[liveoak](../../magic/spells/liveoak.md)*, *[move earth](../../magic/spells/move-earth.md)*, *[transport via plants](../../magic/spells/transport-via-plants.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+5th—*[animal growth](../../magic/spells/animal-growth.md)* (DC 24), *[awaken](../../magic/spells/awaken.md)* (DC 24), *[commune with nature](../../magic/spells/commune-with-nature.md)*, *[control winds](../../magic/spells/control-winds.md)* (DC 24), *[hallow](../../magic/spells/hallow.md)*, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+4th—*[antiplant shell](../../magic/spells/antiplant-shell.md)*, *[command plants](../../magic/spells/command-plants.md)* (DC 23), *[control water](../../magic/spells/control-water.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[repel vermin](../../magic/spells/repel-vermin.md)*  
+3rd—*[daylight](../../magic/spells/daylight.md)*, *[dominate animal](../../magic/spells/dominate-animal.md)* (DC 22), *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[quench](../../magic/spells/quench.md)* (DC 22), *[remove disease](../../magic/spells/remove-disease.md)*, *[speak with plants](../../magic/spells/speak-with-plants.md)*  
+2nd—*[animal messenger](../../magic/spells/animal-messenger.md)*, *[gust of wind](../../magic/spells/gust-of-wind.md)* (DC 21), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*, *[warp wood](../../magic/spells/warp-wood.md)* (DC 21), *[wood shape](../../magic/spells/wood-shape.md)* (DC 21)  
+1st—*[calm animals](../../magic/spells/calm-animals.md)* (DC 20), *[charm animal](../../magic/spells/charm-animal.md)* (DC 20), *[detect animals or plants](../../magic/spells/detect-animals-or-plants.md)*, *[entangle](../../magic/spells/entangle.md)* (DC 20), *[faerie fire](../../magic/spells/faerie-fire.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)* (DC 19)
 
 **Statistics**
 

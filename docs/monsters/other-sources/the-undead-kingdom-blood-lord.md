@@ -23,14 +23,14 @@ LE Medium undead (augmented humanoid)
 **Melee** touch +11 (1d8+8 plus paralyzing touch)  
 **Special Attacks** channel negative energy (DC 21, 11/day), paralyzing touch (DC 23)  
 **Necromancer Spells Prepared** (CL 13th; concentration +21)  
-7th—*control undead* (DC 29), *finger of death* (DC 29), *symbol of weakness* (DC 27)  
-6th—*circle of death* (DC 28), *create undead*, *disintegrate* (DC 24), *guards and wards*  
-5th—*cone of cold* (DC 24), *symbol of pain* (DC 27), *telekinesis*, *teleport*, *wall of force*  
-4th—*animate dead*, *arcane eye*, *black tentacles*, *dimension door*, *enervation* (2), *scrying* (DC 22)  
-3rd—*arcane sight*, *blink*, *dispel magic*, *fireball* (DC 22), *haste*, *magic circle against good*, *nondetection*  
-2nd—*blindness/deafness* (DC 24), *command undead* (DC 22), *eagle’s splendor*, *ghoul touch* (DC 24), *resist energy*, *scorching ray*, *spectral hand*  
-1st—*burning hands* (DC 20), *expeditious retreat*, *grease*, *mage armor*, *protection from good*, *shield*, *shocking grasp*  
-0 (at will)—*arcane mark*, *bleed* (DC 20), *detect magic*, *read magic*  
+7th—*[control undead](../../magic/spells/control-undead.md)* (DC 29), *[finger of death](../../magic/spells/finger-of-death.md)* (DC 29), *[symbol of weakness* ](../../magic/spells/symbol-of-weakness.md)(DC 27)  
+6th—*[circle of death* ](../../magic/spells/circle-of-death.md)(DC 28), *[create undead](../../magic/spells/create-undead.md)*, *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 24), *[guards and wards](../../magic/spells/guards-and-wards.md)*  
+5th—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 24), *[symbol of pain* ](../../magic/spells/symbol-of-pain.md)(DC 27), *[telekinesis](../../magic/spells/telekinesis.md)*, *[teleport](../../magic/spells/teleport.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th—*[animate dead](../../magic/spells/animate-dead.md)*, *[arcane eye](../../magic/spells/arcane-eye.md)*, *[black tentacles](../../magic/spells/black-tentacles.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[enervation* ](../../magic/spells/enervation.md)(2), *[scrying* ](../../magic/spells/scrying.md)(DC 22)  
+3rd—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[blink](../../magic/spells/blink.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 22), *[haste](../../magic/spells/haste.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*, *[nondetection](../../magic/spells/nondetection.md)*  
+2nd—*[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 24), *[command undead* ](../../magic/spells/command-undead.md)(DC 22), *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[ghoul touch* ](../../magic/spells/ghoul-touch.md)(DC 24), *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[spectral hand](../../magic/spells/spectral-hand.md)*  
+1st—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 20), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[grease](../../magic/spells/grease.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*, *[shield](../../magic/spells/shield.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 20), *[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Opposition Schools** enchantment, illusion
 
 **Statistics**

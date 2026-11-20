@@ -23,13 +23,13 @@ NE Medium undead (augmented humanoid)
 **Melee** touch +5 (1d8+5 plus paralyzing touch)  
 **Special Attacks** grave touch (9/day), paralyzing touch (DC 18), power over undead (9/day, DC 18)  
 **Spells Prepared** (CL 11th)  
-6th—*circle of death* (DC 22), *globe of invulnerability*, maximized *fireball* (DC 19)  
-5th—*cloudkill* (DC 21), *cone of cold* (DC 21), quickened *magic missile*, *waves of fatigue*  
-4th—*dimension door*, *enervation*, *fire shield*, *wall of ice* (2)  
-3rd—*dispel magic* (2), *fireball* (DC 19), *suggestion* (DC 19), *vampiric touch* (2)  
-2nd—*darkness*, extended *mage armor* (already cast), *false life* (already cast), *scorching ray* (2), *see invisibility*, *spectral hand*  
-1st—*magic missile* (3), *ray of enfeeblement* (2), *shield* (2)  
-0—*bleed* (DC 16), *detect magic*, *ray of frost*, *read magic*  
+6th—*[circle of death* ](../../magic/spells/circle-of-death.md)(DC 22), *[globe of invulnerability](../../magic/spells/globe-of-invulnerability.md)*, maximized *[fireball* ](../../magic/spells/fireball.md)(DC 19)  
+5th—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 21), *[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 21), quickened *[magic missile](../../magic/spells/magic-missile.md)*, *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*  
+4th—*[dimension door](../../magic/spells/dimension-door.md)*, *[enervation](../../magic/spells/enervation.md)*, *[fire shield](../../magic/spells/fire-shield.md)*, *[wall of ice* ](../../magic/spells/wall-of-ice.md)(2)  
+3rd—*[dispel magic* ](../../magic/spells/dispel-magic.md)(2), *[fireball* ](../../magic/spells/fireball.md)(DC 19), *[suggestion* ](../../magic/spells/suggestion.md)(DC 19), *[vampiric touch* ](../../magic/spells/vampiric-touch.md)(2)  
+2nd—*[darkness](../../magic/spells/darkness.md)*, extended *[mage armor* ](../../magic/spells/mage-armor.md)(already cast), *[false life* ](../../magic/spells/false-life.md)(already cast), *[scorching ray* ](../../magic/spells/scorching-ray.md)(2), *[see invisibility](../../magic/spells/see-invisibility.md)*, *[spectral hand](../../magic/spells/spectral-hand.md)*  
+1st—*[magic missile* ](../../magic/spells/magic-missile.md)(3), *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(2), *[shield* ](../../magic/spells/shield.md)(2)  
+0—*[bleed* ](../../magic/spells/bleed.md)(DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Opposition Schools** illusion, transmutation
 
 **Statistics**

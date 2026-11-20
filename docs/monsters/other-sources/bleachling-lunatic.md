@@ -23,11 +23,11 @@ CN Small humanoid (gnome)
 **Ranged**  mwk light crossbow +6 (1d6/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, bomb 7/day (2d6+3 fire, DC 15)  
 **Spell-Like Abilities** (CL 4th)  
-At will—*speak with animals*  
-1/day—*dancing lights*, *ghost sound* (DC 11), *prestidigitation*  
+At will—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 11), *[prestidigitation](../../magic/spells/prestidigitation.md)*  
 **Alchemist Extracts Prepared** (CL 4th)  
-2nd—*fox’s cunning*, *resist energy*  
-1st—*comprehend languages*, *disguise self*, *shield*, *true strike*
+2nd—*[fox’s cunning](../../magic/spells/foxs-cunning.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*
 
 **Statistics**
 

@@ -24,16 +24,16 @@ LN Gargantuan dragon (fire)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. cone, 20d8 fire, DC 29), collapsing breath (DC 29), crush, fragmented strike, tail sweep  
 **Spell-Like Abilities** (CL 25th; concentration +32)  
-At will—*anticipate peril*, *dimension door*, *entropic shield*, *greater teleport*  
+At will—*[anticipate peril](../../magic/spells/anticipate-peril.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[entropic shield](../../magic/spells/entropic-shield.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*  
 **Sorcerer Spells Known** (CL 15th; concentration +22)  
-7th (5/day)—*forcecage* (DC 24), *spell turning*  
-6th (7/day)—*forceful hand*, *shadow walk* (DC 23), *true seeing*  
-5th (7/day)—*dream*, *passwall*, *telekinesis*, *wall of force*  
-4th (7/day)—*fear* (DC 21), *scrying* (DC 21), *solid fog*, *stoneskin*  
-3rd (8/day)—*dispel magic*, *haste*, *nondetection*, *tongues*  
-2nd (8/day)—*cat’s grace*, *mirror image*, *obscure object*, *resist energy*, *scorching ray*  
-1st (8/day)—*feather fall*, *identify*, *mage armor*, *magic missile*, *true strike*  
-0 (at will)—*detect magic*, *light*, *message*, *read magic*, 5 more
+7th (5/day)—*[forcecage* ](../../magic/spells/forcecage.md)(DC 24), *[spell turning](../../magic/spells/spell-turning.md)*  
+6th (7/day)—*[forceful hand](../../magic/spells/forceful-hand.md)*, *[shadow walk* ](../../magic/spells/shadow-walk.md)(DC 23), *[true seeing](../../magic/spells/true-seeing.md)*  
+5th (7/day)—*[dream](../../magic/spells/dream.md)*, *[passwall](../../magic/spells/passwall.md)*, *[telekinesis](../../magic/spells/telekinesis.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th (7/day)—*[fear* ](../../magic/spells/fear.md)(DC 21), *[scrying* ](../../magic/spells/scrying.md)(DC 21), *[solid fog](../../magic/spells/solid-fog.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (8/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[haste](../../magic/spells/haste.md)*, *[nondetection](../../magic/spells/nondetection.md)*, *[tongues](../../magic/spells/tongues.md)*  
+2nd (8/day)—*[cat’s grace](../../magic/spells/cats-grace.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[obscure object](../../magic/spells/obscure-object.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (8/day)—*[feather fall](../../magic/spells/feather-fall.md)*, *[identify](../../magic/spells/identify.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, 5 more
 
 **Statistics**
 

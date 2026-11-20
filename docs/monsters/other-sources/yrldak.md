@@ -23,9 +23,9 @@ LN Large fey
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** energy drain (1 level, DC 21), shift fate  
 **Spell-Like Abilities** (CL 10th; concentration +15)  
-Constant—*death ward*, *tongues*, *true seeing*  
-At will—*bestow curse* (DC 18), *divination*, *greater dispel magic*, *wind walk* (self only)  
-1/day—*maze*, *moment of prescience*, *phantasmal killer* (DC 19)
+Constant—*[death ward](../../magic/spells/death-ward.md)*, *[tongues](../../magic/spells/tongues.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *[divination](../../magic/spells/divination.md)*, *greater dispel magic*, *[wind walk](../../magic/spells/wind-walk.md)* (self only)  
+1/day—*[maze](../../magic/spells/maze.md)*, *[moment of prescience](../../magic/spells/moment-of-prescience.md)*, *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 19)
 
 **Statistics**
 

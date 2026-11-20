@@ -24,8 +24,8 @@ CE Medium humanoid (dwarf)
 **Spell-Like Abilities** (CL 2nd; concentration +5)  
 6/day—touch of chaos  
 **Cleric Spells Prepared** (CL 2nd; concentration +5)  
-1st—*bane* (DC 14), *magic stone*, *magic weapon*, *true strike*<sup>D</sup>  
-0 (at will)—*bleed* (DC 13), *detect magic*, *detect poison*, *read magic*  
+1st—*[bane* ](../../magic/spells/bane.md)(DC 14), *[magic stone](../../magic/spells/magic-stone.md)*, *[magic weapon](../../magic/spells/magic-weapon.md)*, *[true strike](../../magic/spells/true-strike.md)*<sup>D</sup>  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** Domain spell; **Domains** Chaos, Destruction
 
 **Tactics**

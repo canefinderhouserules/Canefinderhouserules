@@ -23,7 +23,7 @@ LE Large construct
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** soul steel  
 **Spell-Like Abilities** (CL 20th; concentration +24)  
-Constant—*unhallow*  
+Constant—*[unhallow](../../magic/spells/unhallow.md)*  
 1/day—soul slave
 
 **Statistics**

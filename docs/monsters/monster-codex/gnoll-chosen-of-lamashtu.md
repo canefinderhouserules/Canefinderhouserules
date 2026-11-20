@@ -25,13 +25,13 @@ CE Medium humanoid (gnoll)
 **Spell-Like Abilities** (CL 11th; concentration +14)  
 6/day—strength surge (+5), touch of evil (5 rounds)  
 **Cleric Spells Prepared** (CL 11th; concentration +14)  
-6th—*stoneskin*<sup>D</sup>, *summon monster VI*  
-5th—*breath of life*, *righteous might*<sup>D</sup>, *slay living* (DC 18)  
-4th—*confusion* (DC 17), *divine power*, *freedom of movement*, *unholy blight*<sup>D</sup> (DC 17)  
-3rd—*bestow curse* (DC 16), *blindness* (DC 16), *cure serious wounds*, *magic vestment*<sup>D</sup>, *vision of hell* (DC 16), *wind wall*  
-2nd—*aid*, *blinding ray* (DC 15), *bull’s strength*<sup>D</sup>, *death knell* (DC 15), *hold person* (DC 15), *sound burst* (DC 15)  
-1st—*cause fear* (DC 14), *enlarge person* (DC 14), *entropic shield*, *forbid action* (DC 14), *murderous command* (DC 14), *protection from good*<sup>D</sup>  
-0 (at will)—*bleed* (DC 13), *detect magic*, *read magic*, *stabilize*  
+6th—*[stoneskin](../../magic/spells/stoneskin.md)*<sup>D</sup>, *[summon monster VI](../../magic/spells/summon-monster-vi.md)*  
+5th—*[breath of life](../../magic/spells/breath-of-life.md)*, *[righteous might](../../magic/spells/righteous-might.md)*<sup>D</sup>, *[slay living](../../magic/spells/slay-living.md)* (DC 18)  
+4th—*[confusion](../../magic/spells/confusion.md)* (DC 17), *[divine power](../../magic/spells/divine-power.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)*<sup>D</sup> (DC 17)  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 16), *[blindness](../../magic/spells/blindness-deafness.md)* (DC 16), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*<sup>D</sup>, *[vision of hell](../../magic/spells/vision-of-hell.md)* (DC 16), *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd—*[aid](../../magic/spells/aid.md)*, *[blinding ray](../../magic/spells/blinding-ray.md)* (DC 15), *[bull’s strength](../../magic/spells/bulls-strength.md)*<sup>D</sup>, *[death knell](../../magic/spells/death-knell.md)* (DC 15), *[hold person](../../magic/spells/hold-person.md)* (DC 15), *[sound burst](../../magic/spells/sound-burst.md)* (DC 15)  
+1st—*[cause fear](../../magic/spells/cause-fear.md)* (DC 14), *[enlarge person](../../magic/spells/enlarge-person.md)* (DC 14), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[forbid action](../../magic/spells/forbid-action.md)* (DC 14), *[murderous command](../../magic/spells/murderous-command.md)* (DC 14), *[protection from good](../../magic/spells/protection-from-good.md)*<sup>D</sup>  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** domain spell; **Domains** Evil, Strength
 
 **Tactics**

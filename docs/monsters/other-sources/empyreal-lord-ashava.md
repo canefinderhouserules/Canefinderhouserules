@@ -23,10 +23,10 @@ CG Medium outsider (azata, chaotic, extraplanar, good)
 **Ranged** moonlight javelin +53/+48/+43/+38 (4d6+28/19–20 plus dazzled)  
 **Special Attacks** bardic performance (unlimited rounds per day), hypnotize undead  
 **Spell-Like Abilities** (CL 28th; concentration +43)  
-Constant—*detect evil*, *detect law*, *freedom of movement*, *mind blank*, *true seeing*  
-At will—*break enchantment*, *calm spirit* (DC 27), *faerie fire*<sup>M</sup>, *find the path*, *flare burst* (DC 26), *greater dispel magic*, *greater teleport*, *haste*<sup>M</sup>, *hide from undead*, *holy word*<sup>M</sup> (DC 32), *moonstruck* (DC 29)  
-3/day—*chaos hammer*<sup>M</sup> (DC 29), *halt undead* (DC 28), *irresistible dance* (DC 33), *lunar veil* (DC 32), mass *cat’s grace*, quickened *moonstruck* (DC 29)  
-1/day—*freedom*, *time stop*, *undeath to death* (DC 31)  
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[mind blank](../../magic/spells/mind-blank.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[calm spirit](../../magic/spells/calm-spirit.md)* (DC 27), *[faerie fire](../../magic/spells/faerie-fire.md)*<sup>M</sup>, *[find the path](../../magic/spells/find-the-path.md)*, *[flare burst](../../magic/spells/flare-burst.md)* (DC 26), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[haste](../../magic/spells/haste.md)*<sup>M</sup>, *[hide from undead](../../magic/spells/hide-from-undead.md)*, *[holy word](../../magic/spells/holy-word.md)*<sup>M</sup> (DC 32), *[moonstruck](../../magic/spells/moonstruck.md)* (DC 29)  
+3/day—*[chaos hammer](../../magic/spells/chaos-hammer.md)*<sup>M</sup> (DC 29), *[halt undead](../../magic/spells/halt-undead.md)* (DC 28), *[irresistible dance](../../magic/spells/irresistible-dance.md)* (DC 33), *[lunar veil](../../magic/spells/lunar-veil.md)* (DC 32), mass *[cat’s grace](../../magic/spells/cats-grace.md)*, quickened *[moonstruck](../../magic/spells/moonstruck.md)* (DC 29)  
+1/day—*[freedom](../../magic/spells/freedom.md)*, *[time stop](../../magic/spells/time-stop.md)*, *[undeath to death](../../magic/spells/undeath-to-death.md)* (DC 31)  
 <sup>M</sup> Ashava can use this ability’s mythic version in her realm.
 
 **Statistics**

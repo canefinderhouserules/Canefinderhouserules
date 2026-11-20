@@ -24,8 +24,8 @@ N Gargantuan construct (robot)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** combined arms, death throes (DC 14), plasma lance, suppressing fire  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
-3/day—*stinking cloud* (DC 17)  
-1/day—*contagion* (DC 18)
+3/day—*[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 17)  
+1/day—*[contagion](../../magic/spells/contagion.md)* (DC 18)
 
 **Statistics**
 

@@ -21,10 +21,10 @@ N Large monstrous humanoid (mythic, shapechanger)
 **Melee** primal chisel +30/+25/+20/+15 (3d6+10/15–20 plus devolution), bite +26 (1d8+5), 4 wings +26 (1d6+5)  
 **Special Attacks** devolution (DC 28), mythic magic 3/day, mythic power (9/day, surge +1d10)  
 **Spell-Like Abilities** (CL 20th; concentration +28)  
-Constant—*true seeing*  
- At will—*etherealness, greater teleport* (self plus 50 lbs. of objects only), *mental block* (DC 20), *mindlink*  
- 5/day—*greater dispel magic*  
- 3/day—*quickened baleful polymorph* (DC 23), *primal regression* (DC 24)  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+ At will—*etherealness, greater teleport* (self plus 50 lbs. of objects only), *[mental block](../../magic/spells/mental-block.md)* (DC 20), *[mindlink](../../magic/spells/mindlink.md)*  
+ 5/day—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*  
+ 3/day—*[quickened baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 23), *[primal regression](../../magic/spells/primal-regression.md)* (DC 24)  
  1/day—*divide mind, overwhelming presence* (DC 27)
 
 **Statistics**

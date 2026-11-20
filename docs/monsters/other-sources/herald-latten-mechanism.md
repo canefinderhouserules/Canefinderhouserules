@@ -22,8 +22,8 @@ N Large construct (extraplanar, herald)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** breath weapon (120-ft. line, 12d8 acid or electricity damage, Reflex DC 19 half, usable every 1d4 rounds), constrict (6d8 plus 6d8 acid or electricity), entrap (DC 19, 1d10 rounds, hardness 8, hp 20), lyre of building  
 **Spell-Like Abilities** (CL 18th; concentration +23; save DCs are Intelligence-based)  
-At will—*dimension door*, *make whole*, *move earth*, *rapid repair*, *soothe construct*  
-3/day—*control construct*, *fabricate*, *haste*, *lightning bolt* (DC 18), *major creation*, *slow* (DC 18), *unbreakable construct*, *wall of iron*
+At will—*[dimension door](../../magic/spells/dimension-door.md)*, *[make whole](../../magic/spells/make-whole.md)*, *[move earth](../../magic/spells/move-earth.md)*, *[rapid repair](../../magic/spells/rapid-repair.md)*, *[soothe construct](../../magic/spells/soothe-construct.md)*  
+3/day—*[control construct](../../magic/spells/control-construct.md)*, *[fabricate](../../magic/spells/fabricate.md)*, *[haste](../../magic/spells/haste.md)*, *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 18), *[major creation](../../magic/spells/major-creation.md)*, *[slow](../../magic/spells/slow.md)* (DC 18), *[unbreakable construct](../../magic/spells/unbreakable-construct.md)*, *[wall of iron](../../magic/spells/wall-of-iron.md)*
 
 **Statistics**
 

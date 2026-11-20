@@ -23,10 +23,10 @@ CE Huge outsider (chaotic, evil, native)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with snakebites)  
 **Special Attacks** acidic gore, poison, swallow whole (2d8+12 plus poison, AC 17, 22 hp)  
 **Spell-Like Abilities** (CL 15th; concentration +21)  
-Constant — *fly*  
-At will — *poison* (DC 20), *teleport*  
-3/day — *accelerate poison** (DC 18), *blindness/deafness* (DC 18), *blur*, *dominate person* (DC 21), *major image* (DC 19), *mirror image*, *suggestion* (DC 19)  
-1/day — *chaos hammer* (DC 20), *dream*, *mass suggestion* (DC 22), *nightmare* (DC 21), *unholy blight* (DC 20)
+Constant — *[fly](../../magic/spells/fly.md)*  
+At will — *[poison](../../magic/spells/poison.md)* (DC 20), *[teleport](../../magic/spells/teleport.md)*  
+3/day — *[accelerate poison](../../magic/spells/accelerate-poison.md)** (DC 18), *[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 18), *[blur](../../magic/spells/blur.md)*, *[dominate person](../../magic/spells/dominate-person.md)* (DC 21), *[major image](../../magic/spells/major-image.md)* (DC 19), *[mirror image](../../magic/spells/mirror-image.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 19)  
+1/day — *[chaos hammer](../../magic/spells/chaos-hammer.md)* (DC 20), *[dream](../../magic/spells/dream.md)*, *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 22), *[nightmare](../../magic/spells/nightmare.md)* (DC 21), *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 20)
 
 **Statistics**
 

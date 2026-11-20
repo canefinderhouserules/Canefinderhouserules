@@ -29,9 +29,9 @@ fire 30; **SR** 40
 **Special Attacks** endless dance, pounce  
 **Spell-Like Abilities** (CL 29th; concentration +42)  
 Constant—*detect evil, true seeing*  
-At will—*cure critical wounds*<sup>M</sup>, *detect anxieties* (DC 25), *detect desire*I (DC 25), *detect thoughts* (DC 25), *good hope, greater dispel magic, greater teleport, holy word*<sup>M</sup> (DC 30), *matchmaker* (DC 25), *plane shift*<sup>M</sup> (DC 30), *project image* (DC 30), *shapechange*  
-3/day—*discern location*, quickened *greater invisibility, heroes’ feast, irresistible dance*<sup>M</sup> (DC 31), *limited wish* (to duplicate 5th-level or lower bard spells only), *mass heal, mind blank, moment of prescience, sympathy* (DC 31)  
-1/day—*time stop*<sup>M</sup>, *wish*<sup>M</sup>  
+At will—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*<sup>M</sup>, *[detect anxieties](../../magic/spells/detect-anxieties.md)* (DC 25), *detect desire*I (DC 25), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 25), *good hope, greater dispel magic, greater teleport, holy word*<sup>M</sup> (DC 30), *[matchmaker](../../magic/spells/matchmaker.md)* (DC 25), *[plane shift](../../magic/spells/plane-shift.md)*<sup>M</sup> (DC 30), *[project image](../../magic/spells/project-image.md)* (DC 30), *[shapechange](../../magic/spells/shapechange.md)*  
+3/day—*[discern location](../../magic/spells/discern-location.md)*, quickened *greater invisibility, heroes’ feast, irresistible dance*<sup>M</sup> (DC 31), *[limited wish](../../magic/spells/limited-wish.md)* (to duplicate 5th-level or lower bard spells only), *mass heal, mind blank, moment of prescience, sympathy* (DC 31)  
+1/day—*[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 <sup>M</sup> Arshea can use the mythic version of this ability in certain conditions (see Nomadic below).
 
 **Statistics**

@@ -22,9 +22,9 @@ N Medium outsider (aeon, extraplanar)
 **Space** 5 ft., **Reach** 5 ft.  
 **Special Attacks** wreath of fate  
 **Spell-Like Abilities** (CL 9th; concentration +10)  
-At will—*augury*, *command* (DC 12), *doom* (DC 12), *sanctuary* (DC 12)  
-3/day— *bestow curse* (DC 14), *enthrall* (DC 13), *touch of idiocy* (DC 13), *dispel magic*, *remove curse*, *suggestion* (DC 14)  
-1/day—*charm monster* (DC 15), *lesser geas* (DC 15)
+At will—*[augury](../../magic/spells/augury.md)*, *[command](../../magic/spells/command.md)* (DC 12), *[doom* ](../../magic/spells/doom.md)(DC 12), *[sanctuary* ](../../magic/spells/sanctuary.md)(DC 12)  
+3/day— *[bestow curse](../../magic/spells/bestow-curse.md)* (DC 14), *[enthrall](../../magic/spells/enthrall.md)* (DC 13), *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)* (DC 13), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[remove curse](../../magic/spells/remove-curse.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 14)  
+1/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 15), *[lesser geas](../../magic/spells/geas-lesser.md)* (DC 15)
 
 **Statistics**
 

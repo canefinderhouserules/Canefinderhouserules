@@ -26,9 +26,9 @@ sleep, sonic; **SR** 27
 **Special Attacks** breath weapon (50-ft. cone, 12d10 sonic
 damage, Reflex DC 25 half), crush, delirium breath, lashing tail  
 **Oracle Spells Known** (CL 7th; concentration +13)  
-3rd (5)—*charm monster* (DC 18), *dispel magic*  
+3rd (5)—*[charm monster](../../magic/spells/charm-monster.md)* (DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*  
 2nd (8)—*cure moderate wounds, grace, sound burst* (DC 18)  
-1st (8)—*detect evil, divine favor, entropic shield, grease* (DC 15), *obscuring mist*  
+1st (8)—*detect evil, divine favor, entropic shield, grease* (DC 15), *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
 0 (at will)—*create water, detect magic, light, mage hand, open/close, resistance, stabilize*
 
 **Statistics**

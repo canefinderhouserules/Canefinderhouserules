@@ -22,7 +22,7 @@ CE Medium dragon (cold, mythic)
 **Melee** bite +15 (1d8+9), 2 claws +15 (1d6+6), 2 wings +10 (1d4+3)  
 **Special Attacks** breath weapon (30-ft. cone, 8d4 cold damage, Reflex DC 18 half, usable every 1d4 rounds), dragon fury (1d4 cold), ice slick, mythic power (3/day, surge +1d6), power slide, trample (1d6+9, DC 20)  
 **Spell-Like Abilities** (CL 9th; concentration +9)  
-Constant—*fog cloud*
+Constant—*[fog cloud](../../magic/spells/fog-cloud.md)*
 
 **Statistics**
 

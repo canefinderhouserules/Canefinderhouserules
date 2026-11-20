@@ -22,9 +22,9 @@ CE Large outsider (chaotic, qlippoth, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** absorption (2d6 acid damage, AC 13, 7 hp), horrific appearance (DC 17)  
 **Spell-Like Abilities** (CL 6th; concentration +9)  
-Constant—*see invisibility*  
-3/day—*acid arrow*  
-1/day—*slow* (DC 16)
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+3/day—*[acid arrow](../../magic/spells/acid-arrow.md)*  
+1/day—*[slow](../../magic/spells/slow.md)* (DC 16)
 
 **Statistics**
 

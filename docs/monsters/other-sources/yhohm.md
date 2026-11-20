@@ -25,9 +25,9 @@ NG Tiny outsider (extraplanar, fire, good)
 **Special Attacks** holy fire  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
 Constant—detect poison  
-At will—*light*, *purify food and drink*, *stabilize*, *virtue*  
-3/day—*cure light wounds*, *daylight*, *flaming sphere* (DC 14)  
-1/day—*dimension door* (self only), *lesser restoration*, *see invisibiliity*
+At will—*[light](../../magic/spells/light.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[virtue](../../magic/spells/virtue.md)*  
+3/day—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[daylight](../../magic/spells/daylight.md)*, *[flaming sphere* ](../../magic/spells/flaming-sphere.md)(DC 14)  
+1/day—*[dimension door* ](../../magic/spells/dimension-door.md)(self only), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *see invisibiliity*
 
 **Statistics**
 

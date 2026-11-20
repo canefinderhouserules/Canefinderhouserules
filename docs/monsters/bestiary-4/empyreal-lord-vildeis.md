@@ -24,15 +24,15 @@ LG Large outsider (angel, extraplanar, good, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** smite evil 7/day (+5 attack and AC, +20 damage, *disintegrate* evil outsiders)  
 **Spell-Like Abilities** (CL 20th; concentration +25)  
-Constant—*detect evil*, *true seeing*  
-At will—*command** (DC 16), *greater teleport*, *haste**, *paladin’s sacrifice*, *pain strike* (DC 18)  
-3/day—*discern location*, *geas/quest* (DC 21), *heal*, *holy word** (DC 22), *mark of justice* (DC 20), *mass pain strike* (DC 20), *searing light**  
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[command](../../magic/spells/command.md)** (DC 16), *[greater teleport](../../magic/spells/teleport-greater.md)*, *[haste](../../magic/spells/haste.md)**, *[paladin’s sacrifice](../../magic/spells/paladins-sacrifice.md)*, *[pain strike](../../magic/spells/pain-strike.md)* (DC 18)  
+3/day—*[discern location](../../magic/spells/discern-location.md)*, *[geas/quest](../../magic/spells/geas-quest.md)* (DC 21), *[heal](../../magic/spells/heal.md)*, *[holy word](../../magic/spells/holy-word.md)** (DC 22), *[mark of justice](../../magic/spells/mark-of-justice.md)* (DC 20), *[mass pain strike](../../magic/spells/pain-strike-mass.md)* (DC 20), *[searing light](../../magic/spells/searing-light.md)**  
 * Vildeis can use the mythic version of this ability in her realm.  
 **Paladin Spells Prepared** (CL 20th; concentration +25)  
-4th—*blaze of glory* (DC 19), *break enchantment*, *death ward*, *king’s castle*  
-3rd—*dispel magic*, *fires of judgment* (DC 18), *prayer*, *righteous vigor*  
-2nd—*bull’s strength*, *corruption resistance*, *litany of warding*, *remove paralysis*, *shield other*  
-1st—*divine favor* (3), *hero’s defiance*, *lesser restoration* (2)
+4th—*[blaze of glory](../../magic/spells/blaze-of-glory.md)* (DC 19), *[break enchantment](../../magic/spells/break-enchantment.md)*, *[death ward](../../magic/spells/death-ward.md)*, *[king’s castle](../../magic/spells/kings-castle.md)*  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fires of judgment](../../magic/spells/fire-of-judgment.md)* (DC 18), *[prayer](../../magic/spells/prayer.md)*, *[righteous vigor](../../magic/spells/righteous-vigor.md)*  
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[corruption resistance](../../magic/spells/corruption-resistance.md)*, *[litany of warding](../../magic/spells/litany-of-warding.md)*, *[remove paralysis](../../magic/spells/remove-paralysis.md)*, *[shield other](../../magic/spells/shield-other.md)*  
+1st—*[divine favor](../../magic/spells/divine-favor.md)* (3), *[hero’s defiance](../../magic/spells/heros-defiance.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)* (2)
 
 **Statistics**
 

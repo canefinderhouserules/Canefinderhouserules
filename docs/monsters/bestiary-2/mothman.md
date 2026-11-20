@@ -21,10 +21,10 @@ CN Medium monstrous humanoid
 **Melee** 2 claw +13 (1d6+1)  
 **Special Attacks** mind-warping gaze  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-Constant—*blur*  
-At will—*detect thoughts* (DC 16), *ghost sound* (DC 14), *misdirection* (DC 16)  
-3/day—*greater invisibility*, *major image* (DC 17), *modify memory* (DC 18), *nightmare* (DC 19), *phantasmal killer* (DC 18), *shadow walk* (DC 20), *suggestion* (DC 17)  
-1/day—*agent of fate*, *false vision*, *mind fog* (DC 19), *mislead* (DC 20), *project image* (DC 21)
+Constant—*[blur](../../magic/spells/blur.md)*  
+At will—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *[misdirection* ](../../magic/spells/misdirection.md)(DC 16)  
+3/day—*[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[major image* ](../../magic/spells/major-image.md)(DC 17), *[modify memory* ](../../magic/spells/modify-memory.md)(DC 18), *[nightmare* ](../../magic/spells/nightmare.md)(DC 19), *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 18), *[shadow walk* ](../../magic/spells/shadow-walk.md)(DC 20), *[suggestion* ](../../magic/spells/suggestion.md)(DC 17)  
+1/day—*agent of fate*, *[false vision](../../magic/spells/false-vision.md)*, *[mind fog* ](../../magic/spells/mind-fog.md)(DC 19), *[mislead* ](../../magic/spells/mislead.md)(DC 20), *[project image* ](../../magic/spells/project-image.md)(DC 21)
 
 **Statistics**
 

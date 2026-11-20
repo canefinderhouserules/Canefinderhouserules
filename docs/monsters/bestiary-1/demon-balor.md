@@ -22,10 +22,10 @@ CE Large outsider (chaotic, demon, evil, extraplanar)
 **Melee** *+1 vorpal unholy longsword* +31/+26/+21/+16 (2d6+13), *+1 vorpal flaming whip* +30/+25/+20 (1d4+7 plus 1d6 fire and entangle) or 2 slams +31 (1d10+12)  
 **Space** 10 ft., **Reach** 10 ft. (20 ft. with whip)  
 **Spell-Like Abilities** (CL 20th)  
-Constant—*true seeing*, *unholy aura* (DC 26)  
-At will—*dominate monster* (DC 27), *greater dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *power word stun*, *telekinesis* (DC 23)  
-3/day—quickened *telekinesis* (DC 23)  
-1/day—*blasphemy* (DC 25), *fire storm* (DC 26), *implosion* (DC 27), summon (level 9, any 1 CR 19 or lower demon 100%)
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura* ](../../magic/spells/unholy-aura.md)(DC 26)  
+At will—*[dominate monster* ](../../magic/spells/dominate-monster.md)(DC 27), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[power word stun](../../magic/spells/power-word-stun.md)*, *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 23)  
+3/day—quickened *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 23)  
+1/day—*[blasphemy* ](../../magic/spells/blasphemy.md)(DC 25), *[fire storm* ](../../magic/spells/fire-storm.md)(DC 26), *[implosion* ](../../magic/spells/implosion.md)(DC 27), summon (level 9, any 1 CR 19 or lower demon 100%)
 
 **Statistics**
 

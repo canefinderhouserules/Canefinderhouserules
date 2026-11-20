@@ -25,16 +25,16 @@ NE Medium humanoid (elf)
 **Spell-Like Abilities** (CL 17th; concentration +25)  
 11/day—dazing touch  
 **Enchanter Spells Prepared** (CL 17th; concentration +25)  
-9th—*dominate monster* (DC 29), *energy drain* (DC 27)  
-8th—*irresistible dance* (DC 28), *mass charm monster* (DC 28), *polar ray*, *power word stun*  
-7th—*insanity* (DC 27), *mass hold person* (DC 27), *phase door*, *power word blind*, *project image* (DC 25)  
-6th—*acid fog*, *chain lightning* (DC 24), *circle of death* (DC 24), *disintegrate* (DC 24), *eyebite* (DC 24), *mass suggestion* (DC 26)  
-5th—*cloudkill* (DC 23), *dominate person* (DC 25), *feeblemind* (DC 25), *hold monster* (DC 25), *mind fog* (DC 25), *teleport*  
-4th—*charm monster* (DC 24), *confusion* (DC 24), *crushing despair* (DC 24), *dimension door*, *enervation*, *stoneskin*  
-3rd—*deep slumber* (DC 23), *dispel magic*, *displacement*, *fireball* (DC 21), *hold person* (DC 23), *ray of exhaustion* (DC 21), *suggestion* (DC 23)  
-2nd—*glitterdust* (DC 20), *hideous laughter* (DC 22), *invisibility*, *protection from arrows*, *resist energy* (DC 20), *scorching ray*, *touch of idiocy*  
-1st—*alarm*, *burning hands* (DC 19), *charm person* (DC 21), *disguise self*, *magic missile* (2), *unseen servant*  
-0 (at will)—*detect magic*, *light*, *mage hand*, *read magic*  
+9th—*[dominate monster* ](../../magic/spells/dominate-monster.md)(DC 29), *[energy drain* ](../../magic/spells/energy-drain.md)(DC 27)  
+8th—*[irresistible dance* ](../../magic/spells/irresistible-dance.md)(DC 28), *[mass charm monster* ](../../magic/spells/charm-monster-mass.md)(DC 28), *[polar ray](../../magic/spells/polar-ray.md)*, *[power word stun](../../magic/spells/power-word-stun.md)*  
+7th—*[insanity* ](../../magic/spells/insanity.md)(DC 27), *[mass hold person* ](../../magic/spells/hold-person-mass.md)(DC 27), *[phase door](../../magic/spells/phase-door.md)*, *[power word blind](../../magic/spells/power-word-blind.md)*, *[project image* ](../../magic/spells/project-image.md)(DC 25)  
+6th—*[acid fog](../../magic/spells/acid-fog.md)*, *[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 24), *[circle of death* ](../../magic/spells/circle-of-death.md)(DC 24), *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 24), *[eyebite* ](../../magic/spells/eyebite.md)(DC 24), *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 26)  
+5th—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 23), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 25), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 25), *[hold monster* ](../../magic/spells/hold-monster.md)(DC 25), *[mind fog* ](../../magic/spells/mind-fog.md)(DC 25), *[teleport](../../magic/spells/teleport.md)*  
+4th—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 24), *[confusion* ](../../magic/spells/confusion.md)(DC 24), *[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 24), *[dimension door](../../magic/spells/dimension-door.md)*, *[enervation](../../magic/spells/enervation.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd—*[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 23), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[displacement](../../magic/spells/displacement.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 21), *[hold person* ](../../magic/spells/hold-person.md)(DC 23), *[ray of exhaustion* ](../../magic/spells/ray-of-exhaustion.md)(DC 21), *[suggestion* ](../../magic/spells/suggestion.md)(DC 23)  
+2nd—*[glitterdust* ](../../magic/spells/glitterdust.md)(DC 20), *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 22), *[invisibility](../../magic/spells/invisibility.md)*, *[protection from arrows](../../magic/spells/protection-from-arrows.md)*, *[resist energy* ](../../magic/spells/resist-energy.md)(DC 20), *[scorching ray](../../magic/spells/scorching-ray.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1st—*[alarm](../../magic/spells/alarm.md)*, *[burning hands* ](../../magic/spells/burning-hands.md)(DC 19), *[charm person* ](../../magic/spells/charm-person.md)(DC 21), *[disguise self](../../magic/spells/disguise-self.md)*, *[magic missile* ](../../magic/spells/magic-missile.md)(2), *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Opposition Schools** divination, transmutation
 
 **Tactics**

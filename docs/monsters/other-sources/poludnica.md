@@ -23,10 +23,10 @@ CN Medium fey
 **Melee** *+1 scythe* +15/+10 (2d4+10 plus 1d6 fire and 1d2 Con damage/×4)  
 **Special Attacks** searing weapons  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
-Constant—*pass without trace*  
-At will—*daylight*, *plant growth* (enrichment only), *touch of fatigue* (DC 14)  
-3/day—*blur*, *dimension door*, *rainbow pattern* (DC 18), *searing light*  
-1/day—*sunbeam* (DC 21), *waves of fatigue*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*  
+At will—*[daylight](../../magic/spells/daylight.md)*, *[plant growth](../../magic/spells/plant-growth.md)* (enrichment only),[ *touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 14)  
+3/day—*[blur](../../magic/spells/blur.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[rainbow pattern](../../magic/spells/rainbow-pattern.md)* (DC 18), *[searing light](../../magic/spells/searing-light.md)*  
+1/day—*[sunbeam](../../magic/spells/sunbeam.md)* (DC 21), *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*
 
 **Statistics**
 

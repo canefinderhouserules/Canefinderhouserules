@@ -21,9 +21,9 @@ LE Tiny outsider (native, rakshasa, shapechanger)
 **Melee** bite +8 (1d4–2 plus poison)  
 **Special Attacks** detect thoughts (DC 13)  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-Constant—*comprehend languages*  
-1/day—*charm person* (DC 13), *suggestion* (DC 15)  
-1/week—*commune* (CL 12th, 6 questions)
+Constant—*[comprehend languages](../../magic/spells/comprehend-languages.md)*  
+1/day—*[charm person* ](../../magic/spells/charm-person.md)(DC 13), *[suggestion* ](../../magic/spells/suggestion.md)(DC 15)  
+1/week—*[commune* ](../../magic/spells/commune.md)(CL 12th, 6 questions)
 
 **Statistics**
 

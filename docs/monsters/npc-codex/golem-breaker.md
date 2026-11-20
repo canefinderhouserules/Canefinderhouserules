@@ -23,14 +23,14 @@ LN Medium humanoid (dwarf)
 **Ranged**  *+1 heavy crossbow* +21 (1d10+1/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, favored enemy (constructs +8, elves +2, goblinoids +2, oozes +2)  
 **Ranger Spells Prepared** (CL 15th; concentration +17)  
-4th—*cure serious wounds*, *freedom of movement*  
-3rd—*cure moderate wounds*, *water walk*  
-2nd—*barkskin*, *bear’s endurance*, *protection from energy*, *wind wall*  
-1st—*delay poison*, *detect snares and pits* (2), *longstrider*, *resist energy*
+4th—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+3rd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[water walk](../../magic/spells/water-walk.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+1st—*[delay poison](../../magic/spells/delay-poison.md)*, *[detect snares and pits* ](../../magic/spells/detect-snares-and-pits.md)(2), *[longstrider](../../magic/spells/longstrider.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Tactics**
 
-**Before Combat** The ranger casts *barkskin*, *bear’s endurance*, *delay poison*, *longstrider*, *protection from energy* (fire), and *resist energy* (electricity).  
+**Before Combat** The ranger casts *[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[delay poison](../../magic/spells/delay-poison.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(fire), and *[resist energy* ](../../magic/spells/resist-energy.md)(electricity).  
 **During Combat** The ranger uses Mobility and Spring Attack to overcome enemy reach, and Greater Vital Strike to make devastating single blows.  
 **Base Statistics** Without *barkskin*, *bear’s endurance*, *delay poison*, *freedom of movement*, *longstrider*, *protection from energy*, and *resist energy*, the ranger’s statistics are **AC** 26, touch 16, flat-footed 23; **hp** 167; **Fort** +16; **Immune** none; **Resist** none; **Speed** 20 ft.; **Con** 16.
 

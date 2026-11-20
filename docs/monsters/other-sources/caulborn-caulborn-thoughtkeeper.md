@@ -21,11 +21,11 @@ N Medium outsider (extraplanar)
 **Melee** bite +17 (2d6+5), 2 claws +16 (1d6+5)  
 **Special Attacks** consume thoughts (DC 21)  
 **Spell-Like Abilities** (CL 9th; concentration +15)  
-Constant—*detect magic*, *detect thoughts* (DC 18), *read magic*  
-3/day—*charm monster* (DC 19), *daze monster* (DC 17), *hold monster* (DC 20), *hypnotic pattern* (DC 18), *vampiric touch*  
-1/week—*plane shift* (willing targets only)  
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 18), *[read magic](../../magic/spells/read-magic.md)*  
+3/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 19), *[daze monster](../../magic/spells/daze-monster.md)* (DC 17), *[hold monster](../../magic/spells/hold-monster.md)* (DC 20), *[hypnotic pattern](../../magic/spells/hypnotic-pattern.md)* (DC 18), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+1/week—*[plane shift](../../magic/spells/plane-shift.md)* (willing targets only)  
 **Psychic Magic** (CL 9th; concentration +15)  
-10 PE—*burst of insight* (1 PE), *emotive block* (3 PE, DC 19), *greater oneiric horror* (4 PE, DC 20), *mind thrust III* (3 PE, DC 19), *mindscape door* (3 PE, DC 19), *mindwipe* (4 PE, DC 20), *telekinetic maneuver* (3 PE)
+10 PE—*[burst of insight](../../magic/spells/burst-of-insight.md)* (1 PE), *[emotive block](../../magic/spells/emotive-block.md)* (3 PE, DC 19), *[greater oneiric horror](../../magic/spells/oneiric-horror-greater.md)* (4 PE, DC 20), *[mind thrust III](../../magic/spells/mind-thrust-iii.md)* (3 PE, DC 19), *[mindscape door](../../magic/spells/mindscape-door.md)* (3 PE, DC 19), *[mindwipe](../../magic/spells/mindwipe.md)* (4 PE, DC 20), *[telekinetic maneuver](../../magic/spells/telekinetic-maneuver.md)* (3 PE)
 
 **Statistics**
 

@@ -22,10 +22,10 @@ CN Medium humanoid (adlet, cold)
 **Melee** +1 spear +17/+12/+7 (1d8+7/×3), bite +10 (1d6+2 plus 1d6 cold)  
 **Special Attacks** frozen breath  
 **Spell-Like Abilities** (CL 10th; concentration +11)  
-Constant—*pass without trace*  
-At will—*ray of frost*  
-3/day—*fog cloud*, *sleet storm*  
-1/day—*ice storm*, *wind walk* (self only)
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*  
+At will—*[ray of frost](../../magic/spells/ray-of-frost.md)*  
+3/day—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[sleet storm](../../magic/spells/sleet-storm.md)*  
+1/day—*[ice storm](../../magic/spells/ice-storm.md)*, *[wind walk* ](../../magic/spells/wind-walk.md)(self only)
 
 **Statistics**
 

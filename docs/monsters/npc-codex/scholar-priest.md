@@ -24,9 +24,9 @@ CN Medium humanoid (human)
 **Spell-Like Abilities** (CL 3rd; concentration +6)  
 6/day—blast rune (1d6+1 energy damage, 3 rounds)  
 **Cleric Spells Prepared** (CL 3rd; concentration +6)  
-2nd—*hold person* (DC 16), *magic mouth*<sup>D</sup>, *spiritual weapon*  
-1st—*command* (2, DC 15), *erase*<sup>D</sup>, *obscuring mist*  
-0 (at will)—*detect magic*, *detect poison*, *purify food and drink*, *stabilize*  
+2nd—*[hold person* ](../../magic/spells/hold-person.md)(DC 16), *[magic mouth](../../magic/spells/magic-mouth.md)*<sup>D</sup>, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[command* ](../../magic/spells/command.md)(2, DC 15), *[erase](../../magic/spells/erase.md)*<sup>D</sup>, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domains** Magic, Rune
 
 **Tactics**

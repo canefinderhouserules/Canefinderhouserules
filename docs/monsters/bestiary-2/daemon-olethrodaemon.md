@@ -23,10 +23,10 @@ NE Gargantuan outsider (daemon, evil, extraplanar)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** drain soul, soul-drained breath, trample (2d8+18, DC 32)  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*air walk*, *true seeing*, *unholy aura* (DC 25)  
-At will—*greater teleport* (self plus 50 lbs. objects only), *telekinesis*, *wall of fire*, *wall of ice*  
-3/day—quickened *disintegrate* (DC 23), *wall of force*  
-1/day—*blasphemy* (DC 24), summon (level 9, any 1 CR 19 or lower daemon, 100%), *wail of the banshee* (DC 26)
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura](../../magic/spells/unholy-aura.md)* (DC 25)  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. objects only), *[telekinesis](../../magic/spells/telekinesis.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*, *[wall of ice](../../magic/spells/wall-of-ice.md)*  
+3/day—quickened *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 23), *[wall of force](../../magic/spells/wall-of-force.md)*  
+1/day—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 24), summon (level 9, any 1 CR 19 or lower daemon, 100%), *[wail of the banshee](../../magic/spells/wail-of-the-banshee.md)* (DC 26)
 
 **Statistics**
 

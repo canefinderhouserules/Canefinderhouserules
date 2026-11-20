@@ -22,15 +22,15 @@ NE Small humanoid (halfling)
 **Melee** mwk spear +8/+3 (1d6–2/×3)  
 **Ranged**  mwk sling +13/+8 (1d3–2)  
 **Sorcerer Spells Known** (CL 16th; concentration +23)  
-8th (3/day)—*prismatic wall* (DC 25)  
-7th (6/day)—*grasping hand*, *greater teleport*, *spell turning*  
-6th (7/day)—*acid fog*, *chain lightning* (DC 25), *globe of invulnerability*, *greater dispel magic*, *true seeing*  
-5th (7/day)—*break enchantment*, *cone of cold* (DC 24), *mage’s faithful hound*, *mind fog* (DC 22), *overland flight*  
-4th (7/day)—*dimension door*, *enervation*, *phantasmal killer* (DC 21), *resilient sphere* (DC 23), *stoneskin*  
-3rd (8/day)—*dispel magic*, *displacement*, *fly*, *hold person* (DC 20), *lightning bolt* (DC 22), *protection from energy* (DC 20)  
-2nd (8/day)—*false life*, *glitterdust* (DC 19), *invisibility*, *knock*, *resist energy*, *scorching ray*  
-1st (8/day)—*alarm*, *grease*, *identify*, *magic missile*, *ray of enfeeblement* (DC 18), *shield*  
-0 (at will)—*acid splash*, *arcane mark*, *detect magic*, *detect poison*, *light*, *mage hand*, *ray of frost*, *read magic*, *resistance*  
+8th (3/day)—*[prismatic wall* ](../../magic/spells/prismatic-wall.md)(DC 25)  
+7th (6/day)—*[grasping hand](../../magic/spells/grasping-hand.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[spell turning](../../magic/spells/spell-turning.md)*  
+6th (7/day)—*[acid fog](../../magic/spells/acid-fog.md)*, *[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 25), *[globe of invulnerability](../../magic/spells/globe-of-invulnerability.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+5th (7/day)—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 24), *[mage’s faithful hound](../../magic/spells/mages-faithful-hound.md)*, *[mind fog* ](../../magic/spells/mind-fog.md)(DC 22), *[overland flight](../../magic/spells/overland-flight.md)*  
+4th (7/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[enervation](../../magic/spells/enervation.md)*, *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 21), *[resilient sphere* ](../../magic/spells/resilient-sphere.md)(DC 23), *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (8/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[displacement](../../magic/spells/displacement.md)*, *[fly](../../magic/spells/fly.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 20), *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 22), *[protection from energy* ](../../magic/spells/protection-from-energy.md)(DC 20)  
+2nd (8/day)—*[false life](../../magic/spells/false-life.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 19), *[invisibility](../../magic/spells/invisibility.md)*, *[knock](../../magic/spells/knock.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (8/day)—*[alarm](../../magic/spells/alarm.md)*, *[grease](../../magic/spells/grease.md)*, *[identify](../../magic/spells/identify.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 18), *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **Bloodline** arcane
 
 **Tactics**

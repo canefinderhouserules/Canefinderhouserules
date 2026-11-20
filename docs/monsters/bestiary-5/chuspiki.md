@@ -22,9 +22,9 @@ CN Tiny magical beast (air)
 **Ranged**  air blast +8 (2d6+3)  
 **Space** 2-1/2 ft., **Reach** 0 ft. (5 ft. with tail fan)  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-Constant—*feather fall*  
+Constant—*[feather fall](../../magic/spells/feather-fall.md)*  
 **Psychic Magic** (CL 3rd; concentration +4)  
-5 PE—*alter winds* (1 PE, DC 12), *gust of wind* (2 PE, DC 13), *whispering wind* (2 PE)
+5 PE—*[alter winds](../../magic/spells/alter-winds.md)* (1 PE, DC 12), *[gust of wind](../../magic/spells/gust-of-wind.md)* (2 PE, DC 13), *[whispering wind](../../magic/spells/whispering-wind.md)* (2 PE)
 
 **Statistics**
 

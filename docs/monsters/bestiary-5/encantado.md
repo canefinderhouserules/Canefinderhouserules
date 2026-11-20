@@ -21,9 +21,9 @@ CN Medium fey (shapechanger)
 **Melee** slam +10 (1d4+4 plus intoxication) or spear +8 (1d8+4/×3)  
 **Ranged**  spear +10 (1d8+3/×3)  
 **Spell-Like Abilities** (CL 10th; concentration +15)  
-At will—*charm person* (DC 16), *suggestion* (DC 18), *unnatural lust* (DC 17)  
- 3/day—*charm monster* (DC 18), *confusion* (DC 19), *daze monster* (DC 17)  
- 1/week—*control weather*
+At will—*[charm person](../../magic/spells/charm-person.md)* (DC 16), *[suggestion](../../magic/spells/suggestion.md)* (DC 18), *[unnatural lust](../../magic/spells/unnatural-lust.md)* (DC 17)  
+ 3/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 18), *[confusion](../../magic/spells/confusion.md)* (DC 19), *[daze monster](../../magic/spells/daze-monster.md)* (DC 17)  
+ 1/week—*[control weather](../../magic/spells/control-weather.md)*
 
 **Statistics**
 

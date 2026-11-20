@@ -25,11 +25,11 @@ LN Small humanoid (halfling)
 **Spell-Like Abilities** (CL 7th; concentration +10)  
 6/day—force missile (1d4+3)  
 **Evoker Spells Prepared** (CL 7th; concentration +10)  
-4th—*black tentacles*, *shout* (DC 17)  
-3rd—*lightning bolt* (2, DC 16), *protection from energy*, empowered *shocking grasp*  
-2nd—*darkvision*, *mirror image*, *protection from arrows*, *scorching ray* (2)  
-1st—*color spray* (DC 14), *expeditious retreat*, *feather fall*, *mage armor*, *shocking grasp* (2)  
-0 (at will)—*dancing lights*, *flare* (DC 13), *mage hand*, *mending*  
+4th—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[shout* ](../../magic/spells/shout.md)(DC 17)  
+3rd—*[lightning bolt* ](../../magic/spells/lightning-bolt.md)(2, DC 16), *[protection from energy](../../magic/spells/protection-from-energy.md)*, empowered *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+2nd—*[darkvision](../../magic/spells/darkvision.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[protection from arrows](../../magic/spells/protection-from-arrows.md)*, *[scorching ray* ](../../magic/spells/scorching-ray.md)(2)  
+1st—*[color spray* ](../../magic/spells/color-spray.md)(DC 14), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[shocking grasp* ](../../magic/spells/shocking-grasp.md)(2)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[flare* ](../../magic/spells/flare.md)(DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*  
 **Opposition Schools** divination, necromancy
 
 **Tactics**

@@ -23,8 +23,8 @@ LN Large humanoid (giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** bounding stone, rock throwing (60 ft.)  
 **Spell-Like Abilities** (CL 14th; concentration +15)  
-Constant—*see invisibility*  
-3/day—*alarm*
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+3/day—*[alarm](../../magic/spells/alarm.md)*
 
 **Statistics**
 

@@ -24,13 +24,13 @@ CN Small humanoid (gnome, mortic)
 **Spell-Like Abilities** (CL 10th; concentration +17)  
 4th (2/day)—*dimension door, greater invisibility*  
 
-3rd (5/day)—*confusion* (DC 20), *crushing despair* (DC 20), *fear* (DC 20), *see invisibility*  
+3rd (5/day)—*[confusion](../../magic/spells/confusion.md)* (DC 20), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 20), *[fear](../../magic/spells/fear.md)* (DC 20), *[see invisibility](../../magic/spells/see-invisibility.md)*  
 
-2nd (6/day)—*darkness, glitterdust* (DC 19), *hold person* (DC 19), *minor image* (DC 19), *silence* (DC 19)  
+2nd (6/day)—*darkness, glitterdust* (DC 19), *[hold person](../../magic/spells/hold-person.md)* (DC 19), *[minor image](../../magic/spells/minor-image.md)* (DC 19), *[silence](../../magic/spells/silence.md)* (DC 19)  
 
-1st (7/day)—*disguise self, feather fall, hideous laughter* (DC 18), *silent image* (DC 18), *vanish* (DC 18)  
+1st (7/day)—*disguise self, feather fall, hideous laughter* (DC 18), *[silent image](../../magic/spells/silent-image.md)* (DC 18), *[vanish](../../magic/spells/vanish.md)* (DC 18)  
 
-0 (at will)—*dancing lights, detect magic, ghost sound* (DC 17), *mage hand, open/close* (DC 17), *prestidigitation*
+0 (at will)—*dancing lights, detect magic, ghost sound* (DC 17), *mage hand, open/close* (DC 17), *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

@@ -23,7 +23,7 @@ CE Medium humanoid (elf)
 **Melee** rapier +2 (1d6/18–20)  
 **Ranged**  hand crossbow +3 (1d4/19–20 plus poison)  
 **Spell-Like Abilities** (CL 1st)  
-1/day—*dancing lights*, *darkness*, *faerie fire*
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[darkness](../../magic/spells/darkness.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*
 
 **Statistics**
 

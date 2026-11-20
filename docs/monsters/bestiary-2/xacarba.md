@@ -22,9 +22,9 @@ CE Gargantuan outsider (chaotic, evil, extraplanar)
 **Space** 20 ft., **Reach** 15 ft.  
 **Special Attacks** constrict (2d6+9), redirect spell  
 **Spell-Like Abilities** (CL 18th; concentration +25)  
-Constant—*arcane sight*, *detect good*, *true seeing*  
-At will—*detect thoughts* (DC 19), *greater teleport* (self plus 50 lbs. of objects only), *invisibility*, *suggestion* (DC 20)  
-3/day—*charm monster* (DC 21), *mass suggestion* (DC 23), *scrying* (DC 21), *symbol of pain* (DC 22), *touch of idiocy*, *vision*  
+Constant—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 19), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[invisibility](../../magic/spells/invisibility.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 20)  
+3/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 21), *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 23), *[scrying* ](../../magic/spells/scrying.md)(DC 21), *[symbol of pain* ](../../magic/spells/symbol-of-pain.md)(DC 22), *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*, *[vision](../../magic/spells/vision.md)*  
 1/day—summon (level 5, 1 hezrou or 1d4 succubi, 50%)
 
 **Statistics**

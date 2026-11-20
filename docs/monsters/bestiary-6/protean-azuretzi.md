@@ -25,10 +25,10 @@ sonic 10; **SR** 16
 **Special Attacks** constrict (1d4+3), grab (Medium), mocking
 touch, spell pilfer  
 **Spell-Like Abilities** (CL 6th; concentration +9)  
-Constant—*detect law*  
+Constant—*[detect law](../../magic/spells/detect-law.md)*  
 At will—*dimension door, shatter* (DC 15)  
 3/day—*dispel magic, hideous laughter* (DC 15)  
-1/day—*chaos hammer* (DC 17)
+1/day—*[chaos hammer](../../magic/spells/chaos-hammer.md)* (DC 17)
 
 **Statistics**
 

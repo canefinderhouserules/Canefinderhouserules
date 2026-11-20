@@ -22,7 +22,7 @@ N Huge construct
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** breath weapon (DC 20), heat (2d6 fire)  
 **Spell-Like Abilities** (CL 17th; concentration +12)  
-Constant—*see invisibility*
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*
 
 **Statistics**
 

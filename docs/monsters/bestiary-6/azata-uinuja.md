@@ -26,9 +26,9 @@ CG Large outsider (azata, chaotic, extraplanar, good)
 **Special Attacks** psychic starknife  
 **Spell-Like Abilities** (CL 18th; concentration +23)  
 Constant—*see invisibility, shield of faith*  
-At will—*deep slumber* (DC 18), *invisibility*  
+At will—*[deep slumber](../../magic/spells/deep-slumber.md)* (DC 18), *[invisibility](../../magic/spells/invisibility.md)*  
 **Psychic Magic** (CL 18th; concentration +23)  
-24 PE—*cure serious wounds* (3 PE), *dancing lights* (0 PE), *detect mindscape* (2 PE), *dream council* (5 PE), *etheric shards* (5 PE, DC 20), *greater create mindscape* (6 PE), *lesser restoration* (2 PE), *message* (0 PE), *mindscape door* (3 PE), *mindwipe* (4 PE, DC 19), *symbol of sleep* (5 PE, DC 20), *thought shield IV* (5 PE)
+24 PE—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)* (3 PE), *[dancing lights](../../magic/spells/dancing-lights.md)* (0 PE), *[detect mindscape](../../magic/spells/detect-mindscape.md)* (2 PE), *[dream council](../../magic/spells/dream-council.md)* (5 PE), *[etheric shards](../../magic/spells/etheric-shards.md)* (5 PE, DC 20), *[greater create mindscape](../../magic/spells/create-mindscape-greater.md)* (6 PE), *[lesser restoration](../../magic/spells/restoration-lesser.md)* (2 PE), *[message](../../magic/spells/message.md)* (0 PE), *[mindscape door](../../magic/spells/mindscape-door.md)* (3 PE), *[mindwipe](../../magic/spells/mindwipe.md)* (4 PE, DC 19), *[symbol of sleep](../../magic/spells/symbol-of-sleep.md)* (5 PE, DC 20), *[thought shield IV](../../magic/spells/thought-shield-iv.md)* (5 PE)
 
 **Statistics**
 

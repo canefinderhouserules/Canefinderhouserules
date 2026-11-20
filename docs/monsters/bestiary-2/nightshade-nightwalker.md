@@ -24,10 +24,10 @@ CE Huge undead (extraplanar, nightshade)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** channel energy (8d6, DC 29, 8/day), fear gaze, swift sundering  
 **Spell-Like Abilities** (CL 16th; concentration +21)  
-Constant—*air walk*, *detect magic*, *magic fang*  
-At will—*contagion* (DC 19), *deeper darkness*, *greater dispel magic*, *unholy blight* (DC 19)  
-3/day—*confusion* (DC 19), *haste*, *hold monster* (DC 20), *invisibility*, quickened *unholy blight* (DC 19)  
-1/day—*cone of cold* (DC 20), *finger of death* (DC 22), *plane shift* (DC 22), summon (level 7, 4 greater shadows)
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[magic fang](../../magic/spells/magic-fang.md)*  
+At will—*[contagion* ](../../magic/spells/contagion.md)(DC 19), *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 19)  
+3/day—*[confusion* ](../../magic/spells/confusion.md)(DC 19), *[haste](../../magic/spells/haste.md)*, *[hold monster* ](../../magic/spells/hold-monster.md)(DC 20), *[invisibility](../../magic/spells/invisibility.md)*, quickened *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 19)  
+1/day—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 20), *[finger of death* ](../../magic/spells/finger-of-death.md)(DC 22), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 22), summon (level 7, 4 greater shadows)
 
 **Statistics**
 

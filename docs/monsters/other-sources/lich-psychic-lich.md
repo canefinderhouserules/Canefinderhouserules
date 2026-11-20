@@ -23,14 +23,14 @@ LE Medium undead (augmented humanoid)
 **Melee** touch +4 (1d8+5 plus bewildering touch) or sickle +4 (1d6–1), touch –1 (1d8+5 plus bewildering touch)  
 **Special Attacks** bewildering touch (DC 18), phrenic amplifications (defensive prognostication, ongoing defense, overpowering mind, space-rending spell), phrenic pool (8 points), physical push (+3, 3/day)  
 **Spell-Like Abilities** (CL 11th; concentration +17)  
-1/day—*detect thoughts* (DC 17), *telepathic bond*  
+1/day—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[telepathic bond](../../magic/spells/telepathic-bond.md)*  
 **Psychic Spells Known** (CL 11th; concentration +17)  
-5th (4/day)— *echolocation*, *mind fog* (DC 21), *synapse overload* (DC 21)  
-4th (6/day)—*aura of doom* (DC 20), *freedom of movement*, *id insinuation III* (DC 20), *mental barrier III*  
-3rd (7/day)—*dispel magic*, *fly*, *haste*, *mind thrust III* (DC 19), *synaptic pulse* (DC 19)  
-2nd (7/day)— *bear’s endurance*, *blur*, *calm emotions* (DC 18), *false life*, *mental block*, *resist energy*  
-1st (7/day)—*ear-piercing scream* (DC 17), *expeditious retreat*, *mage armor*, *magic missile*, *mindlink*, shield  
-0 (at will)—*arcane mark*, *dancing lights*, *detect magic*, *detect psychic significance*, *ghost sound* (DC 16), *mage hand*, *message*, *prestidigitation* (DC 16), *read magic*  
+5th (4/day)— *[echolocation](../../magic/spells/echolocation.md)*, *[mind fog](../../magic/spells/mind-fog.md)* (DC 21), *[synapse overload](../../magic/spells/synapse-overload.md)* (DC 21)  
+4th (6/day)—*[aura of doom](../../magic/spells/aura-of-doom.md)* (DC 20), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[id insinuation III](../../magic/spells/id-insinuation-iii.md)* (DC 20), *[mental barrier III](../../magic/spells/mental-barrier-iii.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fly](../../magic/spells/fly.md)*, *[haste](../../magic/spells/haste.md)*, *[mind thrust III](../../magic/spells/mind-thrust-iii.md)* (DC 19), *[synaptic pulse](../../magic/spells/synaptic-pulse.md)* (DC 19)  
+2nd (7/day)— *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[blur](../../magic/spells/blur.md)*, *[calm emotions](../../magic/spells/calm-emotions.md)* (DC 18), *[false life](../../magic/spells/false-life.md)*, *[mental block](../../magic/spells/mental-block.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st (7/day)—*[ear-piercing scream](../../magic/spells/ear-piercing-scream.md)* (DC 17), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[mindlink](../../magic/spells/mindlink.md)*, shield  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect psychic significance](../../magic/spells/detect-psychic-significance.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 16), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)* (DC 16), *[read magic](../../magic/spells/read-magic.md)*  
 **Psychic Discipline** self-perfection
 
 **Statistics**

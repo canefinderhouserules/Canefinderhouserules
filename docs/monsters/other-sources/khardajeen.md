@@ -22,7 +22,7 @@ NE Medium aberration
 **Ranged**  manifest gem +23 touch (6d6/19–20, see text)  
 **Special Attacks** powerful tentacles, ray mastery  
 **Spell-Like Abilities** (CL 14th; concentration +23)  
-Constant—*true seeing*
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*
 
 **Statistics**
 

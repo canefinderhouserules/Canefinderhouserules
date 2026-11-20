@@ -23,8 +23,8 @@ NE Medium humanoid (human, orc)
 **Ranged**  mwk dagger +17 (1d4+4/19–20)  
 **Special Attacks** sneak attack +8d6  
 **Spell-Like Abilities** (CL 16th; concentration +16)  
-3/day—*detect magic*  
- 2/day—*shield*
+3/day—*[detect magic](../../magic/spells/detect-magic.md)*  
+ 2/day—*[shield](../../magic/spells/shield.md)*
 
 **Tactics**
 

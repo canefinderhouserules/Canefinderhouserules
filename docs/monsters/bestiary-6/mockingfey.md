@@ -21,7 +21,7 @@ CN Tiny fey
 **Melee** 2 talons +6 (1d4–1)  
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-At will—*daze* (DC 11)
+At will—*[daze](../../magic/spells/daze.md)* (DC 11)
 
 **Statistics**
 

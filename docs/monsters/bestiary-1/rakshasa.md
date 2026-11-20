@@ -21,10 +21,10 @@ LE Medium outsider (native, shapechanger)
 **Melee** *+1 kukri* +16/+11 (1d4+4/15–20), claw +10 (1d4+1), bite +10 (1d6+1)  
 **Special Attacks** detect thoughts  
 **Spells Known** (CL 7th)  
-3rd (5/day)—*lightning bolt* (DC 16), *suggestion* (DC 16)  
-2nd (7/day)—*acid arrow*, *invisibility*, *minor image*  
-1st (7/day)—*charm person* (DC 14), *mage armor*, *magic missile*, *shield*, *silent image*  
-0—*dancing lights*, *detect magic*, *ghost sound* (DC 13), *mage hand*, *mending*, *message*, *prestidigitation*
+3rd (5/day)—*[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 16), *[suggestion* ](../../magic/spells/suggestion.md)(DC 16)  
+2nd (7/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[minor image](../../magic/spells/minor-image.md)*  
+1st (7/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[silent image](../../magic/spells/silent-image.md)*  
+0—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

@@ -23,8 +23,8 @@ LE Large outsider (devil, evil, extraplanar, lawful, mythic)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** entrap (DC 23, 1d10 rounds, hardness 5, hp 10), favored enemy +6, mythic power (6/day, surge +1d8), pounce  
 **Spell-Like Abilities** (CL 13th; concentration +20)  
-Constant—*fly*  
-At will—*cone of cold* (DC 22), *ice storm*, *greater teleport* (self plus 50 lbs. of objects only), *persistent image* (DC 22), *wall of ice* (DC 21)  
+Constant—*[fly](../../magic/spells/fly.md)*  
+At will—*[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 22), *[ice storm](../../magic/spells/ice-storm.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[persistent image](../../magic/spells/persistent-image.md)* (DC 22), *[wall of ice](../../magic/spells/wall-of-ice.md)* (DC 21)  
 1/day—summon (level 4, 2 bone devils 50%)
 
 **Statistics**

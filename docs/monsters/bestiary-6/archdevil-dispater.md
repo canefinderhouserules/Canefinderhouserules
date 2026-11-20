@@ -28,10 +28,10 @@ gore +39 (2d6+6)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** caustic wit, mortal gaze, sneak attack +6d6  
 **Spell-Like Abilities** (CL 27th; concentration +38)  
-Constant—*detect chaos, detect good, fly, mind blank, shield of law* (DC 29), *true seeing*  
-At will—*astral projection, charm monster* (DC 27), *desecrate*<sup>M</sup>, *dictum*<sup>M</sup> (DC 28), *dominate person* (DC 28), *greater dispel magic, greater teleport, iron body, order’s wrath*<sup>M</sup> (DC 25), *unhallow, wall of iron*  
-3/day—*quickened blade barrier*<sup>M</sup> (DC 27), *forcecage* (DC 28), *geas/quest, summon devils, symbol of pain* (DC 27)  
-1/day—*imprisonment* (DC 30), *time stop*<sup>M</sup>, *wish*<sup>M</sup>  
+Constant—*detect chaos, detect good, fly, mind blank, shield of law* (DC 29), *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*astral projection, charm monster* (DC 27), *[desecrate](../../magic/spells/desecrate.md)*<sup>M</sup>, *[dictum](../../magic/spells/dictum.md)*<sup>M</sup> (DC 28), *[dominate person](../../magic/spells/dominate-person.md)* (DC 28), *greater dispel magic, greater teleport, iron body, order’s wrath*<sup>M</sup> (DC 25), *unhallow, wall of iron*  
+3/day—*[quickened blade barrier](../../magic/spells/blade-barrier.md)*<sup>M</sup> (DC 27), *[forcecage](../../magic/spells/forcecage.md)* (DC 28), *geas/quest, summon devils, symbol of pain* (DC 27)  
+1/day—*[imprisonment](../../magic/spells/imprisonment.md)* (DC 30), *[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 <sup>M</sup> Dispater can use this ability’s mythic version in his realm.
 
 **Statistics**

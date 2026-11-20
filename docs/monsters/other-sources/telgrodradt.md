@@ -23,9 +23,9 @@ NE Large aberration
 **Space** 10 ft., **Reach** 10 ft. (5 ft. with bite)  
 **Special Attacks** create thralls, disease, negative energy ray  
 **Spell-Like Abilities** (CL 9th; concentration +11)  
-At will—*curse water*, *detect undead*  
-3/day—*darkness*, *death knell*, *inflict moderate wounds* (DC 14)  
-1/day—*animate dead*, *desecrate*, *see invisibility*, *silence*
+At will—*[curse water](../../magic/spells/curse-water.md)*, *[detect undead](../../magic/spells/detect-undead.md)*  
+3/day—*[darkness](../../magic/spells/darkness.md)*, *[death knell](../../magic/spells/death-knell.md)*, *[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)* (DC 14)  
+1/day—*[animate dead](../../magic/spells/animate-dead.md)*, *[desecrate](../../magic/spells/desecrate.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[silence](../../magic/spells/silence.md)*
 
 **Statistics**
 

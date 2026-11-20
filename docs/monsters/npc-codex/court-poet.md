@@ -22,13 +22,13 @@ LE Medium humanoid (human)
 **Ranged**  mwk dagger +4 (1d4–1/19–20)  
 **Special Attacks** bardic performance 16 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +2)  
 **Bard Spells Known** (CL 5th; concentration +9)  
-2nd (3/day)—*detect thoughts* (DC 16), *invisibility*, *misdirection*  
-1st (5/day)—*alarm*, *charm person* (DC 16), *comprehend languages*, *undetectable alignment*  
-0 (at will)—*detect magic*, *ghost sound* (DC 14), *light*, *mage hand*, *open/close*, *resistance*
+2nd (3/day)—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[invisibility](../../magic/spells/invisibility.md)*, *[misdirection](../../magic/spells/misdirection.md)*  
+1st (5/day)—*[alarm](../../magic/spells/alarm.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[undetectable alignment](../../magic/spells/undetectable-alignment.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Tactics**
 
-**During Combat** The bard controls and confuses attackers with spells, leading combat by turning invisible and using *detect thoughts* to gain a better understanding of the enemy. She uses charm person to draw opponents to her side.
+**During Combat** The bard controls and confuses attackers with spells, leading combat by turning invisible and using *[detect thoughts* ](../../magic/spells/detect-thoughts.md)to gain a better understanding of the enemy. She uses charm person to draw opponents to her side.
 
 **Statistics**
 

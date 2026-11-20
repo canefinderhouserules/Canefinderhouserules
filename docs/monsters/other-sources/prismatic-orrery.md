@@ -22,7 +22,7 @@ N Gargantuan construct
 **Space** 20 ft., **Reach** 15 ft.  
 **Special Attacks** blinding pulse, constrict (6d6+10), prismatic refraction (+17 ranged touch, DC 21, every 1d4 rounds)  
 **Spell-Like Abilities** (CL 13th; concentration +8)  
-Constant—*true seeing*
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*
 
 **Statistics**
 

@@ -23,10 +23,10 @@ NE Tiny ooze
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** empowering strike, psychic sting  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
-Constant—*enshroud thoughts*  
-At will—*charm monster* (DC 18), *dominate person* (DC 19), *mind thrust II* (DC 16), *synesthesia* (DC 17), *telekinetic projectile*  
+Constant—*[enshroud thoughts](../../magic/spells/enshroud-thoughts.md)*  
+At will—*[charm monster](../../magic/spells/charm-monster.md)* (DC 18), *[dominate person](../../magic/spells/dominate-person.md)* (DC 19), *[mind thrust II](../../magic/spells/mind-thrust-ii.md)* (DC 16), *[synesthesia](../../magic/spells/synesthesia.md)* (DC 17), *[telekinetic projectile](../../magic/spells/telekinetic-projectile.md)*  
 **Psychic Magic** (CL 10th; concentration +14)  
-9 PE—*mind thrust III* (3 PE, DC 17), *synaptic pulse* (3 PE, DC 17)
+9 PE—*[mind thrust III](../../magic/spells/mind-thrust-iii.md)* (3 PE, DC 17), *[synaptic pulse](../../magic/spells/synaptic-pulse.md)* (3 PE, DC 17)
 
 **Statistics**
 

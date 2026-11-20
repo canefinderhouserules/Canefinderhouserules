@@ -24,10 +24,10 @@ LN Gargantuan outsider (extraplanar, inevitable, lawful)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** expeditious calculation, pounce, symbological attack, trample (2d6+16, DC 31)  
 **Spell-Like Abilities** (CL 20th; concentration +26)  
-Constant—*detect chaos, detect law, detect magic, shield of law* (DC 24), *true seeing*  
- At will—*arrow of law* (DC 18), *greater dispel magic, order’s wrath* (DC 20)  
- 3/day—*circle of clarity, dispel chaos* (DC 21), *greater forbid action* (DC 21), *hold monster* (DC 21), *dictum* (DC 23), *summon monster IX* (lawful creatures only)  
- 1/day—*gate* (planar travel only)
+Constant—*detect chaos, detect law, detect magic, shield of law* (DC 24), *[true seeing](../../magic/spells/true-seeing.md)*  
+ At will—*[arrow of law](../../magic/spells/arrow-of-law.md)* (DC 18), *greater dispel magic, order’s wrath* (DC 20)  
+ 3/day—*circle of clarity, dispel chaos* (DC 21), *[greater forbid action](../../magic/spells/forbid-action-greater.md)* (DC 21), *[hold monster](../../magic/spells/hold-monster.md)* (DC 21), *[dictum](../../magic/spells/dictum.md)* (DC 23), *[summon monster IX](../../magic/spells/summon-monster-ix.md)* (lawful creatures only)  
+ 1/day—*[gate](../../magic/spells/gate.md)* (planar travel only)
 
 **Statistics**
 

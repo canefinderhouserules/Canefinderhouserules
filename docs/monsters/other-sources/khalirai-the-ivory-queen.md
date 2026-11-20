@@ -23,19 +23,19 @@ CG Medium fey
 **Melee** *+2 disruption light mace* +19/+14 (1d6+1)  
 **Special Attacks** command undead (13/day, DC 26), stunning glance (DC 24)  
 **Spell-Like Abilities** (CL 8th; concentration +13)  
-1/day—*dimension door*  
+1/day—*[dimension door](../../magic/spells/dimension-door.md)*  
 **Spells Prepared** (CL 7th; concentration +12)  
-4th—*dispel magic*, *summon nature’s ally IV*  
-3rd—*call lightning*, *daylight*, *neutralize poison*  
-2nd—*barkskin*, *flame blade*, *resist energy*, *tree shape*  
-1st—*charm animal* (DC 16), *endure elements*, *entangle* (DC 16), *obscuring mist*, *pass without trace*, *produce flame*  
-0—*flare*, *guidance*, *know direction*, *light*  
+4th—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[summon nature’s ally IV](../../magic/spells/summon-natures-ally-iv.md)*  
+3rd—*[call lightning](../../magic/spells/call-lightning.md)*, *[daylight](../../magic/spells/daylight.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[flame blade](../../magic/spells/flame-blade.md)*,[ *resist energy](../../magic/spells/resist-energy.md)*,[ *tree shape](../../magic/spells/tree-shape.md)*  
+1st—*[charm animal](../../magic/spells/charm-animal.md)* (DC 16), *[endure elements](../../magic/spells/endure-elements.md)*, *[entangle* ](../../magic/spells/entangle.md)(DC 16), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[produce flame](../../magic/spells/produce-flame.md)*  
+0—*[flare](../../magic/spells/flare.md)*, *[guidance](../../magic/spells/guidance.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[light](../../magic/spells/light.md)*  
 **Oracle Spells Known** (CL 8th; concentration +18)  
-4th (5/day)—*cure critical wounds* (DC 24), *fear* (DC 24), *restoration*  
-3rd (7/day)—*animate dead*, *cure serious wounds* (DC 23), *remove disease*, *searing light*  
-2nd (9/day)—*align weapon*, *cure moderate wounds* (DC 22), *false life*, *gentle repose*, *remove blindness/deafness*  
-1st (9/day)—*bless*, *cause fear* (DC 21), *command* (DC 21), *cure light wounds* (DC 21), *detect undead*, *hide from undead*, *sanctuary* (DC 21)  
-0 (at will)—*create water*, *detect magic*, *detect poison*, *mending*, *purify food or drink*, *resistance*, *stabilize*, *virtue*  
+4th (5/day)—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)* (DC 24), *[fear* ](../../magic/spells/fear.md)(DC 24), *[restoration](../../magic/spells/restoration.md)*  
+3rd (7/day)—*[animate dead](../../magic/spells/animate-dead.md)*, *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)* (DC 23), *[remove disease](../../magic/spells/remove-disease.md)*, *[searing light](../../magic/spells/searing-light.md)*  
+2nd (9/day)—*[align weapon](../../magic/spells/align-weapon.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)* (DC 22), *[false life](../../magic/spells/false-life.md)*, *[gentle repose](../../magic/spells/gentle-repose.md)*, *[remove blindness/deafness](../../magic/spells/remove-blindness-deafness.md)*  
+1st (9/day)—*[bless](../../magic/spells/bless.md)*, *[cause fear](../../magic/spells/cause-fear.md)* (DC 21), *[command* ](../../magic/spells/command.md)(DC 21), *[cure light wounds](../../magic/spells/cure-light-wounds.md)* (DC 21), *[detect undead](../../magic/spells/detect-undead.md)*, *[hide from undead](../../magic/spells/hide-from-undead.md)*, *[sanctuary* ](../../magic/spells/sanctuary.md)(DC 21)  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[mending](../../magic/spells/mending.md)*, *[purify food or drink](../../magic/spells/purify-food-and-drink.md)*, *[resistance](../../magic/spells/resistance.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **Mystery** bones
 
 **Statistics**

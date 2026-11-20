@@ -22,10 +22,10 @@ CE Huge dragon
 **Space** 15 ft., **Reach** 10 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, 5d6 fire, Reflex DC 24 for half, usable every 1d4 rounds)  
 **Spell-Like Abilities** (CL 15th; concentration +19)  
-Constant—*true seeing*  
-At will—*charm person* (DC 15), *dancing lights*, *message*  
-3/day—*alter self*, *bestow curse* (DC 18), *greater dispel magic*  
-1/day—*lesser geas* (DC 18), *limited wish*, *mislead* (DC 20)
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[charm person* ](../../magic/spells/charm-person.md)(DC 15), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[message](../../magic/spells/message.md)*  
+3/day—*[alter self](../../magic/spells/alter-self.md)*, *[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 18), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*  
+1/day—*[lesser geas* ](../../magic/spells/geas-lesser.md)(DC 18), *[limited wish](../../magic/spells/limited-wish.md)*, *[mislead* ](../../magic/spells/mislead.md)(DC 20)
 
 **Statistics**
 

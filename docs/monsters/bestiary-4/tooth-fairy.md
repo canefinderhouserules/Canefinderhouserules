@@ -22,8 +22,8 @@ CE Diminutive fey (extraplanar)
 **Space** 1 ft., **Reach** 0 ft. (5 ft. with pliers)  
 **Special Attacks** death throes, paralysis (1d3 rounds, DC 11), pliers, tricky thief  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
-At will—*mage hand*, *open/close*  
-1/day—*invisibility* (self only), *sleep* (DC 13)
+At will—*[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*  
+1/day—*[invisibility](../../magic/spells/invisibility.md)* (self only), *[sleep](../../magic/spells/sleep.md)* (DC 13)
 
 **Statistics**
 

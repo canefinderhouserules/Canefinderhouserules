@@ -22,9 +22,9 @@ NE Medium aberration
 **Melee** bite +5 (1d6+2 plus poison), 2 claws +5 (1d4+2)  
 **Special Attacks** night terrors (DC 13), poison, traps, web (+8 ranged, DC 15, 4 hp)  
 **Spell-Like Abilities** (CL 4th; concentration +5)  
-Constant—*protection from good*  
-3/day—*detect thoughts* (DC 13), *dream* (DC 16), *nightmare* (DC 16), *suggestion* (DC 14)  
-1/day—*shadow walk*
+Constant—*[protection from good](../../magic/spells/protection-from-good.md)*  
+3/day—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 13), *[dream](../../magic/spells/dream.md)* (DC 16), *[nightmare](../../magic/spells/nightmare.md)* (DC 16), *[suggestion](../../magic/spells/suggestion.md)* (DC 14)  
+1/day—*[shadow walk](../../magic/spells/shadow-walk.md)*
 
 **Statistics**
 

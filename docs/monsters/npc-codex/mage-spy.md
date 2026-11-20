@@ -22,20 +22,20 @@ NE Small humanoid (gnome)
 **Melee** *+1 dagger* +10/+5 (1d3+1/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, hand of the apprentice (9/day), metamagic mastery (5/day)  
 **Wizard Spells Prepared** (CL 17th; concentration +23)  
-9th—*power word kill*  
-8th—*horrid wilting* (DC 24), *moment of prescience*  
-7th—quickened *hold person* (DC 24), *insanity* (DC 24), *statue*  
-6th—*chain lightning* (DC 22), *disintegrate* (DC 23), *greater dispel magic*, *mass suggestion* (DC 23), *true seeing*  
-5th—*baleful polymorph* (DC 22), stilled *dimension door*, *dominate person* (DC 22), *passwall*, *prying eyes*  
-4th—*bestow curse* (DC 20), *confusion* (DC 21), *greater invisibility*, *locate creature*, *solid fog*  
-3rd—*clairaudience/clairvoyance*, *dispel magic*, *hold person* (DC 20), *nondetection*, *slow* (DC 20)  
-2nd—*alter self*, *darkvision*, *detect thoughts* (DC 18), *invisibility* (2), *knock*  
-1st—*charm person* (DC 18), *feather fall*, *grease*, *mage armor*, *magic missile*, *obscuring mist*  
-0 (at will)—*detect magic*, *detect poison*, *mage hand*, *open/close*
+9th—*[power word kill](../../magic/spells/power-word-kill.md)*  
+8th—*[horrid wilting* ](../../magic/spells/horrid-wilting.md)(DC 24), *[moment of prescience](../../magic/spells/moment-of-prescience.md)*  
+7th—quickened *[hold person* ](../../magic/spells/hold-person.md)(DC 24), *[insanity* ](../../magic/spells/insanity.md)(DC 24), *[statue](../../magic/spells/statue.md)*  
+6th—*[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 22), *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 23), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 23), *[true seeing](../../magic/spells/true-seeing.md)*  
+5th—*[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 22), stilled *[dimension door](../../magic/spells/dimension-door.md)*, *[dominate person* ](../../magic/spells/dominate-person.md)(DC 22), *[passwall](../../magic/spells/passwall.md)*, *[prying eyes](../../magic/spells/prying-eyes.md)*  
+4th—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 20), *[confusion* ](../../magic/spells/confusion.md)(DC 21), *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[locate creature](../../magic/spells/locate-creature.md)*, *[solid fog](../../magic/spells/solid-fog.md)*  
+3rd—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 20), *[nondetection](../../magic/spells/nondetection.md)*, *[slow* ](../../magic/spells/slow.md)(DC 20)  
+2nd—*[alter self](../../magic/spells/alter-self.md)*, *[darkvision](../../magic/spells/darkvision.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 18), *[invisibility* ](../../magic/spells/invisibility.md)(2), *[knock](../../magic/spells/knock.md)*  
+1st—*[charm person* ](../../magic/spells/charm-person.md)(DC 18), *[feather fall](../../magic/spells/feather-fall.md)*, *[grease](../../magic/spells/grease.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*
 
 **Tactics**
 
-**Before Combat** The wizard casts *darkvision*, *mage armor*, *moment of prescience*, *nondetection*, and *statue*.  
+**Before Combat** The wizard casts *[darkvision](../../magic/spells/darkvision.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[moment of prescience](../../magic/spells/moment-of-prescience.md)*, *[nondetection](../../magic/spells/nondetection.md)*, and *[statue](../../magic/spells/statue.md)*.  
 **During Combat** The wizard prefers to evade combat by casting *dimension door* or *greater invisibility*.  
 **Base Statistics** Without *darkvision*, *mage armor*, and *moment of prescience*, the wizard’s statistics are **Senses** low-light vision; **AC** 20, touch 17, flat-footed 16; **Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants).
 

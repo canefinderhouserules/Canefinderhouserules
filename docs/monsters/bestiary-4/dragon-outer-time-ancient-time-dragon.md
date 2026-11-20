@@ -23,17 +23,17 @@ N Gargantuan dragon
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. cone, 20d10 electricity, DC 32), crush, second chance, shifting breath (5 rounds), tail sweep  
 **Spell-Like Abilities** (CL 27th; concentration +33)  
-Constant—*detect magic*  
-At will—*clairaudience/clairvoyance*, *legend lore*, *locate creature*, *share memory*  
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[legend lore](../../magic/spells/legend-lore.md)*, *[locate creature](../../magic/spells/locate-creature.md)*, *[share memory](../../magic/spells/share-memory.md)*  
 **Sorcerer Spells Known** (CL 15th; concentration +21)  
-7th (4/day)—*plane shift* (DC 23), *sequester*  
-6th (7/day)—*disintegrate* (DC 22), *greater dispel magic*, *true seeing*  
-5th (7/day)—*dominate person* (DC 21), *feeblemind* (DC 21), *telepathic bond*, *teleport*  
-4th (7/day)—*fear* (DC 20), *scrying* (DC 20), *stone shape*, *stoneskin*  
-3rd (7/day)—*blink*, *dispel magic*, *slow* (DC 19), *tongues*  
-2nd (8/day)—*arcane lock*, *blindness/deafness* (DC 18), *blur*, *detect thoughts* (DC 18), *memory lapse* (DC 18)  
-1st (8/day)—*erase*, *feather fall*, *identify*, *mage armor*, *magic missile*  
-0 (at will)—*light*, *mage hand*, *message*, *read magic*, 5 more
+7th (4/day)—*[plane shift* ](../../magic/spells/plane-shift.md)(DC 23), *[sequester](../../magic/spells/sequester.md)*  
+6th (7/day)—*[disintegrate* ](../../magic/spells/disintegrate.md)(DC 22), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+5th (7/day)—*[dominate person* ](../../magic/spells/dominate-person.md)(DC 21), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 21), *[telepathic bond](../../magic/spells/telepathic-bond.md)*, *[teleport](../../magic/spells/teleport.md)*  
+4th (7/day)—*[fear* ](../../magic/spells/fear.md)(DC 20), *[scrying* ](../../magic/spells/scrying.md)(DC 20), *[stone shape](../../magic/spells/stone-shape.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (7/day)—*[blink](../../magic/spells/blink.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[slow* ](../../magic/spells/slow.md)(DC 19), *[tongues](../../magic/spells/tongues.md)*  
+2nd (8/day)—*[arcane lock](../../magic/spells/arcane-lock.md)*, *[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 18), *[blur](../../magic/spells/blur.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 18), *[memory lapse](../../magic/spells/memory-lapse.md)* (DC 18)  
+1st (8/day)—*[erase](../../magic/spells/erase.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[identify](../../magic/spells/identify.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*  
+0 (at will)—*[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, 5 more
 
 **Statistics**
 

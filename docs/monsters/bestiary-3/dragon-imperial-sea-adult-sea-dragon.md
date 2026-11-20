@@ -23,12 +23,12 @@ CG Huge dragon (water)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite and gore)  
 **Special Attacks** breath weapon (50-ft. cone, 12d6 fire damage, DC 22), crush (DC 22, 2d8+12), torrent breath  
 **Spell-Like Abilities** (CL 15th; concentration +20)  
-At will—*call lightning* (DC 18), *create water*, *hydraulic push*  
+At will—*[call lightning* ](../../magic/spells/call-lightning.md)(DC 18), *[create water](../../magic/spells/create-water.md)*, *[hydraulic push](../../magic/spells/hydraulic-push.md)*  
 **Spells Known** (CL 7th; concentration +12)  
-3rd (5/day)—*hold person* (DC 18), *sleet storm*  
-2nd (7/day)—*gust of wind* (DC 17), *mirror image*, *see invisibility*  
-1st (8/day)—*charm person* (DC 16), *chill touch*, *color spray* (DC 16), *expeditious retreat*, *sleep* (DC 16)  
-0 (at will)—*acid splash*, *daze* (DC 15), *detect magic*, *mage hand*, *ray of frost*, *read magic*, *resistance*
+3rd (5/day)—*[hold person* ](../../magic/spells/hold-person.md)(DC 18), *[sleet storm](../../magic/spells/sleet-storm.md)*  
+2nd (7/day)—*[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 17), *[mirror image](../../magic/spells/mirror-image.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (8/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[chill touch](../../magic/spells/chill-touch.md)*, *[color spray* ](../../magic/spells/color-spray.md)(DC 16), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[sleep* ](../../magic/spells/sleep.md)(DC 16)  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[daze* ](../../magic/spells/daze.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

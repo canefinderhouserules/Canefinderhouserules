@@ -23,9 +23,9 @@ CE Colossal plant
 **Ranged**  4 thorns +17 (2d8+16 plus poison)  
 **Space** 30 ft., **Reach** 30 ft.  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-At will—*control weather*, *lightning bolt* (DC 20), *tree shape* (Colossal tree), *transport via plants*  
-3/day—*chain lightning* (DC 23), quickened *lightning bolt* (DC 20)  
-1/day—*storm of vengeance* (DC 26), *whirlwind* (DC 25)
+At will—*[control weather](../../magic/spells/control-weather.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 20), *[tree shape* ](../../magic/spells/tree-shape.md)(Colossal tree), *[transport via plants](../../magic/spells/transport-via-plants.md)*  
+3/day—*[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 23), quickened *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 20)  
+1/day—*[storm of vengeance* ](../../magic/spells/storm-of-vengeance.md)(DC 26), *[whirlwind* ](../../magic/spells/whirlwind.md)(DC 25)
 
 **Statistics**
 

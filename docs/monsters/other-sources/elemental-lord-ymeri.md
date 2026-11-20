@@ -23,10 +23,10 @@ NE Large outsider (evil, extraplanar, fire)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** limitless fire 3/day, scorching rend  
 **Spell-Like Abilities** (CL 28th; concentration +38)  
-Constant—*fire shield** (warm), *freedom of movement*, *true seeing*  
- At will—*fireball** (DC 23), *greater teleport*, *pyrotechnics* (DC 22), *scorching ray**, *wall of fire**  
- 3/day—*delayed blast fireball* (DC 27), *fire storm** (DC 27), *incendiary cloud* (DC 28), *wall of lava*  
- 1/day—*meteor swarm** (DC 29), summon (level 9, 2d4 fiendish elder fire elementals 100%)
+Constant—*[fire shield](../../magic/spells/fire-shield.md)** (warm), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+ At will—*[fireball](../../magic/spells/fireball.md)** (DC 23), *[greater teleport](../../magic/spells/teleport-greater.md)*, *[pyrotechnics](../../magic/spells/pyrotechnics.md)* (DC 22), *[scorching ray](../../magic/spells/scorching-ray.md)**, *[wall of fire](../../magic/spells/wall-of-fire.md)**  
+ 3/day—*[delayed blast fireball](../../magic/spells/delayed-blast-fireball.md)* (DC 27), *[fire storm](../../magic/spells/fire-storm.md)** (DC 27), *[incendiary cloud](../../magic/spells/incendiary-cloud.md)* (DC 28), *[wall of lava](../../magic/spells/wall-of-lava.md)*  
+ 1/day—*[meteor swarm](../../magic/spells/meteor-swarm.md)** (DC 29), summon (level 9, 2d4 fiendish elder fire elementals 100%)
 
 **Statistics**
 

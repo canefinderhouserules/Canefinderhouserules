@@ -31,17 +31,17 @@ petrification, plant traits, stagger; **SR** 37
 Constant—*pass without trace, speak with plants*  
 At will—*plant growth, transport via plants*  
 3/day—*summon plants*  
-1/day—*awaken*  
+1/day—*[awaken](../../magic/spells/awaken.md)*  
 **Druid Spells Prepared** (CL 20th; concentration +31)  
-9th—*antipathy* (DC 30), quickened *cure serious wounds, foresight, greater siege of trees*, quickened *wall of thorns*  
-8th—*control plants* (DC 29), quickened *dispel magic, mass cure serious wounds, reverse gravity, sunburst* (DC 29)  
-7th—*animate plants*, quickened *cure moderate wounds, heal* (2), *greater scrying*, quickened *quench* (DC 24)  
-6th—*antilife shell*, quickened *barkskin, greater dispel magic* (4)  
-5th—quickened *cure light wounds* (3), *death ward, tree stride, wall of thorns*  
+9th—*[antipathy](../../magic/spells/antipathy.md)* (DC 30), quickened *cure serious wounds, foresight, greater siege of trees*, quickened *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+8th—*[control plants](../../magic/spells/control-plants.md)* (DC 29), quickened *dispel magic, mass cure serious wounds, reverse gravity, sunburst* (DC 29)  
+7th—*[animate plants](../../magic/spells/animate-plants.md)*, quickened *cure moderate wounds, heal* (2), *[greater scrying](../../magic/spells/scrying-greater.md)*, quickened *[quench](../../magic/spells/quench.md)* (DC 24)  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, quickened *barkskin, greater dispel magic* (4)  
+5th—quickened *[cure light wounds](../../magic/spells/cure-light-wounds.md)* (3), *death ward, tree stride, wall of thorns*  
 4th—*arboreal hammer, command plants* (2, DC 25), *dispel magic, freedom of movement, grove of respite*  
-3rd—*call lightning* (DC 24), *cure moderate wounds* (3), *quench* (2, DC 24), *spike growth* (DC 24)  
-2nd—*barkskin, fog cloud* (2), *resist energy* (2), *warp wood, wilderness soldiers*  
-1st—*cure light wounds* (3), *entangle* (3, DC 22), *faerie fire*  
+3rd—*[call lightning](../../magic/spells/call-lightning.md)* (DC 24),[ *cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)* (3), *[quench](../../magic/spells/quench.md)* (2, DC 24), *[spike growth](../../magic/spells/spike-growth.md)* (DC 24)  
+2nd—*barkskin, fog cloud* (2), *[resist energy](../../magic/spells/resist-energy.md)* (2), *warp wood, wilderness soldiers*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)* (3), *[entangle](../../magic/spells/entangle.md)* (3, DC 22), *[faerie fire](../../magic/spells/faerie-fire.md)*  
 0—*create water, detect magic, guidance, stabilize*
 
 **Statistics**

@@ -21,10 +21,10 @@ LE Medium outsider (asura, evil, extraplanar, lawful)
 **Speed** 30 ft., fly 40 ft. (good)  
 **Melee** mwk spear +12/+7 (1d8+4/×3), 2 wings +6 (1d4+1)  
 **Spell-Like Abilities** (CL 5th; concentration +9)  
-At will—*greater teleport* (self plus 50 lbs. of objects only)  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
 1/day—summon (level 4, 1 vayuphak 35%)  
 **Psychic Magic** (CL 5th; concentration +9)  
-7 PE—*dispel magic* (3 PE), *id insinuation I* (2 PE, DC 16), *object reading* (1 PE), *scorching ray* (2 PE)
+7 PE—*[dispel magic](../../magic/spells/dispel-magic.md)* (3 PE), *[id insinuation I](../../magic/spells/id-insinuation-i.md)* (2 PE, DC 16), *[object reading](../../magic/spells/object-reading.md)* (1 PE), *[scorching ray](../../magic/spells/scorching-ray.md)* (2 PE)
 
 **Statistics**
 

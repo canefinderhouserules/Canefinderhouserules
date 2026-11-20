@@ -21,8 +21,8 @@ CE Medium monstrous humanoid
 **Melee** bite +13 (1d6+4 plus poison), 2 claws +13 (1d4+4/19–20 plus poison)  
 **Special Attacks** infectious dance, poison  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-At will—*murderous command* (DC 16), *polypurpose panacea*, *rage*  
-3/day—*bull’s strength*, *charm monster* (DC 19), *mad hallucination* (DC 17), *vampiric touch*
+At will—*[murderous command](../../magic/spells/murderous-command.md)* (DC 16), *[polypurpose panacea](../../magic/spells/polypurpose-panacea.md)*, *[rage](../../magic/spells/rage.md)*  
+3/day—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[charm monster](../../magic/spells/charm-monster.md)* (DC 19), *[mad hallucination](../../magic/spells/mad-hallucination.md)* (DC 17), *[vampiric touch](../../magic/spells/vampiric-touch.md)*
 
 **Statistics**
 

@@ -21,9 +21,9 @@ CE Small humanoid (halfling)
 **Melee** mwk dagger +3 (1d3–2/19–20)  
 **Ranged**  dagger +7 (1d3–2/19–20)  
 **Oracle Spells Known** (CL 5th; concentration +9)  
-2nd (5/day)—*desecrate*, *false life*, *hold person* (DC 16), *inflict moderate wounds* (DC 16)  
-1st (7/day)—*cause fear* (DC 15), *compel hostility* (DC 15), *cure light wounds*, *inflict light wounds* (DC 15), *obscuring mist*, *shield of faith*  
-0 (at will)—*bleed* (DC 14), *detect magic*, *mending*, *resistance*, *stabilize*, *virtue*  
+2nd (5/day)—*[desecrate](../../magic/spells/desecrate.md)*, *[false life](../../magic/spells/false-life.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 16), *[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)* (DC 16)  
+1st (7/day)—*[cause fear](../../magic/spells/cause-fear.md)* (DC 15), *[compel hostility](../../magic/spells/compel-hostility.md)* (DC 15), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[inflict light wounds](../../magic/spells/inflict-light-wounds.md)* (DC 15), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[mending](../../magic/spells/mending.md)*, *[resistance](../../magic/spells/resistance.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **Mystery** bones
 
 **Statistics**

@@ -22,9 +22,9 @@ N Medium humanoid (human)
 **Ranged**  dagger +5 (1d4/19–20)  
 **Special Attacks** bardic performance 18 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +2, suggestion)  
 **Bard Spells Known** (CL 6th; concentration +10)  
-2nd (4/day)—*eagle’s splendor*, *enthrall* (DC 17), *heroism*, *hold person* (DC 17)  
-1st (5/day)—*charm person* (DC 16), *cure light wounds*, *silent image* (DC 15), *ventriloquism* (DC 15)  
-0 (at will)—*dancing lights*, *ghost sound* (DC 14), *mage hand*, *mending*, *open/close*, *prestidigitation*
+2nd (4/day)—*[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[enthrall* ](../../magic/spells/enthrall.md)(DC 17), *[heroism](../../magic/spells/heroism.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 17)  
+1st (5/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 15), *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 15)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

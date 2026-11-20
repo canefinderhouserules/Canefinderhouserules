@@ -26,7 +26,7 @@ piercing; **Immune** fire, paralysis, poison, sleep; **Resist** cold 15
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** capsize, magma spray  
 **Spell-Like Abilities** (CL 20th; concentration +21)  
-1/day—*plane shift* (Elemental Planes or Material Plane only)
+1/day—*[plane shift](../../magic/spells/plane-shift.md)* (Elemental Planes or Material Plane only)
 
 **Statistics**
 

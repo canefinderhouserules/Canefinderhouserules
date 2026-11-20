@@ -23,9 +23,9 @@ CE Large aberration (chaotic, extraplanar)
 **Special Attacks** befuddling strike (6/day, DC 29), punishing kick (6/day, DC 29), strange attractor  
 **Spell-Like Abilities** (CL 21st; concentration +29)  
 Constant—*air walk, detect law*  
- At will—*chaos hammer*  (DC 22), *dimension door, enervation, greater dispel magic, mass inflict moderate wounds*  (DC 24), *plane shift* (DC 23)  
- 3/day—*quickened dimension door, disintegrate*  (DC 24), *quickened mass inflict moderate wounds*  (DC 24), *word of chaos*  (DC 25)  
- 1/day—*orb of the void*  (DC 26)
+ At will—*[chaos hammer](../../magic/spells/chaos-hammer.md)*  (DC 22), *dimension door, enervation, greater dispel magic, mass inflict moderate wounds*  (DC 24), *[plane shift](../../magic/spells/plane-shift.md)* (DC 23)  
+ 3/day—*quickened dimension door, disintegrate*  (DC 24), *[quickened mass inflict moderate wounds](../../magic/spells/inflict-moderate-wounds-mass.md)*  (DC 24), *[word of chaos](../../magic/spells/word-of-chaos.md)*  (DC 25)  
+ 1/day—*[orb of the void](../../magic/spells/orb-of-the-void.md)*  (DC 26)
 
 **Statistics**
 

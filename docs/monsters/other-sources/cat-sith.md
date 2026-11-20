@@ -21,9 +21,9 @@ CN Tiny magical beast
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** false curse (DC 15)  
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
-Constant—*see invisibility*  
-3/day—*ghost sound*, *hypnotism*, *magic aura*  
-1/week—*rest eternal*
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+3/day—*[ghost sound](../../magic/spells/ghost-sound.md)*, *[hypnotism](../../magic/spells/hypnotism.md)*, *[magic aura](../../magic/spells/magic-aura.md)*  
+1/week—*[rest eternal](../../magic/spells/rest-eternal.md)*
 
 **Statistics**
 

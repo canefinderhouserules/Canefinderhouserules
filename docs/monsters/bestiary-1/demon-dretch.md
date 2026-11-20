@@ -20,7 +20,7 @@ CE Small outsider (chaotic, demon, evil, extraplanar)
 **Speed** 20 ft.  
 **Melee** 2 claws +4 (1d4+1), bite +4 (1d4+1)  
 **Spell-Like Abilities** (CL 2nd)  
-1/day—*cause fear* (DC 11), *stinking cloud* (DC 13), summon (level 1, 1 dretch 35%)
+1/day—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 11), *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 13), summon (level 1, 1 dretch 35%)
 
 **Statistics**
 

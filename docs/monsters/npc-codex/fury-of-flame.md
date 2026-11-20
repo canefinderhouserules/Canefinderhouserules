@@ -25,14 +25,14 @@ NE Medium humanoid (human)
 **Spell-Like Abilities** (CL 14th; concentration +18)  
 7/day—fire bolt  
 **Druid Spells Prepared** (CL 14th; concentration +18)  
-7th—*elemental body IV*<sup>D</sup>(fire only), *fire storm* (2, DC 23)  
-6th—*fire seeds*<sup>D</sup>, empowered *flame strike* (2, DC 20), *wall of stone*  
-5th—*fire shield*<sup>D</sup>, empowered *fireball* (2, DC 19), *wall of fire*  
-4th—*air walk*, *cure serious wounds*, *dispel magic*, *freedom of movement*, *ice storm* (DC 20), *wall of fire*<sup>D</sup>  
-3rd—*dominate animal* (DC 17), *fireball*<sup>D</sup> (2, DC 19), *greater magic fang* (2), *spike growth* (DC 17)  
-2nd—*barkskin* (3), *bull’s strength*, *cat’s grace*, *produce flame*<sup>D</sup>  
-1st—*burning hands*<sup>D</sup> (2, DC 17), *cure light wounds*, *faerie fire*, *shillelagh*, *speak with animals*  
-0 (at will)—*create water*, *flare* (DC 16), *light*, *stabilize*  
+7th—*[elemental body IV](../../magic/spells/elemental-body-iv.md)*<sup>D</sup>(fire only), *[fire storm* ](../../magic/spells/fire-storm.md)(2, DC 23)  
+6th—*[fire seeds](../../magic/spells/fire-seeds.md)*<sup>D</sup>, empowered *[flame strike* ](../../magic/spells/flame-strike.md)(2, DC 20), *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+5th—*[fire shield](../../magic/spells/fire-shield.md)*<sup>D</sup>, empowered *[fireball* ](../../magic/spells/fireball.md)(2, DC 19), *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[ice storm* ](../../magic/spells/ice-storm.md)(DC 20), *[wall of fire](../../magic/spells/wall-of-fire.md)*<sup>D</sup>  
+3rd—*[dominate animal* ](../../magic/spells/dominate-animal.md)(DC 17), *[fireball](../../magic/spells/fireball.md)*<sup>D</sup> (2, DC 19), *[greater magic fang* ](../../magic/spells/magic-fang-greater.md)(2), *[spike growth* ](../../magic/spells/spike-growth.md)(DC 17)  
+2nd—*[barkskin* ](../../magic/spells/barkskin.md)(3), *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*, *[produce flame](../../magic/spells/produce-flame.md)*<sup>D</sup>  
+1st—*[burning hands](../../magic/spells/burning-hands.md)*<sup>D</sup> (2, DC 17), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*, *[shillelagh](../../magic/spells/shillelagh.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[flare* ](../../magic/spells/flare.md)(DC 16), *[light](../../magic/spells/light.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domain** Fire
 
 **Tactics**

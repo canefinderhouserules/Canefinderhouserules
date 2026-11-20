@@ -22,8 +22,8 @@ CN Small fey
 **Ranged**  rock +8 (1d6+4)  
 **Special Attacks** animated hair, stunning laugh, rock throwing (100 ft.)  
 **Spell-Like Abilities** (CL 6th; concentration +7)  
-At will—*animate rope*, *shatter* (DC 13), *stone shape*  
-1/day—*stone tell*
+At will—*[animate rope](../../magic/spells/animate-rope.md)*, *[shatter* ](../../magic/spells/shatter.md)(DC 13), *[stone shape](../../magic/spells/stone-shape.md)*  
+1/day—*[stone tell](../../magic/spells/stone-tell.md)*
 
 **Statistics**
 

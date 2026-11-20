@@ -21,7 +21,7 @@ N Large magical beast
 **Melee** gore +12 (1d8+6)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 9th; concentration +13)  
-Constant—*see invisibility*, *speak with animals*
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*
 
 **Statistics**
 

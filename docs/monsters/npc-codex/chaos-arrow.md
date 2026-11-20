@@ -23,16 +23,16 @@ CE Small humanoid (gnome)
 **Ranged**  *+2 frost shock shortbow* +27/+22/+17/+12 (1d4+2/×3 plus 1d6 cold and 1d6 electricity)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, arrow of death, enhance arrows (aligned, distance, elemental, elemental burst, magic), imbue arrow, phase arrow (3/day), seeker arrow (4/day), sneak attack +3d6  
 **Spell-Like Abilities** (CL 20th; concentration +24)  
-1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Bloodline Spell-Like Abilities** (CL 11th; concentration +15)  
  7/day—laughing touch  
 **Sorcerer Spells Known** (CL 11th; concentration +15; arcane spell failure 10%)  
-5th (4/day)—*cloudkill* (DC 19), *teleport*  
-4th (7/day)—*confusion* (DC 20), *greater invisibility*, *shout* (DC 18)  
-3rd (7/day)—*explosive runes*, *haste*, *heroism*, *stinking cloud* (DC 17)  
-2nd (7/day)—*darkvision*, *glitterdust* (DC 16), *rope trick*, *see invisibility*, *web* (DC 16)  
-1st (7/day)—*color spray* (DC 16), *entangle* (DC 15), *expeditious retreat*, *magic missile*, *reduce person* (DC 15), *true strike*  
-0 (at will)—*bleed* (DC 14), *detect magic*, *flare* (DC 14), *light*, *mage hand*, *message*, *prestidigitation*, *ray of frost*, *read magic*  
+5th (4/day)—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 19), *[teleport](../../magic/spells/teleport.md)*  
+4th (7/day)—*[confusion* ](../../magic/spells/confusion.md)(DC 20), *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[shout* ](../../magic/spells/shout.md)(DC 18)  
+3rd (7/day)—*[explosive runes](../../magic/spells/explosive-runes.md)*, *[haste](../../magic/spells/haste.md)*, *[heroism](../../magic/spells/heroism.md)*, *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 17)  
+2nd (7/day)—*[darkvision](../../magic/spells/darkvision.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 16), *[rope trick](../../magic/spells/rope-trick.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[web* ](../../magic/spells/web.md)(DC 16)  
+1st (7/day)—*[color spray* ](../../magic/spells/color-spray.md)(DC 16), *[entangle* ](../../magic/spells/entangle.md)(DC 15), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[reduce person* ](../../magic/spells/reduce-person.md)(DC 15), *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 14), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** fey
 
 **Tactics**

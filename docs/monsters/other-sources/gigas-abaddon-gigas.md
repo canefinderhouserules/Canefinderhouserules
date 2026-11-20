@@ -23,9 +23,9 @@ NE Gargantuan humanoid (evil, extraplanar, giant)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** devour souls, energy drain (2 levels, DC 26), rock throwing (160 ft.), vile weapon  
 **Spell-Like Abilities** (CL 17th; concentration +23)  
-At will—*fear* (DC 20)  
-3/day—*chain lightning* (DC 22), *cone of cold* (DC 21), *dimensional anchor*, *flame strike* (DC 21), *greater dispel magic*, *horrid wilting* (DC 24), *unholy blight* (DC 20)  
-1/day—*destruction* (DC 23), *energy drain* (DC 25)
+At will—*[fear](../../magic/spells/fear.md)* (DC 20)  
+3/day—*[chain lightning](../../magic/spells/chain-lightning.md)* (DC 22), *[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 21), *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[flame strike](../../magic/spells/flame-strike.md)* (DC 21), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 24), *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 20)  
+1/day—*[destruction](../../magic/spells/destruction.md)* (DC 23), *[energy drain](../../magic/spells/energy-drain.md)* (DC 25)
 
 **Statistics**
 

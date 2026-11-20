@@ -28,14 +28,14 @@ positive energy)
 **Special Attacks** anatomical undoing, lunar rays, stunning fist
 (6/day, DC 18)  
 **Spell-Like Abilities** (CL 18th; concentration +26; Wisdom-based)  
-At will—*greater teleport* (self only), *plane shift* (self only)  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self only), *[plane shift](../../magic/spells/plane-shift.md)* (self only)  
 **Psychic Magic (Sp)** (CL 18th; concentration +26; Wisdom-based)  
-45 PE—*aversion* (2 PE, DC 20), *awaken* (5 PE), *awaken
-construct* (6 PE), *babble* (3 PE, DC 21), *ego whip V*
-(7 PE, DC 25), *greater synaptic pulse* (5 PE, DC 23),
-*mind thrust VI* (6 PE, DC 24), *mindwipe* (4 PE, DC 22),
-*psychic image* (9 PE), *psychic surgery* (6 PE), *synapse
-overload* (5 PE, DC 23)
+45 PE—*[aversion](../../magic/spells/aversion.md)* (2 PE, DC 20), *[awaken](../../magic/spells/awaken.md)* (5 PE), *[awaken
+construct](../../magic/spells/awaken-construct.md)* (6 PE), *[babble](../../magic/spells/babble.md)* (3 PE, DC 21), *[ego whip V](../../magic/spells/ego-whip-v.md)*
+(7 PE, DC 25), *[greater synaptic pulse](../../magic/spells/synaptic-pulse-greater.md)* (5 PE, DC 23),
+*[mind thrust VI](../../magic/spells/mind-thrust-vi.md)* (6 PE, DC 24), *[mindwipe](../../magic/spells/mindwipe.md)* (4 PE, DC 22),
+*[psychic image](../../magic/spells/psychic-image.md)* (9 PE), *[psychic surgery](../../magic/spells/psychic-surgery.md)* (6 PE), *[synapse
+overload](../../magic/spells/synapse-overload.md)* (5 PE, DC 23)
 
 **Statistics**
 

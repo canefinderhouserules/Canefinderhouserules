@@ -22,10 +22,10 @@ NE Small humanoid (goblinoid)
 **Ranged**  javelin +7 (1d4–2)  
 **Special Attacks** hexes (evil eye [–2, 6 rounds], misfortune [1 round], mud witch, poison steep, swamp hag)  
 **Witch Spells Prepared** (CL 6th; concentration +9)  
-3rd—*blink*, *lightning bolt* (DC 16), *spit venom* (DC 16)  
-2nd—*feast of ashes* (DC 15), *frost fall* (DC 15), *invisibility*, *vomit swarm*  
-1st—*command* (DC 14), *mage armor*, *obscuring mist*, *sleep* (DC 14)  
-0 (at will)—*dancing lights*, *daze* (DC 13), *detect magic*, *touch of fatigue* (DC 13)  
+3rd—*[blink](../../magic/spells/blink.md)*, *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 16), *[spit venom](../../magic/spells/spit-venom.md)* (DC 16)  
+2nd—*[feast of ashes](../../magic/spells/feast-of-ashes.md)* (DC 15), *[frost fall](../../magic/spells/frost-fall.md)* (DC 15), *[invisibility](../../magic/spells/invisibility.md)*, *[vomit swarm](../../magic/spells/vomit-swarm.md)*  
+1st—*[command](../../magic/spells/command.md)* (DC 14), *[mage armor](../../magic/spells/mage-armor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[sleep](../../magic/spells/sleep.md)* (DC 14)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze](../../magic/spells/daze.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 13)  
 **Patron** deception
 
 **Tactics**

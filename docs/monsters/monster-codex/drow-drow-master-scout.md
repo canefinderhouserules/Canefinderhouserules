@@ -24,7 +24,7 @@ CE Medium humanoid (elf)
 **Ranged**  *+1 composite shortbow* +11/+6 (1d6+3/×3 plus poison)  
 **Special Attacks** deadly range (+20 feet), sneak attack +4d6  
 **Spell-Like Abilities** (CL 8th, concentration +8)  
-1/day—*dancing lights*, *darkness*, *faerie fire*
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[darkness](../../magic/spells/darkness.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*
 
 **Tactics**
 

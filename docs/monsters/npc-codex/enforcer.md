@@ -21,13 +21,13 @@ NE Medium humanoid (human)
 **Melee** mwk club +7 (1d6+6)  
 **Ranged**  dagger +3 (1d4+4/19–20)  
 **Adept Spells Prepared** (CL 5th; concentration +7)  
-2nd—*bull’s strength*, *mirror image*  
-1st—*cause fear* (DC 13), *command* (DC 13), *cure light wounds*  
-0 (at will)—*ghost sound* (DC 12), *light*, *stabilize*
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[mirror image](../../magic/spells/mirror-image.md)*  
+1st—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 13), *[command* ](../../magic/spells/command.md)(DC 13), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*  
+0 (at will)—*[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 12), *[light](../../magic/spells/light.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Tactics**
 
-**Before Combat** The adept casts *bull’s strength*.  
+**Before Combat** The adept casts *[bull’s strength](../../magic/spells/bulls-strength.md)*.  
 **During Combat** The adept casts *mirror image*, then attacks with his club. If he has trouble landing blows, he switches to his *wand of burning hands*.  
 **Base Statistics** Without *bull’s strength*, the adept’s statistics are **Melee** mwk club +5 (1d6+3); **Ranged** dagger +3 (1d4+2/19–20); **Str** 14; **CMB** +4; **CMD** 15.
 

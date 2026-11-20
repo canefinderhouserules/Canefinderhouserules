@@ -23,10 +23,10 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Ranged**  *Shadowkiss* +54/+49/+44/+39 (1d4+20/17–20 plus poison)  
 **Special Attacks** burn (3d6 fire, DC 44), cruel shot, domination, energy drain, poison, profane ascension, sneak attack +4d6  
 **Spell-Like Abilities** (CL 30th)  
-Constant—*detect good*, *detect law*, *freedom of movement*, *tongues*, *true seeing*, *unholy aura* (DC 33)  
-At will—*astral projection*, *blasphemy* (DC 32), *chaos hammer* (DC 29), *deeper darkness*, *desecrate*, *greater dispel magic*, *greater teleport*, *power word blind*, *telekinesis* (DC 30), *shapechange*, *unhallow*  
-3/day—*finger of death* (DC 32), quickened *mass suggestion* (DC 31), summon demons, *symbol of death* (DC 33)  
-1/day—*soul bind* (DC 34), *time stop*, *wail of the banshee* (DC 34)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[tongues](../../magic/spells/tongues.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura](../../magic/spells/unholy-aura.md)* (DC 33)  
+At will—*[astral projection](../../magic/spells/astral-projection.md)*, *[blasphemy](../../magic/spells/blasphemy.md)* (DC 32), *[chaos hammer](../../magic/spells/chaos-hammer.md)* (DC 29), *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[desecrate](../../magic/spells/desecrate.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[power word blind](../../magic/spells/power-word-blind.md)*, *[telekinesis](../../magic/spells/telekinesis.md)* (DC 30), *[shapechange](../../magic/spells/shapechange.md)*, *[unhallow](../../magic/spells/unhallow.md)*  
+3/day—*[finger of death](../../magic/spells/finger-of-death.md)* (DC 32), quickened *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 31), summon demons, *[symbol of death](../../magic/spells/symbol-of-death.md)* (DC 33)  
+1/day—*[soul bind](../../magic/spells/soul-bind.md)* (DC 34), *[time stop](../../magic/spells/time-stop.md)*, *[wail of the banshee](../../magic/spells/wail-of-the-banshee.md)* (DC 34)
 
 **Statistics**
 

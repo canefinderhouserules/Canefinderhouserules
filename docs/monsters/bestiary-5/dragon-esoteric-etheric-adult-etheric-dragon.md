@@ -23,11 +23,11 @@ N Large dragon (extraplanar)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (80-ft. line, DC 23, 12d8 force), spectral attacks, spirit eater  
 **Psychic Magic** (CL 14th; concentration +17)  
-9 PE—*mage hand* (0 PE), *mind thrust I* (1 PE)  
+9 PE—*[mage hand](../../magic/spells/mage-hand.md)* (0 PE), *[mind thrust I](../../magic/spells/mind-thrust-i.md)* (1 PE)  
  **Psychic Spells Known** (CL 5th; concentration +9)  
- 2nd (5/day)—*blindness/deafness* (DC 15), *false life*  
- 1st (7/day)—*anticipate peril*, *detect thoughts* (DC 14), *magic missile*, *shield*  
- 0 (at-will)—*bleed* (DC 13), *detect magic*, *detect poison*, *ghost sound* (DC 13), *grave words*
+ 2nd (5/day)—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 15), *[false life](../../magic/spells/false-life.md)*  
+ 1st (7/day)—*[anticipate peril](../../magic/spells/anticipate-peril.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 14), *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*  
+ 0 (at-will)—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[grave words](../../magic/spells/grave-words.md)*
 
 **Statistics**
 

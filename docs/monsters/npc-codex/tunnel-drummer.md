@@ -23,12 +23,12 @@ LN Medium humanoid (dwarf)
 **Ranged**  *+1 heavy crossbow* +12 (1d10+1/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, bardic performance 35 rounds/day (swift action; countersong, dirge of doom, distraction, fascinate, frightening tune, inspire competence +4, inspire courage +3, inspire greatness, soothing performance, *suggestion*)  
 **Bard Spells Known** (CL 14th; concentration +19)  
-5th (2/day)—*greater dispel magic*, *mind fog* (DC 20), *song of discord* (DC 20)  
-4th (4/day)—*dimension door*, *greater invisibility*, *hold monster* (DC 19), *shout* (DC 19)  
-3rd (5/day)—*blink*, *confusion* (DC 18), *gaseous form*, *haste* (DC 18), *see invisibility*  
-2nd (6/day)—*alter self*, *glitterdust* (DC 17), *shatter*, *sound burst* (DC 17), *summon swarm*  
-1st (6/day)—*alarm*, *expeditious retreat*, *feather fall*, *grease*, *hideous laughter* (DC 16), *magic mouth*  
-0 (at will)—*detect magic*, *flare* (DC 15), *ghost sound* (DC 15), *light*, *mending*, *prestidigitation*
+5th (2/day)—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[mind fog* ](../../magic/spells/mind-fog.md)(DC 20), *[song of discord* ](../../magic/spells/song-of-discord.md)(DC 20)  
+4th (4/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[hold monster* ](../../magic/spells/hold-monster.md)(DC 19), *[shout* ](../../magic/spells/shout.md)(DC 19)  
+3rd (5/day)—*[blink](../../magic/spells/blink.md)*, *[confusion* ](../../magic/spells/confusion.md)(DC 18), *[gaseous form](../../magic/spells/gaseous-form.md)*, *[haste* ](../../magic/spells/haste.md)(DC 18), *[see invisibility](../../magic/spells/see-invisibility.md)*  
+2nd (6/day)—*[alter self](../../magic/spells/alter-self.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 17), *[shatter](../../magic/spells/shatter.md)*, *[sound burst* ](../../magic/spells/sound-burst.md)(DC 17), *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st (6/day)—*[alarm](../../magic/spells/alarm.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[grease](../../magic/spells/grease.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 16), *[magic mouth](../../magic/spells/magic-mouth.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 15), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 15), *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Tactics**
 

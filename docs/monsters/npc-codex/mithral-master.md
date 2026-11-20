@@ -23,16 +23,16 @@ LG Medium humanoid (elf, human)
 **Melee** *+4 axiomatic longsword* +29/+24/+19/+14 (1d8+9/17–20) or *+1 lance* +26/+21/+16/+11 (1d8+6/19–20/×3)  
 **Special Attacks** channel positive energy (DC 22, 10d6), smite evil 7/day (+3 attack and AC, +19 damage)  
 **Spell-Like Abilities** (CL 19th; concentration +22)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 16th; concentration +19)  
-4th—*death ward*, *neutralize poison*  
-3rd—*daylight*, *greater magic weapon*, *prayer*, *remove blindness*  
-2nd—*delay poison*, *eagle’s splendor* (2), *resist energy*  
-1st—*bless*, *create water*, *divine favor* (2), *lesser restoration*
+4th—*[death ward](../../magic/spells/death-ward.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*  
+3rd—*[daylight](../../magic/spells/daylight.md)*, *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)*, *[prayer](../../magic/spells/prayer.md)*, *[remove blindness](../../magic/spells/remove-blindness-deafness.md)*  
+2nd—*[delay poison](../../magic/spells/delay-poison.md)*, *[eagle’s splendor* ](../../magic/spells/eagles-splendor.md)(2), *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[bless](../../magic/spells/bless.md)*, *[create water](../../magic/spells/create-water.md)*, *[divine favor* ](../../magic/spells/divine-favor.md)(2), *[lesser restoration](../../magic/spells/restoration-lesser.md)*
 
 **Tactics**
 
-**Before Combat** The paladin casts *delay poison* and *resist energy* (fire) on himself and *greater magic weapon* on his longsword.  
+**Before Combat** The paladin casts *[delay poison* ](../../magic/spells/delay-poison.md)and *[resist energy* ](../../magic/spells/resist-energy.md)(fire) on himself and *[greater magic weapon* ](../../magic/spells/magic-weapon-greater.md)on his longsword.  
 **During Combat** The paladin fights on horseback or on foot as the situation warrants. He casts *eagle’s splendor* to enhance his smite evil attacks, but otherwise relies on standard melee tactics and healing himself with lay on hands.  
 **Base Statistics** Without *delay poison*, *greater magic weapon*, and *resist energy* the paladin’s statistics are **Immune** charm, compulsion, disease, fear, sleep; **Resist** none; **Melee** *+1 axiomatic longsword* +26/+21/+16/+11 (1d8+6/17–20).
 

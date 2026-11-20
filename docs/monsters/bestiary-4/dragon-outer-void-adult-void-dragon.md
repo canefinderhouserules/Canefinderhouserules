@@ -23,12 +23,12 @@ NE Huge dragon
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, 12d8 cold, DC 23), crush, obliterate (DC 23), suffocating breath (DC 23), void gaze (DC 23)  
 **Spell-Like Abilities** (CL 16th; concentration +21)  
-At will—*blur*, *ray of enfeeblement* (DC 16), *ray of exhaustion* (DC 18)  
+At will—*[blur](../../magic/spells/blur.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 16), *[ray of exhaustion* ](../../magic/spells/ray-of-exhaustion.md)(DC 18)  
 **Sorcerer Spells Known** (CL 7th; concentration +12)  
-3rd (5/day)—*dispel magic*, *lightning bolt* (DC 18)  
-2nd (7/day)—*invisibility*, *resist energy*, *touch of idiocy* (DC 17)  
-1st (8/day)—*alarm*, *cause fear* (DC 17), *hypnotism* (DC 17), *mage armor*, *obscuring mist*  
-0 (at will)—*detect magic*, *mage hand*, *read magic*, 4 more
+3rd (5/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 18)  
+2nd (7/day)—*[invisibility](../../magic/spells/invisibility.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[touch of idiocy* ](../../magic/spells/touch-of-idiocy.md)(DC 17)  
+1st (8/day)—*[alarm](../../magic/spells/alarm.md)*, *[cause fear* ](../../magic/spells/cause-fear.md)(DC 17), *[hypnotism* ](../../magic/spells/hypnotism.md)(DC 17), *[mage armor](../../magic/spells/mage-armor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*, 4 more
 
 **Statistics**
 

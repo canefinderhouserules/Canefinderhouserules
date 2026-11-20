@@ -23,12 +23,12 @@ CN Small humanoid (gnome)
 **Ranged**  light crossbow +4 (1d6/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids  
 **Spell-Like Abilities** (CL 2nd; concentration +3)  
-1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
  **Arcane School Spell-Like Abilities** (CL 2nd; concentration +4)  
  5/day—dazing touch  
 **Enchanter Spells Prepared** (CL 2nd; concentration +4)  
-1st—*charm person* (DC 13), *color spray* (DC 14), *grease*, *sleep* (DC 13)  
-0 (at will)—*dancing lights*, *ghost sound* (2, DC 13), *mage hand*  
+1st—*[charm person* ](../../magic/spells/charm-person.md)(DC 13), *[color spray* ](../../magic/spells/color-spray.md)(DC 14), *[grease](../../magic/spells/grease.md)*, *[sleep* ](../../magic/spells/sleep.md)(DC 13)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(2, DC 13), *[mage hand](../../magic/spells/mage-hand.md)*  
 **Opposition Schools** abjuration, necromancy
 
 **Tactics**

@@ -23,10 +23,10 @@ N Medium humanoid (human)
 **Ranged**  mwk composite shortbow +10/+5 (1d6+1/×3)  
 **Special Attacks** archaeologist’s luck 7 rounds/day (+2)  
 **Bard Spells Known** (CL 8th; concentration +11)  
-3rd (3/day)—*dispel magic*, *good hope*, *haste*  
-2nd (5/day)—*cure moderate wounds*, *glitterdust* (DC 15), *locate object*, *pilfering hand*  
-1st (5/day)—*animate rope*, *charm person* (DC 14), *comprehend languages*, *detect secret doors*, *grease* (DC 14)  
-0 (at will)—*detect magic*, *know direction*, *mending*, *open/close*, *read magic*, *resistance*
+3rd (3/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[good hope](../../magic/spells/good-hope.md)*, *[haste](../../magic/spells/haste.md)*  
+2nd (5/day)—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 15), *[locate object](../../magic/spells/locate-object.md)*, *[pilfering hand](../../magic/spells/pilfering-hand.md)*  
+1st (5/day)—*[animate rope](../../magic/spells/animate-rope.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[detect secret doors](../../magic/spells/detect-secret-doors.md)*, *[grease* ](../../magic/spells/grease.md)(DC 14)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[mending](../../magic/spells/mending.md)*, *[open/close](../../magic/spells/open-close.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

@@ -22,10 +22,10 @@ CE Large outsider (chaotic, demon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** black flame knives, death-stealing gaze, multiweapon mastery  
 **Spell-Like Abilities** (CL 19th; concentration +27)  
-Constant—*true seeing*  
-At will—*deeper darkness*, *enervation*, *greater teleport* (self plus 50 lbs. of objects only), *telekinesis* (DC 23)  
-3/day—quickened *enervation*, *regenerate*, *silence* (DC 20), *vampiric touch*  
-1/day—mass *hold monster* (DC 27), summon (level 6, 1 marilith 50% or 1d4 glabrezus 75%), *symbol of death* (DC 26)
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[enervation](../../magic/spells/enervation.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 23)  
+3/day—quickened *[enervation](../../magic/spells/enervation.md)*, *[regenerate](../../magic/spells/regenerate.md)*, *[silence* ](../../magic/spells/silence.md)(DC 20), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+1/day—mass *[hold monster](../../magic/spells/hold-monster.md)* (DC 27), summon (level 6, 1 marilith 50% or 1d4 glabrezus 75%), *[symbol of death](../../magic/spells/symbol-of-death.md)* (DC 26)
 
 **Statistics**
 

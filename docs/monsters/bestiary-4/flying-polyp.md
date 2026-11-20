@@ -24,9 +24,9 @@ CE Huge aberration (air)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** constrict (1d8+9), sucking wind, wind blast  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
-At will—*alter winds*, *gust of wind* (DC 17), *whispering wind*, *wind walk*  
-3/day—*control winds* (DC 20), *river of wind* (DC 19), *wind wall*  
-1/day—*control weather*, *whirlwind* (DC 23)
+At will—*[alter winds](../../magic/spells/alter-winds.md)*, *[gust of wind](../../magic/spells/gust-of-wind.md)* (DC 17), *[whispering wind](../../magic/spells/whispering-wind.md)*, *[wind walk](../../magic/spells/wind-walk.md)*  
+3/day—*[control winds](../../magic/spells/control-winds.md)* (DC 20), *[river of wind](../../magic/spells/river-of-wind.md)* (DC 19), *[wind wall](../../magic/spells/wind-wall.md)*  
+1/day—*[control weather](../../magic/spells/control-weather.md)*, *[whirlwind](../../magic/spells/whirlwind.md)* (DC 23)
 
 **Statistics**
 

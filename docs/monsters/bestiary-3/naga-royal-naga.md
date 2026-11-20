@@ -21,13 +21,13 @@ LN Huge aberration (shapechanger)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** bleed (1d6), dual gaze, rend (3 bites, 2d6+9)  
 **Spell-Like Abilities** (CL 9th; concentration +13)  
-Constant—*see invisibility*  
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
 **Spells Known** (CL 9th; concentration +13)  
-4th (5/day)—*arcane eye*, *charm monster* (DC 18)  
-3rd (7/day)—*blink*, *dispel magic*, *suggestion* (DC 17)  
-2nd (7/day)—*enthrall* (DC 16), *hold person* (DC 16), *invisibility*, *scorching ray*  
-1st (7/day)—*charm person* (DC 15), *mage armor*, *magic missile*, *ray of enfeeblement* (DC 15), *shield*  
-0 (at will)—*daze* (DC 14), *detect magic*, *flare* (DC 14), *mage hand*, *message*, *open/close*, *read magic*, *touch of fatigue*
+4th (5/day)—*[arcane eye](../../magic/spells/arcane-eye.md)*, *[charm monster* ](../../magic/spells/charm-monster.md)(DC 18)  
+3rd (7/day)—*[blink](../../magic/spells/blink.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 17)  
+2nd (7/day)—*[enthrall* ](../../magic/spells/enthrall.md)(DC 16), *[hold person* ](../../magic/spells/hold-person.md)(DC 16), *[invisibility](../../magic/spells/invisibility.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (7/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 15), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 15), *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 14), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)*
 
 **Statistics**
 

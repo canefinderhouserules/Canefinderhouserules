@@ -25,9 +25,9 @@ NE Medium undead
 **Spell-Like Abilities** (CL 3rd; concentration +6)  
 6/day - grave touch (1 round)  
 **Spells Prepared** (CL 3rd; concentration +6)  
-2nd — *ghoul touch* (DC 17), *scorching ray*, *spectral hand*  
-1st — *chill touch* (DC 16), *mage armor*, *magic missile*, *ray of enfeeblement* (DC 16)  
-0 (at will) — *detect magic*, *mage hand*, *ray of frost*, *read magic*, *touch of fatigue* (DC 15)  
+2nd — *[ghoul touch](../../magic/spells/ghoul-touch.md)* (DC 17), *[scorching ray](../../magic/spells/scorching-ray.md)*, *[spectral hand](../../magic/spells/spectral-hand.md)*  
+1st — *[chill touch](../../magic/spells/chill-touch.md)* (DC 16), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 16)  
+0 (at will) — *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 15)  
 **Opposition Schools** Enchantment, Illusion
 
 **Statistics**

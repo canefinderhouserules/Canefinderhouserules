@@ -29,13 +29,13 @@ train, look of fear (30 ft., DC 22), spirit
 touch, sudden strike, thorns  
 **Spell-Like Abilities** (CL 12th;
 concentration +17)  
-Constant—*true seeing*  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
 
-At will—*charm person* (DC 16), *detect magic, detect good, greater teleport* (self plus 50 lbs. of objects only), *protection from good*  
+At will—*[charm person](../../magic/spells/charm-person.md)* (DC 16), *detect magic, detect good, greater teleport* (self plus 50 lbs. of objects only), *[protection from good](../../magic/spells/protection-from-good.md)*  
 
-3/day—*blink, calm emotions* (DC 19), *fly*  
+3/day—*blink, calm emotions* (DC 19), *[fly](../../magic/spells/fly.md)*  
 
-1/day—*dominate person* (DC 20), *summon* (level 6, 1 wihsaak 40%)
+1/day—*[dominate person](../../magic/spells/dominate-person.md)* (DC 20), *summon* (level 6, 1 wihsaak 40%)
 
 **Statistics**
 

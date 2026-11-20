@@ -20,8 +20,8 @@ CE Small fey
 **Speed** 30 ft., climb 20 ft.  
 **Melee** bite +3 (1d4+1 plus grab), 2 claws +4 (1d3+1 plus trip)  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-At will—*prestidigitation*  
-1/hour—*heat metal* (DC 13), *shocking grasp*, *snare*
+At will—*[prestidigitation](../../magic/spells/prestidigitation.md)*  
+1/hour—*[heat metal* ](../../magic/spells/heat-metal.md)(DC 13), *[shocking grasp](../../magic/spells/shocking-grasp.md)*, *[snare](../../magic/spells/snare.md)*
 
 **Statistics**
 

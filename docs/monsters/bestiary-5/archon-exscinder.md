@@ -22,10 +22,10 @@ LG Huge outsider (archon, extraplanar, good, lawful)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** censor text  
 **Spell-Like Abilities** (CL 15th; concentration +20)  
-Constant—*detect evil*, *true seeing*  
-At will—*cure light wounds*, *detect thoughts* (DC 17), *discern lies* (DC 19), *hold monster* (DC 20), *holy smite* (DC 19), *invisibility* (self only), *locate creature*, *locate object*, *modify memory* (DC 19), *protection from evil* (DC 16), *repress memory* (DC 21), *stabilize*, *zone of truth* (DC 17)  
-3/day—*dispel evil* (DC 20), *fireball* (DC 18), *flame strike* (DC 20), *plane shift* (DC 20)  
-1/day—*discern location* (DC 23), *find the path* (DC 21)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[discern lies](../../magic/spells/discern-lies.md)* (DC 19), *[hold monster](../../magic/spells/hold-monster.md)* (DC 20), *[holy smite](../../magic/spells/holy-smite.md)* (DC 19), *[invisibility](../../magic/spells/invisibility.md)* (self only), *[locate creature](../../magic/spells/locate-creature.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[modify memory](../../magic/spells/modify-memory.md)* (DC 19), *[protection from evil](../../magic/spells/protection-from-evil.md)* (DC 16), *[repress memory](../../magic/spells/repress-memory.md)* (DC 21), *[stabilize](../../magic/spells/stabilize.md)*, *[zone of truth](../../magic/spells/zone-of-truth.md)* (DC 17)  
+3/day—*[dispel evil](../../magic/spells/dispel-evil.md)* (DC 20), *[fireball* ](../../magic/spells/fireball.md)(DC 18), *[flame strike](../../magic/spells/flame-strike.md)* (DC 20), *[plane shift](../../magic/spells/plane-shift.md)* (DC 20)  
+1/day—*[discern location](../../magic/spells/discern-location.md)* (DC 23), *[find the path](../../magic/spells/find-the-path.md)* (DC 21)
 
 **Statistics**
 

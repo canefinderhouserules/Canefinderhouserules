@@ -23,12 +23,12 @@ LN Medium humanoid (human)
 **Ranged**  mwk composite longbow +17/+12/+7 (1d8+4/×3)  
 **Special Attacks** favored enemy (animals +2, humans +6, orcs +2)  
 **Ranger Spells Prepared** (CL 9th; concentration +10)  
-2nd—*barkskin*, *cat’s grace*, *wind wall*  
-1st—*delay poison*, *longstrider*, *resist energy*
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+1st—*[delay poison](../../magic/spells/delay-poison.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Tactics**
 
-**Before Combat** The ranger casts *barkskin*, *cat’s grace*, *delay poison*, *longstrider*, and *resist energy* (fire).  
+**Before Combat** The ranger casts *[barkskin](../../magic/spells/barkskin.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*, *[delay poison](../../magic/spells/delay-poison.md)*, *[longstrider](../../magic/spells/longstrider.md)*, and *[resist energy* ](../../magic/spells/resist-energy.md)(fire).  
 **During Combat** The ranger attacks with his bow using Deadly Aim. In melee, he uses his kukris or attempts to grapple.  
 **Base Statistics** Without *barkskin*, *cat’s grace*, *delay poison*, *longstrider*, and *resist energy*, the ranger’s statistics are **Init** +6; **Senses** normal; **AC** 20, touch 14, flat-footed 17; **Ref** +11; **Immune** none; **Resist** none; **Speed** 30 ft.; **Ranged** mwk longbow +15/+10/+5 (1d8+4/×3); **Dex** 14; **CMD** 30 (32 vs. grapple); **Skills** Acrobatics +12, Stealth +17.
 

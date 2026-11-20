@@ -22,15 +22,15 @@ N Medium outsider (extraplanar, psychopomp)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with wrappings)  
 **Special Attacks** wrappings  
 **Spell-Like Abilities** (CL 12th; concentration +15)  
-At will—*detect undead*, *stone tell*  
-5/day—*speak with dead*  
+At will—*[detect undead](../../magic/spells/detect-undead.md)*, *[stone tell](../../magic/spells/stone-tell.md)*  
+5/day—*[speak with dead](../../magic/spells/speak-with-dead.md)*  
 3/day—summon  
 **Inquisitor Spells Known** (CL 12th; concentration +15)  
-4th (3)—*cure critical wounds*, *divination*, *freedom of movement*, *spell immunity*  
-3rd (5)—*blood biography* (DC 16), *dimensional anchor*, *dispel magic*, *halt undead* (DC 16)  
-2nd (6)—*confess* (DC 15), *detect thoughts* (DC 15), *hold person* (DC 15), *invisibility*, *see invisibility*  
-1st (6)—*bane* (DC 14), *command* (DC 14), *comprehend languages*, *expeditious retreat*, *sanctuary* (DC 14), *wrath*  
-0—*bleed* (DC 13), *detect magic*, *disrupt undead*, *read magic*, *sift*, *stabilize*
+4th (3)—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[divination](../../magic/spells/divination.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[spell immunity](../../magic/spells/spell-immunity.md)*  
+3rd (5)—*[blood biography](../../magic/spells/blood-biography.md)* (DC 16), *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[halt undead](../../magic/spells/halt-undead.md)* (DC 16)  
+2nd (6)—*[confess](../../magic/spells/confess.md)* (DC 15), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 15), *[hold person](../../magic/spells/hold-person.md)* (DC 15), *[invisibility](../../magic/spells/invisibility.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (6)—*[bane](../../magic/spells/bane.md)* (DC 14), *[command](../../magic/spells/command.md)* (DC 14), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 14), *[wrath](../../magic/spells/wrath.md)*  
+0—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[sift](../../magic/spells/sift.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

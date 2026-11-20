@@ -22,10 +22,10 @@ N Medium outsider (extraplanar, psychopomp, shapechanger)
 **Melee** *Surcease of Sorrows* +43/+38/+33/+28 (2d6+15), bite +43 (2d6+5)  
 **Special Attacks** toss thee here ashore  
 **Spell-Like Abilities** (CL 33rd; concentration +44)  
-Constant—*detect chaos*, *detect evil*, *detect good*, *detect law*, *detect thoughts* (DC 23), *detect undead*, *freedom of movement*, *mage armor*, *true seeing*  
-At will—*beguiling gift* (DC 23), *calm spirit* (DC 23), *dimension door*<sup>M</sup>, *dimensional anchor*, *greater dispel magic*, *greater teleport*, *mage’s magnificent mansion*, *major image* (DC 24), *mirage arcana* (DC 26), *mirror image*<sup>M</sup>  
-3/day—*banishment* (DC 28), empowered *circle of death* (DC 28), *dimensional lock*, *interplanetary teleport* (DC 30), quickened *maze*, empowered *undeath to death* (DC 28)  
- 1/day—*freedom*, *phase door*
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 23), *[detect undead](../../magic/spells/detect-undead.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[beguiling gift](../../magic/spells/beguiling-gift.md)* (DC 23), *[calm spirit](../../magic/spells/calm-spirit.md)* (DC 23), *[dimension door](../../magic/spells/dimension-door.md)*<sup>M</sup>, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[mage’s magnificent mansion](../../magic/spells/mages-magnificent-mansion.md)*, *[major image](../../magic/spells/major-image.md)* (DC 24), *[mirage arcana](../../magic/spells/mirage-arcana.md)* (DC 26), *[mirror image](../../magic/spells/mirror-image.md)*<sup>M</sup>  
+3/day—*[banishment](../../magic/spells/banishment.md)* (DC 28), empowered *[circle of death](../../magic/spells/circle-of-death.md)* (DC 28), *[dimensional lock](../../magic/spells/dimensional-lock.md)*, *[interplanetary teleport](../../magic/spells/interplanetary-teleport.md)* (DC 30), quickened *[maze](../../magic/spells/maze.md)*, empowered *[undeath to death](../../magic/spells/undeath-to-death.md)* (DC 28)  
+ 1/day—*[freedom](../../magic/spells/freedom.md)*, *[phase door](../../magic/spells/phase-door.md)*
 
 **Statistics**
 

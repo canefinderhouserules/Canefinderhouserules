@@ -21,8 +21,8 @@ LE Medium outsider (devil, evil, extraplanar, lawful)
 **Melee** *+1 longsword* +15/+10 (1d8+8/19–20)  
 **Ranged**  *+1 flaming composite longbow* +14/+14/+9 (1d8+6/×3 plus 1d6 fire) or rope +15 touch (entangle)  
 **Spell-Like Abilities** (CL 12th)  
-Constant—*true seeing*  
-At will—*fear* (single target, DC 19), *greater teleport* (self plus 50 lbs. of objects only), *minor image* (DC 17), *unholy blight* (DC 19)  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[fear* ](../../magic/spells/fear.md)(single target, DC 19), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[minor image* ](../../magic/spells/minor-image.md)(DC 17), *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 19)  
 1/day—summon (level 3, 2 bearded devils, 50%)
 
 **Statistics**

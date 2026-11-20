@@ -23,7 +23,7 @@ N Large construct
 **Spell-Like Abilities** (CL 14th; concentration +17)  
 Constant-*ethereal fists*  
 **Psychic Magic** (CL 14th; concentration +17)  
-12 PE—*explode head* (5 PE, DC 18), *mind thrust II* (2 PE, DC 15)
+12 PE—*[explode head](../../magic/spells/explode-head.md)* (5 PE, DC 18), *[mind thrust II](../../magic/spells/mind-thrust-ii.md)* (2 PE, DC 15)
 
 **Statistics**
 

@@ -23,10 +23,10 @@ CE Huge aberration
 **Space** 15 ft., **Reach** 30 ft.  
 **Special Attacks** constrict (1d8+8), overwhelming mind  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*mind blank*  
-At will—*dream*, *insanity* (DC 24), *nightmare* (DC 22), *sending*  
-3/day—*demand* (DC 25)  
-1/day—*gate*
+Constant—*[mind blank](../../magic/spells/mind-blank.md)*  
+At will—*[dream](../../magic/spells/dream.md)*, *[insanity](../../magic/spells/insanity.md)* (DC 24), *[nightmare](../../magic/spells/nightmare.md)* (DC 22), *[sending](../../magic/spells/sending.md)*  
+3/day—*[demand](../../magic/spells/demand.md)* (DC 25)  
+1/day—*[gate](../../magic/spells/gate.md)*
 
 **Statistics**
 

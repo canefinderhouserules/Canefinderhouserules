@@ -23,8 +23,8 @@ N Huge plant
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** enticing head-fruits, intoxicating stench  
 **Spell-Like Abilities** (CL 13th; concentration +15)  
-At will—*share memory* (with a range of 55 feet, targeting the jinmenju and 1 creature in range, DC 14)  
-3/day—*sculpt sound* (DC 15), *shout* (DC 16)
+At will—*[share memory](../../magic/spells/share-memory.md)* (with a range of 55 feet, targeting the jinmenju and 1 creature in range, DC 14)  
+3/day—*[sculpt sound](../../magic/spells/sculpt-sound.md)* (DC 15), *[shout](../../magic/spells/shout.md)* (DC 16)
 
 **Statistics**
 

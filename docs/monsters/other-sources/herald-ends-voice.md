@@ -22,10 +22,10 @@ CN Large outsider (chaotic, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** destructive aura  
 **Spell-Like Abilities** (CL 18th; concentration +24)  
-Constant—*foresight* (self only), *true seeing* (self only)  
-At will—*arcane eye*, quickened *bleed* (DC 16), *hideous laughter* (DC 18), *knock*, *magic missile*, *shatter* (DC 18), *telepathic bond*, *touch of idiocy*, *true strike*  
-5/day—*confusion* (DC 20), *contact other plane* (see below), *feeblemind* (DC 21), *greater teleport* (self plus 50 lbs. of objects only), *mind fog* (DC 21), *nightmare* (DC 21), *phantasmal killer* (DC 21)  
-1/day—*break enchantment*, *disintegrate* (DC 22), *harm* (DC 22), *insanity* (DC 23), *mage’s disjunction* (DC 25), *mass invisibility*, *moment of prescience*, *power word kill*, *weird* (DC 25)
+Constant—*[foresight* ](../../magic/spells/foresight.md)(self only), *[true seeing* ](../../magic/spells/true-seeing.md)(self only)  
+At will—*[arcane eye](../../magic/spells/arcane-eye.md)*, quickened *[bleed* ](../../magic/spells/bleed.md)(DC 16), *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 18), *[knock](../../magic/spells/knock.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shatter* ](../../magic/spells/shatter.md)(DC 18), *[telepathic bond](../../magic/spells/telepathic-bond.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+5/day—*[confusion* ](../../magic/spells/confusion.md)(DC 20), *[contact other plane* ](../../magic/spells/contact-other-plane.md)(see below), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 21), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[mind fog* ](../../magic/spells/mind-fog.md)(DC 21), *[nightmare* ](../../magic/spells/nightmare.md)(DC 21), *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 21)  
+1/day—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 22), *[harm* ](../../magic/spells/harm.md)(DC 22), *[insanity* ](../../magic/spells/insanity.md)(DC 23), *[mage’s disjunction* ](../../magic/spells/mages-disjunction.md)(DC 25), *[mass invisibility](../../magic/spells/invisibility-mass.md)*, *[moment of prescience](../../magic/spells/moment-of-prescience.md)*, *[power word kill](../../magic/spells/power-word-kill.md)*, *[weird* ](../../magic/spells/weird.md)(DC 25)
 
 **Statistics**
 

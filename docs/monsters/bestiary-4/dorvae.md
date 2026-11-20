@@ -21,10 +21,10 @@ NE Medium outsider (evil)
 **Melee** 2 claws +18 (3d8+4/19–20 plus grab)  
 **Special Attacks** writhing snakes  
 **Spell-Like Abilities** (CL 11th; concentration +14)  
-Constant—*see invisibility*  
-At will—*detect thoughts* (DC 15)  
-3/day—*bestow curse* (DC 17), *dimension door*  
-1/day—*feeblemind* (DC 18), *lesser geas* (DC 17)
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 15)  
+3/day—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 17), *[dimension door](../../magic/spells/dimension-door.md)*  
+1/day—*[feeblemind* ](../../magic/spells/feeblemind.md)(DC 18), *[lesser geas* ](../../magic/spells/geas-lesser.md)(DC 17)
 
 **Statistics**
 

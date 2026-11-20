@@ -23,9 +23,9 @@ NE Medium outsider (daemon, evil, extraplanar)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with tongue)  
 **Special Attacks** concussive gasp, constrict (1d6+7), strangle, suffocate, tongue  
 **Spell-Like Abilities** (CL 9th; concentration +12)  
-At will—*death knell* (DC 15), *ghoul touch* (DC 15), *greater teleport* (self plus 50 lbs. of objects only), *ray of enfeeblement* (DC 14)  
-3/day—*stinking cloud* (DC 16), *vampiric touch*  
-1/day—*cloudkill* (DC 18), *summon* (level 4, 1d3 lacridaemons 35%)
+At will—*[death knell](../../magic/spells/death-knell.md)* (DC 15), *[ghoul touch](../../magic/spells/ghoul-touch.md)* (DC 15), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 14)  
+3/day—*[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 16), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+1/day—*[cloudkill](../../magic/spells/cloudkill.md)* (DC 18), *summon* (level 4, 1d3 lacridaemons 35%)
 
 **Statistics**
 

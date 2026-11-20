@@ -24,22 +24,22 @@ CG Large outsider (azata, chaotic, extraplanar, good)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** greater slaying arrow, horned lord’s charge, powerful charge (gore, 4d8+13 and horned lord’s charge), wild shape (as 20th level druid)  
 **Spell-Like Abilities** (CL 20th; concentration +25)  
-Constant—*detect evil*, *detect lies*, *detect poison*, *freedom of movement*, *true seeing*  
-At will—*greater teleport*, *haste**, *true strike**  
-3/day—*break enchantment**, *breath of life**, *dimensional anchor* (DC 19)  
-1/day—*discern location*, *mage’s disjunction** (DC 24), *time stop**  
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *detect lies*, *[detect poison](../../magic/spells/detect-poison.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)*, *[haste](../../magic/spells/haste.md)**, *[true strike](../../magic/spells/true-strike.md)**  
+3/day—*[break enchantment](../../magic/spells/break-enchantment.md)**, *[breath of life](../../magic/spells/breath-of-life.md)**, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)* (DC 19)  
+1/day—*[discern location](../../magic/spells/discern-location.md)*, *[mage’s disjunction](../../magic/spells/mages-disjunction.md)** (DC 24), *[time stop](../../magic/spells/time-stop.md)**  
 * Cernunnos can use the mythic version of this ability in his realm.  
 **Druid Spells Prepared** (CL 20th; concentration +26)  
-9th—*elemental swarm*, *foresight*, *summon nature’s ally IX* (2)  
-8th—*control plants* (DC 24), *repel metal or stone*, *sunburst* (DC 24), *whirlwind* (DC 24)  
-7th—*control weather*, *creeping doom* (DC 23), *heal*, *sunbeam* (DC 23)  
-6th—*antilife shell*, *greater dispel magic* (2), *move earth*, *wall of stone* (DC 22)  
-5th—*atonement*, *baleful polymorph* (DC 21), *deathward*, *transmute rock to mud*, *wall of thorns*  
-4th—*cure serious wounds* (2), *freedom of movement*, *rusting grasp*, *true form* (DC 20)  
-3rd—*call lightning* (DC 19), *cure moderate wounds*, *neutralize poison* (2), *remove disease*  
-2nd—*chill metal* (DC 18), *fog cloud*, *heat metal* (DC 18), *lesser restoration*, *resist energy* (2)  
-1st—*calm animals* (DC 17, 2), *cure light wounds* (2), *pass without trace* (2)  
-0—*create water*, *mending*, *purify food and drink*, *read magic*
+9th—*[elemental swarm](../../magic/spells/elemental-swarm.md)*, *[foresight](../../magic/spells/foresight.md)*, *[summon nature’s ally IX](../../magic/spells/summon-natures-ally-ix.md)* (2)  
+8th—*[control plants](../../magic/spells/control-plants.md)* (DC 24), *[repel metal or stone](../../magic/spells/repel-metal-or-stone.md)*, *[sunburst](../../magic/spells/sunburst.md)* (DC 24), *[whirlwind](../../magic/spells/whirlwind.md)* (DC 24)  
+7th—*[control weather](../../magic/spells/control-weather.md)*, *[creeping doom](../../magic/spells/creeping-doom.md)* (DC 23), *[heal](../../magic/spells/heal.md)*, *[sunbeam](../../magic/spells/sunbeam.md)* (DC 23)  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)* (2), *[move earth](../../magic/spells/move-earth.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)* (DC 22)  
+5th—*[atonement](../../magic/spells/atonement.md)*, *[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 21), *[deathward](../../magic/spells/death-ward.md)*, *[transmute rock to mud](../../magic/spells/transmute-rock-to-mud.md)*, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+4th—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)* (2), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[rusting grasp](../../magic/spells/rusting-grasp.md)*, *[true form](../../magic/spells/true-form.md)* (DC 20)  
+3rd—*[call lightning](../../magic/spells/call-lightning.md)* (DC 19), *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)* (2), *[remove disease](../../magic/spells/remove-disease.md)*  
+2nd—*[chill metal](../../magic/spells/chill-metal.md)* (DC 18), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[heat metal](../../magic/spells/heat-metal.md)* (DC 18), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[resist energy](../../magic/spells/resist-energy.md)* (2)  
+1st—*[calm animals](../../magic/spells/calm-animals.md)* (DC 17, 2), *[cure light wounds](../../magic/spells/cure-light-wounds.md)* (2), *[pass without trace](../../magic/spells/pass-without-trace.md)* (2)  
+0—*[create water](../../magic/spells/create-water.md)*, *[mending](../../magic/spells/mending.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

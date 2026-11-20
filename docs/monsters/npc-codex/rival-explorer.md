@@ -22,17 +22,17 @@ NE Medium humanoid (human, orc)
 **Melee** *+2 sword of life stealing* +19/+14/+9 (1d8+5/17–20)  
 **Special Attacks** bardic performance 43 rounds/day (swift action; countersong, dirge of doom, distraction, fascinate, frightening tune, inspire competence +5, inspire courage +4, inspire greatness, inspire heroics, *mass suggestion*, soothing performance, *suggestion*)  
 **Bard Spells Known** (CL 18th; concentration +23)  
-6th (3/day)—*animate objects*, *find the path*, *greater shout* (DC 21), *sympathetic vibration*  
-5th (5/day)—*greater dispel magic*, *greater heroism*, *shadow evocation* (DC 20), *shadow walk* (DC 20)  
-4th (6/day)—*break enchantment* (DC 19), *cure critical wounds* (DC 19), *freedom of movement*, *shout* (DC 19)  
-3rd (6/day)—*charm monster* (DC 18), *gaseous form*, *haste* (DC 18), *phantom steed*, *remove curse*, *see invisibility*  
-2nd (6/day)—*alter self*, *cat’s grace*, *glitterdust* (DC 17), *silence* (DC 17), *suggestion* (DC 17), *tongues*  
-1st (7/day)—*alarm*, *animate rope*, *detect secret doors*, *expeditious retreat*, *grease*, *undetectable alignment*  
-0 (at will)—*dancing lights*, *detect magic*, *mage hand*, *mending*, *message*, *read magic*
+6th (3/day)—*[animate objects](../../magic/spells/animate-objects.md)*, *[find the path](../../magic/spells/find-the-path.md)*, *[greater shout* ](../../magic/spells/shout-greater.md)(DC 21), *[sympathetic vibration](../../magic/spells/sympathetic-vibration.md)*  
+5th (5/day)—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater heroism](../../magic/spells/heroism-greater.md)*, *[shadow evocation* ](../../magic/spells/shadow-evocation.md)(DC 20), *[shadow walk* ](../../magic/spells/shadow-walk.md)(DC 20)  
+4th (6/day)—*[break enchantment* ](../../magic/spells/break-enchantment.md)(DC 19), *[cure critical wounds* ](../../magic/spells/cure-critical-wounds.md)(DC 19), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[shout* ](../../magic/spells/shout.md)(DC 19)  
+3rd (6/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 18), *[gaseous form](../../magic/spells/gaseous-form.md)*, *[haste* ](../../magic/spells/haste.md)(DC 18), *[phantom steed](../../magic/spells/phantom-steed.md)*, *[remove curse](../../magic/spells/remove-curse.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+2nd (6/day)—*[alter self](../../magic/spells/alter-self.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 17), *[silence* ](../../magic/spells/silence.md)(DC 17), *[suggestion* ](../../magic/spells/suggestion.md)(DC 17), *[tongues](../../magic/spells/tongues.md)*  
+1st (7/day)—*[alarm](../../magic/spells/alarm.md)*, *[animate rope](../../magic/spells/animate-rope.md)*, *[detect secret doors](../../magic/spells/detect-secret-doors.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[grease](../../magic/spells/grease.md)*, *[undetectable alignment](../../magic/spells/undetectable-alignment.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Tactics**
 
-**Before Combat** The bard casts *cat’s grace* and *freedom of movement*.  
+**Before Combat** The bard casts *[cat’s grace* ](../../magic/spells/cats-grace.md)and *[freedom of movement](../../magic/spells/freedom-of-movement.md)*.  
 **During Combat** The bard casts *haste* on herself, and makes hit-and-run attacks.  
 **Base Statistics** Without *cat’s grace*, the bard’s statistics are **Init** +4; **Dex** 18; **Skills** Disable Device +18, Escape Artist +18, Stealth +20.
 

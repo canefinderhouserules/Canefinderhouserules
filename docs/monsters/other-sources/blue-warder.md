@@ -23,11 +23,11 @@ LN Medium humanoid (dwarf)
 **Ranged**  mwk dagger +6 (1d4–1/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids  
 **Abjurer Spells Prepared** (CL 7th; concentration +11)  
-4th—*black tentacles* (2), *stoneskin*  
-3rd—*dispel magic*, *displacement*, *gaseous form*, *stinking cloud* (DC 17)  
-2nd—*glitterdust* (DC 16), *levitate*, *resist energy*, *see invisibility*, *web* (DC 16)  
-1st—*alarm*, *color spray* (DC 15), *magic missile*, *shield*, *shocking grasp*, *unseen servant*  
-0 (at will)—*detect magic*, *light*, *prestidigitation*, *read magic*  
+4th—*[black tentacles](../../magic/spells/black-tentacles.md)* (2), *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[displacement](../../magic/spells/displacement.md)*, *[gaseous form](../../magic/spells/gaseous-form.md)*, *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 17)  
+2nd—*[glitterdust* ](../../magic/spells/glitterdust.md)(DC 16), *[levitate](../../magic/spells/levitate.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[web* ](../../magic/spells/web.md)(DC 16)  
+1st—*[alarm](../../magic/spells/alarm.md)*, *[color spray* ](../../magic/spells/color-spray.md)(DC 15), *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Opposition Schools** enchantment, necromancy
 
 **Statistics**

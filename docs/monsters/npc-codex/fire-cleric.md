@@ -25,13 +25,13 @@ LE Medium humanoid (human)
 **Spell-Like Abilities** (CL 11th; concentration +16)  
 8/day—fire bolt (1d6+5 fire), touch of law  
 **Cleric Spells Prepared** (CL 11th; concentration +16)  
-6th—*blade barrier* (DC 23), *fire seeds*<sup>D</sup>  
-5th—*fire shield*<sup>D</sup>, *flame strike* (2, DC 22), *spell resistance*  
-4th—*air walk*, *cure serious wounds*, *dismissal* (DC 19), *freedom of movement*, *wall of fire*<sup>D</sup>  
-3rd—*cure serious wounds*, *fireball*<sup>D</sup>(DC 20), *glyph of warding*, *invisibility purge*, *searing light*, *water walk*  
-2nd—*cure moderate wounds*, *hold person* (DC 17), *produce flame*<sup>D</sup>, *resist energy* (2, DC 17), *silence* (DC 17)  
-1st—*bless*, *burning hands*<sup>D</sup>(DC 18), *command* (2, DC 16), *cure light wounds*, *endure elements*, *magic weapon*  
-0 (at will)—*bleed* (DC 15), *detect magic*, *guidance*, *virtue*  
+6th—*[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 23), *[fire seeds](../../magic/spells/fire-seeds.md)*<sup>D</sup>  
+5th—*[fire shield](../../magic/spells/fire-shield.md)*<sup>D</sup>, *[flame strike* ](../../magic/spells/flame-strike.md)(2, DC 22), *[spell resistance](../../magic/spells/spell-resistance.md)*  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dismissal* ](../../magic/spells/dismissal.md)(DC 19), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*<sup>D</sup>  
+3rd—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[fireball](../../magic/spells/fireball.md)*<sup>D</sup>(DC 20), *[glyph of warding](../../magic/spells/glyph-of-warding.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[searing light](../../magic/spells/searing-light.md)*, *[water walk](../../magic/spells/water-walk.md)*  
+2nd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*,[ *hold person* ](../../magic/spells/hold-person.md)(DC 17), *[produce flame](../../magic/spells/produce-flame.md)*<sup>D</sup>, *[resist energy* ](../../magic/spells/resist-energy.md)(2, DC 17), *[silence* ](../../magic/spells/silence.md)(DC 17)  
+1st—*[bless](../../magic/spells/bless.md)*, *[burning hands](../../magic/spells/burning-hands.md)*<sup>D</sup>(DC 18), *[command* ](../../magic/spells/command.md)(2, DC 16), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[magic weapon](../../magic/spells/magic-weapon.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **D** Domain spell; **Domains** Fire, Law
 
 **Tactics**

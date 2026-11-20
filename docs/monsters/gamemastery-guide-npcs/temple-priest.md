@@ -24,12 +24,12 @@ LN Medium humanoid
 **Spell-Like Abilities** (CL 9th, concentration +13)  
 7/day—rebuke death, touch of law  
 **Cleric Spells Prepared** (CL 9th, concentration +13)  
-5th—*breath of life*<sup>D</sup>, *righteous might*  
-4th—*air walk*, *freedom of movement*, *order’s wrath*<sup>D</sup> (DC 18), *spell immunity*  
-3rd—*daylight*, *dispel magic*, *magic circle against chaos*<sup>D</sup>, *prayer*, *searing light*  
-2nd—*aid*, *bull’s strength*, *cure moderate wounds*<sup>D</sup>, *delay poison*, *spiritual weapon*, *status*  
-1st—*bless*, *detect chaos*, *divine favor* (2), *protection from chaos*<sup>D</sup>, *shield of faith*  
-0 (at will)—*create water*, *detect magic*, *detect poison*, *stabilize*  
+5th—*[breath of life](../../magic/spells/breath-of-life.md)*<sup>D</sup>, *[righteous might](../../magic/spells/righteous-might.md)*  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[order’s wrath](../../magic/spells/orders-wrath.md)*<sup>D</sup> (DC 18), *[spell immunity](../../magic/spells/spell-immunity.md)*  
+3rd—*[daylight](../../magic/spells/daylight.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic circle against chaos](../../magic/spells/magic-circle-against-chaos.md)*<sup>D</sup>, *[prayer](../../magic/spells/prayer.md)*, *[searing light](../../magic/spells/searing-light.md)*  
+2nd—*[aid](../../magic/spells/aid.md)*, *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*<sup>D</sup>, *[delay poison](../../magic/spells/delay-poison.md)*, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*, *[status](../../magic/spells/status.md)*  
+1st—*[bless](../../magic/spells/bless.md)*, *[detect chaos](../../magic/spells/detect-chaos.md)*, *[divine favor](../../magic/spells/divine-favor.md)* (2), *[protection from chaos](../../magic/spells/protection-from-chaos.md)*<sup>D</sup>, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** domain spell; **Domains** Healing, Law
 
 **Statistics**

@@ -24,10 +24,10 @@ CG Medium humanoid (munavri)
 **Special Attacks** hypnotic stare (–2), mesmerist trick
 4/day (mesmeric mirror), painful stare (+1)  
 **Spell-Like Abilities** (CL 1st; concentration +4)  
-At will—*object reading*  
+At will—*[object reading](../../magic/spells/object-reading.md)*  
 **Mesmerist Spells Known** (CL 1st; concentration +4)  
-1st (2/day)—*demand offering* (DC 14), *thought echo*  
-0 (at will)—*detect magic, mage hand, prestidigitation* (DC 13), *unwitting ally* (DC 13)
+1st (2/day)—*[demand offering](../../magic/spells/demand-offering.md)* (DC 14), *[thought echo](../../magic/spells/thought-echo.md)*  
+0 (at will)—*detect magic, mage hand, prestidigitation* (DC 13), *[unwitting ally](../../magic/spells/unwitting-ally.md)* (DC 13)
 
 **Statistics**
 

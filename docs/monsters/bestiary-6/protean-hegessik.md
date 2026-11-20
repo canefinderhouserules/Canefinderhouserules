@@ -30,10 +30,10 @@ leaching gaze, telekinetic reach,
 warpwave (DC 25)  
 **Spell-Like Abilities** (CL 15th;
 concentration +21)  
-Constant—*detect law*  
-At will—*confusion* (DC 20), *greater dispel magic, greater teleport* (self plus 50 lbs. of objects only), *slow* (DC 19)  
-3/day—*baleful polymorph* (DC 21), *chaos hammer* (DC 20), quickened *displacement*, quickened *mirror image*  
-1/day—*plane shift* (DC 23), *polymorph any object* (DC 24)
+Constant—*[detect law](../../magic/spells/detect-law.md)*  
+At will—*[confusion](../../magic/spells/confusion.md)* (DC 20), *greater dispel magic, greater teleport* (self plus 50 lbs. of objects only), *[slow](../../magic/spells/slow.md)* (DC 19)  
+3/day—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 21), *[chaos hammer](../../magic/spells/chaos-hammer.md)* (DC 20), quickened *[displacement](../../magic/spells/displacement.md)*, quickened *[mirror image](../../magic/spells/mirror-image.md)*  
+1/day—*[plane shift](../../magic/spells/plane-shift.md)* (DC 23), *[polymorph any object](../../magic/spells/polymorph-any-object.md)* (DC 24)
 
 **Statistics**
 

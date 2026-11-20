@@ -21,9 +21,9 @@ NE Medium plant (extraplanar)
 **Melee** 2 slam +10 (1d6+4)  
 **Special Attacks** envelop, poison cloud  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-Constant—*see invisibility*  
-At will—*scare* (DC 15), *scorching ray*  
-3/day—*blur*, *nondetection*
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[scare* ](../../magic/spells/scare.md)(DC 15), *[scorching ray](../../magic/spells/scorching-ray.md)*  
+3/day—*[blur](../../magic/spells/blur.md)*, *[nondetection](../../magic/spells/nondetection.md)*
 
 **Statistics**
 

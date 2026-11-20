@@ -24,30 +24,30 @@ NG Medium humanoid (dwarf)
 **Spell-Like Abilities** (CL 5th; concentration +12)  
 10/day—artificer’s touch (1d6+2), resistant touch  
 **Cleric Spells Prepared** (CL 15th; concentration +22)  
-8th—*greater spell immunity*, *mind blank*<sup>D</sup>  
-7th—*ethereal jaunt*, *holy word* (2, DC 25), *repulsion*<sup>D</sup> (DC 24)  
-6th—*harm* (DC 23), *heal* (2), *heroes’ feast*, *major creation*<sup>D</sup>  
-5th—*breath of life*, *disrupting weapon*, *flame strike* (DC 23), *righteous might*, *spell resistance*<sup>D</sup>, *true seeing*  
-4th—*air walk*, *divine power*, *freedom of movement*, *neutralize poison* (2), *spell immunity*<sup>D</sup>  
-3rd—*invisibility purge*, *meld into stone*, *prayer*, *protection from energy* (2), *remove curse*, *stone shape*<sup>D</sup>  
-2nd—*aid*, *bull’s strength* (2), *hold person* (2, DC 19), *wood shape*<sup>D</sup>  
-1st—*animate rope*<sup>D</sup>, *bless* (2), *divine favor* (2), *shield of faith* (2)  
-0 (at will)—*detect magic*, *mending*, *purify food and drink*, *stabilize*  
+8th—*[greater spell immunity](../../magic/spells/spell-immunity-greater.md)*, *[mind blank](../../magic/spells/mind-blank.md)*<sup>D</sup>  
+7th—*[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[holy word* ](../../magic/spells/holy-word.md)(2, DC 25), *[repulsion](../../magic/spells/repulsion.md)*<sup>D</sup> (DC 24)  
+6th—*[harm* ](../../magic/spells/harm.md)(DC 23), *[heal* ](../../magic/spells/heal.md)(2), *[heroes’ feast](../../magic/spells/heroes-feast.md)*, *[major creation](../../magic/spells/major-creation.md)*<sup>D</sup>  
+5th—*[breath of life](../../magic/spells/breath-of-life.md)*, *[disrupting weapon](../../magic/spells/disrupting-weapon.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(DC 23), *[righteous might](../../magic/spells/righteous-might.md)*, *[spell resistance](../../magic/spells/spell-resistance.md)*<sup>D</sup>, *[true seeing](../../magic/spells/true-seeing.md)*  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[divine power](../../magic/spells/divine-power.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[neutralize poison* ](../../magic/spells/neutralize-poison.md)(2), *[spell immunity](../../magic/spells/spell-immunity.md)*<sup>D</sup>  
+3rd—*[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[meld into stone](../../magic/spells/meld-into-stone.md)*, *[prayer](../../magic/spells/prayer.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(2), *[remove curse](../../magic/spells/remove-curse.md)*, *[stone shape](../../magic/spells/stone-shape.md)*<sup>D</sup>  
+2nd—*[aid](../../magic/spells/aid.md)*, *[bull’s strength* ](../../magic/spells/bulls-strength.md)(2), *[hold person* ](../../magic/spells/hold-person.md)(2, DC 19), *[wood shape](../../magic/spells/wood-shape.md)*<sup>D</sup>  
+1st—*[animate rope](../../magic/spells/animate-rope.md)*<sup>D</sup>, *[bless* ](../../magic/spells/bless.md)(2), *[divine favor* ](../../magic/spells/divine-favor.md)(2), *[shield of faith* ](../../magic/spells/shield-of-faith.md)(2)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[mending](../../magic/spells/mending.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domains** Artifice, Protection  
 **Wizard Spells Prepared** (CL 15th; concentration +21; arcane spell failure 20%)  
-8th—*prismatic wall*  
-7th—*giant form I*, *prismatic spray*  
-6th—*chain lightning* (2, DC 23), *disintegrate* (DC 22), *transformation*  
-5th—*cloudkill* (DC 21), *hold monster* (2, DC 21), *wall of stone* (2)  
-4th—*arcane eye*, *dimension door*, *greater invisibility* (2), *stoneskin*  
-3rd—*fireball* (DC 20), *haste* (2), *heroism*, *suggestion* (DC 19)  
-2nd—*acid arrow*, *invisibility*, *see invisibility* (2), *web* (2, DC 18)  
-1st—*charm person* (DC 17), *magic missile* (3), *shield* (2)  
-0 (at will)—*detect poison*, *disrupt undead*, *mage hand*, *message*
+8th—*[prismatic wall](../../magic/spells/prismatic-wall.md)*  
+7th—*[giant form I](../../magic/spells/giant-form-i.md)*, *[prismatic spray](../../magic/spells/prismatic-spray.md)*  
+6th—*[chain lightning* ](../../magic/spells/chain-lightning.md)(2, DC 23), *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 22), *[transformation](../../magic/spells/transformation.md)*  
+5th—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 21), *[hold monster* ](../../magic/spells/hold-monster.md)(2, DC 21), *[wall of stone* ](../../magic/spells/wall-of-stone.md)(2)  
+4th—*[arcane eye](../../magic/spells/arcane-eye.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[greater invisibility* ](../../magic/spells/invisibility-greater.md)(2), *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd—*[fireball* ](../../magic/spells/fireball.md)(DC 20), *[haste* ](../../magic/spells/haste.md)(2), *[heroism](../../magic/spells/heroism.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 19)  
+2nd—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[see invisibility* ](../../magic/spells/see-invisibility.md)(2), *[web* ](../../magic/spells/web.md)(2, DC 18)  
+1st—*[charm person* ](../../magic/spells/charm-person.md)(DC 17), *[magic missile* ](../../magic/spells/magic-missile.md)(3), *[shield* ](../../magic/spells/shield.md)(2)  
+0 (at will)—*[detect poison](../../magic/spells/detect-poison.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*
 
 **Tactics**
 
-**Before Combat** The mystic theurge casts *heroes’ feast*, *protection from energy* (electricity, fire), *see invisibility*, and *stoneskin*.  
+**Before Combat** The mystic theurge casts *[heroes’ feast](../../magic/spells/heroes-feast.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(electricity, fire), *[see invisibility](../../magic/spells/see-invisibility.md)*, and *[stoneskin](../../magic/spells/stoneskin.md)*.  
 **During Combat** The mystic theurge uses spells to foil opponents and bolster allies. If entering melee combat, he casts *righteous might* and *transformation*.  
 **Base Statistics** Without *heroes’ feast*, *protection from energy*, and *stoneskin*, the mystic theurge’s statistics are **hp** 223; **Will** +22; +2 vs. poison, spells, and spell-like abilities; **DR** none; **Immune** none; **Melee** *+1 holy warhammer* +12/+7 (1d8+1/×3).
 

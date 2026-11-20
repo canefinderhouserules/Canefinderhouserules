@@ -22,10 +22,10 @@ LE Medium outsider (cold, evil, extraplanar, kyton, lawful)
 **Ranged** 4 icicles +23 (1d8+6/19–20/×3 plus 2d6 cold)  
 **Special Attacks** perfect freeze, unnerving gaze (30 ft., DC 21)  
 **Spell-Like Abilities** (CL 13th; concentration +16)  
-Constant—*air walk*  
-At will—*plane shift* (from Material Plane to Shadow Plane only, self only)  
-3/day—*cone of cold* (DC 18), *dimension door*, *ice storm*  
-1/day—*polar ray*
+Constant—*[air walk](../../magic/spells/air-walk.md)*  
+At will—*[plane shift](../../magic/spells/plane-shift.md)* (from Material Plane to Shadow Plane only, self only)  
+3/day—*[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 18), *[dimension door](../../magic/spells/dimension-door.md)*, *[ice storm](../../magic/spells/ice-storm.md)*  
+1/day—*[polar ray](../../magic/spells/polar-ray.md)*
 
 **Statistics**
 

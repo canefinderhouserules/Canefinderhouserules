@@ -22,7 +22,7 @@ LE Large dragon (air)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, DC 17, 6d6 acid)  
 **Spell-Like Abilities** (CL 9th)  
-At will—*entangle* (DC 12)
+At will—*[entangle* ](../../magic/spells/entangle.md)(DC 12)
 
 **Statistics**
 

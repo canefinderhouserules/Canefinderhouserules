@@ -21,10 +21,10 @@ N Medium humanoid (samsaran)
 **Melee** spear –1 (1d6–1)  
 **Ranged**  sling +2 (1d4–1)  
 **Spell-Like Abilities** (CL 1st; concentration +3)  
-1/day—*comprehend languages*, *deathwatch*, *stabilize*  
+1/day—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[deathwatch](../../magic/spells/deathwatch.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **Oracle Spells Known** (CL 1st; concentration +3)  
-1st (4/day)—*command* (DC 13), *cure light wounds*, *sanctuary* (DC 13)  
-0 (at will)—*ghost sound* (DC 12), *guidance*, *light*, *mage hand*, *read magic*, *resistance*  
+1st (4/day)—*[command](../../magic/spells/command.md)* (DC 13), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 13)  
+0 (at will)—*[ghost sound](../../magic/spells/ghost-sound.md)* (DC 12), *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **Mystery** lore
 
 **Statistics**

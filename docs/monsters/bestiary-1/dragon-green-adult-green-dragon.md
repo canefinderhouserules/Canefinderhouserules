@@ -23,11 +23,11 @@ LE Huge dragon (air)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, DC 22, 12d6 acid), crush (Small creatures, DC 22, 2d8+12)  
 **Spell-Like Abilities** (CL 15th)  
-At will—*charm person* (DC 14), *entangle* (DC 14), *suggestion* (DC 16)  
+At will—*[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[entangle* ](../../magic/spells/entangle.md)(DC 14), *[suggestion* ](../../magic/spells/suggestion.md)(DC 16)  
 **Spells Known** (CL 5th)  
-2nd (5/day)—*alter self*, *mirror image*  
-1st (7/day)—*shield*, *silent image* (DC 14), *summon monster I*, *ventriloquism* (DC 14)  
-0 (at will)—*dancing lights*, *detect magic*, *ghost sound*, *mage hand*, *message*, *prestidigitation*
+2nd (5/day)—*[alter self](../../magic/spells/alter-self.md)*, *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (7/day)—*[shield](../../magic/spells/shield.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 14), *[summon monster I](../../magic/spells/summon-monster-i.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 14)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

@@ -22,10 +22,10 @@ CE Tiny magical beast
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** sneak attack +1d6  
 **Spell-Like Abilities** (CL 6th; concentration +7)  
-Constant—*detect magic*, *read magic*, *speak with animals* (rodents only), *spider climb*, *tongues*  
-3/day—*cause fear* (DC 12), *dimension door*, *invisibility* (self only)  
-1/day—*summon swarm* (rat swarm only)  
-1/week—*commune* (only when serving as a familiar; 6 questions, CL 12th)
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)* (rodents only), *[spider climb](../../magic/spells/spider-climb.md)*, *[tongues](../../magic/spells/tongues.md)*  
+3/day—*[cause fear](../../magic/spells/cause-fear.md)* (DC 12), *[dimension door](../../magic/spells/dimension-door.md)*, *[invisibility](../../magic/spells/invisibility.md)* (self only)  
+1/day—*[summon swarm](../../magic/spells/summon-swarm.md)* (rat swarm only)  
+1/week—*[commune](../../magic/spells/commune.md)* (only when serving as a familiar; 6 questions, CL 12th)
 
 **Statistics**
 

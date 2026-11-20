@@ -23,14 +23,14 @@ CG Huge dragon (earth, extraplanar)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, DC 27, 20d4 sonic, DC 27), crush  
 **Spell-Like Abilities** (CL 21st; concentration +29)  
-At will—*color spray* (DC 19), *glitterdust* (DC 20), *rainbow pattern* (DC 22)  
-3/day—*prismatic spray* (DC 25), *stone to flesh* (DC 24)  
+At will—*[color spray](../../magic/spells/color-spray.md)* (DC 19), *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 20), *[rainbow pattern](../../magic/spells/rainbow-pattern.md)* (DC 22)  
+3/day—*[prismatic spray](../../magic/spells/prismatic-spray.md)* (DC 25), *[stone to flesh](../../magic/spells/stone-to-flesh.md)* (DC 24)  
 **Spells Known** (CL 9th; concentration +17)  
-4th (6/day)—*dimension door*, *phantasmal killer* (DC 22)  
-3rd (8/day)—*displacement*, *lightning bolt* (DC 21), *major image* (DC 21)  
-2nd (8/day)—*blindness/deafness* (DC 20), *invisibility*, *minor image* (DC 20), *mirror image*  
-1st (8/day)—*alarm*, *feather fall*, *magic aura*, *silent image* (DC 19), *unseen servant*  
-0 (at will)—*acid splash*, *detect magic*, *detect poison*, *ghost sound*, *mage hand*, *message*, *read magic*, *touch of fatigue*
+4th (6/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 22)  
+3rd (8/day)—*[displacement](../../magic/spells/displacement.md)*, *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 21), *[major image](../../magic/spells/major-image.md)* (DC 21)  
+2nd (8/day)—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 20), *[invisibility](../../magic/spells/invisibility.md)*, *[minor image](../../magic/spells/minor-image.md)* (DC 20), *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (8/day)—*[alarm](../../magic/spells/alarm.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[magic aura](../../magic/spells/magic-aura.md)*, *[silent image](../../magic/spells/silent-image.md)* (DC 19), *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*,[ *touch of fatigue](../../magic/spells/touch-of-fatigue.md)*
 
 **Statistics**
 

@@ -23,9 +23,9 @@ CG Medium outsider (chaotic, extraplanar, good)
 **Ranged**  *+1 anarchic dart* +26/+21/+16/+11 (1d4+9)  
 **Special Attacks** bloody rose, favored enemy (evil outsiders +6, humans +2, lawful outsiders +8, undead +4)  
 **Spell-Like Abilities** (CL 17th; concentration +24)  
-At will—*aid*, *chaos hammer*, *remove fear*, *holy smite*  
-3/day—*cure moderate wounds*, *darkvision*, *dimension door*, *dispel law*, *magic vestment*, *magic weapon*, *neutralize poison*, *peasant armaments* (page 69), *protection from arrows*, *shield other*, *status*  
-1/day—*martyr’s last blessing* (page 69), *mass invisibility*, *telepathic bond*
+At will—*[aid](../../magic/spells/aid.md)*, *[chaos hammer](../../magic/spells/chaos-hammer.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[holy smite](../../magic/spells/holy-smite.md)*  
+3/day—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[darkvision](../../magic/spells/darkvision.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[dispel law](../../magic/spells/dispel-law.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*, *[magic weapon](../../magic/spells/magic-weapon.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[peasant armaments* ](../../magic/spells/peasant-armaments.md)(page 69), *[protection from arrows](../../magic/spells/protection-from-arrows.md)*, *[shield other](../../magic/spells/shield-other.md)*, *[status](../../magic/spells/status.md)*  
+1/day—*[martyr’s last blessing* ](../../magic/spells/martyrs-last-blessing.md)(page 69), *[mass invisibility](../../magic/spells/invisibility-mass.md)*, *[telepathic bond](../../magic/spells/telepathic-bond.md)*
 
 **Statistics**
 

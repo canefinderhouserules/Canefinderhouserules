@@ -26,7 +26,7 @@ poison; **Resist** cold 10, electricity 10, sonic 10; **SR** 18
 Constant—*detect good, detect magic, see invisibility*  
 At will—*dimension door, invisibility, mage hand*  
 3/day—*alter self, blindness/deafness* (DC 18), *blur, inflict pain* (DC 18)  
-1/day—*enervation*
+1/day—*[enervation](../../magic/spells/enervation.md)*
 
 **Statistics**
 

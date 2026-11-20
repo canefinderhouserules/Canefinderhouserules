@@ -22,10 +22,10 @@ NE Tiny outsider (daemon, evil, extraplanar)
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** soul lock  
 **Spell-Like Abilities** (CL 6th; concentration +7)  
-Constant—*detect good*, *detect magic*  
-At will—*invisibility* (self only)  
-3/day—*lesser confusion* (DC 12)  
-1/week—*commune* (CL 12th, six questions)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[invisibility](../../magic/spells/invisibility.md)* (self only)  
+3/day—*[lesser confusion](../../magic/spells/confusion-lesser.md)* (DC 12)  
+1/week—*[commune* ](../../magic/spells/commune.md)(CL 12th, six questions)
 
 **Statistics**
 

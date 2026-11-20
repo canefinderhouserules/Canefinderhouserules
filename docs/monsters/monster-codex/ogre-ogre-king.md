@@ -22,13 +22,13 @@ CE Large humanoid (giant)
 **Melee** *+1 falchion* +22/+17/+12 (2d6+12/15–20)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Oracle Spells Known** (CL 12th; concentration +15)  
-6th (3/day)—*mass bull’s strength*, *mass inflict moderate wounds*, *summon monster VI*  
-5th (5/day)—*breath of life*, *mass inflict light wounds*, *righteous might*, *wall of stone* (DC 18)  
-4th (6/day)—*air walk*, *cure critical wounds*, *greater magic weapon*, *inflict critical wounds*, *wall of fire*  
-3rd (7/day)—*cure serious wounds*, *dispel magic*, *inflict serious wounds*, *magic vestment*, *prayer*  
-2nd (7/day)—*aid*, *bull’s strength*, *cure moderate wounds*, *fog cloud*, *grace*, *inflict moderate wounds*, *resist energy*  
-1st (7/day)—*cure light wounds*, *divine favor*, *enlarge person* (DC 14), *entropic shield*, *inflict light wounds*, *obscuring mist*, *protection from good*  
-0 (at will)—*bleed* (DC 13), *create water*, *detect magic*, *guidance*, *mending*, *purify food and drink*, *spark*, *stabilize*, *virtue*  
+6th (3/day)—*[mass bull’s strength](../../magic/spells/bulls-strength-mass.md)*, *[mass inflict moderate wounds](../../magic/spells/inflict-moderate-wounds-mass.md)*, *[summon monster VI](../../magic/spells/summon-monster-vi.md)*  
+5th (5/day)—*[breath of life](../../magic/spells/breath-of-life.md)*, *[mass inflict light wounds](../../magic/spells/inflict-light-wounds-mass.md)*, *[righteous might](../../magic/spells/righteous-might.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)* (DC 18)  
+4th (6/day)—*[air walk](../../magic/spells/air-walk.md)*, *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)*, *[inflict critical wounds](../../magic/spells/inflict-critical-wounds.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3rd (7/day)—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*, *[prayer](../../magic/spells/prayer.md)*  
+2nd (7/day)—*[aid](../../magic/spells/aid.md)*, *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*, *[grace](../../magic/spells/grace.md)*, *[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st (7/day)—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[enlarge person](../../magic/spells/enlarge-person.md)* (DC 14), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[inflict light wounds](../../magic/spells/inflict-light-wounds.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[mending](../../magic/spells/mending.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[spark](../../magic/spells/spark.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **Mystery** battle
 
 **Tactics**

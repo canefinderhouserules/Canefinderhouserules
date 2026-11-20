@@ -21,8 +21,8 @@ N Small outsider (extraplanar, psychopomp)
 **Melee** cane +10/+5 (1d4+1)  
 **Special Attacks** channel energy 4/day (DC 17, 4d6)  
 **Spell-Like Abilities** (CL 8th; concentration +9)  
-At will—*bleed* (DC 11), *delay poison, detect poison, disrupt undead, resistance, stabilize*  
- 1/day—*accelerate poison* (DC 13), *contagion* (DC 14), *neutralize poison, poison* (DC 14), *remove disease*
+At will—*[bleed](../../magic/spells/bleed.md)* (DC 11), *delay poison, detect poison, disrupt undead, resistance, stabilize*  
+ 1/day—*[accelerate poison](../../magic/spells/accelerate-poison.md)* (DC 13), *[contagion](../../magic/spells/contagion.md)* (DC 14), *neutralize poison, poison* (DC 14), *[remove disease](../../magic/spells/remove-disease.md)*
 
 **Statistics**
 

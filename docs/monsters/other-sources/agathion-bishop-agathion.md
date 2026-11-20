@@ -22,10 +22,10 @@ NG Medium outsider (aquatic, extraplanar, good)
 **Melee** 2 claws +10 (1d10+3)  
 **Special Attacks** stunning strike  
 **Spell-Like Abilities** (CL 4th; concentration +3)  
-Constant—*detect evil*, *speak with animals*  
-At will—*create water*, *dancing lights*, *stabilize*  
-3/day—*bless*, *discern lies*, *remove disease*  
-1/week—*commune* (6 questions, CL 12th)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[create water](../../magic/spells/create-water.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
+3/day—*[bless](../../magic/spells/bless.md)*, *[discern lies](../../magic/spells/discern-lies.md)*, *[remove disease](../../magic/spells/remove-disease.md)*  
+1/week—*[commune* ](../../magic/spells/commune.md)(6 questions, CL 12th)
 
 **Statistics**
 

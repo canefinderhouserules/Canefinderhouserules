@@ -22,10 +22,10 @@ LE Medium undead
 **Melee** *+2 unholy heavy mace* +19/+14 (1d8+10/19–20 plus faith-stealing strike), slam +12 (1d8+5 plus faith-stealing strike) or 2 slams +17 (1d8+8 plus faith-stealing strike)  
 **Special Attacks** faith-stealing strike  
 **Spell-Like Abilities** (CL 10th; concentration +15)  
-Constant—*detect good*, *see invisibility*  
-At will—*burning hands* (DC 16), *disguise self*  
-3/day—*invisibility*, *produce flame*, *unholy blight* (DC 19)  
-1/day—*confusion* (DC 19), *fireball* (DC 18), *nondetection*, *wall of fire*
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[burning hands](../../magic/spells/burning-hands.md)* (DC 16), *[disguise self](../../magic/spells/disguise-self.md)*  
+3/day—*[invisibility](../../magic/spells/invisibility.md)*, *[produce flame](../../magic/spells/produce-flame.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 19)  
+1/day—*[confusion](../../magic/spells/confusion.md)* (DC 19), *[fireball](../../magic/spells/fireball.md)* (DC 18), *[nondetection](../../magic/spells/nondetection.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*
 
 **Statistics**
 

@@ -28,7 +28,7 @@ bite +28 (2d6+9), 2 claws +28 (1d8+9)
 **Spell-Like Abilities** (CL 16th; concentration +21)  
 Constant—*air walk, death ward, speak with animals*  
 3/day—*animal growth, volcanic storm*  
-1/day—*commune with nature, heal, meteor swarm* (DC 24), *summon nature’s ally VIII* (dinosaurs only)
+1/day—*commune with nature, heal, meteor swarm* (DC 24), *[summon nature’s ally VIII](../../magic/spells/summon-natures-ally-viii.md)* (dinosaurs only)
 
 **Statistics**
 

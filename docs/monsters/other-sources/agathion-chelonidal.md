@@ -22,9 +22,9 @@ NG Medium outsider (agathion, aquatic, extraplanar, good)
 **Ranged** *+2 cold iron trident* +13 (1d8+4)  
 **Special Attacks** none shall pass  
 **Spell-Like Abilities** (CL 9th; concentration +12)  
-Constant—*see invisibility*, *speak with animals*  
-At will—*create water*, *dimension door*, *hydraulic torrent*  
-3/day—*dimensional anchor*, *shield other*
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[create water](../../magic/spells/create-water.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[hydraulic torrent](../../magic/spells/hydraulic-torrent.md)*  
+3/day—*[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[shield other](../../magic/spells/shield-other.md)*
 
 **Statistics**
 

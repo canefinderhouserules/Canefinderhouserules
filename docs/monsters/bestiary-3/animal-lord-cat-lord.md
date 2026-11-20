@@ -23,11 +23,11 @@ NG Medium outsider (native, shapechanger)
 **Ranged**  *+1 seeking composite longbow* +18/+13 (1d8+6/×3)  
 **Special Attacks** favored enemy (evil outsiders +6, giants +2, undead +2), pounce, rake (2 claws +15, 1d3+5)  
 **Spell-Like Abilities** (CL 10th; concentration +12)  
-At will—*charm animal* (cats only, DC 13)  
+At will—*[charm animal* ](../../magic/spells/charm-animal.md)(cats only, DC 13)  
 **Ranger Spells Prepared** (CL 7th; concentration +11)  
-3rd—*greater magic fang*  
-2nd—*cat’s grace*, *hold animal* (DC 16)  
-1st—*charm animal* (DC 15), *longstrider*, *pass without trace*
+3rd—*[greater magic fang](../../magic/spells/magic-fang-greater.md)*  
+2nd—*[cat’s grace](../../magic/spells/cats-grace.md)*, *[hold animal* ](../../magic/spells/hold-animal.md)(DC 16)  
+1st—*[charm animal* ](../../magic/spells/charm-animal.md)(DC 15), *[longstrider](../../magic/spells/longstrider.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*
 
 **Statistics**
 

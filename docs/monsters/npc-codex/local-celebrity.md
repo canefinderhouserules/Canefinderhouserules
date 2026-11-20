@@ -22,8 +22,8 @@ LE Medium humanoid (human)
 **Ranged**  dagger +3 (1d4–1/19–20)  
 **Special Attacks** bardic performance 10 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +1)  
 **Bard Spells Known** (CL 3rd; concentration +5)  
-1st (4/day)—*charm person* (DC 14), *cure light wounds* (DC 13), *hypnotism* (DC 14), *sleep* (DC 14)  
-0 (at will)—*daze* (DC 13), *detect magic*, *light*, *lullaby* (DC 13), *mage hand*, *resistance*
+1st (4/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(DC 13), *[hypnotism* ](../../magic/spells/hypnotism.md)(DC 14), *[sleep* ](../../magic/spells/sleep.md)(DC 14)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[lullaby* ](../../magic/spells/lullaby.md)(DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Tactics**
 

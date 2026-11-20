@@ -22,16 +22,16 @@ CE Medium humanoid (boggard)
 **Melee** *+1 morningstar* +15/+10 (1d8+5), tongue +8 touch (sticky tongue)  
 **Special Attacks** channel negative energy 5/day (DC 17, 5d6), scythe of evil (5 rounds, 1/day), terrifying croak (DC 15)  
 **Spell-Like Abilities** (CL 13th; concentration +15)  
-1/day—*fog cloud*, *jump*, *summon swarm*  
+1/day—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[jump](../../magic/spells/jump.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*  
 **Domain Spell-Like Abilities** (CL 10th; concentration +15)  
 8/day—icicle (1d6+5 cold), touch of evil (5 rounds)  
 **Cleric Spells Prepared** (CL 10th; concentration +15)  
-5th—*dispel good*<sup>D</sup> (DC 20), *insect plague*, *righteous might*, *slay living* (DC 20)  
-4th—*control water*<sup>D</sup>, *cure critical wounds*, *divine power*, *freedom of movement*, *unholy blight* (DC 19)  
-3rd—*bestow curse* (DC 18), *dispel magic*, *invisibility purge*, *magic circle against good*<sup>D</sup>, *magic vestment*  
-2nd—*bear’s endurance*, *death knell* (DC 17), *enthrall* (DC 17), *fog cloud*<sup>D</sup>, *resist energy*, *sound burst* (DC 17)  
-1st—*bane* (DC 16), *bless*, *cure light wounds*, *divine favor*, *protection from good*<sup>D</sup>, *sanctuary* (DC 16), *shield of faith*  
-0 (at will)—*create water*, *detect poison*, *guidance*, *purify food and water*  
+5th—*[dispel good](../../magic/spells/dispel-good.md)*<sup>D</sup> (DC 20), *[insect plague](../../magic/spells/insect-plague.md)*, *[righteous might](../../magic/spells/righteous-might.md)*, *[slay living](../../magic/spells/slay-living.md)* (DC 20)  
+4th—*[control water](../../magic/spells/control-water.md)*<sup>D</sup>, *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[divine power](../../magic/spells/divine-power.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 19)  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*<sup>D</sup>, *[magic vestment](../../magic/spells/magic-vestment.md)*  
+2nd—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[death knell](../../magic/spells/death-knell.md)* (DC 17), *[enthrall](../../magic/spells/enthrall.md)* (DC 17), *[fog cloud](../../magic/spells/fog-cloud.md)*<sup>D</sup>, *[resist energy](../../magic/spells/resist-energy.md)*, *[sound burst](../../magic/spells/sound-burst.md)* (DC 17)  
+1st—*[bane](../../magic/spells/bane.md)* (DC 16), *[bless](../../magic/spells/bless.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*<sup>D</sup>, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 16), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[purify food and water](../../magic/spells/purify-food-and-drink.md)*  
 **D** domain spell; **Domains** Evil, Water
 
 **Tactics**

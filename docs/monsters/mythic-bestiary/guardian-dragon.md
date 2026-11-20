@@ -23,10 +23,10 @@ N Gargantuan dragon (aquatic, mythic)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** agonizing venom, breath weapon (60-ft. cone, 2d4 Con damage from poison, Fortitude DC 33 half, usable every 1d4 rounds), constrict (2d8+21), fast swallow, lingering poisonous cloud, mythic power (10/day, surge +1d12), poison, swallow whole (6d6 bludgeoning damage plus poison, AC 25, 52 hp)  
 **Spell-Like Abilities** (CL 26th; concentration +33)  
-Constant—*detect magic*, *detect scrying*  
-At will—*discern location*, *false vision* (see aura of security), *fog cloud*, *greater dispel magic*, *locate object*, *major curse* (DC 22), *persuasive goad* (DC 18)  
-3/day—*geas/quest* (DC 23), *leashed shackles* (DC 21), *maze*, *plant growth*, *spell turning*, *wall of stone*, *wall of thorns*  
-1/day—*breath of life*, *dimensional lock*, *limited wish* (DC 24), *mage’s disjunction* (DC 26), *plane shift*, *word of recall*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect scrying](../../magic/spells/detect-scrying.md)*  
+At will—*[discern location](../../magic/spells/discern-location.md)*, *[false vision](../../magic/spells/false-vision.md)* (see aura of security), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[major curse](../../magic/spells/bestow-curse-greater.md)* (DC 22), *[persuasive goad](../../magic/spells/persuasive-goad.md)* (DC 18)  
+3/day—*[geas/quest](../../magic/spells/geas-quest.md)* (DC 23), *[leashed shackles](../../magic/spells/leashed-shackles.md)* (DC 21), *[maze](../../magic/spells/maze.md)*, *[plant growth](../../magic/spells/plant-growth.md)*, *[spell turning](../../magic/spells/spell-turning.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+1/day—*[breath of life](../../magic/spells/breath-of-life.md)*, *[dimensional lock](../../magic/spells/dimensional-lock.md)*, *[limited wish](../../magic/spells/limited-wish.md)* (DC 24), *[mage’s disjunction](../../magic/spells/mages-disjunction.md)* (DC 26), *[plane shift](../../magic/spells/plane-shift.md)*, *[word of recall](../../magic/spells/word-of-recall.md)*
 
 **Statistics**
 

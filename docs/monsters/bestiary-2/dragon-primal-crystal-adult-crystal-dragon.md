@@ -23,10 +23,10 @@ CG Large dragon (earth, extraplanar)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, 12d4 sonic, DC 21)  
 **Spell-Like Abilities** (CL 13th; concentration +18)  
-At will—*color spray* (DC 17), *glitterdust* (DC 18), *rainbow pattern* (DC 20)  
+At will—*[color spray](../../magic/spells/color-spray.md)* (DC 17), *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 18), *[rainbow pattern](../../magic/spells/rainbow-pattern.md)* (DC 20)  
 **Spells Known** (CL 1st; concentration +7)  
-1st (5/day)—*shield*, *unseen servant*  
-0 (at will)—*acid splash*, *detect magic*, *ghost sound*, *read magic*
+1st (5/day)—*[shield](../../magic/spells/shield.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

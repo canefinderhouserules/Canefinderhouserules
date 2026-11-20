@@ -24,12 +24,12 @@ LG Huge dragon (fire)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, DC 25, 12d10 fire), crush, weakening breath  
 **Spell-Like Abilities** (CL 18th)  
-At will—*bless*, *daylight*, *detect evil*  
+At will—*[bless](../../magic/spells/bless.md)*, *[daylight](../../magic/spells/daylight.md)*, *[detect evil](../../magic/spells/detect-evil.md)*  
 **Spells Known** (CL 7th)  
-3rd (5/day)—*dispel magic*, *prayer*  
-2nd (7/day)—*aid*, *cure moderate wounds* (DC 17), *resist energy*  
-1st (7/day)—*alarm*, *divine favor*, *mage armor*, *shield*, *shield of faith*  
-0 (at will)—*detect magic*, *light*, *mending*, *stabilize*, 3 more
+3rd (5/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[prayer](../../magic/spells/prayer.md)*  
+2nd (7/day)—*[aid](../../magic/spells/aid.md)*, *[cure moderate wounds* ](../../magic/spells/cure-moderate-wounds.md)(DC 17), *[resist energy](../../magic/spells/resist-energy.md)*  
+1st (7/day)—*[alarm](../../magic/spells/alarm.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[shield](../../magic/spells/shield.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[stabilize](../../magic/spells/stabilize.md)*, 3 more
 
 **Statistics**
 

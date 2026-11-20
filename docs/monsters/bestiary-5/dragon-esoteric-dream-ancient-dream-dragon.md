@@ -23,16 +23,16 @@ N Gargantuan dragon (extraplanar)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. cone, DC 29, 20d6), crush, sleeping breath 3/day, tail sweep  
 **Psychic Magic** (CL 25th; concentration +33)  
-19 PE—*dream* (4 PE), *dream travel* (5 PE), *euphoric cloud* (2 PE, DC 21), *invisibility* (2 PE), *lullaby* (0 PE, DC 19), *mirror strike* (1 PE), *thought shield II*  
+19 PE—*[dream* ](../../magic/spells/dream.md)(4 PE), *[dream travel](../../magic/spells/dream-travel.md)* (5 PE), *[euphoric cloud* ](../../magic/spells/euphoric-cloud.md)(2 PE, DC 21), *[invisibility* ](../../magic/spells/invisibility.md)(2 PE), *[lullaby](../../magic/spells/lullaby.md)* (0 PE, DC 19), *[mirror strike](../../magic/spells/mirror-strike.md)* (1 PE), *[thought shield II](../../magic/spells/thought-shield-ii.md)*  
  **Psychic Spells Known** (CL 15th; concentration +22)  
- 7th (5/day)—*limited wish*, *waves of exhaustion*  
- 6th (7/day)—*cloak of dreams* (DC 23), *dream council*, *mental barrier V*  
- 5th (7/day)—*dismissal* (DC 22), *major creation*, *wall of force*, *waves of fatigue*  
- 4th (7/day)—*anti-incorporeal shell*, *dimension door*, *freedom of movement*  
- 3rd (8/day)—*clairaudience/clairvoyance*, *deep slumber* (DC 20), *displacement*, *purge spirit*  
- 2nd (8/day)—*aversion*, *augury*, *blindness/deafness* (DC 19), *calm emotions* (DC 19), *mind thrust II*  
- 1st (8/day)—*blurred movement*, *color spray* (DC 18), *shield*, *sleep* (DC 18), *true strike*  
- 0 (at will)—*arcane mark*, *dancing light*, *detect magic*, *daze* (DC 17), *ghost sound* (DC 17), *mage hand*, *mending*, *message*, *resistance*
+ 7th (5/day)—*[limited wish](../../magic/spells/limited-wish.md)*, *[waves of exhaustion](../../magic/spells/waves-of-exhaustion.md)*  
+ 6th (7/day)—*[cloak of dreams](../../magic/spells/cloak-of-dreams.md)* (DC 23), *[dream council](../../magic/spells/dream-council.md)*, *[mental barrier V](../../magic/spells/mental-barrier-v.md)*  
+ 5th (7/day)—*[dismissal* ](../../magic/spells/dismissal.md)(DC 22), *[major creation](../../magic/spells/major-creation.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*, *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*  
+ 4th (7/day)—*[anti-incorporeal shell](../../magic/spells/anti-incorporeal-shell.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+ 3rd (8/day)—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[deep slumber](../../magic/spells/deep-slumber.md)* (DC 20), *[displacement](../../magic/spells/displacement.md)*, *[purge spirit](../../magic/spells/purge-spirit.md)*  
+ 2nd (8/day)—*[aversion](../../magic/spells/aversion.md)*, *[augury](../../magic/spells/augury.md)*, *[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 19), *[calm emotions](../../magic/spells/calm-emotions.md)* (DC 19), *[mind thrust II](../../magic/spells/mind-thrust-ii.md)*  
+ 1st (8/day)—*[blurred movement](../../magic/spells/blurred-movement.md)*, *[color spray](../../magic/spells/color-spray.md)* (DC 18), *[shield](../../magic/spells/shield.md)*, *[sleep* ](../../magic/spells/sleep.md)(DC 18), *[true strike](../../magic/spells/true-strike.md)*  
+ 0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[dancing light](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[daze](../../magic/spells/daze.md)* (DC 17), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 17), *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

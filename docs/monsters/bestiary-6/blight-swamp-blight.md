@@ -23,7 +23,7 @@ LE Medium ooze (aquatic, blight)
 **Space** 5 ft., **Reach** 15 ft.  
 **Special Attacks** unquiet bog  
 **Spell-Like Abilities** (CL 17th; concentration +24)  
-1/day—*blight* (DC 22), *command plants* (DC 21), *dominate monster* (animals and magical beasts only, DC 26), *greater curse terrain, hallucinatory terrain* (DC 21), *insect plague*
+1/day—*[blight](../../magic/spells/blight.md)* (DC 22), *[command plants](../../magic/spells/command-plants.md)* (DC 21), *[dominate monster](../../magic/spells/dominate-monster.md)* (animals and magical beasts only, DC 26), *greater curse terrain, hallucinatory terrain* (DC 21), *[insect plague](../../magic/spells/insect-plague.md)*
 
 **Statistics**
 

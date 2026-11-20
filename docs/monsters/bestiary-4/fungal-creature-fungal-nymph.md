@@ -22,13 +22,13 @@ CG Medium plant (augmented fey)
 **Melee** slam +8 (1d4+3)  
 **Special Attacks** create spawn, poison spore cloud (DC 20), stunning glance (DC 21)  
 **Spell-Like Abilities** (CL 8th; concentration +15)  
-1/day—*dimension door*  
+1/day—*[dimension door](../../magic/spells/dimension-door.md)*  
 **Druid Spells Prepared** (CL 7th; concentration +10)  
-4th—*command plants* (DC 17)  
-3rd—*call lightning* (DC 16), *speak with plants*, *spike growth* (DC 16)  
-2nd—*chill metal* (DC 15), *flame blade*, *resist energy*, *summon swarm*  
-1st—*entangle* (DC 14), *faerie fire*, *obscuring mist*, *pass without trace*, *produce flame*  
-0—*detect magic*, *guidance*, *resistance*, *virtue*
+4th—*[command plants](../../magic/spells/command-plants.md)* (DC 17)  
+3rd—*[call lightning](../../magic/spells/call-lightning.md)* (DC 16), *[speak with plants](../../magic/spells/speak-with-plants.md)*, *[spike growth](../../magic/spells/spike-growth.md)* (DC 16)  
+2nd—*[chill metal](../../magic/spells/chill-metal.md)* (DC 15), *[flame blade](../../magic/spells/flame-blade.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st—*[entangle](../../magic/spells/entangle.md)* (DC 14), *[faerie fire](../../magic/spells/faerie-fire.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[produce flame](../../magic/spells/produce-flame.md)*  
+0—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[resistance](../../magic/spells/resistance.md)*, *[virtue](../../magic/spells/virtue.md)*
 
 **Statistics**
 

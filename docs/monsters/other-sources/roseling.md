@@ -22,8 +22,8 @@ NG Small plant (extraplanar, shapechanger)
 **Ranged**  4 thorns +13 (1d4+5 plus euphoria)  
 **Special Attacks** euphoria  
 **Spell-Like Abilities** (CL 7th; concentration +12)  
-Constant—*pass without trace*, *speak with plants*  
-At will—*remove fear*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*, *[speak with plants](../../magic/spells/speak-with-plants.md)*  
+At will—*[remove fear](../../magic/spells/remove-fear.md)*
 
 **Statistics**
 

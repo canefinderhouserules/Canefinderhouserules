@@ -22,10 +22,10 @@ CE Gargantuan outsider (chaotic, demon, evil, extraplanar)
 **Space** 20 ft., **Reach** 20 ft. (30 ft. with tail slap)  
 **Special Attacks** paralyzing gaze, rend (2 claws, 2d6+18)  
 **Spell-Like Abilities** (CL 15th; concentration +18)  
-Constant—*detect good*, *fly*, *true seeing*  
-At will—*greater teleport* (self plus 50 lbs. of objects only), *invisibility*, *telekinesis* (DC 18)  
-3/day—*clairaudience/clairvoyance*, *mass inflict serious wounds* (DC 20), *prying eyes*  
-1/day—*blasphemy* (DC 20), summon (level 5, 1 shemhazian 30% or 1d4 vrocks 60%)
+Constant—*[detect good](../../magic/spells/detect-good.md)*,[ *fly](../../magic/spells/fly.md)*,[ *true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[invisibility](../../magic/spells/invisibility.md)*, *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 18)  
+3/day—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[mass inflict serious wounds](../../magic/spells/inflict-serious-wounds-mass.md)* (DC 20), *[prying eyes](../../magic/spells/prying-eyes.md)*  
+1/day—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 20), summon (level 5, 1 shemhazian 30% or 1d4 vrocks 60%)
 
 **Statistics**
 

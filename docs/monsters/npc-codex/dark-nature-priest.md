@@ -25,16 +25,16 @@ NE Small humanoid (halfling)
 **Spell-Like Abilities** (CL 18th; concentration +23)  
 8/day—wooden fist  
 **Druid Spells Prepared** (CL 18th; concentration +23)  
-9th—*mass cure critical wounds*, *shambler*<sup>D</sup>  
-8th—*control plants*<sup>D</sup>(DC 23), *whirlwind* (2, DC 23), *word of recall*  
-7th—*animate plants*<sup>D</sup>, *fire storm* (DC 22), *heal*, *true seeing*  
-6th—empowered *flame strike* (2, DC 19), *greater dispel magic*, *mass cat’s grace*, *repel wood*<sup>D</sup>  
-5th—*animal growth* (DC 20), *baleful polymorph* (DC 20), *control winds* (DC 20), *stoneskin* (2), *wall of thorns*<sup>D</sup>  
-4th—*command plants*<sup>D</sup>(DC 19), *cure serious wounds*, *flame strike* (2, DC 19), *freedom of movement*, *spike stones* (DC 19)  
-3rd—*dominate animal* (DC 18), *greater magic fang* (2), *plant growth*<sup>D</sup>, *protection from energy* (2)  
-2nd—*barkskin*<sup>D</sup>(3), *fog cloud*, *hold animal* (DC 17), *spider climb*  
-1st—*cure light wounds*, *entangle*<sup>D</sup>(DC 16), *faerie fire* (2), *obscuring mist*, *shillelagh*, *speak with animals*  
-0 (at will)—*know direction*, *light*, *read magic*, *stabilize*  
+9th—*[mass cure critical wounds](../../magic/spells/cure-critical-wounds-mass.md)*, *[shambler](../../magic/spells/shambler.md)*<sup>D</sup>  
+8th—*[control plants](../../magic/spells/control-plants.md)*<sup>D</sup>(DC 23), *[whirlwind* ](../../magic/spells/whirlwind.md)(2, DC 23), *[word of recall](../../magic/spells/word-of-recall.md)*  
+7th—*[animate plants](../../magic/spells/animate-plants.md)*<sup>D</sup>, *[fire storm* ](../../magic/spells/fire-storm.md)(DC 22), *[heal](../../magic/spells/heal.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+6th—empowered *[flame strike* ](../../magic/spells/flame-strike.md)(2, DC 19), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[mass cat’s grace](../../magic/spells/cats-grace-mass.md)*, *[repel wood](../../magic/spells/repel-wood.md)*<sup>D</sup>  
+5th—*[animal growth* ](../../magic/spells/animal-growth.md)(DC 20), *[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 20), *[control winds* ](../../magic/spells/control-winds.md)(DC 20), *[stoneskin* ](../../magic/spells/stoneskin.md)(2), *[wall of thorns](../../magic/spells/wall-of-thorns.md)*<sup>D</sup>  
+4th—*[command plants](../../magic/spells/command-plants.md)*<sup>D</sup>(DC 19), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(2, DC 19), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[spike stones* ](../../magic/spells/spike-stones.md)(DC 19)  
+3rd—*[dominate animal* ](../../magic/spells/dominate-animal.md)(DC 18), *[greater magic fang* ](../../magic/spells/magic-fang-greater.md)(2), *[plant growth](../../magic/spells/plant-growth.md)*<sup>D</sup>, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(2)  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*<sup>D</sup>(3), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[hold animal* ](../../magic/spells/hold-animal.md)(DC 17), *[spider climb](../../magic/spells/spider-climb.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[entangle](../../magic/spells/entangle.md)*<sup>D</sup>(DC 16), *[faerie fire* ](../../magic/spells/faerie-fire.md)(2), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shillelagh](../../magic/spells/shillelagh.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[know direction](../../magic/spells/know-direction.md)*, *[light](../../magic/spells/light.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domain** Plant
 
 **Tactics**

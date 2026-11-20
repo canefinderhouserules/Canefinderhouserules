@@ -23,8 +23,8 @@ NE Large outsider (native)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** pounce, rake (2 claws, 1d4+7), smite good 1/day  
 **Spell-Like Abilities** (CL 5th; concentration +5)  
-3/day—*darkness*  
-1/day—*desecrate*, *unholy blight* (DC 14)
+3/day—*[darkness](../../magic/spells/darkness.md)*  
+1/day—*[desecrate](../../magic/spells/desecrate.md)*, *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 14)
 
 **Statistics**
 

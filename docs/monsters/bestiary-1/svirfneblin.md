@@ -23,8 +23,8 @@ N Small humanoid (gnome)
 **Ranged**  light crossbow +4 (1d6/19–20)  
 **Special Attacks** favored enemy (dwarf +2), +1 to attack vs. dwarven and reptilian humanoids  
 **Spell-Like Abilities** (CL 1st)  
-Constant—*nondetection*  
-1/day—*blindness/deafness* (DC 12), *blur*, *disguise self*
+Constant—*[nondetection](../../magic/spells/nondetection.md)*  
+1/day—*[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 12), *[blur](../../magic/spells/blur.md)*, *[disguise self](../../magic/spells/disguise-self.md)*
 
 **Statistics**
 

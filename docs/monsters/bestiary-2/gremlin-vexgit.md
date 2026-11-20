@@ -22,8 +22,8 @@ LE Tiny fey
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** speedy sabotage, wrecking crew  
 **Spell-Like Abilities** (CL 1st; concentration +1)  
-At will—*prestidigitation*  
-1/hour—*rusting grasp*, *snare*
+At will—*[prestidigitation](../../magic/spells/prestidigitation.md)*  
+1/hour—*[rusting grasp](../../magic/spells/rusting-grasp.md)*, *[snare](../../magic/spells/snare.md)*
 
 **Statistics**
 

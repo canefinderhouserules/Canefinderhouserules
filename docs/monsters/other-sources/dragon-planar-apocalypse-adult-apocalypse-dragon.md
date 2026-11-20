@@ -23,10 +23,10 @@ NE Huge dragon (evil, extraplanar)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** blight coils, breath weapon (50-ft. cone, 12d6 cold plus disease, DC 25), constrict (2d8+18), crush, virulence  
 **Oracle Spells Known** (CL 7th; concentration +12)  
-3rd (5/day)—*bestow curse* (DC 18), *contagion* (DC 18)  
-2nd (7/day)—*aid*, *darkness*, *disfiguring touch* (DC 17)  
-1st (8/day)—*doom* (DC 16), *endure elements*, *obscuring mist*, *protection from good*, *ray of sickening* (DC 16)  
-0 (at will)—*bleed* (DC 15), *detect magic*, *detect poison*, *guidance*, *light*, *read magic*, *spark*
+3rd (5/day)—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *[contagion](../../magic/spells/contagion.md)* (DC 18)  
+2nd (7/day)—*[aid](../../magic/spells/aid.md)*, *[darkness](../../magic/spells/darkness.md)*, *[disfiguring touch](../../magic/spells/disfiguring-touch.md)* (DC 17)  
+1st (8/day)—*[doom](../../magic/spells/doom.md)* (DC 16), *[endure elements](../../magic/spells/endure-elements.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*, *[ray of sickening](../../magic/spells/ray-of-sickening.md)* (DC 16)  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[spark](../../magic/spells/spark.md)*
 
 **Statistics**
 

@@ -24,10 +24,10 @@ N Medium humanoid (human, orc)
 **Spell-Like Abilities** (CL 6th; concentration +10)  
 7/day—diviner's fortune (+3)  
 **Diviner Spells Prepared** (CL 6th; concentration +10)  
-3rd—*clairaudience/clairvoyance*, *deep slumber* (DC 18), *haste* (DC 17), *hold person* (DC 18)  
-2nd—*flaming sphere* (DC 16), *fox’s cunning*, *pyrotechnics* (DC 16), *see invisibility*, *touch of idiocy*  
-1st—*charm person* (DC 16), *detect undead*, *mage armor*, *magic missile*, *shield*  
-0 (at will)—*dancing lights*, *detect magic*, *detect poison*, *message*  
+3rd—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 18), *[haste* ](../../magic/spells/haste.md)(DC 17), *[hold person* ](../../magic/spells/hold-person.md)(DC 18)  
+2nd—*[flaming sphere* ](../../magic/spells/flaming-sphere.md)(DC 16), *[fox’s cunning](../../magic/spells/foxs-cunning.md)*, *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 16), *[see invisibility](../../magic/spells/see-invisibility.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1st—*[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[detect undead](../../magic/spells/detect-undead.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[message](../../magic/spells/message.md)*  
 **Opposition Schools** illusion, necromancy
 
 **Tactics**

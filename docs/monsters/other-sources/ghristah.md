@@ -23,10 +23,10 @@ NE Medium humanoid (reptilian)
 **Ranged**  mwk javelin +9 (1d6+2)  
 **Special Attacks** wild shape 2/day  
 **Hunter Spells Known** (CL 7th; concentration +8)  
-3rd (1/day)—*poison* (DC 14), *stone shape*, *summon nature’s ally III*  
-2nd (3/day)—*chill metal* (DC 13), *protection from energy*, *spider climb*, *summon nature’s ally II*, *summon swarm*  
-1st (5/day)—*entangle* (DC 12), *magic fang*, *obscuring mist*, *speak with animals*, *summon nature’s ally I*, *thorn javelin*  
-0 (at will)—*create water*, *detect poison*, *guidance*, *purify food and drink* (DC 11), *resistance*, *spark* (DC 11)
+3rd (1/day)—*[poison](../../magic/spells/poison.md)* (DC 14), *[stone shape](../../magic/spells/stone-shape.md)*, *[summon nature’s ally III](../../magic/spells/summon-natures-ally-iii.md)*  
+2nd (3/day)—*[chill metal](../../magic/spells/chill-metal.md)* (DC 13), *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[spider climb](../../magic/spells/spider-climb.md)*, *[summon nature’s ally II](../../magic/spells/summon-natures-ally-ii.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st (5/day)—*[entangle](../../magic/spells/entangle.md)* (DC 12), *[magic fang](../../magic/spells/magic-fang.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*, *[summon nature’s ally I](../../magic/spells/summon-natures-ally-i.md)*, *[thorn javelin](../../magic/spells/thorn-javelin.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)* (DC 11), *[resistance](../../magic/spells/resistance.md)*, *[spark](../../magic/spells/spark.md)* (DC 11)
 
 **Statistics**
 

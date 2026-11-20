@@ -25,14 +25,14 @@ CN Small humanoid (gnome)
 **Spell-Like Abilities** (CL 13th; concentration +18)  
 8/day—icicle  
 **Druid Spells Prepared** (CL 13th; concentration +18)  
-7th—*creeping doom* (DC 23), *elemental body IV*<sup>D</sup>(water only)  
-6th—*antilife shell*, *cone of cold*<sup>D</sup>(2, DC 21)  
-5th—*call lightning storm* (DC 20), *cure critical wounds* (2), *ice storm*<sup>D</sup>, *stoneskin*  
-4th—*cure serious wounds*, *control weather*<sup>D</sup>, *dispel magic*, *flame strike* (DC 19), *freedom of movement*, *spike stones* (DC 19)  
-3rd—*greater magic fang*, *protection from energy*, *quench*, *sleet storm*, *speak with plants*, *water breathing*<sup>D</sup>  
-2nd—*barkskin* (2), *cat’s grace* (2), *fog cloud*<sup>D</sup>, *spider climb*  
-1st—*cure light wounds*, *endure elements*, *faerie fire*, *longstrider*, *obscuring mist*<sup>D</sup>, *pass without trace*, *speak with animals*  
-0 (at will)—*flare* (DC 15), *guidance*, *light*, *stabilize*  
+7th—*[creeping doom* ](../../magic/spells/creeping-doom.md)(DC 23), *[elemental body IV](../../magic/spells/elemental-body-iv.md)*<sup>D</sup>(water only)  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, *[cone of cold](../../magic/spells/cone-of-cold.md)*<sup>D</sup>(2, DC 21)  
+5th—*[call lightning storm* ](../../magic/spells/call-lightning-storm.md)(DC 20), *[cure critical wounds* ](../../magic/spells/cure-critical-wounds.md)(2), *[ice storm](../../magic/spells/ice-storm.md)*<sup>D</sup>, *[stoneskin](../../magic/spells/stoneskin.md)*  
+4th—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[control weather](../../magic/spells/control-weather.md)*<sup>D</sup>, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(DC 19), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[spike stones* ](../../magic/spells/spike-stones.md)(DC 19)  
+3rd—*[greater magic fang](../../magic/spells/magic-fang-greater.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[quench](../../magic/spells/quench.md)*, *[sleet storm](../../magic/spells/sleet-storm.md)*, *[speak with plants](../../magic/spells/speak-with-plants.md)*, *[water breathing](../../magic/spells/water-breathing.md)*<sup>D</sup>  
+2nd—*[barkskin* ](../../magic/spells/barkskin.md)(2), *[cat’s grace* ](../../magic/spells/cats-grace.md)(2), *[fog cloud](../../magic/spells/fog-cloud.md)*<sup>D</sup>, *[spider climb](../../magic/spells/spider-climb.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*<sup>D</sup>, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[flare* ](../../magic/spells/flare.md)(DC 15), *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domain** Water
 
 **Tactics**

@@ -22,10 +22,10 @@ NE Large dragon
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, 6d8 cold, DC 18), obliterate (DC 18), suffocating breath (DC 18)  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-At will—*ray of enfeeblement* (DC 14)  
+At will—*[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 14)  
 **Sorcerer Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*hypnotism* (DC 15), *mage armor*  
-0 (at will)—*detect magic*, *mage hand*, *message*, *read magic*
+1st (4/day)—*[hypnotism* ](../../magic/spells/hypnotism.md)(DC 15), *[mage armor](../../magic/spells/mage-armor.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

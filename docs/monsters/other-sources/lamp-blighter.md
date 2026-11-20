@@ -22,9 +22,9 @@ CE Small fey
 **Ranged** *+1 shortbow* +13 (1d4–1/×3)  
 **Special Attacks** eye pluck, special arrows  
 **Spell-Like Abilities** (CL 10th; concentration +12)  
-Constant—*detect chaos*, *detect evil*, *detect good*, *detect law*  
-At will—*darkness*  
-1/day—*dancing lights*, *deeper darkness*, *detect thoughts* (DC 14), *disguise self*, *dispel magic*, *entangle* (DC 13), *shield*
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*  
+At will—*[darkness](../../magic/spells/darkness.md)*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 14), *[disguise self](../../magic/spells/disguise-self.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[entangle](../../magic/spells/entangle.md)* (DC 13), *[shield](../../magic/spells/shield.md)*
 
 **Statistics**
 

@@ -25,10 +25,10 @@ CE Gargantuan monstrous humanoid (air, chaotic, cold, evil, Great Old One)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** arctic dreams, create wendigo, howl, mythic power (10/day, surge +1d12)  
 **Spell-Like Abilities** (CL 28th; concentration +38)  
-Constant—*air walk*, *true seeing*  
-At will—*control weather*<sup>M</sup> (as druid), *control winds*, *dimension door*<sup>M</sup>, *dream*<sup>M</sup>, *gust of wind*<sup>M</sup> (DC 22), *ice storm*<sup>M</sup>, *nightmare*<sup>M</sup> (DC 25), *whispering wind*, *wind walk* (DC 36; see page 83)  
-3/day—*demand* (DC 28), quickened *feeblemind* (DC 25), quickened *gust of wind*<sup>M</sup> (DC 22), summon (level 9, 2d4 wendigos 100%)  
-1/day—*interplanetary teleport* (arctic regions only), *storm of vengeance*<sup>M</sup> (DC 29), *whirlwind*<sup>M</sup> (DC 28)
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[control weather](../../magic/spells/control-weather.md)*<sup>M</sup> (as druid), *[control winds](../../magic/spells/control-winds.md)*, *[dimension door](../../magic/spells/dimension-door.md)*<sup>M</sup>, *[dream](../../magic/spells/dream.md)*<sup>M</sup>, *[gust of wind](../../magic/spells/gust-of-wind.md)*<sup>M</sup> (DC 22), *[ice storm](../../magic/spells/ice-storm.md)*<sup>M</sup>, *[nightmare](../../magic/spells/nightmare.md)*<sup>M</sup> (DC 25), *[whispering wind](../../magic/spells/whispering-wind.md)*, *[wind walk](../../magic/spells/wind-walk.md)* (DC 36; see page 83)  
+3/day—*[demand](../../magic/spells/demand.md)* (DC 28), quickened *[feeblemind](../../magic/spells/feeblemind.md)* (DC 25), quickened *[gust of wind](../../magic/spells/gust-of-wind.md)*<sup>M</sup> (DC 22), summon (level 9, 2d4 wendigos 100%)  
+1/day—*[interplanetary teleport](../../magic/spells/interplanetary-teleport.md)* (arctic regions only), *[storm of vengeance](../../magic/spells/storm-of-vengeance.md)*<sup>M</sup> (DC 29), *[whirlwind](../../magic/spells/whirlwind.md)*<sup>M</sup> (DC 28)
 
 **Statistics**
 

@@ -21,9 +21,9 @@ CE Tiny outsider (chaotic, demon, evil, extraplanar)
 **Melee** 2 claws +7 (1d3–1 plus poison), bite +7 (1d4–1)  
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 6th)  
-At will—*detect good*, *detect magic*, *invisibility* (self only)  
-1/day—*cause fear* (30-foot radius, DC 11)  
-1/week—*commune* (six questions)
+At will—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[invisibility* ](../../magic/spells/invisibility.md)(self only)  
+1/day—*[cause fear* ](../../magic/spells/cause-fear.md)(30-foot radius, DC 11)  
+1/week—*[commune* ](../../magic/spells/commune.md)(six questions)
 
 **Statistics**
 

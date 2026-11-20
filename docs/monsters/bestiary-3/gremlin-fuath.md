@@ -23,8 +23,8 @@ CE Tiny fey (aquatic)
 **Ranged**  dart +3 (1d2–2)  
 **Special Attacks** congeal water  
 **Spell-Like Abilities** (CL 1st; concentration +0)  
-At will—*create water*, *prestidigitation*  
-1/day—*sleep* (DC 10)
+At will—*[create water](../../magic/spells/create-water.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*  
+1/day—*[sleep* ](../../magic/spells/sleep.md)(DC 10)
 
 **Statistics**
 

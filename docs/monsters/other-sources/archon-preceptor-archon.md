@@ -22,7 +22,7 @@ LG Medium outsider (archon, extraplanar, good, lawful)
 **Melee** +1 holy quarterstaff +17/+12 (1d6+12)  
 **Special Attacks** psychic ambush  
 **Spell-Like Abilities** (CL 9th; concentration +13)  
-Constant—*detect evil, nondetection*At will—*greater teleport* (self plus 50 lbs. of objects only), *invisibility* (self only), *veil* (self only) (DC 20)3/day—*instigate psychic duel* (DC 16), *magic circle against evil, plane shift, seek thoughts* (DC 17), *sending, shout* (DC 18)1/day—*greater create mindscape* (DC 21), *vision* (creatures only)
+Constant—*detect evil, nondetection*At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[invisibility](../../magic/spells/invisibility.md)* (self only), *[veil](../../magic/spells/veil.md)* (self only) (DC 20)3/day—*[instigate psychic duel](../../magic/spells/instigate-psychic-duel.md)* (DC 16), *magic circle against evil, plane shift, seek thoughts* (DC 17), *sending, shout* (DC 18)1/day—*[greater create mindscape](../../magic/spells/create-mindscape-greater.md)* (DC 21), *[vision](../../magic/spells/vision.md)* (creatures only)
 
 **Statistics**
 

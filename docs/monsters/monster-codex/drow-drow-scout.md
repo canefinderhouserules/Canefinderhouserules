@@ -24,7 +24,7 @@ CE Medium humanoid (elf)
 **Ranged**  mwk shortbow +6 (1d6/×3 plus poison)  
 **Special Attacks** sneak attack +1d6  
 **Spell-Like Abilities** (CL 2nd, concentration +2)  
-1/day—*dancing lights*, *darkness*, *faerie fire*
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[darkness](../../magic/spells/darkness.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*
 
 **Statistics**
 

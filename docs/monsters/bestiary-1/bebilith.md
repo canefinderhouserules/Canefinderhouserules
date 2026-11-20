@@ -22,7 +22,7 @@ CE Huge outsider (chaotic, evil, extraplanar)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** dismantle armor, penetrating strike, web (+11 ranged, DC 23, 12 hp)  
 **Spell-Like Abilities** (CL 12th)  
-At will—*plane shift* (bebilith only)
+At will—*[plane shift* ](../../magic/spells/plane-shift.md)(bebilith only)
 
 **Statistics**
 

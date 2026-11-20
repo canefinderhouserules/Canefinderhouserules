@@ -21,7 +21,7 @@ N Small plant (leshy)
 **Melee** 2 slams +4 (1d4+1)  
 **Special Attacks** launch needle  
 **Spell-Like Abilities** (CL 6; concentration +6)  
-Constant—*pass without trace*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*
 
 **Statistics**
 

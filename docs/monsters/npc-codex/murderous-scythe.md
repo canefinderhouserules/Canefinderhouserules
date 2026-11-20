@@ -24,9 +24,9 @@ NE Medium humanoid (elf, human)
 **Spell-Like Abilities** (CL 4th; concentration +6)  
 5/day—wooden fist  
 **Druid Spells Prepared** (CL 4th; concentration +6)  
-2nd—*barkskin*<sup>D</sup>, *resist energy* (DC 14), *spider climb*, *tree shape*  
-1st—*entangle*<sup>D</sup> (DC 13), *faerie fire* (2), *longstrider*, *obscuring mist*  
-0 (at will)—*detect magic*, *guidance*, *light*, *know direction*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*<sup>D</sup>, *[resist energy* ](../../magic/spells/resist-energy.md)(DC 14), *[spider climb](../../magic/spells/spider-climb.md)*, *[tree shape](../../magic/spells/tree-shape.md)*  
+1st—*[entangle](../../magic/spells/entangle.md)*<sup>D</sup> (DC 13), *[faerie fire* ](../../magic/spells/faerie-fire.md)(2), *[longstrider](../../magic/spells/longstrider.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[know direction](../../magic/spells/know-direction.md)*  
 **Domain** Plant
 
 **Tactics**

@@ -22,10 +22,10 @@ CE Medium fey
 **Melee** bite +17 (1d6+8 plus blood drain), 4 claws +18 (1d4+8 plus grab)  
 **Special Attacks** blood drain (1d2 Constitution)  
 **Spell-Like Abilities** (CL 12th; concentration +18)  
-Constant—*greater magic fang* (self only)  
- At will—*command undead* (DC 18), *invisibility*, *ray of enfeeblement* (DC 19)  
- 3/day—*charm monster* (DC 20), quickened *invisibility*, quickened *ray of enfeeblement* (DC 19), *ray of exhaustion*, *vampiric touch*  
- 1/day—*mirage arcana* (DC 21), *veil* (self only), *waves of fatigue*, *wind walk*
+Constant—*[greater magic fang](../../magic/spells/magic-fang-greater.md)* (self only)  
+ At will—*[command undead](../../magic/spells/command-undead.md)* (DC 18), *[invisibility](../../magic/spells/invisibility.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 19)  
+ 3/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 20), quickened *[invisibility](../../magic/spells/invisibility.md)*, quickened *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 19), *[ray of exhaustion](../../magic/spells/ray-of-exhaustion.md)*, *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+ 1/day—*[mirage arcana](../../magic/spells/mirage-arcana.md)* (DC 21), *[veil](../../magic/spells/veil.md)* (self only), *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*, *[wind walk](../../magic/spells/wind-walk.md)*
 
 **Statistics**
 

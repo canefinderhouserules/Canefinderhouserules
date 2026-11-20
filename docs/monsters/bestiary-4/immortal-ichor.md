@@ -20,8 +20,8 @@ NE Medium ooze (extraplanar)
 **Speed** 20 ft., fly 20 ft. (average)  
 **Melee** slam +21 (6d6+7 plus 1d3 Wis drain)  
 **Spell-Like Abilities** (CL 17th; concentration +22)  
-At will—*charm person* (DC 18), *detect thoughts* (DC 17), *summon swarm*, *telekinesis* (DC 20)  
-3/day—*charm monster* (DC 19), quickened *charm person* (DC 18), *control undead* (DC 22), *creeping doom* (DC 22), *insect plague*, *mind fog* (DC 20), *nightmare* (DC 20)
+At will—*[charm person](../../magic/spells/charm-person.md)* (DC 18), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[summon swarm](../../magic/spells/summon-swarm.md)*, *[telekinesis](../../magic/spells/telekinesis.md)* (DC 20)  
+3/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 19), quickened *[charm person](../../magic/spells/charm-person.md)* (DC 18), *[control undead](../../magic/spells/control-undead.md)* (DC 22), *[creeping doom](../../magic/spells/creeping-doom.md)* (DC 22), *[insect plague](../../magic/spells/insect-plague.md)*, *[mind fog](../../magic/spells/mind-fog.md)* (DC 20), *[nightmare](../../magic/spells/nightmare.md)* (DC 20)
 
 **Statistics**
 

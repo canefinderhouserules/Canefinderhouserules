@@ -22,9 +22,9 @@ CE Large outsider (native, water)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** powerful tentacles, synesthetic masterpiece (DC 20)  
 **Spell-Like Abilities** (CL 11th; concentration +16)  
-At will—*hydraulic push*, *mage hand*, *prestidigitation*  
-3/day—*aqueous orb* (DC 18), quickened *hydraulic push*, *hydraulic torrent* (DC 18)  
-1/day—*cone of cold* (DC 20), *major creation*, *telekinesis* (DC 20)
+At will—*[hydraulic push](../../magic/spells/hydraulic-push.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*  
+3/day—*[aqueous orb](../../magic/spells/aqueous-orb.md)* (DC 18), quickened *[hydraulic push](../../magic/spells/hydraulic-push.md)*, *[hydraulic torrent](../../magic/spells/hydraulic-torrent.md)* (DC 18)  
+1/day—*[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 20), *[major creation](../../magic/spells/major-creation.md)*, *[telekinesis](../../magic/spells/telekinesis.md)* (DC 20)
 
 **Statistics**
 

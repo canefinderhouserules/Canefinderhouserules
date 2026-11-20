@@ -23,7 +23,7 @@ NE Medium humanoid (elf)
 **Ranged**  mwk composite longbow +9 (1d8+2/×3)  
 **Special Attacks** combat style (two-weapon), favored enemy (humans +2)  
 **Ranger Spells Prepared** (CL 1st; concentration +2)  
-1st—*entangle* (DC 12)
+1st—*[entangle* ](../../magic/spells/entangle.md)(DC 12)
 
 **Statistics**
 

@@ -23,13 +23,13 @@ N Medium humanoid (human)
 **Ranged**  *+1 shock shortbow* +18/+13/+8/+3 (1d6+1/×3 plus 1d6 electricity)  
 **Special Attacks** bardic performance 28 rounds/day (countersong, dirge of doom, distraction, epic tales, fascinate, greater epic tales, inspire action [standard], inspire competence +4, inspire courage +3, inspire greatness, soothing performance, suggestion, whispering campaign), rage (24 rounds/day), rage powers (clear mind, moment of clarity, renewed vigor)  
 **Bard Spells Known** (CL 4th; concentration +6)  
-2nd (2/day)—*mirror image*, *rage*  
-1st (4/day)—*expeditious retreat*, *feather fall*, *remove fear*, *unseen servant*  
-0 (at will)—*dancing lights*, *know direction*, *mage hand*, *mending*, *message*, *prestidigitation*
+2nd (2/day)—*[mirror image](../../magic/spells/mirror-image.md)*, *[rage](../../magic/spells/rage.md)*  
+1st (4/day)—*[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Tactics**
 
-**During Combat** The Pathfinder chronicler casts *mirror image* on herself, uses bardic performance to aid her allies, and shoots arrows at her foes. When raging, she uses *moment of clarity* to cast spells when necessary.  
+**During Combat** The Pathfinder chronicler casts *[mirror image* ](../../magic/spells/mirror-image.md)on herself, uses bardic performance to aid her allies, and shoots arrows at her foes. When raging, she uses *moment of clarity* to cast spells when necessary.  
 **Base Statistics** When not raging, the Pathfinder chronicler’s statistics are **AC** 25, touch 15, flat-footed 23; **hp** 241; **Fort** +18, **Will** +15; **Melee** *+1 shock handaxe* +22/+17/+12/+7 (1d6+5/19–20/×3 plus 1d6 electricity); **Str** 18, **Con** 18; **CMB** +20; **Skills** Climb +17, Swim +12.
 
 **Statistics**

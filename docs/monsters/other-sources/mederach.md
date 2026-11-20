@@ -22,10 +22,10 @@ CG Large outsider (chaotic, extraplanar, good)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** poison, web (+11 ranged, DC 20, 12 hp)  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-Constant—*detect evil*  
-At will—*plane shift* (self only)  
-3/day—*calm emotions* (DC 16), *glitterdust* (DC 16)  
-1/day—*break enchantment* (DC 18), *hold monster* (DC 18)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*  
+At will—*[plane shift](../../magic/spells/plane-shift.md)* (self only)  
+3/day—*[calm emotions](../../magic/spells/calm-emotions.md)* (DC 16), *[glitterdust](../../magic/spells/glitterdust.md)* (DC 16)  
+1/day—*[break enchantment](../../magic/spells/break-enchantment.md)* (DC 18), *[hold monster](../../magic/spells/hold-monster.md)* (DC 18)
 
 **Statistics**
 

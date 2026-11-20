@@ -31,10 +31,10 @@ memory loss effects, petrification, poison; **Resist** acid 30; **SR** 40
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** casterbane, corrupting caress, perceive destiny  
 **Spell-Like Abilities** (CL 29th; concentration +40)  
-Constant—*air walk, detect chaos, detect good, mind blank, shield of law* (DC 29), *true seeing*  
-At will—*astral projection, black tentacles*<sup>M</sup>, *desecrate*<sup>M</sup>, *dictum*<sup>M</sup> (DC 28), *greater dispel magic, greater teleport, mindwipe* (DC 25), *modify memory*<sup>M</sup> (DC 25), *order’s wrath*<sup>M</sup> (DC 25), *unhallow, wall of ice*  
-3/day—*feeblemind* (DC 26), *quickened mindwipe* (DC 25), *mislead, persistent image* (DC 26), *summon devils, vision*  
-1/day—*prediction of failure* (DC 29), *time stop*<sup>M</sup>, *wish*<sup>M</sup>  
+Constant—*air walk, detect chaos, detect good, mind blank, shield of law* (DC 29), *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*astral projection, black tentacles*<sup>M</sup>, *[desecrate](../../magic/spells/desecrate.md)*<sup>M</sup>, *[dictum](../../magic/spells/dictum.md)*<sup>M</sup> (DC 28), *greater dispel magic, greater teleport, mindwipe* (DC 25), *[modify memory](../../magic/spells/modify-memory.md)*<sup>M</sup> (DC 25), *[order’s wrath](../../magic/spells/orders-wrath.md)*<sup>M</sup> (DC 25), *unhallow, wall of ice*  
+3/day—*[feeblemind](../../magic/spells/feeblemind.md)* (DC 26), *[quickened mindwipe](../../magic/spells/mindwipe.md)* (DC 25), *mislead, persistent image* (DC 26), *summon devils, vision*  
+1/day—*[prediction of failure](../../magic/spells/prediction-of-failure.md)* (DC 29), *[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 <sup>M</sup> Geryon can use this ability’s mythic version in its realm.
 
 **Statistics**

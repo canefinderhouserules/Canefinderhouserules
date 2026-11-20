@@ -20,8 +20,8 @@ LE Medium outsider (goblinoid, native, oni, shapechanger)
 **Melee** mwk tetsubo +11/+6 (1d10+6/x4)  
 **Ranged**  longbow +8/+3 (1d8/3)  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-3/day—*command* (DC 13), *doom* (DC 13), *fly*, *magic weapon*  
-1/day—*bull’s strength*
+3/day—*[command* ](../../magic/spells/command.md)(DC 13), *[doom* ](../../magic/spells/doom.md)(DC 13), *[fly](../../magic/spells/fly.md)*, *[magic weapon](../../magic/spells/magic-weapon.md)*  
+1/day—*[bull’s strength](../../magic/spells/bulls-strength.md)*
 
 **Statistics**
 

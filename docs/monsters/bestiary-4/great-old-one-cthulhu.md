@@ -23,10 +23,10 @@ CE Colossal aberration (chaotic, evil, Great Old One)
 **Space** 40 ft., **Reach** 40 ft.  
 **Special Attacks** cleaving claws, constrict (3d6+23), dreams of madness, mythic power (10/day, surge +1d12), powerful blows (tentacle), tentacles, trample (2d8+30, DC 51)  
 **Spell-Like Abilities** (CL 30th; concentration +42)  
-Constant—*freedom of movement*, *true seeing*  
-At will—*astral projection*, *control weather*<sup>M</sup>, *dream*<sup>M</sup>, *greater dispel magic*, *greater teleport*, *insanity* (DC 29), *nightmare*<sup>M</sup> (DC 29), *sending*<sup>M</sup>  
-3/day—*antipathy* (DC 30), *demand* (DC 30), quickened *feeblemind*, *gate*, *weird* (DC 31)  
-1/day—*implosion* (DC 31), summon (level 9, 2d4 star-spawn of Cthulhu 100%), *symbol of insanity* (DC 30), *wish*<sup>M</sup>
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[astral projection](../../magic/spells/astral-projection.md)*, *[control weather](../../magic/spells/control-weather.md)*<sup>M</sup>, *[dream](../../magic/spells/dream.md)*<sup>M</sup>, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[insanity](../../magic/spells/insanity.md)* (DC 29), *[nightmare](../../magic/spells/nightmare.md)*<sup>M</sup> (DC 29), *[sending](../../magic/spells/sending.md)*<sup>M</sup>  
+3/day—*[antipathy](../../magic/spells/antipathy.md)* (DC 30), *[demand](../../magic/spells/demand.md)* (DC 30), quickened *[feeblemind](../../magic/spells/feeblemind.md)*, *[gate](../../magic/spells/gate.md)*, *[weird](../../magic/spells/weird.md)* (DC 31)  
+1/day—*[implosion](../../magic/spells/implosion.md)* (DC 31), summon (level 9, 2d4 star-spawn of Cthulhu 100%), *[symbol of insanity](../../magic/spells/symbol-of-insanity.md)* (DC 30), *[wish](../../magic/spells/wish.md)*<sup>M</sup>
 
 **Statistics**
 

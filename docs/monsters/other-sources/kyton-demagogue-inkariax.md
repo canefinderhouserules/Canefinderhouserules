@@ -23,11 +23,11 @@ LE Colossal outsider (evil, extraplanar, kyton, lawful)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** bloody icicles, freezing blast, unnerving gaze (120 ft., DC 32)  
 **Spell-Like Abilities** (CL 20th; concentration +28)  
-Constant—*discern lies*, *freedom of movement*, *true seeing*  
-At will—*chill metal*, *plane shift* (self only), *water breathing*  
-7/day—*dimension door*  
-5/day—*cone of cold* (DC 23), *freezing sphere* (DC 24), *ice storm*, *wall of ice* (DC 22)  
-3/day—*imprisonment* (DC 27), *polar ray*, *soul bind* (DC 27), summon (level 5, 3 evangelist kytons 85%)
+Constant—*[discern lies](../../magic/spells/discern-lies.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[chill metal](../../magic/spells/chill-metal.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (self only), *[water breathing](../../magic/spells/water-breathing.md)*  
+7/day—*[dimension door](../../magic/spells/dimension-door.md)*  
+5/day—*[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 23), *[freezing sphere](../../magic/spells/freezing-sphere.md)* (DC 24), *[ice storm](../../magic/spells/ice-storm.md)*, *[wall of ice](../../magic/spells/wall-of-ice.md)* (DC 22)  
+3/day—*[imprisonment](../../magic/spells/imprisonment.md)* (DC 27), *[polar ray](../../magic/spells/polar-ray.md)*, *[soul bind](../../magic/spells/soul-bind.md)* (DC 27), summon (level 5, 3 evangelist kytons 85%)
 
 **Statistics**
 

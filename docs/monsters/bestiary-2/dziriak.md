@@ -20,7 +20,7 @@ N Medium outsider (extraplanar)
 **Melee** 2 claws +6 (1d6+1 plus grab)  
 **Special Attacks** dazzling burst  
 **Spell-Like Abilities** (CL 3rd; concentration +6)  
-1/day—*plane shift* (self only, to Plane of Shadow only)
+1/day—*[plane shift](../../magic/spells/plane-shift.md)* (self only, to Plane of Shadow only)
 
 **Statistics**
 

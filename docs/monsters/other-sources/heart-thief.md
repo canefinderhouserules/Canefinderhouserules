@@ -22,9 +22,9 @@ CE Large outsider (chaotic, evil, native)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** disemboweling critical, harvest heart, rend (2 claws, 2d6+6)  
 **Spell-Like Abilities** (CL 9th; concentration +14)  
-Constant—*pass without trace*, *speak with animals*  
-At will—*atavism* (DC 19), *dominate animal* (DC 18), *transport via plants* (self plus 50 lbs. of objects only)  
-3/day—*air walk*, *snare*, *spike stones* (DC 19), *summon nature’s ally VII* (animals only)  
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[atavism](../../magic/spells/atavism.md)* (DC 19), *[dominate animal](../../magic/spells/dominate-animal.md)* (DC 18), *[transport via plants](../../magic/spells/transport-via-plants.md)* (self plus 50 lbs. of objects only)  
+3/day—*[air walk](../../magic/spells/air-walk.md)*, *[snare](../../magic/spells/snare.md)*, *[spike stones](../../magic/spells/spike-stones.md)* (DC 19), *[summon nature’s ally VII](../../magic/spells/summon-natures-ally-vii.md)* (animals only)  
 1/day—summon (level 3, 1 baykok 35%)
 
 **Statistics**

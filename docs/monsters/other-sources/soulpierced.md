@@ -21,7 +21,7 @@ CE Medium undead (incorporeal)
 **Melee** incorporeal touch +28 (17d6 plus frustrating touch)  
 **Special Attacks** frustrating touch (DC 25), livid outburst (20d6, DC 25)  
 **Spell-Like Abilities** (CL 20th; concentration +28)  
-Constant—*nondetection*
+Constant—*[nondetection](../../magic/spells/nondetection.md)*
 
 **Statistics**
 

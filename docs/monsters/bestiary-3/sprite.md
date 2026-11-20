@@ -22,9 +22,9 @@ CN Diminutive fey
 **Ranged**  short bow +7 (1d2–4/x3)  
 **Space** 1 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 5th; concentration +5)  
-Constant—*detect evil*, *detect good*  
-At will—*dancing lights*, *daze* (DC 10)  
-1/day—*color spray* (DC 11)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 10)  
+1/day—*[color spray* ](../../magic/spells/color-spray.md)(DC 11)
 
 **Statistics**
 

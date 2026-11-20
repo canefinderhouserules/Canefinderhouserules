@@ -21,10 +21,10 @@ CG Medium fey
 **Melee** mwk dagger +16/+11 (1d4+5/19–20)  
 **Ranged**  *+2 speed composite longbow* +18/+18/+13 (1d8+7/×3)  
 **Spell-Like Abilities** (CL 20th; concentration +26)  
-Constant—*speak with animals*, *speak with plants*  
-At will—*entangle* (DC 17), *hold animal* (DC 18), *rusting grasp*, *tree shape*, *wood shape* (10 lbs. only)  
-5/day—*charm monster* (DC 20), *charm person* (DC 17), *confusion* (DC 19), *deep slumber* (DC 19), *neutralize poison*, *sending* (dryads only), *suggestion* (DC 19), *tree stride*  
-1/day—*call lightning storm* (DC 21), *changestaff*, *greater heroism*, *heal*, *liveoak*, *summon nature’s ally VIII*
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)*, *[speak with plants](../../magic/spells/speak-with-plants.md)*  
+At will—*[entangle](../../magic/spells/entangle.md)* (DC 17), *[hold animal](../../magic/spells/hold-animal.md)* (DC 18), *[rusting grasp](../../magic/spells/rusting-grasp.md)*, *[tree shape](../../magic/spells/tree-shape.md)*, *[wood shape](../../magic/spells/wood-shape.md)* (10 lbs. only)  
+5/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 20), *[charm person](../../magic/spells/charm-person.md)* (DC 17), *[confusion](../../magic/spells/confusion.md)* (DC 19), *[deep slumber](../../magic/spells/deep-slumber.md)* (DC 19), *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[sending](../../magic/spells/sending.md)* (dryads only), *[suggestion](../../magic/spells/suggestion.md)* (DC 19), *[tree stride](../../magic/spells/tree-stride.md)*  
+1/day—*[call lightning storm](../../magic/spells/call-lightning-storm.md)* (DC 21), *[changestaff](../../magic/spells/changestaff.md)*, *[greater heroism](../../magic/spells/heroism-greater.md)*, *[heal](../../magic/spells/heal.md)*, *[liveoak](../../magic/spells/liveoak.md)*, *[summon nature’s ally VIII](../../magic/spells/summon-natures-ally-viii.md)*
 
 **Statistics**
 

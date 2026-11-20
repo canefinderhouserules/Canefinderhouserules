@@ -23,10 +23,10 @@ CE Colossal outsider (chaotic, evil, extraplanar)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** godslayer, rock-throwing (100 ft.), trample (2d8+28, DC 40)  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*air walk*, *mind blank*, *spell turning*, *true seeing*  
-At will—*bestow curse* (DC 21), *break enchantment*, *divination*, *greater dispel magic*, *sending*  
-3/day—*disintegrate* (DC 23), *greater scrying* (DC 24), *heal*, *mass suggestion* (DC 23)  
-1/day—*greater planar ally*, *imprisonment* (DC 26), *meteor swarm* (DC 26), *true resurrection*
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[mind blank](../../magic/spells/mind-blank.md)*, *[spell turning](../../magic/spells/spell-turning.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 21), *[break enchantment](../../magic/spells/break-enchantment.md)*, *[divination](../../magic/spells/divination.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[sending](../../magic/spells/sending.md)*  
+3/day—*[disintegrate* ](../../magic/spells/disintegrate.md)(DC 23), *[greater scrying* ](../../magic/spells/scrying-greater.md)(DC 24), *[heal](../../magic/spells/heal.md)*, *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 23)  
+1/day—*[greater planar ally](../../magic/spells/planar-ally-greater.md)*, *[imprisonment* ](../../magic/spells/imprisonment.md)(DC 26), *[meteor swarm* ](../../magic/spells/meteor-swarm.md)(DC 26), *[true resurrection](../../magic/spells/true-resurrection.md)*
 
 **Statistics**
 

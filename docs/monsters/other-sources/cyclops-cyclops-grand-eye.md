@@ -23,11 +23,11 @@ N Large humanoid (giant)
 **Ranged**  heavy crossbow +11 (2d8/19–20)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Oracle Spells Known** (CL 8th; concentration +11)  
-4th (3/day)—*arcane sight*, *inflict critical wounds* (DC 17), *summon monster IV*  
- 3rd (6/day)—*bestow curse* (DC 16), *detect thoughts* (DC 16), *inflict serious wounds* (DC 16), *speak with dead* (DC 16)  
- 2nd (7/day)—*aid*, *cure moderate wounds*, *inflict moderate wounds* (DC 15), *silence* (DC 15), *true strike*  
- 1st (7/day)—*command* (DC 14), *comprehend languages*, *detect poison*, *divine favor*, *obscuring mist*, *shield of faith*  
- 0 (at will)—*bleed* (DC 13), *create water*, *detect magic*, *guidance*, *know direction*, *purify food and drink*, *stabilize*, *virtue*
+4th (3/day)—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[inflict critical wounds](../../magic/spells/inflict-critical-wounds.md)* (DC 17), *[summon monster IV](../../magic/spells/summon-monster-iv.md)*  
+ 3rd (6/day)—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 16), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16), *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)* (DC 16), *[speak with dead](../../magic/spells/speak-with-dead.md)* (DC 16)  
+ 2nd (7/day)—*[aid](../../magic/spells/aid.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)* (DC 15), *[silence](../../magic/spells/silence.md)* (DC 15), *[true strike](../../magic/spells/true-strike.md)*  
+ 1st (7/day)—*[command](../../magic/spells/command.md)* (DC 14), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+ 0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[virtue](../../magic/spells/virtue.md)*
 
 **Statistics**
 

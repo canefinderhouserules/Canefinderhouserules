@@ -21,9 +21,9 @@ N Medium humanoid (human)
 **Melee** mwk sap +6 (1d6–1 nonlethal)  
 **Special Attacks** bardic performance 16 rounds/day (countersong, distraction, fascinate (DC 16), mockery –2, satire –2)  
 **Bard Spells Known** (CL 5th; concentration +9)  
-2nd (3/day)—*enter image*, *honeyed tongue*, *suggestion* (DC 16)  
-1st (5/day)—*charm person* (DC 15), *disguise self*, *memory lapse* (DC 15), *vanish*  
-0 (at will)—*dancing lights*, *daze* (DC 14), *ghost sound* (DC 14), *mage hand*, *message*, *prestidigitation*
+2nd (3/day)—*[enter image](../../magic/spells/enter-image.md)*, *[honeyed tongue](../../magic/spells/honeyed-tongue.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 16)  
+1st (5/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 15), *[disguise self](../../magic/spells/disguise-self.md)*, *[memory lapse](../../magic/spells/memory-lapse.md)* (DC 15), *[vanish](../../magic/spells/vanish.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze](../../magic/spells/daze.md)* (DC 14), *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 14), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

@@ -21,9 +21,9 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Melee** mwk scimitar +14/+9 (1d6+7/18–20) or 2 slams +13 (1d4+5)  
 **Special Attacks** pain redoubled  
 **Spell-Like Abilities** (CL 8th; concentration +13)  
-Constant—*tongues*  
-At will—*charm person* (DC 16), *detect thoughts* (DC 17), *greater teleport* (self plus 50 lbs. of objects only), *suggestion* (DC 18)  
-1/day—*crushing despair* (DC 19), summon (level 3, 2 schirs 40%)
+Constant—*[tongues](../../magic/spells/tongues.md)*  
+At will—*[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[suggestion* ](../../magic/spells/suggestion.md)(DC 18)  
+1/day—*[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 19), summon (level 3, 2 schirs 40%)
 
 **Statistics**
 

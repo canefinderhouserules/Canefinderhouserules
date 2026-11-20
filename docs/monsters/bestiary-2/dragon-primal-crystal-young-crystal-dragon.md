@@ -22,7 +22,7 @@ CG Medium dragon (earth, extraplanar)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (30-ft. cone, 6d4 sonic, DC 16)  
 **Spell-Like Abilities** (CL 7th; concentration +11)  
-At will—*color spray* (DC 15)
+At will—*[color spray](../../magic/spells/color-spray.md)* (DC 15)
 
 **Statistics**
 

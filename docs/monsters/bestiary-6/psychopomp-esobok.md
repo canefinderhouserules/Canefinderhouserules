@@ -23,8 +23,8 @@ electricity 10
 **Melee** bite +6 (1d6+2 plus grab), 2 claws +6 (1d4+2)  
 **Special Attacks** pounce, wrench spirit  
 **Spell-Like Abilities** (CL 4th; concentration +6)  
-Constant—*detect undead*  
-3/day—*invisibility* (self only)
+Constant—*[detect undead](../../magic/spells/detect-undead.md)*  
+3/day—*[invisibility](../../magic/spells/invisibility.md)* (self only)
 
 **Statistics**
 

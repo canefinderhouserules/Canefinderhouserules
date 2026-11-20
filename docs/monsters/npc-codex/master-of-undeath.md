@@ -23,15 +23,15 @@ NE Medium humanoid (human)
 **Spell-Like Abilities** (CL 15th; concentration +22)  
 10/day—bleeding touch (7 rounds), touch of evil (7 rounds)  
 **Cleric Spells Prepared** (CL 15th; concentration +22)  
-8th—*fire storm* (DC 26), *unholy aura*<sup>D</sup>  
-7th—*blasphemy*<sup>D</sup>(DC 25), *destruction* (DC 24), *ethereal jaunt*  
-6th—*antilife shell*, *blade barrier* (DC 24), *create undead*<sup>D</sup>, *harm*<sup>D</sup>(DC 23)  
-5th—*dispel good*, *greater command* (DC 22), *flame strike* (DC 23), *insect plague*, *righteous might*, *slay living*<sup>D</sup>(DC 22)  
-4th—*divine power*, *freedom of movement*, *giant vermin*, *greater magic weapon*, *poison* (DC 21), *unholy blight*<sup>D</sup>(DC 22)  
-3rd—*animate dead*<sup>D</sup>, *contagion* (2, DC 20), *deeper darkness*, *dispel magic*, *wind wall*  
-2nd—*bear’s endurance*, *death knell*<sup>D</sup>(DC 19), *desecrate*, *gentle repose*, *hold person* (DC 19), *spiritual weapon*  
-1st—*bane* (DC 18), *cause fear*<sup>D</sup>(DC 18), *divine favor*, *doom* (2, DC 18), *entropic shield*, *shield of faith*  
-0 (at will)—*bleed* (DC 17), *light*, *resistance*, *virtue*  
+8th—*[fire storm* ](../../magic/spells/fire-storm.md)(DC 26), *[unholy aura](../../magic/spells/unholy-aura.md)*<sup>D</sup>  
+7th—*[blasphemy](../../magic/spells/blasphemy.md)*<sup>D</sup>(DC 25), *[destruction* ](../../magic/spells/destruction.md)(DC 24), *[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, *[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 24), *[create undead](../../magic/spells/create-undead.md)*<sup>D</sup>, *[harm](../../magic/spells/harm.md)*<sup>D</sup>(DC 23)  
+5th—*[dispel good](../../magic/spells/dispel-good.md)*, *[greater command* ](../../magic/spells/command-greater.md)(DC 22), *[flame strike* ](../../magic/spells/flame-strike.md)(DC 23), *[insect plague](../../magic/spells/insect-plague.md)*, *[righteous might](../../magic/spells/righteous-might.md)*, *[slay living](../../magic/spells/slay-living.md)*<sup>D</sup>(DC 22)  
+4th—*[divine power](../../magic/spells/divine-power.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[giant vermin](../../magic/spells/giant-vermin.md)*, *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)*, *[poison* ](../../magic/spells/poison.md)(DC 21), *[unholy blight](../../magic/spells/unholy-blight.md)*<sup>D</sup>(DC 22)  
+3rd—*[animate dead](../../magic/spells/animate-dead.md)*<sup>D</sup>, *[contagion* ](../../magic/spells/contagion.md)(2, DC 20), *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[death knell](../../magic/spells/death-knell.md)*<sup>D</sup>(DC 19), *[desecrate](../../magic/spells/desecrate.md)*, *[gentle repose](../../magic/spells/gentle-repose.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 19), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[bane* ](../../magic/spells/bane.md)(DC 18), *[cause fear](../../magic/spells/cause-fear.md)*<sup>D</sup>(DC 18), *[divine favor](../../magic/spells/divine-favor.md)*, *[doom* ](../../magic/spells/doom.md)(2, DC 18), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 17), *[light](../../magic/spells/light.md)*, *[resistance](../../magic/spells/resistance.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **D** Domain spell; **Domains** Death, Evil
 
 **Tactics**

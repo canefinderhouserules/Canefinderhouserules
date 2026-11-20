@@ -22,10 +22,10 @@ NG Small outsider (agathion, extraplanar, good)
 **Melee** bite +11 (1d4+1), 2 claws +11 (1d3+1)  
 **Special Attacks** pounce  
 **Spell-Like Abilities** (CL 7th; concentration +10)  
-Constant—*detect evil*, *mage armor*, *speak with animals*  
-At will—*invisibility* (self only)  
-3/day—*charm monster* (DC 17), *dispel evil* (DC 18), *flame arrow*, *holy smite* (DC 17), *dimension door* (self plus 50 lbs. of objects only), *remove disease*  
-1/day—*major image* (DC 16)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[invisibility](../../magic/spells/invisibility.md)* (self only)  
+3/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 17), *[dispel evil](../../magic/spells/dispel-evil.md)* (DC 18), *[flame arrow](../../magic/spells/flame-arrow.md)*, *[holy smite](../../magic/spells/holy-smite.md)* (DC 17), *[dimension door](../../magic/spells/dimension-door.md)* (self plus 50 lbs. of objects only), *[remove disease](../../magic/spells/remove-disease.md)*  
+1/day—*[major image](../../magic/spells/major-image.md)* (DC 16)
 
 **Statistics**
 

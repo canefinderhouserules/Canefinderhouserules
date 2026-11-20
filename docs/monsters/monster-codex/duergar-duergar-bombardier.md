@@ -24,13 +24,13 @@ LE Medium humanoid (dwarf)
 **Ranged**  bomb +6 (1d6+2 acid or fire) or light crossbow +3 (1d8/19–20)  
 **Special Attacks** bomb 6/day (1d6+2 acid or fire, DC 13)  
 **Spell-Like Abilities** (CL 2nd; concentration –1)  
-1/day—*invisibility* (self only), *ironskin*  
+1/day—*[invisibility](../../magic/spells/invisibility.md)* (self only), *[ironskin](../../magic/spells/ironskin.md)*  
 **Alchemist Extracts Prepared** (CL 2nd)  
-1st—*bomber’s eye*, *shield*, *true strike*
+1st—*[bomber’s eye](../../magic/spells/bombers-eye.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*
 
 **Tactics**
 
-**Before Combat** The bombardier quaffs a Dexterity mutagen and casts *ironskin*.  
+**Before Combat** The bombardier quaffs a Dexterity mutagen and casts *[ironskin](../../magic/spells/ironskin.md)*.  
  **During Combat** The bombardier spends most of the combat lobbing bombs or alchemist’s fire at her foes, using *invisibility* and *potions of longstrider* to gain superior tactical positions or make a hasty retreat.  
  **Base Statistics** When she’s not under the effect of her mutagen and *ironskin*, the bombardier’s statistics are **Init** +2; **AC** 14, touch 12, flat-footed 12; **Ref** +5, **Will** +1; **Ranged** bomb +4 (1d6+2 fire) or light crossbow +3 (1d8/19–20); **Dex** 14, **Wis** 12; **CMD** 14 (18 vs. bull rush, 18 vs. trip); **Skills** Heal +6, Disable Device +7, Perception +6, Survival +6.
 

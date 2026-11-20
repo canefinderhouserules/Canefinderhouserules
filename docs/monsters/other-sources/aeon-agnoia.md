@@ -24,8 +24,8 @@ N Large outsider (aeon, extraplanar)
 **Special Attacks** bleed (1d3 Int damage), forgotten one  
 **Spell-Like Abilities** (CL 16th; concentration +21)  
 Constant—*detect magic, detect thoughts*  
- At will—*modify memory* (DC 19), *touch of idiocy*  
- 3/day—*feeblemind* (DC 20), *quickened touch of idiocy*
+ At will—*[modify memory](../../magic/spells/modify-memory.md)* (DC 19), *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+ 3/day—*[feeblemind](../../magic/spells/feeblemind.md)* (DC 20), *[quickened touch of idiocy](../../magic/spells/touch-of-idiocy.md)*
 
 **Statistics**
 

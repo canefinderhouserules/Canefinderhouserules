@@ -21,12 +21,12 @@ NE Medium humanoid (giant)
 **Melee** 2 claws +7 (1d4+2)  
 **Special Attacks** hexes (blight [100 feet], cackle, coven, disguise [10 hours], evil eye [–4, 6 rounds], hag’s eye [10 minutes/day], misfortune [2 rounds])  
 **Witch Spells Prepared** (CL 10th; concentration +13)  
-5th—*baleful polymorph* (DC 18), *dominate person* (DC 18)  
-4th—*dimension door*, *phantasmal killer* (DC 17), *spite*  
-3rd—*bestow curse* (DC 16), *pain strike* (DC 16), *stinking cloud* (DC 16), *water breathing*  
-2nd—*alter self*, *blindness/deafness*, *fester* (DC 15), *vomit swarm*, *web* (DC 15)  
-1st—*cause fear* (DC 14), *charm person* (DC 14), *mage armor*, *obscuring mist*, *ray of enfeeblement* (DC 14)  
-0 (at will)—*bleed* (DC 13), *detect magic*, *detect poison*, *purify food and drink*  
+5th—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 18), *[dominate person](../../magic/spells/dominate-person.md)* (DC 18)  
+4th—*[dimension door](../../magic/spells/dimension-door.md)*, *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 17), *[spite](../../magic/spells/spite.md)*  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 16), *[pain strike](../../magic/spells/pain-strike.md)* (DC 16), *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 16), *[water breathing](../../magic/spells/water-breathing.md)*  
+2nd—*[alter self](../../magic/spells/alter-self.md)*, *[blindness/deafness](../../magic/spells/blindness-deafness.md)*, *[fester](../../magic/spells/fester.md)* (DC 15), *[vomit swarm](../../magic/spells/vomit-swarm.md)*, *[web](../../magic/spells/web.md)* (DC 15)  
+1st—*[cause fear](../../magic/spells/cause-fear.md)* (DC 14), *[charm person](../../magic/spells/charm-person.md)* (DC 14), *[mage armor](../../magic/spells/mage-armor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 14)  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*  
 **Patron** Water
 
 **Statistics**

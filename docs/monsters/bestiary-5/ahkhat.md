@@ -21,8 +21,8 @@ N Small outsider (earth, elemental, native)
 **Melee** 2 slams +8 (1d6+3)  
 **Ranged**  urn +6 (1d4+3)  
 **Spell-Like Abilities** (CL 2nd; concentration +3)  
-At will—*open/close*, *prestidigitation*  
-1/day—*make whole* (ahkhat’s bonded structure and permanent fixtures only)
+At will—*[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*  
+1/day—*[make whole](../../magic/spells/make-whole.md)* (ahkhat’s bonded structure and permanent fixtures only)
 
 **Statistics**
 

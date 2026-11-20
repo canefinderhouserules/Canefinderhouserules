@@ -23,11 +23,11 @@ NE Medium humanoid (human, orc)
 **Ranged**  mwk composite longbow +9 (1d8+2/×3)  
 **Special Attacks** favored enemy (elves +2)  
 **Ranger Spells Prepared** (CL 1st; concentration +2)  
-1st—*resist energy*
+1st—*[resist energy](../../magic/spells/resist-energy.md)*
 
 **Tactics**
 
-**Before Combat** The ranger casts *resist energy* (fire).  
+**Before Combat** The ranger casts *[resist energy* ](../../magic/spells/resist-energy.md)(fire).  
 **During Combat** The ranger keeps her foes as far away as possible.  
 **Base Statistics** Without *resist energy*, the ranger’s statistics are **Resist** none.
 

@@ -24,10 +24,10 @@ CE Large outsider (chaotic, evil, extraplanar, qlippoth)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with slams and tentacles)  
 **Special Attacks** horrific appearance (DC 20)  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-Constant—*air walk*, *arcane sight*  
-At will—*chaos hammer* (DC 18), *darkness*  
-3/day—*confusion* (DC 18), quickened *darkness*, *dispel magic*, *protection from law*  
-1/day—*plane shift* (DC 21)
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[arcane sight](../../magic/spells/arcane-sight.md)*  
+At will—*[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 18), *[darkness](../../magic/spells/darkness.md)*  
+3/day—*[confusion* ](../../magic/spells/confusion.md)(DC 18), quickened *[darkness](../../magic/spells/darkness.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[protection from law](../../magic/spells/protection-from-law.md)*  
+1/day—*[plane shift* ](../../magic/spells/plane-shift.md)(DC 21)
 
 **Statistics**
 

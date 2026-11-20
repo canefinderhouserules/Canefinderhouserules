@@ -20,10 +20,10 @@ LE Tiny outsider (asura, evil, extraplanar, lawful)
 **Speed** 20 ft.  
 **Melee** sting +7 (1d4–1 plus poison)  
 **Spell-Like Abilities** (CL 6th; concentration +7)  
-Constant—*detect magic*  
-At will—*feather fall*  
-3/day—*levitate*, *locate object*, *spider climb*  
-1/week—*commune* (6 questions, CL 12th)
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[feather fall](../../magic/spells/feather-fall.md)*  
+3/day—*[levitate](../../magic/spells/levitate.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[spider climb](../../magic/spells/spider-climb.md)*  
+1/week—*[commune* ](../../magic/spells/commune.md)(6 questions, CL 12th)
 
 **Statistics**
 

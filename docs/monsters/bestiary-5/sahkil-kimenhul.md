@@ -26,13 +26,13 @@ plus 1d3 Charisma bleed)
 fear (120 ft., DC 32), snatch between, spirit touch, trample
 (2d8+16, DC 33), unsettled mind  
 **Spell-Like Abilities** (CL 20th; concentration +28)  
-Constant—*detect thoughts* (DC 20), *mind blank, true seeing*  
+Constant—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 20), *mind blank, true seeing*  
 
 At will—*air walk, enervation, greater teleport* (self plus 50 lbs. of objects only), *magic circle against good, tongues*  
 
-3/day—*blasphemy* (DC 25), *crushing despair* (DC 24), *dispel magic, fear* (DC 24), *malicious spite* (DC 24), *suggestion* (DC 21)  
+3/day—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 25), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 24), *dispel magic, fear* (DC 24), *[malicious spite](../../magic/spells/malicious-spite.md)* (DC 24), *[suggestion](../../magic/spells/suggestion.md)* (DC 21)  
 
-1/day—*antipathy* (DC 28), *eyebite* (DC 26), *summon* (level 9, any one CR 19 or lower sahkil 100%), *symbol of fear* (DC 26), *weird* (DC 29)
+1/day—*[antipathy](../../magic/spells/antipathy.md)* (DC 28), *[eyebite](../../magic/spells/eyebite.md)* (DC 26), *summon* (level 9, any one CR 19 or lower sahkil 100%), *[symbol of fear](../../magic/spells/symbol-of-fear.md)* (DC 26), *[weird](../../magic/spells/weird.md)* (DC 29)
 
 **Statistics**
 

@@ -23,22 +23,22 @@ CE Medium humanoid (elf)
 **Melee** *+1 heavy mace* +12/+7/+2 (1d8+1)  
 **Special Attacks** demonic channel 7/day (DC 19, 8d6 plus sicken or special), hand of the acolyte (10/day), scythe of evil (7 rounds, 2/day)  
 **Spell-Like Abilities** (CL 15th; concentration +17)  
-Constant—*detect magic*  
-At will—*dancing lights*, *deeper darkness*, *faerie fire*, *feather fall*, *levitate*  
-1/day—*dispel magic*, *divine favor*, *suggestion* (DC 15)  
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[levitate](../../magic/spells/levitate.md)*  
+1/day—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 15)  
 Domain S pell-Like Abilities (CL 15th; concentration +22)  
 10/day—touch of evil (7 rounds)  
 2/day—dispelling touch  
 **Cleric Spells Prepared** (CL 15th; concentration +22)  
-8th—*fire storm* (DC 25), *unholy aura*<sup>D</sup> (DC 25)  
-7th—*blasphemy*<sup>D</sup> (DC 24), *destruction* (DC 25), *ethereal jaunt*, *summon monster VII*  
-6th—*antilife shell*, *antimagic field*<sup>D</sup>, *greater dispel magic*, *harm* (DC 24), *heal*  
-5th—*communal spell immunity*, *dispel good*<sup>D</sup> (DC 22), *fickle winds*, *flame strike* (DC 22), *slay living* (DC 23), *wall of stone* (DC 22)  
-4th—*cure critical wounds*, *dimensional anchor*, *divine power*, *freedom of movement*, *imbue with spell ability*<sup>D</sup>, *summoner conduit* (DC 22)  
-3rd—*bestow curse* (DC 21), *chain of perdition*, *dispel magic*, *invisibility purge*, *magic circle against good*<sup>D</sup>, *protection from energy*, *water breathing*  
-2nd—*align weapon*<sup>D</sup> (evil only), *delay poison*, *dread bolt* (DC 19), *hold person* (DC 19), *lesser restoration*, *protective penumbra*, *sound burst* (DC 19)  
-1st—*cure light wounds* (2), *entropic shield*, *murderous command* (2, DC 18), *protection from good*<sup>D</sup>, *shield of faith*  
-0 (at will)—*detect magic*, *detect poison*, *guidance*, *read magic*  
+8th—*[fire storm](../../magic/spells/fire-storm.md)* (DC 25), *[unholy aura](../../magic/spells/unholy-aura.md)*<sup>D</sup> (DC 25)  
+7th—*[blasphemy](../../magic/spells/blasphemy.md)*<sup>D</sup> (DC 24), *[destruction](../../magic/spells/destruction.md)* (DC 25), *[ethereal jaunt](../../magic/spells/ethereal-jaunt.md)*, *[summon monster VII](../../magic/spells/summon-monster-vii.md)*  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, *[antimagic field](../../magic/spells/antimagic-field.md)*<sup>D</sup>, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[harm](../../magic/spells/harm.md)* (DC 24), *[heal](../../magic/spells/heal.md)*  
+5th—*[communal spell immunity](../../magic/spells/spell-immunity-communal.md)*, *[dispel good](../../magic/spells/dispel-good.md)*<sup>D</sup> (DC 22), *[fickle winds](../../magic/spells/fickle-winds.md)*, *[flame strike](../../magic/spells/flame-strike.md)* (DC 22), *[slay living](../../magic/spells/slay-living.md)* (DC 23), *[wall of stone](../../magic/spells/wall-of-stone.md)* (DC 22)  
+4th—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[divine power](../../magic/spells/divine-power.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[imbue with spell ability](../../magic/spells/imbue-with-spell-ability.md)*<sup>D</sup>, *[summoner conduit](../../magic/spells/summoner-conduit.md)* (DC 22)  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 21), *[chain of perdition](../../magic/spells/chain-of-perdition.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*<sup>D</sup>, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[water breathing](../../magic/spells/water-breathing.md)*  
+2nd—*[align weapon](../../magic/spells/align-weapon.md)*<sup>D</sup> (evil only), *[delay poison](../../magic/spells/delay-poison.md)*, *[dread bolt](../../magic/spells/dread-bolt.md)* (DC 19), *[hold person](../../magic/spells/hold-person.md)* (DC 19), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[protective penumbra](../../magic/spells/protective-penumbra.md)*, *[sound burst](../../magic/spells/sound-burst.md)* (DC 19)  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)* (2), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[murderous command](../../magic/spells/murderous-command.md)* (2, DC 18), *[protection from good](../../magic/spells/protection-from-good.md)*<sup>D</sup>, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** domain spell; **Domains** Evil, Magic
 
 **Statistics**

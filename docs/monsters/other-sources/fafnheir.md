@@ -22,8 +22,8 @@ CE Colossal dragon
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** breath weapon, constrict (tail, 4d6+8), death curse  
 **Spell-Like Abilities** (CL 20th; concentration +29)  
-At will—*greater dispel magic*  
-3/day—quickened *greater dispel magic*, *limited wish*, *plane shift* (between First World and Material Plane only), *spell turning*, *wall of force*
+At will—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*  
+3/day—quickened *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[limited wish](../../magic/spells/limited-wish.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(between First World and Material Plane only), *[spell turning](../../magic/spells/spell-turning.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*
 
 **Statistics**
 

@@ -20,10 +20,10 @@ CN Small fey
 **Speed** 40 ft.  
 **Melee** *+1 club* +7 (1d8–1)  
 **Spell-Like Abilities** (CL 4th; concentration +7)  
-Constant—*shillelagh*  
-At will—*dancing lights*, *ghost sound* (DC 13), *invisibility* (self only), *mage hand*, *major image* (visual and auditory elements only, DC 16), *prestidigitation*, *ventriloquism* (DC 14)  
-3/day—*color spray* (DC 14), *fabricate* (1 cubic foot of material only)  
-1/day—*major creation*
+Constant—*[shillelagh](../../magic/spells/shillelagh.md)*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[mage hand](../../magic/spells/mage-hand.md)*, *[major image* ](../../magic/spells/major-image.md)(visual and auditory elements only, DC 16), *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 14)  
+3/day—*[color spray* ](../../magic/spells/color-spray.md)(DC 14), *[fabricate* ](../../magic/spells/fabricate.md)(1 cubic foot of material only)  
+1/day—*[major creation](../../magic/spells/major-creation.md)*
 
 **Statistics**
 

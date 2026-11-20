@@ -22,17 +22,17 @@ LG Medium outsider (archon, extraplanar, good, lawful)
 **Melee** *+4 greatsword* +23/+18/+13 (2d6+11/19–20)  
 **Special Attacks** trumpet  
 **Spell-Like Abilities** (CL 14th)  
-Constant—*magic circle against evil*  
-At will—*aid*, *continual flame*, *detect evil*, *greater teleport* (self plus 50 lbs. of objects only), *message*  
+Constant—*[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[continual flame](../../magic/spells/continual-flame.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[message](../../magic/spells/message.md)*  
 **Spells Prepared** (CL 14th)  
-7th—*mass cure serious wounds* (2)  
-6th—*banishment* (DC 21), *heal* (2)  
-5th—*dispel evil* (DC 20), *mass cure light wounds*, *plane shift* (DC 20), *raise dead*  
-4th—*dismissal* (DC 19), *divine power*, *neutralize poison* (DC 19), spell immunity  
-3rd—*cure serious wounds*, *daylight*, *invisibility purge*, *magic vestment*, *protection from energy*  
-2nd—*bull’s strength*, *consecrate*, *cure moderate wounds* (2), *lesser restoration* (2), *owl’s wisdom*  
-1st—*bless*, *cure light wounds* (3), *divine favor*, *sanctuary* (DC 16), *shield of faith*  
-0 (at will)—*detect magic*, *purify food and drink*, *stabilize*, *virtue*
+7th—*[mass cure serious wounds* ](../../magic/spells/cure-serious-wounds-mass.md)(2)  
+6th—*[banishment* ](../../magic/spells/banishment.md)(DC 21), *[heal* ](../../magic/spells/heal.md)(2)  
+5th—*[dispel evil* ](../../magic/spells/dispel-evil.md)(DC 20), *[mass cure light wounds](../../magic/spells/cure-light-wounds-mass.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(DC 20), *[raise dead](../../magic/spells/raise-dead.md)*  
+4th—*[dismissal* ](../../magic/spells/dismissal.md)(DC 19), *[divine power](../../magic/spells/divine-power.md)*, *[neutralize poison* ](../../magic/spells/neutralize-poison.md)(DC 19), spell immunity  
+3rd—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[daylight](../../magic/spells/daylight.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[consecrate](../../magic/spells/consecrate.md)*, *[cure moderate wounds* ](../../magic/spells/cure-moderate-wounds.md)(2), *[lesser restoration* ](../../magic/spells/restoration-lesser.md)(2), *[owl’s wisdom](../../magic/spells/owls-wisdom.md)*  
+1st—*[bless](../../magic/spells/bless.md)*, *[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(3), *[divine favor](../../magic/spells/divine-favor.md)*, *[sanctuary* ](../../magic/spells/sanctuary.md)(DC 16), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[virtue](../../magic/spells/virtue.md)*
 
 **Statistics**
 

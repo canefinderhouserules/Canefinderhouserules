@@ -23,11 +23,11 @@ NG Large outsider (agathion, extraplanar, good)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** powerful charge (gore, 2d8+15 plus stagger)  
 **Spell-Like Abilities** (CL 20th; concentration +24)  
-Constant—*detect scrying*, *see invisibility*, *speak with animals*  
-At will—*discern lies*, *freedom of movement*, *greater teleport* (self plus 50 lbs. of objects only), *invisibility purge*, *light*, *message*  
-5/day—*clairaudience/clairvoyance*, *cure critical wounds*, *dismissal* (DC 18), *dispel magic*  
-3/day—*breath of life*, *mass bull’s strength*, *plane shift* (DC 19)  
-1/day—*discern location*, *greater scrying* (DC 21)
+Constant—*[detect scrying](../../magic/spells/detect-scrying.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[discern lies](../../magic/spells/discern-lies.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*  
+5/day—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[dismissal* ](../../magic/spells/dismissal.md)(DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*  
+3/day—*[breath of life](../../magic/spells/breath-of-life.md)*, *[mass bull’s strength](../../magic/spells/bulls-strength-mass.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(DC 19)  
+1/day—*[discern location](../../magic/spells/discern-location.md)*, *[greater scrying* ](../../magic/spells/scrying-greater.md)(DC 21)
 
 **Statistics**
 

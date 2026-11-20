@@ -22,9 +22,9 @@ CE Huge outsider (aquatic, giant, native, oni, shapechanger, water)
 **Ranged**  acidic missile +23 touch (4d6 acid plus nausea)  
 **Space** 15 ft., **Reach** 15 ft. (20 ft. with spear)  
 **Spell-Like Abilities** (CL 18th; concentration +24)  
-Constant—*fly*, *freedom of movement*, *water walk*  
-At will—*invisibility* (self only), *liquid form*, *water breathing*  
-3/day—*charm monster* (DC 20), *cone of cold* (DC 21), *control water*, *polar ray*
+Constant—*[fly](../../magic/spells/fly.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[water walk](../../magic/spells/water-walk.md)*  
+At will—*[invisibility* ](../../magic/spells/invisibility.md)(self only), *liquid form*, *[water breathing](../../magic/spells/water-breathing.md)*  
+3/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 20), *[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 21), *[control water](../../magic/spells/control-water.md)*, *[polar ray](../../magic/spells/polar-ray.md)*
 
 **Statistics**
 

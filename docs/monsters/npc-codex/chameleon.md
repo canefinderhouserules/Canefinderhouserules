@@ -23,11 +23,11 @@ N Medium humanoid (human, orc)
 **Ranged**  shortbow +9/+4 (1d6/×3)  
 **Special Attacks** bardic performance 29 rounds/day (move action; countersong, dirge of doom, distraction, fascinate, inspire competence +4, inspire courage +3, inspire greatness, suggestion)  
 **Bard Spells Known** (CL 11th; concentration +16)  
-4th (2/day)—*dimension door*, *freedom of movement*, *greater invisibility*  
-3rd (5/day)—*gaseous form*, *haste* (DC 18), *see invisibility*, *slow* (DC 18)  
-2nd (5/day)—*alter self*, *blindness/deafness* (DC 17), *cure moderate wounds* (DC 17), *detect thoughts* (DC 17), *mirror image*  
-1st (6/day)—*charm person* (DC 16), *disguise self*, *expeditious retreat*, *feather fall*, *hideous laughter* (DC 16), *undetectable alignment*  
-0 (at will)—*daze* (DC 15), *detect magic*, *flare* (DC 15), *mage hand*, *open/close*, *prestidigitation*
+4th (2/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*  
+3rd (5/day)—*[gaseous form](../../magic/spells/gaseous-form.md)*, *[haste* ](../../magic/spells/haste.md)(DC 18), *[see invisibility](../../magic/spells/see-invisibility.md)*, *[slow* ](../../magic/spells/slow.md)(DC 18)  
+2nd (5/day)—*[alter self](../../magic/spells/alter-self.md)*, *[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 17), *[cure moderate wounds* ](../../magic/spells/cure-moderate-wounds.md)(DC 17), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (6/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[disguise self](../../magic/spells/disguise-self.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 16), *[undetectable alignment](../../magic/spells/undetectable-alignment.md)*  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 15), *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Tactics**
 

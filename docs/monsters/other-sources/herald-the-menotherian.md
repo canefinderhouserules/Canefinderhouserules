@@ -23,9 +23,9 @@ CN Large outsider (chaotic, extraplanar, herald, shapechanger)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** implant, mind control, poison  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
-At will—*dimension door*, *dispel magic*, *lover’s vengeance*, *message*, *neutralize poison*, *rage*, *secret speech*  
-5/day—*crushing despair* (DC 19), *cat’s grace*, *cure moderate wounds*, *remove disease*, *suggestion* (DC 18), *summon swarm*, *telekinesis*, *teleport*, *wall of thorns*  
-1/day—*heal*, *insect plague*, *scrying* (DC 19)
+At will—*[dimension door](../../magic/spells/dimension-door.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[lover’s vengeance](../../magic/spells/lovers-vengeance.md)*, *[message](../../magic/spells/message.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[rage](../../magic/spells/rage.md)*, *[secret speech](../../magic/spells/secret-speech.md)*  
+5/day—*[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 19), *[cat’s grace](../../magic/spells/cats-grace.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[remove disease](../../magic/spells/remove-disease.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 18), *[summon swarm](../../magic/spells/summon-swarm.md)*, *[telekinesis](../../magic/spells/telekinesis.md)*, *[teleport](../../magic/spells/teleport.md)*, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+1/day—*[heal](../../magic/spells/heal.md)*, *[insect plague](../../magic/spells/insect-plague.md)*, *[scrying* ](../../magic/spells/scrying.md)(DC 19)
 
 **Statistics**
 

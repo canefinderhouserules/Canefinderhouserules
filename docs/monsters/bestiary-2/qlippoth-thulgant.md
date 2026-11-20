@@ -23,10 +23,10 @@ CE Large outsider (chaotic, evil, extraplanar, qlippoth)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** horrific appearance (DC 27), savage stingers  
 **Spell-Like Abilities** (CL 18th; concentration +25)  
-Constant—*cloak of chaos* (DC 25), *displacement*, *freedom of movement*, *true seeing*  
-At will—*dimension door*, *greater dispel magic*, *telekinesis* (DC 22)  
-3/day—quickened *dimension door*, *flesh to stone* (DC 23), *word of chaos* (DC 24)  
-1/day—*binding* (DC 25), *plane shift* (DC 24), *telekinetic sphere* (DC 25), *temporal stasis* (DC 25)
+Constant—*[cloak of chaos* ](../../magic/spells/cloak-of-chaos.md)(DC 25), *[displacement](../../magic/spells/displacement.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[dimension door](../../magic/spells/dimension-door.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 22)  
+3/day—quickened *[dimension door](../../magic/spells/dimension-door.md)*, *[flesh to stone* ](../../magic/spells/flesh-to-stone.md)(DC 23), *[word of chaos* ](../../magic/spells/word-of-chaos.md)(DC 24)  
+1/day—*[binding* ](../../magic/spells/binding.md)(DC 25), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 24), *[telekinetic sphere* ](../../magic/spells/telekinetic-sphere.md)(DC 25), *[temporal stasis* ](../../magic/spells/temporal-stasis.md)(DC 25)
 
 **Statistics**
 

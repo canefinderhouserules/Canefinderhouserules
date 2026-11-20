@@ -21,9 +21,9 @@ NE Medium outsider (evil, extraplanar)
 **Melee** bite +15 (2d6+3), 2 claws +15 (1d8+3)  
 **Special Attacks** ripping gaze  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-Constant—*air walk*  
-At will—*fog cloud*, *invisibility*, *locate creature*  
-3/day—*dimensional anchor*, *discern location*, *greater scrying* (DC 20), *haste*, *slow* (DC 16)
+Constant—*[air walk](../../magic/spells/air-walk.md)*  
+At will—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[locate creature](../../magic/spells/locate-creature.md)*  
+3/day—*[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[discern location](../../magic/spells/discern-location.md)*, *[greater scrying* ](../../magic/spells/scrying-greater.md)(DC 20), *[haste](../../magic/spells/haste.md)*, *[slow* ](../../magic/spells/slow.md)(DC 16)
 
 **Statistics**
 

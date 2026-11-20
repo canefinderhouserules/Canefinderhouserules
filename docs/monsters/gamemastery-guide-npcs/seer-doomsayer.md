@@ -21,8 +21,8 @@ N Medium humanoid
 **Melee** sickle +1 (1d6)  
 **Ranged**  dart +0 (1d4)  
 **Adept Spells Prepared** (CL 3rd; concentration +5)  
-1st—*bless*, *burning hands* (DC 13), *obscuring mist*  
-0—*ghost sound* (DC 12), *guidance*, *touch of fatigue* (DC 12)
+1st—*[bless](../../magic/spells/bless.md)*, *[burning hands](../../magic/spells/burning-hands.md)* (DC 13), *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0—*[ghost sound](../../magic/spells/ghost-sound.md)* (DC 12), *[guidance](../../magic/spells/guidance.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 12)
 
 **Statistics**
 

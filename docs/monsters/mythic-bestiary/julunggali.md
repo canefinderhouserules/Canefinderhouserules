@@ -23,9 +23,9 @@ N Colossal magical beast (aquatic, extraplanar, mythic, shapechanger)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** amazing initiative, constrict (4d8+21), fast swallow, mythic power (8/ day, surge +1d10), pull (bite, 30 ft.), push (bite, 30 ft.), swallow whole (4d8 acid damage, AC 26, 39 hp)  
 **Spell-Like Abilities** (CL 24th; concentration +29)  
-Constant—*foresight* (self only)  
-At will—*bestow curse* (DC 18), *bless*<sup>M</sup>, *control water*, *create water*, *move earth*<sup>M</sup>, *neutralize poison*, *prayer*<sup>M</sup>, *water breathing*  
-3/day—*antipathy* (DC 24), *baleful polymorph*<sup>M</sup> (DC 20), *control weather*<sup>M</sup> (rain only), *greater teleport* (self only), *haste*<sup>M</sup>, *heal*<sup>M</sup>, *polymorph*, *prismatic wall* (DC 23), *raise dead*, *slow*<sup>M</sup> (DC 18)
+Constant—*[foresight](../../magic/spells/foresight.md)* (self only)  
+At will—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *[bless](../../magic/spells/bless.md)*<sup>M</sup>, *[control water](../../magic/spells/control-water.md)*, *[create water](../../magic/spells/create-water.md)*, *[move earth](../../magic/spells/move-earth.md)*<sup>M</sup>, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[prayer](../../magic/spells/prayer.md)*<sup>M</sup>, *[water breathing](../../magic/spells/water-breathing.md)*  
+3/day—*[antipathy](../../magic/spells/antipathy.md)* (DC 24), *[baleful polymorph](../../magic/spells/baleful-polymorph.md)*<sup>M</sup> (DC 20), *[control weather](../../magic/spells/control-weather.md)*<sup>M</sup> (rain only), *[greater teleport](../../magic/spells/teleport-greater.md)* (self only), *[haste](../../magic/spells/haste.md)*<sup>M</sup>, *[heal](../../magic/spells/heal.md)*<sup>M</sup>, *[polymorph](../../magic/spells/polymorph.md)*, *[prismatic wall](../../magic/spells/prismatic-wall.md)* (DC 23), *[raise dead](../../magic/spells/raise-dead.md)*, *[slow](../../magic/spells/slow.md)*<sup>M</sup> (DC 18)
 
 **Statistics**
 

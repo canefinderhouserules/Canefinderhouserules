@@ -30,10 +30,10 @@ death effects, fire, mind-affecting effects, poison; **Resist** acid 30, electri
 (DC 28), slaughter demon, swallow whole (10d6 bludgeoning
 plus 10d6 fire damage, AC 22, 43 hp)  
 **Spell-Like Abilities** (CL 22nd; concentration +28)  
-Constant—*cloak of chaos* (DC 24), *detect good, detect law, fly, freedom of movement, true seeing*  
-At will—*contagious flame, desecrate*<sup>M</sup>, *fireball*<sup>M</sup> (DC 19), *greater dispel magic, greater teleport, wall of fire*<sup>M</sup>  
-3/day—quickened *contagious flame, delayed blast fireball* (DC 23), *harm*<sup>M</sup> (DC 22), *resurrection* (see tainted resurrection), *wall of lava*  
-1/day—*meteor swarm*<sup>M</sup> (DC 25), *summon qlippoth*  
+Constant—*[cloak of chaos](../../magic/spells/cloak-of-chaos.md)* (DC 24), *detect good, detect law, fly, freedom of movement, true seeing*  
+At will—*contagious flame, desecrate*<sup>M</sup>, *[fireball](../../magic/spells/fireball.md)*<sup>M</sup> (DC 19), *greater dispel magic, greater teleport, wall of fire*<sup>M</sup>  
+3/day—quickened *contagious flame, delayed blast fireball* (DC 23), *[harm](../../magic/spells/harm.md)*<sup>M</sup> (DC 22), *[resurrection](../../magic/spells/resurrection.md)* (see tainted resurrection), *[wall of lava](../../magic/spells/wall-of-lava.md)*  
+1/day—*[meteor swarm](../../magic/spells/meteor-swarm.md)*<sup>M</sup> (DC 25), *summon qlippoth*  
 <sup>M</sup> Chavazvug can use the mythic version of this ability within his sanctum.
 
 **Statistics**

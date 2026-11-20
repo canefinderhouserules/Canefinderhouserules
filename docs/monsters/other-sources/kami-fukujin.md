@@ -22,10 +22,10 @@ LN Tiny outsider (kami, native)
 **Melee** short sword +7 (1d3+1/19–20)  
 **Special Attacks** precise attacks  
 **Spell-Like Abilities** (CL 4th; concentration +6)  
-Constant—*speak with plants*  
-At will—*mending*, *purify food and drink*  
-3/day—*detect snares and pits*, *remove sickness*  
-1/day—*delay poison*, *goodberry*, *soften earth and stone*
+Constant—*[speak with plants](../../magic/spells/speak-with-plants.md)*  
+At will—*[mending](../../magic/spells/mending.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*  
+3/day—*[detect snares and pits](../../magic/spells/detect-snares-and-pits.md)*, *[remove sickness](../../magic/spells/remove-sickness.md)*  
+1/day—*[delay poison](../../magic/spells/delay-poison.md)*, *[goodberry](../../magic/spells/goodberry.md)*, *[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*
 
 **Statistics**
 

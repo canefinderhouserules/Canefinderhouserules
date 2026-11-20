@@ -24,15 +24,15 @@ thoughtsense 60 ft., tremorsense 120 ft.; Perception +40
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** hope theft  
 **Spell-Like Abilities** (CL 23rd; concentration +32)  
-Constant—*detect thoughts* (DC 23)  
+Constant—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 23)  
 
-At will—*mass suggestion* (DC 25), *mind thrust VI*
+At will—*[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 25), *[mind thrust VI](../../magic/spells/mind-thrust-vi.md)*
 (DC 27)  
 
-1/day—*animate plants* (DC 26; self unaffected),
-*weird* (DC 28)  
+1/day—*[animate plants](../../magic/spells/animate-plants.md)* (DC 26; self unaffected),
+*[weird](../../magic/spells/weird.md)* (DC 28)  
 **Psychic Magic** (CL 23rd; concentration +32)  
-40 PE—*create greater mindscape* (7 PE, DC 26), *dream council* (7 PE, DC 26), *dream scan* (6 PE, DC 25), *dream voyage* (9 PE, DC 28), *greater dispel magic* (6 PE), *id insinuation IV* (5 PE, DC 24), *microcosm* (9 PE, DC 28), *mind probe* (5 PE, DC 26), *nightmare* (5 PE, DC 24), *psychic image* (9 PE, DC 28)
+40 PE—*create greater mindscape* (7 PE, DC 26), *[dream council](../../magic/spells/dream-council.md)* (7 PE, DC 26), *[dream scan](../../magic/spells/dream-scan.md)* (6 PE, DC 25), *[dream voyage](../../magic/spells/dream-voyage.md)* (9 PE, DC 28), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)* (6 PE), *[id insinuation IV](../../magic/spells/id-insinuation-iv.md)* (5 PE, DC 24), *[microcosm](../../magic/spells/microcosm.md)* (9 PE, DC 28), *[mind probe](../../magic/spells/mind-probe.md)* (5 PE, DC 26), *[nightmare](../../magic/spells/nightmare.md)* (5 PE, DC 24), *[psychic image](../../magic/spells/psychic-image.md)* (9 PE, DC 28)
 
 **Statistics**
 

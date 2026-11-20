@@ -22,9 +22,9 @@ CE Medium outsider (chaotic, demon, evil, extraplanar, incorporeal)
 **Melee** 2 claws +11 touch (1d6 plus 1d6 cold), bite +11 touch (1d8 plus 1d6 cold)  
 **Special Attacks** pounce, sprint, shadow blend  
 **Spell-Like Abilities** (CL 10th)  
-At will—*deeper darkness*, *fear* (DC 18), *greater teleport* (self only), *telekinesis* (DC 19)  
-3/day—*shadow conjuration* (DC 18), *shadow evocation* (DC 19)  
-1/day—*magic jar* (DC 19), summon (level 3, 1 shadow demon 50%)
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[fear* ](../../magic/spells/fear.md)(DC 18), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self only), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 19)  
+3/day—*[shadow conjuration* ](../../magic/spells/shadow-conjuration.md)(DC 18), *[shadow evocation* ](../../magic/spells/shadow-evocation.md)(DC 19)  
+1/day—*[magic jar* ](../../magic/spells/magic-jar.md)(DC 19), summon (level 3, 1 shadow demon 50%)
 
 **Statistics**
 

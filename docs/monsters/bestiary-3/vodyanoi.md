@@ -21,8 +21,8 @@ CN Medium monstrous humanoid (aquatic)
 **Ranged** shortspear +10 (1d6+3)  
 **Special Attacks** suffocating water  
 **Spell-Like Abilities** (CL 6th; concentration +7)  
-3/day— *control water*, *dancing lights*, *grease* (DC 12), *hydraulic push* (DC 12), *water breathing*  
-1/day—*aqueous orb* (DC 14), *neutralize poison*, *remove disease*
+3/day— *[control water](../../magic/spells/control-water.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[grease* ](../../magic/spells/grease.md)(DC 12), *[hydraulic push* ](../../magic/spells/hydraulic-push.md)(DC 12), *[water breathing](../../magic/spells/water-breathing.md)*  
+1/day—*[aqueous orb* ](../../magic/spells/aqueous-orb.md)(DC 14), *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[remove disease](../../magic/spells/remove-disease.md)*
 
 **Statistics**
 

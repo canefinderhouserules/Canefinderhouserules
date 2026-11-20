@@ -24,7 +24,7 @@ Wisdom damage)
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** puppet master  
 **Spell-Like Abilities** (CL 5th; concentration +1)  
-Constant—*arcane sight*
+Constant—*[arcane sight](../../magic/spells/arcane-sight.md)*
 
 **Statistics**
 

@@ -21,8 +21,8 @@ N Small outsider (kami, native)
 **Melee** 2 claws +9 (1d3+2)  
 **Special Attacks** distracting gaze, sneak attack +2d6  
 **Spell-Like Abilities** (CL 6th; concentration +9)  
-At will—*speak with plants* (trees only), *tree shape*  
-3/day—*charm animal* (DC 14), *entangle* (DC 14), *tree stride* (self plus 50 lbs. of objects only)
+At will—*[speak with plants* ](../../magic/spells/speak-with-plants.md)(trees only), *[tree shape](../../magic/spells/tree-shape.md)*  
+3/day—*[charm animal* ](../../magic/spells/charm-animal.md)(DC 14), *[entangle* ](../../magic/spells/entangle.md)(DC 14), *[tree stride* ](../../magic/spells/tree-stride.md)(self plus 50 lbs. of objects only)
 
 **Statistics**
 

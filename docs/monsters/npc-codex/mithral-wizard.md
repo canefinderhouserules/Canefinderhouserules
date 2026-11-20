@@ -25,16 +25,16 @@ NE Medium humanoid (human)
 At will—elemental wall (8 rounds/day)  
 11/day—force missile (1d4+4)  
 **Evoker Spells Prepared** (CL 17th; concentration +25, arcane spell failure 25%)  
-9th—*meteor swarm*, *time stop*  
-8th—*mass charm monster* (DC 26), *mind blank*, quickened *phantasmal killer*, *polar ray*  
-7th—*banishment* (DC 25), quickened *fireball* (2), *mass hold person* (DC 25), *reverse gravity*  
-6th—*chain lightning* (DC 24), *disintegrate* (DC 24), quickened *glitterdust*, *greater dispel magic*, stilled *teleport*, *wall of iron*  
-5th—*cloudkill* (DC 23), stilled *dimension door*, *interposing hand*, *teleport*, *wall of force* (2)  
-4th—*beast shape II*, *confusion* (DC 22), *dimension door*, *fire shield*, stilled *fireball*, *stoneskin*, *wall of ice* (DC 22)  
-3rd—*dispel magic* (2), *fireball* (2, DC 21), *fly*, *lightning bolt* (2, DC 21)  
-2nd—*acid arrow* (2), *darkvision*, *invisibility*, *mirror image*, *scorching ray*, *web* (DC 20)  
-1st—*feather fall*, *magic missile* (4), *mount*, *shield*  
-0 (at will)—*detect magic*, *light*, *mage hand*, *message*  
+9th—*[meteor swarm](../../magic/spells/meteor-swarm.md)*, *[time stop](../../magic/spells/time-stop.md)*  
+8th—*[mass charm monster* ](../../magic/spells/charm-monster-mass.md)(DC 26), *[mind blank](../../magic/spells/mind-blank.md)*, quickened *[phantasmal killer](../../magic/spells/phantasmal-killer.md)*, *[polar ray](../../magic/spells/polar-ray.md)*  
+7th—*[banishment* ](../../magic/spells/banishment.md)(DC 25), quickened *[fireball* ](../../magic/spells/fireball.md)(2), *[mass hold person* ](../../magic/spells/hold-person-mass.md)(DC 25), *[reverse gravity](../../magic/spells/reverse-gravity.md)*  
+6th—*[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 24), *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 24), quickened *[glitterdust](../../magic/spells/glitterdust.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, stilled *[teleport](../../magic/spells/teleport.md)*, *[wall of iron](../../magic/spells/wall-of-iron.md)*  
+5th—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 23), stilled *[dimension door](../../magic/spells/dimension-door.md)*, *[interposing hand](../../magic/spells/interposing-hand.md)*, *[teleport](../../magic/spells/teleport.md)*, *[wall of force* ](../../magic/spells/wall-of-force.md)(2)  
+4th—*[beast shape II](../../magic/spells/beast-shape-ii.md)*, *[confusion* ](../../magic/spells/confusion.md)(DC 22), *[dimension door](../../magic/spells/dimension-door.md)*, *[fire shield](../../magic/spells/fire-shield.md)*, stilled *[fireball](../../magic/spells/fireball.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*, *[wall of ice* ](../../magic/spells/wall-of-ice.md)(DC 22)  
+3rd—*[dispel magic* ](../../magic/spells/dispel-magic.md)(2), *[fireball* ](../../magic/spells/fireball.md)(2, DC 21), *[fly](../../magic/spells/fly.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(2, DC 21)  
+2nd—*[acid arrow* ](../../magic/spells/acid-arrow.md)(2), *[darkvision](../../magic/spells/darkvision.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[web* ](../../magic/spells/web.md)(DC 20)  
+1st—*[feather fall](../../magic/spells/feather-fall.md)*, *[magic missile* ](../../magic/spells/magic-missile.md)(4), *[mount](../../magic/spells/mount.md)*, *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*  
 **Opposition Schools** divination, necromancy
 
 **Tactics**

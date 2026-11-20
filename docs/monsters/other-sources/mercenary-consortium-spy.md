@@ -22,10 +22,10 @@ NE Small humanoid (halfling)
 **Ranged**  *+1 dagger* +14 (1d3–1/19–20)  
 **Special Attacks** bardic performance 19 rounds/day (move action; countersong, distraction, fascinate, inspire competence +3, inspire courage +2, suggestion), sneak attack +2d6  
 **Bard Spells Known** (CL 7th; concentration +10)  
-3rd (2/day)—*clairaudience/clairvoyance*, *glibness*  
-2nd (4/day)—*detect thoughts* (DC 15), *invisibility*, *locate object*, *silence* (DC 15)  
-1st (5/day)—*charm person* (DC 14), *comprehend languages*, *detect secret doors*, *disguise self*, *erase*  
-0 (at will)—*detect magic*, *ghost sound* (DC 13), *lullaby* (DC 13), *mage hand*, *open/close*, *read magic*
+3rd (2/day)—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[glibness](../../magic/spells/glibness.md)*  
+2nd (4/day)—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 15), *[invisibility](../../magic/spells/invisibility.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[silence* ](../../magic/spells/silence.md)(DC 15)  
+1st (5/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[detect secret doors](../../magic/spells/detect-secret-doors.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[erase](../../magic/spells/erase.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[lullaby* ](../../magic/spells/lullaby.md)(DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

@@ -23,7 +23,7 @@ N Medium outsider (extraplanar, lawful)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with ribbon lashes)  
 **Special Attacks** ribbon lash  
 **Spell-Like Abilities** (CL 5th; concentration +9; save DCs are Charisma-based)  
-3/day—*comprehend languages*, *daze monster* (DC 14), *detect thoughts* (DC 14), *protection from chaos*
+3/day—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[daze monster](../../magic/spells/daze-monster.md)* (DC 14), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 14), *[protection from chaos](../../magic/spells/protection-from-chaos.md)*
 
 **Statistics**
 

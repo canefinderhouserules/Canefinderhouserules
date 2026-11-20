@@ -24,7 +24,7 @@ CE Huge humanoid (giant, mythic)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** contemptuous toss, earthquake, mythic power (6/day, surge +1d8), powerful charge (gore, 4d6+21), rock throwing (120 ft.)  
 **Spell-Like Abilities** (CL 12th; concentration +13)  
-1/day—*chain lightning* (DC 17)
+1/day—*[chain lightning](../../magic/spells/chain-lightning.md)* (DC 17)
 
 **Statistics**
 

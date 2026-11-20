@@ -23,8 +23,8 @@ LE Large outsider (evil, extraplanar, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** constrict (1d8+5), power surge  
 **Spell-Like Abilities** (CL 15th; concentration +22)  
-At will—*detect magic*, *floating disk*, *mage hand*, *read magic*, *tongues*  
-3/day—*cure serious wounds*, *dispel magic*, *displacement*, *fireball* (DC 20), *greater teleport* (self plus 50 lbs. of objects only), *hold person* (DC 20), *lightning bolt* (DC 20), *limited wish*, *magic missile*, *plane shift* (DC 24), *slow* (DC 20), *stinking cloud* (DC 20), *vampiric touch*
+At will—*[detect magic](../../magic/spells/detect-magic.md)*, *[floating disk](../../magic/spells/floating-disk.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[tongues](../../magic/spells/tongues.md)*  
+3/day—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[displacement](../../magic/spells/displacement.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 20),[ *greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[hold person* ](../../magic/spells/hold-person.md)(DC 20), *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 20), *[limited wish](../../magic/spells/limited-wish.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(DC 24), *[slow* ](../../magic/spells/slow.md)(DC 20), *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 20), *[vampiric touch](../../magic/spells/vampiric-touch.md)*
 
 **Statistics**
 

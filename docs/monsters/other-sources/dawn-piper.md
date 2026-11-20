@@ -22,8 +22,8 @@ CN Medium fey (extraplanar)
 **Melee** mwk rapier +8 (1d6+2/18–20)  
 **Special Attacks** dissonance (every 1d4 rounds, 15-ft. cone, 6d6 sonic damage, Reflex DC 16 half ), elemental font  
 **Spell-Like Abilities** (CL 7th; concentration +10)  
-3/day—*calm emotions* (DC 15), *delusional pride* (DC 14), *reckless infatuation* (DC 16), *unadulterated loathing*(DC 16), *unnatural lust* (DC 15)  
-1/day—*charm monster* (DC 17), *overwhelming grief* (DC 17), *rage* (DC 16)
+3/day—*[calm emotions* ](../../magic/spells/calm-emotions.md)(DC 15), *[delusional pride](../../magic/spells/delusional-pride.md)* (DC 14), *[reckless infatuation](../../magic/spells/reckless-infatuation.md)* (DC 16), *[unadulterated loathing](../../magic/spells/unadulterated-loathing.md)*(DC 16), *[unnatural lust](../../magic/spells/unnatural-lust.md)* (DC 15)  
+1/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 17), *[overwhelming grief](../../magic/spells/overwhelming-grief.md)* (DC 17), *[rage* ](../../magic/spells/rage.md)(DC 16)
 
 **Statistics**
 

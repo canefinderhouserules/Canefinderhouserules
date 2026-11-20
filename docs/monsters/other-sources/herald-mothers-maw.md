@@ -23,9 +23,9 @@ NE Large undead (evil, extraplanar, herald)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** breath weapon (60-ft. cone, 15d6 negative energy, Reflex DC 25 for half, usable every 1d4 rounds), channel negative energy 9/day (DC 19, 6d6), devour soul, disease, swallow whole (special, AC 17, 20 hp)  
 **Spell-Like Abilities** (CL 15th; concentration +21)  
-Constant—*desecrate*  
-At will—*contagion* (DC 20), *dimension door*, *ghoul hunger* (DC 18), *inflict critical wounds* (DC 20), quickened *vomit swarm* (maggots, use army ant swarm)  
-1/day—*animate dead*, *create undead*, *eyebite* (DC 22), *plane shift* (DC 22)
+Constant—*[desecrate](../../magic/spells/desecrate.md)*  
+At will—*[contagion* ](../../magic/spells/contagion.md)(DC 20), *[dimension door](../../magic/spells/dimension-door.md)*, *[ghoul hunger](../../magic/spells/ghoul-hunger.md)* (DC 18), *[inflict critical wounds](../../magic/spells/inflict-critical-wounds.md)* (DC 20), quickened *[vomit swarm](../../magic/spells/vomit-swarm.md)* (maggots, use army ant swarm)  
+1/day—*[animate dead](../../magic/spells/animate-dead.md)*, *[create undead](../../magic/spells/create-undead.md)*, *[eyebite* ](../../magic/spells/eyebite.md)(DC 22), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 22)
 
 **Statistics**
 

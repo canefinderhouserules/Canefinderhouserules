@@ -29,14 +29,14 @@ crush, decaying breath, entombing crush,
 inexorable attacks, lingering rot, rotting breath
 (1d6 negative levels), tail sweep  
 **Oracle Spells Known** (CL 15th; concentration +22)  
-7th (5)—*destruction* (DC 24), *repulsion* (DC 24)  
+7th (5)—*[destruction](../../magic/spells/destruction.md)* (DC 24), *[repulsion](../../magic/spells/repulsion.md)* (DC 24)  
 6th (7)—*animate objects, heal, word of recall*  
 5th (7)—*break enchantment, slay living* (DC 22), *true seeing, wall of stone*  
 4th (7)—*cure critical wounds, dismissal* (DC 21), *divination, spell immunity*  
 3rd (8)—*glyph of warding, meld into stone, searing light, speak with dead* (DC 20)  
 2nd (8)—*augury, cure moderate wounds, gentle repose, resist energy, silence* (DC 19)  
-1st (8)—*bless, cure light wounds, hide from undead, sanctuary* (DC 18), *shield of faith*  
-0 (at will)—*bleed* (DC 17), *create water, detect magic, guidance, light, mending, read magic, resistance, stabilize*
+1st (8)—*bless, cure light wounds, hide from undead, sanctuary* (DC 18), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 17), *create water, detect magic, guidance, light, mending, read magic, resistance, stabilize*
 
 **Statistics**
 

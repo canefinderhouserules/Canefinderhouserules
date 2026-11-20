@@ -21,7 +21,7 @@ LE Medium monstrous humanoid (aquatic)
 **Ranged**  1 light crossbow +5 (1d8/19–20)  
 **Special Attacks** blood frenzy  
 **Spell-Like Abilities** (CL 5th; concentration +6)  
-3/day—*command* (only works on creatures with the aquatic subtype; DC 13)
+3/day—*[command* ](../../magic/spells/command.md)(only works on creatures with the aquatic subtype; DC 13)
 
 **Statistics**
 

@@ -23,8 +23,8 @@ plus bleed)
 **Special Attacks** bleed (1d6), mirror jump, rend
 (2 claws, 1d8+8+12)  
 **Spell-Like Abilities** (CL 10th; concentration +15)  
-At will—*dimension door* (via reflective surfaces only)  
-3/day—*mass inflict moderate wounds* (DC 21)
+At will—*[dimension door](../../magic/spells/dimension-door.md)* (via reflective surfaces only)  
+3/day—*[mass inflict moderate wounds](../../magic/spells/inflict-moderate-wounds-mass.md)* (DC 21)
 
 **Statistics**
 

@@ -24,15 +24,15 @@ NE Medium humanoid (elf)
 **Spell-Like Abilities** (CL 15th; concentration +20)  
 8/day—wooden fist  
 **Druid Spells Prepared** (CL 15th; concentration +20)  
-8th—*control plants*<sup>D</sup>(DC 23), *word of recall*  
-7th—*animate plants*<sup>D</sup>, *creeping doom* (DC 22), *true seeing*  
-6th—*antilife shell*, *mass cure light wounds*, *repel wood*<sup>D</sup>, *wall of stone*  
-5th—*baleful polymorph* (DC 20), *insect plague*, *stoneskin*, *transmute rock to mud*, *tree stride*, *wall of thorns*<sup>D</sup>  
-4th—*air walk*, *command plants*<sup>D</sup>(DC 19), *cure serious wounds*, *freedom of movement*, *rusting grasp*, *scrying* (DC 19)  
-3rd—*daylight*, *greater magic fang* (2), *plant growth*<sup>D</sup>, *protection from energy* (2, DC 18)  
-2nd—*barkskin*<sup>D</sup>(3), *bear’s endurance*, *lesser restoration*, *longstrider*  
-1st—*cure light wounds* (2), *entangle*<sup>D</sup>(DC 16), *faerie fire* (2), *obscuring mist*, *speak with animals*  
-0 (at will)—*detect magic*, *light*, *mending*, *read magic*  
+8th—*[control plants](../../magic/spells/control-plants.md)*<sup>D</sup>(DC 23), *[word of recall](../../magic/spells/word-of-recall.md)*  
+7th—*[animate plants](../../magic/spells/animate-plants.md)*<sup>D</sup>, *[creeping doom* ](../../magic/spells/creeping-doom.md)(DC 22), *[true seeing](../../magic/spells/true-seeing.md)*  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, *[mass cure light wounds](../../magic/spells/cure-light-wounds-mass.md)*, *[repel wood](../../magic/spells/repel-wood.md)*<sup>D</sup>, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+5th—*[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 20), *[insect plague](../../magic/spells/insect-plague.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*, *[transmute rock to mud](../../magic/spells/transmute-rock-to-mud.md)*, *[tree stride](../../magic/spells/tree-stride.md)*, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*<sup>D</sup>  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[command plants](../../magic/spells/command-plants.md)*<sup>D</sup>(DC 19), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[rusting grasp](../../magic/spells/rusting-grasp.md)*, *[scrying* ](../../magic/spells/scrying.md)(DC 19)  
+3rd—*[daylight](../../magic/spells/daylight.md)*, *[greater magic fang* ](../../magic/spells/magic-fang-greater.md)(2), *[plant growth](../../magic/spells/plant-growth.md)*<sup>D</sup>, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(2, DC 18)  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*<sup>D</sup>(3), *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[longstrider](../../magic/spells/longstrider.md)*  
+1st—*[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(2), *[entangle](../../magic/spells/entangle.md)*<sup>D</sup>(DC 16), *[faerie fire* ](../../magic/spells/faerie-fire.md)(2), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** Domain spell; **Domain** Plant
 
 **Tactics**

@@ -22,8 +22,8 @@ CN Large outsider (chaotic, extraplanar)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** adamantine attacks  
 **Spell-Like Abilities** (CL 6th; concentration +6)  
-3/day—*bear’s endurance*, *cure light wounds*, *true strike*  
-1/day—*rage*
+3/day—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+1/day—*[rage](../../magic/spells/rage.md)*
 
 **Statistics**
 

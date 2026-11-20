@@ -21,9 +21,9 @@ CG Small outsider (azata, chaotic, extraplanar, good, shapechanger)
 **Melee** bite +9 (1d3–1 plus poison), 2 wings +4 (1d4–1)  
 **Special Attacks** favored enemy (evil outsiders +2, vermin +2), poison, starlight blast  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-Constant—*detect evil*, *detect magic*  
-3/day—*cure light wounds*, *locate creature*, *magic missile*, *message*  
-1/day—*blindness/deafness* (DC 15), *neutralize poison*, *true strike*
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+3/day—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[locate creature](../../magic/spells/locate-creature.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[message](../../magic/spells/message.md)*  
+1/day—*[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 15), *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[true strike](../../magic/spells/true-strike.md)*
 
 **Statistics**
 

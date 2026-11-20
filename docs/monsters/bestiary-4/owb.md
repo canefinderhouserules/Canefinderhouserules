@@ -23,10 +23,10 @@ NE Medium outsider (extraplanar)
 **Ranged**  burning cold +14 touch (3d6 cold)  
 **Special Attacks** burning cold, curse of darkness  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-Constant—*blur*  
-At will—*deeper darkness*, *detect thoughts*, *dust of twillight* (DC 15)  
-5/day—*shadow step*  
-1/day—*plane shift* (self only, to or from the Shadow Plane only)
+Constant—*[blur](../../magic/spells/blur.md)*  
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)*, *dust of twillight* (DC 15)  
+5/day—*[shadow step](../../magic/spells/shadow-step.md)*  
+1/day—*[plane shift](../../magic/spells/plane-shift.md)* (self only, to or from the Shadow Plane only)
 
 **Statistics**
 

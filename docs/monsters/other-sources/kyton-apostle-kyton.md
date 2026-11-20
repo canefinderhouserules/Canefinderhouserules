@@ -22,7 +22,7 @@ LE Medium outsider (augmented humanoid, kyton, native)
 **Melee** *+1 cold iron sickle* +18/+13/+8 (1d6+5 plus 1d6 bleed), *+1 cold iron sickle* +18/+13/+8 (1d6+5 plus 1d6 bleed)  
 **Special Attacks** agonizing prayer (11d6, DC 20), bleeding touch (1d6), seductive oration (2d6 Wisdom or 6 sanity, DC 20), sneak attack +3d6, studied target +3 (3rd, swift action), unnerving gaze (30 ft.; DC 20)  
 **Spell-Like Abilities** (CL 11th; concentration +16)  
-1/day—*shadow walk*
+1/day—*[shadow walk](../../magic/spells/shadow-walk.md)*
 
 **Statistics**
 

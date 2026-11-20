@@ -22,8 +22,8 @@ NE Medium outsider (native)
 **Ranged**  composite longbow +4 (1d8+4/×3)  
 **Special Attacks** blood drain (1 Con)  
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
-At will—*feather fall*  
-3/day—*align weapon*, *death knell* (DC 14), *ray of enfeeblement* (DC 13)
+At will—*[feather fall](../../magic/spells/feather-fall.md)*  
+3/day—*[align weapon](../../magic/spells/align-weapon.md)*, *[death knell* ](../../magic/spells/death-knell.md)(DC 14), *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 13)
 
 **Statistics**
 

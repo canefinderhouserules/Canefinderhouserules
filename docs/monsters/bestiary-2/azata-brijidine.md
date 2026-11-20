@@ -24,10 +24,10 @@ CG Medium outsider (azata, chaotic, earth, extraplanar, fire, good)
 **Ranged**  lava blast +24 (16d6 fire plus burn and entrap)  
 **Special Attacks** entrap (DC 26, instantaneous, hardness 8, hp 30), burn (2d6, DC 26), trample (1d8+7, DC 24)  
 **Spell-Like Abilities** (CL 19th; concentration +25)  
-Constant—*holy aura* (DC 24)  
-At will—*flaming sphere* (DC 18), *heat metal* (DC 18), *meld into stone* (self only), *soften earth and stone*, *stone shape*  
-5/day—*cure serious wounds*, *flame strike* (DC 21), *move earth*, *spike stones* (DC 20), *stone tell*, *summon nature’s ally V* (earth and fire elementals only), *wall of stone* (DC 22)  
-3/day—*earthquake*, *fire storm* (DC 23), *heal*, *stoneskin*, *wall of fire*
+Constant—*[holy aura](../../magic/spells/holy-aura.md)* (DC 24)  
+At will—*[flaming sphere](../../magic/spells/flaming-sphere.md)* (DC 18), *[heat metal](../../magic/spells/heat-metal.md)* (DC 18), *[meld into stone](../../magic/spells/meld-into-stone.md)* (self only), *[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*, *[stone shape](../../magic/spells/stone-shape.md)*  
+5/day—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[flame strike](../../magic/spells/flame-strike.md)* (DC 21), *[move earth](../../magic/spells/move-earth.md)*, *[spike stones](../../magic/spells/spike-stones.md)* (DC 20), *[stone tell](../../magic/spells/stone-tell.md)*, *[summon nature’s ally V](../../magic/spells/summon-natures-ally-v.md)* (earth and fire elementals only), *[wall of stone](../../magic/spells/wall-of-stone.md)* (DC 22)  
+3/day—*[earthquake](../../magic/spells/earthquake.md)*, *[fire storm](../../magic/spells/fire-storm.md)* (DC 23), *[heal](../../magic/spells/heal.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*
 
 **Statistics**
 

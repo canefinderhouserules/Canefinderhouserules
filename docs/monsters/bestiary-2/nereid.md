@@ -24,8 +24,8 @@ CN Medium fey (water)
 **Ranged**  spray +15 touch (poison)  
 **Special Attacks** drowning kiss  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-At will—*control water*, *suggestion* (DC 18; only against creatures that are currently fascinated by her beguiling aura)  
-1/day—*summon monster VI* (water elementals only)
+At will—*[control water](../../magic/spells/control-water.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 18; only against creatures that are currently fascinated by her beguiling aura)  
+1/day—*[summon monster VI* ](../../magic/spells/summon-monster-vi.md)(water elementals only)
 
 **Statistics**
 

@@ -23,9 +23,9 @@ LE Medium humanoid (dwarf, mortic)
 **Melee** adamantine warhammer +16/+11/+6 (1d8+6/×3)  
 **Special Attacks** fatal accident (1/day, 12d6 or 6d6 plus maneuver, DC 21 half)  
 **Spell-Like Abilities** (CL 17th; concentration +20)  
-At will—*meld into stone*  
- 3/day—*spike stones* (DC 17), *stone shape*  
- 1/day—*wall of stone*
+At will—*[meld into stone](../../magic/spells/meld-into-stone.md)*  
+ 3/day—*[spike stones](../../magic/spells/spike-stones.md)* (DC 17), *[stone shape](../../magic/spells/stone-shape.md)*  
+ 1/day—*[wall of stone](../../magic/spells/wall-of-stone.md)*
 
 **Statistics**
 

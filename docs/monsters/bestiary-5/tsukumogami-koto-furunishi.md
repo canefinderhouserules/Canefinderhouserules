@@ -22,7 +22,7 @@ fire 10
 **Speed** 30 ft.  
 **Melee** 2 slams +7 (1d4)  
 **Spell-Like Abilities** (CL 1st; concentration +3)  
-At will—*decrepit disguise* (self only), *ghost sound,
+At will—*[decrepit disguise](../../magic/spells/decrepit-disguise.md)* (self only), *ghost sound,
 mending, quintessence* (self only)
 
 **Statistics**

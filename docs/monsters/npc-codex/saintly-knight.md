@@ -25,14 +25,14 @@ LG Medium humanoid (human, orc)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with lance)  
 **Special Attacks** channel positive energy (DC 16, 5d6), smite evil 3/day (+2 attack and AC, +9 damage)  
 **Spell-Like Abilities** (CL 9th; concentration +11)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 6th; concentration +8)  
-2nd—*resist energy*, *zone of truth*  
-1st—*divine favor*, *lesser restoration*, *protection from evil*
+2nd—*[resist energy](../../magic/spells/resist-energy.md)*, *[zone of truth](../../magic/spells/zone-of-truth.md)*  
+1st—*[divine favor](../../magic/spells/divine-favor.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*
 
 **Tactics**
 
-**Before Combat** The paladin casts *resist energy* (fire) unless he expects damage from a different energy type. He applies *silversheen* to his weapon if he expects to fight devils or lycanthropes.  
+**Before Combat** The paladin casts *[resist energy* ](../../magic/spells/resist-energy.md)(fire) unless he expects damage from a different energy type. He applies *silversheen* to his weapon if he expects to fight devils or lycanthropes.  
 **During Combat** The paladin uses Ride-By Attack and Spirited Charge, preferring to attack the opposing leader. When on foot, he uses his mace. If facing a powerful foe, he drinks his potions.  
 **Base Statistics** Without *resist energy*, the paladin’s statistics are **Resist** none.
 

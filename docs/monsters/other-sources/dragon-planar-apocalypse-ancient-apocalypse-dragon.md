@@ -23,14 +23,14 @@ NE Gargantuan dragon (evil, extraplanar)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** blight coils, breath weapon (60-ft. cone, 20d6 cold plus disease, DC 31), constrict (4d6+24), crush, soul reaver, tail sweep, virulence  
 **Oracle Spells Known** (CL 15th; concentration +22)  
-7th (5/day)—*blasphemy* (DC 24), *control weather*  
-6th (7/day)—*heal*, *plague storm* (DC 23), *word of recall*  
-5th (7/day)—*cleanse*, *dispel good*, *flame strike* (DC 22), *plane shift* (DC 22)  
-4th (7/day)—*dimensional anchor*, *dismissal* (DC 21), *giant vermin*, *unholy blight* (DC 21)  
-3rd (8/day)—*bestow curse* (DC 20), *blindness/deafness* (DC 20), *contagion* (DC 20), *dispel magic*  
-2nd (8/day)—*aid*, *darkness*, *death knell* (DC 19), *disfiguring touch* (DC 19), *silence* (DC 19)  
-1st (8/day)—*doom* (DC 18), *endure elements*, *obscuring mist*, *protection from good*, *ray of sickening* (DC 18)  
-0 (at will)—*bleed* (DC 17), *create water*, *detect magic*, *detect poison*, *guidance*, *light*, *read magic*, *spark*
+7th (5/day)—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 24), *[control weather](../../magic/spells/control-weather.md)*  
+6th (7/day)—*[heal](../../magic/spells/heal.md)*, *[plague storm](../../magic/spells/plague-storm.md)* (DC 23), *[word of recall](../../magic/spells/word-of-recall.md)*  
+5th (7/day)—*[cleanse](../../magic/spells/cleanse.md)*, *[dispel good](../../magic/spells/dispel-good.md)*, *[flame strike](../../magic/spells/flame-strike.md)* (DC 22), *[plane shift](../../magic/spells/plane-shift.md)* (DC 22)  
+4th (7/day)—*[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[dismissal](../../magic/spells/dismissal.md)* (DC 21), *[giant vermin](../../magic/spells/giant-vermin.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 21)  
+3rd (8/day)—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 20), *[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 20), *[contagion](../../magic/spells/contagion.md)* (DC 20), *[dispel magic](../../magic/spells/dispel-magic.md)*  
+2nd (8/day)—*[aid](../../magic/spells/aid.md)*, *[darkness](../../magic/spells/darkness.md)*, *[death knell](../../magic/spells/death-knell.md)* (DC 19), *[disfiguring touch](../../magic/spells/disfiguring-touch.md)* (DC 19), *[silence](../../magic/spells/silence.md)* (DC 19)  
+1st (8/day)—*[doom](../../magic/spells/doom.md)* (DC 18), *[endure elements](../../magic/spells/endure-elements.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*, *[ray of sickening](../../magic/spells/ray-of-sickening.md)* (DC 18)  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 17), *[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[spark](../../magic/spells/spark.md)*
 
 **Statistics**
 

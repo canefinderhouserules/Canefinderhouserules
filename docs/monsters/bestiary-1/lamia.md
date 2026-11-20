@@ -21,9 +21,9 @@ CE Large monstrous humanoid
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** Wisdom drain  
 **Spell-Like Abilities** (CL 9th)  
-At will—*disguise self*, *ventriloquism*  
-3/day—*charm monster* (DC 15), *major image* (DC 14), *mirror image*, *suggestion* (DC 14)  
-1/day—*deep slumber* (DC 14)
+At will—*[disguise self](../../magic/spells/disguise-self.md)*, *[ventriloquism](../../magic/spells/ventriloquism.md)*  
+3/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 15), *[major image* ](../../magic/spells/major-image.md)(DC 14), *[mirror image](../../magic/spells/mirror-image.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 14)  
+1/day—*[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 14)
 
 **Statistics**
 

@@ -24,7 +24,7 @@ LE Medium humanoid (dwarf)
 **Ranged**  mwk light crossbow +4 (1d8/19–20)  
 **Special Attacks** favored enemy (dwarves +2)  
 **Spell-Like Abilities** (CL 1st; concentration –2)  
-1/day—*invisibility* (self only), *ironskin*
+1/day—*[invisibility](../../magic/spells/invisibility.md)* (self only), *[ironskin](../../magic/spells/ironskin.md)*
 
 **Statistics**
 

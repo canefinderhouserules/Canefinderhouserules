@@ -23,9 +23,9 @@ CG Medium humanoid (elf)
 **Ranged**  *+1 evil-outsider-bane composite longbow* +19/+14/+9 (1d8+2/19–20/×3)  
 **Special Attacks** favored enemy (evil outsiders +6, magical beasts +2, plants +2)  
 **Ranger Spells Prepared** (CL 9th; concentration +11)  
-3rd—*tree shape*  
-2nd—*barkskin*, *bear’s endurance*, *cure light wounds*  
-1st—*alarm*, *longstrider*, *resist energy*
+3rd—*[tree shape](../../magic/spells/tree-shape.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*  
+1st—*[alarm](../../magic/spells/alarm.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Statistics**
 

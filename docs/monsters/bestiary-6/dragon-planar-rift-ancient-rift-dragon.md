@@ -30,14 +30,14 @@ weapon (60-ft. cone, 20d10 acid, Reflex DC 33 half),
 corrosion, crush, dissolution, flatten, foul acid, tail sweep,
 trample (4d6+22 plus bleed, DC 39)  
 **Oracle Spells Known** (CL 15th; concentration +23)  
-7th (5)—*blasphemy* (DC 25), *destruction* (DC 25)  
-6th (7)—*epidemic* (DC 24), *harm* (DC 24), *heal*  
-5th (7)—*cure critical wounds, dispel good, plane shift* (DC 23), *true seeing*  
-4th (8)—*dismissal* (DC 22), *divine power, freedom of movement, unholy blight* (DC 22)  
-3rd (8)—*contagion* (DC 21), *cure serious wounds, deeper darkness, dispel magic*  
-2nd (8)—*death knell* (DC 20), *desecrate, hold person* (DC 20), *shatter* (DC 20), *sound burst* (DC 20)  
-1st (8)—*bane* (DC 19), *cure light wounds, murderous command* (DC 19), *obscuring mist, shield of faith*  
-0 (at will)—*bleed* (DC 18), *create water, detect magic, detect poison, guidance, read magic, resistance, spark* (DC 18), *virtue*
+7th (5)—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 25), *[destruction](../../magic/spells/destruction.md)* (DC 25)  
+6th (7)—*[epidemic](../../magic/spells/epidemic.md)* (DC 24), *[harm](../../magic/spells/harm.md)* (DC 24), *[heal](../../magic/spells/heal.md)*  
+5th (7)—*cure critical wounds, dispel good, plane shift* (DC 23), *[true seeing](../../magic/spells/true-seeing.md)*  
+4th (8)—*[dismissal](../../magic/spells/dismissal.md)* (DC 22), *divine power, freedom of movement, unholy blight* (DC 22)  
+3rd (8)—*[contagion](../../magic/spells/contagion.md)* (DC 21), *cure serious wounds, deeper darkness, dispel magic*  
+2nd (8)—*[death knell](../../magic/spells/death-knell.md)* (DC 20), *desecrate, hold person* (DC 20), *[shatter](../../magic/spells/shatter.md)* (DC 20), *[sound burst](../../magic/spells/sound-burst.md)* (DC 20)  
+1st (8)—*[bane](../../magic/spells/bane.md)* (DC 19), *cure light wounds, murderous command* (DC 19), *obscuring mist, shield of faith*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 18), *create water, detect magic, detect poison, guidance, read magic, resistance, spark* (DC 18), *[virtue](../../magic/spells/virtue.md)*
 
 **Statistics**
 

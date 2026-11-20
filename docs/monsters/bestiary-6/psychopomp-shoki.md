@@ -25,8 +25,8 @@ disease, fear, poison, sleep; **Resist** electricity 10; **SR** 20
 **Special Attacks** soul lock  
 **Spell-Like Abilities** (CL 9th; concentration +12)  
 Constant—*detect chaos, detect evil, detect good, detect law, detect magic*  
-At will—*etherealness, invisibility* (self only), *mass cure moderate wounds* (DC 19, harm undead only), *protection from evil, protection from good, searing light*  
-1/day—*plane shift* (self only)
+At will—*etherealness, invisibility* (self only), *[mass cure moderate wounds](../../magic/spells/cure-moderate-wounds-mass.md)* (DC 19, harm undead only), *protection from evil, protection from good, searing light*  
+1/day—*[plane shift](../../magic/spells/plane-shift.md)* (self only)
 
 **Statistics**
 

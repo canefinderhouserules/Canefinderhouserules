@@ -23,8 +23,8 @@ NE Large undead
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** festering heads  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-At will—*darkness*  
-1/day—*cloudkill* (DC 18)
+At will—*[darkness* ](../../magic/spells/darkness.md)  
+1/day—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 18)
 
 **Statistics**
 

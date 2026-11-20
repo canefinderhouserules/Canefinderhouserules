@@ -23,8 +23,8 @@ N Huge magical beast (mythic)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** mythic power (6/day, surge +1d8), powerful bite  
 **Spell-Like Abilities** (CL 18th; concentration +19)  
-Constant—*nondetection*, *pass without trace*  
-At will—*dancing lights*, *fire shield*, *sunbeam* (DC 16)
+Constant—*[nondetection](../../magic/spells/nondetection.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[fire shield](../../magic/spells/fire-shield.md)*, *[sunbeam](../../magic/spells/sunbeam.md)* (DC 16)
 
 **Statistics**
 

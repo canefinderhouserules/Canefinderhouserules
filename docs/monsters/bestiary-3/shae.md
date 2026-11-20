@@ -20,7 +20,7 @@ N Medium outsider (extraplanar)
 **Speed** 30 ft.  
 **Melee** mwk falchion +8 (2d4+4/18–20 plus 1d6 cold) or touch +7 (1d6 cold)  
 **Spell-Like Abilities** (CL 4th; concentration +7)  
-Constant—*blur*  
+Constant—*[blur](../../magic/spells/blur.md)*  
 At will—*lesser shadow evocation* (DC 16)
 
 **Statistics**

@@ -30,9 +30,9 @@ cackle, charm, dire prophecy, disguise, evil eye,
 misfortune, retribution, speak in dreams), soul eater  
 **Spell-Like Abilities** (CL 18th; concentration +24)  
 Constant—*deathwatch, freedom of movement, haste, tongues, true seeing*
-At will—*bestow curse* (DC 20), *crushing despair* (DC 19), *detect thoughts* (DC 18), *dispel magic, fear* (DC 20), *scrying* (DC 20), *suggestion* (DC 19)
-1/day—*circle of death* (DC 22), *ethereal jaunt, geas/quest, mass suggestion* (DC 22), *modify memory* (DC 20)
-1/month—*limited wish* (to non-fey only)
+At will—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 20), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 19), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 18), *dispel magic, fear* (DC 20), *[scrying](../../magic/spells/scrying.md)* (DC 20), *[suggestion](../../magic/spells/suggestion.md)* (DC 19)
+1/day—*[circle of death](../../magic/spells/circle-of-death.md)* (DC 22), *ethereal jaunt, geas/quest, mass suggestion* (DC 22), *[modify memory](../../magic/spells/modify-memory.md)* (DC 20)
+1/month—*[limited wish](../../magic/spells/limited-wish.md)* (to non-fey only)
 
 **Statistics**
 

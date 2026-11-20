@@ -24,10 +24,10 @@ CE Medium outsider (chaotic, demon, evil, extraplanar, fire)
 **Ranged**  *firebow* +43/+38/+33/+28 (1d8+14/19–20/×3 plus 1d6 fire and burn)  
 **Special Attacks** burn (8d6 fire, DC 38), constrict (2d6+13 plus 4d6 fire and burn), dream haunting, energy drain, fiery passion, profane benediction  
 **Spell-Like Abilities** (CL 20th)  
-Constant—*detect good*, *detect law*, *fire shield* (warm shield only), *freedom of movement*, *true seeing*, *unholy aura* (DC 31)  
-At will—*charm monster* (DC 27), *desecrate*, *greater dispel magic*, *greater teleport*, *mass suggestion* (DC 29), *telekinesis* (DC 28), *unholy blight* (DC 27)  
-3/day—empowered *delayed blast fireball* (DC 30), quickened *dominate person* (DC 28), *symbol of persuasion* (DC 29)  
-1/day—*meteor swarm* (DC 32), *nightmare* (DC 28), summon demons, *time stop*
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[fire shield](../../magic/spells/fire-shield.md)* (warm shield only), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura](../../magic/spells/unholy-aura.md)* (DC 31)  
+At will—*[charm monster](../../magic/spells/charm-monster.md)* (DC 27), *[desecrate](../../magic/spells/desecrate.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 29), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 28), *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 27)  
+3/day—empowered *[delayed blast fireball](../../magic/spells/delayed-blast-fireball.md)* (DC 30), quickened *[dominate person](../../magic/spells/dominate-person.md)* (DC 28), *[symbol of persuasion](../../magic/spells/symbol-of-persuasion.md)* (DC 29)  
+1/day—*[meteor swarm](../../magic/spells/meteor-swarm.md)* (DC 32), *[nightmare](../../magic/spells/nightmare.md)* (DC 28), summon demons, *[time stop](../../magic/spells/time-stop.md)*
 
 **Statistics**
 

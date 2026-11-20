@@ -22,8 +22,8 @@ LE Medium outsider (asura, evil, extraplanar, lawful)
 **Melee** 2 mwk kukris +15/+10 (1d4+5/18–20), 2 claws +9 (1d4+2)  
 **Special Attacks** dance of disaster  
 **Spell-Like Abilities** (CL 6th; concentration +9)  
-At will— *feather fall*, *greater teleport* (self plus 50 lbs. of objects only), *spider climb*  
-3/day—*blink*, *blur*, *mirror image*, *spike growth*  
+At will— *[feather fall](../../magic/spells/feather-fall.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[spider climb](../../magic/spells/spider-climb.md)*  
+3/day—*[blink](../../magic/spells/blink.md)*, *[blur](../../magic/spells/blur.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[spike growth](../../magic/spells/spike-growth.md)*  
 1/day—summon (level 4, 1 adhukait 35%)
 
 **Statistics**

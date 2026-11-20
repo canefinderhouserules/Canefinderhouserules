@@ -27,7 +27,7 @@ At will—*gust of wind, resist energy* (electricity only)
 
 3/day—*cure serious wounds, suggestion* (DC 18)  
 
-1/day—*ball lightning* (DC 19), *dispel magic*
+1/day—*[ball lightning](../../magic/spells/ball-lightning.md)* (DC 19), *[dispel magic](../../magic/spells/dispel-magic.md)*
 
 **Statistics**
 

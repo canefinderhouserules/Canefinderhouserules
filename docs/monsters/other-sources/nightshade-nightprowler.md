@@ -24,10 +24,10 @@ CE Large undead (extraplanar, nightshade)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** channel negative energy (DC 20, 5d6, 7/day), creeping dark, rake (2 claws +18, 1d6+10), shadowpounce  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
-Constant—*detect magic*, *magic fang*  
-At will—*deeper darkness*, *unholy blight* (DC 18)  
-3/day—*dispel magic*, *contagion* (DC 18), *invisibility*  
-1/day—*air walk*, *confusion* (DC 18), *cone of cold* (DC 19), *haste*, *hold monster* (DC 19), summon (level 4, 2 shadows)
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[magic fang](../../magic/spells/magic-fang.md)*  
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 18)  
+3/day—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[contagion](../../magic/spells/contagion.md)* (DC 18), *[invisibility](../../magic/spells/invisibility.md)*  
+1/day—*[air walk](../../magic/spells/air-walk.md)*, *[confusion](../../magic/spells/confusion.md)* (DC 18), *[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 19), *[haste](../../magic/spells/haste.md)*, *[hold monster](../../magic/spells/hold-monster.md)* (DC 19), summon (level 4, 2 shadows)
 
 **Statistics**
 

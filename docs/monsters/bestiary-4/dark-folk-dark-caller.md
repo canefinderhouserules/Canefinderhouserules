@@ -21,10 +21,10 @@ CE Medium humanoid (dark folk)
 **Melee** mwk dagger +10/+5 (1d4+2/19–20 plus black smear poison)  
 **Special Attacks** death throes, sneak attack +2d6  
 **Spell-Like Abilities** (CL 8th; concentration +12)  
-Constant—*detect magic*  
-At will—*bleed* (DC 14)  
-3/day—*deeper darkness*, *shadow step*  
-1/day—*shadow conjuration* (DC 18)
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[bleed* ](../../magic/spells/bleed.md)(DC 14)  
+3/day—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[shadow step](../../magic/spells/shadow-step.md)*  
+1/day—*[shadow conjuration* ](../../magic/spells/shadow-conjuration.md)(DC 18)
 
 **Statistics**
 

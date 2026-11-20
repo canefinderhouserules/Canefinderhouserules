@@ -28,9 +28,9 @@ plus grab)
 fear (60 ft., DC 25), miasma  
 **Spell-Like Abilities** (CL 17th; concentration +23)  
 Constant—*detect good, detect magic, fly, greater magic fang, true seeing*  
-At will—*feast on fear* (DC 23), *putrefy food and drink* (DC 16)  
-3/day—*cloudkill* (DC 21), quickened *displacement, suggestion* (DC 19)  
-1/day—*horrid wilting* (DC 24), *imprisonment* (DC 25), *maze, sequester*
+At will—*[feast on fear](../../magic/spells/feast-on-fear.md)* (DC 23), *[putrefy food and drink](../../magic/spells/putrefy-food-and-drink.md)* (DC 16)  
+3/day—*[cloudkill](../../magic/spells/cloudkill.md)* (DC 21), quickened *displacement, suggestion* (DC 19)  
+1/day—*[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 24), *[imprisonment](../../magic/spells/imprisonment.md)* (DC 25), *maze, sequester*
 
 **Statistics**
 

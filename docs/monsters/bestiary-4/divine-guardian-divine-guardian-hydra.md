@@ -22,9 +22,9 @@ N Huge magical beast (air, water)
 **Space** 15 ft., **Reach** 10 ft.  
 **Special Attacks** pounce  
 **Spell-Like Abilities** (CL 5th; concentration +6)  
-At will—*dimension door* (within sacred site only)  
-3/day—*alarm*, *knock*  
-1/day—*arcane lock*, *augury*, *clairvoyance/clairaudience*, *hold portal*
+At will—*[dimension door](../../magic/spells/dimension-door.md)* (within sacred site only)  
+3/day—*[alarm](../../magic/spells/alarm.md)*, *[knock](../../magic/spells/knock.md)*  
+1/day—*[arcane lock](../../magic/spells/arcane-lock.md)*, *[augury](../../magic/spells/augury.md)*, *clairvoyance/clairaudience*, *[hold portal](../../magic/spells/hold-portal.md)*
 
 **Statistics**
 

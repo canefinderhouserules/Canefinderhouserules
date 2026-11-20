@@ -20,8 +20,8 @@ CE Medium monstrous humanoid
 **Speed** 30 ft., swim 30 ft.  
 **Melee** 2 claws +13 (1d4+4 plus weakness)  
 **Spell-Like Abilities** (CL 9th)  
-Constant—*pass without trace*, *tongues*, *water breathing*  
-At will—*alter self*, *dancing lights*, *ghost sound* (DC 12), *invisibility*, *pyrotechnics* (DC 14), *tree shape*, *whispering wind*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*, *[tongues](../../magic/spells/tongues.md)*, *[water breathing](../../magic/spells/water-breathing.md)*  
+At will—*[alter self](../../magic/spells/alter-self.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 12), *[invisibility](../../magic/spells/invisibility.md)*, *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 14), *[tree shape](../../magic/spells/tree-shape.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*
 
 **Statistics**
 

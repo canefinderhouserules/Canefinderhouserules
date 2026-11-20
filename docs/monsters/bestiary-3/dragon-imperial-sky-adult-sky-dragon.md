@@ -23,12 +23,12 @@ LG Huge dragon (air)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite and gore)  
 **Special Attacks** breath weapon (50-ft. cone, 12d8 electricity damage, DC 23), crush (DC 23, 2d8+12)  
 **Spell-Like Abilities** (CL 16th; concentration +21)  
-At will—*detect evil*, *feather fall*, *gust of wind* (DC 17)  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 17)  
 **Spells Known** (CL 7th; concentration +12)  
-3rd (5/day)—*blink*, *lightning bolt* (DC 18)  
-2nd (7/day)—*glitterdust* (DC 17), *invisibility*, *resist energy*  
-1st (8/day)—*endure elements*, *expeditious retreat*, *magic missile*, *obscuring mist*, *shocking grasp*  
-0 (at will)—*detect magic*, *disrupt undead*, *mage hand*, *mending*, *message*, *ray of frost*, *read magic*
+3rd (5/day)—*[blink](../../magic/spells/blink.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 18)  
+2nd (7/day)—*[glitterdust* ](../../magic/spells/glitterdust.md)(DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st (8/day)—*[endure elements](../../magic/spells/endure-elements.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

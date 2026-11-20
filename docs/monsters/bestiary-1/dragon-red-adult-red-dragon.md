@@ -24,12 +24,12 @@ CE Huge dragon (fire)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, DC 24, 12d10 fire), crush  
 **Spell-Like Abilities** (CL 17th)  
-At will—*detect magic*, *pyrotechnics* (DC 15), *suggestion* (DC 16)  
+At will—*[detect magic](../../magic/spells/detect-magic.md)*, *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 15), *[suggestion* ](../../magic/spells/suggestion.md)(DC 16)  
 **Spells Known** (CL 7th)  
-3rd (5/day)—*dispel magic*, *haste*  
-2nd (7/day)—*invisibility*, *resist energy*, *see invisibility*  
-1st (7/day)—*alarm*, *grease* (DC 14), *magic missile*, *shield*, *true strike*  
-0 (at will)—*arcane mark*, *light*, *mage hand*, *mending*, *message*, *prestidigitation*, *read magic*
+3rd (5/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[haste](../../magic/spells/haste.md)*  
+2nd (7/day)—*[invisibility](../../magic/spells/invisibility.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (7/day)—*[alarm](../../magic/spells/alarm.md)*, *[grease* ](../../magic/spells/grease.md)(DC 14), *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

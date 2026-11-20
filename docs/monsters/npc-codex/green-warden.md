@@ -25,9 +25,9 @@ N Medium humanoid (elf)
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
 4/day—acid dart  
 **Conjurer Spells Prepared** (CL 3rd; concentration +4; arcane spell failure 15%)  
-2nd—*glitterdust* (DC 13), *web* (DC 13)  
-1st—*burning hands* (2, DC 12), *color spray* (2, DC 12)  
-0 (at will)—*bleed* (DC 11), *dancing lights*, *ghost sound* (DC 11), *mage hand*  
+2nd—*[glitterdust* ](../../magic/spells/glitterdust.md)(DC 13), *[web* ](../../magic/spells/web.md)(DC 13)  
+1st—*[burning hands* ](../../magic/spells/burning-hands.md)(2, DC 12), *[color spray* ](../../magic/spells/color-spray.md)(2, DC 12)  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 11), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 11), *[mage hand](../../magic/spells/mage-hand.md)*  
 **Opposition Schools** divination, necromancy
 
 **Tactics**

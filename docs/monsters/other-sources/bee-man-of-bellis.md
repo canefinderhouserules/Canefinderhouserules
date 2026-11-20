@@ -20,10 +20,10 @@ NE Medium aberration
 **Speed** 30 ft., fly 60 ft. (good)  
 **Melee** slam +9 touch (3d6 plus poison)  
 **Spell-Like Abilities** (CL 13th; concentration +16)  
-Constant—speak with vermin (operates as *speak with plants*, but for vermin)  
-At will—*alter self* (male human only), *augury*, *divination*  
-3/day—*glibness*, *lesser geas* (DC 17), summon (level 4, 1 wasp swarm or 1d4+1 giant bees 100%)  
-1/day—*commune with nature*, *contact other plane*, *reincarnate*
+Constant—speak with vermin (operates as *[speak with plants](../../magic/spells/speak-with-plants.md)*, but for vermin)  
+At will—*[alter self](../../magic/spells/alter-self.md)* (male human only), *[augury](../../magic/spells/augury.md)*, *[divination](../../magic/spells/divination.md)*  
+3/day—*[glibness](../../magic/spells/glibness.md)*, *[lesser geas](../../magic/spells/geas-lesser.md)* (DC 17), summon (level 4, 1 wasp swarm or 1d4+1 giant bees 100%)  
+1/day—*[commune with nature](../../magic/spells/commune-with-nature.md)*, *[contact other plane](../../magic/spells/contact-other-plane.md)*, *[reincarnate](../../magic/spells/reincarnate.md)*
 
 **Statistics**
 

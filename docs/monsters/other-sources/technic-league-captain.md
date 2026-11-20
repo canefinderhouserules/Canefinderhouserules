@@ -22,16 +22,16 @@ CE Medium humanoid (human)
 **Ranged** *+1 stun gun* +8 (1d8+1 nonlethal)  
 **Special Attacks** hand of the apprentice (7/day)  
 **Wizard Spells Prepared** (CL 10th; concentration +14)  
-5th—*overland flight*, *telekinesis* (DC 19)  
-4th—*charm monster* (DC 18), *dimension door*, *fear* (DC 18), *locate creature*  
-3rd—*discharge*, *dispel magic*, *lightning bolt* (DC 17), *locate object*, *suggestion* (DC 17)  
-2nd—*knock*, *make whole*, *mirror image*, *scorching ray*, *whispering wind*  
-1st—*mage armor*, *magic missile* (2), *shield*, *unseen servant*  
-0 (at will)—*arcane mark*, *detect magic*, *light*, *message*
+5th—*[overland flight](../../magic/spells/overland-flight.md)*, *[telekinesis](../../magic/spells/telekinesis.md)* (DC 19)  
+4th—*[charm monster](../../magic/spells/charm-monster.md)* (DC 18), *[dimension door](../../magic/spells/dimension-door.md)*, *[fear](../../magic/spells/fear.md)* (DC 18), *[locate creature](../../magic/spells/locate-creature.md)*  
+3rd—*[discharge](../../magic/spells/discharge.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 17), *[locate object](../../magic/spells/locate-object.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 17)  
+2nd—*[knock](../../magic/spells/knock.md)*, *[make whole](../../magic/spells/make-whole.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*  
+1st—*[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)* (2), *[shield](../../magic/spells/shield.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*
 
 **Tactics**
 
-**Before Combat** A Technic League captain casts *mage armor*, *shield*, and *overland flight* before entering combat.  
+**Before Combat** A Technic League captain casts *[mage armor](../../magic/spells/mage-armor.md)*, *[shield](../../magic/spells/shield.md)*, and *[overland flight](../../magic/spells/overland-flight.md)* before entering combat.  
  **During Combat** The captain prefers to use a stun gun or ranged spells in combat, allowing any minions at hand to keep foes engaged in melee.  
  **Morale** A Technic League captain flees if reduced to 20 hit points or fewer—whether or not the captain resurfaces later is up to you, but this adventure assumes that captains who escape don’t return to further vex the PCs.
 

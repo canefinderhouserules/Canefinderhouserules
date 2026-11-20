@@ -22,20 +22,20 @@ N Medium humanoid (elf)
 **Melee** quarterstaff +9/+4 (1d6–1)  
 **Special Attacks** hand of the apprentice (12/day), metamagic mastery (7/day)  
 **Wizard Spells Prepared** (CL 20th; concentration +29)  
-9th—maximized *disintegrate* (DC 25), *foresight*, *meteor swarm* (DC 28), *summon monster IX*, *time stop*  
-8th—*discern location*, *greater shout* (DC 29), *mass charm monster* (DC 27), *mind blank*, *moment of prescience*  
-7th—*forcecage* (2, DC 28), *prismatic spray* (2, DC 26), *spell turning*  
-6th—*chain lightning* (2, DC 27), *greater dispel magic* (2), *true seeing*  
-5th—*baleful polymorph* (DC 24), *break enchantment*, *cloudkill* (DC 24), *feeblemind* (DC 24), *teleport*, *wall of force*  
-4th—*dimension door* (2), *greater invisibility*, *ice storm* (2), *stoneskin*  
-3rd—*dispel magic*, *protection from energy*, *stinking cloud* (DC 22), *suggestion* (DC 22), *tongues*, *vampiric touch*  
-2nd—*invisibility*, *mirror image*, *resist energy* (2), *shatter*, *web* (DC 21)  
-1st—*charm person* (2, DC 20), *mage armor* (2), *magic missile* (3)  
-0 (at will)—*detect magic*, *light*, *mage hand*, *read magic*
+9th—maximized *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 25), *[foresight](../../magic/spells/foresight.md)*, *[meteor swarm* ](../../magic/spells/meteor-swarm.md)(DC 28), *[summon monster IX](../../magic/spells/summon-monster-ix.md)*, *[time stop](../../magic/spells/time-stop.md)*  
+8th—*[discern location](../../magic/spells/discern-location.md)*, *[greater shout* ](../../magic/spells/shout-greater.md)(DC 29), *[mass charm monster* ](../../magic/spells/charm-monster-mass.md)(DC 27), *[mind blank](../../magic/spells/mind-blank.md)*, *[moment of prescience](../../magic/spells/moment-of-prescience.md)*  
+7th—*[forcecage* ](../../magic/spells/forcecage.md)(2, DC 28), *[prismatic spray* ](../../magic/spells/prismatic-spray.md)(2, DC 26), *[spell turning](../../magic/spells/spell-turning.md)*  
+6th—*[chain lightning* ](../../magic/spells/chain-lightning.md)(2, DC 27), *[greater dispel magic* ](../../magic/spells/dispel-magic-greater.md)(2), *[true seeing](../../magic/spells/true-seeing.md)*  
+5th—*[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 24), *[break enchantment](../../magic/spells/break-enchantment.md)*, *[cloudkill* ](../../magic/spells/cloudkill.md)(DC 24), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 24), *[teleport](../../magic/spells/teleport.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th—*[dimension door* ](../../magic/spells/dimension-door.md)(2), *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[ice storm* ](../../magic/spells/ice-storm.md)(2), *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 22), *[suggestion* ](../../magic/spells/suggestion.md)(DC 22), *[tongues](../../magic/spells/tongues.md)*, *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd—*[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[resist energy* ](../../magic/spells/resist-energy.md)(2), *[shatter](../../magic/spells/shatter.md)*, *[web* ](../../magic/spells/web.md)(DC 21)  
+1st—*[charm person* ](../../magic/spells/charm-person.md)(2, DC 20), *[mage armor* ](../../magic/spells/mage-armor.md)(2), *[magic missile* ](../../magic/spells/magic-missile.md)(3)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Tactics**
 
-**Before Combat** The wizard casts *foresight*, *mage armor*, *mind blank*, *moment of prescience*, *protection from energy* (fire), *resist energy* (cold, electricity), *spell turning*, and *stoneskin*.  
+**Before Combat** The wizard casts *[foresight](../../magic/spells/foresight.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[mind blank](../../magic/spells/mind-blank.md)*, *[moment of prescience](../../magic/spells/moment-of-prescience.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(fire), *[resist energy* ](../../magic/spells/resist-energy.md)(cold, electricity), *[spell turning](../../magic/spells/spell-turning.md)*, and *[stoneskin](../../magic/spells/stoneskin.md)*.  
 **During Combat** The wizard casts maximized *disintegrate*, *meteor swarm*, *mass charm monster*, and *prismatic spray*.  
 **Base Statistics** Without *foresight*, *mage armor*, *mind blank*, *moment of prescience*, *protection from energy*, *resist energy*, *spell turning*, and *stoneskin*, the wizard’s base statistics are **AC** 20, touch 16, flat-footed 19; **Fort** +14, **Ref** +12, **Will** +18; +2 vs. enchantments; **Defensive Abilities** none; **DR** none; **Immune** sleep; **Resist** none; **CMD** 25.
 

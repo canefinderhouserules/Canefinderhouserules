@@ -29,9 +29,9 @@ overshadowing ego, spirit coils,
 warpwave  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
 Constant—*comprehend languages, detect law*  
-At will—*dispel magic, greater teleport* (self plus 50 lbs. of objects only), *mage hand*  
-3/day—*hypnotic pattern* (DC 16), *pilfering hand*  
-1/day—*chaos hammer* (DC 18)
+At will—*dispel magic, greater teleport* (self plus 50 lbs. of objects only), *[mage hand](../../magic/spells/mage-hand.md)*  
+3/day—*[hypnotic pattern](../../magic/spells/hypnotic-pattern.md)* (DC 16), *[pilfering hand](../../magic/spells/pilfering-hand.md)*  
+1/day—*[chaos hammer](../../magic/spells/chaos-hammer.md)* (DC 18)
 
 **Statistics**
 

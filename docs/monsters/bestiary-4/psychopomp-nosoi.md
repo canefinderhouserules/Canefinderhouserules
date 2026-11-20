@@ -22,9 +22,9 @@ N Tiny outsider (extraplanar, psychopomp)
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** haunting melody  
 **Spell-Like Abilities** (CL 3rd; concentration +6)  
-At will—*invisibility* (self only)  
-3/day—*speak with dead* (6 questions, CL 12th)  
-1/day—*hide from undead* (DC 14), *sound burst* (DC 15)
+At will—*[invisibility](../../magic/spells/invisibility.md)* (self only)  
+3/day—*[speak with dead](../../magic/spells/speak-with-dead.md)* (6 questions, CL 12th)  
+1/day—*[hide from undead](../../magic/spells/hide-from-undead.md)* (DC 14), *[sound burst](../../magic/spells/sound-burst.md)* (DC 15)
 
 **Statistics**
 

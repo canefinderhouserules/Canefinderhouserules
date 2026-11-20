@@ -25,11 +25,11 @@ LG Medium outsider (extraplanar, good, lawful, manasaputra)
 energy)  
 **Special Attacks** cosmic fire, rishi scepter  
 **Spell-Like Abilities** (CL 14th; concentration +19; Wisdom-based)  
-At will—*greater teleport* (self only), *plane shift* (self only)  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self only), *[plane shift](../../magic/spells/plane-shift.md)* (self only)  
 **Psychic Magic** (CL 14th; concentration +19; Wisdom-based)  
-19 PE—*anticipate thoughts* (2 PE), *burst of insight* (1 PE),
-*dream council* (6 PE, DC 21), *synapse overload* (5 PE,
-DC 20), *remote viewing* (5 PE)
+19 PE—*[anticipate thoughts](../../magic/spells/anticipate-thoughts.md)* (2 PE), *[burst of insight](../../magic/spells/burst-of-insight.md)* (1 PE),
+*[dream council](../../magic/spells/dream-council.md)* (6 PE, DC 21), *[synapse overload](../../magic/spells/synapse-overload.md)* (5 PE,
+DC 20), *[remote viewing](../../magic/spells/remote-viewing.md)* (5 PE)
 
 **Statistics**
 

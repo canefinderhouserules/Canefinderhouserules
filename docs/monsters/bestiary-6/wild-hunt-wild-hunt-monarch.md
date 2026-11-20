@@ -27,19 +27,19 @@ scent, see in darkness; Perception +37
 gore, wild gaze (DC 31), wild reincarnation  
 **Spell-Like Abilities** (CL 17th; concentration +25)  
 Constant—*know direction, speak with animals, speak with plants*  
-At will—*charm monster* (DC 22), *command* (DC 19), *dominate person* (DC 23), *ghost sound* (DC 18), *major image* (DC 21)  
-3/day—quickened *charm monster* (DC 22), *greater command* (DC 23), *hallucinatory terrain* (DC 22), *mass suggestion* (DC 24), *plane shift* (DC 25), *stone tell, veil*  
-1/day—*dominate monster* (DC 27), *summon* (level 9, 1 wild hunt horse 100%), *wind walk*  
+At will—*[charm monster](../../magic/spells/charm-monster.md)* (DC 22), *[command](../../magic/spells/command.md)* (DC 19), *[dominate person](../../magic/spells/dominate-person.md)* (DC 23), *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 18), *[major image](../../magic/spells/major-image.md)* (DC 21)  
+3/day—quickened *[charm monster](../../magic/spells/charm-monster.md)* (DC 22), *[greater command](../../magic/spells/command-greater.md)* (DC 23), *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)* (DC 22), *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 24), *[plane shift](../../magic/spells/plane-shift.md)* (DC 25), *stone tell, veil*  
+1/day—*[dominate monster](../../magic/spells/dominate-monster.md)* (DC 27), *summon* (level 9, 1 wild hunt horse 100%), *[wind walk](../../magic/spells/wind-walk.md)*  
 **Druid Spells Prepared** (CL 17th; concentration +25)  
-9th—*foresight*  
-8th—*finger of death* (DC 26), *mass cure serious wounds, word of recall*  
+9th—*[foresight](../../magic/spells/foresight.md)*  
+8th—*[finger of death](../../magic/spells/finger-of-death.md)* (DC 26), *mass cure serious wounds, word of recall*  
 7th—*control weather, fire storm* (DC 25), *heal, sunbeam* (DC 25)  
-6th—*greater dispel magic* (2), *move earth, transport via plants* (2)  
-5th—*baleful polymorph* (DC 23), *call lightning storm* (DC 23), *death ward, tree stride, wall of thorns*  
-4th—*air walk, cure serious wounds* (2), *dispel magic, flame strike* (DC 22), *freedom of movement*  
-3rd—*cure moderate wounds* (2), *daylight, snare, spike growth, wind wall*  
+6th—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)* (2), *move earth, transport via plants* (2)  
+5th—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 23), *[call lightning storm](../../magic/spells/call-lightning-storm.md)* (DC 23), *death ward, tree stride, wall of thorns*  
+4th—*air walk, cure serious wounds* (2), *dispel magic, flame strike* (DC 22), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+3rd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)* (2), *daylight, snare, spike growth, wind wall*  
 2nd—*barkskin, hold animal* (DC 20), *lesser restoration, resist energy, stone call, tree shape*  
-1st—*cure light wounds* (2), *entangle* (DC 19), *faerie fire, obscuring mist, produce flame*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)* (2), *[entangle](../../magic/spells/entangle.md)* (DC 19), *faerie fire, obscuring mist, produce flame*  
 0—*detect magic, guidance, mending, stabilize*
 
 **Statistics**

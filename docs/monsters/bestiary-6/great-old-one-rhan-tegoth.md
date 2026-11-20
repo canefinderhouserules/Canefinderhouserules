@@ -32,9 +32,9 @@ paralysis, petrification, poison; **Resist** fire 30, sonic 30; **SR** 39
 grab (Huge), mythic power (10/day, surge +1d12), pounce  
 **Spell-Like Abilities** (CL 28th; concentration +37)  
 Constant—*air walk, true seeing*  
-At will—*clairaudience/clairvoyance, dimension door*<sup>M</sup>, *dream*<sup>M</sup>, *greater dispel magic, nightmare*<sup>M</sup>, *statue* (DC 26), *sympathetic vibration*  
-3/day—*demand* (DC 27), quickened *feeblemind* (DC 24), quickened *flesh to stone*<sup>M</sup> (DC 25), *stone to flesh*  
-1/day—*earthquake*<sup>M</sup>, *imprisonment* (DC 28), *symbol of strife* (DC 28)  
+At will—*clairaudience/clairvoyance, dimension door*<sup>M</sup>, *[dream](../../magic/spells/dream.md)*<sup>M</sup>, *greater dispel magic, nightmare*<sup>M</sup>, *[statue](../../magic/spells/statue.md)* (DC 26), *[sympathetic vibration](../../magic/spells/sympathetic-vibration.md)*  
+3/day—*[demand](../../magic/spells/demand.md)* (DC 27), quickened *[feeblemind](../../magic/spells/feeblemind.md)* (DC 24), quickened *[flesh to stone](../../magic/spells/flesh-to-stone.md)*<sup>M</sup> (DC 25), *[stone to flesh](../../magic/spells/stone-to-flesh.md)*  
+1/day—*[earthquake](../../magic/spells/earthquake.md)*<sup>M</sup>,[ *imprisonment](../../magic/spells/imprisonment.md)* (DC 28), *[symbol of strife](../../magic/spells/symbol-of-strife.md)* (DC 28)  
 **M** mythic spell
 
 **Statistics**

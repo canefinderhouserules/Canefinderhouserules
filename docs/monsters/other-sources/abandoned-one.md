@@ -21,7 +21,7 @@ CE Medium undead
 **Melee** 2 claws +7 (1d8+3)  
 **Special Attacks** curse of oblivion, forgotten friend  
 **Spell-Like Abilities** (CL 5th; concentration +8)  
-3/day—*alter self*, *selective invisibility*, *zone of silence*
+3/day—*[alter self](../../magic/spells/alter-self.md)*, *[selective invisibility](../../magic/spells/selective-invisibility.md)*, *[zone of silence](../../magic/spells/zone-of-silence.md)*
 
 **Statistics**
 

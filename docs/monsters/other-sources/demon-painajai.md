@@ -24,10 +24,10 @@ CE Large outsider (chaotic, demon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** chain-spear  
 **Spell-Like Abilities** (CL 14th; concentration +18)  
-Constant—*true seeing*  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
 1/day—summon (level 6, 1 painajai 35%)  
 **Psychic Magic** (CL 14th; concentration +18)  
-25 PE—*cognitive block* (3 PE, DC 17), *confusion* (4 PE, DC 18), *fear* (4 PE, DC 18), *greater oneiric horror* (4 PE, DC 18), *hungry pit* (5 PE, DC 19), *mental barrier II* (3 PE), *mirage arcana* (5 PE, DC 19), *nightmare* (5 PE, DC 19), *phantasmal killer* (4 PE, DC 18), *synaptic pulse* (3 PE, DC 17)
+25 PE—*[cognitive block](../../magic/spells/cognitive-block.md)* (3 PE, DC 17), *[confusion](../../magic/spells/confusion.md)* (4 PE, DC 18), *[fear](../../magic/spells/fear.md)* (4 PE, DC 18), *[greater oneiric horror](../../magic/spells/oneiric-horror-greater.md)* (4 PE, DC 18), *[hungry pit](../../magic/spells/hungry-pit.md)* (5 PE, DC 19), *[mental barrier II](../../magic/spells/mental-barrier-ii.md)* (3 PE), *[mirage arcana](../../magic/spells/mirage-arcana.md)* (5 PE, DC 19), *[nightmare](../../magic/spells/nightmare.md)* (5 PE, DC 19), *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (4 PE, DC 18), *[synaptic pulse](../../magic/spells/synaptic-pulse.md)* (3 PE, DC 17)
 
 **Statistics**
 

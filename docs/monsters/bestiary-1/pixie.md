@@ -22,8 +22,8 @@ NG Small fey
 **Ranged**  longbow +8 (1d6–2/×3)  
 **Special Attacks** special arrows  
 **Spell-Like Abilities** (CL 8th)  
-Constant—*detect chaos*, *detect evil*, *detect good*, *detect law*  
-1/day—*dancing lights*, *detect thoughts* (DC 15), *dispel magic*, *entangle* (DC 14), *lesser confusion* (DC 14), *permanent image* (DC 19; visual and auditory elements only), *shield*
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 15), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[entangle* ](../../magic/spells/entangle.md)(DC 14), *[lesser confusion* ](../../magic/spells/confusion-lesser.md)(DC 14), *[permanent image* ](../../magic/spells/permanent-image.md)(DC 19; visual and auditory elements only), *[shield](../../magic/spells/shield.md)*
 
 **Statistics**
 

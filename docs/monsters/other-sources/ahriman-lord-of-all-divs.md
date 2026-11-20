@@ -23,10 +23,10 @@ NE Huge outsider (div, evil, extraplanar)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with Ahriman’s scourge)  
 **Special Attacks** bleed (2d6), bottomless maw, consume essence, pounce, rend (2 claws, 1d8+24), shake faith, symbolic prison  
 **Spell-Like Abilities** (CL 20th; concentration +32)  
-Constant—*arcane sight*, *true seeing*  
-At will—*greater teleport*, *speak with dead* (DC 25), *unhallow*, *unholy blight* (DC 26)  
-3/day—*horrid wilting* (DC 30), *implosion* (DC 31), *maze*, *plane shift* (DC 29), summon (level 9, see below), *wish*  
-1/day—*demand* (DC 30), *symbol of fear* (DC 28), *symbol of persuasion* (DC 28), *symbol of stunning* (DC 29), *symbol of weakness* (DC 29)
+Constant—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)*, *[speak with dead](../../magic/spells/speak-with-dead.md)* (DC 25), *[unhallow](../../magic/spells/unhallow.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 26)  
+3/day—*[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 30), *[implosion](../../magic/spells/implosion.md)* (DC 31), *[maze](../../magic/spells/maze.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (DC 29), summon (level 9, see below), *[wish](../../magic/spells/wish.md)*  
+1/day—*[demand](../../magic/spells/demand.md)* (DC 30), *[symbol of fear](../../magic/spells/symbol-of-fear.md)* (DC 28), *[symbol of persuasion](../../magic/spells/symbol-of-persuasion.md)* (DC 28), *[symbol of stunning](../../magic/spells/symbol-of-stunning.md)* (DC 29), *[symbol of weakness](../../magic/spells/symbol-of-weakness.md)* (DC 29)
 
 **Statistics**
 

@@ -23,13 +23,13 @@ NE Medium humanoid (elf)
 **Ranged**  mwk longbow +4 (1d8+1/×3)  
 **Special Attacks** hand of the apprentice (6/day)  
 **Wizard Spells Prepared** (CL 3rd; concentration +6)  
-2nd—*mirror image*, *scorching ray*  
-1st—*magic missile*, *shield*, *shocking grasp*  
-0 (at will)—*daze* (DC 13), *detect magic*, *light*, *resistance*
+2nd—*[mirror image](../../magic/spells/mirror-image.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st—*[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Tactics**
 
-**Before Combat** The wizard uses her wand to cast *mage armor*.  
+**Before Combat** The wizard uses her wand to cast *[mage armor](../../magic/spells/mage-armor.md)*.  
 **During Combat** The wizard attacks with *scorching ray*, her longbow, and hand of the apprentice. If forced into melee, she casts *mirror image* and *obscuring mist*.  
 **Base Statistics** Without *mage armor*, the wizard’s statistics are **AC** 12, touch 12, flat-footed 10.
 

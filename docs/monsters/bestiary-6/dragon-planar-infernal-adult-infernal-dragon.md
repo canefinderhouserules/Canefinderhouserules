@@ -26,10 +26,10 @@ tail slap +23 (2d6+15), 2 wings +23 (1d8+5)
 **Special Attacks** breath weapon (100-ft. line, 12d10 hellfire damage,
 Reflex DC 26 half), commanding voice, crush, oppressive heat  
 **Oracle Spells Known** (CL 7th; concentration +12)  
-3rd (5)—*blindness/deafness* (DC 18), *vision of hell* (DC 19)  
+3rd (5)—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 18), *[vision of hell](../../magic/spells/vision-of-hell.md)* (DC 19)  
 2nd (7)—*cure mod. wounds, darkness, hold person* (DC 17)  
-1st (8)—*bane* (DC 16), *command* (DC 18), *forbid action* (DC 18), *sanctuary* (DC 16), *shield of faith*  
-0 (at will)—*bleed* (DC 15), *detect magic, guidance, mending, read magic, resistance, spark* (DC 15)
+1st (8)—*[bane](../../magic/spells/bane.md)* (DC 16), *[command](../../magic/spells/command.md)* (DC 18), *[forbid action](../../magic/spells/forbid-action.md)* (DC 18), *[sanctuary](../../magic/spells/sanctuary.md)* (DC 16), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 15), *detect magic, guidance, mending, read magic, resistance, spark* (DC 15)
 
 **Statistics**
 

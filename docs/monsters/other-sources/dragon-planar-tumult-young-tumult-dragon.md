@@ -22,8 +22,8 @@ CN Large dragon (chaotic, extraplanar)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, 6d8 damage, DC 23), entropic breath, flexible breath  
 **Oracle Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*entropic shield*, *obscuring mist*  
-0 (at will)—*create water*, *detect magic*, *resistance*, *spark*
+1st (4/day)—*[entropic shield](../../magic/spells/entropic-shield.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[spark](../../magic/spells/spark.md)*
 
 **Statistics**
 

@@ -24,8 +24,8 @@ NE Medium outsider (cold, native)
 **Space** 5 ft., **Reach** 5 ft. (15 ft. with tentacles)  
 **Special Attacks** sneak attack +1d6, soul-thieving chill  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-3/day—*detonate* (DC 18, cold only)  
-1/day—*cold ice strike* (DC 20), *freezing sphere* (DC 20), *wall of ice* (DC 18)
+3/day—*[detonate](../../magic/spells/detonate.md)* (DC 18, cold only)  
+1/day—*[cold ice strike](../../magic/spells/cold-ice-strike.md)* (DC 20), *[freezing sphere](../../magic/spells/freezing-sphere.md)* (DC 20), *[wall of ice](../../magic/spells/wall-of-ice.md)* (DC 18)
 
 **Statistics**
 

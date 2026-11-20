@@ -23,9 +23,9 @@ CG Tiny outsider (chaotic, extraplanar, good)
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** possession  
 **Spell-Like Abilities** (CL 4th; concentration +6)  
-At will—*remove fear*  
-3/day—*bear’s endurance*, *create water* (ale or wine, up to 4 cups), *hideous laughter* (DC 13), *lesser confusion* (DC 13), *pick your poison*, *sleep* (DC 13)  
-1/day—*knock*, *magic jar* (willing target only, lasts 1 hour, see possession), *ray of sickening* (DC 13)
+At will—*[remove fear](../../magic/spells/remove-fear.md)*  
+3/day—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[create water* ](../../magic/spells/create-water.md)(ale or wine, up to 4 cups), *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 13), *[lesser confusion* ](../../magic/spells/confusion-lesser.md)(DC 13), *[pick your poison](../../magic/spells/pick-your-poison.md)*, *[sleep* ](../../magic/spells/sleep.md)(DC 13)  
+1/day—*[knock](../../magic/spells/knock.md)*, *[magic jar* ](../../magic/spells/magic-jar.md)(willing target only, lasts 1 hour, see possession), *[ray of sickening](../../magic/spells/ray-of-sickening.md)* (DC 13)
 
 **Statistics**
 

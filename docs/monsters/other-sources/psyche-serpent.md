@@ -20,7 +20,7 @@ N Tiny magical beast
 **Melee** bite +8 (1d3–2 plus poison)  
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Psychic Magic** (CL 6th; concentration +8)  
-5 PE—*charm person* (1 PE, DC 13), *detect thoughts* (2 PE, DC 13), *invisibility* (2 PE, self only)
+5 PE—*[charm person](../../magic/spells/charm-person.md)* (1 PE, DC 13), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (2 PE, DC 13), *[invisibility](../../magic/spells/invisibility.md)* (2 PE, self only)
 
 **Statistics**
 

@@ -23,9 +23,9 @@ LG Medium outsider (archon, extraplanar, good, lawful)
 **Ranged**  *+1 flaming javelin* +10 (1d6+4 plus 1d6 fire)  
 **Special Attacks** flames of faith  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-Constant—*detect evil*, *magic circle against evil*  
-At will—*aid*, *continual flame*, *greater teleport* (self plus 50 lbs. of objects only), *message*  
-3/day—*align weapon*, *mirror image*, *versatile weapon*
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[continual flame](../../magic/spells/continual-flame.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[message](../../magic/spells/message.md)*  
+3/day—*[align weapon](../../magic/spells/align-weapon.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[versatile weapon](../../magic/spells/versatile-weapon.md)*
 
 **Statistics**
 

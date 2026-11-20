@@ -25,9 +25,9 @@ poison; **Resist** cold 10, electricity 10, fire 10; **SR** 22
 attack +2d6  
 **Spell-Like Abilities** (CL 14th; concentration +20)  
 Constant—*detect good, tongues*  
-At will—*death knell* (DC 18), *detect thoughts* (DC 18), *greater teleport* (self plus 50 lbs. of objects only), *unnatural lust* (DC 18)  
+At will—*[death knell](../../magic/spells/death-knell.md)* (DC 18), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 18), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[unnatural lust](../../magic/spells/unnatural-lust.md)* (DC 18)  
 3/day—*desecrate, crushing despair* (DC 20), *enervation, quickened suggestion* (DC 19)  
-1/day—*modify memory* (DC 20), *summon* (level 4, 1d3 ceustodaemons 35%), *utter contempt* (DC 20)
+1/day—*[modify memory](../../magic/spells/modify-memory.md)* (DC 20), *summon* (level 4, 1d3 ceustodaemons 35%), *[utter contempt](../../magic/spells/utter-contempt.md)* (DC 20)
 
 **Statistics**
 

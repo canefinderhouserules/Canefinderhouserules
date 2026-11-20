@@ -22,18 +22,18 @@ NE Medium outsider (native)
 **Melee** mwk dagger +12/+7 (1d4+3/19–20), bite +6 (1d4+1)  
 **Special Attacks** blood drain (1 Con), Strength damage  
 **Spell-Like Abilities** (CL 3rd; concentration +6)  
-At will—*feather fall*  
-3/day—*align weapon*, *death knell* (DC 16), *ray of enfeeblement* (DC 16)  
+At will—*[feather fall](../../magic/spells/feather-fall.md)*  
+3/day—*[align weapon](../../magic/spells/align-weapon.md)*, *[death knell](../../magic/spells/death-knell.md)* (DC 16), *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 16)  
 **Arcane School Spell-Like Abilities** (CL 3rd; concentration +6)  
 8/day—grave touch (5 rounds)  
 **Necromancer Spells Prepared** (CL 11th; concentration +16)  
-6th—*eyebite* (DC 23), *globe of invulnerability*  
-5th—*cloudkill* (DC 20), *magic jar* (DC 22), *suffocation* (DC 22), *teleport*  
-4th—*bestow curse* (DC 21), *enervation* (2), *shadow projection*, reach *vampiric touch*  
-3rd—*dispel magic*, reach *ghoul touch* (DC 19), *ray of exhaustion* (DC 20), *slow* (DC 18), *vampiric touch* (2)  
-2nd—*command undead* (DC 19), *false life* (2), *ghoul touch* (DC 19), *shatter* (DC 17), *web* (DC 17)  
-1st—*cause fear* (DC 18), *detect undead*, *expeditious excavation*, *expeditious retreat*, *protection from good*, *shield*, reach *touch of fatigue* (DC 17)  
-0 (at will)—*bleed* (DC 17), *detect magic*, *read magic*, *touch of fatigue* (DC 17)  
+6th—*[eyebite](../../magic/spells/eyebite.md)* (DC 23), *[globe of invulnerability](../../magic/spells/globe-of-invulnerability.md)*  
+5th—*[cloudkill](../../magic/spells/cloudkill.md)* (DC 20), *[magic jar](../../magic/spells/magic-jar.md)* (DC 22), *[suffocation](../../magic/spells/suffocation.md)* (DC 22), *[teleport](../../magic/spells/teleport.md)*  
+4th—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 21), *[enervation](../../magic/spells/enervation.md)* (2), *[shadow projection](../../magic/spells/shadow-projection.md)*, reach *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, reach *[ghoul touch](../../magic/spells/ghoul-touch.md)* (DC 19), *[ray of exhaustion](../../magic/spells/ray-of-exhaustion.md)* (DC 20), *[slow](../../magic/spells/slow.md)* (DC 18), *[vampiric touch](../../magic/spells/vampiric-touch.md)* (2)  
+2nd—*[command undead](../../magic/spells/command-undead.md)* (DC 19), *[false life](../../magic/spells/false-life.md)* (2), *[ghoul touch](../../magic/spells/ghoul-touch.md)* (DC 19), *[shatter](../../magic/spells/shatter.md)* (DC 17), *[web](../../magic/spells/web.md)* (DC 17)  
+1st—*[cause fear](../../magic/spells/cause-fear.md)* (DC 18), *[detect undead](../../magic/spells/detect-undead.md)*, *[expeditious excavation](../../magic/spells/expeditious-excavation.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*, *[shield](../../magic/spells/shield.md)*, reach *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 17)  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 17), *[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 17)  
 **Opposition Schools** Enchantment, Illusion
 
 **Statistics**

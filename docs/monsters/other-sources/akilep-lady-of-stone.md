@@ -23,10 +23,10 @@ N Gargantuan magical beast
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** pounce, rake (4d6+12), trample (4d6+18, DC 31)  
 **Spell-Like Abilities** (CL 18th; concentration +23)  
-Constant—*comprehend languages*, *detect magic*, *read magic*, *see invisibility*  
-At will—*clairaudience/clairvoyance*, *statue*  
-1/day—*commune*, *contact other plane*, *dispel magic*, *legend lore*, *locate object*, *remove curse*  
-1/week—Any three of the following: *symbol of fear* (DC 21), *symbol of pain* (DC 20), *symbol of persuasion* (DC 21), *symbol of sleep* (DC 20), *symbol of stunning* (DC 22); all symbols last for 1 week maximum
+Constant—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[statue](../../magic/spells/statue.md)*  
+1/day—*[commune](../../magic/spells/commune.md)*, *[contact other plane](../../magic/spells/contact-other-plane.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[legend lore](../../magic/spells/legend-lore.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[remove curse](../../magic/spells/remove-curse.md)*  
+1/week—Any three of the following: *[symbol of fear](../../magic/spells/symbol-of-fear.md)* (DC 21), *[symbol of pain* ](../../magic/spells/symbol-of-pain.md)(DC 20), *[symbol of persuasion* ](../../magic/spells/symbol-of-persuasion.md)(DC 21), *[symbol of sleep* ](../../magic/spells/symbol-of-sleep.md)(DC 20), *[symbol of stunning* ](../../magic/spells/symbol-of-stunning.md)(DC 22); all symbols last for 1 week maximum
 
 **Statistics**
 

@@ -22,10 +22,10 @@ LG Tiny outsider (archon, extraplanar, good, lawful)
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** wrath  
 **Spell-Like Abilities** (CL 6th; concentration +7)  
-Constant—*detect evil*  
-At will—*dancing lights* (duration lasts until dismissed)  
-3/day—*cure light wounds*, *protection from evil*  
-1/week—*commune* (CL 12th, 6 questions)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*  
+At will—*[dancing lights* ](../../magic/spells/dancing-lights.md)(duration lasts until dismissed)  
+3/day—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*  
+1/week—*[commune* ](../../magic/spells/commune.md)(CL 12th, 6 questions)
 
 **Statistics**
 

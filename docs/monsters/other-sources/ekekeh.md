@@ -21,8 +21,8 @@ NG Large fey (aquatic)
 **Melee** bite +6 (1d8+1 plus 3d6 electricity)  
 **Space** 10 ft., **Reach** 5 ft.  
 **Spell-Like Abilities** (CL 5th; concentration +6)  
-Constant—*mage hand*  
- 3/day—*lightning bolt* (DC 14)
+Constant—*[mage hand](../../magic/spells/mage-hand.md)*  
+ 3/day—*[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 14)
 
 **Statistics**
 

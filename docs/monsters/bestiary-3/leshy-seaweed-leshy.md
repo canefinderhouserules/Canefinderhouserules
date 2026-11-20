@@ -21,8 +21,8 @@ N Small plant (aquatic, leshy, shapechanger)
 **Melee** slam +4 (1d6)  
 **Ranged**  water jet +5 touch (1 plus blind)  
 **Spell-Like Abilities** (CL 8th; concentration +9)  
-Constant—*pass without trace*  
-1/day—*entangle* (in water only, DC 12)
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*  
+1/day—*[entangle* ](../../magic/spells/entangle.md)(in water only, DC 12)
 
 **Statistics**
 

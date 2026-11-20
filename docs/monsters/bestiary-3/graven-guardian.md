@@ -22,7 +22,7 @@ N Medium construct
 **Melee** *+1 keen scimitar* +10/+5 (1d6+5/15–20 plus bleed) or slam +9 (1d6+4)  
 **Special Attacks** bleed 2, magic weapon, rest eternal  
 **Spell-Like Abilities** (CL 6th; concentration +0)  
-1/day—*haste* (self only)
+1/day—*[haste* ](../../magic/spells/haste.md)(self only)
 
 **Statistics**
 

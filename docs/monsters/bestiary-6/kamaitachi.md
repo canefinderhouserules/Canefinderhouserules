@@ -26,9 +26,9 @@ and pain)
 delayed doom, pain  
 **Spell-Like Abilities** (CL 12th;
 concentration +18)  
-Constant—*greater magic fang*  
-At will—*status* (DC 18), *wind wall*  
-3/day—*control winds*
+Constant—*[greater magic fang](../../magic/spells/magic-fang-greater.md)*  
+At will—*[status](../../magic/spells/status.md)* (DC 18), *[wind wall](../../magic/spells/wind-wall.md)*  
+3/day—*[control winds](../../magic/spells/control-winds.md)*
 
 **Statistics**
 

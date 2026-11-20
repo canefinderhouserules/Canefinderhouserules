@@ -23,11 +23,11 @@ CN Medium outsider (chaotic, extraplanar, protean, shapechanger)
 **Special Attacks** constrict (1d8+3)  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
 Constant—*arcane sight, detect law, tongues*  
- At will—*dispel magic* (DC 17), *greater teleport* (self plus 50 lbs. of objects only), *major creation, telekinesis* (DC 19)  
- 3/day—*chaos hammer* (DC 18)  
+ At will—*[dispel magic](../../magic/spells/dispel-magic.md)* (DC 17), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *major creation, telekinesis* (DC 19)  
+ 3/day—*[chaos hammer](../../magic/spells/chaos-hammer.md)* (DC 18)  
 1/day—*break enchantment, plane shift* (DC 21)  
 **Sorcerer Spells Known** (CL 6th; concentration +10)  
-3rd (3/day)—*lightning bolt* (DC 16)  
+3rd (3/day)—*[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 16)  
  2nd (5/day)—*invisibility, scorching ray*  
  1st (6/day)—*cultural adaptation, mage armor, magic missile, shield*  
  0 (at will)—*acid splash, arcane mark, mage hand, mending, prestidigitation, ray of frost, read magic*

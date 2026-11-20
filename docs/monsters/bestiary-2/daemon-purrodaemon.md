@@ -23,9 +23,9 @@ NE Large outsider (daemon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** weapon steep  
 **Spell-Like Abilities** (CL 18th; concentration +23)  
-Constant—*true seeing*, *unholy aura* (DC 23)  
-At will—*greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*chain lightning* (DC 21), *cone of cold* (DC 20), *flame strike* (DC 20)  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura](../../magic/spells/unholy-aura.md)* (DC 23)  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
+3/day—*[chain lightning](../../magic/spells/chain-lightning.md)* (DC 21), *[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 20), *[flame strike](../../magic/spells/flame-strike.md)* (DC 20)  
 1/day—summon (level 5, 2 derghodaemons 50%)
 
 **Statistics**

@@ -23,9 +23,9 @@ LE Medium humanoid (elf, human)
 **Ranged**  mwk light crossbow +5 (1d8/19–20)  
 **Special Attacks** claws (2, 1d4, treated as magic, 7 rounds/day)  
 **Sorcerer Spells Known** (CL 5th; concentration +9)  
-2nd (5/day)—*acid arrow*, *mirror image*, *resist energy*  
-1st (7/day)—*cause fear* (DC 15), *charm person* (DC 15), *mage armor*, *magic missile*, *ray of enfeeblement* (DC 15)  
-0 (at will)—*acid splash*, *detect magic*, *ghost sound* (DC 14), *mage hand*, *message*, *read magic*  
+2nd (5/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st (7/day)—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 15), *[charm person* ](../../magic/spells/charm-person.md)(DC 15), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 15)  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** draconic (green)
 
 **Tactics**

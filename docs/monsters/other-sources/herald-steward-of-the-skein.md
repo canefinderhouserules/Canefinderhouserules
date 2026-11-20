@@ -23,8 +23,8 @@ N Medium outsider (extraplanar, herald, psychopomp, shapechanger)
 **Special Attacks** gaze, tugging strands (Fate subdomain, 3/day)  
 **Spell-Like Abilities** (CL 19th; concentration +25)  
 Constant—*detect chaos/evil/good/law*  
-At will—*augury*, *cure light wounds*, *dancing lights*, *death ward*, *detect thoughts* (DC 18), *disguise self*, *major image* (DC 19), *greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*breath of life*, *chain lightning* (DC 22), *globe of invulnerability*, *greater dispel magic*, *greater invisibility* (self only), *heal*, *hold monster* (DC 21), *limited wish* (DC 23), *plane shift*, *undeath to death* (DC 22), *wall of force*
+At will—*[augury](../../magic/spells/augury.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[death ward](../../magic/spells/death-ward.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 18), *[disguise self](../../magic/spells/disguise-self.md)*, *[major image* ](../../magic/spells/major-image.md)(DC 19), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)  
+3/day—*[breath of life](../../magic/spells/breath-of-life.md)*, *[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 22), *[globe of invulnerability](../../magic/spells/globe-of-invulnerability.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater invisibility* ](../../magic/spells/invisibility-greater.md)(self only), *[heal](../../magic/spells/heal.md)*, *[hold monster* ](../../magic/spells/hold-monster.md)(DC 21), *[limited wish* ](../../magic/spells/limited-wish.md)(DC 23), *[plane shift](../../magic/spells/plane-shift.md)*, *[undeath to death* ](../../magic/spells/undeath-to-death.md)(DC 22), *[wall of force](../../magic/spells/wall-of-force.md)*
 
 **Statistics**
 

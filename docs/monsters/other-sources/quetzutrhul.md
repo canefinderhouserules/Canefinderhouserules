@@ -24,9 +24,9 @@ CE Small aberration
 **Ranged**  *+1 returning dagger* +19 (1d3+1/19–20)  
 **Special Attacks** body thief, sneak attack +7d6  
 **Spell-Like Abilities** (CL 8th; concentration +9)  
-Constant—*detect magic*  
-At will—*confusion* (single target only) (DC 15), *daze monster* (no HD limit) (DC 12), *inflict serious wounds* (DC 14), *invisibility*, *reduce size* (as per *reduce person* but self only)  
-3/day—*cure moderate wounds*, *globe of invulnerability*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[confusion](../../magic/spells/confusion.md)* (single target only) (DC 15), *[daze monster](../../magic/spells/daze-monster.md)* (no HD limit) (DC 12), *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)* (DC 14), *[invisibility](../../magic/spells/invisibility.md)*, *reduce size* (as per *[reduce person](../../magic/spells/reduce-person.md)* but self only)  
+3/day—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[globe of invulnerability](../../magic/spells/globe-of-invulnerability.md)*
 
 **Statistics**
 

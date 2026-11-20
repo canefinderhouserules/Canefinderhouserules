@@ -21,14 +21,14 @@ LG Large outsider (native)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** constrict (1d8+7)  
 **Spell-Like Abilities** (CL 9th)  
-Constant—*detect chaos*, *detect evil*, *detect good*, *detect law*  
-At will—*detect thoughts* (DC 15), *ethereal jaunt* (CL 16th), *invisibility*, *plane shift* (DC 20)  
+Constant—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*  
+At will—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 15), *[ethereal jaunt* ](../../magic/spells/ethereal-jaunt.md)(CL 16th), *[invisibility](../../magic/spells/invisibility.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(DC 20)  
 **Spells Known** (CL 9th)  
-4th (4/day)—*charm monster* (DC 17), *freedom of movement*  
-3rd (7/day)—*gaseous form*, *magic circle against evil*, *summon monster III*  
-2nd (7/day)—*cure moderate wounds*, *eagle’s splendor*, *scorching ray*, *silence* (DC 15)  
-1st (7/day)—*endure elements*, *mage armor*, *obscuring mist*, *protection from chaos*, *true strike*  
-0 (at will)—*daze*, *disrupt undead*, *light*, *ray of frost*, *read magic*, *resistance*, *stabilize*
+4th (4/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 17), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+3rd (7/day)—*[gaseous form](../../magic/spells/gaseous-form.md)*, *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*, *[summon monster III](../../magic/spells/summon-monster-iii.md)*  
+2nd (7/day)—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[silence* ](../../magic/spells/silence.md)(DC 15)  
+1st (7/day)—*[endure elements](../../magic/spells/endure-elements.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[protection from chaos](../../magic/spells/protection-from-chaos.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[daze](../../magic/spells/daze.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[light](../../magic/spells/light.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

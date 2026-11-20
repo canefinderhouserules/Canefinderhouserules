@@ -21,8 +21,8 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Melee** mwk halberd +10 (1d10+4/×3 plus disease), gore +3 (1d6+1) or gore +8 (1d6+4)  
 **Special Attacks** powerful charge (gore, 3d6+4)  
 **Spell-Like Abilities** (CL 6th; concentration +4)  
-Constant—*see invisibility*, *tongues*  
-3/day—*arcane lock*, *expeditious retreat*, *protection from good*  
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*, *[tongues](../../magic/spells/tongues.md)*  
+3/day—*[arcane lock](../../magic/spells/arcane-lock.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*  
 1/day—summon (level 2, 1d3 schirs 20%)
 
 **Statistics**

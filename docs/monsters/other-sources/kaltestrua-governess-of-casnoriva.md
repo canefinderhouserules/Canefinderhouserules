@@ -24,17 +24,17 @@ CE Large outsider (chaotic, demon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** constrict (tail slap, 2d6+10 plus crushing coils), crushing coils, infuse weapon, multiweapon mastery  
 **Spell-Like Abilities** (CL 16th; concentration +26)  
-Constant—*true seeing*, *unholy aura* (DC 28)  
-At will—*greater teleport* (self plus 50 lbs. of objects only), *project image* (DC 27), *telekinesis* (DC 25)  
-3/day—*blade barrier* (DC 26), *fly*  
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura* ](../../magic/spells/unholy-aura.md)(DC 28)  
+At will—*[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[project image* ](../../magic/spells/project-image.md)(DC 27), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 25)  
+3/day—*[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 26), *[fly](../../magic/spells/fly.md)*  
 1/day—summon (level 5, 1 marilith 20%, 1 nalfeshnee 35%, or 1d4 hezrous 60%)  
 **Bloodline Spell-Like Abilities** (CL 7th; concentration +17)  
 13/day—grave touch (3 rounds)  
 **Sorcerer Spells Known** (CL 7th; concentration +17)  
-3rd (6/day)—*haste*, *major image* (DC 23), *vampiric touch*  
-2nd (9/day)—*alter self*, *command undead* (DC 22), *false life*, *invisibility*  
-1st (9/day)—*chill touch* (DC 21), *mage armor*, *magic missile*, *shield*, *silent image* (DC 21), *unseen servant*  
-0 (at will)—*bleed* (DC 20), *detect magic*, *disrupt undead*, *ghost sound* (DC 20), *message*, *read magic*, *touch of fatigue* (DC 20)  
+3rd (6/day)—*[haste](../../magic/spells/haste.md)*, *[major image* ](../../magic/spells/major-image.md)(DC 23), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd (9/day)—*[alter self](../../magic/spells/alter-self.md)*, *[command undead* ](../../magic/spells/command-undead.md)(DC 22), *[false life](../../magic/spells/false-life.md)*, *[invisibility](../../magic/spells/invisibility.md)*  
+1st (9/day)—*[chill touch* ](../../magic/spells/chill-touch.md)(DC 21), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 21), *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 20), *[detect magic](../../magic/spells/detect-magic.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 20), *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 20)  
 **Bloodline** undead
 
 **Statistics**

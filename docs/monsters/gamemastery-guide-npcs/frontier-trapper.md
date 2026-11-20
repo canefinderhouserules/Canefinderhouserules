@@ -22,7 +22,7 @@ N Medium humanoid
 **Ranged**  mwk composite longbow +7 (1d8+1/×3) or throwing axe +6 (1d6+2)  
 **Special Attacks** favored enemy (animals +2)  
 **Ranger Spells Prepared** (CL 1st; concentration +2)  
-1st—*charm animal* (DC 12)
+1st—*[charm animal](../../magic/spells/charm-animal.md)* (DC 12)
 
 **Statistics**
 

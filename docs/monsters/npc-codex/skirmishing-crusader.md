@@ -24,10 +24,10 @@ LG Small humanoid (gnome)
 **Ranged**  mwk longbow +8 (1d6/×3)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, channel positive energy (DC 16, 2d6), smite evil 2/day (+4 attack and AC, +4 damage)  
 **Spell-Like Abilities** (CL 4th; concentration +8)  
-At will—*detect evil*  
-1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Paladin Spells Prepared** (CL 1st; concentration +5)  
-1st—*lesser restoration*
+1st—*[lesser restoration](../../magic/spells/restoration-lesser.md)*
 
 **Tactics**
 

@@ -23,14 +23,14 @@ NG Gargantuan dragon (extraplanar, good)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bith)  
 **Special Attacks** breath weapon (120-ft. line, 20d10 electricity, DC 33), crush, peacemaker, sedating sparks, subduing strikes, tail sweep  
 **Oracle Spells Known** (CL 15th; concentration +24)  
-7th (5/day)—*holy word* (DC 26), *waves of ecstasy* (DC 28)  
-6th (7/day)—*find the path*, *heal*, *heroes’ feast*  
-5th (8/day)—*dispel evil*, *life bubble* (DC 24), *serenity* (DC 26), *true seeing*  
-4th (8/day)—*dismissal* (DC 23), *freedom of movement*, *holy smite* (DC 23), *ride the waves* (DC 23)  
-3rd (8/day)—*cure serious wounds*, *dispel magic*, *searing light*, *wind wall*  
-2nd (8/day)—*bull’s strength*, *calm emotions* (DC 23), *grace*, *resist energy*, *status*  
-1st (9/day)—*deathwatch*, *divine favor*, *remove fear*, *sanctuary* (DC 20), *shield of faith*  
-0 (at will)—*create water*, *detect magic*, *detect poison*, *guidance*, *light*, *mending*, *resistance*, *stabilize*
+7th (5/day)—*[holy word](../../magic/spells/holy-word.md)* (DC 26), *[waves of ecstasy](../../magic/spells/waves-of-ecstasy.md)* (DC 28)  
+6th (7/day)—*[find the path](../../magic/spells/find-the-path.md)*, *[heal](../../magic/spells/heal.md)*, *[heroes’ feast](../../magic/spells/heroes-feast.md)*  
+5th (8/day)—*[dispel evil](../../magic/spells/dispel-evil.md)*, *[life bubble](../../magic/spells/life-bubble.md)* (DC 24), *[serenity](../../magic/spells/serenity.md)* (DC 26), *[true seeing](../../magic/spells/true-seeing.md)*  
+4th (8/day)—*[dismissal](../../magic/spells/dismissal.md)* (DC 23), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[holy smite](../../magic/spells/holy-smite.md)* (DC 23), *[ride the waves](../../magic/spells/ride-the-waves.md)* (DC 23)  
+3rd (8/day)—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[searing light](../../magic/spells/searing-light.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd (8/day)—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[calm emotions](../../magic/spells/calm-emotions.md)* (DC 23), *[grace](../../magic/spells/grace.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[status](../../magic/spells/status.md)*  
+1st (9/day)—*[deathwatch](../../magic/spells/deathwatch.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 20), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[resistance](../../magic/spells/resistance.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

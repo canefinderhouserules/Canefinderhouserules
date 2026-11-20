@@ -30,9 +30,9 @@ petrification, poison; **Resist** cold 30, electricity 30, fire 30; **SR** 39
 fury of the forsaken  
 **Spell-Like Abilities** (CL 28th; concentration +38)  
 Constant—*detect good, fire shield* (warm shield), *freedom of movement, true seeing, unholy aura* (DC 28)  
-At will—*astral projection, blasphemy*<sup>M</sup> (DC 27), *desecrate*<sup>M</sup>, *greater dispel magic, greater teleport, shapechange, spiritual weapon*<sup>M</sup>, *telekinesis*<sup>M</sup> (DC 25), *unhallow, unholy blight*<sup>M</sup> (DC 24)  
-3/day—*blade barrier*<sup>M</sup> (DC 26), *fire storm*<sup>M</sup> (DC 28), *incendiary cloud* (DC 28), *plane shift* (DC 27), *summon daemon*, quickened *telekinesis*<sup>M</sup> (DC 25)  
-1/day—*meteor swarm*<sup>M</sup> (DC 29), *time stop*<sup>M</sup>, *wish*<sup>M</sup>  
+At will—*astral projection, blasphemy*<sup>M</sup> (DC 27), *[desecrate](../../magic/spells/desecrate.md)*<sup>M</sup>, *greater dispel magic, greater teleport, shapechange, spiritual weapon*<sup>M</sup>, *[telekinesis](../../magic/spells/telekinesis.md)*<sup>M</sup> (DC 25), *unhallow, unholy blight*<sup>M</sup> (DC 24)  
+3/day—*[blade barrier](../../magic/spells/blade-barrier.md)*<sup>M</sup> (DC 26), *[fire storm](../../magic/spells/fire-storm.md)*<sup>M</sup> (DC 28), *[incendiary cloud](../../magic/spells/incendiary-cloud.md)* (DC 28), *[plane shift](../../magic/spells/plane-shift.md)* (DC 27), *summon daemon*, quickened *[telekinesis](../../magic/spells/telekinesis.md)*<sup>M</sup> (DC 25)  
+1/day—*[meteor swarm](../../magic/spells/meteor-swarm.md)*<sup>M</sup> (DC 29), *[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 <sup>M</sup> Szuriel can use this ability’s mythic version in her realm.
 
 **Statistics**

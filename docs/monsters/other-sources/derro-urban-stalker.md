@@ -24,8 +24,8 @@ CE Small humanoid (derro)
 **Ranged**  dart +10 (1d3+2) or *+1 aklys* +11 (1d6+3)  
 **Special Attacks** sneak attack +2d6, studied target +1 (1st, move action)  
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
-At will—*darkness*, *ghost sound* (DC 12)  
-1/day—*daze* (DC 12), *sound burst* (DC 14)
+At will—*[darkness](../../magic/spells/darkness.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 12)  
+1/day—*[daze](../../magic/spells/daze.md)* (DC 12), *[sound burst](../../magic/spells/sound-burst.md)* (DC 14)
 
 **Statistics**
 

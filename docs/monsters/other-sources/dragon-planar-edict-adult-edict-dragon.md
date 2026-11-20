@@ -23,10 +23,10 @@ LN Huge dragon (extraplanar, lawful)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (100-foot line, 12d10 slashing damage, Reflex DC 27 half), crush, hindering shards, powerful wings, scrivener, tail sweep  
 **Oracle Spells Known** (CL 7th; concentration +12)  
-3rd (5/day)—*bestow curse* (DC 18), *dispel magic*  
-2nd (7/day)—*calm emotions* (DC 17), *cure moderate wounds*, *resist energy*  
-1st (8/day)—*command* (DC 16), *comprehend languages*, *detect chaos*, *remove fear*, *shield of faith*  
-0 (at will)—*detect magic*, *guidance*, *light*, *mending*, *purify food and drink*, *read magic*, *stabilize*
+3rd (5/day)—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*  
+2nd (7/day)—*[calm emotions](../../magic/spells/calm-emotions.md)* (DC 17), *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st (8/day)—*[command](../../magic/spells/command.md)* (DC 16), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[detect chaos](../../magic/spells/detect-chaos.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

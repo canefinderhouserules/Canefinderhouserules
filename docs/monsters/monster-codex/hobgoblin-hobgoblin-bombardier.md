@@ -22,9 +22,9 @@ LE Medium humanoid (goblinoid)
 **Ranged**  bomb +12/+7 (4d6+2 fire)  
 **Special Attacks** alchemical weapon (swift action), bomb 14/day (4d6+2 fire, DC 16), directed blast  
 **Alchemist Extracts Prepared** (CL 8th)  
-3rd—*fly*, *haste*  
-2nd—*barkskin*, *cat’s grace*, *false life*, *invisibility*, *resist energy*  
-1st—*bomber’s eye*, *expeditious retreat*, *shield*, *true strike* (2)
+3rd—*[fly](../../magic/spells/fly.md)*, *[haste](../../magic/spells/haste.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*, *[false life](../../magic/spells/false-life.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st—*[bomber’s eye](../../magic/spells/bombers-eye.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)* (2)
 
 **Tactics**
 

@@ -23,8 +23,8 @@ CE Colossal magical beast
 **Ranged**  4 eye rays +23 (4d6 sonic/18–20 plus nausea)  
 **Space** 30 ft., **Reach** 30 ft. (50 ft. with razor tongues)  
 **Spell-Like Abilities** (CL 25th; concentration +30)  
-At will—*acid fog*, *greater invisibility*, *song of discord* (DC 20)  
-3/day—*winds of vengeance*
+At will—*[acid fog](../../magic/spells/acid-fog.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[song of discord* ](../../magic/spells/song-of-discord.md)(DC 20)  
+3/day—*[winds of vengeance](../../magic/spells/winds-of-vengeance.md)*
 
 **Statistics**
 

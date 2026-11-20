@@ -22,7 +22,7 @@ N Small plant (leshy, shapechanger)
 **Ranged**  seed +3 (1 plus ensnare)  
 **Special Attacks** sneak attack +1d6  
 **Spell-Like Abilities** (CL 2nd; concentration +4)  
-Constant—*pass without trace*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*
 
 **Statistics**
 

@@ -26,11 +26,11 @@ LE Small humanoid (reptilian)
 6/day—*copycat* (8 rounds), *touch of law*  
 At will—master’s illusion (8 rounds/day)  
 **Cleric Spells Prepared** (CL 8th; concentration +11)  
-4th—*aura of doom* (DC 17), *confusion*<sup>D</sup> (DC 17), *cure critical wounds*  
-3rd—*animate dead*, *blindness/deafness* (DC 16), *deeper darkness*, *magic circle against chaos*<sup>D</sup>, *summon monster III*  
-2nd—*death knell* (DC 15), *hold person* (DC 15), *invisibility*<sup>D</sup>, *lesser animate dead*, *protective penumbra*  
-1st—*bane* (DC 14), *bless*, *disguise self*<sup>D</sup>, *moment of greatness*, *obscuring mist*, *sanctuary* (DC 14)  
-0 (at will)—*bleed* (DC 13), *detect magic*, *guidance*, *mending*  
+4th—*[aura of doom](../../magic/spells/aura-of-doom.md)* (DC 17), *[confusion](../../magic/spells/confusion.md)*<sup>D</sup> (DC 17), *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*  
+3rd—*[animate dead](../../magic/spells/animate-dead.md)*, *[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 16), *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[magic circle against chaos](../../magic/spells/magic-circle-against-chaos.md)*<sup>D</sup>, *[summon monster III](../../magic/spells/summon-monster-iii.md)*  
+2nd—*[death knell](../../magic/spells/death-knell.md)* (DC 15), *[hold person](../../magic/spells/hold-person.md)* (DC 15), *[invisibility](../../magic/spells/invisibility.md)*<sup>D</sup>, *[lesser animate dead](../../magic/spells/animate-dead-lesser.md)*, *[protective penumbra](../../magic/spells/protective-penumbra.md)*  
+1st—*[bane](../../magic/spells/bane.md)* (DC 14), *[bless](../../magic/spells/bless.md)*, *[disguise self](../../magic/spells/disguise-self.md)*<sup>D</sup>, *[moment of greatness](../../magic/spells/moment-of-greatness.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[sanctuary* ](../../magic/spells/sanctuary.md)(DC 14)  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[mending](../../magic/spells/mending.md)*  
 **D** domain spell; **Domains** Law, Trickery
 
 **Tactics**

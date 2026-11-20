@@ -22,10 +22,10 @@ NE Large outsider (daemon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft. (5 ft. with bite)  
 **Special Attacks** biting locusts, distraction (DC 25; biting locusts attack only)  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
-Constant—*detect good*, *detect magic*, *see invisibility*  
-At will—*feast of ashes* (DC 17), *greater teleport* (self plus 50 lbs. of objects only), *putrefy food and drink*  
-3/day—*sirocco* (DC 21), *summon swarm*  
-1/day—*horrid wilting* (DC 23)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[feast of ashes](../../magic/spells/feast-of-ashes.md)* (DC 17), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[putrefy food and drink](../../magic/spells/putrefy-food-and-drink.md)*  
+3/day—*[sirocco](../../magic/spells/sirocco.md)* (DC 21), *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1/day—*[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 23)
 
 **Statistics**
 

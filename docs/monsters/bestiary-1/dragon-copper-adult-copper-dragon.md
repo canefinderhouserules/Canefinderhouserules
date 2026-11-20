@@ -23,12 +23,12 @@ CG Large dragon (earth)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** b. weapon (80-ft. line, DC 22, 12d6 acid), slow breath  
 **Spell-Like Abilities** (CL 15th)  
-At will—*grease* (DC 15), *hideous laughter* (DC 16), *stone shape*  
+At will—*[grease* ](../../magic/spells/grease.md)(DC 15), *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 16), *[stone shape](../../magic/spells/stone-shape.md)*  
 **Spells Known** (CL 7th)  
-3rd (5/day)—*dispel magic*, *major image* (DC 17)  
-2nd (7/day)—*glitterdust* (DC 16), *invisibility*, *phantom trap*  
-1st (7/day)—*alarm*, *identify*, *magic missile*, *shield*, *silent image* (DC 15)  
-0 (at will)—*detect magic*, *ghost sound* (DC 14), *light*, *message*, *open/close*, *prestidigitation*, *read magic*
+3rd (5/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[major image* ](../../magic/spells/major-image.md)(DC 17)  
+2nd (7/day)—*[glitterdust* ](../../magic/spells/glitterdust.md)(DC 16), *[invisibility](../../magic/spells/invisibility.md)*, *[phantom trap](../../magic/spells/phantom-trap.md)*  
+1st (7/day)—*[alarm](../../magic/spells/alarm.md)*, *[identify](../../magic/spells/identify.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 15)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

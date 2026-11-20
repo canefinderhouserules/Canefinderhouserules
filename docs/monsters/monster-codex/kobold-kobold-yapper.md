@@ -23,10 +23,10 @@ LE Small humanoid (reptilian)
 **Ranged**  *+1 shortbow* +13/+8 (1d4+1/×3)  
 **Special Attacks** bardic performance 20 rounds/day (move action; countersong, frightful song [DC 16], distraction, inspire competence +3, inspire courage +2, suggestion [DC 16], yapping song [DC 16])  
 **Bard Spells Known** (CL 8th; concentration +10)  
-3rd (2/day)—*confusion* (DC 15), *deep slumber* (DC 15), *haste*  
-2nd (5/day)—*blur*, *heroism*, *hold person* (DC 14), *mirror image*  
-1st (5/day)—*alarm*, *charm person* (DC 13), *grease* (DC 13), *silent image* (DC 13), *ventriloquism* (DC 13)  
-0 (at will)—*dancing lights*, *detect magic*, *ghost sound* (DC 12), *mage hand*, *prestidigitation* (DC 12), *resistance*
+3rd (2/day)—*[confusion](../../magic/spells/confusion.md)* (DC 15), *[deep slumber](../../magic/spells/deep-slumber.md)* (DC 15), *[haste](../../magic/spells/haste.md)*  
+2nd (5/day)—*[blur](../../magic/spells/blur.md)*, *[heroism](../../magic/spells/heroism.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 14), *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (5/day)—*[alarm](../../magic/spells/alarm.md)*, *[charm person](../../magic/spells/charm-person.md)* (DC 13), *[grease](../../magic/spells/grease.md)* (DC 13), *[silent image](../../magic/spells/silent-image.md)* (DC 13), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 13)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 12), *[mage hand](../../magic/spells/mage-hand.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)* (DC 12), *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

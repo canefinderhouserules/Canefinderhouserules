@@ -24,10 +24,10 @@ LG Large outsider (angel, extraplanar, good, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** nailed fists, soul reflection  
 **Spell-Like Abilities** (CL 20th; concentration +25)  
-Constant—*discern lies*, *true seeing*  
-5/day—*break enchantment*, *dimension door*, *freedom of movement*  
-3/day—*atonement*, *mark of justice*, *plane shift* (self and willing targets only)  
-1/day—*discern location*
+Constant—*[discern lies](../../magic/spells/discern-lies.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+5/day—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+3/day—*[atonement](../../magic/spells/atonement.md)*, *[mark of justice](../../magic/spells/mark-of-justice.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (self and willing targets only)  
+1/day—*[discern location](../../magic/spells/discern-location.md)*
 
 **Statistics**
 

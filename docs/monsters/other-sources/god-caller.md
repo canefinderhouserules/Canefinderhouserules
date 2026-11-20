@@ -22,11 +22,11 @@ N Medium humanoid (human)
 **Melee** sickle +3 (1d6)  
 **Ranged**  dart +2 (1d4)  
 **Spell-Like Abilities** (CL 5th; concentration +9)  
-7/day—*summon monster III*  
+7/day—*[summon monster III](../../magic/spells/summon-monster-iii.md)*  
 **Summoner Spells Known** (CL 5th; concentration +9)  
-2nd (3/day)—*bull’s strength*, *haste*, *see invisibility*  
-1st (5/day)—*enlarge person* (DC 15), *mage armor*, *magic fang*, *protection from evil*  
-0 (at will)—*acid splash*, *arcane mark*, *detect magic*, *guidance*, *light*, *message*
+2nd (3/day)—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[haste](../../magic/spells/haste.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (5/day)—*[enlarge person* ](../../magic/spells/enlarge-person.md)(DC 15), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic fang](../../magic/spells/magic-fang.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*
 
 **Statistics**
 

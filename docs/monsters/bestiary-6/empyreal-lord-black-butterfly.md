@@ -33,9 +33,9 @@ steal breath)
 **Special Attacks** Voidsedge bond  
 **Spell-Like Abilities** (CL 28th; concentration +39)  
 Constant—*detect aberration, detect evil, detect law, freedom of movement, mind blank, true seeing*  
-At will—*break enchantment, deeper darkness, dimensional anchor, greater dispel magic, haste*<sup>M</sup>, *holy smite*<sup>M</sup> (DC 25), *holy word*<sup>M</sup> (DC 28), *interplanetary teleport, wandering star motes* (DC 25)  
-3/day—*antimagic field*<sup>M</sup>, quickened *heal*<sup>M</sup>, *reverse gravity*<sup>M</sup>, quickened *wandering star motes* (DC 25)  
-1/day—*gate, implosion* (DC 30), *mage’s disjunction*<sup>M</sup>, *moment of prescience, time stop*<sup>M</sup>  
+At will—*break enchantment, deeper darkness, dimensional anchor, greater dispel magic, haste*<sup>M</sup>, *[holy smite](../../magic/spells/holy-smite.md)*<sup>M</sup> (DC 25), *[holy word](../../magic/spells/holy-word.md)*<sup>M</sup> (DC 28), *interplanetary teleport, wandering star motes* (DC 25)  
+3/day—*[antimagic field](../../magic/spells/antimagic-field.md)*<sup>M</sup>, quickened *[heal](../../magic/spells/heal.md)*<sup>M</sup>, *[reverse gravity](../../magic/spells/reverse-gravity.md)*<sup>M</sup>, quickened *[wandering star motes](../../magic/spells/wandering-star-motes.md)* (DC 25)  
+1/day—*gate, implosion* (DC 30), *[mage’s disjunction](../../magic/spells/mages-disjunction.md)*<sup>M</sup>, *moment of prescience, time stop*<sup>M</sup>  
 <sup>M</sup> Black Butterfly can use this ability’s mythic version in her realm.
 
 **Statistics**

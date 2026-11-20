@@ -22,9 +22,9 @@ LE Medium outsider (asura, evil, extraplanar, lawful)
 **Melee** mwk longsword +19/+14/+9 (1d8+6/19–20), mwk spear +19 (1d8+9/×3), mwk kukri +19 (1d4+6/18–20), 2 slams +13 (1d4+3) or 6 slams +18 (1d4+6)  
 **Special Attacks** infused weapons, multiweapon mastery  
 **Spell-Like Abilities** (CL 9th; concentration +13)  
-At will—*disguise self*, *greater teleport* (self plus 50 lbs. of objects only), *feather fall*, *see invisibility*, *spider climb*  
-3/day—*deeper darkness*, *levitate*, *rainbow pattern* (DC 18)  
-1/day—*haste*, *hold monster* (DC 19), summon (level 4, 2 adhukaits 45% or 1 upasunda 20%)
+At will—*[disguise self](../../magic/spells/disguise-self.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[feather fall](../../magic/spells/feather-fall.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[spider climb](../../magic/spells/spider-climb.md)*  
+3/day—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[levitate](../../magic/spells/levitate.md)*, *[rainbow pattern* ](../../magic/spells/rainbow-pattern.md)(DC 18)  
+1/day—*[haste](../../magic/spells/haste.md)*, *[hold monster* ](../../magic/spells/hold-monster.md)(DC 19), summon (level 4, 2 adhukaits 45% or 1 upasunda 20%)
 
 **Statistics**
 

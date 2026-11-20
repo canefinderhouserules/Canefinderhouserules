@@ -24,9 +24,9 @@ CN Large monstrous humanoid (chaotic, Great Old One, shapechanger)
 **Special Attacks** constrict (4d10+21), curse of Yig, mythic power (10/day, surge +1d12), rend (2 claws, 4d8+21), serpentine dreams  
 **Spell-Like Abilities** (CL 27th; concentration +37)  
 Constant—*air walk, freedom of movement, speak with animals* (reptiles only)  
-At will—*awaken* (snakes only), *baleful polymorph*<sup>M</sup> (DC 25, into harmless snakes only), *commune with nature, dimension door*<sup>M</sup>, *dream*<sup>M</sup>, *greater dispel magic, nightmare*<sup>M</sup> (DC 25), *transport via plants*  
-3/day—*demand*, quickened *feeblemind* (DC 25), *heal*<sup>M</sup>, quickened *poison* (DC 24)  
-1/day—*control weather*<sup>M</sup>, *symbol of persuasion* (DC 26), *true resurrection*  
+At will—*[awaken](../../magic/spells/awaken.md)* (snakes only), *[baleful polymorph](../../magic/spells/baleful-polymorph.md)*<sup>M</sup> (DC 25, into harmless snakes only), *commune with nature, dimension door*<sup>M</sup>, *[dream](../../magic/spells/dream.md)*<sup>M</sup>, *greater dispel magic, nightmare*<sup>M</sup> (DC 25), *[transport via plants](../../magic/spells/transport-via-plants.md)*  
+3/day—*[demand](../../magic/spells/demand.md)*, quickened *[feeblemind](../../magic/spells/feeblemind.md)* (DC 25), *[heal](../../magic/spells/heal.md)*<sup>M</sup>, quickened *[poison](../../magic/spells/poison.md)* (DC 24)  
+1/day—*[control weather](../../magic/spells/control-weather.md)*<sup>M</sup>, *[symbol of persuasion](../../magic/spells/symbol-of-persuasion.md)* (DC 26), *[true resurrection](../../magic/spells/true-resurrection.md)*  
 **M** mythic spell
 
 **Statistics**

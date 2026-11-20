@@ -23,14 +23,14 @@ CN Gargantuan dragon (chaotic, extraplanar)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. cone, 20d8, DC 34), crush, entropic breath, flexible breath, tail sweep, transforming breath, vexing wings  
 **Oracle Spells Known** (CL 15th; concentration +22)  
-7th (5/day)—*destruction* (DC 24), *word of chaos*  
-6th (7/day)—*animate objects*, *harm* (DC 23), *heal*  
-5th (7/day)—*dispel law*, *insect plague*, *plane shift* (DC 22), *wall of stone*  
-4th (7/day)—*chaos hammer* (DC 21), *dismissal* (DC 21), *freedom of movement*, *tongues*  
-3rd (8/day)—*daylight*, *dispel magic*, *sands of time*, *stone shape*  
-2nd (8/day)—*eagle’s splendor*, *enthrall* (DC 19), *grace*, *lesser restoration*, *shatter* (DC 19)  
-1st (8/day)—*bless*, *entropic shield*, *obscuring mist*, *ray of sickening* (DC 18), *shield of faith*  
-0 (at will)—*bleed* (DC 17), *create water*, *detect magic*, *guidance*, *light*, *read magic*, *resistance*, *spark*
+7th (5/day)—*[destruction](../../magic/spells/destruction.md)* (DC 24), *[word of chaos](../../magic/spells/word-of-chaos.md)*  
+6th (7/day)—*[animate objects](../../magic/spells/animate-objects.md)*, *[harm](../../magic/spells/harm.md)* (DC 23), *[heal](../../magic/spells/heal.md)*  
+5th (7/day)—*[dispel law](../../magic/spells/dispel-law.md)*, *[insect plague](../../magic/spells/insect-plague.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (DC 22), *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+4th (7/day)—*[chaos hammer](../../magic/spells/chaos-hammer.md)* (DC 21), *[dismissal](../../magic/spells/dismissal.md)* (DC 21), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[tongues](../../magic/spells/tongues.md)*  
+3rd (8/day)—*[daylight](../../magic/spells/daylight.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[sands of time](../../magic/spells/sands-of-time.md)*, *[stone shape](../../magic/spells/stone-shape.md)*  
+2nd (8/day)—*[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[enthrall](../../magic/spells/enthrall.md)* (DC 19), *[grace](../../magic/spells/grace.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[shatter](../../magic/spells/shatter.md)* (DC 19)  
+1st (8/day)—*[bless](../../magic/spells/bless.md)*, *[entropic shield](../../magic/spells/entropic-shield.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[ray of sickening](../../magic/spells/ray-of-sickening.md)* (DC 18), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 17), *[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[spark](../../magic/spells/spark.md)*
 
 **Statistics**
 

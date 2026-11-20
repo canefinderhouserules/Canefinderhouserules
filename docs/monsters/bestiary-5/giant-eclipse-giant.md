@@ -23,9 +23,9 @@ N Gargantuan humanoid (giant)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** imbue rock, rock throwing  
 **Spell-Like Abilities** (CL 20th; concentration +24)  
-At will—*daylight*, *deeper darkness*, *harm* (DC 20), *heal*  
-3/day—quickened *harm* (DC 20), quickened *heal*  
-1/day—*lunar veil*, *polar midnight*
+At will—*[daylight](../../magic/spells/daylight.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[harm](../../magic/spells/harm.md)* (DC 20), *[heal](../../magic/spells/heal.md)*  
+3/day—quickened *[harm* ](../../magic/spells/harm.md)(DC 20), quickened *[heal](../../magic/spells/heal.md)*  
+1/day—*[lunar veil](../../magic/spells/lunar-veil.md)*, *[polar midnight](../../magic/spells/polar-midnight.md)*
 
 **Statistics**
 

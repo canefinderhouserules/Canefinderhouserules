@@ -25,12 +25,12 @@ N Small humanoid (ratfolk)
 7/day—resistant touch +2  
 At will—dimensional hop (90 feet/day)  
 **Cleric Spells Prepared** (CL 9th; concentration +13)  
-5th—*teleport*<sup>D</sup>, *wall of stone* (DC 19)  
-4th—*dimension door*<sup>D</sup>, *dismissal* (DC 18), *freedom of movement*, *summon monster IV*  
-3rd—*dispel magic*, *magic vestment*, *meld into stone*, *protection from energy*<sup>D</sup>, *stone shape*  
-2nd—*bull’s strength*, *calm emotions* (DC 16), *darkness*, *shield other*<sup>D</sup>, *sound burst* (DC 16), *zone of truth* (DC 16)  
-1st—*bless*, *command* (DC 15), *endure elements*, *longstrider*<sup>D</sup>, *sanctuary* (DC 15), *shield of faith*  
-0 (at will)—*create water*, *detect poison*, *guidance*, *mending*  
+5th—*[teleport](../../magic/spells/teleport.md)*<sup>D</sup>, *[wall of stone](../../magic/spells/wall-of-stone.md)* (DC 19)  
+4th—*[dimension door](../../magic/spells/dimension-door.md)*<sup>D</sup>, *[dismissal](../../magic/spells/dismissal.md)* (DC 18), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[summon monster IV](../../magic/spells/summon-monster-iv.md)*  
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*, *[meld into stone](../../magic/spells/meld-into-stone.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*<sup>D</sup>, *[stone shape](../../magic/spells/stone-shape.md)*  
+2nd—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[calm emotions](../../magic/spells/calm-emotions.md)* (DC 16), *[darkness](../../magic/spells/darkness.md)*, *[shield other](../../magic/spells/shield-other.md)*<sup>D</sup>, *[sound burst](../../magic/spells/sound-burst.md)* (DC 16), *[zone of truth](../../magic/spells/zone-of-truth.md)* (DC 16)  
+1st—*[bless](../../magic/spells/bless.md)*, *[command](../../magic/spells/command.md)* (DC 15), *[endure elements](../../magic/spells/endure-elements.md)*, *[longstrider](../../magic/spells/longstrider.md)*<sup>D</sup>, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 15), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[mending](../../magic/spells/mending.md)*  
 **D** domain spell; **Domains** Protection, Travel
 
 **Tactics**

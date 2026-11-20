@@ -21,8 +21,8 @@ CE Tiny undead
 **Melee** 2 slams +5 (1d4–2)  
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 9th; concentration +12)  
-At will—*detect magic*, *mending*, *telekinesis* (DC 18)  
-3/day—*make whole*
+At will—*[detect magic](../../magic/spells/detect-magic.md)*, *[mending](../../magic/spells/mending.md)*, *[telekinesis](../../magic/spells/telekinesis.md)* (DC 18)  
+3/day—*[make whole](../../magic/spells/make-whole.md)*
 
 **Statistics**
 

@@ -21,7 +21,7 @@ NE Medium fey
 **Speed** 30 ft.  
 **Melee** 2 claws +4 (1d6+1)  
 **Spell-Like Abilities** (CL 4th; concentration +3)  
-3/day—*heat metal* (DC 11)
+3/day—*[heat metal* ](../../magic/spells/heat-metal.md)(DC 11)
 
 **Statistics**
 

@@ -22,9 +22,9 @@ CE Gargantuan aberration
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** breath weapon (50-ft. cone, 14d10 acid, Reflex DC 27 half, once every 1d4 rounds), mind thrust, psychic crush, swallow whole (2d6+10 plus 2d6 acid, AC 23, hp 23)  
 **Spell-Like Abilities** (CL 20th)  
-Constant—*fly*  
-At will—*detect thoughts* (DC 17), *charm monster* (DC 19), *clairvoyance/clairaudience*, *suggestion* (DC 18), *telekinesis* (DC 20), *teleport*, *poison* (DC 19)  
-3/day—quickened *suggestion* (DC 18)
+Constant—*[fly](../../magic/spells/fly.md)*  
+At will—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[charm monster* ](../../magic/spells/charm-monster.md)(DC 19), *clairvoyance/clairaudience*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 18), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 20), *[teleport](../../magic/spells/teleport.md)*, *[poison* ](../../magic/spells/poison.md)(DC 19)  
+3/day—quickened *[suggestion* ](../../magic/spells/suggestion.md)(DC 18)
 
 **Statistics**
 

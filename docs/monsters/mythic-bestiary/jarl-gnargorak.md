@@ -24,9 +24,9 @@ CE Large humanoid (cold, giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** favored enemy (animals +4, evil outsiders +2, humans +4), fight on, inspiring assault, marshal’s order (advance, decisive strike), menacing presence, mythic bond, mythic presence, press the advantage, rock throwing (120 ft.)  
 **Ranger Spells Prepared** (CL 9th; concentration +13)  
-3rd—*fickle winds*, *water walk*  
-2nd—*barkskin* (already cast), *versatile weapon*, *wind wall*  
-1st—*horn of pursuit*, *pass without trace*, *resist energy* (already cast)
+3rd—*[fickle winds](../../magic/spells/fickle-winds.md)*, *[water walk](../../magic/spells/water-walk.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)* (already cast), *[versatile weapon](../../magic/spells/versatile-weapon.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+1st—*[horn of pursuit](../../magic/spells/horn-of-pursuit.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[resist energy](../../magic/spells/resist-energy.md)* (already cast)
 
 **Statistics**
 

@@ -24,15 +24,15 @@ CE Medium humanoid (goblinoid)
 **Ranged**  mwk javelin +16 (1d6+5)  
 **Special Attacks** channel negative energy (DC 18, 6d6), smite good 4/day (+2 attack and AC, +12 damage)  
 **Spell-Like Abilities** (CL 12th; concentration +14)  
-At will—*detect good*  
+At will—*[detect good](../../magic/spells/detect-good.md)*  
 **Antipaladin Spells Prepared** (CL 9th; concentration +11)  
-3rd—*isolate* (DC 15)  
-2nd—*corruption resistance*, *litany of warding*, *scare* (DC 14)  
-1st—*disguise self*, *litany of sloth*, *litany of weakness*
+3rd—*[isolate* ](../../magic/spells/isolate.md)(DC 15)  
+2nd—*[corruption resistance](../../magic/spells/corruption-resistance.md)*, *[litany of warding](../../magic/spells/litany-of-warding.md)*, *[scare](../../magic/spells/scare.md)* (DC 14)  
+1st—*[disguise self](../../magic/spells/disguise-self.md)*, *[litany of sloth](../../magic/spells/litany-of-sloth.md)*, *[litany of weakness](../../magic/spells/litany-of-weakness.md)*
 
 **Tactics**
 
-**Before Combat** The bugbear tyrant uses *disguise self* to get close to unsuspecting enemies.  
+**Before Combat** The bugbear tyrant uses *[disguise self](../../magic/spells/disguise-self.md)* to get close to unsuspecting enemies.  
  **During Combat** Using the fear effects at his disposal, the bugbear tyrant increases his damage with Cruel Opportunist and Hurtful, while regaining hit points using his feed on fear ability. The tyrant cares little about the lives of those he fights alongside; if he must retreat, he allows his allies to die.
 
 **Statistics**

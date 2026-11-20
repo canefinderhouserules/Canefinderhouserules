@@ -24,7 +24,7 @@ tremorsense 1 mi., *true seeing*; Perception +33
 **Special Attacks** sanguine centrifuge (2d8+16 plus 3d6 bleed,
 AC 22, hp 27; DC 23), warping field (DC 23)  
 **Spell-Like Abilities** (CL 22nd; concentration +24)  
-1/day—*greater teleport* (self plus stomach contents only;
+1/day—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus stomach contents only;
 see text)
 
 **Statistics**

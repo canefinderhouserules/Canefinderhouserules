@@ -22,9 +22,9 @@ LN Tiny outsider (kami, native)
 **Ranged**  improvised weapon +6 (1d3+2/×3)  
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-At will—*invisibility* (self only), *statue* (self only)  
-3/day—*hide from animals*, *purify food and drink*  
-1/week—*commune with nature* (CL 12th)
+At will—*[invisibility* ](../../magic/spells/invisibility.md)(self only), *[statue* ](../../magic/spells/statue.md)(self only)  
+3/day—*[hide from animals](../../magic/spells/hide-from-animals.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*  
+1/week—*[commune with nature* ](../../magic/spells/commune-with-nature.md)(CL 12th)
 
 **Statistics**
 

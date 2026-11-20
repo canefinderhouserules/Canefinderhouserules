@@ -23,13 +23,13 @@ N Medium humanoid (human, orc)
 **Ranged**  dagger +13 (1d4/19–20) or light mace +13 (1d6)  
 **Special Attacks** bardic performance 12 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +1), sneak attack +3d6  
 **Bard Spells Known** (CL 6th; concentration +8)  
-2nd (4/day)—*cat’s grace*, *cure moderate wounds* (DC 14), *eagle’s splendor*, *suggestion* (DC 14)  
-1st (5/day)—*animate rope*, *charm person* (DC 13), *silent image* (DC 13), *sleep* (DC 13)  
-0 (at will)—*dancing lights*, *detect magic*, *lullaby* (DC 12), *mage hand*, *mending*, *prestidigitation*
+2nd (4/day)—*[cat’s grace](../../magic/spells/cats-grace.md)*, *[cure moderate wounds* ](../../magic/spells/cure-moderate-wounds.md)(DC 14), *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 14)  
+1st (5/day)—*[animate rope](../../magic/spells/animate-rope.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 13), *[silent image* ](../../magic/spells/silent-image.md)(DC 13), *[sleep* ](../../magic/spells/sleep.md)(DC 13)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[lullaby* ](../../magic/spells/lullaby.md)(DC 12), *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Tactics**
 
-**Before Combat** The arcane trickster drinks his *potion of heroism* and casts *cat’s grace* on himself.  
+**Before Combat** The arcane trickster drinks his *potion of heroism* and casts *[cat’s grace* ](../../magic/spells/cats-grace.md)on himself.  
 **During Combat** The trickster starts by throwing the light maces he uses for his juggling act, then casts *charm person* and *suggestion* to help even the odds.  
 **Base Statistics** Without *heroism*, the arcane trickster’s statistics are **Init** +7; **Fort** +4, **Ref** +11, **Will** +5; **Melee** *+1 light mace* +7/+2 (1d6+1); **Ranged** dagger +9 (1d4/19–20) or light mace +9 (1d6); **Dex** 17; **CMD** 21; **Skills** Acrobatics +15, Disable Device +15, Escape Artist +15, Handle Animal +3, Intimidate +4, Knowledge (arcana) +11, Perception +11, Perform (comedy) +9, Ride +4, Sense Motive +6, Sleight of Hand +15, Stealth +15, Swim +4, Use Magic Device +14.
 

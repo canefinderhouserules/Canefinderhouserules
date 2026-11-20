@@ -23,9 +23,9 @@ NG Large humanoid (giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** rock throwing (120 ft.)  
 **Spell-Like Abilities** (CL 14th; concentration +15)  
-At will—*detect poison*, *know direction*  
-3/day—*animal messenger*, *cure moderate wounds*, *detect animals or plants*, *speak with animals*, *stone shape*  
-1/day—*commune with nature*
+At will—*[detect poison](../../magic/spells/detect-poison.md)*, *[know direction](../../magic/spells/know-direction.md)*  
+3/day—*[animal messenger](../../magic/spells/animal-messenger.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[detect animals or plants](../../magic/spells/detect-animals-or-plants.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*, *[stone shape](../../magic/spells/stone-shape.md)*  
+1/day—*[commune with nature](../../magic/spells/commune-with-nature.md)*
 
 **Statistics**
 

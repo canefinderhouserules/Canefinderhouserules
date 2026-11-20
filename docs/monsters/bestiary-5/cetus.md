@@ -24,8 +24,8 @@ CN Colossal dragon (aquatic, water)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** constrict (6d6+27), dispelling bite, fast swallow, impossible leap, rake (2 claws +26, 4d6+18), swallow whole (8d6+24 damage, AC 17, 20 hp)  
 **Spell-Like Abilities** (CL 15; concentration +23)  
-At will—quickened *control water*, *control winds*  
-1/day—*control weather*
+At will—quickened *[control water](../../magic/spells/control-water.md)*, *[control winds](../../magic/spells/control-winds.md)*  
+1/day—*[control weather](../../magic/spells/control-weather.md)*
 
 **Statistics**
 

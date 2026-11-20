@@ -29,9 +29,9 @@ grab), claw +31 (1d10+6 plus grab), gore +31 (2d8+6) or
 **Special Attacks** capture, punish the naughty, regression  
 **Spell-Like Abilities** (CL 20th; concentration +30)  
 Constant—*air walk, see invisibility, tongues*  
-At will—*bestow curse* (DC 24), *control weather, dimension door, discern location, ice storm, sleet storm*  
-3/day—*animate objects, baleful polymorph* (DC 25), *phantasmal killer* (DC 24)  
-1/day—*polymorph any object* (DC 28), *sympathy* (DC 28), *weird* (DC 29), *wish* (to other creatures only)
+At will—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 24), *control weather, dimension door, discern location, ice storm, sleet storm*  
+3/day—*animate objects, baleful polymorph* (DC 25), *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 24)  
+1/day—*[polymorph any object](../../magic/spells/polymorph-any-object.md)* (DC 28), *[sympathy](../../magic/spells/sympathy.md)* (DC 28), *[weird](../../magic/spells/weird.md)* (DC 29), *[wish](../../magic/spells/wish.md)* (to other creatures only)
 
 **Statistics**
 

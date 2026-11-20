@@ -22,8 +22,8 @@ N Medium outsider (native)
 **Ranged**  composite longbow +8/+3 (1d8+3/×3)  
 **Special Attacks** change size  
 **Spell-Like Abilities** (CL 8th)  
-3/day—*invisibility* (self only), *plane shift* (willing targets to elemental planes, Astral Plane, or Material Plane only), *speak with animals*  
-1/day—*create food and water*, *ethereal jaunt* (for 1 hour)
+3/day—*[invisibility* ](../../magic/spells/invisibility.md)(self only), *[plane shift* ](../../magic/spells/plane-shift.md)(willing targets to elemental planes, Astral Plane, or Material Plane only), *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+1/day—*[create food and water](../../magic/spells/create-food-and-water.md)*, *[ethereal jaunt* ](../../magic/spells/ethereal-jaunt.md)(for 1 hour)
 
 **Statistics**
 

@@ -22,9 +22,9 @@ N (but see below) Medium construct
 **Melee** 2 claws +15 (1d8+4 plus grab)  
 **Special Attacks** constrict (1d8+4)  
 **Spell-Like Abilities** (CL 10th; concentration +9)  
-At will—*detect poison*, *light*, *mage hand*, *open/close*, *prestidigitation*  
-3/day—*alarm*, *feather fall*, *hold portal*  
-1/day—*disguise self* (see below), *levitate*, one additional ability based on alignment (see below)
+At will—*[detect poison](../../magic/spells/detect-poison.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*  
+3/day—*[alarm](../../magic/spells/alarm.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[hold portal](../../magic/spells/hold-portal.md)*  
+1/day—*[disguise self](../../magic/spells/disguise-self.md)* (see below), *[levitate](../../magic/spells/levitate.md)*, one additional ability based on alignment (see below)
 
 **Statistics**
 

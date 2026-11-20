@@ -35,10 +35,10 @@ touch +51 (curse of ages)
 **Space** 5 ft., **Reach** 5 ft.  
 **Special Attacks** curse of the ages, memory loss, Stygian bolt  
 **Spell-Like Abilities** (CL 30th; concentration +42)  
-Constant—*air walk, detect good, freedom of movement, true seeing, unholy aura* (DC 30), *water walk*  
-At will—*animate dead*<sup>M</sup>, *astral projection, blasphemy*<sup>M</sup> (DC 29), *circle of death*<sup>M</sup> (DC 28), *control undead* (DC 29), *create greater undead, create undead, desecrate*<sup>M</sup>, *greater dispel magic, greater teleport, shapechange, telekinesis*<sup>M</sup> (DC 27), *unhallow, unholy blight*<sup>M</sup> (DC 26)  
-3/day—quickened *circle of death*<sup>M</sup> (DC 28), plane shift<sup>M</sup> (DC 29), *soul bind* (DC 31), *summon daemon, symbol of death* (DC 30), quickened *telekinesis*<sup>M</sup> (DC 27), *wail of the banshee* (DC 31)  
-1/day—*time stop*<sup>M</sup>, *wish*<sup>M</sup>  
+Constant—*air walk, detect good, freedom of movement, true seeing, unholy aura* (DC 30), *[water walk](../../magic/spells/water-walk.md)*  
+At will—*[animate dead](../../magic/spells/animate-dead.md)*<sup>M</sup>, *astral projection, blasphemy*<sup>M</sup> (DC 29), *[circle of death](../../magic/spells/circle-of-death.md)*<sup>M</sup> (DC 28), *[control undead](../../magic/spells/control-undead.md)* (DC 29), *create greater undead, create undead, desecrate*<sup>M</sup>, *greater dispel magic, greater teleport, shapechange, telekinesis*<sup>M</sup> (DC 27), *unhallow, unholy blight*<sup>M</sup> (DC 26)  
+3/day—quickened *[circle of death](../../magic/spells/circle-of-death.md)*<sup>M</sup> (DC 28), plane shift<sup>M</sup> (DC 29), *[soul bind](../../magic/spells/soul-bind.md)* (DC 31), *summon daemon, symbol of death* (DC 30), quickened *[telekinesis](../../magic/spells/telekinesis.md)*<sup>M</sup> (DC 27), *[wail of the banshee](../../magic/spells/wail-of-the-banshee.md)* (DC 31)  
+1/day—*[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 <sup>M</sup> Charon can use this ability's mythic version in his realm
 
 **Statistics**

@@ -24,9 +24,9 @@ CN Colossal monstrous humanoid
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** breath weapon (60-ft. cone, 20d6 fire, DC 31, usable every 1d4 rounds), rock throwing (180 ft.)  
 **Spell-Like Abilities** (CL 20th; concentration +25)  
-Constant—*true seeing*  
-3/day—*greater shout* (DC 23)  
-1/day—*destruction* (DC 22), *earthquake* (DC 23), *power word stun*
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+3/day—*[greater shout* ](../../magic/spells/shout-greater.md)(DC 23)  
+1/day—*[destruction* ](../../magic/spells/destruction.md)(DC 22), *[earthquake* ](../../magic/spells/earthquake.md)(DC 23), *[power word stun](../../magic/spells/power-word-stun.md)*
 
 **Statistics**
 

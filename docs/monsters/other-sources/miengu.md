@@ -22,9 +22,9 @@ Usually NG Medium fey (aquatic)
 **Ranged** 1d4 *+1 water daggers* +15 (1d4+1)  
 **Special Attacks** aqueous armament, waverider  
 **Spell-Like Abilities** (CL 12th)  
-At will — *create water*, *fog cloud*, *detect evil*, *detect good*, *pass without trace*, *see invisibility*, *ventriloquism*, *water breathing*  
- 3/day — *blur*, *control water*, *hallucinatory terrain* (DC 18), *summon nature’s ally IV*  
- 1/day — *heal* (DC 20), *rainbow pattern* (DC 18), *remove curse*, *restoration*
+At will — *[create water](../../magic/spells/create-water.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[ventriloquism](../../magic/spells/ventriloquism.md)*, *[water breathing](../../magic/spells/water-breathing.md)*  
+ 3/day — *[blur](../../magic/spells/blur.md)*, *[control water](../../magic/spells/control-water.md)*, *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)* (DC 18), *[summon nature’s ally IV](../../magic/spells/summon-natures-ally-iv.md)*  
+ 1/day — *[heal](../../magic/spells/heal.md)* (DC 20), *[rainbow pattern](../../magic/spells/rainbow-pattern.md)* (DC 18), *[remove curse](../../magic/spells/remove-curse.md)*, *[restoration](../../magic/spells/restoration.md)*
 
 **Statistics**
 

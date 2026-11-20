@@ -23,10 +23,10 @@ CE Large outsider (air, chaotic, demon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** hear name, poison, possession, profane  
 **Spell-Like Abilities** (CL 30th; concentration +43)  
-Constant—*detect good*, *detect law*, *freedom of movement*, *speak with animals* (winged animals only), *true seeing*, *unholy aura* (DC 31)  
-At will—*astral projection*, *blasphemy** (DC 30), *control winds*, *desecrate**, *dominate person** (DC 28), *greater dispel magic*, *greater teleport*, *shapechange*, *telekinesis** (DC 28), *unhallow*, *unholy blight** (DC 27)  
-3/day—quickened *dominate person** (DC 28), summon demons, *symbol of persuasion* (DC 29), *sympathy* (DC 31), *whirlwind**  
-1/day—*dominate monster* (DC 32), *time stop**, *wish**  
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[speak with animals* ](../../magic/spells/speak-with-animals.md)(winged animals only), *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura* ](../../magic/spells/unholy-aura.md)(DC 31)  
+At will—*[astral projection](../../magic/spells/astral-projection.md)*, *[blasphemy](../../magic/spells/blasphemy.md)** (DC 30), *[control winds](../../magic/spells/control-winds.md)*, *[desecrate](../../magic/spells/desecrate.md)**, *[dominate person](../../magic/spells/dominate-person.md)** (DC 28), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[shapechange](../../magic/spells/shapechange.md)*, *[telekinesis](../../magic/spells/telekinesis.md)** (DC 28), *[unhallow](../../magic/spells/unhallow.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)** (DC 27)  
+3/day—quickened *[dominate person](../../magic/spells/dominate-person.md)** (DC 28), summon demons, *[symbol of persuasion* ](../../magic/spells/symbol-of-persuasion.md)(DC 29), *[sympathy* ](../../magic/spells/sympathy.md)(DC 31), *[whirlwind](../../magic/spells/whirlwind.md)**  
+1/day—*[dominate monster* ](../../magic/spells/dominate-monster.md)(DC 32), *[time stop](../../magic/spells/time-stop.md)**, *[wish](../../magic/spells/wish.md)**  
 * Pazuzu can use the mythic version of this ability in his realm.
 
 **Statistics**

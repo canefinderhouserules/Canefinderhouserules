@@ -22,8 +22,8 @@ LE Large outsider (devil, evil, extraplanar, lawful)
 **Melee** *+1 unholy spiked chain* +26/+21/+16 (2d6+11 plus stun), bite +22 (2d8+5), tail +22 (2d6+5 plus infernal wound) or 2 claws +24 (2d6+10), bite +24 (2d8+10), tail +22 (2d6+5 plus infernal wound)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 16th)  
-At will—*dispel chaos* (DC 21), *dispel good* (DC 21), *magic circle against good*, *greater teleport* (self plus 50 lbs. of objects only), *persistent image* (DC 21)  
-3/day—*fireball* (DC 19), *lightning bolt* (DC 19)  
+At will—*[dispel chaos* ](../../magic/spells/dispel-chaos.md)(DC 21), *[dispel good* ](../../magic/spells/dispel-good.md)(DC 21), *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[persistent image* ](../../magic/spells/persistent-image.md)(DC 21)  
+3/day—*[fireball* ](../../magic/spells/fireball.md)(DC 19), *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 19)  
 1/day—summon (level 6, 3 barbed devils, 35%)
 
 **Statistics**

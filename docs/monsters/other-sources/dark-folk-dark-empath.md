@@ -21,9 +21,9 @@ CN Small humanoid (dark folk)
 **Melee** mwk dagger +8 (1d3–1/19–20 plus poison)  
 **Special Attacks** death throes, infectious emotion, sneak attack +1d6  
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
-At will—*darkness*, *detect magic*  
+At will—*[darkness](../../magic/spells/darkness.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
 **Psychic Magic** (CL 3rd; concentration +5)  
-3 PE—*mind thrust I* (1 PE, DC 13), *paranoia* (1 PE, DC 13), *thought echo* (1 PE, DC 13)
+3 PE—*[mind thrust I](../../magic/spells/mind-thrust-i.md)* (1 PE, DC 13), *[paranoia](../../magic/spells/paranoia.md)* (1 PE, DC 13), *[thought echo](../../magic/spells/thought-echo.md)* (1 PE, DC 13)
 
 **Statistics**
 

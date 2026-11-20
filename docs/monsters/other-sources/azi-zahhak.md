@@ -22,9 +22,9 @@ NE Gargantuan dragon
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite, 25 ft. with vipers)  
 **Special Attacks** breath weapon, cursed to earth, poison, slain to serve  
 **Spell-Like Abilities** (CL 17th)  
-At will — *darkness*, *freedom of movement*, *invisibility* (DC 18), *see invisibility*  
-3/day — *control undead* (DC 22), *creeping doom*, *deeper darkness*, *dispel good* (DC 21), *fog cloud*, *greater shout* (DC 24), *horrid wilting* (DC 24), *transmute rock to mud* (DC 21), *veil* (DC 22)  
-1/day — *control weather*, *hallucinatory terrain* (DC 20)
+At will — *[darkness](../../magic/spells/darkness.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[invisibility](../../magic/spells/invisibility.md)* (DC 18), *[see invisibility](../../magic/spells/see-invisibility.md)*  
+3/day — *[control undead](../../magic/spells/control-undead.md)* (DC 22), *[creeping doom](../../magic/spells/creeping-doom.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[dispel good](../../magic/spells/dispel-good.md)* (DC 21), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[greater shout](../../magic/spells/shout-greater.md)* (DC 24), *[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 24), *[transmute rock to mud](../../magic/spells/transmute-rock-to-mud.md)* (DC 21), *[veil](../../magic/spells/veil.md)* (DC 22)  
+1/day — *[control weather](../../magic/spells/control-weather.md)*, *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)* (DC 20)
 
 **Statistics**
 

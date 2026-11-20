@@ -26,17 +26,17 @@ action; as a 16th-level bard)
 **Bard Spells Known** (CL 16th; concentration +25)  
 6th (2)—*brilliant inspiration, irresistible dance* (DC 25)  
 
-5th (5)—*greater dispel magic, greater heroism, frozen note* (DC 25), *shadowbard*  
+5th (5)—*greater dispel magic, greater heroism, frozen note* (DC 25), *[shadowbard](../../magic/spells/shadowbard.md)*  
 
-4th (6)—*break enchantment, heroic finale, legend lore, modify memory* (DC 23), *virtuoso performance*  
+4th (6)—*break enchantment, heroic finale, legend lore, modify memory* (DC 23), *[virtuoso performance](../../magic/spells/virtuoso-performance.md)*  
 
 3rd (7)—*exquisite accompaniment, glibness, good hope, haste, purging finale*  
 
-2nd (7)—*calm emotions* (DC 21), *eagle’s splendor, gallant inspiration, honeyed tongue, share memory* (DC 21), *tactical acumen*  
+2nd (7)—*[calm emotions](../../magic/spells/calm-emotions.md)* (DC 21), *eagle’s splendor, gallant inspiration, honeyed tongue, share memory* (DC 21), *[tactical acumen](../../magic/spells/tactical-acumen.md)*  
 
-1st (8)—*hideous laughter* (DC 20), *identify, liberating command, saving finale, solid note, timely inspiration*  
+1st (8)—*[hideous laughter](../../magic/spells/hideous-laughter.md)* (DC 20), *identify, liberating command, saving finale, solid note, timely inspiration*  
 
-0 (at will)—*detect magic, ghost sound* (DC 19), *lullaby* (DC 19), *message, prestidigitation, summon instrument*
+0 (at will)—*detect magic, ghost sound* (DC 19), *[lullaby](../../magic/spells/lullaby.md)* (DC 19), *message, prestidigitation, summon instrument*
 
 **Statistics**
 

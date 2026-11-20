@@ -23,9 +23,9 @@ N Tiny magical beast
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 3rd; concentration +5; save DCs are Wisdom-based)  
 Constant—*detect alignment*  
-At will—*comprehend languages*  
-3/day—*confess* (DC 14), *zone of truth* (DC 14)  
-1/day—*follow aura*, *seek thoughts* (DC 15)
+At will—*[comprehend languages](../../magic/spells/comprehend-languages.md)*  
+3/day—*[confess](../../magic/spells/confess.md)* (DC 14), *[zone of truth* ](../../magic/spells/zone-of-truth.md)(DC 14)  
+1/day—*[follow aura](../../magic/spells/follow-aura.md)*, *[seek thoughts](../../magic/spells/seek-thoughts.md)* (DC 15)
 
 **Statistics**
 

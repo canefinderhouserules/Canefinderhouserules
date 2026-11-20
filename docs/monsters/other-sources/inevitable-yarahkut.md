@@ -23,11 +23,11 @@ LN Large outsider (extraplanar, inevitable, lawful)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** dismantling gaze, rend (2 wings, 2d6+10), wings  
 **Spell-Like Abilities** (CL 15th; concentration +19)  
-Constant—*arcane sight*, *true seeing*  
-At will—*chill metal* (DC 16), *heat metal* (DC 16)  
-3/day—*locate object*, *modify memory* (DC 18), *rusting grasp*, *wall of force*  
-1/day—*disintegrate* (DC 20), *feeblemind*, *mark of justice*  
-1/week—*lesser geas* (DC 18)
+Constant—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[chill metal](../../magic/spells/chill-metal.md)* (DC 16), *[heat metal](../../magic/spells/heat-metal.md)* (DC 16)  
+3/day—*[locate object](../../magic/spells/locate-object.md)*, *[modify memory](../../magic/spells/modify-memory.md)* (DC 18), *[rusting grasp](../../magic/spells/rusting-grasp.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+1/day—*[disintegrate](../../magic/spells/disintegrate.md)* (DC 20), *[feeblemind](../../magic/spells/feeblemind.md)*, *[mark of justice](../../magic/spells/mark-of-justice.md)*  
+1/week—*[lesser geas](../../magic/spells/geas-lesser.md)* (DC 18)
 
 **Statistics**
 

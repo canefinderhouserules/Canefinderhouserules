@@ -21,7 +21,7 @@ NE Large outsider (evil, extraplanar)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** smoke  
 **Spell-Like Abilities** (CL 6th)  
-1/day (self plus 1 rider only)—*plane shift*
+1/day (self plus 1 rider only)—*[plane shift](../../magic/spells/plane-shift.md)*
 
 **Statistics**
 

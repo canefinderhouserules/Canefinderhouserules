@@ -23,10 +23,10 @@ NE Colossal aberration (chaotic, evil, Great Old One)
 **Space** 30 ft., **Reach** 30 ft. (60 ft. with tentacles)  
 **Special Attacks** apocalyptic dreams, constrict (2d8+31), create mummified creature, fast swallow, mythic power (10/day, surge +1d12), overwhelming devastation, pounce, swallow whole (10d6+31 bludgeoning plus 10d6 negative energy damage, AC 21, 71 hp)  
 **Spell-Like Abilities** (CL 29th; concentration +39)  
-Constant—*air walk*, *freedom of movement*, *true seeing*  
-At will—*black tentacles*<sup>M</sup>, *control weather*<sup>M</sup>, *create undead* (mummies only), *dream*<sup>M</sup>, *greater dispel magic*, *insanity* (DC 27), *nightmare*<sup>M</sup> (DC 25), *project image* (DC 27), *sending*<sup>M</sup>  
-3/day—*demand* (DC 28), *earthquake*, quickened *feeblemind* (DC 25), *vortex* (DC 27), *weird* (DC 29)  
-1/day—*imprisonment* (DC 29), *storm of vengeance* (DC 29), *symbol of insanity* (DC 28), *tsunami*<sup>M</sup> (DC 29)
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[black tentacles](../../magic/spells/black-tentacles.md)*<sup>M</sup>, *[control weather](../../magic/spells/control-weather.md)*<sup>M</sup>, *[create undead](../../magic/spells/create-undead.md)* (mummies only), *[dream](../../magic/spells/dream.md)*<sup>M</sup>, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[insanity](../../magic/spells/insanity.md)* (DC 27), *[nightmare](../../magic/spells/nightmare.md)*<sup>M</sup> (DC 25), *[project image](../../magic/spells/project-image.md)* (DC 27), *[sending](../../magic/spells/sending.md)*<sup>M</sup>  
+3/day—*[demand](../../magic/spells/demand.md)* (DC 28), *[earthquake](../../magic/spells/earthquake.md)*, quickened *[feeblemind](../../magic/spells/feeblemind.md)* (DC 25), *[vortex](../../magic/spells/vortex.md)* (DC 27), *[weird](../../magic/spells/weird.md)* (DC 29)  
+1/day—*[imprisonment](../../magic/spells/imprisonment.md)* (DC 29), *[storm of vengeance](../../magic/spells/storm-of-vengeance.md)* (DC 29), *[symbol of insanity](../../magic/spells/symbol-of-insanity.md)* (DC 28), *[tsunami](../../magic/spells/tsunami.md)*<sup>M</sup> (DC 29)
 
 **Statistics**
 

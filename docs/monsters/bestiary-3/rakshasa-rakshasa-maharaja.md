@@ -21,20 +21,20 @@ LE Medium outsider (native, rakshasa, shapechanger)
 **Melee** *+3 falchion* +31/+26/+21/+16 (2d4+15/15–20), 4 bites +23 (1d6+4)  
 **Special Attacks** detect thoughts (DC 29), extra initiative  
 **Spell-Like Abilities** (CL 18th; concentration +27)  
-Constant—*comprehend languages*, *tongues*  
-At will—*clairaudience/clairvoyance*  
-1/day—*dominate monster* (DC 28)  
+Constant—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*  
+1/day—*[dominate monster* ](../../magic/spells/dominate-monster.md)(DC 28)  
 **Spells Known** (CL 18th; concentration +27)  
-9th (4/day)—*weird* (DC 28)  
-8th (6/day)—*greater shadow evocation*, *mind blank*  
-7th (7/day)—*greater shadow conjuration*, *mass invisibility*, *spell turning*  
-6th (7/day)—*greater dispel magic*, *mass suggestion* (DC 25), *true seeing*  
-5th (8/day)—*baleful polymorph* (DC 24), *feeblemind* (DC 24), *mind fog* (DC 24), *teleport*  
-4th (8/day)—*charm monster* (DC 23), *dimension door*, *lesser globe of invulnerability*, *scrying*  
-3rd (8/day)—*dispel magic*, *nondetection*, *suggestion* (DC 22), *vampiric touch* (DC 22)  
-2nd (8/day)—*darkness*, *knock*, *misdirection* (DC 21), *resist energy*, *see invisibility*  
-1st (9/day)—*charm person* (DC 20), *identify*, *mage armor*, *magic missile*, *ventriloquism* (DC 20)  
-0 (at will)—*arcane mark*, *bleed* (DC 19), *daze* (DC 19), *detect magic*, *ghost sound*, *mage hand*, *message*, *prestidigitation*, *read magic*
+9th (4/day)—*[weird* ](../../magic/spells/weird.md)(DC 28)  
+8th (6/day)—*[greater shadow evocation](../../magic/spells/shadow-evocation-greater.md)*, *[mind blank](../../magic/spells/mind-blank.md)*  
+7th (7/day)—*[greater shadow conjuration](../../magic/spells/shadow-conjuration-greater.md)*, *[mass invisibility](../../magic/spells/invisibility-mass.md)*, *[spell turning](../../magic/spells/spell-turning.md)*  
+6th (7/day)—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 25), *[true seeing](../../magic/spells/true-seeing.md)*  
+5th (8/day)—*[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 24), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 24), *[mind fog* ](../../magic/spells/mind-fog.md)(DC 24), *[teleport](../../magic/spells/teleport.md)*  
+4th (8/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 23), *[dimension door](../../magic/spells/dimension-door.md)*, *[lesser globe of invulnerability](../../magic/spells/globe-of-invulnerability-lesser.md)*, *[scrying](../../magic/spells/scrying.md)*  
+3rd (8/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[nondetection](../../magic/spells/nondetection.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 22), *[vampiric touch* ](../../magic/spells/vampiric-touch.md)(DC 22)  
+2nd (8/day)—*[darkness](../../magic/spells/darkness.md)*, *[knock](../../magic/spells/knock.md)*, *[misdirection* ](../../magic/spells/misdirection.md)(DC 21), *[resist energy](../../magic/spells/resist-energy.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (9/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 20), *[identify](../../magic/spells/identify.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 20)  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 19), *[daze* ](../../magic/spells/daze.md)(DC 19), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

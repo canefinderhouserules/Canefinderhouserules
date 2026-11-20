@@ -23,11 +23,11 @@ N Small humanoid (gnome)
 **Ranged**  *+1 light crossbow* +12 (1d6+1/19–20) or mwk dagger +11/+6 (1d3+1/19–20)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, favored enemy (elves +2, goblinoids +4)  
 **Ranger Spells Prepared** (CL 3rd; concentration +4)  
-1st—*alarm*, *delay poison*
+1st—*[alarm](../../magic/spells/alarm.md)*, *[delay poison](../../magic/spells/delay-poison.md)*
 
 **Tactics**
 
-**Before Combat** The ranger casts *delay poison*.  
+**Before Combat** The ranger casts *[delay poison](../../magic/spells/delay-poison.md)*.  
 **During Combat** The ranger uses Precise Shot to help allies in melee.  
 **Base Statistics** Without *delay poison*, the ranger’s statistics are **Immune** none.
 

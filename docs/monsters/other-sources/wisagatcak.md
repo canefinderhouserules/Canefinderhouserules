@@ -22,9 +22,9 @@ LE Small outsider (evil, extraplanar, lawful)
 **Melee** bite +22 (1d8+5 plus weakness), gore +22 (2d4+5), 4 talons +22 (1d6+5)  
 **Special Attacks** rake (2 talons, 1d6+5), ravage flesh  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
-At will—*dimension door*, *whispering wind*  
-3/day—*air walk*, *freezing sphere* (DC 21)  
-1/day—*polar ray* (DC 23), *wall of ice*
+At will—*[dimension door](../../magic/spells/dimension-door.md)*, *[whispering wind](../../magic/spells/whispering-wind.md)*  
+3/day—*[air walk](../../magic/spells/air-walk.md)*, *[freezing sphere](../../magic/spells/freezing-sphere.md)* (DC 21)  
+1/day—*[polar ray](../../magic/spells/polar-ray.md)* (DC 23), *[wall of ice](../../magic/spells/wall-of-ice.md)*
 
 **Statistics**
 

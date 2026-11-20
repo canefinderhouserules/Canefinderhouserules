@@ -23,10 +23,10 @@ CE Gargantuan outsider (chaotic, demon, earth, evil, extraplanar)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** breath weapon, enhanced venom, infestation, poison, swarm master  
 **Spell-Like Abilities** (CL 29th; concentration +39)  
-Constant—*detect good*, *detect law*, *freedom of movement*, *true seeing*, *unholy aura* (DC 28)  
-At will—*astral projection*, *blasphemy* (DC 27), *control winds*, *desecrate*, *greater dispel magic*, *greater teleport*, *hungry pit* (DC 25), *insect plague*, *shapechange*, *telekinesis* (DC 25), *unhallow*, *unholy blight* (DC 24)  
-3/day—*control weather*, *creeping doom*, *reverse gravity*, summon demons, *symbol of weakness* (DC 27)  
-1/day—*imprisonment* (DC 29), *earthquake*, *time stop*
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura* ](../../magic/spells/unholy-aura.md)(DC 28)  
+At will—*[astral projection](../../magic/spells/astral-projection.md)*, *[blasphemy* ](../../magic/spells/blasphemy.md)(DC 27), *[control winds](../../magic/spells/control-winds.md)*, *[desecrate](../../magic/spells/desecrate.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[hungry pit](../../magic/spells/hungry-pit.md)* (DC 25), *[insect plague](../../magic/spells/insect-plague.md)*, *[shapechange](../../magic/spells/shapechange.md)*, *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 25), *[unhallow](../../magic/spells/unhallow.md)*, *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 24)  
+3/day—*[control weather](../../magic/spells/control-weather.md)*, *[creeping doom](../../magic/spells/creeping-doom.md)*, *[reverse gravity](../../magic/spells/reverse-gravity.md)*, summon demons, *[symbol of weakness* ](../../magic/spells/symbol-of-weakness.md)(DC 27)  
+1/day—*[imprisonment* ](../../magic/spells/imprisonment.md)(DC 29), *[earthquake](../../magic/spells/earthquake.md)*, *[time stop](../../magic/spells/time-stop.md)*
 
 **Statistics**
 

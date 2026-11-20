@@ -25,13 +25,13 @@ N Medium humanoid (human, orc)
 **Spell-Like Abilities** (CL 12th; concentration +15)  
 6/day—heavenly fire (1d4+3 divine energy)  
 **Sorcerer Spells Known** (CL 12th; concentration +15)  
-6th (3/day)—*disintegrate* (DC 19)  
-5th (5/day)—*dismissal* (DC 18), *summon monster V*  
-4th (6/day)—*dimensional anchor*, *locate creature*, *resilient sphere* (DC 17)  
-3rd (7/day)—*halt undead* (DC 16), *haste*, *lightning bolt* (DC 16), *magic circle against evil*, *summon monster III*  
-2nd (7/day)—*blindness/deafness* (DC 15), *false life*, *mirror image*, *resist energy*, *rope trick*, *see invisibility*  
-1st (7/day)—*bless*, *cause fear* (DC 14), *detect undead*, *magic missile*, *shield*, *unseen servant*  
-0 (at will)—*dancing lights*, *detect magic*, *disrupt undead*, *flare* (DC 13), *mage hand*, *message*, *open/close*, *prestidigitation*, *resistance*  
+6th (3/day)—*[disintegrate* ](../../magic/spells/disintegrate.md)(DC 19)  
+5th (5/day)—*[dismissal* ](../../magic/spells/dismissal.md)(DC 18), *[summon monster V](../../magic/spells/summon-monster-v.md)*  
+4th (6/day)—*[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[locate creature](../../magic/spells/locate-creature.md)*, *[resilient sphere* ](../../magic/spells/resilient-sphere.md)(DC 17)  
+3rd (7/day)—*[halt undead* ](../../magic/spells/halt-undead.md)(DC 16), *[haste](../../magic/spells/haste.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 16), *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*, *[summon monster III](../../magic/spells/summon-monster-iii.md)*  
+2nd (7/day)—*[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 15), *[false life](../../magic/spells/false-life.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[rope trick](../../magic/spells/rope-trick.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (7/day)—*[bless](../../magic/spells/bless.md)*, *[cause fear* ](../../magic/spells/cause-fear.md)(DC 14), *[detect undead](../../magic/spells/detect-undead.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[flare* ](../../magic/spells/flare.md)(DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **Bloodline** celestial
 
 **Tactics**

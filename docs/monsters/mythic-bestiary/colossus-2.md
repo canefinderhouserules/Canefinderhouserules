@@ -24,8 +24,8 @@ N Colossal construct (colossus, mythic)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** mythic power (8/day, surge +1d10), mythic quickening, pinning stomp  
 **Spell-Like Abilities** (CL 17th; concentration +19)  
-3/day—*wall of fire* (DC 16)  
-1/day—*delayed blast fireball* (DC 19)
+3/day—*[wall of fire* ](../../magic/spells/wall-of-fire.md)(DC 16)  
+1/day—*[delayed blast fireball* ](../../magic/spells/delayed-blast-fireball.md)(DC 19)
 
 **Statistics**
 

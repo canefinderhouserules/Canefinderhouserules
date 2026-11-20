@@ -25,11 +25,11 @@ CE Medium humanoid (human, orc)
 **Spell-Like Abilities** (CL 8th; concentration +10)  
 5/day—touch of evil (4 rounds)  
 **Cleric Spells Prepared** (CL 8th; concentration +10)  
-4th—*chaos hammer* (DC 16), *divine power*, *unholy blight*<sup>D</sup>(DC 16)  
-3rd—*invisibility purge*, *prayer*, *protection from energy* (DC 15), *rage*<sup>D</sup>  
-2nd—*align weapon*<sup>D</sup>(evil weapons only), *bull’s strength*, *darkness*, *spiritual weapon* (2)  
-1st—*bane* (DC 13), *divine favor*, *entropic shield*, *protection from good*, *shield of faith*, *true strike*<sup>D</sup>  
-0 (at will)—*bleed* (DC 12), *guidance*, *light*, *resistance*  
+4th—*[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 16), *[divine power](../../magic/spells/divine-power.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)*<sup>D</sup>(DC 16)  
+3rd—*[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[prayer](../../magic/spells/prayer.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(DC 15), *[rage](../../magic/spells/rage.md)*<sup>D</sup>  
+2nd—*[align weapon](../../magic/spells/align-weapon.md)*<sup>D</sup>(evil weapons only), *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[darkness](../../magic/spells/darkness.md)*, *[spiritual weapon* ](../../magic/spells/spiritual-weapon.md)(2)  
+1st—*[bane* ](../../magic/spells/bane.md)(DC 13), *[divine favor](../../magic/spells/divine-favor.md)*, *[entropic shield](../../magic/spells/entropic-shield.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*, *[true strike](../../magic/spells/true-strike.md)*<sup>D</sup>  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 12), *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** Domain spell; **Domains** Destruction, Evil
 
 **Tactics**

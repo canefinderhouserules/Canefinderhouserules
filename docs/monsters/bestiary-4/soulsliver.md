@@ -22,8 +22,8 @@ NE Medium outsider (extraplanar, shapechanger)
 **Melee** 2 slams +5 (1d4+2)  
 **Special Attacks** death throes  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-3/day—*mage hand*, *open/close*, *silent image*  
-1/day—*mirror image*
+3/day—*[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[silent image](../../magic/spells/silent-image.md)*  
+1/day—*[mirror image](../../magic/spells/mirror-image.md)*
 
 **Statistics**
 

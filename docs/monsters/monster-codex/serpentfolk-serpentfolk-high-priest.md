@@ -23,17 +23,17 @@ CE Medium monstrous humanoid
 **Ranged**  mwk light crossbow +22 (1d8+3/19–20)  
 **Special Attacks** channel negative energy 10/day (DC 22, 5d6), scythe of evil (5 rounds, 1/day), weapon master (10 rounds/day)  
 **Spell-Like Abilities** (CL 4th; concentration +9)  
-At will—*disguise self* (DC 16, humanoid form only), *ventriloquism* (DC 16)  
-1/day—*blur*, *dominate person* (DC 20), *major image* (DC 18), *mass suggestion* (DC 21), *mirror image*, *suggestion* (DC 18), *teleport*  
+At will—*[disguise self](../../magic/spells/disguise-self.md)* (DC 16, humanoid form only), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 16)  
+1/day—*[blur](../../magic/spells/blur.md)*, *[dominate person](../../magic/spells/dominate-person.md)* (DC 20), *[major image](../../magic/spells/major-image.md)* (DC 18), *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 21), *[mirror image](../../magic/spells/mirror-image.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 18), *[teleport](../../magic/spells/teleport.md)*  
 **Domain Spell-Like Abilities** (CL 10th; concentration +16)  
 9/day— battle rage (+5), touch of evil (5 rounds)  
 **Cleric Spells Prepared** (CL 10th; concentration +16)  
-5th—*flame strike*<sup>D</sup> (2, DC 21), *righteous might*, *slay living* (DC 21)  
-4th—*cure critical wounds*, *divine power*, *freedom of movement*, *spit venom* (DC 20), *unholy blight*<sup>D</sup> (DC 20)  
-3rd—*cure serious wounds*, *dispel magic*, *invisibility purge*, *magic circle against good*<sup>D</sup>, *protection from energy*  
-2nd—*bear’s endurance*, *calm emotions* (DC 18), *darkness*, *dread bolt* (DC 18), hold person (2, DC 18), *spiritual weapon*<sup>D</sup>  
-1st—*bane* (DC 17), *forbid action* (DC 17), *murderous command* (2, DC 17), *protection from good*<sup>D</sup>, *shield of faith* (2)  
-0 (at will)—*bleed* (DC 16), *detect magic*, *resistance*, *stabilize*  
+5th—*[flame strike](../../magic/spells/flame-strike.md)*<sup>D</sup> (2, DC 21), *[righteous might](../../magic/spells/righteous-might.md)*, *[slay living](../../magic/spells/slay-living.md)* (DC 21)  
+4th—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[divine power](../../magic/spells/divine-power.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[spit venom](../../magic/spells/spit-venom.md)* (DC 20), *[unholy blight](../../magic/spells/unholy-blight.md)*<sup>D</sup> (DC 20)  
+3rd—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*<sup>D</sup>, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd—*[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[calm emotions](../../magic/spells/calm-emotions.md)* (DC 18), *[darkness](../../magic/spells/darkness.md)*, *[dread bolt](../../magic/spells/dread-bolt.md)* (DC 18), hold person (2, DC 18), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*<sup>D</sup>  
+1st—*[bane](../../magic/spells/bane.md)* (DC 17), *[forbid action](../../magic/spells/forbid-action.md)* (DC 17), *[murderous command](../../magic/spells/murderous-command.md)* (2, DC 17), *[protection from good](../../magic/spells/protection-from-good.md)*<sup>D</sup>, *[shield of faith](../../magic/spells/shield-of-faith.md)* (2)  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** domain spell; **Domains** Evil, War
 
 **Tactics**

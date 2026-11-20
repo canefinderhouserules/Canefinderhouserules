@@ -23,9 +23,9 @@ CE Medium outsider (air, chaotic, demon, evil, extraplanar)
 **Melee** 2 claws +9 (1d4+3), bite +9 (1d6+3)  
 **Special Attacks** hailstorm  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
-At will—*alter winds* (DC 13)  
-3/day— *gust of wind* (DC 14), *river of wind* (DC 16)  
-1/day—*control winds* (DC 17), summon (level 3, 1 hala 40%)
+At will—*[alter winds* ](../../magic/spells/alter-winds.md)(DC 13)  
+3/day— *[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 14), *[river of wind](../../magic/spells/river-of-wind.md)* (DC 16)  
+1/day—*[control winds* ](../../magic/spells/control-winds.md)(DC 17), summon (level 3, 1 hala 40%)
 
 **Statistics**
 

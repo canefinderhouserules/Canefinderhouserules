@@ -23,8 +23,8 @@ NE Tiny fey
 **Ranged**  shortbow +3 (1d3–4/×3)  
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 1st; concentration –1)  
-At will—*prestidigitation*, *speak with animals*  
-1/day—*shatter* (DC 10)
+At will—*[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+1/day—*[shatter* ](../../magic/spells/shatter.md)(DC 10)
 
 **Statistics**
 

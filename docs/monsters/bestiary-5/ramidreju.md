@@ -21,7 +21,7 @@ Perception +6
 **Melee** bite +4 (1d6 plus grab)  
 **Special Attacks** blood drain (1 Constitution), constrict (1d6)  
 **Spell-Like Abilities** (CL 3rd; concentration +3)  
-1/day—*create pit* (DC 12)
+1/day—*[create pit](../../magic/spells/create-pit.md)* (DC 12)
 
 **Statistics**
 

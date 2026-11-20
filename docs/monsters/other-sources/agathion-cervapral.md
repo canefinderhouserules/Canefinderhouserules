@@ -21,10 +21,10 @@ NG Medium outsider (agathion, extraplanar, good)
 **Melee** gore +11 (1d6+2), mwk rapier +11/+6 (1d6+2/18–20)  
 **Special Attacks** powerful charge (gore +11, 2d6+3)  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-Constant— *freedom of movement*, *speak with animals*  
-At will—*animal trance* (DC 13), *liberating command*, *message*, *remove paralysis*  
-3/day—*knock*, *protection from evil*, *summon nature’s ally III* (1 aurochs or 1d3 stags only)  
-1/day—*break enchantment*, *seeming*
+Constant— *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[animal trance](../../magic/spells/animal-trance.md)* (DC 13), *[liberating command](../../magic/spells/liberating-command.md)*, *[message](../../magic/spells/message.md)*, *[remove paralysis](../../magic/spells/remove-paralysis.md)*  
+3/day—*[knock](../../magic/spells/knock.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*, *[summon nature’s ally III](../../magic/spells/summon-natures-ally-iii.md)* (1 aurochs or 1d3 stags only)  
+1/day—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[seeming](../../magic/spells/seeming.md)*
 
 **Statistics**
 

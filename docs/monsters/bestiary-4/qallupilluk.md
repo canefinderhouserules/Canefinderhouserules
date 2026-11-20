@@ -23,9 +23,9 @@ LE Medium monstrous humanoid (aquatic)
 **Ranged**  javelin +10 (1d6+4)  
 **Special Attacks** curse of scales  
 **Spell-Like Abilities** (CL 8th; concentration +10)  
-At will—*water breathing*  
-3/day—*charm animal* (DC 13), *charm person* (DC 13), *chill metal* (DC 14), *sleet storm*  
-1/day—*commune with nature*, *divination*
+At will—*[water breathing](../../magic/spells/water-breathing.md)*  
+3/day—*[charm animal](../../magic/spells/charm-animal.md)* (DC 13), *[charm person](../../magic/spells/charm-person.md)* (DC 13), *[chill metal](../../magic/spells/chill-metal.md)* (DC 14), *[sleet storm](../../magic/spells/sleet-storm.md)*  
+1/day—*[commune with nature](../../magic/spells/commune-with-nature.md)*, *[divination](../../magic/spells/divination.md)*
 
 **Statistics**
 

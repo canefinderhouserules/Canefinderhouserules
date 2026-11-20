@@ -23,13 +23,13 @@ NE Medium undead (augmented humanoid)
 **Melee** +1 scythe +15/+10 (2d4+8/19–20/×4)  
 **Special Attacks** channel negative energy 9/day (DC 19, 6d6), disembodied strike (1d8+5); hand of the acolyte (8/day), soul lash (DC 19; 5d6)  
 **Cleric Spells Prepared** (CL 11th; concentration +16)  
-6th—*antilife shell*, *create undead*<sup>D</sup>  
-5th—*flame strike* (DC 20), *slay living*<sup>D</sup>, *symbol of pain* (DC 20), *unhallow*  
-4th—*divine power*, *freedom of movement*, *imbue with spell ability*<sup>D</sup>, *spell immunity*, *unholy blight* (DC 19)  
-3rd—*animate dead*<sup>D</sup>, *bestow curse* (DC 18), *dispel magic*, *glyph of warding* (DC 18), *invisibility purge*, *protection from energy*  
-2nd—*death knell*<sup>D</sup>, *desecrate*, *gentle repose*, *hold person* (DC 17), *resist energy*, *silence* (DC 17)  
-1st—*cause fear*<sup>D</sup> (DC 16), *command* (DC 16), *entropic shield*, *deathwatch*, *doom* (DC 16), *protection from good*, *shield of faith*  
-0 (at will)—*bleed*, *detect magic*, *guidance*, *read magic*  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, *[create undead](../../magic/spells/create-undead.md)*<sup>D</sup>  
+5th—*[flame strike* ](../../magic/spells/flame-strike.md)(DC 20), *[slay living](../../magic/spells/slay-living.md)*<sup>D</sup>, *[symbol of pain* ](../../magic/spells/symbol-of-pain.md)(DC 20), *[unhallow](../../magic/spells/unhallow.md)*  
+4th—*[divine power](../../magic/spells/divine-power.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*,[ *imbue with spell ability](../../magic/spells/imbue-with-spell-ability.md)*<sup>D</sup>, *[spell immunity](../../magic/spells/spell-immunity.md)*, *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 19)  
+3rd—*[animate dead](../../magic/spells/animate-dead.md)*<sup>D</sup>, *[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[glyph of warding* ](../../magic/spells/glyph-of-warding.md)(DC 18), *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd—*[death knell](../../magic/spells/death-knell.md)*<sup>D</sup>, *[desecrate](../../magic/spells/desecrate.md)*, *[gentle repose](../../magic/spells/gentle-repose.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 17), *[resist energy](../../magic/spells/resist-energy.md)*, *[silence* ](../../magic/spells/silence.md)(DC 17)  
+1st—*[cause fear](../../magic/spells/cause-fear.md)*<sup>D</sup> (DC 16), *[command* ](../../magic/spells/command.md)(DC 16), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[deathwatch](../../magic/spells/deathwatch.md)*, *[doom* ](../../magic/spells/doom.md)(DC 16), *[protection from good](../../magic/spells/protection-from-good.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **D** Domain spell; **Domains** Death, Magic
 
 **Statistics**

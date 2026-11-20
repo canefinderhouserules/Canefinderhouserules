@@ -24,10 +24,10 @@ NE Medium humanoid (elf)
 **Spell-Like Abilities** (CL 5th; concentration +9)  
 7/day—telekinetic fist (1d4+2 bludgeoning)  
 **Transmuter Spells Prepared** (CL 5th; concentration +9)  
-3rd—*beast shape I*, empowered *burning hands* (DC 16), *displacement*  
-2nd—*invisibility*, *spider climb*, *summon swarm*, *web* (DC 16)  
-1st—*burning hands* (DC 16), *feather fall*, *grease*, *mage armor*, *obscuring mist*  
-0 (at will)—*dancing lights*, *ghost sound* (DC 14), *mage hand*, *touch of fatigue* (DC 14)  
+3rd—*[beast shape I](../../magic/spells/beast-shape-i.md)*, empowered *[burning hands* ](../../magic/spells/burning-hands.md)(DC 16), *[displacement](../../magic/spells/displacement.md)*  
+2nd—*[invisibility](../../magic/spells/invisibility.md)*, *[spider climb](../../magic/spells/spider-climb.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*, *[web* ](../../magic/spells/web.md)(DC 16)  
+1st—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 16), *[feather fall](../../magic/spells/feather-fall.md)*, *[grease](../../magic/spells/grease.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *[mage hand](../../magic/spells/mage-hand.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 14)  
 **Opposition Schools** divination, enchantment
 
 **Tactics**

@@ -21,12 +21,12 @@ N Medium humanoid (human)
 **Melee** morningstar +0 (1d8) or silver dagger +0 (1d4/19–20)  
 **Ranged**  silver dagger +1 (1d4/19–20)  
 **Adept Spells Prepared** (CL 1st; concentration +2)  
-1st—*bless*, *cure light wounds*  
-0 (at will)—*guidance*, *light*, *mending*
+1st—*[bless](../../magic/spells/bless.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*  
+0 (at will)—*[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*
 
 **Tactics**
 
-**During Combat** The adept reads her *scroll of sleep* and commands her dog to attack. She then casts *bless* and attacks with her morningstar.
+**During Combat** The adept reads her *scroll of sleep* and commands her dog to attack. She then casts *[bless* ](../../magic/spells/bless.md)and attacks with her morningstar.
 
 **Statistics**
 

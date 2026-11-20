@@ -22,10 +22,10 @@ CG Tiny outsider (azata, chaotic, extraplanar, good)
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** starlight blast  
 **Spell-Like Abilities** (CL 3rd; concentration +8)  
-Constant—*detect evil*, *detect magic*, *freedom of movement*  
-At will—*dancing lights*, *daze* (DC 15), *summon instrument*, *ventriloquism* (DC 16)  
-1/day—*cure light wounds*, *lesser confusion* (DC 16), *silent image* (DC 16)  
-1/week—*commune* (6 questions, CL 12th)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 15), *[summon instrument](../../magic/spells/summon-instrument.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 16)  
+1/day—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*,[ *lesser confusion](../../magic/spells/confusion-lesser.md)* (DC 16), *[silent image](../../magic/spells/silent-image.md)* (DC 16)  
+1/week—*[commune* ](../../magic/spells/commune.md)(6 questions, CL 12th)
 
 **Statistics**
 

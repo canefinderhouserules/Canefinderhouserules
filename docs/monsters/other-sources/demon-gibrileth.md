@@ -23,9 +23,9 @@ CE Large outsider (chaotic, demon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft. (20 ft. with whip)  
 **Special Attacks** disease (see page 29), whip specialist  
 **Spell-Like Abilities** (CL 13th; concentration +16)  
-At will—*contagion* (DC 17), *grease* (DC 14), *greater teleport* (self plus 50 lbs. of objects only), *unholy blight* (DC 17)  
-3/day—*stinking cloud* (DC 16)  
-1/day—summon (level 4, 1 gibrileth 35%), *waves of fatigue*
+At will—*[contagion* ](../../magic/spells/contagion.md)(DC 17), *[grease* ](../../magic/spells/grease.md)(DC 14), *[greater teleport*](../../magic/spells/teleport-greater.md) (self plus 50 lbs. of objects only), *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 17)  
+3/day—*[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 16)  
+1/day—summon (level 4, 1 gibrileth 35%), *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*
 
 **Statistics**
 

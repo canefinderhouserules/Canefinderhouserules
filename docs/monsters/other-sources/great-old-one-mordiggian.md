@@ -23,10 +23,10 @@ CE Gargantuan aberration (chaotic, evil, Great Old One, incorporeal)
 **Space** 20 ft., **Reach** 20 ft. (40 ft. with tentacle)  
 **Special Attacks** constrict (5d6+13), dreams of darkness, engulf (DC 27, 20d6 negative energy and 1d4 negative levels), mythic power (10/day, surge +1d12), tentacles  
 **Spell-Like Abilities** (CL 30th; concentration +43)  
-Constant—*speak with dead* (DC 26), *true seeing*  
-At will—*astral projection*, *create undead*, *death knell*<sup>M</sup> (DC 25), *deeper darkness*, *dream*<sup>M</sup>, *greater dispel magic*, *greater teleport*, *nightmare*<sup>M</sup> (DC 28), *sending*<sup>M</sup>  
-3/day—*demand* (DC 31), quickened *deeper darkness*, *energy drain* (DC 32), quickened *feeblemind* (DC 28), quickened *slay living* (DC 30)  
-1/day—*destruction* (DC 30), *power word kill*<sup>M</sup>, *symbol of death* (DC 31), *symbol of insanity* (DC 31), *true resurrection*
+Constant—*[speak with dead](../../magic/spells/speak-with-dead.md)* (DC 26), *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[astral projection](../../magic/spells/astral-projection.md)*, *[create undead](../../magic/spells/create-undead.md)*, *[death knell](../../magic/spells/death-knell.md)*<sup>M</sup> (DC 25), *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[dream](../../magic/spells/dream.md)*<sup>M</sup>, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[nightmare](../../magic/spells/nightmare.md)*<sup>M</sup> (DC 28), *[sending](../../magic/spells/sending.md)*<sup>M</sup>  
+3/day—*[demand](../../magic/spells/demand.md)* (DC 31), quickened *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[energy drain](../../magic/spells/energy-drain.md)* (DC 32), quickened *[feeblemind](../../magic/spells/feeblemind.md)* (DC 28), quickened *[slay living](../../magic/spells/slay-living.md)* (DC 30)  
+1/day—*[destruction](../../magic/spells/destruction.md)* (DC 30), *[power word kill](../../magic/spells/power-word-kill.md)*<sup>M</sup>, *[symbol of death](../../magic/spells/symbol-of-death.md)* (DC 31), *[symbol of insanity](../../magic/spells/symbol-of-insanity.md)* (DC 31), *[true resurrection](../../magic/spells/true-resurrection.md)*
 
 **Statistics**
 

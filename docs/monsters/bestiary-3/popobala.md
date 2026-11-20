@@ -22,9 +22,9 @@ CE Medium monstrous humanoid (shapechanger)
 **Melee** bite +25 (2d6+6 plus 1d4 Cha drain), 2 talons +25 (1d6+6 plus grab and popobala fever), 2 wings +20 (1d6+3)  
 **Special Attacks** rend (2 talons, 2d6+9)  
 **Spell-Like Abilities** (CL 16th; concentration +22)  
-At will—*clairaudience/clairvoyance*, *ghost sound* (DC 16), *ventriloquism* (DC 17)  
-3/day—*dominate person* (DC 21, can only dominate and control one person at a time), *eyebite* (DC 22), *feeblemind* (DC 21), *spell turning*, *suggestion* (DC 19), *telekinesis* (DC 21)  
-1/day—*animate objects*
+At will—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 16), *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 17)  
+3/day—*[dominate person* ](../../magic/spells/dominate-person.md)(DC 21, can only dominate and control one person at a time), *[eyebite* ](../../magic/spells/eyebite.md)(DC 22), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 21), *[spell turning](../../magic/spells/spell-turning.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 19), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 21)  
+1/day—*[animate objects](../../magic/spells/animate-objects.md)*
 
 **Statistics**
 

@@ -21,8 +21,8 @@ N Tiny magical beast
 **Melee** bite +3 (1d6-2)  
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-At will—*ghost sound* (DC 11), *mage hand*, *open/close* (DC 11)  
-3/day—*blurred movement*, *calm animals* (DC 12), *sonic scream* (DC 13)
+At will—*[ghost sound](../../magic/spells/ghost-sound.md)* (DC 11), *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)* (DC 11)  
+3/day—*[blurred movement](../../magic/spells/blurred-movement.md)*, *[calm animals](../../magic/spells/calm-animals.md)* (DC 12), *[sonic scream](../../magic/spells/sonic-scream.md)* (DC 13)
 
 **Statistics**
 

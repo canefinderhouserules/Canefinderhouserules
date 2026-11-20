@@ -23,8 +23,8 @@ NG or NE Huge humanoid (giant)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** rock throwing (140 ft.)  
 **Spell-Like Abilities** (CL 16th)  
-At will—*levitate* (self plus 2,000 lbs.), *obscuring mist*  
-1/day—*fog cloud*
+At will—*[levitate* ](../../magic/spells/levitate.md)(self plus 2,000 lbs.), *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+1/day—*[fog cloud](../../magic/spells/fog-cloud.md)*
 
 **Statistics**
 

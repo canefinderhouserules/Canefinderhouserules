@@ -24,11 +24,11 @@ NE Medium humanoid (human)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with lance)  
 **Special Attacks** favored enemy (animals +2, humans +4)  
 **Ranger Spells Prepared** (CL 2nd; concentration +3)  
-1st—*endure elements*, *resist energy*
+1st—*[endure elements](../../magic/spells/endure-elements.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Tactics**
 
-**Before Combat** The ranger casts *endure elements* and *resist energy* (fire).  
+**Before Combat** The ranger casts *[endure elements* ](../../magic/spells/endure-elements.md)and *[resist energy* ](../../magic/spells/resist-energy.md)(fire).  
 **During Combat** The ranger shoots from horseback. When fighting dangerous opponents, she uses *oil of magic weapon* on her bow and drinks her *potion of blur*.  
 **Base Statistics** Without *resist energy*, the ranger’s statistics are **Resist** none.
 

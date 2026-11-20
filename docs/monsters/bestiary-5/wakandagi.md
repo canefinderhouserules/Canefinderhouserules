@@ -29,7 +29,7 @@ water bomb
 **Spell-Like Abilities** (CL 14th; concentration +20)  
 At will—*detect evil, detect magic, fog cloud, quench* (DC 19)  
 
-3/day—*aqueous orb* (DC 19), *neutralize poison*
+3/day—*[aqueous orb](../../magic/spells/aqueous-orb.md)* (DC 19), *[neutralize poison](../../magic/spells/neutralize-poison.md)*
 
 **Statistics**
 

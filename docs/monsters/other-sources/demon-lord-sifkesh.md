@@ -23,10 +23,10 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Space** 5 ft., **Reach** 30 ft.  
 **Special Attacks** Charisma drain, despairing cry, precise cuts, suicide  
 **Spell-Like Abilities** (CL 28th; concentration +41)  
-Constant—*detect good*, *detect law*, *freedom of movement*, *true seeing*, *unholy aura*  
-At will—*astral projection*, *blasphemy* (DC 30), *crushing despair* (DC 27), *desecrate*, *greater dispel magic*, *greater teleport*, *telekinesis* (DC 28), *shapechange*, *suggestion* (DC 26), *unhallow*, *unholy blight* (DC 27)  
-3/day—*demand* (DC 31), quickened *dominate person* (DC 28), quickened *suggestion* (DC 26), summon demons, *symbol of strife* (DC 32)  
-1/day—*sympathy* (DC 31), *time stop*, *weird* (DC 32)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura](../../magic/spells/unholy-aura.md)*  
+At will—*[astral projection](../../magic/spells/astral-projection.md)*, *[blasphemy](../../magic/spells/blasphemy.md)* (DC 30), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 27), *[desecrate](../../magic/spells/desecrate.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[telekinesis](../../magic/spells/telekinesis.md)* (DC 28), *[shapechange](../../magic/spells/shapechange.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 26), *[unhallow](../../magic/spells/unhallow.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 27)  
+3/day—*[demand](../../magic/spells/demand.md)* (DC 31), quickened *[dominate person](../../magic/spells/dominate-person.md)* (DC 28), quickened *[suggestion](../../magic/spells/suggestion.md)* (DC 26), summon demons, *[symbol of strife](../../magic/spells/symbol-of-strife.md)* (DC 32)  
+1/day—*[sympathy](../../magic/spells/sympathy.md)* (DC 31), *[time stop](../../magic/spells/time-stop.md)*, *[weird](../../magic/spells/weird.md)* (DC 32)
 
 **Statistics**
 

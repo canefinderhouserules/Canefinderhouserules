@@ -22,10 +22,10 @@ CE Large outsider (chaotic, evil, extraplanar, qlippoth)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** braincloud, horrific appearance (DC 15), constrict (1d4+6)  
 **Spell-Like Abilities** (CL 7th; concentration +9)  
-Constant—*tongues*  
-At will—*command* (DC 13)  
-3/day—*charm person* (DC 13), *protection from law*  
-1/day—*charm monster* (DC 16), *dimension door*
+Constant—*[tongues](../../magic/spells/tongues.md)*  
+At will—*[command* ](../../magic/spells/command.md)(DC 13)  
+3/day—*[charm person* ](../../magic/spells/charm-person.md)(DC 13), *[protection from law](../../magic/spells/protection-from-law.md)*  
+1/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 16), *[dimension door](../../magic/spells/dimension-door.md)*
 
 **Statistics**
 

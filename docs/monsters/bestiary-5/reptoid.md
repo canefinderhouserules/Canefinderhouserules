@@ -22,9 +22,9 @@ LE Medium humanoid (reptilian, shapechanger)
 **Special Attacks** hypnotic stare, mesmerist tricks (4/day,
 psychosomatic surge), painful stare  
 **Mesmerist Spells Known** (CL 1st; concentration +4)  
-1st (2/day)—*hypnotism* (DC 14), *innocence*  
+1st (2/day)—*[hypnotism](../../magic/spells/hypnotism.md)* (DC 14), *[innocence](../../magic/spells/innocence.md)*  
 
-0 (at will)—*daze* (DC 13), *detect magic, message, prestidigitation*
+0 (at will)—*[daze](../../magic/spells/daze.md)* (DC 13), *detect magic, message, prestidigitation*
 
 **Statistics**
 

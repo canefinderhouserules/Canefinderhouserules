@@ -23,9 +23,9 @@ LN Large monstrous humanoid (aquatic)
 **Ranged** *+2 javelin* +13/+8/+3 (1d6+6)  
 **Space** 10 ft., **Reach** 5 ft.  
 **Spell-Like Abilities** (CL 9th; concentration +9)  
-Constant—*detect magic*  
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
 **Psychic Magic** (CL 9th; concentration +12)  
-22 PE—*detect psychic significance* (1 PE), *hallucinatory terrain* (DC 17, 4 PE), *identify* (1 PE), *locate object* (2 PE), *make whole* (2 PE), *mirage arcana* (DC 18, 5 PE), *object reading* (1 PE), *shatter* (DC 15, 2 PE), *sound burst* (DC 15, 2 PE)
+22 PE—*[detect psychic significance](../../magic/spells/detect-psychic-significance.md)* (1 PE), *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)* (DC 17, 4 PE), *[identify](../../magic/spells/identify.md)* (1 PE), *[locate object](../../magic/spells/locate-object.md)* (2 PE), *[make whole](../../magic/spells/make-whole.md)* (2 PE), *[mirage arcana](../../magic/spells/mirage-arcana.md)* (DC 18, 5 PE), *[object reading](../../magic/spells/object-reading.md)* (1 PE), *[shatter](../../magic/spells/shatter.md)* (DC 15, 2 PE), *[sound burst](../../magic/spells/sound-burst.md)* (DC 15, 2 PE)
 
 **Statistics**
 

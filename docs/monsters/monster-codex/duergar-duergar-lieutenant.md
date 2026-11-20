@@ -24,9 +24,9 @@ LE Medium humanoid (dwarf)
 **Ranged**  mwk light crossbow +8 (1d8/19–20)  
 **Special Attacks** favored enemy (dwarves +4, elves +2)  
 **Spell-Like Abilities** (CL 6th; concentration +3)  
-1/day—*dust of twilight*, *ironskin*  
+1/day—*[dust of twilight](../../magic/spells/dust-of-twilight.md)*, *[ironskin](../../magic/spells/ironskin.md)*  
 **Ranger Spells Prepared** (CL 3rd; concentration +5)  
-1st—*lead blades*, *longstrider*
+1st—*[lead blades](../../magic/spells/lead-blades.md)*, *[longstrider](../../magic/spells/longstrider.md)*
 
 **Tactics**
 

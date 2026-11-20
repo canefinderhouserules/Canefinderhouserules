@@ -22,7 +22,7 @@ N Medium humanoid (mythic, udaeus)
 **Ranged**  mwk javelin +5 (1d6+3)  
 **Special Attacks** infuse arms and armor, mythic power (1/day, surge +1d6)  
 **Spell-Like Abilities** (CL 4th; concentration +3)  
-1/day—*barkskin*, *true strike*
+1/day—*[barkskin](../../magic/spells/barkskin.md)*, *[true strike](../../magic/spells/true-strike.md)*
 
 **Statistics**
 

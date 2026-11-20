@@ -23,9 +23,9 @@ LG Large outsider (archon, extraplanar, good, lawful)
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with lucerne hammer)  
 **Special Attacks** axiomatic barrage, inevitable sunder  
 **Spell-Like Abilities** (CL 20th; concentration +24)  
-Constant—*detect evil*  
-At will—*break* (DC 15), *protection from chaos*, *shield*  
-1/day—*dictum*, *enemy hammer* (DC 20), *sympathetic vibration*
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*  
+At will—*[break](../../magic/spells/break.md)* (DC 15), *[protection from chaos](../../magic/spells/protection-from-chaos.md)*, *[shield](../../magic/spells/shield.md)*  
+1/day—*[dictum](../../magic/spells/dictum.md)*, *[enemy hammer](../../magic/spells/enemy-hammer.md)* (DC 20), *[sympathetic vibration](../../magic/spells/sympathetic-vibration.md)*
 
 **Statistics**
 

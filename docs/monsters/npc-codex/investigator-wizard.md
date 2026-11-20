@@ -23,9 +23,9 @@ LN Medium humanoid (human)
 **Spell-Like Abilities** (CL 4th; concentration +8)  
 7/day—diviner's fortune (+2)  
 **Diviner Spells Prepared** (CL 4th; concentration +8)  
-2nd—*cat’s grace*, *detect thoughts* (DC 16), *web* (2, DC 16)  
-1st—*comprehend languages*, *feather fall*, *mage armor*, *magic missile* (2)  
-0 (at will)—*dancing lights*, *detect magic*, *detect poison*, *message*  
+2nd—*[cat’s grace](../../magic/spells/cats-grace.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[web* ](../../magic/spells/web.md)(2, DC 16)  
+1st—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile* ](../../magic/spells/magic-missile.md)(2)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[message](../../magic/spells/message.md)*  
 **Opposition Schools** illusion, necromancy
 
 **Tactics**

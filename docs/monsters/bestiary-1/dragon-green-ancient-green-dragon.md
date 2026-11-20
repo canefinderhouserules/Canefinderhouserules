@@ -23,15 +23,15 @@ LE Gargantuan dragon (air)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. cone, DC 28, 20d6 acid), crush (Medium creatures, DC 28, 4d6+18), miasma, tail sweep  
 **Spell-Like Abilities** (CL 23rd)  
-At will—*charm person* (DC 16), *dominate person* (DC 20), *entangle* (DC 16), *plant growth*, *suggestion* (DC 18)  
+At will—*[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 20), *[entangle* ](../../magic/spells/entangle.md)(DC 16), *[plant growth](../../magic/spells/plant-growth.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 18)  
 **Spells Known** (CL 13th)  
-6th (4/day)—*disintegrate* (DC 21), *true seeing*  
-5th (7/day)—*polymorph*, *summon monster V*, *teleport*  
-4th (7/day)—*dimension door*, *ice storm*, *scrying* (DC 19), *stoneskin*  
-3rd (7/day)—*dispel magic*, *displacement*, *fireball* (DC 18), *haste*  
-2nd (7/day)—*alter self*, *detect thoughts* (DC 17), *locate object*, *mirror image*, *see invisibility*  
-1st (7/day)—*magic missile*, *shield*, *silent image* (DC 16), *summon monster I*, *ventriloquism* (DC 16)  
-0 (at will)—*dancing lights*, *detect magic*, *ghost sound*, *mage hand*, *message*, *prestidigitation*
+6th (4/day)—*[disintegrate* ](../../magic/spells/disintegrate.md)(DC 21), *[true seeing](../../magic/spells/true-seeing.md)*  
+5th (7/day)—*[polymorph](../../magic/spells/polymorph.md)*, *[summon monster V](../../magic/spells/summon-monster-v.md)*, *[teleport](../../magic/spells/teleport.md)*  
+4th (7/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[ice storm](../../magic/spells/ice-storm.md)*, *[scrying* ](../../magic/spells/scrying.md)(DC 19), *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[displacement](../../magic/spells/displacement.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 18), *[haste](../../magic/spells/haste.md)*  
+2nd (7/day)—*[alter self](../../magic/spells/alter-self.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[locate object](../../magic/spells/locate-object.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (7/day)—*[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 16), *[summon monster I](../../magic/spells/summon-monster-i.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 16)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

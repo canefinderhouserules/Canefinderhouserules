@@ -23,8 +23,8 @@ NE Medium aberration
 **Space** 5 ft., **Reach** 0 ft.  
 **Special Attacks** symbols of power  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-At will—*arcane mark*, *illusory script* (DC 18), *telekinesis* (sustained force only, DC 20)  
-3/day—*explosive runes* (DC 18), *greater glyph of warding* (DC 21), *sepia snake sigil* (DC 18)
+At will—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[illusory script* ](../../magic/spells/illusory-script.md)(DC 18), *[telekinesis* ](../../magic/spells/telekinesis.md)(sustained force only, DC 20)  
+3/day—*[explosive runes* ](../../magic/spells/explosive-runes.md)(DC 18), *[greater glyph of warding* ](../../magic/spells/glyph-of-warding-greater.md)(DC 21), *[sepia snake sigil* ](../../magic/spells/sepia-snake-sigil.md)(DC 18)
 
 **Statistics**
 

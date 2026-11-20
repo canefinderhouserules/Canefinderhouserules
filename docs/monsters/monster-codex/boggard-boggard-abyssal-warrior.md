@@ -24,10 +24,10 @@ CE Medium humanoid (boggard)
 **Ranged**  throwing axe +9 (1d6+5)  
 **Special Attacks** channel negative energy (DC 15, 4d6), smite good 3/day (+2 attack and AC, +7 damage), terrifying croak (DC 15)  
 **Spell-Like Abilities** (CL 7th; concentration +9)  
-At will—*detect good*  
+At will—*[detect good](../../magic/spells/detect-good.md)*  
 **Antipaladin Spells Prepared** (CL 4th; concentration +6)  
-2nd—*invisibility*  
- 1st—*death knell* (DC 13), *doom* (DC 13)
+2nd—*[invisibility](../../magic/spells/invisibility.md)*  
+ 1st—*[death knell](../../magic/spells/death-knell.md)* (DC 13), *[doom](../../magic/spells/doom.md)* (DC 13)
 
 **Statistics**
 

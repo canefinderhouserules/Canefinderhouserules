@@ -22,10 +22,10 @@ CE Large outsider (chaotic, evil, extraplanar)
 **Space** 10 ft., **Reach** 15 ft.  
 **Special Attacks** burst of uncanny speed, savage the suffering, sneak attack +4d6, telepathic wail  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-Constant—*air walk*  
+Constant—*[air walk](../../magic/spells/air-walk.md)*  
 At will—temporal jaunt  
-3/day—*displacement*, quickened *vanish*  
-1/day—*plane shift* (DC 21)
+3/day—*[displacement](../../magic/spells/displacement.md)*, quickened *[vanish](../../magic/spells/vanish.md)*  
+1/day—*[plane shift](../../magic/spells/plane-shift.md)* (DC 21)
 
 **Statistics**
 

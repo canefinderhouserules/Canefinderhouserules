@@ -24,8 +24,8 @@ NE Colossal undead (cold, kaiju)
 **Space** 60 ft., **Reach** 60 ft.  
 **Special Attacks** channel negative energy (10d6, DC 35, 18/day), energy drain (1 level, DC 40), gravitic control, hurl foe, serpent arms, trample (4d6+27, DC 43)  
 **Spell-Like Abilities** (CL 20th; concentration +35)  
-Constant—*freedom of movement*  
-3/day—quickened *circle of death* (DC 31), empowered *horrid wilting* (DC 33), *waves of exhaustion*
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+3/day—quickened *[circle of death](../../magic/spells/circle-of-death.md)* (DC 31), empowered *[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 33), *[waves of exhaustion](../../magic/spells/waves-of-exhaustion.md)*
 
 **Statistics**
 

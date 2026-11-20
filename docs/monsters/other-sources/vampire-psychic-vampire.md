@@ -23,7 +23,7 @@ LE Medium undead (augmented humanoid)
 **Melee** slam +14 (1d4+9 plus drain psychic energy)  
 **Special Attacks** drain psychic energy (DC 19), possession, sneak attack +2d6, studied target +2 (2nd, swift)  
 **Psychic Magic** (CL 7th; concentration +11)  
-7 PE—*burst of adrenaline* (1 PE), *haste* (3 PE), *mental block* (2 PE, DC 16), *spider climb* (2 PE)
+7 PE—*[burst of adrenaline](../../magic/spells/burst-of-adrenaline.md)* (1 PE), *[haste](../../magic/spells/haste.md)* (3 PE), *[mental block](../../magic/spells/mental-block.md)* (2 PE, DC 16), *[spider climb](../../magic/spells/spider-climb.md)* (2 PE)
 
 **Statistics**
 

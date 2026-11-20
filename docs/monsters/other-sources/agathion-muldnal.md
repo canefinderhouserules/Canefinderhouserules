@@ -22,13 +22,13 @@ NG Small outsider (agathion, extraplanar, good)
 **Melee** mwk quarterstaff +6 (1d4) or bite +5 (1d8 plus paralysis), 2 claws +5 (1d3)  
 **Special Attacks** paralysis (1 round, DC 16)  
 **Spell-Like Abilities** (CL 4th; concentration +5)  
-Constant—*detect snares and pits*  
-3/day—*create pit* (DC 13)  
+Constant—*[detect snares and pits](../../magic/spells/detect-snares-and-pits.md)*  
+3/day—*[create pit](../../magic/spells/create-pit.md)* (DC 13)  
 1/day—move earth, summon (level 4, 1 silvanshee 35%)  
 **Druid Spells Prepared** (CL 4th; concentration +9)  
-2nd—*control vermin* (DC 17), *soften earth and stone*, *summon swarm*  
-1st—*call animal*, *cure light wounds*, *expeditious excavation*, *shillelagh*, *thunderstomp*  
-0—*detect poison*, *know direction*, *purify food and drink* (DC 15), *stabilize*
+2nd—*[control vermin](../../magic/spells/control-vermin.md)* (DC 17), *[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st—*[call animal](../../magic/spells/call-animal.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[expeditious excavation](../../magic/spells/expeditious-excavation.md)*, *[shillelagh](../../magic/spells/shillelagh.md)*, *[thunderstomp](../../magic/spells/thunderstomp.md)*  
+0—*[detect poison](../../magic/spells/detect-poison.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)* (DC 15), *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

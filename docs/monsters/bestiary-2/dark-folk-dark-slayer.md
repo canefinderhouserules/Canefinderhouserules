@@ -21,9 +21,9 @@ CE Small humanoid (dark folk)
 **Melee** kukri +8 (1d3–1/18–20 plus black smear poison)  
 **Special Attacks** death throes, poison use, sneak attack +2d6, soul harvest  
 **Spell-Like Abilities** (CL 4th; concentration +6)  
-Constant—*detect magic*  
-At will—*bleed* (DC 12), *chill touch* (DC 13), *darkness*, *spectral hand*  
-3/day—*daze monster* (DC 14), *death knell* (DC 14), *inflict moderate wounds* (DC 14)
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[bleed](../../magic/spells/bleed.md)* (DC 12), *[chill touch](../../magic/spells/chill-touch.md)* (DC 13), *[darkness](../../magic/spells/darkness.md)*, *[spectral hand](../../magic/spells/spectral-hand.md)*  
+3/day—*[daze monster](../../magic/spells/daze-monster.md)* (DC 14), *[death knell](../../magic/spells/death-knell.md)* (DC 14), *[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)* (DC 14)
 
 **Statistics**
 

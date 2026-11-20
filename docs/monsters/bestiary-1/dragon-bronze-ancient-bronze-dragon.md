@@ -23,16 +23,16 @@ LG Gargantuan dragon (water)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. w/bite)  
 **Special Attacks** br. weapon (120-ft. line, DC 29, 20d6 elect.), crush, repul. breath, tail sweep, vortex  
 **Spell-Like Abilities** (CL 24th)  
-At will—*control water*, *create food and water*, *detect thoughts* (DC 19), *fog cloud*, *speak with animals*  
+At will—*[control water](../../magic/spells/control-water.md)*, *[create food and water](../../magic/spells/create-food-and-water.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 19), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Spells Known** (CL 15th)  
-7th (5/day)—*spell turning*, *statue*  
-6th (7/day)—*greater dispel magic*, *mass suggestion* (DC 23), *mislead*  
-5th (7/day)—*dismissal*, *interposing hand*, *mind fog*, *teleport*  
-4th (7/day)—*dimension door*, *ice storm*, *solid fog*, *stoneskin*  
-3rd (7/day)—*dispel magic*, *heroism*, *slow* (DC 20), *suggestion*  
-2nd (8/day)—*blur*, *gust of wind*, *invisibility*, *mirror image*, *web*  
-1st (8/day)—*alarm*, *mage armor*, *obscuring mist*, *shield*, *true strike*  
-0 (at will)—*detect magic*, *light*, *message*, *resistance*, 2 more
+7th (5/day)—*[spell turning](../../magic/spells/spell-turning.md)*, *[statue](../../magic/spells/statue.md)*  
+6th (7/day)—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 23), *[mislead](../../magic/spells/mislead.md)*  
+5th (7/day)—*[dismissal](../../magic/spells/dismissal.md)*, *[interposing hand](../../magic/spells/interposing-hand.md)*, *[mind fog](../../magic/spells/mind-fog.md)*, *[teleport](../../magic/spells/teleport.md)*  
+4th (7/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[ice storm](../../magic/spells/ice-storm.md)*, *[solid fog](../../magic/spells/solid-fog.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[heroism](../../magic/spells/heroism.md)*, *[slow* ](../../magic/spells/slow.md)(DC 20), *[suggestion](../../magic/spells/suggestion.md)*  
+2nd (8/day)—*[blur](../../magic/spells/blur.md)*, *[gust of wind](../../magic/spells/gust-of-wind.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[web](../../magic/spells/web.md)*  
+1st (8/day)—*[alarm](../../magic/spells/alarm.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[resistance](../../magic/spells/resistance.md)*, 2 more
 
 **Statistics**
 

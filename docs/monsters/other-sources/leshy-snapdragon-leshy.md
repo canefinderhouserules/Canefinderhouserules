@@ -22,7 +22,7 @@ N Small plant (leshy, shapechanger)
 **Ranged**  bloom lasso +7 (1 plus crippling hysterics)  
 **Special Attacks** bardic performance 13 rounds/day (countersong, distraction, fascinate [DC 15], inspire competence +2, inspire courage +1), bloom lasso, crippling hysterics  
 **Spell-Like Abilities** (CL 12th; concentration +15)  
-Constant—*pass without trace*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*
 
 **Statistics**
 

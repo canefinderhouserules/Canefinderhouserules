@@ -21,14 +21,14 @@ CE Medium humanoid (human)
 **Melee** mwk silver dagger +5 (1d4–1/19–20)  
 **Ranged**  mwk silver dagger +9 (1d4–1/19–20)  
 **Adept Spells Prepared** (CL 10th; concentration +13)  
-3rd—*bestow curse* (DC 16), *cure serious wounds*  
-2nd—*invisibility*, *mirror image*, *web* (DC 15)  
-1st—*command* (DC 14), *cure light wounds*, *obscuring mist*, *protection from law*  
-0 (at will)—*detect magic*, *light*, *read magic*
+3rd—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 16), *[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*  
+2nd—*[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[web* ](../../magic/spells/web.md)(DC 15)  
+1st—*[command* ](../../magic/spells/command.md)(DC 14), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[protection from law](../../magic/spells/protection-from-law.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Tactics**
 
-**Before Combat** The adept drinks her *potions of barkskin*, *cat’s grace*, *fly*, and *mage armor*, then rises up out of reach of enemy melee weapons.  
+**Before Combat** The adept drinks her *potions of barkskin*, *[cat’s grace](../../magic/spells/cats-grace.md)*, *[fly](../../magic/spells/fly.md)*, and *[mage armor](../../magic/spells/mage-armor.md)*, then rises up out of reach of enemy melee weapons.  
 **During Combat** The adept hurls *fireballs* and *lightning bolts* from the air, then returns to the ground to dispense her touch spells and use her *wand of burning hands*.  
 **Base Statistics** Without *barkskin*, *cat’s grace*, *fly*, and *mage armor*, the adept’s statistics are **Init** +5; **AC** 11, touch 11, flat-footed 10; **Ref** +4; **Speed** 30 ft.; **Ranged** mwk silver dagger +7 (1d4–1/19–20); **Dex** 12; **CMD** 15; **Skills** Fly +1.
 

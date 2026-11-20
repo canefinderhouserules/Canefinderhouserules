@@ -27,8 +27,8 @@ bite +27 (3d6+11 plus smoking wound), 2 claws +27
 **Special Attacks** breath weapon, trample (4d8+16, DC 30)  
 **Spell-Like Abilities** (CL 18th; concentration +24)  
 Constant—*true seeing, unholy aura* (DC 24)  
-At will—*enervation, greater teleport* (self plus worn armor plus 50 additional lbs. of objects only), *telekinesis* (DC 21)  
-3/day—*blasphemy* (DC 23), quickened *enervation, power word stun* (DC 24)  
+At will—*enervation, greater teleport* (self plus worn armor plus 50 additional lbs. of objects only), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 21)  
+3/day—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 23), quickened *enervation, power word stun* (DC 24)  
 1/day—*earthquake, summon* (level 6, 1 marilith 40% or 1d3 nalfeshnees 60%)
 
 **Statistics**

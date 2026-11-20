@@ -24,12 +24,12 @@ CE Medium humanoid (orc)
 **Ranged**  sling +6 (1d4+1)  
 **Special Attacks** hexes (blight [90 feet], cackle, evil eye [–4, 4 rounds], misfortune [2 rounds], slumber [9 rounds])  
 **Witch Spells Prepared** (CL 9th; concentration +10)  
-5th—*cloudkill* (DC 16)  
-4th—*enervation*, *shout* (DC 15)  
-3rd—*fly*, *lightning bolt* (DC 14), *pain strike* (DC 14), *screech* (DC 14)  
-2nd—*blindness/deafness* (DC 13), *blood blaze*, *false life*, *sentry skull*, *touch of idiocy*  
-1st—*burning hands* (DC 12), *chill touch* (DC 12), *enlarge person* (DC 12), *mage armor*, *ray of enfeeblement* (DC 12)  
-0 (at will)—*arcane mark*, *detect magic*, *read magic*, *spark*  
+5th—*[cloudkill](../../magic/spells/cloudkill.md)* (DC 16)  
+4th—*[enervation](../../magic/spells/enervation.md)*, *[shout](../../magic/spells/shout.md)* (DC 15)  
+3rd—*[fly](../../magic/spells/fly.md)*, *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 14), *[pain strike](../../magic/spells/pain-strike.md)* (DC 14), *[screech](../../magic/spells/screech.md)* (DC 14)  
+2nd—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 13), *[blood blaze](../../magic/spells/blood-blaze.md)*, *[false life](../../magic/spells/false-life.md)*, *[sentry skull](../../magic/spells/sentry-skull.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1st—*[burning hands](../../magic/spells/burning-hands.md)* (DC 12), *[chill touch](../../magic/spells/chill-touch.md)* (DC 12), *[enlarge person](../../magic/spells/enlarge-person.md)* (DC 12), *[mage armor](../../magic/spells/mage-armor.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 12)  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[spark](../../magic/spells/spark.md)*  
 **Patron** vengeance
 
 **Tactics**

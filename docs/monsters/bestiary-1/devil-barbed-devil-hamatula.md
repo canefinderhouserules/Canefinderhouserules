@@ -21,8 +21,8 @@ LE Medium outsider (devil, evil, extraplanar, lawful)
 **Melee** 2 claws +18 (2d8+6/19–20 plus fear and grab)  
 **Special Attacks** fear, impale 3d8+9  
 **Spell-Like Abilities** (CL 12th)  
-At will—*greater teleport* (self plus 50 lbs. of objects only), *hold person* (DC 17), *major image* (DC 17), *produce flame*, *pyrotechnics* (DC 16), *scorching ray* (2 rays only)  
-1/day—*order’s wrath* (DC 18), summon (level 4, 1 barbed devil 35%), *unholy blight* (DC 18)
+At will—*[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[hold person* ](../../magic/spells/hold-person.md)(DC 17), *[major image* ](../../magic/spells/major-image.md)(DC 17), *[produce flame](../../magic/spells/produce-flame.md)*, *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 16), *[scorching ray* ](../../magic/spells/scorching-ray.md)(2 rays only)  
+1/day—*[order’s wrath* ](../../magic/spells/orders-wrath.md)(DC 18), summon (level 4, 1 barbed devil 35%), *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 18)
 
 **Statistics**
 

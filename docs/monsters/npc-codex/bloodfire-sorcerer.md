@@ -24,10 +24,10 @@ NE Medium humanoid (human, orc)
 **Spell-Like Abilities** (CL 7th; concentration +10)  
 6/day—elemental ray (1d6+3 fire)  
 **Sorcerer Spells Known** (CL 7th; concentration +10)  
-3rd (5/day)—*fireball* (DC 17), *haste*, *protection from energy*  
-2nd (7/day)—*blur*, *false life*, *glitterdust* (DC 15), *scorching ray*  
-1st (7/day)—*burning hands* (DC 15), *mage armor*, *magic missile*, *magic weapon*, *ray of enfeeblement* (DC 14), *shield*  
-0 (at will)—*bleed* (DC 13), *dancing lights*, *detect magic*, *flare* (DC 14), *light*, *ray of frost* (fire), *read magic*  
+3rd (5/day)—*[fireball* ](../../magic/spells/fireball.md)(DC 17), *[haste](../../magic/spells/haste.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd (7/day)—*[blur](../../magic/spells/blur.md)*, *[false life](../../magic/spells/false-life.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 15), *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (7/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 15), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[magic weapon](../../magic/spells/magic-weapon.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 14), *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 14), *[light](../../magic/spells/light.md)*, *[ray of frost* ](../../magic/spells/ray-of-frost.md)(fire), *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** elemental (fire)
 
 **Tactics**

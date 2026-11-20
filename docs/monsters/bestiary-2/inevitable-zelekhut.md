@@ -21,10 +21,10 @@ LN Large outsider (extraplanar, inevitable, lawful)
 **Melee** 2 chains +17 (2d6+7 plus 1d6 electricity and trip)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-Constant—*true seeing*  
-At will—*clairaudience/clairvoyance*, *dimensional anchor*, *dispel magic*, *fear* (DC 17), *hold person* (DC 16), *locate creature*  
-3/day—*hold monster* (DC 18), *mark of justice*  
-1/week—*lesser geas* (DC 17)
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[fear* ](../../magic/spells/fear.md)(DC 17), *[hold person* ](../../magic/spells/hold-person.md)(DC 16), *[locate creature](../../magic/spells/locate-creature.md)*  
+3/day—*[hold monster* ](../../magic/spells/hold-monster.md)(DC 18), *[mark of justice](../../magic/spells/mark-of-justice.md)*  
+1/week—*[lesser geas* ](../../magic/spells/geas-lesser.md)(DC 17)
 
 **Statistics**
 

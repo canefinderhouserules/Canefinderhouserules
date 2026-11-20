@@ -23,13 +23,13 @@ effects; **SR** 20
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** feeding tentacles, psychic blast  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-Constant—*air walk*  
+Constant—*[air walk](../../magic/spells/air-walk.md)*  
 
-At will—*darkness, telekinesis* (DC 18), *tree shape*  
+At will—*darkness, telekinesis* (DC 18), *[tree shape](../../magic/spells/tree-shape.md)*  
 
-1/year—*interplanetary teleport* (self plus 50 lbs. of objects only)  
+1/year—*[interplanetary teleport](../../magic/spells/interplanetary-teleport.md)* (self plus 50 lbs. of objects only)  
 **Psychic Magic** (CL 10th; concentration +13)  
-20 PE—*control summoned creature* (4 PE, DC 17), *demand* (8 PE, DC 21), *fear* (4 PE, DC 17), *quickened true strike* (1 PE)
+20 PE—*[control summoned creature](../../magic/spells/control-summoned-creature.md)* (4 PE, DC 17), *[demand](../../magic/spells/demand.md)* (8 PE, DC 21), *[fear](../../magic/spells/fear.md)* (4 PE, DC 17), *[quickened true strike](../../magic/spells/true-strike.md)* (1 PE)
 
 **Statistics**
 

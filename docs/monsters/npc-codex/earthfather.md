@@ -25,16 +25,16 @@ NE Medium humanoid (dwarf)
 **Spell-Like Abilities** (CL 20th; concentration +27)  
 10/day—acid dart  
 **Druid Spells Prepared** (CL 20th; concentration +27)  
-9th—quickened *cure critical wounds* (2), *elemental swarm*<sup>D</sup> (earth spell only), empowered *fire storm* (DC 24), *storm of vengeance* (DC 27)  
-8th—*earthquake*<sup>D</sup>, *finger of death* (DC 25), *repel metal or stone*, *reverse gravity*, *word of recall*  
-7th—*changestaff*, *creeping doom* (DC 25), *elemental body IV*<sup>D</sup>(earth only), *heal*, *mass cure moderate wounds*, *true seeing*  
-6th—*antilife shell*, empowered *flame strike* (DC 21), *greater dispel magic* (2), *stoneskin*<sup>D</sup>  
-5th—*animal growth* (2, DC 22), *death ward*, quickened *obscuring mist*, *wall of stone*<sup>D</sup>, *wall of thorns*  
-4th—*air walk*, *dispel magic*, *flame strike* (DC 21), *freedom of movement* (2), *spike stones*<sup>D</sup>(DC 21)  
-3rd—*cure moderate wounds*, *dominate animal* (DC 20), *greater magic fang* (3), *stone shape*<sup>D</sup>, *wind wall*  
-2nd—*barkskin* (3), *bear's endurance*, *bull's strength*, *cat's grace*, *soften earth and stone*<sup>D</sup>  
-1st—*cure light wounds* (2), *faerie fire* (2), *magic stone*<sup>D</sup>, *obscuring mist*, *speak with animals*  
-0 (at will)—*create water*, *guidance*, *mending*, *stabilize*  
+9th—quickened *[cure critical wounds* ](../../magic/spells/cure-critical-wounds.md)(2), *[elemental swarm](../../magic/spells/elemental-swarm.md)*<sup>D</sup> (earth spell only), empowered *[fire storm* ](../../magic/spells/fire-storm.md)(DC 24), *[storm of vengeance* ](../../magic/spells/storm-of-vengeance.md)(DC 27)  
+8th—*[earthquake](../../magic/spells/earthquake.md)*<sup>D</sup>, *[finger of death* ](../../magic/spells/finger-of-death.md)(DC 25), *[repel metal or stone](../../magic/spells/repel-metal-or-stone.md)*, *[reverse gravity](../../magic/spells/reverse-gravity.md)*, *[word of recall](../../magic/spells/word-of-recall.md)*  
+7th—*[changestaff](../../magic/spells/changestaff.md)*, *[creeping doom* ](../../magic/spells/creeping-doom.md)(DC 25), *[elemental body IV](../../magic/spells/elemental-body-iv.md)*<sup>D</sup>(earth only), *[heal](../../magic/spells/heal.md)*, *[mass cure moderate wounds](../../magic/spells/cure-moderate-wounds-mass.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, empowered *[flame strike* ](../../magic/spells/flame-strike.md)(DC 21), *[greater dispel magic* ](../../magic/spells/dispel-magic-greater.md)(2), *[stoneskin](../../magic/spells/stoneskin.md)*<sup>D</sup>  
+5th—*[animal growth* ](../../magic/spells/animal-growth.md)(2, DC 22), *[death ward](../../magic/spells/death-ward.md)*, quickened *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*<sup>D</sup>, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(DC 21), *[freedom of movement* ](../../magic/spells/freedom-of-movement.md)(2), *[spike stones](../../magic/spells/spike-stones.md)*<sup>D</sup>(DC 21)  
+3rd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[dominate animal* ](../../magic/spells/dominate-animal.md)(DC 20), *[greater magic fang* ](../../magic/spells/magic-fang-greater.md)(3), *[stone shape](../../magic/spells/stone-shape.md)*<sup>D</sup>, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd—*[barkskin* ](../../magic/spells/barkskin.md)(3), *[bear's endurance](../../magic/spells/bears-endurance.md)*, *[bull's strength](../../magic/spells/bulls-strength.md)*, *[cat's grace](../../magic/spells/cats-grace.md)*, *[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*<sup>D</sup>  
+1st—*[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(2), *[faerie fire* ](../../magic/spells/faerie-fire.md)(2), *[magic stone](../../magic/spells/magic-stone.md)*<sup>D</sup>, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[guidance](../../magic/spells/guidance.md)*, *[mending](../../magic/spells/mending.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domain** Earth
 
 **Tactics**

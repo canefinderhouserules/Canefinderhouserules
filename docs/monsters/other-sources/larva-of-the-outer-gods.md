@@ -22,10 +22,10 @@ CN Large aberration
 **Space** 10 ft., **Reach** 15 ft.  
 **Special Attacks** liberated flesh, maddening song, poison  
 **Spell-Like Abilities** (CL 15th; concentration +21)  
-At will—*dimensional anchor*, *summon instrument*, *teleport* (self only)  
-5/day—*chaos hammer* (DC 20), *dispel magic*, *magic circle against law*  
-3/day—*control summoned monster* (DC 20), *deafening song bolt*, *song of discord* (DC 21)  
-1/day—*summon monster VIII*, *word of chaos* (DC 23)
+At will—*[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[summon instrument](../../magic/spells/summon-instrument.md)*, *[teleport](../../magic/spells/teleport.md)* (self only)  
+5/day—*[chaos hammer](../../magic/spells/chaos-hammer.md)* (DC 20), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic circle against law](../../magic/spells/magic-circle-against-law.md)*  
+3/day—*control summoned monster* (DC 20), *[deafening song bolt](../../magic/spells/deafening-song-bolt.md)*, *[song of discord](../../magic/spells/song-of-discord.md)* (DC 21)  
+1/day—*[summon monster VIII](../../magic/spells/summon-monster-viii.md)*, *[word of chaos](../../magic/spells/word-of-chaos.md)* (DC 23)
 
 **Statistics**
 

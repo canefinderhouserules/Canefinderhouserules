@@ -23,14 +23,14 @@ CE Large aberration
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** web (+7 ranged, DC 18, hp 9)  
 **Spell-Like Abilities** (CL 9th)  
-Constant—*detect good*, *detect law*, *detect magic*  
-At will—*dancing lights*, *darkness*, *faerie fire*  
-1/day—*clairaudience/clairvoyance*, *deeper darkness*, *dispel magic*, *levitate*, *suggestion* (DC 16)  
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[darkness](../../magic/spells/darkness.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*  
+1/day—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[levitate](../../magic/spells/levitate.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 16)  
 **Spells Known** (CL 6th)  
-3rd (4/day)—*lightning bolt* (DC 16)  
-2nd (6/day)—*invisibility*, *web* (DC 15)  
-1st (7/day)—*mage armor*, *magic missile*, *ray of enfeeblement* (DC 14), *silent image* (DC 14)  
-0 (at will)—*bleed* (DC 13), *daze* (DC 13), *ghost sound*, *mage hand*, *ray of frost*, *read magic*, *resistance*
+3rd (4/day)—*[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 16)  
+2nd (6/day)—*[invisibility](../../magic/spells/invisibility.md)*, *[web* ](../../magic/spells/web.md)(DC 15)  
+1st (7/day)—*[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 14), *[silent image* ](../../magic/spells/silent-image.md)(DC 14)  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[daze* ](../../magic/spells/daze.md)(DC 13), *[ghost sound](../../magic/spells/ghost-sound.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

@@ -21,7 +21,7 @@ N Small construct
 **Melee** 2 claws +12 (1d4+5)  
 **Ranged**  paralyzing bolt +10 (paralysis)  
 **Spell-Like Abilities** (CL 2nd; concentration –1)  
-Constant—*detect magic*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*
 
 **Statistics**
 

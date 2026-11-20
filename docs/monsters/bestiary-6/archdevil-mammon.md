@@ -29,10 +29,10 @@ paralysis, petrification, poison, sleep effects, stunning; **Resist** acid 30, c
 **Melee** 4 claws +47 (1d6+14/19–20), gore +47 (2d8+14), 6 talons
 +47 (2d6+14/19–20)  
 **Spell-Like Abilities** (CL 28th; concentration +39)  
-Constant—*air walk, detect chaos, detect good, mind blank, shield of law* (DC 29), *true seeing*  
-At will—*astral projection, beguiling gift* (DC 22), *desecrate*<sup>M</sup>, *dictum*<sup>M</sup> (DC 28), *enter image, greater dispel magic, greater object possession* (DC 30), *greater teleport, order’s wrath*<sup>M</sup> (DC 25), *possession* (DC 26), *unhallow*  
-3/day—*awaken construct, greater scrying* (DC 28), *polymorph any object* (DC 29), *quickened possession* (DC 26), *summon devils, sympathy* (DC 29)  
-1/day—*microcosm* (DC 30), *time stop*<sup>M</sup>, *wish*<sup>M</sup>  
+Constant—*air walk, detect chaos, detect good, mind blank, shield of law* (DC 29), *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*astral projection, beguiling gift* (DC 22), *[desecrate](../../magic/spells/desecrate.md)*<sup>M</sup>, *[dictum](../../magic/spells/dictum.md)*<sup>M</sup> (DC 28), *enter image, greater dispel magic, greater object possession* (DC 30), *greater teleport, order’s wrath*<sup>M</sup> (DC 25), *[possession](../../magic/spells/possession.md)* (DC 26), *[unhallow](../../magic/spells/unhallow.md)*  
+3/day—*awaken construct, greater scrying* (DC 28), *[polymorph any object](../../magic/spells/polymorph-any-object.md)* (DC 29), *[quickened possession](../../magic/spells/possession.md)* (DC 26), *summon devils, sympathy* (DC 29)  
+1/day—*[microcosm](../../magic/spells/microcosm.md)* (DC 30), *[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 <sup>M</sup> Mammon can use this ability’s mythic version in his realm.
 
 **Statistics**

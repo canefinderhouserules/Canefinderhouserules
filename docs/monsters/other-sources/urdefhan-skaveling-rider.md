@@ -23,8 +23,8 @@ NE Medium outsider (native)
 **Ranged**  *+1 composite shortbow* +14/+9 (1d6+8/×3)  
 **Special Attacks** banner +2, blood drain (1 Con), braggart, cavalier’s charge, challenge 3/day (+7 damage), Strength damage, tactician 2/day (Outflank)  
 **Spell-Like Abilities** (CL 3rd; concentration +6)  
-At will—*feather fall*  
-3/day—*align weapon*, *death knell* (DC 14), *ray of enfeeblement* (DC 14)
+At will—*[feather fall](../../magic/spells/feather-fall.md)*  
+3/day—*[align weapon](../../magic/spells/align-weapon.md)*, *[death knell](../../magic/spells/death-knell.md)* (DC 14), *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 14)
 
 **Statistics**
 

@@ -23,9 +23,9 @@ CE Large outsider (aquatic, chaotic, demon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** nausea  
 **Spell-Like Abilities** (CL 13th)  
-At will—*chaos hammer* (DC 18), *greater teleport* (self plus 50 lbs. of objects only), *unholy blight* (DC 18)  
-3/day—*gaseous form*  
-1/day—*blasphemy* (DC 21), summon (level 4, 1 hezrou 35%)
+At will—*[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 18), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 18)  
+3/day—*[gaseous form](../../magic/spells/gaseous-form.md)*  
+1/day—*[blasphemy* ](../../magic/spells/blasphemy.md)(DC 21), summon (level 4, 1 hezrou 35%)
 
 **Statistics**
 

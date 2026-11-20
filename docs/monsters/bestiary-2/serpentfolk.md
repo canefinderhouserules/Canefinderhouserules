@@ -20,8 +20,8 @@ NE Medium monstrous humanoid
 **Speed** 30 ft.  
 **Melee** mwk dagger +11 (1d4–1/19–20), bite +5 (1d6–1 plus poison)  
 **Spell-Like Abilities** (CL 4th; concentration +7)  
-At will—*disguise self* (humanoid form only, DC 14), *ventriloquism*  
-1/day—*blur*, *mirror image*, *suggestion* (DC 16)
+At will—*[disguise self* ](../../magic/spells/disguise-self.md)(humanoid form only, DC 14), *[ventriloquism](../../magic/spells/ventriloquism.md)*  
+1/day—*[blur](../../magic/spells/blur.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 16)
 
 **Statistics**
 

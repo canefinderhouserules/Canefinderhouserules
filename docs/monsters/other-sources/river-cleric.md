@@ -24,9 +24,9 @@ LG Medium humanoid (human)
 **Spell-Like Abilities** (CL 4th; concentration +6)  
 5/day—icicle (1d6+2 cold damage), resistant touch  
 **Cleric Spells Prepared** (CL 4th; concentration +6)  
-2nd—*aid*, *calm emotions* (DC 14), *communal endure elements*, *fog cloud*<sup>D</sup>  
-1st—*bless*, *remove fear*, *sanctuary*<sup>D</sup> (DC 13), *shield of faith*, *summon monster I*  
-0 (at will)—*guidance*, *know direction*, *purify food and drink*, *stabilize*  
+2nd—*[aid](../../magic/spells/aid.md)*, *[calm emotions* ](../../magic/spells/calm-emotions.md)(DC 14), *[communal endure elements](../../magic/spells/endure-elements-communal.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*<sup>D</sup>  
+1st—*[bless](../../magic/spells/bless.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[sanctuary](../../magic/spells/sanctuary.md)*<sup>D</sup> (DC 13), *[shield of faith](../../magic/spells/shield-of-faith.md)*, *[summon monster I](../../magic/spells/summon-monster-i.md)*  
+0 (at will)—*[guidance](../../magic/spells/guidance.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domains** Protection, Water
 
 **Statistics**

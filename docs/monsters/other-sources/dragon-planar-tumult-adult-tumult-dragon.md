@@ -23,10 +23,10 @@ CN Huge dragon (chaotic, extraplanar)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, 12d8 damage, DC 28), crush, entropic breath, flexible breath, vexing wings  
 **Oracle Spells Known** (CL 7th; concentration +12)  
-3rd (5/day)—*dispel magic*, *sands of time*  
-2nd (7/day)—*eagle’s splendor*, *grace*, *shatter* (DC 17)  
-1st (8/day)—*bless*, *entropic shield*, *obscuring mist*, *ray of sickening* (DC 16), *shield of faith*  
-0 (at will)—*bleed* (DC 15), *create water*, *detect magic*, *guidance*, *read magic*, *resistance*, *spark*
+3rd (5/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[sands of time](../../magic/spells/sands-of-time.md)*  
+2nd (7/day)—*[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[grace](../../magic/spells/grace.md)*, *[shatter](../../magic/spells/shatter.md)* (DC 17)  
+1st (8/day)—*[bless](../../magic/spells/bless.md)*, *[entropic shield](../../magic/spells/entropic-shield.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[ray of sickening](../../magic/spells/ray-of-sickening.md)* (DC 16), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 15), *[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[spark](../../magic/spells/spark.md)*
 
 **Statistics**
 

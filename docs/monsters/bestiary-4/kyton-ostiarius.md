@@ -21,10 +21,10 @@ LE Medium outsider (evil, extraplanar, kyton, lawful)
 **Melee** 2 touches +2 (1 plus bleed)  
 **Special Attacks** bleed (1d6), compel courage, unnerving gaze (30 ft., DC 19)  
 **Spell-Like Abilities** (CL 7th; concentration +11)  
-Constant—*shield*  
-At will—*calm emotions* (DC 16), *darkness*, *enthrall* (DC 16), *major image* (DC 17)  
-3/day—*crushing despair* (DC 17), *shadow walk*, *silence* (DC 16)  
-1/day—*plane shift* (DC 21; to the Material Plane and the Plane of Shadow only, lawful evil creatures only), *shout* (DC 18)
+Constant—*[shield](../../magic/spells/shield.md)*  
+At will—*[calm emotions](../../magic/spells/calm-emotions.md)* (DC 16), *[darkness](../../magic/spells/darkness.md)*, *[enthrall](../../magic/spells/enthrall.md)* (DC 16), *[major image](../../magic/spells/major-image.md)* (DC 17)  
+3/day—*[crushing despair](../../magic/spells/crushing-despair.md)* (DC 17), *[shadow walk](../../magic/spells/shadow-walk.md)*, *[silence](../../magic/spells/silence.md)* (DC 16)  
+1/day—*[plane shift](../../magic/spells/plane-shift.md)* (DC 21; to the Material Plane and the Plane of Shadow only, lawful evil creatures only), *[shout](../../magic/spells/shout.md)* (DC 18)
 
 **Statistics**
 

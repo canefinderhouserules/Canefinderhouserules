@@ -23,7 +23,7 @@ CE Large fey
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** hollow eyes  
 **Spell-Like Abilities** (CL 7th; concentration +9)  
-At will—*death knell* (DC 14), *dimension door* (self plus 50 lbs. of objects only), *glitterdust* (DC 14), *scorching ray*  
+At will—*[death knell* ](../../magic/spells/death-knell.md)(DC 14), *[dimension door* ](../../magic/spells/dimension-door.md)(self plus 50 lbs. of objects only), *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 14), *[scorching ray](../../magic/spells/scorching-ray.md)*  
 3/day—*diminish plants, enervation, rusting grasp*
 
 **Statistics**

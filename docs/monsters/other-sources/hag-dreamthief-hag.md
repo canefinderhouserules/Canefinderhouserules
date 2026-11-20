@@ -21,10 +21,10 @@ NE Medium outsider (evil, extraplanar)
 **Melee** bite +20 (2d10+6/19–20 plus mind block), 2 claws +14 (2d6+6)  
 **Special Attacks** dream theft, mind block  
 **Spell-Like Abilities** (CL 10th; concentration +15)  
-Constant—*detect magic*, *see alignment*  
-At will—*deep slumber* (DC 18), *etherealness*, *invisibility*, *magic missile*  
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[see alignment](../../magic/spells/see-alignment.md)*  
+At will—*[deep slumber](../../magic/spells/deep-slumber.md)* (DC 18), *[etherealness](../../magic/spells/etherealness.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[magic missile](../../magic/spells/magic-missile.md)*  
 **Psychic Magic** (CL 10th; concentration +15)  
-15 PE—*dream council* (5 PE, DC 20), *dream scan* (5 PE, DC 20), *dream travel* (6 PE)
+15 PE—*[dream council](../../magic/spells/dream-council.md)* (5 PE, DC 20), *[dream scan](../../magic/spells/dream-scan.md)* (5 PE, DC 20), *[dream travel](../../magic/spells/dream-travel.md)* (6 PE)
 
 **Statistics**
 

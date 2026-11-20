@@ -22,16 +22,16 @@ LE Medium humanoid (human)
 **Ranged**  *+2 spear* +14/+9 (1d8+4/19–20/×3)  
 **Special Attacks** bardic performance 32 rounds/day (swift action; countersong, dirge of doom, distraction, fascinate, inspire competence +4, inspire courage +3, inspire greatness, soothing performance, *suggestion*)  
 **Bard Spells Known** (CL 13th; concentration +17)  
-5th (1/day)—*mass suggestion* (DC 19), *nightmare* (DC 19)  
-4th (4/day)—*cure critical wounds* (DC 18), *hallucinatory terrain* (DC 18), *speak with plants*, *summon monster IV*  
-3rd (5/day)—*fear* (DC 17), *haste* (DC 17), *see invisibility*, *slow* (DC 17), *speak with animals*  
-2nd (6/day)—*cat’s grace*, *invisibility*, *rage*, *silence* (DC 16), *tongues*  
-1st (6/day)—*charm person* (DC 15), *comprehend languages*, *expeditious retreat*, *grease*, *hideous laughter* (DC 15), *ventriloquism* (DC 15)  
-0 (at will)—*dancing lights*, *flare* (DC 14), *ghost sound* (DC 14), *light*, *mage hand*, *message*
+5th (1/day)—*[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 19), *[nightmare* ](../../magic/spells/nightmare.md)(DC 19)  
+4th (4/day)—*[cure critical wounds* ](../../magic/spells/cure-critical-wounds.md)(DC 18), *[hallucinatory terrain* ](../../magic/spells/hallucinatory-terrain.md)(DC 18), *[speak with plants](../../magic/spells/speak-with-plants.md)*, *[summon monster IV](../../magic/spells/summon-monster-iv.md)*  
+3rd (5/day)—*[fear* ](../../magic/spells/fear.md)(DC 17), *[haste* ](../../magic/spells/haste.md)(DC 17), *[see invisibility](../../magic/spells/see-invisibility.md)*, *[slow* ](../../magic/spells/slow.md)(DC 17), *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+2nd (6/day)—*[cat’s grace](../../magic/spells/cats-grace.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[rage](../../magic/spells/rage.md)*, *[silence* ](../../magic/spells/silence.md)(DC 16), *[tongues](../../magic/spells/tongues.md)*  
+1st (6/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 15), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[grease](../../magic/spells/grease.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 15), *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 15)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[flare* ](../../magic/spells/flare.md)(DC 14), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*
 
 **Tactics**
 
-**Before Combat** The bard casts *expeditious retreat* and *see invisibility*.  
+**Before Combat** The bard casts *[expeditious retreat* ](../../magic/spells/expeditious-retreat.md)and *[see invisibility](../../magic/spells/see-invisibility.md)*.  
 **During Combat** The bard uses *hallucinatory terrain* to befuddle and confuse enemies. To aid her side, she casts *summon monster IV*. She targets casters with *silence* and other combatants with *slow*, using her *wand of magic missiles* to aid in dealing damage.
 
 **Statistics**

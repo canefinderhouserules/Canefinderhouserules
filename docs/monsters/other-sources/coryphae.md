@@ -21,10 +21,10 @@ NE Medium fey
 **Melee** 2 claws +7 (1d4+2)  
 **Special Attacks** enchanting dance  
 **Spell-Like Abilities** (CL 10th; concentration +15)  
-Constant—*feather step*  
-At will—*charm person* (DC 16), *dancing lights*, *ghost sound* (DC 15), *lesser confusion* (DC 16)  
-3/day—quickened *ghost sound* (DC 15), *suggestion* (DC 17)  
-1/day—*dominate person* (DC 19)
+Constant—*[feather step](../../magic/spells/feather-step.md)*  
+At will—*[charm person](../../magic/spells/charm-person.md)* (DC 16), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[lesser confusion](../../magic/spells/confusion-lesser.md)* (DC 16)  
+3/day—quickened *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[suggestion](../../magic/spells/suggestion.md)* (DC 17)  
+1/day—*[dominate person](../../magic/spells/dominate-person.md)* (DC 19)
 
 **Statistics**
 

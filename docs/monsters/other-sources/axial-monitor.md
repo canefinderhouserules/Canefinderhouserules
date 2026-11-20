@@ -23,10 +23,10 @@ LN Large outsider (extraplanar, lawful)
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with glaive and tentacle)  
 **Special Attacks** energized maul, tripartite assault, watchful faces  
 **Spell-Like Abilities** (CL 20th; concentration +23)  
-Constant—*true seeing*  
-At will—*detect chaos*, *overland flight*  
-3/day—*detect thoughts* (DC 15), *dimension door*, *dimensional anchor*, *dispel chaos* (DC 18), *hold monster* (DC 18), *order’s wrath* (DC 17), *sending*  
-1/day—*break enchantment*, *dictum* (DC 20), *mass hold monster* (DC 22)
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[overland flight](../../magic/spells/overland-flight.md)*  
+3/day—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 15), *[dimension door](../../magic/spells/dimension-door.md)*, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[dispel chaos](../../magic/spells/dispel-chaos.md)* (DC 18), *[hold monster](../../magic/spells/hold-monster.md)* (DC 18), *[order’s wrath](../../magic/spells/orders-wrath.md)* (DC 17), *[sending](../../magic/spells/sending.md)*  
+1/day—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[dictum](../../magic/spells/dictum.md)* (DC 20), *[mass hold monster](../../magic/spells/hold-monster-mass.md)* (DC 22)
 
 **Statistics**
 

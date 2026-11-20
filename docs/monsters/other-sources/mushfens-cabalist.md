@@ -22,12 +22,12 @@ NE Medium humanoid (changeling)
 **Ranged**  sling +5 (1d4–1)  
 **Special Attacks** hexes (cackle, charm [2 steps, 3 rounds], disguise [9 hours], evil eye [–4, 6 rounds], slumber [9 rounds], ward [+3])  
 **Witch Spells Prepared** (CL 9th; concentration +12)  
-5th—*suffocation* (DC 19)  
-4th—*control water*, *fear* (DC 17)  
-3rd—*bestow curse* (DC 16), *dispel magic*, *vampiric touch*, *water breathing*  
-2nd—*blindness/deafness* (DC 15), *cure moderate wounds*, *detect thoughts* (DC 15), *hold person* (DC 15), *see invisibility*  
-1st—*beguiling gift* (DC 15), *charm person* (DC 14), *mage armor*, *obscuring mist*, *ray of enfeeblement* (DC 14)  
-0 (at will)—*bleed* (DC 13), *detect magic*, *read magic*, *touch of fatigue* (DC 13)  
+5th—*[suffocation](../../magic/spells/suffocation.md)* (DC 19)  
+4th—*[control water](../../magic/spells/control-water.md)*, *[fear](../../magic/spells/fear.md)* (DC 17)  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 16), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[vampiric touch](../../magic/spells/vampiric-touch.md)*, *[water breathing](../../magic/spells/water-breathing.md)*  
+2nd—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 15), *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 15), *[hold person](../../magic/spells/hold-person.md)* (DC 15), *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st—*[beguiling gift](../../magic/spells/beguiling-gift.md)* (DC 15), *[charm person](../../magic/spells/charm-person.md)* (DC 14), *[mage armor](../../magic/spells/mage-armor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 14)  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 13)  
 **Patron** Water
 
 **Statistics**

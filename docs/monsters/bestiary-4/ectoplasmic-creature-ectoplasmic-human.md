@@ -21,7 +21,7 @@ N Medium undead
 **Melee** slam +3 (1d4+3 plus horrifying ooze)  
 **Special Attacks** horrifying ooze  
 **Spell-Like Abilities** (CL 1st; concentration +1)  
-Constant—*air walk*
+Constant—*[air walk](../../magic/spells/air-walk.md)*
 
 **Statistics**
 

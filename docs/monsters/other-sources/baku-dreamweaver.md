@@ -21,10 +21,10 @@ N Medium magical beast
 **Melee** 2 claws +19 (2d8+4 plus mental siphon), gore +19 (1d8+4)  
 **Special Attacks** mental siphon  
 **Spell-Like Abilities** (CL 11th; concentration +19)  
-Constant—*ethereal fists*  
-At will—*dream council*, *invisibility*, *lullaby*, *sleep* (DC 21)  
+Constant—*[ethereal fists](../../magic/spells/ethereal-fists.md)*  
+At will—*[dream council](../../magic/spells/dream-council.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[lullaby](../../magic/spells/lullaby.md)*, *[sleep](../../magic/spells/sleep.md)* (DC 21)  
 **Psychic Magic** (CL 18th; concentration +26)  
-30 PE—*deep slumber* (3 PE, DC 21), *dream scan* (5 PE, DC 23), *dream voyage* (9 PE), *incorporeal chains* (6 PE), *modify memory* (5 PE, DC 23)
+30 PE—*[deep slumber](../../magic/spells/deep-slumber.md)* (3 PE, DC 21), *[dream scan](../../magic/spells/dream-scan.md)* (5 PE, DC 23), *[dream voyage](../../magic/spells/dream-voyage.md)* (9 PE), *[incorporeal chains](../../magic/spells/incorporeal-chains.md)* (6 PE), *[modify memory](../../magic/spells/modify-memory.md)* (5 PE, DC 23)
 
 **Statistics**
 

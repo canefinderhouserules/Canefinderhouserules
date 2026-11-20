@@ -22,10 +22,10 @@ NE Medium outsider (daemon, evil, extraplanar)
 **Space** 5 ft., **Reach** 10 ft.  
 **Special Attacks** bleed (2d6), chained daggers, trap making  
 **Spell-Like Abilities** (CL 16th; concentration +25)  
-Constant—*air walk*, *deathwatch*, *detect good*, *true seeing*  
-At will—*fear* (DC 23), *greater teleport* (self plus 50 lbs. of objects only), *invisibility*  
-3/day—*greater glyph of warding* (DC 25), *hold monster* (DC 24)  
-1/day—*insanity* (DC 26), summon (level 4, 2 piscodaemons 50%), *symbol of pain* (DC 24)
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[deathwatch](../../magic/spells/deathwatch.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[fear* ](../../magic/spells/fear.md)(DC 23), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[invisibility](../../magic/spells/invisibility.md)*  
+3/day—*[greater glyph of warding* ](../../magic/spells/glyph-of-warding-greater.md)(DC 25), *[hold monster* ](../../magic/spells/hold-monster.md)(DC 24)  
+1/day—*[insanity* ](../../magic/spells/insanity.md)(DC 26), summon (level 4, 2 piscodaemons 50%), *[symbol of pain* ](../../magic/spells/symbol-of-pain.md)(DC 24)
 
 **Statistics**
 

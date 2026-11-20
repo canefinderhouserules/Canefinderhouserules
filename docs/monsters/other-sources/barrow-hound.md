@@ -21,7 +21,7 @@ N Large fey
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** constrict (1d8+9), dimensional bark, howl  
 **Spell-Like Abilities** (CL 10th; concentration +12)  
-Constant—*see invisibility*
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*
 
 **Statistics**
 

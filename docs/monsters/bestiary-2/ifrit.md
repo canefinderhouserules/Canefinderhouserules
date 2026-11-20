@@ -23,10 +23,10 @@ N Medium outsider (native)
 **Spell-Like Abilities** (CL 1st; concentration +4)  
 6/day—elemental ray (1d6 fire)  
  **Ifrit Spell-Like Abilities** (CL 1st; concentration +4)  
- 1/day—*burning hands* (DC 15)  
+ 1/day—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 15)  
 **Sorcerer Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*burning hands* (DC 15), *mage armor*  
-0 (at will)—*acid splash*, *detect magic*, *flare* (DC 14), *prestidigitation*  
+1st (4/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 15), *[mage armor](../../magic/spells/mage-armor.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 14), *[prestidigitation](../../magic/spells/prestidigitation.md)*  
 **Bloodline** elemental (fire)
 
 **Statistics**

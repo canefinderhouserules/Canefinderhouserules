@@ -23,8 +23,8 @@ CN Colossal outsider (chaotic, extraplanar, water)
 **Space** 40 ft., **Reach** 30 ft.  
 **Special Attacks** keelhaul, swallow whole (1d10+7 damage, AC 22, 29 hp)  
 **Spell-Like Abilities** (CL 18th; concentration +21)  
-At will—*commune with nature*, *dancing lights*, *know direction*, *telekinesis* (DC 18)  
-3/day—*charm person* (DC 14), *cloudkill* (DC 18), *control winds*, *invisibility sphere*, *major image* (DC 16, within its reach only), *plane shift* (DC 18), *seeming* (DC 18, other creatures only), *teleport*, *water breathing*, widened *fog cloud*  
+At will—*[commune with nature](../../magic/spells/commune-with-nature.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 18)  
+3/day—*[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[cloudkill* ](../../magic/spells/cloudkill.md)(DC 18), *[control winds](../../magic/spells/control-winds.md)*, *[invisibility sphere](../../magic/spells/invisibility-sphere.md)*, *[major image* ](../../magic/spells/major-image.md)(DC 16, within its reach only), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 18), *[seeming* ](../../magic/spells/seeming.md)(DC 18, other creatures only), *[teleport](../../magic/spells/teleport.md)*, *[water breathing](../../magic/spells/water-breathing.md)*, widened *[fog cloud](../../magic/spells/fog-cloud.md)*  
 1/day—summon
 
 **Statistics**

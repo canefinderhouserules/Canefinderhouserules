@@ -23,7 +23,7 @@ NE Medium ooze (blight, cold)
 **Space** 5 ft., **Reach** 15 ft.  
 **Special Attacks** creeping cold, curse of winter, frozen domain  
 **Spell-Like Abilities** (CL 16th; concentration +23)  
-1/day—*blight* (DC 22), *command plants* (DC 21), *cone of cold* (DC 22), *dominate monster* (animals and magical beasts only, DC 26), *greater curse terrain, hallucinatory terrain* (DC 21)
+1/day—*[blight](../../magic/spells/blight.md)* (DC 22), *[command plants](../../magic/spells/command-plants.md)* (DC 21), *[cone of cold](../../magic/spells/cone-of-cold.md)* (DC 22), *[dominate monster](../../magic/spells/dominate-monster.md)* (animals and magical beasts only, DC 26), *greater curse terrain, hallucinatory terrain* (DC 21)
 
 **Statistics**
 

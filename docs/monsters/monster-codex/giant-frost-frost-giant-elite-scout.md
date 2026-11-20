@@ -24,7 +24,7 @@ CE Large humanoid (cold, giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** combat style (archery), favored enemy (humans +2), rock throwing (120 ft.)  
 **Ranger Spells Prepared** (CL 1st; concentration +4)  
-1st—*longstrider*
+1st—*[longstrider](../../magic/spells/longstrider.md)*
 
 **Statistics**
 

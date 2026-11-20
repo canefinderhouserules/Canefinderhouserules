@@ -23,10 +23,10 @@ CE Medium aberration (chaotic, evil, Great Old One)
 **Space** 5 ft., **Reach** 40 ft.  
 **Special Attacks** bleed (1d6), fulvous dreams, mythic power (10/ day, surge +1d12), reveal visage, sneak attack +10d6, Yellow Sign  
 **Spell-Like Abilities** (CL 29th; concentration +42)  
-Constant—*air walk*, *freedom of movement*, *tongues*, *true seeing*  
-At will—*astral projection*, *dimension door*<sup>M</sup>, *dream*<sup>M</sup>, *enervation*<sup>M</sup>, *greater dispel magic*, *insanity* (DC 30), *mirage arcana* (DC 28), *nightmare*<sup>M</sup> (DC 28), *sending*<sup>M</sup>, *veil*, *wish*<sup>M</sup> (see below)  
-3/day—*demand* (DC 31), quickened *feeblemind*, *interplanetary teleport*, *mass suggestion* (DC 29), *project image* (DC 30)  
-1/day—*symbol of death* (DC 31), *symbol of fear* (DC 29), *symbol of insanity* (DC 31), *symbol of pain* (DC 28), *symbol of persuasion* (DC 29), *symbol of strife* (DC 32), *symbol of stunning* (DC 30), *symbol of weakness* (DC 30)
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[tongues](../../magic/spells/tongues.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[astral projection](../../magic/spells/astral-projection.md)*, *[dimension door](../../magic/spells/dimension-door.md)*<sup>M</sup>, *[dream](../../magic/spells/dream.md)*<sup>M</sup>, *[enervation](../../magic/spells/enervation.md)*<sup>M</sup>, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[insanity](../../magic/spells/insanity.md)* (DC 30), *[mirage arcana](../../magic/spells/mirage-arcana.md)* (DC 28), *[nightmare](../../magic/spells/nightmare.md)*<sup>M</sup> (DC 28), *[sending](../../magic/spells/sending.md)*<sup>M</sup>, *[veil](../../magic/spells/veil.md)*, *[wish](../../magic/spells/wish.md)*<sup>M</sup> (see below)  
+3/day—*[demand](../../magic/spells/demand.md)* (DC 31), quickened *[feeblemind](../../magic/spells/feeblemind.md)*, *[interplanetary teleport](../../magic/spells/interplanetary-teleport.md)*, *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 29), *[project image](../../magic/spells/project-image.md)* (DC 30)  
+1/day—*[symbol of death](../../magic/spells/symbol-of-death.md)* (DC 31), *[symbol of fear](../../magic/spells/symbol-of-fear.md)* (DC 29), *[symbol of insanity](../../magic/spells/symbol-of-insanity.md)* (DC 31), *[symbol of pain](../../magic/spells/symbol-of-pain.md)* (DC 28), *[symbol of persuasion](../../magic/spells/symbol-of-persuasion.md)* (DC 29), *[symbol of strife](../../magic/spells/symbol-of-strife.md)* (DC 32), *[symbol of stunning](../../magic/spells/symbol-of-stunning.md)* (DC 30), *[symbol of weakness](../../magic/spells/symbol-of-weakness.md)* (DC 30)
 
 **Statistics**
 

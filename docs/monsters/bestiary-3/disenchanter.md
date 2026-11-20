@@ -23,9 +23,9 @@ N Large magical beast
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with trunk)  
 **Special Attacks** power spray  
 **Spell-Like Abilities** (CL 4th; concentration +3)  
-Constant—*detect magic*  
-3/day—*magic weapon*  
-1/day—*dimension door*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+3/day—*[magic weapon](../../magic/spells/magic-weapon.md)*  
+1/day—*[dimension door](../../magic/spells/dimension-door.md)*
 
 **Statistics**
 

@@ -22,10 +22,10 @@ CG Large dragon (water)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite and gore)  
 **Special Attacks** breath weapon (40-ft. cone, 6d6 fire damage, DC 17), torrent breath  
 **Spell-Like Abilities** (CL 9th; concentration +12)  
-At will—*create water*  
+At will—*[create water](../../magic/spells/create-water.md)*  
 **Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*color spray* (DC 14), *sleep* (DC 14)  
-0 (at will)—*acid splash*, *mage hand*, *ray of frost*, *resistance*
+1st (4/day)—*[color spray* ](../../magic/spells/color-spray.md)(DC 14), *[sleep* ](../../magic/spells/sleep.md)(DC 14)  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

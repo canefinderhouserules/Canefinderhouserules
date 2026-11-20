@@ -21,8 +21,8 @@ LE Small outsider (evil, extraplanar, kyton, lawful)
 **Melee** 2 claws +16 (1d3+2 plus grab and lingering touch), bite +16 (1d4+2)  
 **Special Attacks** lingering touch, oneiric invasion, unnerving gaze (DC 18)  
 **Spell-Like Abilities** (CL 9th; concentration +12)  
-3/day—*ego whip I* (DC 16), *nightmare* (DC 18), *paranoia* (DC 15)  
-1/day—*shadow body*
+3/day—*[ego whip I](../../magic/spells/ego-whip-i.md)* (DC 16), *[nightmare](../../magic/spells/nightmare.md)* (DC 18), *[paranoia](../../magic/spells/paranoia.md)* (DC 15)  
+1/day—*[shadow body](../../magic/spells/shadow-body.md)*
 
 **Statistics**
 

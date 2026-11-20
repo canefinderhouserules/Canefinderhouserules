@@ -23,10 +23,10 @@ NG Medium outsider (angel, extraplanar, good)
 **Ranged**  mwk longbow +12/+7 (1d8/×3)  
 **Special Attacks** celestial charge, righteous challenge  
 **Spell-Like Abilities** (CL 5th; concentration +6)  
-Constant—*detect evil*  
-At will—*light*, *remove fear*, *stabilize*, *virtue*  
-3/day—*bless weapon*, *cure light wounds*, *remove curse*  
-1/day—*consecrate*
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*  
+At will—*[light](../../magic/spells/light.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[virtue](../../magic/spells/virtue.md)*  
+3/day—*[bless weapon](../../magic/spells/bless-weapon.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[remove curse](../../magic/spells/remove-curse.md)*  
+1/day—*[consecrate](../../magic/spells/consecrate.md)*
 
 **Statistics**
 

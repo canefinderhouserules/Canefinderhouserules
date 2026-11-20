@@ -23,17 +23,17 @@ NE Medium monstrous humanoid
 **Ranged**  mwk composite longbow +19/+14/+9 (1d8+4/×3)  
 **Special Attacks** improved spell combat, spell combat (–2 attack, +2 concentration), spellstrike  
 **Spell-Like Abilities** (CL 4th; concentration +7)  
-At will—*disguise self* (DC 14, humanoid form only), *ventriloquism* (DC 14)  
-1/day—*blur*, *dominate person* (DC 18), *major image* (DC 16), *mass suggestion* (DC 19), *mirror image*, *suggestion* (DC 16), *teleport*  
+At will—*[disguise self](../../magic/spells/disguise-self.md)* (DC 14, humanoid form only), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 14)  
+1/day—*[blur](../../magic/spells/blur.md)*, *[dominate person](../../magic/spells/dominate-person.md)* (DC 18), *[major image](../../magic/spells/major-image.md)* (DC 16), *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 19), *[mirror image](../../magic/spells/mirror-image.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 16), *[teleport](../../magic/spells/teleport.md)*  
 **Magus Spells Prepared** (CL 9th; concentration +14)  
-3rd—*dispel magic*, *displacement*, *vampiric touch* (2)  
-2nd—*acid arrow*, *defensive shock*, *frigid touch*, *invisibility*, *web* (DC 17)  
-1st—*burning hands* (DC 16), *chill touch* (DC 16), *corrosive touch*, *magic missile*, *ray of enfeeblement* (DC 16), *shocking grasp*  
-0 (at will)—*arcane mark*, *detect magic*, *mage hand*, *prestidigitation* (DC 15), *read magic*
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[displacement](../../magic/spells/displacement.md)*, *[vampiric touch](../../magic/spells/vampiric-touch.md)* (2)  
+2nd—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[defensive shock](../../magic/spells/defensive-shock.md)*, *[frigid touch](../../magic/spells/frigid-touch.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[web](../../magic/spells/web.md)* (DC 17)  
+1st—*[burning hands](../../magic/spells/burning-hands.md)* (DC 16), *[chill touch](../../magic/spells/chill-touch.md)* (DC 16), *[corrosive touch](../../magic/spells/corrosive-touch.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 16), *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)* (DC 15), *[read magic](../../magic/spells/read-magic.md)*
 
 **Tactics**
 
-**Before Combat** A spellblade casts *defensive shock* if it expects battle, often following with *displacement* and *invisibility* to pursue a chosen target more freely.  
+**Before Combat** A spellblade casts *[defensive shock](../../magic/spells/defensive-shock.md)* if it expects battle, often following with *[displacement* ](../../magic/spells/displacement.md)and *[invisibility* ](../../magic/spells/invisibility.md)to pursue a chosen target more freely.  
  **During Combat** A spellblade combines arcane power and mental mastery with the deadly, sinuous grace of the blade. It uses its hasted assault ability whenever possible, and uses spell combat and spellstrike whenever it has appropriate spells available. It prefers to weaken opponents with poisoned bites and spells like *chill touch*, *ray of enfeeblement*, and *vampiric touch*.
 
 **Statistics**

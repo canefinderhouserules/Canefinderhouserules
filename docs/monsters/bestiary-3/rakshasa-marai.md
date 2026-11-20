@@ -22,9 +22,9 @@ LE Medium outsider (native, rakshasa, shapechanger)
 **Ranged**  6 energy bolts +14 touch (1d8 plus special)  
 **Special Attacks** detect thoughts (DC 18), energy bolts  
 **Spells Known** (CL 5th; concentration +9)  
-2nd (5/day)—*invisibility*, *scorching ray*  
-1st (7/day)—*charm person* (DC 15), *jump*, *mage armor*, *magic missile*  
-0 (at will)—*bleed* (DC 14), *detect magic*, *ghost sound* (DC 14), *mage hand*, *open/close*, *read magic*
+2nd (5/day)—*[invisibility](../../magic/spells/invisibility.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (7/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 15), *[jump](../../magic/spells/jump.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

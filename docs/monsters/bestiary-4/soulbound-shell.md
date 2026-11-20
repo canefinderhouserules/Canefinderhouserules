@@ -21,13 +21,13 @@ N Medium construct
 **Speed** 30 ft.  
 **Melee** mwk dagger +17/+12/+7 (1d4+1/19–20)  
 **Wizard Spells Prepared** (CL 12th; concentration +17)  
-6th—*beast shape IV*, *disintegrate* (DC 21)  
-5th—*cloudkill* (2, DC 22), *dominate person* (DC 21), *passwall*  
-4th—*black tentacles* (2), *fire shield*, *shout* (DC 19)  
-3rd—*fly*, *lightning bolt* (2, DC 18), *stinking cloud* (2, DC 20)  
-2nd—*false life* (already cast), *glitterdust* (DC 19), *hideous laughter* (DC 18), *make whole*, *mirror image*  
-1st—*charm person* (2, DC 17), *expeditious retreat*, *grease* (DC 18), *mage armor* (already cast), *unseen servant*  
-0—*acid splash*, *detect magic*, *mage hand*, *read magic*
+6th—*[beast shape IV](../../magic/spells/beast-shape-iv.md)*, *[disintegrate](../../magic/spells/disintegrate.md)* (DC 21)  
+5th—*[cloudkill](../../magic/spells/cloudkill.md)* (2, DC 22), *[dominate person](../../magic/spells/dominate-person.md)* (DC 21), *[passwall](../../magic/spells/passwall.md)*  
+4th—*[black tentacles](../../magic/spells/black-tentacles.md)* (2), *[fire shield](../../magic/spells/fire-shield.md)*, *[shout](../../magic/spells/shout.md)* (DC 19)  
+3rd—*[fly](../../magic/spells/fly.md)*, *[lightning bolt](../../magic/spells/lightning-bolt.md)* (2, DC 18), *[stinking cloud](../../magic/spells/stinking-cloud.md)* (2, DC 20)  
+2nd—*[false life](../../magic/spells/false-life.md)* (already cast), *[glitterdust](../../magic/spells/glitterdust.md)* (DC 19), *[hideous laughter](../../magic/spells/hideous-laughter.md)* (DC 18), *[make whole](../../magic/spells/make-whole.md)*, *[mirror image](../../magic/spells/mirror-image.md)*  
+1st—*[charm person](../../magic/spells/charm-person.md)* (2, DC 17), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[grease](../../magic/spells/grease.md)* (DC 18), *[mage armor](../../magic/spells/mage-armor.md)* (already cast), *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0—*[acid splash](../../magic/spells/acid-splash.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

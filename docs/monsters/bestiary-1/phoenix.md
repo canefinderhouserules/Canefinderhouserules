@@ -23,9 +23,9 @@ NG Gargantuan magical beast (fire)
 **Melee** 2 talons +24 (2d6+8/19–20 plus 1d6 fire) and bite +24 (2d8+8 plus 1d6 fire)  
 **Space** 20 ft., **Reach** 20 ft.  
 **Spell-Like Abilities** (CL 18th)  
-Constant—*detect magic*, *detect poison*, *see invisibility*  
-At will—*continual flame*, *cure critical wounds*, *greater dispel magic*, *remove curse*, *wall of fire*  
-3/day—*fire storm* (DC 24), *greater restoration*, *heal*, *mass cure critical wounds*, quickened *wall of fire*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[continual flame](../../magic/spells/continual-flame.md)*, *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[remove curse](../../magic/spells/remove-curse.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3/day—*[fire storm* ](../../magic/spells/fire-storm.md)(DC 24), *[greater restoration](../../magic/spells/restoration-greater.md)*, *[heal](../../magic/spells/heal.md)*, *[mass cure critical wounds](../../magic/spells/cure-critical-wounds-mass.md)*, quickened *[wall of fire](../../magic/spells/wall-of-fire.md)*
 
 **Statistics**
 

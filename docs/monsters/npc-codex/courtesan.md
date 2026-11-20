@@ -22,15 +22,15 @@ N Medium humanoid (human)
 **Ranged**  *+1 returning dagger* +12/+7 (1d4/19–20)  
 **Special Attacks** bardic performance 31 rounds/day (move action; countersong, dirge of doom, distraction, fascinate, inspire competence +4, inspire courage +3, inspire greatness, soothing performance, *suggestion*)  
 **Bard Spells Known** (CL 12th; concentration +17)  
-4th (4/day)—*freedom of movement*, *greater invisibility*, *modify memory* (DC 20), *rainbow pattern* (DC 19)  
-3rd (5/day)—*charm monster* (DC 19), *confusion* (DC 19), *glibness*, *lesser geas* (DC 19), *remove curse*  
-2nd (6/day)—*alter self*, *calm emotions* (DC 18), *darkness*, *heroism*, *suggestion* (DC 18)  
-1st (7/day)—*charm person* (DC 17), *cure light wounds* (DC 16), *disguise self*, *hypnotism* (DC 17), *lesser confusion* (DC 17), *unseen servant*  
-0 (at will)—*dancing lights*, *daze* (DC 16), *detect magic*, *light*, *message*, *prestidigitation*
+4th (4/day)—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[modify memory* ](../../magic/spells/modify-memory.md)(DC 20), *[rainbow pattern* ](../../magic/spells/rainbow-pattern.md)(DC 19)  
+3rd (5/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 19), *[confusion* ](../../magic/spells/confusion.md)(DC 19), *[glibness](../../magic/spells/glibness.md)*, *[lesser geas* ](../../magic/spells/geas-lesser.md)(DC 19), *[remove curse](../../magic/spells/remove-curse.md)*  
+2nd (6/day)—*[alter self](../../magic/spells/alter-self.md)*, *[calm emotions* ](../../magic/spells/calm-emotions.md)(DC 18), *[darkness](../../magic/spells/darkness.md)*, *[heroism](../../magic/spells/heroism.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 18)  
+1st (7/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 17), *[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(DC 16), *[disguise self](../../magic/spells/disguise-self.md)*, *[hypnotism* ](../../magic/spells/hypnotism.md)(DC 17), *[lesser confusion* ](../../magic/spells/confusion-lesser.md)(DC 17), *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Tactics**
 
-**During Combat** The bard casts *greater invisibility*, then *confusion* or *rainbow pattern* to lead enemies astray.
+**During Combat** The bard casts *[greater invisibility](../../magic/spells/invisibility-greater.md)*, then *[confusion* ](../../magic/spells/confusion.md)or *[rainbow pattern* ](../../magic/spells/rainbow-pattern.md)to lead enemies astray.
 
 **Statistics**
 

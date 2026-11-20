@@ -21,9 +21,9 @@ NE Medium undead (incorporeal)
 **Melee** pain touch +25 touch (7d6)  
 **Special Attacks** malevolence  
 **Spell-Like Abilities** (CL 18th; concentration +25)  
-At will—*detect thoughts* (DC 19), *telekinesis* (DC 22)  
-3/day—*dominate monster* (DC 26), *feeblemind* (DC 22), *inflict serious wounds* (DC 20)  
-1/day—*greater heroism*, *modify memory* (DC 21), *tongues*
+At will—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 19), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 22)  
+3/day—*[dominate monster* ](../../magic/spells/dominate-monster.md)(DC 26), *[feeblemind* ](../../magic/spells/feeblemind.md)(DC 22), *[inflict serious wounds* ](../../magic/spells/inflict-serious-wounds.md)(DC 20)  
+1/day—*[greater heroism](../../magic/spells/heroism-greater.md)*, *[modify memory* ](../../magic/spells/modify-memory.md)(DC 21), *[tongues](../../magic/spells/tongues.md)*
 
 **Statistics**
 

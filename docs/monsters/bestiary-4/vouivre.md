@@ -22,8 +22,8 @@ CE Large monstrous humanoid (aquatic)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** breath weapon (30-ft. cone, 8d6 fire, Reflex DC 22 half, usable every 1d4 rounds)  
 **Spell-Like Abilities** (CL 13th; concentration +17)  
-At will—*charm person* (DC 15), *comprehend languages*, *ghost sound* (DC 14), *speak with animals* (snakes only)  
-1/day—*charm animal* (DC 15, snakes only), *shout* (DC 18), *song of discord* (DC 19)
+At will—*[charm person](../../magic/spells/charm-person.md)* (DC 15), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 14), *[speak with animals](../../magic/spells/speak-with-animals.md)* (snakes only)  
+1/day—*[charm animal](../../magic/spells/charm-animal.md)* (DC 15, snakes only), *[shout](../../magic/spells/shout.md)* (DC 18), *[song of discord](../../magic/spells/song-of-discord.md)* (DC 19)
 
 **Statistics**
 

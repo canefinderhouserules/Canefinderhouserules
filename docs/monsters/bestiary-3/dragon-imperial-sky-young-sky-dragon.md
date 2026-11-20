@@ -22,10 +22,10 @@ LG Large dragon (air)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite and gore)  
 **Special Attacks** breath weapon (40-ft. cone, 6d8 electricity damage, DC 18)  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*obscuring mist*, *shocking grasp*  
-0 (at will)—*disrupt undead*, *mending*, *message*, *read magic*
+1st (4/day)—*[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

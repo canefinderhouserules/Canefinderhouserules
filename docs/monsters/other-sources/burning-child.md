@@ -23,9 +23,9 @@ CN Small undead (fire)
 **Melee** slam +10 (1d4–2 plus burn)  
 **Special Attacks** breath weapon (60-ft. cone, 10d6 fire damage, Reflex DC 21 half), burn (2d8, DC 21)  
 **Spell-Like Abilities** (CL 11th; concentration +15)  
-Constant—*elemental aura* (fire only; DC 17), *fire trail* (DC 17)  
-At will—*burning hands* (DC 16), *scorching ray* (DC 16)  
-3/day—quickened *fireball* (DC 17)
+Constant—*[elemental aura](../../magic/spells/elemental-aura.md)* (fire only; DC 17), *[fire trail](../../magic/spells/fire-trail.md)* (DC 17)  
+At will—*[burning hands](../../magic/spells/burning-hands.md)* (DC 16), *[scorching ray](../../magic/spells/scorching-ray.md)* (DC 16)  
+3/day—quickened *[fireball](../../magic/spells/fireball.md)* (DC 17)
 
 **Statistics**
 

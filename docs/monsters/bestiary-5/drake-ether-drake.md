@@ -22,7 +22,7 @@ N Large dragon (aether)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** ether bite  
 **Psychic Magic** (CL 12th; concentration +14)  
-10 PE—*burst of adrenaline* (1 PE), *condensed ether* (4 PE), *mindlink* (1 PE)
+10 PE—*[burst of adrenaline](../../magic/spells/burst-of-adrenaline.md)* (1 PE), *[condensed ether](../../magic/spells/condensed-ether.md)* (4 PE), *[mindlink](../../magic/spells/mindlink.md)* (1 PE)
 
 **Statistics**
 

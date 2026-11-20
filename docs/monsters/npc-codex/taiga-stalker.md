@@ -25,15 +25,15 @@ LN Medium humanoid (human)
 **Spell-Like Abilities** (CL 16th; concentration +22)  
 9/day—icicle  
 **Druid Spells Prepared** (CL 16th; concentration +22)  
-8th—empowered *cone of cold* (2, DC 22), *horrid wilting*<sup>D</sup>(DC 24)  
-7th—*elemental body IV*<sup>D</sup> (water only), *fire storm* (DC 23), *heal*, *true seeing*  
-6th—*antilife shell*, *cone of cold*<sup>D</sup>(DC 22), empowered *flame strike* (DC 20), *greater dispel magic*, *wall of stone*  
-5th—*animal growth* (2, DC 21), *cure critical wounds*, *death ward*, *ice storm*<sup>D</sup>, *stoneskin*  
-4th—*air walk*, *control weather*<sup>D</sup>, *dispel magic*, *flame strike* (DC 20), *freedom of movement*, *spike stones* (DC 20)  
-3rd—*daylight*, *greater magic fang* (3), *protection from energy*, *water breathing*<sup>D</sup>  
-2nd—*barkskin* (3), *bear's endurance*, *bull's strength*, *cat's grace*, *fog cloud*<sup>D</sup>  
-1st—*cure light wounds* (3), *faerie fire*, *longstrider*, *obscuring mist*<sup>D</sup>, *speak with animals*  
-0 (at will)—*create water*, *detect magic*, *light*, *mending*  
+8th—empowered *[cone of cold* ](../../magic/spells/cone-of-cold.md)(2, DC 22), *[horrid wilting](../../magic/spells/horrid-wilting.md)*<sup>D</sup>(DC 24)  
+7th—*[elemental body IV](../../magic/spells/elemental-body-iv.md)*<sup>D</sup> (water only), *[fire storm* ](../../magic/spells/fire-storm.md)(DC 23), *[heal](../../magic/spells/heal.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+6th—*[antilife shell](../../magic/spells/antilife-shell.md)*, *[cone of cold](../../magic/spells/cone-of-cold.md)*<sup>D</sup>(DC 22), empowered *[flame strike* ](../../magic/spells/flame-strike.md)(DC 20), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+5th—*[animal growth* ](../../magic/spells/animal-growth.md)(2, DC 21), *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[death ward](../../magic/spells/death-ward.md)*, *[ice storm](../../magic/spells/ice-storm.md)*<sup>D</sup>, *[stoneskin](../../magic/spells/stoneskin.md)*  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[control weather](../../magic/spells/control-weather.md)*<sup>D</sup>, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(DC 20), *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[spike stones* ](../../magic/spells/spike-stones.md)(DC 20)  
+3rd—*[daylight](../../magic/spells/daylight.md)*, *[greater magic fang* ](../../magic/spells/magic-fang-greater.md)(3), *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[water breathing](../../magic/spells/water-breathing.md)*<sup>D</sup>  
+2nd—*[barkskin* ](../../magic/spells/barkskin.md)(3), *[bear's endurance](../../magic/spells/bears-endurance.md)*, *[bull's strength](../../magic/spells/bulls-strength.md)*, *[cat's grace](../../magic/spells/cats-grace.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*<sup>D</sup>  
+1st—*[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(3), *[faerie fire](../../magic/spells/faerie-fire.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*<sup>D</sup>, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*  
 **D** Domain spell; **Domain** Water
 
 **Tactics**

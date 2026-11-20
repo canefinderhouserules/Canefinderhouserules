@@ -21,10 +21,10 @@ NG Small humanoid (halfling)
 **Melee** quarterstaff +3 (1d4–2)  
 **Ranged**  sling +6 (1d3–2)  
 **Adept Spells Prepared** (CL 9th; concentration +11)  
-3rd—*remove disease*  
-2nd—*cure moderate wounds*, *delay poison*, *web* (DC 14)  
-1st—*cure light wounds* (2), *endure elements*, *obscuring mist*  
-0 (at will)—*create water*, *read magic*, *stabilize*
+3rd—*[remove disease](../../magic/spells/remove-disease.md)*  
+2nd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[delay poison](../../magic/spells/delay-poison.md)*, *[web* ](../../magic/spells/web.md)(DC 14)  
+1st—*[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(2), *[endure elements](../../magic/spells/endure-elements.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Tactics**
 

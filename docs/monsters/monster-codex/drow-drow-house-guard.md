@@ -23,7 +23,7 @@ CE Medium humanoid (elf)
 **Melee** mwk longsword +7 (1d8+2/19–20 plus poison)  
 **Ranged**  repeating heavy crossbow +7 (1d10/19–20 plus poison)  
 **Spell-Like Abilities** (CL 3rd; concentration +3)  
-1/day—*dancing lights*, *darkness*, *faerie fire*
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[darkness](../../magic/spells/darkness.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*
 
 **Tactics**
 

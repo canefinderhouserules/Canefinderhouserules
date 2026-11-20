@@ -22,7 +22,7 @@ LE Medium humanoid (human)
 **Ranged**  mwk dagger +7 (1d4+3/19–20)  
 **Special Attacks** favored enemy (humans +2)  
 **Ranger Spells Prepared** (CL 1st; concentration +2)  
-1st—*pass without trace*
+1st—*[pass without trace](../../magic/spells/pass-without-trace.md)*
 
 **Statistics**
 

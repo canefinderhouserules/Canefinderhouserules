@@ -23,10 +23,10 @@ CN Colossal plant
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** constrict (2d8+16), encage, trample (4d6+24, DC 39)  
 **Spell-Like Abilities** (CL 17th; concentration +20)  
-Constant—*freedom of movement*  
-At will—*entangle* (DC 14), *hallucinatory terrain* (DC 17)  
-3/day—quickened *entangle* (DC 14)  
-1/day—*wall of thorns*
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+At will—*[entangle](../../magic/spells/entangle.md)* (DC 14), *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)* (DC 17)  
+3/day—quickened *[entangle](../../magic/spells/entangle.md)* (DC 14)  
+1/day—*[wall of thorns](../../magic/spells/wall-of-thorns.md)*
 
 **Statistics**
 

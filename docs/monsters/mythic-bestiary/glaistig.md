@@ -24,9 +24,9 @@ CN Medium fey (earth, mythic)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with earth whip or leaf whip)  
 **Special Attacks** infusions (bowling infusion, deadly earth, entangling infusion, extended range, fragmentation, grappling infusion, impale, kinetic whip, mobile blast, pushing infusion, snake, wall), mythic power (10/day, +1d12), terrakinesis, witch of the fey  
 **Spell-Like Abilities** (CL 25th; concentration +35)  
-Constant—*freedom of movement*, *pass without trace*  
-At will—*create water*, *know direction*, *purify food and drink*, *transport via plants*  
-3/day—*clashing rocks* (DC 29), quickened *confusion* (DC 23), *flesh to stone* (DC 26), *move earth*, *summon nature's ally IX*
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*  
+At will—*[create water](../../magic/spells/create-water.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[transport via plants](../../magic/spells/transport-via-plants.md)*  
+3/day—*[clashing rocks](../../magic/spells/clashing-rocks.md)* (DC 29), quickened *[confusion* ](../../magic/spells/confusion.md)(DC 23), *[flesh to stone* ](../../magic/spells/flesh-to-stone.md)(DC 26), *[move earth](../../magic/spells/move-earth.md)*, *[summon nature's ally IX](../../magic/spells/summon-natures-ally-ix.md)*
 
 **Statistics**
 

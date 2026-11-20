@@ -21,8 +21,8 @@ LE Huge aberration (aquatic)
 **Melee** 4 tentacles +10 (1d6+5 plus slime)  
 **Space** 15 ft., **Reach** 15 ft.  
 **Spell-Like Abilities** (CL 16th)  
-At will—*hypnotic pattern* (DC 15), *illusory wall* (DC 17), *mirage arcana* (DC 18), *persistent image* (DC 18), *programmed image* (DC 19), *project image* (DC 20), *veil* (DC 19)  
-3/day—*dominate monster* (DC 22)
+At will—*[hypnotic pattern* ](../../magic/spells/hypnotic-pattern.md)(DC 15), *[illusory wall* ](../../magic/spells/illusory-wall.md)(DC 17), *[mirage arcana* ](../../magic/spells/mirage-arcana.md)(DC 18), *[persistent image* ](../../magic/spells/persistent-image.md)(DC 18), *[programmed image* ](../../magic/spells/programmed-image.md)(DC 19), *[project image* ](../../magic/spells/project-image.md)(DC 20), *[veil* ](../../magic/spells/veil.md)(DC 19)  
+3/day—*[dominate monster* ](../../magic/spells/dominate-monster.md)(DC 22)
 
 **Statistics**
 

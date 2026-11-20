@@ -23,9 +23,9 @@ LG Medium outsider (archon, extraplanar, good, lawful)
 **Ranged**  light ray +8 ranged touch (1d6)  
 **Special Attacks** favored enemy (any one +4)  
 **Spell-Like Abilities** (CL 5th; concentration +8)  
-Constant—*detect evil*, *detect magic*, *magic circle against evil*  
-At will—*aid*, *continual flame*, *forbid action* (DC 14), *greater teleport* (self plus 50 lbs. of objects only), *mage hand*, *message*  
-1/day—*calm emotions* (DC 15), *clairaudience/clairvoyance*, *commune* (CL 9th, 1 question), *daylight*, *silence* (DC 15)
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[continual flame](../../magic/spells/continual-flame.md)*, *[forbid action](../../magic/spells/forbid-action.md)* (DC 14), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*  
+1/day—*[calm emotions](../../magic/spells/calm-emotions.md)* (DC 15), *[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[commune](../../magic/spells/commune.md)* (CL 9th, 1 question), *[daylight](../../magic/spells/daylight.md)*, *[silence](../../magic/spells/silence.md)* (DC 15)
 
 **Statistics**
 

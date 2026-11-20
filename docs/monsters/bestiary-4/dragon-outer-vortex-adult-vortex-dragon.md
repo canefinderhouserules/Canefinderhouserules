@@ -24,12 +24,12 @@ LN Huge dragon (fire)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, 12d8 fire, DC 23), crush, fragmented strike  
 **Spell-Like Abilities** (CL 17th; concentration +22)  
-At will—*anticipate peril*, *entropic shield*  
+At will—*[anticipate peril](../../magic/spells/anticipate-peril.md)*, *[entropic shield](../../magic/spells/entropic-shield.md)*  
 **Sorcerer Spells Known** (CL 7th; concentration +12)  
-3rd (5/day)—*displacement*, *protection from energy*  
-2nd (7/day)—*mirror image*, *resist energy*, *scorching ray*  
-1st (8/day)—*comprehend languages*, *feather fall*, *magic missile*, *obscuring mist*, *true strike*  
-0 (at will)—*detect magic*, *light*, *message*, *read magic*, 3 more
+3rd (5/day)—*[displacement](../../magic/spells/displacement.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd (7/day)—*[mirror image](../../magic/spells/mirror-image.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (8/day)—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, 3 more
 
 **Statistics**
 

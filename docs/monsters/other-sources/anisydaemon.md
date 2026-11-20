@@ -28,15 +28,15 @@ shadow possession
 **Spell-Like Abilities** (CL 15th; concentration +20)  
 Constant—*arcane sight, detect good, tongues*  
 
-At will—*detect thoughts* (DC 17), *greater teleport* (self plus 50 lbs. of objects only), *invisibility*  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[invisibility](../../magic/spells/invisibility.md)*  
 
-3/day—*crushing despair* (DC 19), *deeper darkness, nightmare* (DC 20), *suggestion* (DC 18)  
+3/day—*[crushing despair](../../magic/spells/crushing-despair.md)* (DC 19), *deeper darkness, nightmare* (DC 20), *[suggestion](../../magic/spells/suggestion.md)* (DC 18)  
 
-1/day—*eyebite* (DC 22), *summon* (level 4, 2d4 ceustodaemons 80% or 1 anisydaemon 35%)  
+1/day—*[eyebite](../../magic/spells/eyebite.md)* (DC 22), *summon* (level 4, 2d4 ceustodaemons 80% or 1 anisydaemon 35%)  
 **Psychic Magic** (CL 15th; concentration +20)  
-10 PE—*babble* (3 PE, DC 18), *ego whip V* (7 PE, DC 22),
-*mental block* (2 PE, DC 17), *murderous command*
-(1 PE, DC 16), *psychic crush III* (7 PE, DC 22)
+10 PE—*[babble](../../magic/spells/babble.md)* (3 PE, DC 18), *[ego whip V](../../magic/spells/ego-whip-v.md)* (7 PE, DC 22),
+*[mental block](../../magic/spells/mental-block.md)* (2 PE, DC 17), *[murderous command](../../magic/spells/murderous-command.md)*
+(1 PE, DC 16), *[psychic crush III](../../magic/spells/psychic-crush-iii.md)* (7 PE, DC 22)
 
 **Statistics**
 

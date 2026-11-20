@@ -24,10 +24,10 @@ NE Large undead (augmented magical beast)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** burst of vengeance, dust stroke, pounce, rake (2 claws +19, 3d6+8/19–20)  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-Constant—*comprehend languages*, *detect magic*, *read magic*, *see invisibility*  
-3/day—*clairaudience/clairvoyance*  
-1/day—*dispel magic*, *legend lore*, *locate object*, *remove curse*  
-1/week—any one of the following, with a maximum duration of 1 week: *symbol of fear* (DC 20), *symbol of pain* (DC 19), *symbol of persuasion* (DC 20), *symbol of sleep* (DC 19), *symbol of stunning* (DC 21)
+Constant—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+3/day—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*  
+1/day—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[legend lore](../../magic/spells/legend-lore.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[remove curse](../../magic/spells/remove-curse.md)*  
+1/week—any one of the following, with a maximum duration of 1 week: *[symbol of fear](../../magic/spells/symbol-of-fear.md)* (DC 20), *[symbol of pain](../../magic/spells/symbol-of-pain.md)* (DC 19), *[symbol of persuasion](../../magic/spells/symbol-of-persuasion.md)* (DC 20), *[symbol of sleep](../../magic/spells/symbol-of-sleep.md)* (DC 19), *[symbol of stunning](../../magic/spells/symbol-of-stunning.md)* (DC 21)
 
 **Statistics**
 

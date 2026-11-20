@@ -23,10 +23,10 @@ LE Huge outsider (giant, native, oni, shapechanger)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** commanding voice, energy drain (2 levels, DC 28), void trap  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*fire shield* (chill shield), *fly*, *true seeing*  
-At will—*deeper darkness*, *gaseous form* (self only), *greater dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *invisibility* (self only), *minor creation*, *vision*  
-3/day—*cone of cold* (DC 22), *demand* (DC 25), *dominate person* (DC 22), *major creation*, *mass charm monster* (DC 25), *polar ray*, *teleport object* (DC 24)  
-1/day—*implosion* (DC 26), *plane shift* (DC 24)
+Constant—*[fire shield* ](../../magic/spells/fire-shield.md)(chill shield), *[fly](../../magic/spells/fly.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[gaseous form* ](../../magic/spells/gaseous-form.md)(self only), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[minor creation](../../magic/spells/minor-creation.md)*, *[vision](../../magic/spells/vision.md)*  
+3/day—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 22), *[demand* ](../../magic/spells/demand.md)(DC 25), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 22), *[major creation](../../magic/spells/major-creation.md)*, *[mass charm monster* ](../../magic/spells/charm-monster-mass.md)(DC 25), *[polar ray](../../magic/spells/polar-ray.md)*, *[teleport object* ](../../magic/spells/teleport-object.md)(DC 24)  
+1/day—*[implosion* ](../../magic/spells/implosion.md)(DC 26), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 24)
 
 **Statistics**
 

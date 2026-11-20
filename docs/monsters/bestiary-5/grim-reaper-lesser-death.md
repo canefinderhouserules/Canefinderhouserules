@@ -23,8 +23,8 @@ NE Medium undead (extraplanar)
 **Special Attacks** energy drain (2 levels, DC 29)  
 **Spell-Like Abilities** (CL 16th; concentration +23)  
 Constant—*air walk, haste, see invisibility*  
- 3/day—*call spirit* (DC 22), *slay living* (DC 22)  
- 1/day—*finger of death* (DC 25), *plane shift* (DC 22)
+ 3/day—*[call spirit](../../magic/spells/call-spirit.md)* (DC 22), *[slay living](../../magic/spells/slay-living.md)* (DC 22)  
+ 1/day—*[finger of death](../../magic/spells/finger-of-death.md)* (DC 25), *[plane shift](../../magic/spells/plane-shift.md)* (DC 22)
 
 **Statistics**
 

@@ -25,9 +25,9 @@ CN Medium humanoid (human, orc)
 **Spell-Like Abilities** (CL 4th; concentration +5)  
 4/day—wooden fist  
 **Druid Spells Prepared** (CL 4th; conc. +5)  
-2nd—*barkskin*<sup>D</sup>, *bull’s strength*, *summon swarm*  
-1st—*entangle*<sup>D</sup> (2, DC 12), *faerie fire*, *shillelagh* (2)  
-0 (at will)—*create water*, *know direction*, *light*, *stabilize*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*<sup>D</sup>, *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[summon swarm](../../magic/spells/summon-swarm.md)*  
+1st—*[entangle](../../magic/spells/entangle.md)*<sup>D</sup> (2, DC 12), *[faerie fire](../../magic/spells/faerie-fire.md)*, *[shillelagh* ](../../magic/spells/shillelagh.md)(2)  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[light](../../magic/spells/light.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domain** Plant
 
 **Tactics**

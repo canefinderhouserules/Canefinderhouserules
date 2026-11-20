@@ -22,11 +22,11 @@ N Large dragon
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, 6d10 electricity, DC 21)  
 **Spell-Like Abilities** (CL 11th; concentration +13)  
-Constant—*detect magic*  
-At will—*share memory*  
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[share memory](../../magic/spells/share-memory.md)*  
 **Sorcerer Spells Known** (CL 1st; concentration +3)  
-1st (4/day)—*erase*, *mage armor*  
-0 (at will)—*mage hand*, *message*, *read magic*, *resistance*
+1st (4/day)—*[erase](../../magic/spells/erase.md)*, *[mage armor](../../magic/spells/mage-armor.md)*  
+0 (at will)—*[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

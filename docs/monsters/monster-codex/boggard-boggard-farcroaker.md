@@ -22,8 +22,8 @@ CE Medium humanoid (boggard)
 **Ranged**  shortspear +4 (1d6+1)  
 **Special Attacks** bardic performance 8 rounds/day (countersong, distraction, fascinate [DC 13], inspire courage +1), terrifying croak (DC 15)  
 **Bard Spells Known** (CL 2nd; concentration +4)  
-1st (3/day)—*alarm*, *grease* (DC 13), *ventriloquism* (DC 13)  
- 0 (at will)—*dancing lights*, *daze* (DC 12), *flare* (DC 12), *ghost sound* (DC 12), *message*
+1st (3/day)—*[alarm](../../magic/spells/alarm.md)*, *[grease](../../magic/spells/grease.md)* (DC 13), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 13)  
+ 0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze](../../magic/spells/daze.md)* (DC 12), *[flare](../../magic/spells/flare.md)* (DC 12), *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 12), *[message](../../magic/spells/message.md)*
 
 **Statistics**
 

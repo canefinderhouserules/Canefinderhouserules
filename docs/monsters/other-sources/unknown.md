@@ -22,13 +22,13 @@ NE Medium fey (augmented humanoid)
 **Melee** 2 claws +10 (1d6-1)  
 **Special Attacks** bold stare (allure, disorientation), hypnotic stare (–3), manifold tricks (3), mental potency (+2), mesmerist tricks 12/day (astounding avoidance, fearsome guise, mesmeric mirror, misdirection, spectral smoke, vanish arrow), painful stare (+5 or +3d6+5), psyche erosion (DC 22), victimize  
 **Spell-Like Abilities** (CL 10th; concentration +17)  
-At will—*blur* (self only), *ghost sound* (DC 17), *ventriloquism* (DC 18), *vocal alteration* (self only)  
+At will—*[blur](../../magic/spells/blur.md)* (self only), *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 17), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 18), *vocal alteration* (self only)  
 **Mesmerist Spells Known** (CL 10th; concentration +17)  
-4th (2/day)—*dominate person* (DC 22), *enervation*  
-3rd (4/day)—*confusion* (DC 21), *dispel magic*, *nondetection*,*scrying* (DC 20)  
-2nd (5/day)—*anticipate thoughts* (DC 19), *false life*,*glitterdust* (DC 19), *invisibility*, *silence* (DC 19)  
-1st (6/day)—*color spray* (DC 18), *discern next of kin* (DC 18), *ill omen*, *obscuring mist*, *silent image* (DC 18)  
-0 (at will)—*dancing lights*, *detect magic*, *mage hand*, *open/close*, *prestidigitation* (DC 17), *unwitting ally* (DC 18)
+4th (2/day)—*[dominate person](../../magic/spells/dominate-person.md)* (DC 22), *[enervation](../../magic/spells/enervation.md)*  
+3rd (4/day)—*[confusion](../../magic/spells/confusion.md)* (DC 21), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[nondetection](../../magic/spells/nondetection.md)*,*[scrying](../../magic/spells/scrying.md)* (DC 20)  
+2nd (5/day)—*[anticipate thoughts](../../magic/spells/anticipate-thoughts.md)* (DC 19), *[false life](../../magic/spells/false-life.md)*,*[glitterdust](../../magic/spells/glitterdust.md)* (DC 19), *[invisibility](../../magic/spells/invisibility.md)*, *[silence](../../magic/spells/silence.md)* (DC 19)  
+1st (6/day)—*[color spray](../../magic/spells/color-spray.md)* (DC 18), *[discern next of kin* ](../../magic/spells/discern-next-of-kin.md)(DC 18), *[ill omen](../../magic/spells/ill-omen.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[silent image](../../magic/spells/silent-image.md)* (DC 18)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)* (DC 17), *[unwitting ally](../../magic/spells/unwitting-ally.md)* (DC 18)
 
 **Statistics**
 

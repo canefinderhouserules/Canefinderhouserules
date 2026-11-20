@@ -21,9 +21,9 @@ LE Medium undead
 **Melee** mwk bastard sword +7 (1d10+3/19–20) or slam +5 (1d4+3)  
 **Special Attacks** death drink, unnerving gaze  
 **Spells Prepared** (CL 3rd; concentration +6)  
-2nd—*hold person* (DC 15), *spiritual weapon*, *touch of idiocy*<sup>D</sup> (DC 15)  
-1st—*cause fear* (DC 14), *command* (DC 14), *lesser confusion*<sup>D</sup> (DC 14), *protection from good*  
-0—*detect magic*, *guidance*, *read magic*, *resistance*  
+2nd—*[hold person](../../magic/spells/hold-person.md)* (DC 15), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*<sup>D</sup> (DC 15)  
+1st—*[cause fear](../../magic/spells/cause-fear.md)* (DC 14), *[command* ](../../magic/spells/command.md)(DC 14), *[lesser confusion](../../magic/spells/confusion-lesser.md)*<sup>D</sup> (DC 14), *[protection from good](../../magic/spells/protection-from-good.md)*  
+0—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** domain spell; **Domain** Madness
 
 **Statistics**

@@ -31,20 +31,20 @@ poison, sonic
 **Special Attacks** gaze, irresistible poison, poison, shattering
 shriek, snake independence, statue control, viper rod  
 **Spell-Like Abilities** (CL 20th; concentration +30)  
-Constant—*death ward, mind blank, true seeing* At will—*divination, flesh to stone* (DC 26), *greater shout* (DC 28), *stone shape*  
-3/day—*delayed blast fireball* (sonic damage) (DC 27), quickened *flesh to stone* (DC 26), *sonic thrust* (DC 25)  
+Constant—*death ward, mind blank, true seeing* At will—*divination, flesh to stone* (DC 26), *[greater shout](../../magic/spells/shout-greater.md)* (DC 28), *[stone shape](../../magic/spells/stone-shape.md)*  
+3/day—*[delayed blast fireball](../../magic/spells/delayed-blast-fireball.md)* (sonic damage) (DC 27), quickened *[flesh to stone](../../magic/spells/flesh-to-stone.md)* (DC 26), *[sonic thrust](../../magic/spells/sonic-thrust.md)* (DC 25)  
 1/day—*commune, wail of the banshee* (DC 29)  
 **Oracle Spells Known** (CL 18th; concentration +28)  
-9th (4)—*clashing rocks* (DC 29)  
+9th (4)—*[clashing rocks](../../magic/spells/clashing-rocks.md)* (DC 29)  
 8th (6)—*greater spell immunity, unholy aura* (DC 28)  
-7th (7)—*ethereal jaunt, greater scrying* (DC 27), *statue*  
+7th (7)—*ethereal jaunt, greater scrying* (DC 27), *[statue](../../magic/spells/statue.md)*  
 6th (8)—*greater dispel magic, heal, stone tell*  
 5th (8)—*life bubble, plane shift* (DC 25), *righteous might, slay living* (DC 25)  
 4th (8)—*air walk, cure serious wounds, divine power, freedom of movement*  
 3rd (8)—*dispel magic, invisibility purge, magic vestment, meld into stone*  
-2nd (9)—*cure moderate wounds, eagle’s splendor, resist energy, sound burst* (DC 22), *stone call*  
-1st (9)—*command* (DC 21), *cure light wounds, endure elements, sanctuary* (DC 21), *shield of faith*  
-0 (at will)—*bleed* (DC 20), *create water, detect magic, guidance, light, purify food and drink, resistance, stabilize, virtue*
+2nd (9)—*cure moderate wounds, eagle’s splendor, resist energy, sound burst* (DC 22), *[stone call](../../magic/spells/stone-call.md)*  
+1st (9)—*[command](../../magic/spells/command.md)* (DC 21), *cure light wounds, endure elements, sanctuary* (DC 21), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 20), *create water, detect magic, guidance, light, purify food and drink, resistance, stabilize, virtue*
 
 **Statistics**
 

@@ -22,9 +22,9 @@ LN Medium construct (automaton, extraplanar)
 **Melee** bite +10 (1d6+4 plus grab), 2 claws +10 (1d4+4)  
 **Special Attacks** pounce, rake (2 claws, 1d4+4)  
 **Spell-Like Abilities** (CL 6th; concentration +7)  
-At will—*dimension door*  
-1/day—*blur*, *invisibility*  
-1/week—*plane shift* (self plus 50 lbs. of objects only)
+At will—*[dimension door](../../magic/spells/dimension-door.md)*  
+1/day—*[blur](../../magic/spells/blur.md)*, *[invisibility](../../magic/spells/invisibility.md)*  
+1/week—*[plane shift](../../magic/spells/plane-shift.md)* (self plus 50 lbs. of objects only)
 
 **Statistics**
 

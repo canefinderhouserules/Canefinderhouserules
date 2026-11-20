@@ -20,8 +20,8 @@ CE Small fey
 **Melee** mwk dagger +9 (1d3+2/19–20)  
 **Special Attacks** breath weapon (15-ft. cone, 2d6 fire damage, Reflex DC 14 half, usable every 2d4 rounds), frightening gaze, vault, sneak attack +1d6  
 **Spell-Like Abilities** (CL 4th; concentration +5)  
-Constant—*feather fall*, *pass without trace*  
-1/day—*passwall*
+Constant—*[feather fall](../../magic/spells/feather-fall.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*  
+1/day—*[passwall](../../magic/spells/passwall.md)*
 
 **Statistics**
 

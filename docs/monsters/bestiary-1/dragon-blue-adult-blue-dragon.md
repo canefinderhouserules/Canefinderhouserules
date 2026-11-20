@@ -23,11 +23,11 @@ LE Huge dragon (earth)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (100-ft. line, DC 23, 12d8 electricity), crush, desert thirst (DC 21)  
 **Spell-Like Abilities** (CL 16th)  
-At will—*ghost sound* (DC 13), *minor image* (DC 15), *ventriloquism* (DC 14)  
+At will—*[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[minor image* ](../../magic/spells/minor-image.md)(DC 15), *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 14)  
 **Spells Known** (CL 5th)  
-2nd (5/day)—*invisibility*, *resist energy*  
-1st (7/day)—*alarm*, *mage armor*, *shield*, *true strike*  
-0 (at will)—*arcane mark*, *detect magic*, *mage hand*, *mending*, *read magic*, *resistance*
+2nd (5/day)—*[invisibility](../../magic/spells/invisibility.md)*, *[resist energy](../../magic/spells/resist-energy.md)*  
+1st (7/day)—*[alarm](../../magic/spells/alarm.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

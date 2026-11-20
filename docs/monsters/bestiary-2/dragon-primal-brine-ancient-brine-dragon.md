@@ -23,17 +23,17 @@ LN Huge dragon (extraplanar, water)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (100-ft. line, 20d6 acid, DC 27), capsize, crush, desiccating bite  
 **Spell-Like Abilities** (CL 22nd; concentration +27)  
-At will—*control water*, *obscuring mist*, *speak with animals* (fish only), *water breathing*  
-3/day—*horrid wilting* (DC 23)  
+At will—*[control water](../../magic/spells/control-water.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)* (fish only), *[water breathing](../../magic/spells/water-breathing.md)*  
+3/day—*[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 23)  
 **Spells Known** (CL 15th; concentration +20)  
-7th (4/day)—*control weather*, *mass fly*  
-6th (6/day)—*fluid form*, *true seeing*, *transformation*  
-5th (7/day)—*break enchantment*, *dismissal*, *teleport*, *wall of force*  
-4th (7/day)—*ball lightning* (DC 19), *ice storm*, *greater invisibility*, *solid fog*  
-3rd (7/day)—*aqueous orb* (DC 18), *deep slumber* (DC 18), *dispel magic*, *sleet storm* (DC 18)  
-2nd (7/day)—*alter self*, *detect thoughts* (DC 17), *invisibility*, *make whole*, *slipstream*  
-1st (8/day)—*color spray* (DC 16), *feather fall*, *flare burst* (DC 16), *ray of enfeeblement*, *touch of the sea*  
-0 (at will)—*arcane mark*, *detect magic*, *detect poison*, *mage hand*, *message*, *open/close*, *prestidigitation*, *read magic*, *resistance*
+7th (4/day)—*[control weather](../../magic/spells/control-weather.md)*, *[mass fly](../../magic/spells/fly-mass.md)*  
+6th (6/day)—*[fluid form](../../magic/spells/fluid-form.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[transformation](../../magic/spells/transformation.md)*  
+5th (7/day)—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[dismissal](../../magic/spells/dismissal.md)*, *[teleport](../../magic/spells/teleport.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th (7/day)—*[ball lightning](../../magic/spells/ball-lightning.md)* (DC 19), *[ice storm](../../magic/spells/ice-storm.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[solid fog](../../magic/spells/solid-fog.md)*  
+3rd (7/day)—*[aqueous orb](../../magic/spells/aqueous-orb.md)* (DC 18), *[deep slumber](../../magic/spells/deep-slumber.md)* (DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[sleet storm](../../magic/spells/sleet-storm.md)* (DC 18)  
+2nd (7/day)—*[alter self](../../magic/spells/alter-self.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17),[ *invisibility](../../magic/spells/invisibility.md)*, *[make whole](../../magic/spells/make-whole.md)*, *[slipstream](../../magic/spells/slipstream.md)*  
+1st (8/day)—*[color spray](../../magic/spells/color-spray.md)* (DC 16), *[feather fall](../../magic/spells/feather-fall.md)*, *[flare burst](../../magic/spells/flare-burst.md)* (DC 16), *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)*, *[touch of the sea](../../magic/spells/touch-of-the-sea.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

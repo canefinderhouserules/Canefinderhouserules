@@ -22,12 +22,12 @@ CE Medium humanoid (human, orc)
 **Melee** mwk greataxe +8 (1d12+3/×3) or 2 claws +7 (1d6+2)  
 **Special Attacks** breath weapon (60-foot line, 10d6 acid, DC 20, 1/day), claws (2, 1d6+2, treated as magic weapons, 7 rounds/day)  
 **Sorcerer Spells Known** (CL 10th; concentration +15)  
-5th (4/day)—*cloudkill* (DC 20)  
-4th (6/day)—*fear* (DC 19), *shout* (DC 21), *stoneskin*  
-3rd (7/day)—*fireball* (DC 20), *fly*, *rage*, *stinking cloud* (DC 18)  
-2nd (7/day)—*acid arrow*, *bull’s strength*, *false life*, *resist energy*, *scorching ray*  
-1st (8/day)—*burning hands* (DC 18), *endure elements*, *mage armor*, *magic missile*, *ray of enfeeblement* (DC 16), *shield*  
-0 (at will)—*acid splash*, *arcane mark*, *bleed* (DC 15), *detect magic*, *flare* (DC 17), *ray of frost*, *read magic*, *resistance*, *touch of fatigue* (DC 15)  
+5th (4/day)—*[cloudkill* ](../../magic/spells/cloudkill.md)(DC 20)  
+4th (6/day)—*[fear* ](../../magic/spells/fear.md)(DC 19), *[shout* ](../../magic/spells/shout.md)(DC 21), *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (7/day)—*[fireball* ](../../magic/spells/fireball.md)(DC 20), *[fly](../../magic/spells/fly.md)*, *[rage](../../magic/spells/rage.md)*, *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 18)  
+2nd (7/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[false life](../../magic/spells/false-life.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (8/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 18), *[endure elements](../../magic/spells/endure-elements.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 16), *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[arcane mark](../../magic/spells/arcane-mark.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 17), *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 15)  
 **Bloodline** draconic (black)
 
 **Tactics**

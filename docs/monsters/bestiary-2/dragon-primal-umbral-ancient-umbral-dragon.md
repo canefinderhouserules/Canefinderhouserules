@@ -23,17 +23,17 @@ CE Gargantuan dragon (extraplanar)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. cone, 20d8 neg. energy, DC 29), create shadows, crush, shadow breath (10 Str), tail sweep  
 **Spell-Like Abilities** (CL 25th; concentration +32)  
-At will—*darkness*, *project image*, *shadow walk*, *vampiric touch*  
-3/day—*finger of death* (DC 24)  
+At will—*[darkness](../../magic/spells/darkness.md)*, *[project image](../../magic/spells/project-image.md)*, *[shadow walk](../../magic/spells/shadow-walk.md)*, *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+3/day—*[finger of death](../../magic/spells/finger-of-death.md)* (DC 24)  
 **Spells Known** (CL 15th; concentration +22)  
-7th (5/day)—*destruction* (DC 24), *limited wish*  
-6th (7/day)—*harm* (DC 23), *mislead*, *veil* (DC 23)  
-5th (7/day)—*greater command* (DC 22), *slay living* (DC 22), *teleport*, *unhallow*  
-4th (7/day)—*enervation*, *inflict critical wounds* (DC 21), *phantasmal killer* (DC 21), *unholy blight* (DC 21)  
-3rd (8/day)—*dispel magic*, *haste*, *inflict serious wounds* (DC 20), *lightning bolt* (DC 20)  
-2nd (8/day)—*alter self*, *blur*, *command undead* (DC 19), *invisibility*, *web* (DC 17)  
-1st (8/day)—*inflict light wounds* (DC 18), *grease* (DC 18), *magic missile*, *reduce person* (DC 18), *shield*  
-0 (at will)—*acid splash*, *bleed* (DC 17), *detect magic*, *detect poison*, *disrupt undead* (DC 17), *ghost sound*, *mage hand*, *ray of frost*, *read magic*
+7th (5/day)—*[destruction](../../magic/spells/destruction.md)* (DC 24),[ *limited wish](../../magic/spells/limited-wish.md)*  
+6th (7/day)—*[harm](../../magic/spells/harm.md)* (DC 23), *[mislead](../../magic/spells/mislead.md)*, *[veil* ](../../magic/spells/veil.md)(DC 23)  
+5th (7/day)—*[greater command](../../magic/spells/command-greater.md)* (DC 22), *[slay living](../../magic/spells/slay-living.md)* (DC 22), *[teleport](../../magic/spells/teleport.md)*, *[unhallow](../../magic/spells/unhallow.md)*  
+4th (7/day)—*[enervation](../../magic/spells/enervation.md)*, *[inflict critical wounds](../../magic/spells/inflict-critical-wounds.md)* (DC 21), *[phantasmal killer](../../magic/spells/phantasmal-killer.md)* (DC 21), *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 21)  
+3rd (8/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*,[ *haste](../../magic/spells/haste.md)*, *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)* (DC 20), *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 20)  
+2nd (8/day)—*[alter self](../../magic/spells/alter-self.md)*, *[blur](../../magic/spells/blur.md)*, *[command undead](../../magic/spells/command-undead.md)* (DC 19), *[invisibility](../../magic/spells/invisibility.md)*, *[web* ](../../magic/spells/web.md)(DC 17)  
+1st (8/day)—*[inflict light wounds](../../magic/spells/inflict-light-wounds.md)* (DC 18), *[grease* ](../../magic/spells/grease.md)(DC 18), *[magic missile](../../magic/spells/magic-missile.md)*, *[reduce person](../../magic/spells/reduce-person.md)* (DC 18), *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 17), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)* (DC 17), *[ghost sound](../../magic/spells/ghost-sound.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

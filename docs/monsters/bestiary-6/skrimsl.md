@@ -32,8 +32,8 @@ whole (3d6+10 bludgeoning plus 2d6
 electricity damage, AC 18, 17 hp)  
 **Spell-Like Abilities** (CL 12th;
 concentration +16)  
-3/day—*lightning bolt* (DC 17)  
-1/day—*chain lightning* (DC 20)
+3/day—*[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 17)  
+1/day—*[chain lightning](../../magic/spells/chain-lightning.md)* (DC 20)
 
 **Statistics**
 

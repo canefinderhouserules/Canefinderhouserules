@@ -23,16 +23,16 @@ CE Medium humanoid (human)
 At will—dimensional steps (300 feet/day)  
 10/day—acid dart (1d6+5 acid)  
 **Conjurer Spells Prepared** (CL 20th; concentration +27)  
-9th—*dominate monster* (DC 28), *foresight*, quickened *hold monster* (DC 24), *prismatic wall*, *summon monster IX*  
-8th—*maze* (2), *moment of prescience*, *summon monster VIII* (2)  
-7th—*banishment* (DC 24), quickened *displacement*, *mass hold person* (DC 26), *phase door*, *plane shift* (DC 26), *spell turning*  
-6th—*acid fog*, *chain lightning* (DC 23), *forceful hand*, *geas/quest*, quickened *glitterdust*, *mass suggestion* (DC 25)  
-5th—*cloudkill* (2, DC 24), *contact other plane*, *sending*, *teleport* (2)  
-4th—*confusion* (DC 23), *dimensional anchor*, *fire shield*, *greater invisibility*, *stoneskin*, *summon monster IV*  
-3rd—*arcane sight*, *dispel magic* (2), *fireball* (DC 20), *invisibility sphere*, *protection from energy*, *stinking cloud* (DC 22)  
-2nd—*acid arrow*, *detect thoughts* (DC 19), *invisibility* (2), *scorching ray*, *see invisibility*, *web* (DC 21)  
-1st—*alarm*, *charm person* (DC 20), *disguise self*, *floating disk*, *magic missile*, *protection from evil*, *unseen servant*  
-0 (at will)—*dancing lights*, *daze* (DC 19), *detect magic*, *ray of frost*  
+9th—*[dominate monster* ](../../magic/spells/dominate-monster.md)(DC 28), *[foresight](../../magic/spells/foresight.md)*, quickened *[hold monster* ](../../magic/spells/hold-monster.md)(DC 24), *[prismatic wall](../../magic/spells/prismatic-wall.md)*, *[summon monster IX](../../magic/spells/summon-monster-ix.md)*  
+8th—*[maze* ](../../magic/spells/maze.md)(2), *[moment of prescience](../../magic/spells/moment-of-prescience.md)*, *[summon monster VIII* ](../../magic/spells/summon-monster-viii.md)(2)  
+7th—*[banishment* ](../../magic/spells/banishment.md)(DC 24), quickened *[displacement](../../magic/spells/displacement.md)*, *[mass hold person* ](../../magic/spells/hold-person-mass.md)(DC 26), *[phase door](../../magic/spells/phase-door.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(DC 26), *[spell turning](../../magic/spells/spell-turning.md)*  
+6th—*[acid fog](../../magic/spells/acid-fog.md)*, *[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 23), *[forceful hand](../../magic/spells/forceful-hand.md)*, *[geas/quest](../../magic/spells/geas-quest.md)*, quickened *[glitterdust](../../magic/spells/glitterdust.md)*, *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 25)  
+5th—*[cloudkill* ](../../magic/spells/cloudkill.md)(2, DC 24), *[contact other plane](../../magic/spells/contact-other-plane.md)*, *[sending](../../magic/spells/sending.md)*, *[teleport* ](../../magic/spells/teleport.md)(2)  
+4th—*[confusion* ](../../magic/spells/confusion.md)(DC 23), *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[fire shield](../../magic/spells/fire-shield.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*, *[summon monster IV](../../magic/spells/summon-monster-iv.md)*  
+3rd—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[dispel magic* ](../../magic/spells/dispel-magic.md)(2), *[fireball* ](../../magic/spells/fireball.md)(DC 20), *[invisibility sphere](../../magic/spells/invisibility-sphere.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[stinking cloud* ](../../magic/spells/stinking-cloud.md)(DC 22)  
+2nd—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 19), *[invisibility* ](../../magic/spells/invisibility.md)(2), *[scorching ray](../../magic/spells/scorching-ray.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[web* ](../../magic/spells/web.md)(DC 21)  
+1st—*[alarm](../../magic/spells/alarm.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 20), *[disguise self](../../magic/spells/disguise-self.md)*, *[floating disk](../../magic/spells/floating-disk.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 19), *[detect magic](../../magic/spells/detect-magic.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*  
 **Opposition Schools** necromancy, transmutation
 
 **Tactics**

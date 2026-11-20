@@ -22,8 +22,8 @@ CE Medium outsider (chaotic, cold, demon, evil, extraplanar)
 **Melee** 2 slams +10 (1d6+4), bite +10 (1d6+4 plus bleed and 1d6 cold)  
 **Special Attacks** bleed 1d4, breath weapon (10-ft. cone, 3d6 cold, Reflex half DC 17, usable every 1d4 rounds), mutilating gouge, powerful charge (slam, 2d6+6)  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-3/day—*cause fear* (DC 13), *locate creature*, *teleport* (self plus 50 lbs. of objects only)  
-1/day—*righteous might*, *summon* (level 3, 1 andrazku 25%)
+3/day—*[cause fear](../../magic/spells/cause-fear.md)* (DC 13), *[locate creature](../../magic/spells/locate-creature.md)*, *[teleport](../../magic/spells/teleport.md)* (self plus 50 lbs. of objects only)  
+1/day—*[righteous might](../../magic/spells/righteous-might.md)*, *summon* (level 3, 1 andrazku 25%)
 
 **Statistics**
 

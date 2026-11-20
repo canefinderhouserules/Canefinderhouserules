@@ -22,7 +22,7 @@ LG Medium humanoid (human)
 **Ranged**  mwk composite longbow +8 (1d8+2/×3)  
 **Special Attacks** favored enemy (orcs +2)  
 **Ranger Spells Prepared** (CL 1st; concentration +2)  
-1st—*longstrider*
+1st—*[longstrider](../../magic/spells/longstrider.md)*
 
 **Tactics**
 

@@ -24,13 +24,13 @@ CE Medium humanoid (elf)
 **Ranged**  hand crossbow +5 (1d4/19–20 plus poison)  
 **Special Attacks** bleeding touch (6/day), channel negative energy (4/day, 2d6, DC 12), touch of chaos (6/day)  
 **Spell-Like Abilities** (CL 3rd)  
-Constant—*detect magic*  
-At will—*dancing lights*, *deeper darkness*, *faerie fire*, *feather fall*, *levitate*  
-1/day—*divine favor*, *dispel magic*, *suggestion* (DC 14)  
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[faerie fire](../../magic/spells/faerie-fire.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[levitate](../../magic/spells/levitate.md)*  
+1/day—*[divine favor](../../magic/spells/divine-favor.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 14)  
 **Spells Prepared** (CL 3rd)  
-2nd—*death knell*<sup>D</sup> (DC 15), *hold person* (DC 15), *silence* (DC 15)  
-1st—*bless*, *cause fear* (DC 14), *cure light wounds*, *protection from law*<sup>D</sup>  
-0—*bleed* (DC 13), *detect poison*, *read magic*, *resistance*  
+2nd—*[death knell](../../magic/spells/death-knell.md)*<sup>D</sup> (DC 15), *[hold person* ](../../magic/spells/hold-person.md)(DC 15), *[silence* ](../../magic/spells/silence.md)(DC 15)  
+1st—*[bless](../../magic/spells/bless.md)*, *[cause fear* ](../../magic/spells/cause-fear.md)(DC 14), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[protection from law](../../magic/spells/protection-from-law.md)*<sup>D</sup>  
+0—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[detect poison](../../magic/spells/detect-poison.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** domain spell; **Domains** Chaos, Death
 
 **Statistics**

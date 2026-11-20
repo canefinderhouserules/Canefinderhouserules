@@ -23,10 +23,10 @@ CE Colossal outsider (aquatic, chaotic, evil, extraplanar, qlippoth)
 **Space** 60 ft., **Reach** 60 ft. (plus prodigious reach)  
 **Special Attacks** blisterwomb, constrict (2d8+17 plus poison), create spawn, horrific appearance (DC 29)  
 **Spell-Like Abilities** (CL 23rd; concentration +29)  
-Constant—*cloak of chaos* (DC 24), *detect good, detect law, fly, freedom of movement, true seeing*  
-At will—*black tentacles*<sup>M</sup>, *cloudkill*<sup>M</sup> (DC 21), *control water, desecrate*<sup>M</sup>, *greater dispel magic, greater teleport*  
-3/day—*control plants* (DC 24), quickened *heal*<sup>M</sup>, *horrid wilting*<sup>M</sup> (DC 24), *plundered power* (DC 23), *vortex* (DC 23)  
-1/day—*tsunami*<sup>M</sup> (DC 25), *summon qlippoth*  
+Constant—*[cloak of chaos](../../magic/spells/cloak-of-chaos.md)* (DC 24), *detect good, detect law, fly, freedom of movement, true seeing*  
+At will—*[black tentacles](../../magic/spells/black-tentacles.md)*<sup>M</sup>, *[cloudkill](../../magic/spells/cloudkill.md)*<sup>M</sup> (DC 21), *control water, desecrate*<sup>M</sup>, *greater dispel magic, greater teleport*  
+3/day—*[control plants](../../magic/spells/control-plants.md)* (DC 24), quickened *[heal](../../magic/spells/heal.md)*<sup>M</sup>, *[horrid wilting](../../magic/spells/horrid-wilting.md)*<sup>M</sup> (DC 24), *[plundered power](../../magic/spells/plundered-power.md)* (DC 23), *[vortex](../../magic/spells/vortex.md)* (DC 23)  
+1/day—*[tsunami](../../magic/spells/tsunami.md)*<sup>M</sup> (DC 25), *summon qlippoth*  
 <sup>M</sup> Oaur-Ooung can use the mythic version of this ability within her sanctum.
 
 **Statistics**

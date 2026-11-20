@@ -23,12 +23,12 @@ CE Medium humanoid (elf, human)
 **Ranged**  *+1 composite longbow* +12/+7 (1d8+5/19–20/×3)  
 **Special Attacks** favored enemy (aquatic humanoids +4, humans +2)  
 **Ranger Spells Prepared** (CL 6th; concentration +8)  
-2nd—*barkskin*, *snare*  
-1st—*pass without trace*, *speak with animals* (2)
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[snare](../../magic/spells/snare.md)*  
+1st—*[pass without trace](../../magic/spells/pass-without-trace.md)*, *[speak with animals* ](../../magic/spells/speak-with-animals.md)(2)
 
 **Tactics**
 
-**Before Combat** The ranger casts *barkskin* and *pass without trace*.  
+**Before Combat** The ranger casts *[barkskin* ](../../magic/spells/barkskin.md)and *[pass without trace](../../magic/spells/pass-without-trace.md)*.  
 **During Combat** The ranger attacks from stealth using his bow. He might drag a Small opponent underwater, relying on Endurance to outlast his drowning foe (though he has his potion of water breathing just in case).  
 **Base Statistics** Without *barkskin*, the ranger’s statistics are **AC** 16, touch 12, flat-footed 15.
 

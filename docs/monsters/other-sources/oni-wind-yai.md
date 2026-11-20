@@ -23,10 +23,10 @@ LE Huge outsider (air, giant, native, oni, shapechanger)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** roaring gale  
 **Spell-Like Abilities** (CL 16th; concentration +21)  
-Constant—*cloak of winds*, *fly*  
-At will—*darkness*, *gaseous form*, *invisibility* (self only), *levitate*  
-3/day—*control weather*, quickened *shout* (DC 19), *wind wall*  
-1/day—*chain lightning* (DC 21), *whirlwind* (DC 23)
+Constant—*[cloak of winds](../../magic/spells/cloak-of-winds.md)*, *[fly](../../magic/spells/fly.md)*  
+At will—*[darkness](../../magic/spells/darkness.md)*, *[gaseous form](../../magic/spells/gaseous-form.md)*, *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[levitate](../../magic/spells/levitate.md)*  
+3/day—*[control weather](../../magic/spells/control-weather.md)*, quickened *[shout* ](../../magic/spells/shout.md)(DC 19), *[wind wall](../../magic/spells/wind-wall.md)*  
+1/day—*[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 21), *[whirlwind* ](../../magic/spells/whirlwind.md)(DC 23)
 
 **Statistics**
 

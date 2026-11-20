@@ -21,8 +21,8 @@ CE Medium undead
 **Melee** 1 bite +9 (1d6+3 plus paralysis), 2 claws +9 (1d6+3 plus paralysis) or incorporeal touch +10 (1d4 Con damage)  
 **Special Attacks** paralysis (1d4+1 rounds, DC 18)  
 **Spell-Like Abilities** (CL 9th; concentration +13)  
-At will—*bleed*, *ghost sound* (DC 14)  
-3/day—*alter self*, *charm person* (DC 15)
+At will—*[bleed](../../magic/spells/bleed.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14)  
+3/day—*[alter self](../../magic/spells/alter-self.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 15)
 
 **Statistics**
 

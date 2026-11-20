@@ -24,15 +24,15 @@ aging touch +21 (12d10)
 **Special Attacks** aging touch  
 **Spell-Like Abilities** (CL 16th; concentration +22;
 Wisdom-based)  
-At will—*greater teleport* (self only), *plane
-shift* (self only)  
+At will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self only), *[plane
+shift](../../magic/spells/plane-shift.md)* (self only)  
 **Psychic Magic** (CL 16th; concentration +22;
 Wisdom-based)  
-27 PE—*catatonia* (3 PE, DC 19), *cognitive
-block* (3 PE, DC 19), *divide mind* (9 PE),
-*mind thrust IV* (4 PE, DC 20), *remote
-viewing* (5 PE), *retrocognition* (5 PE),
-*unshakable zeal* (7 PE)
+27 PE—*[catatonia](../../magic/spells/catatonia.md)* (3 PE, DC 19), *[cognitive
+block](../../magic/spells/cognitive-block.md)* (3 PE, DC 19), *[divide mind](../../magic/spells/divide-mind.md)* (9 PE),
+*[mind thrust IV](../../magic/spells/mind-thrust-iv.md)* (4 PE, DC 20), *[remote
+viewing](../../magic/spells/remote-viewing.md)* (5 PE), *[retrocognition](../../magic/spells/retrocognition.md)* (5 PE),
+*[unshakable zeal](../../magic/spells/unshakable-zeal.md)* (7 PE)
 
 **Statistics**
 

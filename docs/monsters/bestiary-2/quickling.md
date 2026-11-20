@@ -22,7 +22,7 @@ CE Small fey
 **Melee** short sword +10 (1d4–1/19–20)  
 **Special Attacks** sneak attack +1d6  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-1/day—*dancing lights*, *flare* (DC 12), *levitate*, *shatter* (DC 14), *ventriloquism* (DC 13)
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[flare* ](../../magic/spells/flare.md)(DC 12), *[levitate](../../magic/spells/levitate.md)*, *[shatter* ](../../magic/spells/shatter.md)(DC 14), *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 13)
 
 **Statistics**
 

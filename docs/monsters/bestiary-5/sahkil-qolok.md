@@ -31,7 +31,7 @@ Constant—*mind blank, true seeing*
 
 At will—*air walk, calm emotions* (DC 19), *detect magic, detect good, greater dispel magic, greater teleport* (self plus 50 lbs. of objects only), *magic circle against good, suggestion* (DC 18)  
 
-3/day—*blink, deeper darkness, disintegrate* (DC 21), *mass suggestion* (DC 21), *nondetection*  
+3/day—*blink, deeper darkness, disintegrate* (DC 21), *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 21), *[nondetection](../../magic/spells/nondetection.md)*  
 
 1/day—*mind blank, plane shift* (DC 22), *summon* (level 7, 1d3 pakalchis 40%)
 

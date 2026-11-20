@@ -21,17 +21,17 @@ CG Large outsider (azata, chaotic, extraplanar, good)
 **Melee** 2 slams +19 (2d8+7)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
-Constant—*freedom of movement*, *nondetection*  
-At will—*alter self*  
-3/day—*dimension door*, *modify memory* (DC 17)  
-1/day—*greater teleport* (self plus 50 lbs. of objects only), *plane shift* (DC 21)  
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[nondetection](../../magic/spells/nondetection.md)*  
+At will—*[alter self](../../magic/spells/alter-self.md)*  
+3/day—*[dimension door](../../magic/spells/dimension-door.md)*, *[modify memory](../../magic/spells/modify-memory.md)* (DC 17)  
+1/day—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[plane shift](../../magic/spells/plane-shift.md)* (DC 21)  
 **Sorcerer Spells Known** (CL 11th; concentration +15)  
-5th (4/day)—*seeming*, *sending*, *symbol of pain* (DC 20), *symbol of sleep* (DC 20)  
-4th (7/day)—*confusion* (DC 18), *greater invisibility*, *scrying* (DC 18)  
-3rd (7/day)—*beast shape I*, *explosive runes* (DC 18), *glyph of warding* (DC 18), *haste*, *lightning bolt* (DC 17), *sepia snake sigil* (DC 18), *suggestion* (DC 17)  
-2nd (7/day)—*detect thoughts* (DC 16), *hypnotic pattern* (DC 16), *invisibility*, *scorching ray*, *see invisibility*  
-1st (7/day)—*erase*, *feather fall*, *hypnotism*, *silent image* (DC 15), *ventriloquism* (DC 15)  
-0 (at will)—*arcane mark*, *dancing lights*, *detect magic*, *detect poison*, *light*, *mage hand*, *message*, *prestidigitation*, *read magic*
+5th (4/day)—*[seeming](../../magic/spells/seeming.md)*, *[sending](../../magic/spells/sending.md)*, *[symbol of pain](../../magic/spells/symbol-of-pain.md)* (DC 20), *[symbol of sleep](../../magic/spells/symbol-of-sleep.md)* (DC 20)  
+4th (7/day)—*[confusion](../../magic/spells/confusion.md)* (DC 18), *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[scrying](../../magic/spells/scrying.md)* (DC 18)  
+3rd (7/day)—*[beast shape I](../../magic/spells/beast-shape-i.md)*, *[explosive runes](../../magic/spells/explosive-runes.md)* (DC 18), *[glyph of warding](../../magic/spells/glyph-of-warding.md)* (DC 18), *[haste](../../magic/spells/haste.md)*, *[lightning bolt](../../magic/spells/lightning-bolt.md)* (DC 17), *[sepia snake sigil](../../magic/spells/sepia-snake-sigil.md)* (DC 18), *[suggestion](../../magic/spells/suggestion.md)* (DC 17)  
+2nd (7/day)—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16), *[hypnotic pattern](../../magic/spells/hypnotic-pattern.md)* (DC 16), *[invisibility](../../magic/spells/invisibility.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (7/day)—*[erase](../../magic/spells/erase.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[hypnotism](../../magic/spells/hypnotism.md)*, *[silent image](../../magic/spells/silent-image.md)* (DC 15), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 15)  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

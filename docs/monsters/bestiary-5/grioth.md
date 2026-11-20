@@ -22,7 +22,7 @@ CE Medium monstrous humanoid
 **Melee** mwk kukri +3 (1d4+1/18–20 plus 1d4 nonlethal), bite –3 (1d6 plus poison)  
 **Special Attacks** mindshock, psychic weapons  
 **Psychic Magic (Sp)** (CL 1st; concentration +2)  
-6 PE—*daze monster* (2 PE, DC 13), *detect magic* (0 PE), *id insinuation I* (2 PE, DC 13), *mage hand* (0 PE), *open/close* (0 PE)
+6 PE—*[daze monster](../../magic/spells/daze-monster.md)* (2 PE, DC 13), *[detect magic](../../magic/spells/detect-magic.md)* (0 PE), *[id insinuation I](../../magic/spells/id-insinuation-i.md)* (2 PE, DC 13), *[mage hand](../../magic/spells/mage-hand.md)* (0 PE), *[open/close](../../magic/spells/open-close.md)* (0 PE)
 
 **Statistics**
 

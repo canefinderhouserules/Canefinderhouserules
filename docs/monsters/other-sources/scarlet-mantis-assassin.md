@@ -23,11 +23,11 @@ LE Medium humanoid (elf, human)
 **Ranged**  mwk hand crossbow +14 (1d4/19–20)  
 **Special Attacks** prayer attack* (DC 21), sneak attack +7d6  
 **Spell-Like Abilities** (CL 7th; concentration +9)  
-1/day—summon mantis (as *summon monster V*; advanced fiendish giant mantis, 1d3 fiendish giant mantises, or 1d4+1 giant mantises)  
+1/day—summon mantis (as *[summon monster V](../../magic/spells/summon-monster-v.md)*; advanced fiendish giant mantis, 1d3 fiendish giant mantises, or 1d4+1 giant mantises)  
 **Scarlet Mantis Assassin Spells Known** (CL 7th; concentration +9)  
-3rd (1)—*haste*, *keen edge*  
-2nd (4)—*bull’s strength*, *cat’s grace*, *invisibility*, *spider climb*  
-1st (5)—*disguise self*, *expeditious retreat*, *forced quiet* (DC 13), *jump*, *true strike*
+3rd (1)—*[haste](../../magic/spells/haste.md)*, *[keen edge](../../magic/spells/keen-edge.md)*  
+2nd (4)—*[bull’s strength](../../magic/spells/bulls-strength.md)*, *[cat’s grace](../../magic/spells/cats-grace.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[spider climb](../../magic/spells/spider-climb.md)*  
+1st (5)—*[disguise self](../../magic/spells/disguise-self.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[forced quiet](../../magic/spells/forced-quiet.md)* (DC 13), *[jump](../../magic/spells/jump.md)*, *[true strike](../../magic/spells/true-strike.md)*
 
 **Statistics**
 

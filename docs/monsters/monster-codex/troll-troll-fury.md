@@ -23,14 +23,14 @@ CE Large humanoid (giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** chosen prey (humans +2), fire bolt (1d6+3 fire, 6/day), rend (2 claws, 1d6+7), wild shape 2/day  
 **Druid Spells Prepared** (CL 6th; concentration +9)  
-3rd—*call lightning* (DC 18), *fireball* (DC 18), *poison* (2, DC 16)  
-2nd—*barkskin*, *bull’s strength*, *flaming sphere* (DC 17), *hold animal* (DC 15), *produce flame*<sup>D</sup>  
-1st—*burning hands*<sup>D</sup> (DC 16), *entangle* (DC 14), *magic fang*, *obscuring mist*, *pass without trace*  
-0 (at will)—*detect magic*, *guidance*, *read magic*, *resistance*
+3rd—*[call lightning](../../magic/spells/call-lightning.md)* (DC 18), *[fireball](../../magic/spells/fireball.md)* (DC 18), *[poison](../../magic/spells/poison.md)* (2, DC 16)  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[bull’s strength](../../magic/spells/bulls-strength.md)*, *[flaming sphere](../../magic/spells/flaming-sphere.md)* (DC 17), *[hold animal](../../magic/spells/hold-animal.md)* (DC 15), *[produce flame](../../magic/spells/produce-flame.md)*<sup>D</sup>  
+1st—*[burning hands](../../magic/spells/burning-hands.md)*<sup>D</sup> (DC 16), *[entangle](../../magic/spells/entangle.md)* (DC 14), *[magic fang](../../magic/spells/magic-fang.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Tactics**
 
-**During Combat** The fury attacks her foes with fire and electricity spells, typically starting with *fireball*. She avoids melee combat until her offensive spells are exhausted. She then casts *bull’s strength* on herself and starts attacking.
+**During Combat** The fury attacks her foes with fire and electricity spells, typically starting with *[fireball](../../magic/spells/fireball.md)*. She avoids melee combat until her offensive spells are exhausted. She then casts *[bull’s strength](../../magic/spells/bulls-strength.md)* on herself and starts attacking.
 
 **Statistics**
 

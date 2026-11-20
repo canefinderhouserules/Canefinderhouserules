@@ -22,7 +22,7 @@ CE Medium ooze (blight)
 **Space** 5 ft., **Reach** 20 ft.  
 **Special Attacks** irradiate domain  
 **Spell-Like Abilities** (CL 19th; concentration +26)  
-1/day—*blight* (DC 22), *command plants* (DC 21), *dominate monster* (aberrations, animals, and magical beasts only, DC 26), *greater curse terrain, hallucinatory terrain* (DC 21), *hungry pit* (DC 22)
+1/day—*[blight](../../magic/spells/blight.md)* (DC 22), *[command plants](../../magic/spells/command-plants.md)* (DC 21), *[dominate monster](../../magic/spells/dominate-monster.md)* (aberrations, animals, and magical beasts only, DC 26), *greater curse terrain, hallucinatory terrain* (DC 21), *[hungry pit](../../magic/spells/hungry-pit.md)* (DC 22)
 
 **Statistics**
 

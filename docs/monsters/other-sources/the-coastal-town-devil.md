@@ -22,8 +22,8 @@ NE Large outsider (native)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** bay, hellfire breath, kick, trample (2d6+9, DC 22)  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-At will—*fog cloud*, *gust of wind*, *pyrotechnics* (DC 15)  
-3/day—*dimension door*, *phantasmal killer* (DC 17)
+At will—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[gust of wind](../../magic/spells/gust-of-wind.md)*, *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 15)  
+3/day—*[dimension door](../../magic/spells/dimension-door.md)*, *[phantasmal killer* ](../../magic/spells/phantasmal-killer.md)(DC 17)
 
 **Statistics**
 

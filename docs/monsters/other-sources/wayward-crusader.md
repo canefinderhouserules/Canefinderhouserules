@@ -24,7 +24,7 @@ LG Medium humanoid (human)
 **Ranged**  javelin +4 (1d6+3)  
 **Special Attacks** channel positive energy (DC 15, 3d6), smite evil 2/day (+3 attack and AC, +5 damage)  
 **Paladin Spells Prepared** (CL 2nd; concentration +5)  
-1st—*bless weapon*, *lesser restoration*
+1st—*[bless weapon](../../magic/spells/bless-weapon.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)*
 
 **Statistics**
 

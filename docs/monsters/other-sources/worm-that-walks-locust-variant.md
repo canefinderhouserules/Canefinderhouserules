@@ -24,11 +24,11 @@ CE Medium vermin (augmented human)
 **Spell-Like Abilities** (CL 7th; concentration +12)  
 8/day—touch of evil (3 rounds)  
 **Cleric Spells Prepared** (CL 7th; concentration +12)  
-4th—*air walk*, *divine power*, *unholy blight*<sup>D</sup> (DC 19)  
-3rd—*contagion* (DC 18), *dispel magic*, *magic circle against good*<sup>D</sup>, *protection from energy*  
-2nd—*cure moderate wounds*, *darkness*, *hold person* (DC 17), *shatter*<sup>D</sup>, *spiritual weapon*  
-1st—*command* (DC 16), *cure light wounds*, *doom* (DC 16), *obscuring mist*, *protection from good*, *shield of faith*, *true strike*<sup>D</sup>  
-0 (at will)—*detect magic*, *guidance*, *read magic*, *resistance*  
+4th—*[air walk](../../magic/spells/air-walk.md)*, *[divine power](../../magic/spells/divine-power.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)*<sup>D</sup> (DC 19)  
+3rd—*[contagion](../../magic/spells/contagion.md)* (DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*<sup>D</sup>, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd—*[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[darkness](../../magic/spells/darkness.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 17), *[shatter](../../magic/spells/shatter.md)*<sup>D</sup>, *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[command](../../magic/spells/command.md)* (DC 16), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[doom](../../magic/spells/doom.md)* (DC 16), *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*, *[true strike](../../magic/spells/true-strike.md)*<sup>D</sup>  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **D** domain spell; **Domains** Destruction, Evil
 
 **Statistics**

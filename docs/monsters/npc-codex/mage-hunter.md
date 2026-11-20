@@ -23,14 +23,14 @@ CE Medium humanoid (human)
 **Ranged**  *+1 frost longbow* +27/+22/+17/+12 (1d8+1/19–20/×3 plus 1d6 cold)  
 **Special Attacks** favored enemy (elves +6, gnomes +2, humans +4, magical beasts +2)  
 **Ranger Spells Prepared** (CL 16th; concentration +18)  
-4th—*freedom of movement*, *nondetection*  
-3rd—*darkvision*, *neutralize poison*, *repel vermin*  
-2nd—*barkskin*, *bear’s endurance*, *protection from energy* (2)  
-1st—*delay poison*, *longstrider*, *resist energy* (3)
+4th—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[nondetection](../../magic/spells/nondetection.md)*  
+3rd—*[darkvision](../../magic/spells/darkvision.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[repel vermin](../../magic/spells/repel-vermin.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(2)  
+1st—*[delay poison](../../magic/spells/delay-poison.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[resist energy* ](../../magic/spells/resist-energy.md)(3)
 
 **Tactics**
 
-**Before Combat** The ranger casts *barkskin*, *bear’s endurance*, *darkvision*, *delay poison*, *freedom of movement*, *longstrider*, *nondetection*, *protection from energy* (electricity, fire), and *resist energy* (cold, electricity, fire).  
+**Before Combat** The ranger casts *[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[darkvision](../../magic/spells/darkvision.md)*, *[delay poison](../../magic/spells/delay-poison.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[nondetection](../../magic/spells/nondetection.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(electricity, fire), and *[resist energy* ](../../magic/spells/resist-energy.md)(cold, electricity, fire).  
 **During Combat** The ranger slays spellcasters with *bane* arrows. He rings his *chime of interruption* to hamper spellcasting.  
 **Base Statistics** Without *barkskin*, *bear’s endurance*, *darkvision*, *longstrider*, *nondetection*, *protection from energy*, and *resist energy*, the ranger’s statistics are **Senses** normal; **hp** 157; **Fort** +17; **Defensive Abilities** improved evasion; **Immune** none; **Resist** none; **Speed** 30 ft.; **Con** 14; **Skills** Acrobatics +22.
 

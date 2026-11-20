@@ -20,8 +20,8 @@ LE Medium humanoid (syrinx)
 **Speed** 30 ft., fly 60 ft. (average)  
 **Melee** quarterstaff –1 (1d6–1)  
 **Adept Spells Prepared** (CL 1st; concentration +3)  
-1st—*command* (DC 13)  
-0—*detect magic*, *ghost sound* (DC 12), *read magic*, *stabilize*
+1st—*[command* ](../../magic/spells/command.md)(DC 13)  
+0—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 12), *[read magic](../../magic/spells/read-magic.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

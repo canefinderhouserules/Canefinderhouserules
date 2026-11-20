@@ -22,7 +22,7 @@ N Large magical beast
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** implant  
 **Spell-Like Abilities** (CL 10th; concentration +10)  
-Constant—*freedom of movement*
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*
 
 **Statistics**
 

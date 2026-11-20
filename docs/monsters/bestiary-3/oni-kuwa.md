@@ -21,8 +21,8 @@ LE Medium outsider (human, native, oni, shapechanger)
 **Melee** mwk greatclub +10 (1d10+6) or 2 claws +9 (1d6+4)  
 **Ranged**  mwk composite longbow +9 (1d8+4/×3)  
 **Spell-Like Abilities** (CL 5th; concentration +8)  
-3/day—*darkness*, *fly*  
-1/day—*charm person* (DC 14), *deep slumber* (DC 16), *invisibility* (self only)
+3/day—*[darkness](../../magic/spells/darkness.md)*, *[fly](../../magic/spells/fly.md)*  
+1/day—*[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 16), *[invisibility* ](../../magic/spells/invisibility.md)(self only)
 
 **Statistics**
 

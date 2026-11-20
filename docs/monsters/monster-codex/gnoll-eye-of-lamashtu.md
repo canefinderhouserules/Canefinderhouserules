@@ -24,9 +24,9 @@ CE Medium humanoid (gnoll)
 **Spell-Like Abilities** (CL 4th; concentration +7)  
 6/day—copycat (4 rounds), strength surge (+2)  
 **Cleric Spells Prepared** (CL 4th; concentration +7)  
-2nd—*death knell* (DC 15), *dread bolt* (DC 15), *hold person* (DC 15), *invisibility*<sup>D</sup>  
-1st—*bane* (DC 14), *doom* (DC 14), *enlarge person*<sup>D</sup> (DC 14), *entropic shield*, *ray of sickening* (DC 14)  
-0 (at will)—*bleed* (DC 13), *guidance*, *resistance*, *stabilize*  
+2nd—*[death knell](../../magic/spells/death-knell.md)* (DC 15), *[dread bolt](../../magic/spells/dread-bolt.md)* (DC 15), *[hold person](../../magic/spells/hold-person.md)* (DC 15), *[invisibility](../../magic/spells/invisibility.md)*<sup>D</sup>  
+1st—*[bane](../../magic/spells/bane.md)* (DC 14), *[doom](../../magic/spells/doom.md)* (DC 14), *[enlarge person](../../magic/spells/enlarge-person.md)*<sup>D</sup> (DC 14), *[entropic shield](../../magic/spells/entropic-shield.md)*, *[ray of sickening](../../magic/spells/ray-of-sickening.md)* (DC 14)  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *[guidance](../../magic/spells/guidance.md)*, *[resistance](../../magic/spells/resistance.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** domain spell; **Domains** Strength, Trickery
 
 **Statistics**

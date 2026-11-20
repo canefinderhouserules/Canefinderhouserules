@@ -24,9 +24,9 @@ LG Medium humanoid (human)
 **Ranged**  javelin +8 (1d6+3)  
 **Special Attacks** channel positive energy (DC 15, 3d6), favored enemy (undead +2), smite evil 2/day (+3 attack and AC, +5 damage)  
 **Spell-Like Abilities** (CL 5th; concentration +8)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 2nd; concentration +5)  
-1st—*bless weapon*, *detect undead*
+1st—*[bless weapon](../../magic/spells/bless-weapon.md)*, *[detect undead](../../magic/spells/detect-undead.md)*
 
 **Statistics**
 

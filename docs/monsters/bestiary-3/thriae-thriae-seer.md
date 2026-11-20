@@ -21,10 +21,10 @@ LN Medium monstrous humanoid
 **Melee** *+2 quarterstaff* +16/+11/+6 (1d6+4), *+2 quarterstaff* +16/+11 (1d6+3), sting +11 (1d8+1 plus mind sting)  
 **Special Attacks** merope consumption  
 **Spell-Like Abilities** (CL 14th; concentration +22)  
-Constant—*detect secret doors*  
-At will—*calm emotions* (DC 20), *detect thoughts* (DC 20), *sound burst* (DC 20)  
-3/day—*divination*, *invisibility purge*, *locate object*, *misdirection* (DC 20), *symbol of sleep* (DC 23)  
-1/day—summon bees (level 5, 1d3 giant queen bees or 1d4 wasp swarms), *true seeing*
+Constant—*[detect secret doors](../../magic/spells/detect-secret-doors.md)*  
+At will—*[calm emotions* ](../../magic/spells/calm-emotions.md)(DC 20), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 20), *[sound burst* ](../../magic/spells/sound-burst.md)(DC 20)  
+3/day—*[divination](../../magic/spells/divination.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[locate object](../../magic/spells/locate-object.md)*, *[misdirection* ](../../magic/spells/misdirection.md)(DC 20), *[symbol of sleep* ](../../magic/spells/symbol-of-sleep.md)(DC 23)  
+1/day—summon bees (level 5, 1d3 giant queen bees or 1d4 wasp swarms), *[true seeing](../../magic/spells/true-seeing.md)*
 
 **Statistics**
 

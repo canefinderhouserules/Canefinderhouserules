@@ -23,13 +23,13 @@ NE Medium outsider (native)
 **Ranged**  dagger +11 (1d4+6/19–20)  
 **Special Attacks** arcane pool (+2, 7 points), blood drain (1 Con), magus arcana (empowered magic, lingering pain), spell combat, spell recall, spellstrike, strength damage  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-At will—*feather fall*  
-3/day—*align weapon*, *death knell* (DC 12), *ray of enfeeblement* (DC 12)  
+At will—*[feather fall](../../magic/spells/feather-fall.md)*  
+3/day—*[align weapon](../../magic/spells/align-weapon.md)*, *[death knell](../../magic/spells/death-knell.md)* (DC 12), *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 12)  
 **Magus Spells Prepared** (CL 7th; concentration +11)  
-3rd—*dispel magic*, *haste*  
-2nd—*glitterdust* (DC 16), *scorching ray*, *shatter* (DC 16), *spider climb*  
-1st—*shield*, *shocking grasp* (2), *true strike*, *vanish* (DC 15)  
-0 (at will)—*daze* (DC 14), *detect magic*, *ghost sound* (DC 14), *mage hand*, *read magic*
+3rd—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[haste](../../magic/spells/haste.md)*  
+2nd—*[glitterdust](../../magic/spells/glitterdust.md)* (DC 16), *[scorching ray](../../magic/spells/scorching-ray.md)*, *[shatter](../../magic/spells/shatter.md)* (DC 16), *[spider climb](../../magic/spells/spider-climb.md)*  
+1st—*[shield](../../magic/spells/shield.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)* (2), *[true strike](../../magic/spells/true-strike.md)*, *[vanish](../../magic/spells/vanish.md)* (DC 15)  
+0 (at will)—*[daze](../../magic/spells/daze.md)* (DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 14), *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

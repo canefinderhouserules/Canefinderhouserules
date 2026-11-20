@@ -22,14 +22,14 @@ N Medium humanoid (elf, human)
 **Ranged**  *+2 longbow* +21/+16 (1d8+2/×3)  
 **Special Attacks** bardic performance 19 rounds/day (move action; countersong, distraction, fascinate, inspire competence +3, inspire courage +2, suggestion), enhance arrows (elemental, magic), imbue arrow, seeker arrow (1/day).  
 **Bard Spells Known** (CL 10th; concentration +13)  
-4th (1/day)—*greater invisibility*, *shout* (DC 17)  
- 3rd (4/day)—*charm monster* (DC 16), *crushing despair* (DC 16), *cure serious wounds* (DC 16), *deep slumber* (DC 16)  
- 2nd (5/day)—*cat's grace*, *eagle's splendor*, *invisibility*, *shatter*, *silence* (DC 15)  
- 1st (6/day)—*charm person* (DC 14), *feather fall*, *grease*, *lesser confusion* (DC 14), *unseen servant*  
- 0 (at will)—*dancing lights*, *detect magic*, *flare* (DC 13), *mage hand*, *mending*, *prestidigitation*  
+4th (1/day)—*[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[shout* ](../../magic/spells/shout.md)(DC 17)  
+ 3rd (4/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 16), *[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 16), *[cure serious wounds* ](../../magic/spells/cure-serious-wounds.md)(DC 16), *[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 16)  
+ 2nd (5/day)—*[cat's grace](../../magic/spells/cats-grace.md)*, *[eagle's splendor](../../magic/spells/eagles-splendor.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[shatter](../../magic/spells/shatter.md)*, *[silence* ](../../magic/spells/silence.md)(DC 15)  
+ 1st (6/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[feather fall](../../magic/spells/feather-fall.md)*, *[grease](../../magic/spells/grease.md)*, *[lesser confusion* ](../../magic/spells/confusion-lesser.md)(DC 14), *[unseen servant](../../magic/spells/unseen-servant.md)*  
+ 0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*  
 **Sorcerer Spells Known**(CL 2nd; concentration +5; arcane spell failure 20%)  
-1st (5/day)—*magic missile*, *true strike*  
-0 (at will)—*arcane mark*, *daze* (DC 13), *ghost sound* (DC 13), *open/close*, *read magic*  
+1st (5/day)—*[magic missile](../../magic/spells/magic-missile.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[daze* ](../../magic/spells/daze.md)(DC 13), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 13), *[open/close](../../magic/spells/open-close.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** arcane
 
 **Tactics**

@@ -22,7 +22,7 @@ CN Medium humanoid
 **Ranged**  *+1 composite longbow* +12/+7 (1d8+2/×3)  
 **Special Attacks** favored enemy (giants +4, humans +2)  
 **Ranger Spells Prepared** (CL 3rd; concentration +4)  
-1st—*animal messenger*, *resist energy*
+1st—*[animal messenger](../../magic/spells/animal-messenger.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Statistics**
 

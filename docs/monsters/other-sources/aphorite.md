@@ -21,7 +21,7 @@ LN Medium outsider (native)
 **Speed** 30 ft.  
 **Melee** cold iron warhammer +5 (1d8+3/×3)  
 **Spell-Like Abilities** (CL 1st; concentration +0)  
-1/day—*protection from chaos*
+1/day—*[protection from chaos](../../magic/spells/protection-from-chaos.md)*
 
 **Statistics**
 

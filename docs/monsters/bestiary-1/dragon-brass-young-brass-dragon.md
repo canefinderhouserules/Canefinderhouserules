@@ -23,10 +23,10 @@ CG Medium dragon (fire)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. line, DC 17, 6d4 fire), sleep breath  
 **Spell-Like Abilities** (CL 8th)  
-At will—*speak with animals*  
+At will—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Spells Known** (CL 1st)  
-1st (4/day)—*charm person* (DC 13), *comprehend languages*  
-0 (at will)—*dancing lights*, *detect magic*, *mage hand*, *message*
+1st (4/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 13), *[comprehend languages](../../magic/spells/comprehend-languages.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*
 
 **Statistics**
 

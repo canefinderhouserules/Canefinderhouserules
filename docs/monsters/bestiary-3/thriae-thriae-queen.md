@@ -22,10 +22,10 @@ LN Huge monstrous humanoid
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** launch merope, spawn soldiers  
 **Spell-Like Abilities** (CL 20th; concentration +29)  
-Constant—*detect secret doors*, *true seeing*  
-At will—*daylight*, *detect thoughts* (DC 21), *greater scrying* (DC 26), *neutralize poison*, *remove disease*, *speak with dead* (DC 22)  
-3/day—*charm monster* (DC 23), *find the path*, *giant vermin* (8 bees or 6 wasps), *mass cure critical wounds*, *poison*  (DC 23), *restoration*, quickened *slow* (DC 22)  
-1/day—*foresight*, *mass heal*, *regenerate*
+Constant—*[detect secret doors](../../magic/spells/detect-secret-doors.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[daylight](../../magic/spells/daylight.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 21), *[greater scrying* ](../../magic/spells/scrying-greater.md)(DC 26), *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[remove disease](../../magic/spells/remove-disease.md)*, *[speak with dead* ](../../magic/spells/speak-with-dead.md)(DC 22)  
+3/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 23), *[find the path](../../magic/spells/find-the-path.md)*, *[giant vermin* ](../../magic/spells/giant-vermin.md)(8 bees or 6 wasps), *[mass cure critical wounds](../../magic/spells/cure-critical-wounds-mass.md)*, *[poison* ](../../magic/spells/poison.md) (DC 23), *[restoration](../../magic/spells/restoration.md)*, quickened *[slow* ](../../magic/spells/slow.md)(DC 22)  
+1/day—*[foresight](../../magic/spells/foresight.md)*, *[mass heal](../../magic/spells/heal-mass.md)*, *[regenerate](../../magic/spells/regenerate.md)*
 
 **Statistics**
 

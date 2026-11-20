@@ -23,8 +23,8 @@ NG Large monstrous humanoid
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** channel positive energy 3/day (DC 13, 1d6), hex (ward)  
 **Shaman Spells Prepared** (CL 2nd; concentration +6)  
-1st—*detect undead*<sup>S</sup>, *entangle* (DC 15), *goodberry*, *sleep* (DC 15)  
-0 (at will)—*detect poison*, *guidance*, *purify food and drink* (DC 14), *resistance*  
+1st—*[detect undead](../../magic/spells/detect-undead.md)*<sup>S</sup>, *[entangle](../../magic/spells/entangle.md)* (DC 15), *[goodberry](../../magic/spells/goodberry.md)*, *[sleep](../../magic/spells/sleep.md)* (DC 15)  
+0 (at will)—*[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)* (DC 14), *[resistance](../../magic/spells/resistance.md)*  
 **S** spirit magic spell; **Spirit** Life
 
 **Statistics**

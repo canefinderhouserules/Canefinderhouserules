@@ -30,10 +30,10 @@ fire, petrification; **Resist** electricity 30; **SR** 37
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** burning wings, devil’s end, smite evil (7/day)  
 **Spell-Like Abilities** (CL 26th; concentration +35)  
-Constant—*detect evil, holy aura* (DC 27), *true seeing*  
+Constant—*detect evil, holy aura* (DC 27), *[true seeing](../../magic/spells/true-seeing.md)*  
 At will—*bestow grace, fire of judgment* (DC 22), *greater dispel magic, greater teleport, holy word*<sup>M</sup> (DC 26), *geas/ quest, mark of justice, shield other*<sup>M</sup>  
-3/day—*banishment* (DC 26), quickened *blade barrier*<sup>M</sup> (DC 25), *blessing of fervor, discern location, heal*<sup>M</sup>  
-1/day—*gate, meteor swarm*<sup>M</sup> (DC 28), *time stop*<sup>M</sup>  
+3/day—*[banishment](../../magic/spells/banishment.md)* (DC 26), quickened *[blade barrier](../../magic/spells/blade-barrier.md)*<sup>M</sup> (DC 25), *blessing of fervor, discern location, heal*<sup>M</sup>  
+1/day—*gate, meteor swarm*<sup>M</sup> (DC 28), *[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>  
 <sup>M</sup> the angel of vengeance can use this ability’s mythic version in his realm.
 
 **Statistics**

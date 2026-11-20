@@ -22,10 +22,10 @@ NE Large outsider (daemon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft. (20 ft. with whip arms)  
 **Special Attacks** constrict (1d8+4), damning scourge, dead tired, enslave (DC 18)  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-Constant—*deathwatch*  
-At Will—*greater teleport* (self plus 50 lbs. only)  
-3/day—*heroism*, *waves of fatigue* (DC 18)  
-1/day—*temporary resurrection*
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*  
+At Will—*[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. only)  
+3/day—*[heroism](../../magic/spells/heroism.md)*, *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)* (DC 18)  
+1/day—*[temporary resurrection](../../magic/spells/temporary-resurrection.md)*
 
 **Statistics**
 

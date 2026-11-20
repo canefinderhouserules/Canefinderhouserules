@@ -20,9 +20,9 @@ NE Small humanoid (gray)
 **Melee** touch +2 (sensory overload)  
 **Special Attacks** probe, sleep paralysis (DC 16)  
 **Spell-Like Abilities** (CL 5th; concentration +9)  
-Constant—*blink*  
+Constant—*[blink](../../magic/spells/blink.md)*  
 **Psychic Magic** (CL 5th, concentration +9)  
-7 PE—*anticipate thoughts* (2 PE, DC 16), *mind thrust II* (2 PE, DC 16), *sleep* (1 PE, DC 15)
+7 PE—*[anticipate thoughts](../../magic/spells/anticipate-thoughts.md)* (2 PE, DC 16), *[mind thrust II](../../magic/spells/mind-thrust-ii.md)* (2 PE, DC 16), *[sleep](../../magic/spells/sleep.md)* (1 PE, DC 15)
 
 **Statistics**
 

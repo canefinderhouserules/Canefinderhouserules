@@ -21,11 +21,11 @@ LN Medium outsider (native)
 **Speed** 30 ft.  
 **Melee** longsword +0 (1d8/19–20)  
 **Spell-Like Abilities** (CL 1st; concentration +4)  
-1/day—*suggestion* (DC 16)  
+1/day—*[suggestion](../../magic/spells/suggestion.md)* (DC 16)  
 **Oracle Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*command* (DC 14), *cure light wounds, summon monster I*  
+1st (4/day)—*[command](../../magic/spells/command.md)* (DC 14), *cure light wounds, summon monster I*  
 
-0 (at will)—*bleed* (DC 13), *create water, detect magic, ghost sound* (DC 13), *mage hand, stabilize*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 13), *create water, detect magic, ghost sound* (DC 13), *mage hand, stabilize*  
 
 **Mystery** heavens
 

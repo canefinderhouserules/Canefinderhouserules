@@ -23,7 +23,7 @@ NE Medium outsider (native)
 **Ranged**  light crossbow +3 (1d8/19–20)  
 **Special Attacks** sneak attack +1d6  
 **Spell-Like Abilities** (CL 1st)  
-1/day—*darkness*
+1/day—*[darkness](../../magic/spells/darkness.md)*
 
 **Statistics**
 

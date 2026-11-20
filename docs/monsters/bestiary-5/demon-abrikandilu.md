@@ -23,7 +23,7 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Ranged**  improvised weapon +5 (1d6+2)  
 **Special Attacks** destructive attacks, mutilation  
 **Spell-Like Abilities** (CL 5th; concentration +6)  
-3/day—*cause fear* (DC 12), *shatter* (DC 13)  
+3/day—*[cause fear](../../magic/spells/cause-fear.md)* (DC 12), *[shatter](../../magic/spells/shatter.md)* (DC 13)  
 1/day—summon (level 1, 1 abrikandilu 50%)
 
 **Statistics**

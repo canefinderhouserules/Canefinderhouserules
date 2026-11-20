@@ -22,22 +22,22 @@ N Large outsider (aeon, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** sphere of creation, sphere of oblivion  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-At will—*create food and water*, *mending*, *rusting grasp* (DC 21), *stone shape*, *wood shape* (DC 19)  
-7/day—*fabricate*, *plant growth*, *sculpt sound*, *shout* (DC 21)  
-5/day—*break enchantment*, *daylight*, *deeper darkness*, *freedom of movement*, *major creation*  
-3/day—*disintegrate* (DC 23), *horrid wilting* (DC 25)  
-1/day—*mage’s disjunction* (DC 26), *wish* (DC 26)  
+At will—*[create food and water](../../magic/spells/create-food-and-water.md)*, *[mending](../../magic/spells/mending.md)*, *[rusting grasp](../../magic/spells/rusting-grasp.md)* (DC 21), *[stone shape](../../magic/spells/stone-shape.md)*, *[wood shape](../../magic/spells/wood-shape.md)* (DC 19)  
+7/day—*[fabricate](../../magic/spells/fabricate.md)*, *[plant growth](../../magic/spells/plant-growth.md)*, *[sculpt sound](../../magic/spells/sculpt-sound.md)*, *[shout](../../magic/spells/shout.md)* (DC 21)  
+5/day—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[daylight](../../magic/spells/daylight.md)*, *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[major creation](../../magic/spells/major-creation.md)*  
+3/day—*[disintegrate](../../magic/spells/disintegrate.md)* (DC 23), *[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 25)  
+1/day—*[mage’s disjunction](../../magic/spells/mages-disjunction.md)* (DC 26), *[wish](../../magic/spells/wish.md)* (DC 26)  
 **Cleric Spells Prepared** (CL 20th; concentration +30)  
-9th—*astral projection*, *gate*, *implosion* (3, DC 29)  
-8th—*cloak of chaos* (DC 28), *holy aura* (DC 28), *shield of law* (DC 28), *summon monster VIII*, *unholy aura* (DC 28)  
-7th—*blasphemy* (DC 27), *destruction* (DC 27), *dictum* (DC 27), *holy word* (DC 27), *word of chaos* (DC 27)  
-6th—*banishment* (DC 26), *forbiddance* (DC 26), *geas*, *legend lore*, *repulsion* (DC 26), *veil* (DC 26)  
-5th—*contact other plane*, *dispel chaos* (DC 25), *dispel evil* (DC 25), *dispel good* (DC 25), *dispel law* (DC 25), *teleport*  
-4th—*chaos hammer* (DC 24), *holy smite* (DC 24), *order’s wraith* (DC 24), *restoration*, *scrying* (DC 24), *unholy blight* (DC 24)  
-3rd—*clairaudience/clairvoyance*, *magic circle against chaos*, *magic circle against evil*, *magic circle against good*, *magic circle against law*, *suggestion* (DC 23)  
-2nd—*align weapon*, *detect thoughts* (DC 22), *enthrall* (DC 22), *make whole*, *see invisibility*, *undetectable alignment*, *zone of truth* (DC 22)  
-1st—*detect chaos*, *detect evil*, *detect good*, *detect law*, *identify*, *magic aura*, *true strike*  
-0—*create water*, *detect magic*, *guidance*, *read magic*
+9th—*[astral projection](../../magic/spells/astral-projection.md)*, *[gate](../../magic/spells/gate.md)*, *[implosion](../../magic/spells/implosion.md)* (3, DC 29)  
+8th—*[cloak of chaos](../../magic/spells/cloak-of-chaos.md)* (DC 28), *[holy aura](../../magic/spells/holy-aura.md)* (DC 28), *[shield of law](../../magic/spells/shield-of-law.md)* (DC 28), *[summon monster VIII](../../magic/spells/summon-monster-viii.md)*, *[unholy aura](../../magic/spells/unholy-aura.md)* (DC 28)  
+7th—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 27), *[destruction](../../magic/spells/destruction.md)* (DC 27), *[dictum](../../magic/spells/dictum.md)* (DC 27), *[holy word](../../magic/spells/holy-word.md)* (DC 27), *[word of chaos](../../magic/spells/word-of-chaos.md)* (DC 27)  
+6th—*[banishment](../../magic/spells/banishment.md)* (DC 26),[ *forbiddance](../../magic/spells/forbiddance.md)* (DC 26), *[geas](../../magic/spells/geas-quest.md)*, *[legend lore](../../magic/spells/legend-lore.md)*, *[repulsion](../../magic/spells/repulsion.md)* (DC 26), *[veil](../../magic/spells/veil.md)* (DC 26)  
+5th—*[contact other plane](../../magic/spells/contact-other-plane.md)*, *[dispel chaos](../../magic/spells/dispel-chaos.md)* (DC 25), *[dispel evil](../../magic/spells/dispel-evil.md)* (DC 25), *[dispel good](../../magic/spells/dispel-good.md)* (DC 25), *[dispel law](../../magic/spells/dispel-law.md)* (DC 25), *[teleport](../../magic/spells/teleport.md)*  
+4th—*[chaos hammer](../../magic/spells/chaos-hammer.md)* (DC 24), *[holy smite](../../magic/spells/holy-smite.md)* (DC 24), *[order’s wraith](../../magic/spells/orders-wrath.md)* (DC 24), *[restoration](../../magic/spells/restoration.md)*,[ *scrying](../../magic/spells/scrying.md)* (DC 24), *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 24)  
+3rd—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[magic circle against chaos](../../magic/spells/magic-circle-against-chaos.md)*, *[magic circle against evil](../../magic/spells/magic-circle-against-evil.md)*, *[magic circle against good](../../magic/spells/magic-circle-against-good.md)*, *[magic circle against law](../../magic/spells/magic-circle-against-law.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 23)  
+2nd—*[align weapon](../../magic/spells/align-weapon.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 22), *[enthrall](../../magic/spells/enthrall.md)* (DC 22), *[make whole](../../magic/spells/make-whole.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[undetectable alignment](../../magic/spells/undetectable-alignment.md)*, *[zone of truth](../../magic/spells/zone-of-truth.md)* (DC 22)  
+1st—*[detect chaos](../../magic/spells/detect-chaos.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[identify](../../magic/spells/identify.md)*, *[magic aura](../../magic/spells/magic-aura.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0—*[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

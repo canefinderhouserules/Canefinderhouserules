@@ -23,9 +23,9 @@ NE Large undead (augmented monstrous humanoid)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with tendrils)  
 **Special Attacks** death burst, entrapping tendrils, seedborne consumption (DC 17), insidious mind, Wisdom drain  
 **Spell-Like Abilities** (CL 9th; concentration +12)  
-At will—*disguise self*, *ventriloquism* (DC 14)  
-3/day—*charm monster* (DC 17), *major image* (DC 16), *mirror image*, *suggestion* (DC 16)  
-1/day—*deep slumber* (DC 16)
+At will—*[disguise self](../../magic/spells/disguise-self.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 14)  
+3/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 17), *[major image* ](../../magic/spells/major-image.md)(DC 16), *[mirror image](../../magic/spells/mirror-image.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 16)  
+1/day—*[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 16)
 
 **Statistics**
 

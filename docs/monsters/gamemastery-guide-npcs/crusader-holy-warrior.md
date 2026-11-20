@@ -24,10 +24,10 @@ LG Medium humanoid
 **Ranged**  *+1 composite longbow* +11/+11/+6 (1d8+3/×3) or dagger +10 (1d4+2/19–20)  
 **Special Attacks** smite evil (3/day, +2 attack and AC, +7 damage)  
 **Spell-Like Abilities** (CL 7th; concentration +9)  
-At Will—*detect evil*  
+At Will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Paladin Spells Prepared** (CL 4th; concentration +6)  
-2nd—*eagle’s splendor*  
-1st—*bless weapon*, *divine favor*
+2nd—*[eagle’s splendor](../../magic/spells/eagles-splendor.md)*  
+1st—*[bless weapon](../../magic/spells/bless-weapon.md)*, *[divine favor](../../magic/spells/divine-favor.md)*
 
 **Statistics**
 

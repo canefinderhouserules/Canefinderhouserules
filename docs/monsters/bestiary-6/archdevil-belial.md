@@ -31,10 +31,10 @@ poison, polymorph effects; **Resist** acid 30, cold 30; **SR** 39
 **Special Attacks** fiendish fluttering, hedonistic hope,
 ranseur mastery  
 **Spell-Like Abilities** (CL 28th; concentration +41)  
-Constant—*detect chaos, detect good, mind blank, shield of law* (DC 31), *true seeing*  
-At will—*astral projection, baleful polymorph*<sup>M</sup> (DC 28), *desecrate*<sup>M</sup>, *dictum*<sup>M</sup> (DC 30), *dominate person*<sup>M</sup> (DC 28), *greater dispel magic, greater teleport, matchmaker* (DC 26), *modify memory*<sup>M</sup> (DC 27), *order’s wrath*<sup>M</sup> (DC 27), *unhallow*  
-3/day—*quickened mass suggestion* (DC 29), *prismatic spray*<sup>M</sup> (DC 30), *summon devils, sympathy* (DC 31), *waves of ecstasy* (DC 30)  
-1/day—*overwhelming presence* (DC 32), *time stop*<sup>M</sup>, *wish*<sup>M</sup>  
+Constant—*detect chaos, detect good, mind blank, shield of law* (DC 31), *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*astral projection, baleful polymorph*<sup>M</sup> (DC 28), *[desecrate](../../magic/spells/desecrate.md)*<sup>M</sup>, *[dictum](../../magic/spells/dictum.md)*<sup>M</sup> (DC 30), *[dominate person](../../magic/spells/dominate-person.md)*<sup>M</sup> (DC 28), *greater dispel magic, greater teleport, matchmaker* (DC 26), *[modify memory](../../magic/spells/modify-memory.md)*<sup>M</sup> (DC 27), *[order’s wrath](../../magic/spells/orders-wrath.md)*<sup>M</sup> (DC 27), *[unhallow](../../magic/spells/unhallow.md)*  
+3/day—*[quickened mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 29), *[prismatic spray](../../magic/spells/prismatic-spray.md)*<sup>M</sup> (DC 30), *summon devils, sympathy* (DC 31), *[waves of ecstasy](../../magic/spells/waves-of-ecstasy.md)* (DC 30)  
+1/day—*[overwhelming presence](../../magic/spells/overwhelming-presence.md)* (DC 32), *[time stop](../../magic/spells/time-stop.md)*<sup>M</sup>, *[wish](../../magic/spells/wish.md)*<sup>M</sup>  
 <sup>M</sup> Belial can use this ability’s mythic version in their realm.
 
 **Statistics**

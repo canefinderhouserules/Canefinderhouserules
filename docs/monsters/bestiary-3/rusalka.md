@@ -22,10 +22,10 @@ NE Medium fey (aquatic)
 **Space** 5 ft., **Reach** 5 ft. (15 ft. with tresses)  
 **Special Attacks** beckoning call, constrict (2d6+7), tresses  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*blur*, *water walk*  
-At will—*entangle* (DC 18), *fog cloud*, *invisibility*  
-3/day—quickened *charm monster* (DC 21), *control water*  
-1/day—*summon nature’s ally VI* (water elementals only)
+Constant—*[blur](../../magic/spells/blur.md)*, *[water walk](../../magic/spells/water-walk.md)*  
+At will—*[entangle* ](../../magic/spells/entangle.md)(DC 18), *[fog cloud](../../magic/spells/fog-cloud.md)*, *[invisibility](../../magic/spells/invisibility.md)*  
+3/day—quickened *[charm monster* ](../../magic/spells/charm-monster.md)(DC 21), *[control water](../../magic/spells/control-water.md)*  
+1/day—*[summon nature’s ally VI* ](../../magic/spells/summon-natures-ally-vi.md)(water elementals only)
 
 **Statistics**
 

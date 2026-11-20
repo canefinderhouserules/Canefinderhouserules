@@ -25,7 +25,7 @@ slams +8 (1d3–3)
 attack +1d6  
 **Spell-Like Abilities** (CL 3rd;
 concentration +3)  
-3/day—*burning hands* (DC 12), *spark*
+3/day—*[burning hands](../../magic/spells/burning-hands.md)* (DC 12), *[spark](../../magic/spells/spark.md)*
 
 **Statistics**
 

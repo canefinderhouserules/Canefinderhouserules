@@ -23,8 +23,8 @@ N Medium humanoid (astomoi)
 **Melee** dagger -1 (1d4-1/19-20)  
 **Special Attacks** phrenic amplification (conjured armor), phrenic pool (3 points), physical push (+3, 3/day)  
 **Psychic Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*expeditious retreat*, *mind thrust* I(DC 14), *summon monster I*  
-0 (at will)—*daze* (DC 13), *flare* (DC 13), *grave words*, *telekinetic projectile*  
+1st (4/day)—*[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *mind thrust* I(DC 14), *[summon monster I](../../magic/spells/summon-monster-i.md)*  
+0 (at will)—*[daze](../../magic/spells/daze.md)* (DC 13), *[flare](../../magic/spells/flare.md)* (DC 13), *[grave words](../../magic/spells/grave-words.md)*, *[telekinetic projectile](../../magic/spells/telekinetic-projectile.md)*  
 **Psychic Discipline** self-perfection
 
 **Statistics**

@@ -22,7 +22,7 @@ CN Huge magical beast
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** powerful charge (gore, 4d8+30 plus 3d6 electricity), stampede, storming charge, trample (3d8+15 plus 3d6 sonic, DC 26)  
 **Spell-Like Abilities** (CL 12th; concentration +11)  
-Constant—*air walk*
+Constant—*[air walk](../../magic/spells/air-walk.md)*
 
 **Statistics**
 

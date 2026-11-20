@@ -22,7 +22,7 @@ NE Medium undead
 **Melee** 2 claws +10 (1d8+4)  
 **Special Attacks** teleporting burst  
 **Spell-Like Abilities** (CL 8th; concentration +10)  
-3/day—quickened *dimension door*
+3/day—quickened *[dimension door](../../magic/spells/dimension-door.md)*
 
 **Statistics**
 

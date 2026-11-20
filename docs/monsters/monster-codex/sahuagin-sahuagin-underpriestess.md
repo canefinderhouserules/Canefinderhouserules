@@ -25,9 +25,9 @@ LE Medium monstrous humanoid (aquatic)
 **Spell-Like Abilities** (CL 4th; concentration +8)  
 7/day—icicle (1d6+2 cold)  
 **Cleric Spells Prepared** (CL 4th; concentration +8)  
-2nd—*blood in the water*, *darkness*, *hold person* (DC 16), *shatter*<sup>D</sup> (DC 16)  
- 1st—*bless*, *cure light wounds*, *magic weapon*, *protection from good*, *true strike*<sup>D</sup>  
- 0 (at will)—*bleed* (DC 14), *detect magic*, *guidance*, *resistance*  
+2nd—*[blood in the water](../../magic/spells/blood-in-the-water.md)*, *[darkness](../../magic/spells/darkness.md)*, *[hold person](../../magic/spells/hold-person.md)* (DC 16), *[shatter](../../magic/spells/shatter.md)*<sup>D</sup> (DC 16)  
+ 1st—*[bless](../../magic/spells/bless.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[magic weapon](../../magic/spells/magic-weapon.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*, *[true strike](../../magic/spells/true-strike.md)*<sup>D</sup>  
+ 0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 14), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[resistance](../../magic/spells/resistance.md)*  
  **D** domain spell; **Domains** Destruction, Water
 
 **Statistics**

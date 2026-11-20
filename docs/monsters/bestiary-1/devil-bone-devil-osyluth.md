@@ -22,9 +22,9 @@ LE Large outsider (devil, evil, extraplanar, lawful)
 **Melee** bite +14 melee (1d8+5), 2 claws +14 melee (1d6+5), sting +14 melee (3d4+5 plus poison)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 12th)  
-Constant—*fly*  
-At will—*dimensional anchor*, *greater teleport* (self plus 50 lbs. of objects only), *invisibility* (self only), *major image* (DC 17), *wall of ice*  
-3/day—quickened *invisibility* (self only)  
+Constant—*[fly](../../magic/spells/fly.md)*  
+At will—*[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[major image* ](../../magic/spells/major-image.md)(DC 17), *[wall of ice](../../magic/spells/wall-of-ice.md)*  
+3/day—quickened *[invisibility* ](../../magic/spells/invisibility.md)(self only)  
 1/day—summon (level 4, 1 bone devil, 35%)
 
 **Statistics**

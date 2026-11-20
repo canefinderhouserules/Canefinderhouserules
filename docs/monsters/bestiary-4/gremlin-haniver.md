@@ -22,8 +22,8 @@ N Tiny fey (aquatic)
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** misplacement  
 **Spell-Like Abilities** (CL 1st; concentration +2)  
-At will—*prestidigitation*, *ventriloquism* (DC 12)  
-1/day—*scare* (DC 13)
+At will—*[prestidigitation](../../magic/spells/prestidigitation.md)*, *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 12)  
+1/day—*[scare](../../magic/spells/scare.md)* (DC 13)
 
 **Statistics**
 

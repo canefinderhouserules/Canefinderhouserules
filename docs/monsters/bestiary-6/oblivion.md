@@ -27,8 +27,8 @@ and grab)
 **Special Attacks** annihilation, constrict (4d8+24), servants of entropy  
 **Spell-Like Abilities** (CL 20th; concentration +25)  
 At will—*deeper darkness, disintegrate* (DC 21)  
-3/day—quickened *disintegrate* (DC 21)  
-1/day—*time stop*
+3/day—quickened *[disintegrate](../../magic/spells/disintegrate.md)* (DC 21)  
+1/day—*[time stop](../../magic/spells/time-stop.md)*
 
 **Statistics**
 

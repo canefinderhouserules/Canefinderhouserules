@@ -20,12 +20,12 @@ N Medium humanoid (kitsune, shapechanger)
 **Speed** 30 ft.  
 **Melee** bite –1 (1d4–1), mwk quarterstaff –5 (1d6–1)  
 **Spell-Like Abilities** (CL 1st; concentration +4)  
-3/day—*dancing lights*  
+3/day—*[dancing lights](../../magic/spells/dancing-lights.md)*  
 **Bloodline Spell-Like Abilities** (CL 1st; concentration +4)  
 6/day—laughing touch  
 **Sorcerer Spells Known** (CL 1st; concentration +4)  
-1st (4/day)—*charm person* (DC 15), *sleep* (DC 17)  
-0 (at will)—*daze*, *detect magic*, *prestidigitation*, *read magic*  
+1st (4/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 15), *[sleep](../../magic/spells/sleep.md)* (DC 17)  
+0 (at will)—*[daze](../../magic/spells/daze.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** fey
 
 **Statistics**

@@ -21,11 +21,11 @@ NE Tiny outsider (div, evil, extraplanar)
 **Melee** bite +9 (1d4–1 plus poison)  
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-Constant—*detect good*, *detect magic*  
-At will—*invisibility* (self only)  
-3/day—*charm person* (DC 13), *minor image* (DC 14)  
-1/day—*suggestion* (DC 15)  
-1/week—*commune* (CL 12th, 6 questions)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[invisibility* ](../../magic/spells/invisibility.md)(self only)  
+3/day—*[charm person* ](../../magic/spells/charm-person.md)(DC 13), *[minor image* ](../../magic/spells/minor-image.md)(DC 14)  
+1/day—*[suggestion* ](../../magic/spells/suggestion.md)(DC 15)  
+1/week—*[commune* ](../../magic/spells/commune.md)(CL 12th, 6 questions)
 
 **Statistics**
 

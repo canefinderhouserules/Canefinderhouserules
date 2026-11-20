@@ -22,10 +22,10 @@ CN Huge fey
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** poison, rend (2 claws, 3d6+16)  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*speak with plants*, *tongues*  
-At will—*burst of nettles* (DC 20), *entangle* (DC 18), *tree shape*, *tree stride*, *ventriloquism*, *warp wood* (DC 19)  
-7/day—*diminish plants*, *plant growth*, *wall of thorns*  
-3/day—*control plants* (DC 25), *move earth*, *true seeing*
+Constant—*[speak with plants](../../magic/spells/speak-with-plants.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[burst of nettles](../../magic/spells/burst-of-nettles.md)* (DC 20), *[entangle](../../magic/spells/entangle.md)* (DC 18), *[tree shape](../../magic/spells/tree-shape.md)*, *[tree stride](../../magic/spells/tree-stride.md)*, *[ventriloquism](../../magic/spells/ventriloquism.md)*, *[warp wood](../../magic/spells/warp-wood.md)* (DC 19)  
+7/day—*[diminish plants](../../magic/spells/diminish-plants.md)*, *[plant growth](../../magic/spells/plant-growth.md)*, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+3/day—*[control plants](../../magic/spells/control-plants.md)* (DC 25), *[move earth](../../magic/spells/move-earth.md)*, *[true seeing](../../magic/spells/true-seeing.md)*
 
 **Statistics**
 

@@ -30,8 +30,8 @@ breath, seeking breath, tail sweep
 **Oracle Spells Known** (CL 15th; concentration +22)  
 7th (5)—*circle of clarity, holy word* (DC 24)  
 6th (7)—*forbiddance, heal, wind walk*  
-5th (7)—*atonement, dispel evil, flame strike* (DC 22), *mark of justice*  
-4th (7)—*dismissal* (DC 21), *divine power, holy smite* (DC 21), *restoration*  
+5th (7)—*atonement, dispel evil, flame strike* (DC 22), *[mark of justice](../../magic/spells/mark-of-justice.md)*  
+4th (7)—*[dismissal](../../magic/spells/dismissal.md)* (DC 21), *divine power, holy smite* (DC 21), *[restoration](../../magic/spells/restoration.md)*  
 3rd (8)—*cure serious wounds, daylight, dispel magic, searing light*  
 2nd (8)—*aid, cure moderate wounds, lesser restoration, make whole, shield other*  
 1st (8)—*bless, cure light wounds, divine favor, remove fear, shield of faith*  

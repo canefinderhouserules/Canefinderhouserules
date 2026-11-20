@@ -24,16 +24,16 @@ LG Gargantuan dragon (cold)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. cone, DC 29, 20d8 cold), crush, paralyzing breath, tail sweep  
 **Spell-Like Abilities** (CL 25th)  
-At will—*control weather*, *control winds*, *detect evil*, *feather fall*, *fog cloud*  
+At will—*[control weather](../../magic/spells/control-weather.md)*, *[control winds](../../magic/spells/control-winds.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*  
 **Spells Known** (CL 15th)  
-7th (5/day)—*holy word* (DC 24), *repulsion* (DC 24)  
-6th (7/day)—*banishment* (DC 23), *greater dispel magic*, *heal*  
-5th (7/day)—*break enchantment*, *flame strike* (DC 22), *plane shift*, *wall of force*  
-4th (7/day)—*dimension door*, *freedom of movement*, *restoration*, *solid fog*  
-3rd (7/day)—*cure serious wounds*, *dispel magic*, *hold person* (DC 20), *wind wall*  
-2nd (8/day)—*augury*, *calm emotions* (DC 19), *cure moderate wounds*, *invisibility*, *web*  
-1st (8/day)—*bless*, *divine favor*, *protection from evil*, *shield*, *true strike*  
-0 (at will)—*detect magic*, *flare* (DC 17), *light*, *message*, *prestidigitation*, *read magic*, *stabilize*, *resistance*, *virtue*
+7th (5/day)—*[holy word* ](../../magic/spells/holy-word.md)(DC 24), *[repulsion* ](../../magic/spells/repulsion.md)(DC 24)  
+6th (7/day)—*[banishment* ](../../magic/spells/banishment.md)(DC 23), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[heal](../../magic/spells/heal.md)*  
+5th (7/day)—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(DC 22), *[plane shift](../../magic/spells/plane-shift.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+4th (7/day)—*[dimension door](../../magic/spells/dimension-door.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[restoration](../../magic/spells/restoration.md)*, *[solid fog](../../magic/spells/solid-fog.md)*  
+3rd (7/day)—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 20), *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd (8/day)—*[augury](../../magic/spells/augury.md)*, *[calm emotions* ](../../magic/spells/calm-emotions.md)(DC 19), *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[web](../../magic/spells/web.md)*  
+1st (8/day)—*[bless](../../magic/spells/bless.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 17), *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[resistance](../../magic/spells/resistance.md)*, *[virtue](../../magic/spells/virtue.md)*
 
 **Statistics**
 

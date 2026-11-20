@@ -25,12 +25,12 @@ N Small humanoid (halfling)
 **Spell-Like Abilities** (CL 11th; concentration +16)  
 8/day—touch of destiny (+5)  
 **Sorcerer Spells Known** (CL 11th; concentration +16)  
-5th (5/day)—*break enchantment*, *interposing hand*, *teleport*  
-4th (7/day)—*bestow curse* (DC 19), *dimension door*, *freedom of movement*, *greater invisibility*  
-3rd (7/day)—*dispel magic*, *fireball* (DC 18), *hold person* (DC 18), *protection from energy*, *ray of exhaustion* (DC 18)  
-2nd (7/day)—*acid arrow*, *blindness/deafness* (DC 17), *blur*, *scorching ray*, *see invisibility*, *spider climb*  
-1st (8/day)—*alarm*, *charm person* (DC 16), *floating disk*, *mage armor*, *magic missile*, *true strike*  
-0 (at will)—*arcane mark*, *detect magic*, *light*, *mage hand*, *message*, *prestidigitation*, *ray of frost*, *read magic*, *resistance*  
+5th (5/day)—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[interposing hand](../../magic/spells/interposing-hand.md)*, *[teleport](../../magic/spells/teleport.md)*  
+4th (7/day)—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 19), *[dimension door](../../magic/spells/dimension-door.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 18), *[hold person* ](../../magic/spells/hold-person.md)(DC 18), *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[ray of exhaustion* ](../../magic/spells/ray-of-exhaustion.md)(DC 18)  
+2nd (7/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[blindness/deafness* ](../../magic/spells/blindness-deafness.md)(DC 17), *[blur](../../magic/spells/blur.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[spider climb](../../magic/spells/spider-climb.md)*  
+1st (8/day)—*[alarm](../../magic/spells/alarm.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 16), *[floating disk](../../magic/spells/floating-disk.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*  
 **Bloodline** destined
 
 **Tactics**

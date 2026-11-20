@@ -21,9 +21,9 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Melee** bite +16 (1d6+6), 2 claws +16 (1d8+6), gore +16 (2d6+6)  
 **Special Attacks** enslave soul, horns, powerful charge (gore, 4d6+12)  
 **Spell-Like Abilities** (CL 12th; concentration +15)  
-At will—*command* (DC 14), *greater teleport* (self plus 50 lbs. of objects only), *telekinesis* (DC 18)  
-3/day—*air walk*, *dominate person* (DC 18), *haste*  
-1/day—*greater command* (DC 18), summon (level 4, 1 kalavakus 40%), *symbol of persuasion* (DC 19)
+At will—*[command](../../magic/spells/command.md)* (DC 14), *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 18)  
+3/day—*[air walk](../../magic/spells/air-walk.md)*, *[dominate person](../../magic/spells/dominate-person.md)* (DC 18), *[haste](../../magic/spells/haste.md)*  
+1/day—*[greater command](../../magic/spells/command-greater.md)* (DC 18), summon (level 4, 1 kalavakus 40%), *[symbol of persuasion](../../magic/spells/symbol-of-persuasion.md)* (DC 19)
 
 **Statistics**
 

@@ -22,10 +22,10 @@ CG Medium dragon (earth)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. line, DC 17, 6d6 acid), slow breath (30-ft. cone, DC 17, slowed for 1d6+3 rounds)  
 **Spell-Like Abilities** (CL 9th)  
-At will—*grease* (DC 13)  
+At will—*[grease* ](../../magic/spells/grease.md)(DC 13)  
 **Spells Known** (CL 1st)  
-1st (4/day)—*alarm*, *silent image* (DC 13)  
-0 (at will)—*detect magic*, *ghost sound* (DC 12), *light*, *message*
+1st (4/day)—*[alarm](../../magic/spells/alarm.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 13)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 12), *[light](../../magic/spells/light.md)*, *[message](../../magic/spells/message.md)*
 
 **Statistics**
 

@@ -23,9 +23,9 @@ NE Huge aberration
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** impale, phantasmal slime (DC 27, once every 1d4 rounds)  
 **Spell-Like Abilities** (CL 15th; concentration +21)  
-Constant—*air walk*  
-3/day—*hallucinatory terrain* (DC 20), *persistent image* (DC 21)  
-1/day—*scintillating pattern* (DC 24)
+Constant—*[air walk](../../magic/spells/air-walk.md)*  
+3/day—*[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)* (DC 20), *[persistent image](../../magic/spells/persistent-image.md)* (DC 21)  
+1/day—*[scintillating pattern](../../magic/spells/scintillating-pattern.md)* (DC 24)
 
 **Statistics**
 

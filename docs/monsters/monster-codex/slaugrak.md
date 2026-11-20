@@ -24,7 +24,7 @@ CE Large outsider (chaotic, evil, extraplanar, native)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** corrupting bite, vicious jaws  
 **Spell-Like Abilities** (CL 8th; concentration +10)  
-1/day—*deeper darkness*, *slow* (DC 15), *unholy blight* (DC 16)
+1/day—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[slow](../../magic/spells/slow.md)* (DC 15), *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 16)
 
 **Statistics**
 

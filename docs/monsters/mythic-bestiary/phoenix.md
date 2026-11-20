@@ -24,9 +24,9 @@ NG Gargantuan magical beast (fire, mythic)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** burn (2d6, DC 25), incinerate, mythic power (7/day, surge +1d10)  
 **Spell-Like Abilities** (CL 18th; concentration +24)  
-Constant—*detect magic*, *detect poison*, *see invisibility*, *true seeing*  
-At will—*continual flame*, *cure critical wounds*, *greater dispel magic*, *remove curse*, *wall of fire*  
-3/day—*fire storm* (DC 24), *greater restoration*, *heal*, *mass cure critical wounds*, quickened *wall of fire*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[continual flame](../../magic/spells/continual-flame.md)*, *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[remove curse](../../magic/spells/remove-curse.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3/day—*[fire storm](../../magic/spells/fire-storm.md)* (DC 24), *[greater restoration](../../magic/spells/restoration-greater.md)*, *[heal](../../magic/spells/heal.md)*, *[mass cure critical wounds](../../magic/spells/cure-critical-wounds-mass.md)*, quickened *[wall of fire](../../magic/spells/wall-of-fire.md)*
 
 **Statistics**
 

@@ -23,8 +23,8 @@ CE Large outsider (cold, native)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** dream haunting, howl, rend (2 claws, 1d8+13 plus 4d6 cold plus 1d4 Cha damage), wendigo psychosis  
 **Spell-Like Abilities** (CL 18th; concentration +25)  
-At will—*wind walk* (DC 23; see below)  
-1/day—*control weather* (as druid), *nightmare* (DC 22)
+At will—*[wind walk* ](../../magic/spells/wind-walk.md)(DC 23; see below)  
+1/day—*[control weather* ](../../magic/spells/control-weather.md)(as druid), *[nightmare* ](../../magic/spells/nightmare.md)(DC 22)
 
 **Statistics**
 

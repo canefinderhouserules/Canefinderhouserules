@@ -21,7 +21,7 @@ N Small ooze
 **Speed** 20 ft., climb 20 ft.  
 **Melee** 2 slams +6 (1d3+2 plus 1d4 acid)  
 **Spell-Like Abilities** (CL 4th; concentration +4)  
-At will—*alter self* (Small humanoids only)
+At will—*[alter self](../../magic/spells/alter-self.md)* (Small humanoids only)
 
 **Statistics**
 

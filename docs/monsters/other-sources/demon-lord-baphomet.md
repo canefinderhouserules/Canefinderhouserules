@@ -23,10 +23,10 @@ CE Large outsider (chaotic, demon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft. (20 ft. with glaive)  
 **Special Attacks** burn (4d6 fire, DC 40), glaive mastery, powerful charge (gore, 4d8+19 plus 2d6 fire and burn), scroll use  
 **Spell-Like Abilities** (CL 27th)  
-Constant—*detect good*, *detect law*, *freedom of movement*, *speak with animals*, *true seeing*, *unholy aura* (DC 30)  
-At will—*astral projection*, *baleful polymorph* (DC 27), *blasphemy* (DC 29), *desecrate*, *dominate person* (DC 27), *greater dispel magic*, *greater teleport*, *telekinesis* (DC 27), *shapechange*, *unhallow*, *unholy blight* (DC 26)  
-3/day—quickened *greater dispel magic*, *maze*, summon demons, summon minotaurs, *symbol of persuasion* (DC 28)  
-1/day—*imprisonment* (DC 31), *mass charm monster* (DC 30), *time stop*
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect law](../../magic/spells/detect-law.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*, *[true seeing](../../magic/spells/true-seeing.md)*, *[unholy aura* ](../../magic/spells/unholy-aura.md)(DC 30)  
+At will—*[astral projection](../../magic/spells/astral-projection.md)*, *[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 27), *[blasphemy* ](../../magic/spells/blasphemy.md)(DC 29), *[desecrate](../../magic/spells/desecrate.md)*, *[dominate person* ](../../magic/spells/dominate-person.md)(DC 27), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)*, *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 27), *[shapechange](../../magic/spells/shapechange.md)*, *[unhallow](../../magic/spells/unhallow.md)*, *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 26)  
+3/day—quickened *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[maze](../../magic/spells/maze.md)*, summon demons, summon minotaurs, *[symbol of persuasion* ](../../magic/spells/symbol-of-persuasion.md)(DC 28)  
+1/day—*[imprisonment* ](../../magic/spells/imprisonment.md)(DC 31), *[mass charm monster* ](../../magic/spells/charm-monster-mass.md)(DC 30), *[time stop](../../magic/spells/time-stop.md)*
 
 **Statistics**
 

@@ -22,11 +22,11 @@ LN Medium fey
 **Melee** *+2 icy burst spear* +18/+13 (1d8+11/19–20/×3)  
 **Special Attacks** Rider’s weapon, weal or woe (DC 24)  
 **Spell-Like Abilities** (CL 13th; concentration +18)  
-Constant—*see invisibility*  
-At will—*chill touch* (DC 16), *detect thoughts* (DC 17), *zone of truth* (DC 17)  
-5/day—*deeper darkness*, *ice storm*  
-3/day—*cone of cold* (DC 20), *dust of twilight*(DC 17), *moonstruck* (DC 19)  
-1/day—*cloak of dreams* (DC 21)
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[chill touch* ](../../magic/spells/chill-touch.md)(DC 16), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[zone of truth* ](../../magic/spells/zone-of-truth.md)(DC 17)  
+5/day—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[ice storm](../../magic/spells/ice-storm.md)*  
+3/day—*[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 20), *[dust of twilight](../../magic/spells/dust-of-twilight.md)*(DC 17), *[moonstruck](../../magic/spells/moonstruck.md)* (DC 19)  
+1/day—*[cloak of dreams](../../magic/spells/cloak-of-dreams.md)* (DC 21)
 
 **Statistics**
 

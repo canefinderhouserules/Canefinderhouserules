@@ -22,10 +22,10 @@ NE Medium monstrous humanoid (evil, mythic)
 **Melee** 2 claw +8 (1d6+2)  
 **Special Attacks** luck ripple, mythic power (2/day, surge +1d6)  
 **Spell-Like Abilities** (CL 6th; concentration +12)  
-At will—*arcane sight*, *fly*, *undetectable alignment*  
-5/day—*ill omen* (DC 17)  
-3/day—*augury*, *enthrall* (DC 18), *feast of ashes* (DC 18)  
-1/day—*ray of exhaustion* (DC 19)
+At will—*[arcane sight](../../magic/spells/arcane-sight.md)*, *[fly](../../magic/spells/fly.md)*, *[undetectable alignment](../../magic/spells/undetectable-alignment.md)*  
+5/day—*[ill omen](../../magic/spells/ill-omen.md)* (DC 17)  
+3/day—*[augury](../../magic/spells/augury.md)*, *[enthrall](../../magic/spells/enthrall.md)* (DC 18), *[feast of ashes](../../magic/spells/feast-of-ashes.md)* (DC 18)  
+1/day—*[ray of exhaustion](../../magic/spells/ray-of-exhaustion.md)* (DC 19)
 
 **Statistics**
 

@@ -25,12 +25,12 @@ CE Medium humanoid (goblinoid)
 6/day—*elemental ray* (1d6+5 fire)  
 1/day—*elemental blast* (10d6 fire, DC 18)  
 **Sorcerer Spells Known** (CL 10th; concentration +13)  
-5th (3/day)—*fire snake* (DC 18)  
-4th (5/day)—*black tentacles*, *elemental body I*, *fire shield*  
-3rd (6/day)—*fireball* (DC 16), *howling agony* (DC 16), *protection from energy*, *rage*, *stinking cloud* (DC 16)  
-2nd (7/day)—*alter self*, *invisibility*, *levitate*, *scorching ray*, *see invisibility*, *touch of idiocy*  
-1st (7/day)—*burning hands* (DC 14), *color spray* (DC 14), *enlarge person* (DC 14), *magic missile*, *ray of enfeeblement* (DC 14), *shield*  
-0 (at will)—*acid splash*, *daze* (DC 13), *detect magic*, *detect poison*, *ghost sound* (DC 13), *mage hand*, *read magic*, *resistance*, *touch of fatigue* (DC 13)  
+5th (3/day)—*[fire snake](../../magic/spells/fire-snake.md)* (DC 18)  
+4th (5/day)—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[elemental body I](../../magic/spells/elemental-body-i.md)*, *[fire shield](../../magic/spells/fire-shield.md)*  
+3rd (6/day)—*[fireball](../../magic/spells/fireball.md)* (DC 16), *[howling agony](../../magic/spells/howling-agony.md)* (DC 16), *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[rage](../../magic/spells/rage.md)*, *[stinking cloud](../../magic/spells/stinking-cloud.md)* (DC 16)  
+2nd (7/day)—*[alter self](../../magic/spells/alter-self.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[levitate](../../magic/spells/levitate.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1st (7/day)—*[burning hands](../../magic/spells/burning-hands.md)* (DC 14), *[color spray](../../magic/spells/color-spray.md)* (DC 14), *[enlarge person](../../magic/spells/enlarge-person.md)* (DC 14), *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 14), *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[daze](../../magic/spells/daze.md)* (DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 13), *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 13)  
 **Bloodline** elemental (fire)
 
 **Tactics**

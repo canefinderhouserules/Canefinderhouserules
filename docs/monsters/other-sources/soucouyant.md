@@ -21,8 +21,8 @@ NE Medium monstrous humanoid
 **Melee** bite +16 (2d6+4), 2 claws +17 (1d6+4 plus grab)  
 **Special Attacks** blood drain (1d2 Constitution)  
 **Spell-Like Abilities** (CL 8th; concentration +12)  
-Constant—*detect good*, *detect magic*  
-At will—*chill touch* (DC 15), *deep slumber* (DC 16), *scorching ray* (DC 16), *spider climb*
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[chill touch* ](../../magic/spells/chill-touch.md)(DC 15), *[deep slumber](../../magic/spells/deep-slumber.md)* (DC 16), *[scorching ray](../../magic/spells/scorching-ray.md)* (DC 16), *[spider climb](../../magic/spells/spider-climb.md)*
 
 **Statistics**
 

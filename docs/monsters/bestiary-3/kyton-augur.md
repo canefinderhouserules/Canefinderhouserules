@@ -22,10 +22,10 @@ LE Tiny outsider (evil, extraplanar, kyton, lawful)
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** bleed (1d2), unnerving gaze (30 ft., DC 9)  
 **Spell-Like Abilities** (CL 6th; concentration +4)  
-Constant—*deathwatch*  
-At will—*bleed* (DC 8), *mage hand*, *open/close*  
-3/day—*inflict light wounds* (DC 9)  
-1/week—*commune* (CL 12th, 6 questions)
+Constant—*[deathwatch](../../magic/spells/deathwatch.md)*  
+At will—*[bleed* ](../../magic/spells/bleed.md)(DC 8), *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*  
+3/day—*[inflict light wounds* ](../../magic/spells/inflict-light-wounds.md)(DC 9)  
+1/week—*[commune* ](../../magic/spells/commune.md)(CL 12th, 6 questions)
 
 **Statistics**
 

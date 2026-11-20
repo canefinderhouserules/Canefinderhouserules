@@ -25,7 +25,7 @@ Perception +4
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** devour disease  
 **Spell-Like Abilities** (CL 10th; concentration +12)  
-3/day—*invisibility*
+3/day—*[invisibility](../../magic/spells/invisibility.md)*
 
 **Statistics**
 

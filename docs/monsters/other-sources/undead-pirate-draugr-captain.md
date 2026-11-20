@@ -22,7 +22,7 @@ CE Medium undead (water)
 **Melee** mwk scimitar +12 (1d6+10/18–20 plus 1 negative level) or slam +10 (1d10+10 plus 1 negative level)  
 **Special Attacks** sneak attack +1d6  
 **Spell-Like Abilities** (CL 5th; concentration +8)  
-3/day—*obscuring mist*
+3/day—*[obscuring mist](../../magic/spells/obscuring-mist.md)*
 
 **Statistics**
 

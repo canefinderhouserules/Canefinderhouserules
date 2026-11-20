@@ -23,12 +23,12 @@ NE Medium monstrous humanoid
 **Ranged**  mwk hand crossbow +12 (1d4/19–20 plus black adder venom)  
 **Special Attacks** sneak attack +1d6  
 **Spell-Like Abilities** (CL 4th; concentration +9)  
-At will—*disguise self* (DC 16, humanoid form only), *ventriloquism* (DC 16)  
-1/day—*blur*, *mirror image*, *suggestion* (DC 18)
+At will—*[disguise self](../../magic/spells/disguise-self.md)* (DC 16, humanoid form only), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 16)  
+1/day—*[blur](../../magic/spells/blur.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 18)
 
 **Tactics**
 
-**During Combat** A serpentfolk spy lures and harries prey with telepathic taunts and ventriloquism before striking from ambush with poisoned weapons and venomous bites. It conceals its true numbers and position with *blur*, *disguise self*, or *mirror image*.
+**During Combat** A serpentfolk spy lures and harries prey with telepathic taunts and ventriloquism before striking from ambush with poisoned weapons and venomous bites. It conceals its true numbers and position with *[blur](../../magic/spells/blur.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, or *[mirror image](../../magic/spells/mirror-image.md)*.
 
 **Statistics**
 

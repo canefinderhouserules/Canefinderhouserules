@@ -22,9 +22,9 @@ LE Large outsider (earth, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** adamantine bite, searing spew  
 **Spell-Like Abilities** (CL 10th; concentration +12)  
-Constant—*pass without trace*  
-At will—*major image* (DC 15), *passwall*, *shatter* (DC 14), *stone shape*  
-3/day—*deeper darkness*, *dimensional anchor*, *flesh to stone* (DC 18), quickened *produce flame*, *wall of fire*, *wall of stone*
+Constant—*[pass without trace](../../magic/spells/pass-without-trace.md)*  
+At will—*[major image](../../magic/spells/major-image.md)* (DC 15), *[passwall](../../magic/spells/passwall.md)*, *[shatter* ](../../magic/spells/shatter.md)(DC 14), *[stone shape](../../magic/spells/stone-shape.md)*  
+3/day—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[flesh to stone](../../magic/spells/flesh-to-stone.md)* (DC 18), quickened *[produce flame](../../magic/spells/produce-flame.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*
 
 **Statistics**
 

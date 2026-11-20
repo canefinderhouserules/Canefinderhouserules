@@ -24,7 +24,7 @@ LE Medium humanoid (dwarf)
 **Ranged**  javelin +14/+9/+4 (1d6+3)  
 **Special Attacks** weapon training (heavy blades +1)  
 **Spell-Like Abilities** (CL 11th; concentration +9)  
-1/day—*enlarge person* (self only), *invisibility* (self only)
+1/day—*[enlarge person](../../magic/spells/enlarge-person.md)* (self only), *[invisibility](../../magic/spells/invisibility.md)* (self only)
 
 **Statistics**
 

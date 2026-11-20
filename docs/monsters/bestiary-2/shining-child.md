@@ -22,9 +22,9 @@ CE Medium outsider (evil, extraplanar)
 **Melee** 2 touches +19 (4d10 fire plus burning touch)  
 **Ranged**  searing ray +19 touch (10d6 fire)  
 **Spell-Like Abilities** (CL 12th; concentration +19)  
-At will—*greater teleport* (self plus 50 lbs. of objects only), *light*, *major image* (DC 20)  
-3/day—*greater dispel magic*, *mirage arcana* (DC 20), *rainbow pattern* (DC 22), *spell turning*, *sunbeam*, *wall of force*  
-1/day—*scintillating pattern* (DC 25), *screen* (DC 25), *symbol of insanity* (DC 25)
+At will—*[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[light](../../magic/spells/light.md)*, *[major image* ](../../magic/spells/major-image.md)(DC 20)  
+3/day—*[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[mirage arcana* ](../../magic/spells/mirage-arcana.md)(DC 20), *[rainbow pattern* ](../../magic/spells/rainbow-pattern.md)(DC 22), *[spell turning](../../magic/spells/spell-turning.md)*, *[sunbeam](../../magic/spells/sunbeam.md)*, *[wall of force](../../magic/spells/wall-of-force.md)*  
+1/day—*[scintillating pattern* ](../../magic/spells/scintillating-pattern.md)(DC 25), *[screen* ](../../magic/spells/screen.md)(DC 25), *[symbol of insanity* ](../../magic/spells/symbol-of-insanity.md)(DC 25)
 
 **Statistics**
 

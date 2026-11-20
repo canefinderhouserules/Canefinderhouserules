@@ -22,10 +22,10 @@ CN Medium humanoid (strix)
 **Ranged**  dart +5 (1d4–1)  
 **Special Attacks** +1 on attack rolls against humanoids with the human subtype, hexes (disguise [5 hours], evil eye [–2, 6 rounds], slumber [5 rounds])  
 **Witch Spells Prepared** (CL 5th; concentration +8)  
-3rd—*pain strike* (DC 17), *twilight knife*  
-2nd—*burning gaze* (DC 15), *darkness*, *hold person* (DC 15)  
-1st—*burning hands* (DC 14), *cause fear* (DC 14), *mage armor*, *silent image* (DC 14)  
-0 (at will)—*bleed* (DC 13), *dancing lights*, *message*, *touch of fatigue* (DC 13)  
+3rd—*[pain strike](../../magic/spells/pain-strike.md)* (DC 17), *[twilight knife](../../magic/spells/twilight-knife.md)*  
+2nd—*[burning gaze](../../magic/spells/burning-gaze.md)* (DC 15), *[darkness](../../magic/spells/darkness.md)*, *[hold person* ](../../magic/spells/hold-person.md)(DC 15)  
+1st—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 14), *[cause fear* ](../../magic/spells/cause-fear.md)(DC 14), *[mage armor](../../magic/spells/mage-armor.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 14)  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 13), *[dancing lights](../../magic/spells/dancing-lights.md)*, *[message](../../magic/spells/message.md)*, *[touch of fatigue* ](../../magic/spells/touch-of-fatigue.md)(DC 13)  
 **Patron** shadow
 
 **Statistics**

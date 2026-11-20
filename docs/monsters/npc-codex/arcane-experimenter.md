@@ -23,7 +23,7 @@ CE Small humanoid (gnome)
 **Ranged**  mwk composite longbow +19/+14/+9 (1d6+5/×3)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, greater rage (33 rounds/day), rage powers (animal fury, clear mind, fearless rage, internal fortitude, mighty swing, moment of clarity, strength surge +14)  
 **Spell-Like Abilities** (CL 14th; concentration +15)  
-1/day—*dancing lights*, *ghost sound* (DC 11), *prestidigitation*, *speak with animals*
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 11), *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*
 
 **Tactics**
 

@@ -27,7 +27,7 @@ or slashing; **Immune** undead traits; **Resist** fire 10
 **Special Attacks** opportunist mauler, sodden field,
 sneak attack +2d6  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-3/day—*obscuring mist*
+3/day—*[obscuring mist](../../magic/spells/obscuring-mist.md)*
 
 **Statistics**
 

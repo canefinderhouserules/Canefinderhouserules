@@ -23,8 +23,8 @@ NE Large plant
 **Space** 10 ft., **Reach** 10 ft. (30 ft. with tentacles)  
 **Special Attacks** bleed (1d6), blood drain (1d4 Constitution), bombardment, create spawn, pull (tentacle, 5 ft.)  
 **Spell-Like Abilities** (CL 24th; concentration +27)  
-3/day—*wall of thorns*  
-1/day—*animate plants* (DC 20)
+3/day—*[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+1/day—*[animate plants](../../magic/spells/animate-plants.md)* (DC 20)
 
 **Statistics**
 

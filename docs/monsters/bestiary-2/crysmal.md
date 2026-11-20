@@ -21,8 +21,8 @@ N Small outsider (earth, elemental)
 **Melee** sting +7 (2d6+3)  
 **Special Attacks** shard spike +7 (3d6, range increment 60 ft.)  
 **Spell-Like Abilities** (CL 4th; concentration +6)  
-At will—*detect magic*, *ghost sound* (DC 12), *mage hand*, *silent image* (DC 13)  
-3/day—*dimension door*, *sanctuary* (DC 13), *touch of idiocy* (DC 14)
+At will—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 12), *[mage hand](../../magic/spells/mage-hand.md)*, *[silent image](../../magic/spells/silent-image.md)* (DC 13)  
+3/day—*[dimension door](../../magic/spells/dimension-door.md)*, *[sanctuary](../../magic/spells/sanctuary.md)* (DC 13), *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)* (DC 14)
 
 **Statistics**
 

@@ -22,7 +22,7 @@ N Small fey (earth)
 **Melee** mwk heavy pick +9 (1d4+6/×4)  
 **Special Attacks** earth mastery, pech magic, stone knowledge  
 **Spell-Like Abilities** (CL 10th; concentration +11)  
-3/day—*stone shape*, *stone tell*
+3/day—*[stone shape](../../magic/spells/stone-shape.md)*, *[stone tell](../../magic/spells/stone-tell.md)*
 
 **Statistics**
 

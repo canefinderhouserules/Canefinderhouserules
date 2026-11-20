@@ -22,10 +22,10 @@ NE Large outsider (daemon, evil, extraplanar)
 **Melee** bite +20 (2d8+6/19–20 plus disease), 2 claws +19 (2d6+6 plus hunger)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 11th; concentration +15)  
-Constant—*detect good*, *detect magic*, *see invisibility*  
-At will—*cause fear* (DC 15), *deeper darkness*, *greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*blight* (DC 19), *diminish plants*, quickened *magic missile*  
-1/day—*horrid wilting* (DC 22), *waves of fatigue*
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[cause fear](../../magic/spells/cause-fear.md)* (DC 15), *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
+3/day—*[blight](../../magic/spells/blight.md)* (DC 19), *[diminish plants](../../magic/spells/diminish-plants.md)*, quickened *[magic missile](../../magic/spells/magic-missile.md)*  
+1/day—*[horrid wilting](../../magic/spells/horrid-wilting.md)* (DC 22), *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*
 
 **Statistics**
 

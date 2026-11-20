@@ -23,8 +23,8 @@ CN Medium humanoid (human)
 **Ranged**  light crossbow +5 (1d8/19–20)  
 **Special Attacks** sneak attack +2d6  
 **Spell-Like Abilities** (CL 4th; concentration +5)  
-3/day—*prestidigitation*  
- 2/day—*disguise self*
+3/day—*[prestidigitation](../../magic/spells/prestidigitation.md)*  
+ 2/day—*[disguise self](../../magic/spells/disguise-self.md)*
 
 **Tactics**
 

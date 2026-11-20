@@ -22,7 +22,7 @@ NE Gargantuan aberration (aquatic)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** breath weapon, pain  
 **Spell-Like Abilities** (CL 15th; concentration +13)  
-Constant—*air walk*, *see invisibility*
+Constant—*[air walk](../../magic/spells/air-walk.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*
 
 **Statistics**
 

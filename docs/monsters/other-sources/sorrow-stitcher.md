@@ -21,8 +21,8 @@ CE Medium fey
 **Melee** scissors +12/+7 (1d6+1/19–20), needle +6 touch (hollow heart curse)  
 **Special Attacks** needle, sorrowful gaze, sneak attack +3d6  
 **Spell-Like Abilities** (CL 8th; concentration +14)  
-At will—*crushing despair* (DC 19)  
-3/day—*overwhelming grief* (DC 20), *ray of exhaustion*, *shadow conjuration*, *shadow step*
+At will—*[crushing despair](../../magic/spells/crushing-despair.md)* (DC 19)  
+3/day—*[overwhelming grief](../../magic/spells/overwhelming-grief.md)* (DC 20), *[ray of exhaustion](../../magic/spells/ray-of-exhaustion.md)*, *[shadow conjuration](../../magic/spells/shadow-conjuration.md)*, *[shadow step](../../magic/spells/shadow-step.md)*
 
 **Statistics**
 

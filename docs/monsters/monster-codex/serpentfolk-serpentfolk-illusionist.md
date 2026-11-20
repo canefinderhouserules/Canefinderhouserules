@@ -21,14 +21,14 @@ NE Medium monstrous humanoid
 **Speed** 30 ft.  
 **Melee** mwk dagger +8/+3 (1d4/19–20), bite +2 (1d6 plus poison)  
 **Spell-Like Abilities** (CL 4th; concentration +8)  
-At will—*disguise self* (DC 15, humanoid form only), *ventriloquism* (DC 15)  
-1/day—*blur*, *dominate person* (DC 19), major image (DC 17), *mirror image*, *suggestion* (DC 17)  
+At will—*[disguise self](../../magic/spells/disguise-self.md)* (DC 15, humanoid form only), *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 15)  
+1/day—*[blur](../../magic/spells/blur.md)*, *[dominate person](../../magic/spells/dominate-person.md)* (DC 19), major image (DC 17), *[mirror image](../../magic/spells/mirror-image.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 17)  
 **Arcane School Spell-Like Abilities** (CL 4th; concentration +10)  
-9/day—*blinding ray*  
+9/day—*[blinding ray](../../magic/spells/blinding-ray.md)*  
 **Illusionist Spells Prepared** (CL 4th; concentration +10)  
-2nd—*blindness/deafness* (DC 18), *detect thoughts* (DC 18), *illusion of calm* (DC 19), *invisibility*, *pernicious poison*  
-1st—*color spray* (2, DC 18), *hypnotism* (DC 18), *shield*, *silent image* (DC 18), *vanish*  
-0 (at will)—*dancing lights*, *detect magic*, *mage hand*, *read magic*  
+2nd—*[blindness/deafness](../../magic/spells/blindness-deafness.md)* (DC 18), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 18), *[illusion of calm](../../magic/spells/illusion-of-calm.md)* (DC 19), *[invisibility](../../magic/spells/invisibility.md)*, *[pernicious poison](../../magic/spells/pernicious-poison.md)*  
+1st—*[color spray](../../magic/spells/color-spray.md)* (2, DC 18), *[hypnotism](../../magic/spells/hypnotism.md)* (DC 18), *[shield](../../magic/spells/shield.md)*, *[silent image](../../magic/spells/silent-image.md)* (DC 18), *[vanish](../../magic/spells/vanish.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Opposition Schools** conjuration, evocation
 
 **Tactics**

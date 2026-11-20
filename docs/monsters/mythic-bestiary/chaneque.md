@@ -22,7 +22,7 @@ NE Small fey (mythic)
 **Ranged**  thrown skull +5 (1d4+3 plus steal soul)  
 **Special Attacks** mythic power (1/day, surge +1d6), steal soul  
 **Spell-Like Abilities** (CL 5th; concentration +4)  
-3/day—*fear* (DC 13)
+3/day—*[fear](../../magic/spells/fear.md)* (DC 13)
 
 **Statistics**
 

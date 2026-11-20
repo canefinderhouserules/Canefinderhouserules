@@ -23,12 +23,12 @@ LN Large dragon (extraplanar, water)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (80-ft. line, 12d6 acid, DC 21)  
 **Spell-Like Abilities** (CL 14th; concentration +17)  
-At will—*control water*, *obscuring mist*, *speak with animals* (fish only), *water breathing*  
+At will—*[control water](../../magic/spells/control-water.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)* (fish only), *[water breathing](../../magic/spells/water-breathing.md)*  
 **Spells Known** (CL 7th; concentration +10)  
-3rd (5/day)—*aqueous orb* (DC 16), *sleet storm* (DC 16)  
-2nd (7/day)—*alter self*, *invisibility*, *slipstream*  
-1st (7/day)—*color spray* (DC 14), *feather fall*, *flare burst* (DC 14), *ray of enfeeblement* (DC 14), *touch of the sea*  
-0 (at will)—*detect magic*, *detect poison*, *mage hand*, *open/close*, *prestidigitation*, *read magic*, *resistance*
+3rd (5/day)—*[aqueous orb](../../magic/spells/aqueous-orb.md)* (DC 16), *[sleet storm](../../magic/spells/sleet-storm.md)* (DC 16)  
+2nd (7/day)—*[alter self](../../magic/spells/alter-self.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[slipstream](../../magic/spells/slipstream.md)*  
+1st (7/day)—*[color spray](../../magic/spells/color-spray.md)* (DC 14),[ *feather fall](../../magic/spells/feather-fall.md)*, *[flare burst](../../magic/spells/flare-burst.md)* (DC 14), *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 14), *[touch of the sea](../../magic/spells/touch-of-the-sea.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

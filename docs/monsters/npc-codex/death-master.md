@@ -26,22 +26,22 @@ NE Medium humanoid (elf, human)
 **Evoker Spell-Like Abilities** (CL 5th; concentration +8)  
 6/day—force missile (1d4+2)  
 **Cleric Spells Prepared** (CL 12th; concentration +17)  
-6th—*antimagic field*<sup>D</sup>, *heal*, *word of recall*  
-5th—*flame strike* (3, DC 20), *slay living*<sup>D</sup> (DC 20), *wall of stone*  
-4th—*death ward*<sup>D</sup>, *dimensional anchor*, *freedom of movement*, *spell immunity*, *unholy blight* (DC 19)  
-3rd—*contagion* (2, DC 18), *dispel magic*<sup>D</sup>, *invisibility purge*, *prayer*, *summon monster III*  
-2nd—*cure moderate wounds* (2), *death knell*<sup>D</sup> (DC 17), *hold person* (DC 17), *silence* (DC 17), *spiritual weapon*  
-1st—*cause fear*<sup>D</sup> (DC 16), *cure light wounds* (3), *deathwatch*, *entropic shield*, *obscuring mist*  
-0 (at will)—*bleed* (DC 15), *detect poison*, *mending*, *stabilize*  
+6th—*[antimagic field](../../magic/spells/antimagic-field.md)*<sup>D</sup>, *[heal](../../magic/spells/heal.md)*, *[word of recall](../../magic/spells/word-of-recall.md)*  
+5th—*[flame strike* ](../../magic/spells/flame-strike.md)(3, DC 20), *[slay living](../../magic/spells/slay-living.md)*<sup>D</sup> (DC 20), *[wall of stone](../../magic/spells/wall-of-stone.md)*  
+4th—*[death ward](../../magic/spells/death-ward.md)*<sup>D</sup>, *[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[spell immunity](../../magic/spells/spell-immunity.md)*, *[unholy blight* ](../../magic/spells/unholy-blight.md)(DC 19)  
+3rd—*[contagion* ](../../magic/spells/contagion.md)(2, DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*<sup>D</sup>, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[prayer](../../magic/spells/prayer.md)*, *[summon monster III](../../magic/spells/summon-monster-iii.md)*  
+2nd—*[cure moderate wounds* ](../../magic/spells/cure-moderate-wounds.md)(2), *[death knell](../../magic/spells/death-knell.md)*<sup>D</sup> (DC 17), *[hold person* ](../../magic/spells/hold-person.md)(DC 17), *[silence* ](../../magic/spells/silence.md)(DC 17), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[cause fear](../../magic/spells/cause-fear.md)*<sup>D</sup> (DC 16), *[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(3), *[deathwatch](../../magic/spells/deathwatch.md)*, *[entropic shield](../../magic/spells/entropic-shield.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*  
+0 (at will)—*[bleed* ](../../magic/spells/bleed.md)(DC 15), *[detect poison](../../magic/spells/detect-poison.md)*, *[mending](../../magic/spells/mending.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** Domain spell; **Domains** Death, Magic  
 **Evoker Spells Prepared** (CL 12th; concentration +15; 15% spell failure)  
-6th—*forceful hand*, *freezing sphere* (DC 19), *mislead*  
-5th—stilled *dimension door*, *telekinesis*, *wall of force* (2)  
-4th—*black tentacles*, *fire shield*, stilled *fireball*, *greater invisibility*  
-3rd—*displacement*, *fireball* (DC 16), *fly*, *haste*, *invisibility sphere*, *lightning bolt* (DC 16)  
-2nd—*false life*, *flaming sphere* (DC 15), *gust of wind* (DC 15), *invisibility*, *mirror image*, *misdirection*  
-1st—*comprehend languages*, *expeditious retreat*, *feather fall*, *magic missile* (2), *unseen servant*  
-0 (at will)—*dancing lights*, *detect magic*, *mage hand*, *read magic*  
+6th—*[forceful hand](../../magic/spells/forceful-hand.md)*, *[freezing sphere* ](../../magic/spells/freezing-sphere.md)(DC 19), *[mislead](../../magic/spells/mislead.md)*  
+5th—stilled *[dimension door](../../magic/spells/dimension-door.md)*, *[telekinesis](../../magic/spells/telekinesis.md)*, *[wall of force* ](../../magic/spells/wall-of-force.md)(2)  
+4th—*[black tentacles](../../magic/spells/black-tentacles.md)*, *[fire shield](../../magic/spells/fire-shield.md)*, stilled *[fireball](../../magic/spells/fireball.md)*, *[greater invisibility](../../magic/spells/invisibility-greater.md)*  
+3rd—*[displacement](../../magic/spells/displacement.md)*, *[fireball* ](../../magic/spells/fireball.md)(DC 16), *[fly](../../magic/spells/fly.md)*, *[haste](../../magic/spells/haste.md)*, *[invisibility sphere](../../magic/spells/invisibility-sphere.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 16)  
+2nd—*[false life](../../magic/spells/false-life.md)*, *[flaming sphere* ](../../magic/spells/flaming-sphere.md)(DC 15), *[gust of wind* ](../../magic/spells/gust-of-wind.md)(DC 15), *[invisibility](../../magic/spells/invisibility.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[misdirection](../../magic/spells/misdirection.md)*  
+1st—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[feather fall](../../magic/spells/feather-fall.md)*, *[magic missile* ](../../magic/spells/magic-missile.md)(2), *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Opposition Schools** abjuration, enchantment
 
 **Tactics**

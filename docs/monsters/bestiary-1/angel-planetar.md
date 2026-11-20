@@ -22,20 +22,20 @@ NG Large outsider (angel, extraplanar, good)
 **Melee** *+3 holy greatsword* +27/+22/+17 (3d6+15/19–20) or slam +24 (2d8+12)  
 **Space** 10 ft., **Reach** 10 ft.  
 **Spell-Like Abilities** (CL 16th)  
-Constant—*detect evil*, *detect snares and pits*, *discern lies* (DC 20), *true seeing*  
-At will—*continual flame*, *dispel magic*, *holy smite* (DC 21), *invisibility* (self only), *lesser restoration*, *remove curse*, *remove disease*, *remove fear* (DC 18), *speak with dead* (DC 20)  
-3/day—*blade barrier* (DC 21), *flame strike* (DC 22), *power word stun*, *raise dead*, *waves of fatigue*  
-1/day—*earthquake* (DC 25), *greater restoration*, *mass charm monster* (DC 25), *waves of exhaustion*  
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[detect snares and pits](../../magic/spells/detect-snares-and-pits.md)*, *[discern lies* ](../../magic/spells/discern-lies.md)(DC 20), *[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[continual flame](../../magic/spells/continual-flame.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[holy smite* ](../../magic/spells/holy-smite.md)(DC 21), *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[remove curse](../../magic/spells/remove-curse.md)*, *[remove disease](../../magic/spells/remove-disease.md)*, *[remove fear* ](../../magic/spells/remove-fear.md)(DC 18), *[speak with dead* ](../../magic/spells/speak-with-dead.md)(DC 20)  
+3/day—*[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 21), *[flame strike* ](../../magic/spells/flame-strike.md)(DC 22), *[power word stun](../../magic/spells/power-word-stun.md)*, *[raise dead](../../magic/spells/raise-dead.md)*, *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*  
+1/day—*[earthquake* ](../../magic/spells/earthquake.md)(DC 25), *[greater restoration](../../magic/spells/restoration-greater.md)*, *[mass charm monster* ](../../magic/spells/charm-monster-mass.md)(DC 25), *[waves of exhaustion](../../magic/spells/waves-of-exhaustion.md)*  
 **Spells Prepared** (CL 16th)  
-8th—*earthquake* (DC 25), *fire storm* (DC 25)  
-7th—*holy word* (DC 24), *regenerate* (2)  
-6th—*banishment* (DC 23), *greater dispel magic*, *heal*, *mass cure moderate wounds* (DC 23)  
-5th—*break enchantment*, *dispel evil* (2, DC 22), *plane shift* (DC 22), *righteous might*  
-4th—*death ward*, *dismissal* (DC 21), *neutralize poison* (DC 21), *summon monster IV*  
-3rd—*cure serious wounds* (2), *daylight*, *invisibility purge*, *summon monster III*, *wind wall*  
-2nd—*align weapon* (2), *bear’s endurance* (2), *cure moderate wounds* (2), *eagle’s splendor*  
-1st—*bless* (2), *cure light wounds* (4), *shield of faith*  
-0 (at will)—*detect magic*, *purify food and drink*, *stabilize*, *virtue*
+8th—*[earthquake* ](../../magic/spells/earthquake.md)(DC 25), *[fire storm* ](../../magic/spells/fire-storm.md)(DC 25)  
+7th—*[holy word* ](../../magic/spells/holy-word.md)(DC 24), *[regenerate* ](../../magic/spells/regenerate.md)(2)  
+6th—*[banishment* ](../../magic/spells/banishment.md)(DC 23), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[heal](../../magic/spells/heal.md)*, *[mass cure moderate wounds* ](../../magic/spells/cure-moderate-wounds-mass.md)(DC 23)  
+5th—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[dispel evil* ](../../magic/spells/dispel-evil.md)(2, DC 22), *[plane shift* ](../../magic/spells/plane-shift.md)(DC 22), *[righteous might](../../magic/spells/righteous-might.md)*  
+4th—*[death ward](../../magic/spells/death-ward.md)*, *[dismissal* ](../../magic/spells/dismissal.md)(DC 21), *[neutralize poison* ](../../magic/spells/neutralize-poison.md)(DC 21), *[summon monster IV](../../magic/spells/summon-monster-iv.md)*  
+3rd—*[cure serious wounds* ](../../magic/spells/cure-serious-wounds.md)(2), *[daylight](../../magic/spells/daylight.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[summon monster III](../../magic/spells/summon-monster-iii.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd—*[align weapon* ](../../magic/spells/align-weapon.md)(2), *[bear’s endurance* ](../../magic/spells/bears-endurance.md)(2), *[cure moderate wounds* ](../../magic/spells/cure-moderate-wounds.md)(2), *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*  
+1st—*[bless* ](../../magic/spells/bless.md)(2), *[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(4), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[virtue](../../magic/spells/virtue.md)*
 
 **Statistics**
 

@@ -23,8 +23,8 @@ N Medium humanoid
 **Ranged**  dagger +3 (1d4+1/19–20)  
 **Special Attacks** bardic performance 7 rounds/day (countersong, distraction, fascinate [DC 13], inspire courage +1), sneak attack +1d6  
 **Bard Spells Known** (CL 1st; concentration +4)  
-1st (2/day)—*silent image* (DC 14), *sleep* (DC 14)  
-0 (at will)—*dancing lights*, *lullaby* (DC 13), *mending*, *prestidigitation*
+1st (2/day)—*[silent image](../../magic/spells/silent-image.md)* (DC 14), *[sleep](../../magic/spells/sleep.md)* (DC 14)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[lullaby](../../magic/spells/lullaby.md)* (DC 13), *[mending](../../magic/spells/mending.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Statistics**
 

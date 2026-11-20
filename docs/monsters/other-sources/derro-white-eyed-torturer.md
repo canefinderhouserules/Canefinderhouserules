@@ -24,13 +24,13 @@ CE Small humanoid (derro)
 **Ranged**  mwk repeating light crossbow +15/+10 (1d6/19–20) or aklys +14 (1d6+2)  
 **Special Attacks** sneak attack +7d6  
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
-At will—*darkness*, *ghost sound* (DC 12)  
-1/day—*daze* (DC 12), *sound burst* (DC 14)  
+At will—*[darkness](../../magic/spells/darkness.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 12)  
+1/day—*[daze](../../magic/spells/daze.md)* (DC 12), *[sound burst](../../magic/spells/sound-burst.md)* (DC 14)  
 **Alchemist Extracts Prepared** (CL 11th)  
-4th—*discern lies* (DC 18), *stoneskin*, *universal formula*  
-3rd—*draconic reservoir*, *fly*, *gaseous form*, *haste*, *remove blindness/deafness*  
-2nd—*blur*, *cure moderate wounds*, *detect thoughts* (DC 16), *eagle’s splendor*, *vomit swarm*  
-1st—*cure light wounds*, *disguise self*, *enlarge person* (DC 15), *expeditious retreat*, *shield*, *true strike*
+4th—*[discern lies](../../magic/spells/discern-lies.md)* (DC 18), *[stoneskin](../../magic/spells/stoneskin.md)*, *[universal formula](../../magic/spells/universal-formula.md)*  
+3rd—*[draconic reservoir](../../magic/spells/draconic-reservoir.md)*, *[fly](../../magic/spells/fly.md)*, *[gaseous form](../../magic/spells/gaseous-form.md)*, *[haste](../../magic/spells/haste.md)*, *[remove blindness/deafness](../../magic/spells/remove-blindness-deafness.md)*  
+2nd—*[blur](../../magic/spells/blur.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16), *[eagle’s splendor](../../magic/spells/eagles-splendor.md)*, *[vomit swarm](../../magic/spells/vomit-swarm.md)*  
+1st—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[enlarge person](../../magic/spells/enlarge-person.md)* (DC 15), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*
 
 **Statistics**
 

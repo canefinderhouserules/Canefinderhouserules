@@ -21,9 +21,9 @@ CN Large aberration
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** hypnosis, sneak attack +3d6  
 **Spells Known** (CL 5th; concentration +8)  
-2nd (5/day)—*invisibility*, *scorching ray*  
-1st (7/day)—*charm person* (DC 14), *expeditious retreat*, *magic missile*, *ray of enfeeblement* (DC 14)  
-0 (at will)—*detect magic*, *disrupt undead*, *mage hand*, *open/close*, *prestidigitation*, *ray of frost*
+2nd (5/day)—*[invisibility](../../magic/spells/invisibility.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (7/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 14)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*
 
 **Statistics**
 

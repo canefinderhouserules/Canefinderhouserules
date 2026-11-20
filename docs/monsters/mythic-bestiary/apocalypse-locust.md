@@ -22,7 +22,7 @@ CE Large outsider (evil, extraplanar, mythic)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** abyssal torment, breath weapon (30-ft. line, 1d6 fire damage plus accursed brand, Will DC 15 negates, usable every 2d4 rounds), constrict (1d8+9), maddening buzz, mythic power (3/day, surge +1d6), sting  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-1/day—*summon swarm* (locusts only)
+1/day—*[summon swarm](../../magic/spells/summon-swarm.md)* (locusts only)
 
 **Statistics**
 

@@ -22,9 +22,9 @@ N Colossal magical beast (water)
 **Space** 100 ft., **Reach** 100 ft.  
 **Special Attacks** disjoining bite, eye beams, fast swallow, hurl foe, inhalation, pierce immunities, swallow whole  
 **Spell-Like Abilities** (CL 30th; concentration +40)  
-Constant—*true seeing*  
-3/day—*plane shift* (DC 27)  
-1/day—*tsunami* (DC 29)
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+3/day—*[plane shift](../../magic/spells/plane-shift.md)* (DC 27)  
+1/day—*[tsunami* ](../../magic/spells/tsunami.md)(DC 29)
 
 **Statistics**
 

@@ -21,9 +21,9 @@ LE Huge outsider (evil, extraplanar, lawful)
 **Melee** bite +22 (2d6+9/18-20 plus vicious) and tendrils +17 (2d6+6/19-20 plus vicious)  
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with tentacles)  
 **Spell-Like Abilities** (CL 18th)  
-At will — *death knell* (DC 17), *desecrate* (DC 17), *deeper darkness*, *shadow walk*  
-3/day — *bestow curse* (DC 18), *blindness* (DC 18), *crushing despair* (DC 19), *eyebite* (DC 21), *greater invisibility* (DC 19), *greater shadow conjuration* (DC 22), *find the path*, *plane shift* (DC 20), *symbol of pain* (DC 20)  
-1/day — *blasphemy* (DC 22), *slay living* (DC 20), *unhallow* (DC 20)
+At will — *[death knell](../../magic/spells/death-knell.md)* (DC 17), *[desecrate](../../magic/spells/desecrate.md)* (DC 17), *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[shadow walk](../../magic/spells/shadow-walk.md)*  
+3/day — *[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *[blindness](../../magic/spells/blindness-deafness.md)* (DC 18), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 19), *[eyebite](../../magic/spells/eyebite.md)* (DC 21), *[greater invisibility](../../magic/spells/invisibility-greater.md)* (DC 19), *[greater shadow conjuration](../../magic/spells/shadow-conjuration-greater.md)* (DC 22), *[find the path](../../magic/spells/find-the-path.md)*, *[plane shift](../../magic/spells/plane-shift.md)* (DC 20), *[symbol of pain](../../magic/spells/symbol-of-pain.md)* (DC 20)  
+1/day — *[blasphemy](../../magic/spells/blasphemy.md)* (DC 22), *[slay living](../../magic/spells/slay-living.md)* (DC 20), *[unhallow](../../magic/spells/unhallow.md)* (DC 20)
 
 **Statistics**
 

@@ -25,8 +25,8 @@ LE Medium humanoid (human)
 **Ranged** mwk composite longbow +15 (1d8+6/19-20)  
 **Special Attacks** all-seeing, banner +3/+2, cavalier's charge, challange (+11, +3, 4/day) mighty charge, physical mastery, unquestioned ruler  
 **Spell-Like Abilities** (CL 11th; concentration +15)  
-At will—*charm animal* (DC 15), *charm person*(DC 15), *detect thoughts* (DC 16)  
-3/day—*clairaudience/clairvoyance*, *dominate animal* (DC 17), *dominate person* (DC 19), *mass suggestion* (DC 20), *speak with animals, speak with plants, stone tell*
+At will—*[charm animal](../../magic/spells/charm-animal.md)* (DC 15), *[charm person](../../magic/spells/charm-person.md)*(DC 15), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16)  
+3/day—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[dominate animal](../../magic/spells/dominate-animal.md)* (DC 17), *[dominate person](../../magic/spells/dominate-person.md)* (DC 19), *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 20), *speak with animals, speak with plants, stone tell*
 
 **Statistics**
 

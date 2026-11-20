@@ -22,7 +22,7 @@ N Medium humanoid
 **Ranged**  composite longbow +8/+3 (1d8/×3)  
 **Special Attacks** favored enemy (humanoid [human] +4, animal +2)  
 **Ranger Spells Prepared** (CL 4th; concentration +5)  
-1st—*longstrider*, *speak with animals*
+1st—*[longstrider](../../magic/spells/longstrider.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*
 
 **Statistics**
 

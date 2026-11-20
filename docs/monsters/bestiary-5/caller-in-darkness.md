@@ -24,7 +24,7 @@ CE Large undead (incorporeal)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** consume mind, wrap in despair  
 **Psychic Magic** (CL 10th; concentration +12)  
-12 PE—*aversion* (2 PE, DC 15), *emotive block* (3 PE, DC 16), *greater oneiric horror* (4 PE, DC 17), *mind thrust* V (5 PE, DC 18), *paranoia* (2 PE, DC 15), *telempathic projection* (1 PE, DC 14)
+12 PE—*[aversion](../../magic/spells/aversion.md)* (2 PE, DC 15), *[emotive block](../../magic/spells/emotive-block.md)* (3 PE, DC 16), *[greater oneiric horror](../../magic/spells/oneiric-horror-greater.md)* (4 PE, DC 17), *mind thrust* V (5 PE, DC 18), *[paranoia](../../magic/spells/paranoia.md)* (2 PE, DC 15), *[telempathic projection](../../magic/spells/telempathic-projection.md)* (1 PE, DC 14)
 
 **Statistics**
 

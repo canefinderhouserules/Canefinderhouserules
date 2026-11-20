@@ -21,12 +21,12 @@ CE Medium humanoid (human)
 **Melee** spear +1 (1d8/×3) or mwk cold iron dagger +2 (1d4/19–20)  
 **Ranged**  dart +1 (1d4)  
 **Adept Spells Prepared** (CL 3rd; concentration +4)  
-1st—*burning hands* (DC 12), *detect good*, *protection from good*  
-0 (at will)—*detect magic*, *light*, *read magic*
+1st—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 12), *[detect good](../../magic/spells/detect-good.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Tactics**
 
-**Before Combat** The adept casts *protection from good*.  
+**Before Combat** The adept casts *[protection from good](../../magic/spells/protection-from-good.md)*.  
 **During Combat** The adept casts *burning hands* whenever she can catch two or more foes in the area. When she runs out of spells, scrolls, and acid, she fights with her spear.  
 **Base Statistics** Without *protection from good*, the adept’s statistics are **AC** no bonus vs. good; **Saves** no bonus vs. good.
 

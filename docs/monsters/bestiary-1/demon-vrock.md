@@ -22,8 +22,8 @@ CE Large outsider (chaotic, demon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** dance of ruin, spores, stunning screech  
 **Spell-Like Abilities** (CL 12th)  
-At will—*greater teleport* (self plus 50 lbs. of objects only), *telekinesis* (DC 18)  
-1/day—*heroism*, *mirror image*, summon (level 3, 1 vrock 35%)
+At will—*[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[telekinesis* ](../../magic/spells/telekinesis.md)(DC 18)  
+1/day—*[heroism](../../magic/spells/heroism.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, summon (level 3, 1 vrock 35%)
 
 **Statistics**
 

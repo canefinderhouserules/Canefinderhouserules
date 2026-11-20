@@ -23,13 +23,13 @@ LE Gargantuan dragon (air, mythic)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. cone, 18d6 acid damage, Reflex DC 26 half, usable every 1d4 rounds), crush, delirious breath, dragon fury (2d6 acid), mythic power (8/day, surge +1d10), swallow whole (2d6 bludgeoning and 2d6 acid damage, AC 24, 34 hp), tail sweep (DC 26, 2d6+19)  
 **Spell-Like Abilities** (CL 21st; concentration +27)  
-At will—*arcane eye*, *charm person* (DC 17), *entangle* (DC 17), *plant growth*, *suggestion* (DC 19)  
+At will—*[arcane eye](../../magic/spells/arcane-eye.md)*, *[charm person](../../magic/spells/charm-person.md)* (DC 17), *[entangle](../../magic/spells/entangle.md)* (DC 17), *[plant growth](../../magic/spells/plant-growth.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 19)  
 **Sorcerer Spells Known** (CL 11th; concentration +17)  
-5th (5)—*polymorph*, *teleport*  
-4th (7)—*dimension door*, *ice storm*, *scrying* (DC 20)  
-3rd (7)—*dispel magic*, *displacement*, *haste*  
-2nd (8)—*alter self*, *detect thoughts* (DC 18), *locate object*, *mirror image*, *see invisibility*  
-1st (8)—*magic missile*, *shield*, *silent image* (DC 17), *summon monster I*, *ventriloquism* (DC 17)
+5th (5)—*[polymorph](../../magic/spells/polymorph.md)*, *[teleport](../../magic/spells/teleport.md)*  
+4th (7)—*[dimension door](../../magic/spells/dimension-door.md)*, *[ice storm](../../magic/spells/ice-storm.md)*, *[scrying](../../magic/spells/scrying.md)* (DC 20)  
+3rd (7)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[displacement](../../magic/spells/displacement.md)*, *[haste](../../magic/spells/haste.md)*  
+2nd (8)—*[alter self](../../magic/spells/alter-self.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 18), *[locate object](../../magic/spells/locate-object.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st (8)—*[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[silent image](../../magic/spells/silent-image.md)* (DC 17), *[summon monster I](../../magic/spells/summon-monster-i.md)*, *[ventriloquism](../../magic/spells/ventriloquism.md)* (DC 17)
 
 **Statistics**
 

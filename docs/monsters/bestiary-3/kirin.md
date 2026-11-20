@@ -22,14 +22,14 @@ LG Large magical beast (air)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** breath weapon (15-ft. cone, 5d6 fire damage, Reflex DC 18 for half, usable every 1d4 rounds), powerful charge (gore, 2d8+14)  
 **Spell-Like Abilities** (CL 9th; concentration +15)  
-Constant—*detect evil*, *water walk*  
-At will—*gaseous form*, *gust of wind*  
-1/day—*break enchantment*, *create food and water*, *major creation*, *wind walk* (self only)  
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[water walk](../../magic/spells/water-walk.md)*  
+At will—*[gaseous form](../../magic/spells/gaseous-form.md)*, *[gust of wind](../../magic/spells/gust-of-wind.md)*  
+1/day—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[create food and water](../../magic/spells/create-food-and-water.md)*, *[major creation](../../magic/spells/major-creation.md)*, *[wind walk* ](../../magic/spells/wind-walk.md)(self only)  
 **Spells Known** (CL 6th; concentration +12)  
-3rd (4/day)—*lightning bolt* (DC 19)  
-2nd (7/day)—*lesser restoration*, *scorching ray*  
-1st (8/day)—*color spray* (DC 17), *cure light wounds*, *disguise self*, *remove fear*, *sanctuary* (DC 17)  
-0 (at will)—*arcane mark*, *create water*, *detect magic*, *guidance*, *mage hand*, *mending*, *stabilize*
+3rd (4/day)—*[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 19)  
+2nd (7/day)—*[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (8/day)—*[color spray* ](../../magic/spells/color-spray.md)(DC 17), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[remove fear](../../magic/spells/remove-fear.md)*, *[sanctuary* ](../../magic/spells/sanctuary.md)(DC 17)  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[create water](../../magic/spells/create-water.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

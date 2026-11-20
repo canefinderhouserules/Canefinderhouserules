@@ -25,8 +25,8 @@ NG Medium outsider (native)
 **Spell-Like Abilities** (CL 1st)  
 1/day - *daylight*  
 **Spells Prepared** (CL 1st)  
-1st—*bless*, *command* (DC 14), *protection from evil*<sup>D</sup>  
-0 (at will)—*detect magic*, *guidance*, *stabilize*  
+1st—*[bless](../../magic/spells/bless.md)*, *[command](../../magic/spells/command.md)* (DC 14), *[protection from evil](../../magic/spells/protection-from-evil.md)*<sup>D</sup>  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[stabilize](../../magic/spells/stabilize.md)*  
 **D** domain spell; **Domains** Good, Healing
 
 **Statistics**

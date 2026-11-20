@@ -23,9 +23,9 @@ CG Large outsider (chaotic, extraplanar, good, herald, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** luck domain, penetrating gaze  
 **Spell-Like Abilities** (CL 15th; concentration +22)  
-At will—*freedom of movement*, *greater heroism*, *true strike*  
-3/day—*break enchantment*, *displacement*, *greater dispel magic*, *plane shift* (self and willing targets only), *shout* (DC 21)  
-1/day—*greater planar ally* (one bralani or ghaele azata only), *hallow*, *word of chaos* (DC 24)
+At will—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[greater heroism](../../magic/spells/heroism-greater.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+3/day—*[break enchantment](../../magic/spells/break-enchantment.md)*, *[displacement](../../magic/spells/displacement.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[plane shift* ](../../magic/spells/plane-shift.md)(self and willing targets only), *[shout* ](../../magic/spells/shout.md)(DC 21)  
+1/day—*[greater planar ally* ](../../magic/spells/planar-ally-greater.md)(one bralani or ghaele azata only), *[hallow](../../magic/spells/hallow.md)*, *[word of chaos* ](../../magic/spells/word-of-chaos.md)(DC 24)
 
 **Statistics**
 

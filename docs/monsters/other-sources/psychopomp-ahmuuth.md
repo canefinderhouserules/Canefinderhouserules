@@ -21,9 +21,9 @@ N Medium outsider (extraplanar, psychopomp)
 **Melee** *+1 returning undead–bane dagger* +8/+3 (1d4+1/19–20)  
 **Ranged**  *+1 returning undead–bane dagger* +9 (1d4+1/19–20)  
 **Spell-Like Abilities** (CL 6th; concentration +7)  
-At will—*bleed*, *deathwatch*, *detect undead*, *disrupt undead*, *ghost sound* (DC 11), summon (level 1, 1 great horned owl 100%)  
-3/day—*chill touch* (DC 12), *ghostbane dirge* (DC 13), *greater teleport* (self plus 50 lbs. of objects only), *silence* (DC 13), *spectral hand*  
-1/day—*ghostly disguise*, *locate creature*, *speak with dead*
+At will—*[bleed](../../magic/spells/bleed.md)*, *[deathwatch](../../magic/spells/deathwatch.md)*, *[detect undead](../../magic/spells/detect-undead.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 11), summon (level 1, 1 great horned owl 100%)  
+3/day—*[chill touch* ](../../magic/spells/chill-touch.md)(DC 12), *[ghostbane dirge](../../magic/spells/ghostbane-dirge.md)* (DC 13), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only), *[silence* ](../../magic/spells/silence.md)(DC 13), *[spectral hand](../../magic/spells/spectral-hand.md)*  
+1/day—*[ghostly disguise](../../magic/spells/ghostly-disguise.md)*, *[locate creature](../../magic/spells/locate-creature.md)*, *[speak with dead](../../magic/spells/speak-with-dead.md)*
 
 **Statistics**
 

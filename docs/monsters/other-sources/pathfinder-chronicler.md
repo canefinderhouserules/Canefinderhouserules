@@ -23,9 +23,9 @@ CG Small humanoid (halfling)
 **Ranged**  *+1 light crossbow* +10 (1d6+1/19–20)  
 **Special Attacks** bardic performance 15 rounds/day (move action; countersong, dirge of doom, distraction, epic tales, fascinate, inspire competence +2, inspire courage +2, suggestion, whispering campaign)  
 **Bard Spells Known** (CL 5th; concentration +8)  
-2nd (3/day)—*heroism*, *silence* (DC 15), *tongues*  
-1st (5/day)—*charm person* (DC 14), *cure light wounds*, *detect secret doors*, *identify*  
-0 (at will)—*detect magic*, *know direction*, *light*, *mending*, *message*, *read magic*
+2nd (3/day)—*[heroism](../../magic/spells/heroism.md)*, *[silence](../../magic/spells/silence.md)* (DC 15), *[tongues](../../magic/spells/tongues.md)*  
+1st (5/day)—*[charm person](../../magic/spells/charm-person.md)* (DC 14), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[detect secret doors](../../magic/spells/detect-secret-doors.md)*, *[identify](../../magic/spells/identify.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

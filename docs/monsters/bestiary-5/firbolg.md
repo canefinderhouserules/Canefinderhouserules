@@ -22,8 +22,8 @@ N Large humanoid (giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** oversized weapons, rock throwing (120 ft.)  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
-At will—*reduce person* (DC 13)  
-1/day—*alter self*, *confusion* (DC 16), *detect magic*, *know direction*
+At will—*[reduce person](../../magic/spells/reduce-person.md)* (DC 13)  
+1/day—*[alter self](../../magic/spells/alter-self.md)*, *[confusion](../../magic/spells/confusion.md)* (DC 16), *[detect magic](../../magic/spells/detect-magic.md)*, *[know direction](../../magic/spells/know-direction.md)*
 
 **Statistics**
 

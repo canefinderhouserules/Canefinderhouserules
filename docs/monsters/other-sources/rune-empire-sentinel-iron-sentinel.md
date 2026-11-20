@@ -22,7 +22,7 @@ N Small construct
 **Ranged** icy bolt +13 (1d6 cold plus slow)  
 **Special Attacks** head-butt +16 (1d4+3)  
 **Spell-Like Abilities** (CL 2nd; concentration -1)  
-Constant—*detect magic*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*
 
 **Statistics**
 

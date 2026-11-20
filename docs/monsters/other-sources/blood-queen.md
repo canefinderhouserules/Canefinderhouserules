@@ -22,9 +22,9 @@ CE Gargantuan outsider (native)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** horrifying bellow, swallow whole (15d6 acid damage, AC 26, 47 hp), unholy gestation  
 **Spell-Like Abilities** (CL 23rd; concentration +36)  
-5/day—*cacophonous call* (DC 25), *deeper darkness*, *dispel good* (DC 28), *inflict critical wounds* (DC 27)  
-3/day—*greater command* (DC 28)  
-1/day—*mass suffocation* (DC 32)
+5/day—*[cacophonous call](../../magic/spells/cacophonous-call.md)* (DC 25), *[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[dispel good* ](../../magic/spells/dispel-good.md)(DC 28), *[inflict critical wounds* ](../../magic/spells/inflict-critical-wounds.md)(DC 27)  
+3/day—*[greater command* ](../../magic/spells/command-greater.md)(DC 28)  
+1/day—*[mass suffocation](../../magic/spells/suffocation-mass.md)* (DC 32)
 
 **Statistics**
 

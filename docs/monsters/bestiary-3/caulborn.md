@@ -21,9 +21,9 @@ N Medium outsider (extraplanar)
 **Melee** bite +13 (2d6+3), 2 claws +12 (1d6+3)  
 **Special Attacks** consume thoughts  
 **Spell-Like Abilities** (CL 7th; concentration +11)  
-Constant—*detect magic*, *detect thoughts* (DC 16), *read magic*  
-3/day—*charm monster* (DC 18), *daze monster* (DC 16), *hold monster* (DC 19), *hypnotic pattern* (DC 16), *vampiric touch* (DC 17)  
-1/week—*plane shift* (willing targets only)
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[read magic](../../magic/spells/read-magic.md)*  
+3/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 18), *[daze monster* ](../../magic/spells/daze-monster.md)(DC 16), *[hold monster* ](../../magic/spells/hold-monster.md)(DC 19), *[hypnotic pattern* ](../../magic/spells/hypnotic-pattern.md)(DC 16), *[vampiric touch* ](../../magic/spells/vampiric-touch.md)(DC 17)  
+1/week—*[plane shift* ](../../magic/spells/plane-shift.md)(willing targets only)
 
 **Statistics**
 

@@ -23,13 +23,13 @@ NE Medium humanoid (elf, human)
 **Ranged**  dagger +5 (1d4/19–20)  
 **Special Attacks** bardic performance 18 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +2, *suggestion*)  
 **Bard Spells Known** (CL 6th; concentration +10)  
-2nd (4/day)—*alter self*, *detect thoughts* (DC 16), *minor image* (DC 17), *suggestion* (DC 16)  
-1st (5/day)—*comprehend languages*, *disguise self*, *silent image* (DC 16), *ventriloquism* (DC 16)  
-0 (at will)—*dancing lights*, *detect magic*, *ghost sound* (DC 15), *message*
+2nd (4/day)—*[alter self](../../magic/spells/alter-self.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 16), *[minor image* ](../../magic/spells/minor-image.md)(DC 17), *[suggestion* ](../../magic/spells/suggestion.md)(DC 16)  
+1st (5/day)—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 16), *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 16)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 15), *[message](../../magic/spells/message.md)*
 
 **Tactics**
 
-**During Combat** The bard uses her *potion of invisibility* to hide and *minor image* to make illusory combatants. If pressed, she uses *suggestion* to make her enemies leave the fight.
+**During Combat** The bard uses her *potion of invisibility* to hide and *[minor image* ](../../magic/spells/minor-image.md)to make illusory combatants. If pressed, she uses *[suggestion* ](../../magic/spells/suggestion.md)to make her enemies leave the fight.
 
 **Statistics**
 

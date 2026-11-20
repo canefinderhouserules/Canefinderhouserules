@@ -21,9 +21,9 @@ LN Medium humanoid (human)
 **Speed** 30 ft.  
 **Melee** *+1 longsword* +9/+4 (1d8/19–20)  
 **Prophet Of merchant prophecy Spells Known** (CL 8th; concentration +13)  
-3rd (3)—*clairaudience/clairvoyance*, *glibness*, *suggestion* (DC 20)  
-2nd (5)—*detect thoughts* (DC 17), *hideous laughter* (DC 19), *locate object*, *zone of truth* (DC 19)  
-1st (6)—*charm person* (DC 18), *comprehend languages*, *divine favor*, *hypnotism* (DC 18), *identify*
+3rd (3)—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[glibness](../../magic/spells/glibness.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 20)  
+2nd (5)—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[hideous laughter](../../magic/spells/hideous-laughter.md)* (DC 19), *[locate object](../../magic/spells/locate-object.md)*, *[zone of truth](../../magic/spells/zone-of-truth.md)* (DC 19)  
+1st (6)—*[charm person](../../magic/spells/charm-person.md)* (DC 18), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[hypnotism](../../magic/spells/hypnotism.md)* (DC 18), *[identify](../../magic/spells/identify.md)*
 
 **Statistics**
 

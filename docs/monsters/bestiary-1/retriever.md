@@ -22,7 +22,7 @@ CE Huge construct (extraplanar)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** eye rays (+16 ranged touch)  
 **Spell-Like Abilities** (CL 20th)  
-At will—*discern location*
+At will—*[discern location](../../magic/spells/discern-location.md)*
 
 **Statistics**
 

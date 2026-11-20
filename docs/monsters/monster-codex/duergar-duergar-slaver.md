@@ -24,7 +24,7 @@ LE Medium humanoid (dwarf)
 **Ranged**  mwk light crossbow +3 (1d8/19–20)  
 **Special Attacks** sneak attack +1d6  
 **Spell-Like Abilities** (CL 1st; concentration –2)  
-1/day—*enlarge person* (self only), *invisibility* (self only)
+1/day—*[enlarge person](../../magic/spells/enlarge-person.md)* (self only), *[invisibility](../../magic/spells/invisibility.md)* (self only)
 
 **Statistics**
 

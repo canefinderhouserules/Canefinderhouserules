@@ -22,11 +22,11 @@ N Medium humanoid (human)
 **Ranged**  bomb +8 (3d6+4 fire) or dagger +7 (1d4/19–20)  
 **Special Attacks** bomb 9/day (3d6+4 fire, DC 16), sneak attack +2d6  
 **Spell-Like Abilities** (CL 5th)  
-At will—*detect magic*  
-3/day—*blood biography*, *residual tracking*  
+At will—*[detect magic](../../magic/spells/detect-magic.md)*  
+3/day—*[blood biography](../../magic/spells/blood-biography.md)*, *[residual tracking](../../magic/spells/residual-tracking.md)*  
 **Alchemist Extracts Prepared** (CL 5th)  
-2nd—*detect thoughts* (DC 16), *invisibility*, *perceive cues*  
-1st—*comprehend languages*, *cure light wounds*, *detect secret doors*, *disguise self*, *expeditious retreat*
+2nd—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16), *[invisibility](../../magic/spells/invisibility.md)*, *[perceive cues](../../magic/spells/perceive-cues.md)*  
+1st—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[detect secret doors](../../magic/spells/detect-secret-doors.md)*, *[disguise self](../../magic/spells/disguise-self.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*
 
 **Statistics**
 

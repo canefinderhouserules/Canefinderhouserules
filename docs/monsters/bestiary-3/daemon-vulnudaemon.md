@@ -22,9 +22,9 @@ NE Small outsider (daemon, evil, extraplanar)
 **Melee** short sword +10/+5 (1d4+2/19–20 plus bleed), bite +5 (1d3+1)  
 **Special Attacks** bleed (1d4), sneak attack +1d6  
 **Spell-Like Abilities** (CL 7th; concentration +10)  
-Constant—*detect good*, *detect magic*  
-3/day—*blur*, *death knell* (DC 15), *invisibility*, *minor image* (DC 15)  
-1/day—*inflict critical wounds* (DC 17), summon (level 2, 1d4 cacodaemons 40%)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+3/day—*[blur](../../magic/spells/blur.md)*, *[death knell* ](../../magic/spells/death-knell.md)(DC 15), *[invisibility](../../magic/spells/invisibility.md)*, *[minor image* ](../../magic/spells/minor-image.md)(DC 15)  
+1/day—*[inflict critical wounds* ](../../magic/spells/inflict-critical-wounds.md)(DC 17), summon (level 2, 1d4 cacodaemons 40%)
 
 **Statistics**
 

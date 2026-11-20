@@ -23,16 +23,16 @@ NG Huge dragon
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, DC 27, 12d6 cold or fire)  
 **Psychic Magic** (CL 20th; concentration +27)  
-17 PE—*augury* (2 PE), *blood biography* (3 PE), *cognitive block* (3 PE), *debilitating portent* (4 PE), *divination* (4 PE), *forbid action* (1 PE, DC 19), *invisibility* (2 PE), *mending* (0 PE), *speak with dead* (3 PE)  
+17 PE—*[augury* ](../../magic/spells/augury.md)(2 PE), *[blood biography* ](../../magic/spells/blood-biography.md)(3 PE), *[cognitive block* ](../../magic/spells/cognitive-block.md)(3 PE), *[debilitating portent* ](../../magic/spells/debilitating-portent.md)(4 PE), *[divination* ](../../magic/spells/divination.md)(4 PE), *[forbid action* ](../../magic/spells/forbid-action.md)(1 PE, DC 19), *[invisibility* ](../../magic/spells/invisibility.md)(2 PE), *[mending* ](../../magic/spells/mending.md)(0 PE), *[speak with dead* ](../../magic/spells/speak-with-dead.md)(3 PE)  
  **Psychic Spells Known** (CL 15th; concentration +22)  
-7th (5/day)—*greater teleport*, *limited wish*  
- 6th (7/day)—*blade barrier* (DC 23), *permanent image* (DC 23), *repress memory*  
- 5th (7/day)—*dismissal* (DC 22), *mind fog* (DC 22), *psychic crush I*, *synapse overload*  
- 4th (7/day)—*confusion* (DC 21), *dimension door*, *dream*, *spell immunity*  
- 3rd (8/day)—*clairaudience/clairvoyance*, *gaseous form*, *mental barrier II*, *speak with dead* (DC 20)  
- 2nd (8/day)—*hideous laughter* (DC 19), *hold person* (DC 19), *protection from arrows*, *suggestion* (DC 19), *zone of truth* (DC 19)  
- 1st (8/day)—*burst of adrenaline*, *charm person* (DC 18), *burst of insight*, *interrogation* (DC 18), *mage armor*  
- 0 (at will)—*detect poison*, *ghost sound* (DC 17), *grave words*, *mage hand*, *message*, *read magic*, *resistance*, *telekinetic projectile*, *virtue*
+7th (5/day)—*[greater teleport](../../magic/spells/teleport-greater.md)*, *[limited wish](../../magic/spells/limited-wish.md)*  
+ 6th (7/day)—*[blade barrier* ](../../magic/spells/blade-barrier.md)(DC 23), *[permanent image* ](../../magic/spells/permanent-image.md)(DC 23), *[repress memory](../../magic/spells/repress-memory.md)*  
+ 5th (7/day)—*[dismissal* ](../../magic/spells/dismissal.md)(DC 22), *[mind fog* ](../../magic/spells/mind-fog.md)(DC 22), *[psychic crush I](../../magic/spells/psychic-crush-i.md)*, *[synapse overload](../../magic/spells/synapse-overload.md)*  
+ 4th (7/day)—*[confusion* ](../../magic/spells/confusion.md)(DC 21), *[dimension door](../../magic/spells/dimension-door.md)*, *[dream](../../magic/spells/dream.md)*, *[spell immunity](../../magic/spells/spell-immunity.md)*  
+ 3rd (8/day)—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[gaseous form](../../magic/spells/gaseous-form.md)*, *[mental barrier II](../../magic/spells/mental-barrier-ii.md)*, *[speak with dead](../../magic/spells/speak-with-dead.md)* (DC 20)  
+ 2nd (8/day)—*[hideous laughter](../../magic/spells/hideous-laughter.md)* (DC 19), *[hold person](../../magic/spells/hold-person.md)* (DC 19), *[protection from arrows](../../magic/spells/protection-from-arrows.md)*, *[suggestion* ](../../magic/spells/suggestion.md)(DC 19), *[zone of truth* ](../../magic/spells/zone-of-truth.md)(DC 19)  
+ 1st (8/day)—*[burst of adrenaline](../../magic/spells/burst-of-adrenaline.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 18), *[burst of insight](../../magic/spells/burst-of-insight.md)*, *[interrogation* ](../../magic/spells/interrogation.md)(DC 18), *[mage armor](../../magic/spells/mage-armor.md)*  
+ 0 (at will)—*[detect poison](../../magic/spells/detect-poison.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 17), *[grave words](../../magic/spells/grave-words.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*, *[telekinetic projectile](../../magic/spells/telekinetic-projectile.md)*, *[virtue](../../magic/spells/virtue.md)*
 
 **Statistics**
 

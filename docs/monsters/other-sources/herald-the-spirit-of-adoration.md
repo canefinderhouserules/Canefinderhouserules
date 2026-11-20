@@ -24,7 +24,7 @@ NG Large outsider (extraplanar, good, herald, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** bardic magic, bardic performance 40 rounds/day (swift action; countersong, distraction, fascinate, inspire courage +4)  
 **Spell-Like Abilities** (CL 16th; concentration +22)  
-At will—*calm emotions* (DC 18), *good hope*, *cure moderate wounds*, *teleport* (self plus 50 lbs. only)
+At will—*[calm emotions* ](../../magic/spells/calm-emotions.md)(DC 18), *[good hope](../../magic/spells/good-hope.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[teleport* ](../../magic/spells/teleport.md)(self plus 50 lbs. only)
 
 **Statistics**
 

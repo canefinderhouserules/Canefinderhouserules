@@ -20,7 +20,7 @@ CE Tiny magical beast
 **Melee** bite +6 (1d3–2 plus bleed 1), 2 claws +6 (1d2–2)  
 **Special Attacks** bleed 1  
 **Spell-Like Abilities** (CL 1st; concentration –2)  
-Constant—*detect magic*, *speak with animals*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*
 
 **Statistics**
 

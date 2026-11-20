@@ -22,8 +22,8 @@ N Large magical beast (extraplanar)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** pounce, rake (2 claws +9, 1d4+7)  
 **Spell-Like Abilities** (CL 5th, concentration +5)  
-3/day—*dream*, *nightmare* (DC 15)  
-1/day—*dream council* (DC 16), *dream travel* (DC 16), *mind thrust III* (DC 13), *plane shift* (self plus 50 lbs. of objects only)
+3/day—*[dream](../../magic/spells/dream.md)*, *[nightmare](../../magic/spells/nightmare.md)* (DC 15)  
+1/day—*[dream council](../../magic/spells/dream-council.md)* (DC 16), *[dream travel](../../magic/spells/dream-travel.md)* (DC 16), *[mind thrust III](../../magic/spells/mind-thrust-iii.md)* (DC 13), *[plane shift](../../magic/spells/plane-shift.md)* (self plus 50 lbs. of objects only)
 
 **Statistics**
 

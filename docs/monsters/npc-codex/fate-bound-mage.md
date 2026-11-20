@@ -24,16 +24,16 @@ N Medium humanoid (human)
 **Spell-Like Abilities** (CL 19th; concentration +26)  
 10/day—touch of destiny (+9)  
 **Sorcerer Spells Known** (CL 19th; concentration +26)  
-9th (4/day)—*crushing hand*, *foresight*, *time stop*  
-8th (6/day)—*greater shout* (DC 27), *moment of prescience*, *power word stun*, *protection from spells*  
-7th (7/day)—*limited wish*, *mage’s magnificent mansion*, *mage’s sword*, *spell turning*  
-6th (7/day)—*chain lightning* (DC 25), *disintegrate* (DC 23), *globe of invulnerability*, *mislead*  
-5th (7/day)—*baleful polymorph* (DC 22), *break enchantment*, *cone of cold* (DC 24), *dominate person* (DC 22), *teleport*  
-4th (7/day)—*bestow curse* (DC 21), *charm monster* (DC 21), *dimension door*, *freedom of movement*, *stoneskin*  
-3rd (8/day)—*dispel magic*, *fly*, *lightning bolt* (DC 22), *phantom steed*, *protection from energy*  
-2nd (8/day)—*acid arrow*, *blur*, *false life*, *fog cloud*, *knock*, *scorching ray*  
-1st (8/day)—*alarm*, *burning hands* (DC 20), *mage armor*, *magic missile*, *shield*, *true strike*  
-0 (at will)—*acid splash*, *arcane mark*, *detect magic*, *detect poison*, *light*, *mending*, *open/close*, *prestidigitation*, *read magic*  
+9th (4/day)—*[crushing hand](../../magic/spells/crushing-hand.md)*, *[foresight](../../magic/spells/foresight.md)*, *[time stop](../../magic/spells/time-stop.md)*  
+8th (6/day)—*[greater shout* ](../../magic/spells/shout-greater.md)(DC 27), *[moment of prescience](../../magic/spells/moment-of-prescience.md)*, *[power word stun](../../magic/spells/power-word-stun.md)*, *[protection from spells](../../magic/spells/protection-from-spells.md)*  
+7th (7/day)—*[limited wish](../../magic/spells/limited-wish.md)*, *[mage’s magnificent mansion](../../magic/spells/mages-magnificent-mansion.md)*, *[mage’s sword](../../magic/spells/mages-sword.md)*, *[spell turning](../../magic/spells/spell-turning.md)*  
+6th (7/day)—*[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 25), *[disintegrate* ](../../magic/spells/disintegrate.md)(DC 23), *[globe of invulnerability](../../magic/spells/globe-of-invulnerability.md)*, *[mislead](../../magic/spells/mislead.md)*  
+5th (7/day)—*[baleful polymorph* ](../../magic/spells/baleful-polymorph.md)(DC 22), *[break enchantment](../../magic/spells/break-enchantment.md)*, *[cone of cold* ](../../magic/spells/cone-of-cold.md)(DC 24), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 22), *[teleport](../../magic/spells/teleport.md)*  
+4th (7/day)—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 21), *[charm monster* ](../../magic/spells/charm-monster.md)(DC 21), *[dimension door](../../magic/spells/dimension-door.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (8/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[fly](../../magic/spells/fly.md)*, *[lightning bolt* ](../../magic/spells/lightning-bolt.md)(DC 22), *[phantom steed](../../magic/spells/phantom-steed.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*  
+2nd (8/day)—*[acid arrow](../../magic/spells/acid-arrow.md)*, *[blur](../../magic/spells/blur.md)*, *[false life](../../magic/spells/false-life.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*, *[knock](../../magic/spells/knock.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (8/day)—*[alarm](../../magic/spells/alarm.md)*, *[burning hands* ](../../magic/spells/burning-hands.md)(DC 20), *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[shield](../../magic/spells/shield.md)*, *[true strike](../../magic/spells/true-strike.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** destined
 
 **Tactics**

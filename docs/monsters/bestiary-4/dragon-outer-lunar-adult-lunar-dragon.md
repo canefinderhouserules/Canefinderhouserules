@@ -23,12 +23,12 @@ CN Huge dragon
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** bewildering breath, breath weapon (100-ft. line, 12d8 cold, DC 23), crush, moonsilver  
 **Spell-Like Abilities** (CL 16th; concentration +21)  
-At will—*dancing lights*, *life bubble*, *moonstruck*  
+At will—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[life bubble](../../magic/spells/life-bubble.md)*, *[moonstruck](../../magic/spells/moonstruck.md)*  
 **Sorcerer Spells Known** (CL 7th; concentration +12)  
-3rd (3/day)—*haste*, *heroism*  
-2nd (5/day)—*blur*, *hypnotic pattern* (DC 17), *mirror image*  
-1st (7/day)—*comprehend languages*, *mage armor*, *protection from evil*, *shocking grasp*, *vanish*  
-0 (at will)—*arcane mark*, *detect magic*, *light*, *mage hand*, *prestidigitation*, *read magic*, *resistance*
+3rd (3/day)—*[haste](../../magic/spells/haste.md)*, *[heroism](../../magic/spells/heroism.md)*  
+2nd (5/day)—*[blur](../../magic/spells/blur.md)*, *[hypnotic pattern* ](../../magic/spells/hypnotic-pattern.md)(DC 17), *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (7/day)—*[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[protection from evil](../../magic/spells/protection-from-evil.md)*, *[shocking grasp](../../magic/spells/shocking-grasp.md)*, *[vanish](../../magic/spells/vanish.md)*  
+0 (at will)—*[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

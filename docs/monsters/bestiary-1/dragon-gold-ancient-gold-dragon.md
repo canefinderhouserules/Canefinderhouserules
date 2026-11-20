@@ -24,16 +24,16 @@ LG Gargantuan dragon (fire)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. cone, DC 31, 20d10 fire), crush, tail sweep, weaken breath  
 **Spell-Like Abilities** (CL 26th)  
-At will—*bless*, *daylight*, *detect evil*, *geas/quest*, *sunburst* (DC 25)  
+At will—*[bless](../../magic/spells/bless.md)*, *[daylight](../../magic/spells/daylight.md)*, *[detect evil](../../magic/spells/detect-evil.md)*, *[geas/quest](../../magic/spells/geas-quest.md)*, *[sunburst* ](../../magic/spells/sunburst.md)(DC 25)  
 **Spells Known** (CL 15th)  
-7th (5/day)—*greater teleport*, *resurrection*  
-6th (7/day)—*antimagic field*, *greater dispel magic*, *heal*  
-5th (7/day)—*dispel evil*, *plane shift*, *teleport*, *true seeing*  
-4th (7/day)—*divination*, *restoration*, *spell immunity*, *stoneskin*  
-3rd (7/day)—*dispel magic*, *haste*, *invisibility purge*, *prayer*  
-2nd (8/day)—*aid*, *cure moderate wounds*, *lesser restoration*, *resist energy*, *silence*  
-1st (8/day)—*alarm*, *divine favor*, *mage armor*, *shield*, *shield of faith*  
-0 (at will)—*detect magic*, *light*, *mending*, *stabilize*, 6 more
+7th (5/day)—*[greater teleport](../../magic/spells/teleport-greater.md)*, *[resurrection](../../magic/spells/resurrection.md)*  
+6th (7/day)—*[antimagic field](../../magic/spells/antimagic-field.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[heal](../../magic/spells/heal.md)*  
+5th (7/day)—*[dispel evil](../../magic/spells/dispel-evil.md)*, *[plane shift](../../magic/spells/plane-shift.md)*, *[teleport](../../magic/spells/teleport.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+4th (7/day)—*[divination](../../magic/spells/divination.md)*, *[restoration](../../magic/spells/restoration.md)*, *[spell immunity](../../magic/spells/spell-immunity.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (7/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[haste](../../magic/spells/haste.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[prayer](../../magic/spells/prayer.md)*  
+2nd (8/day)—*[aid](../../magic/spells/aid.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)*, *[lesser restoration](../../magic/spells/restoration-lesser.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[silence](../../magic/spells/silence.md)*  
+1st (8/day)—*[alarm](../../magic/spells/alarm.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[shield](../../magic/spells/shield.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[stabilize](../../magic/spells/stabilize.md)*, 6 more
 
 **Statistics**
 

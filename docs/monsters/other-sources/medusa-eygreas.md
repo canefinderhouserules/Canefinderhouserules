@@ -24,7 +24,7 @@ LE Large monstrous humanoid
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** constrict (1d8+1), favored enemy (humans +2, monstrous humanoids +4), petrifying gaze  
 **Ranger Spells Prepared** (CL 2nd; concentration +3)  
-1st—*entangle* (DC 12), *pass without trace*
+1st—*[entangle* ](../../magic/spells/entangle.md)(DC 12), *[pass without trace](../../magic/spells/pass-without-trace.md)*
 
 **Statistics**
 

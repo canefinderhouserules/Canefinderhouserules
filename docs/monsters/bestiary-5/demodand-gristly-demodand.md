@@ -21,10 +21,10 @@ CE Medium outsider (chaotic, demodand, evil, extraplanar)
 **Melee** +1 vicious maul +34/+29/+24/+19 (2d6+16/19-20/×3 plus 2d6) or 2 claws +33 (2d6+10)  
 **Special Attacks** faith-stealing strike (DC 25), sacrilegious spittle  
 **Spell-Like Abilities** (CL 17th; concentration +21)  
-Constant—*detect good*, *detect magic*, *see invisibility*  
-At will—*dimensional anchor*, *fear* (DC 18), *protection from good*, *seek thoughts* (DC 17)  
-3/day—quickened *excruciating deformation* (DC 17), *greater dispel magic*, quickened *pain strike* (DC 17)  
-1/day—*mass pain strike* (DC 19), summon (level 6, 1d4 tarry demodands or 1d2 stringy demodands 55%), *waves of exhaustion*
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[dimensional anchor](../../magic/spells/dimensional-anchor.md)*, *[fear](../../magic/spells/fear.md)* (DC 18), *[protection from good](../../magic/spells/protection-from-good.md)*, *[seek thoughts](../../magic/spells/seek-thoughts.md)* (DC 17)  
+3/day—quickened *[excruciating deformation](../../magic/spells/excruciating-deformation.md)* (DC 17), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, quickened *[pain strike](../../magic/spells/pain-strike.md)* (DC 17)  
+1/day—*[mass pain strike](../../magic/spells/pain-strike-mass.md)* (DC 19), summon (level 6, 1d4 tarry demodands or 1d2 stringy demodands 55%), *[waves of exhaustion](../../magic/spells/waves-of-exhaustion.md)*
 
 **Statistics**
 

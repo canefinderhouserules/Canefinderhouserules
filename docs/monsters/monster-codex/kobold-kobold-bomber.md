@@ -23,7 +23,7 @@ LE Small humanoid (reptilian)
 **Ranged**  sling +5 (1d3–1)  
 **Special Attacks** bomb 6/day (1d6+2 fire, DC 13), bomb trap  
 **Alchemist Extracts Prepared** (CL 2nd)  
-1st—*abjuring step*, *endure elements*, *shield*
+1st—*[abjuring step](../../magic/spells/abjuring-step.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[shield](../../magic/spells/shield.md)*
 
 **Tactics**
 

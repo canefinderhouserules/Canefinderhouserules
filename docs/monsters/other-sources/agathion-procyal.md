@@ -20,10 +20,10 @@ NG Medium outsider (agathion, extraplanar, good)
 **Speed** 30 ft.  
 **Melee** *+1 short sword* +12/+7 (1d6+2/19–20) or 2 claws +11 (1d4+1)  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
-Constant—*speak with animals*  
-At will—*calm emotions* (DC 15), *magic aura* (DC 14), *suggestion* (DC 16)  
-3/day—*charm monster* (DC 17), *dispel magic*, *dimension door* (self plus 50 lbs. of objects only), *heroism*, *invisibility*, *shadow conjuration* (DC 17)  
-1/day—*blood biography*(DC 16), *dominate person* (DC 18), *spiritual ally*
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[calm emotions](../../magic/spells/calm-emotions.md)* (DC 15), *[magic aura](../../magic/spells/magic-aura.md)* (DC 14), *[suggestion](../../magic/spells/suggestion.md)* (DC 16)  
+3/day—*[charm monster](../../magic/spells/charm-monster.md)* (DC 17), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[dimension door](../../magic/spells/dimension-door.md)* (self plus 50 lbs. of objects only), *[heroism](../../magic/spells/heroism.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[shadow conjuration](../../magic/spells/shadow-conjuration.md)* (DC 17)  
+1/day—*[blood biography](../../magic/spells/blood-biography.md)*(DC 16), *[dominate person](../../magic/spells/dominate-person.md)* (DC 18), *[spiritual ally](../../magic/spells/spiritual-ally.md)*
 
 **Statistics**
 

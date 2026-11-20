@@ -23,9 +23,9 @@ NE Small humanoid (goblinoid)
 **Ranged**  light crossbow +12 (1d6/19–20)  
 **Special Attacks** bomb 10/day (4d6+3 fire, DC 16)  
 **Alchemist Extracts Prepared** (CL 7th)  
-3rd—*heroism*, *resinous skin* (DC 16)  
-2nd—*alchemical allocation* (2), *barkskin*, *see invisibility*  
-1st—*disguise self*, *expeditious retreat*, *reduce person* (DC 14), *shield*, *targeted bomb admixture*
+3rd—*[heroism](../../magic/spells/heroism.md)*, *[resinous skin](../../magic/spells/resinous-skin.md)* (DC 16)  
+2nd—*[alchemical allocation](../../magic/spells/alchemical-allocation.md)* (2), *[barkskin](../../magic/spells/barkskin.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+1st—*[disguise self](../../magic/spells/disguise-self.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[reduce person](../../magic/spells/reduce-person.md)* (DC 14), *[shield](../../magic/spells/shield.md)*, *[targeted bomb admixture](../../magic/spells/targeted-bomb-admixture.md)*
 
 **Tactics**
 

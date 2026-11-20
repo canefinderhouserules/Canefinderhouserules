@@ -23,9 +23,9 @@ NE Huge aberration (aquatic)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** psychic spike, slime  
 **Spell-Like Abilities** (CL 15th; concentration +21)  
-At will—*crushing despair* (DC 20), *detect thoughts* (DC 18), *inflict pain*OA (DC 19), *project image* (DC 23)  
-3/day—scarring *crushing despair* (DC 20), *emotive block* (DC 19), *mad hallucination* (DC 18), *mind thrust IV* (DC 20), *modify memory* (DC 20)  
-1/day—*eyebite* (DC 22)
+At will—*[crushing despair](../../magic/spells/crushing-despair.md)* (DC 20), *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 18), *[inflict pain](../../magic/spells/inflict-pain.md)*OA (DC 19), *[project image](../../magic/spells/project-image.md)* (DC 23)  
+3/day—scarring *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 20), *[emotive block](../../magic/spells/emotive-block.md)* (DC 19), *[mad hallucination](../../magic/spells/mad-hallucination.md)* (DC 18), *[mind thrust IV](../../magic/spells/mind-thrust-iv.md)* (DC 20), *[modify memory](../../magic/spells/modify-memory.md)* (DC 20)  
+1/day—*[eyebite](../../magic/spells/eyebite.md)* (DC 22)
 
 **Statistics**
 

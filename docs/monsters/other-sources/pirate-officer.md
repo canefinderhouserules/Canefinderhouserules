@@ -22,9 +22,9 @@ CN Medium humanoid (elf, human)
 **Ranged**  dagger +6 (1d4/19–20)  
 **Special Attacks** bardic performance 13 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +1)  
 **Bard Spells Known** (CL 4th; concentration +7)  
-2nd (2/day)—*enthrall* (DC 15), *rage* (DC 15)  
-1st (4/day)—*charm person* (DC 14), *comprehend languages*, *hypnotism* (DC 14), *summon monster I*  
-0 (at will)—*daze* (DC 13), *detect magic*, *know direction*, *message*, *read magic*, *resistance*
+2nd (2/day)—*[enthrall* ](../../magic/spells/enthrall.md)(DC 15), *[rage* ](../../magic/spells/rage.md)(DC 15)  
+1st (4/day)—*[charm person* ](../../magic/spells/charm-person.md)(DC 14), *[comprehend languages](../../magic/spells/comprehend-languages.md)*, *[hypnotism* ](../../magic/spells/hypnotism.md)(DC 14), *[summon monster I](../../magic/spells/summon-monster-i.md)*  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[message](../../magic/spells/message.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

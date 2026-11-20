@@ -23,7 +23,7 @@ CE Large aberration (shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** blood drain (1d2 Constitution), explosive expansion, rock throwing (120 ft.)  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
-Constant—*tongues*
+Constant—*[tongues](../../magic/spells/tongues.md)*
 
 **Statistics**
 

@@ -23,11 +23,11 @@ CE Large dragon (mythic, water)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** bleed (1d4), breath weapon (80-ft. line, 14d6 acid damage, Reflex DC 24 half, usable every 1d4 rounds), corrupt water, dragon fury (1d6 acid). mythic power (6/day, surge +1d8), lingering breath (2d6 acid, 6 rounds), swallow whole (1d6+9 bludgeoning and 1d6 acid damage, AC 23, 26 hp)  
 **Spell-Like Abilities** (CL 16th; concentration +19)  
-Constant—*speak with animals* (reptiles only)  
-At will—*darkness* (70-ft. radius)  
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)* (reptiles only)  
+At will—*[darkness](../../magic/spells/darkness.md)* (70-ft. radius)  
 **Spells Known** (CL 5th; concentration +8)  
-2nd (5)—*blur*, *invisibility*  
-1st (7)—*alarm*, *mage armor*, *magic missile*, *obscuring mist*
+2nd (5)—*[blur](../../magic/spells/blur.md)*, *[invisibility](../../magic/spells/invisibility.md)*  
+1st (7)—*[alarm](../../magic/spells/alarm.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[magic missile](../../magic/spells/magic-missile.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*
 
 **Statistics**
 

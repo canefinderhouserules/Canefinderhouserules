@@ -22,10 +22,10 @@ CE Colossal aberration (aquatic, chaotic, evil)
 **Space** 30 ft., **Reach** 30 ft.  
 **Special Attacks** overcharge synapses, plasma bolt, shatter mind, void maw  
 **Spell-Like Abilities** (CL 23rd; concentration +34)  
-Constant—*true seeing*  
-At will—*deeper darkness*, *detect magic*, *dimension door*, *freedom of movement*, *protection from good*, *protection from law*  
-3/day—*feeblemind* (DC 26), *nightmare* (DC 26), *telekinesis* (DC 26)  
-1/day—*insanity* (DC 28), *mind blank*, *overwhelming presence* (DC 30), *repulsion* (DC 27)
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[dimension door](../../magic/spells/dimension-door.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[protection from good](../../magic/spells/protection-from-good.md)*, *[protection from law](../../magic/spells/protection-from-law.md)*  
+3/day—*[feeblemind](../../magic/spells/feeblemind.md)* (DC 26), *[nightmare](../../magic/spells/nightmare.md)* (DC 26), *[telekinesis](../../magic/spells/telekinesis.md)* (DC 26)  
+1/day—*[insanity](../../magic/spells/insanity.md)* (DC 28), *[mind blank](../../magic/spells/mind-blank.md)*, *[overwhelming presence](../../magic/spells/overwhelming-presence.md)* (DC 30), *[repulsion](../../magic/spells/repulsion.md)* (DC 27)
 
 **Statistics**
 

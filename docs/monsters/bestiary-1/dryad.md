@@ -22,10 +22,10 @@ CG Medium fey
 **Melee** dagger +7 (1d4)  
 **Ranged**  masterwork longbow +8 (1d8)  
 **Spell-Like Abilities** (CL 6th)  
-Constant—*speak with plants*  
-At will—*entangle* (DC 15), *tree shape*, *wood shape* (1 lb. only)  
-3/day—*charm person* (DC 15), *deep slumber* (DC 17), *tree stride*  
-1/day—*suggestion* (DC 17)
+Constant—*[speak with plants](../../magic/spells/speak-with-plants.md)*  
+At will—*[entangle* ](../../magic/spells/entangle.md)(DC 15), *[tree shape](../../magic/spells/tree-shape.md)*, *[wood shape* ](../../magic/spells/wood-shape.md)(1 lb. only)  
+3/day—*[charm person* ](../../magic/spells/charm-person.md)(DC 15), *[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 17), *[tree stride](../../magic/spells/tree-stride.md)*  
+1/day—*[suggestion* ](../../magic/spells/suggestion.md)(DC 17)
 
 **Statistics**
 

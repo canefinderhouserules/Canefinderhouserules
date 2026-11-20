@@ -21,9 +21,9 @@ Always CN Large outsider (chaotic, elf, extraplanar, shapechanger)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** alluring scent, mind control  
 **Spell-Like Abilities** (CL 14th)  
-At will — *dimension door*, *dispel magic*, *lover’s vengeance* (DC 18, see page 62), *message*, *neutralize poison*, *rage*, *secret speech* (DC 17, see page 62)  
-5/day — *crushing despair* (DC 19), *cat’s grace*, *cure moderate wounds* (DC 17), *remove disease*, *suggestion* (DC 18), *summon swarm*, *telekinesis*, *teleport*, *wall of thorns*  
-1/day — *heal* (DC 21), *insect plague*, *scrying* (DC 19)
+At will — *[dimension door](../../magic/spells/dimension-door.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[lover’s vengeance](../../magic/spells/lovers-vengeance.md)* (DC 18, see page 62), *[message](../../magic/spells/message.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[rage](../../magic/spells/rage.md)*, *[secret speech](../../magic/spells/secret-speech.md)* (DC 17, see page 62)  
+5/day — *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 19), *[cat’s grace](../../magic/spells/cats-grace.md)*, *[cure moderate wounds](../../magic/spells/cure-moderate-wounds.md)* (DC 17), *[remove disease](../../magic/spells/remove-disease.md)*, *[suggestion](../../magic/spells/suggestion.md)* (DC 18), *[summon swarm](../../magic/spells/summon-swarm.md)*, *[telekinesis](../../magic/spells/telekinesis.md)*, *[teleport](../../magic/spells/teleport.md)*, *[wall of thorns](../../magic/spells/wall-of-thorns.md)*  
+1/day — *[heal](../../magic/spells/heal.md)* (DC 21), *[insect plague](../../magic/spells/insect-plague.md)*, *[scrying](../../magic/spells/scrying.md)* (DC 19)
 
 **Statistics**
 

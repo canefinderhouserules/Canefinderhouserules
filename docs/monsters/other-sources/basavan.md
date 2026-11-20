@@ -22,9 +22,9 @@ NG Huge monstrous humanoid
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** rock throwing (120 ft.)  
 **Spell-Like Abilities** (CL 20th; concentration +23)  
-At will—*mending*  
-3/day—*forest’s sense* (DC 17), *make whole*, *soothing mud*, *stone shape*, *stoneskin*  
-1/day—*commune with nature*, *transmute rock to mud*, *tree stride*
+At will—*[mending](../../magic/spells/mending.md)*  
+3/day—*[forest’s sense](../../magic/spells/forests-sense.md)* (DC 17), *[make whole](../../magic/spells/make-whole.md)*, *[soothing mud](../../magic/spells/soothing-mud.md)*, *[stone shape](../../magic/spells/stone-shape.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*  
+1/day—*[commune with nature](../../magic/spells/commune-with-nature.md)*, *[transmute rock to mud](../../magic/spells/transmute-rock-to-mud.md)*, *[tree stride](../../magic/spells/tree-stride.md)*
 
 **Statistics**
 

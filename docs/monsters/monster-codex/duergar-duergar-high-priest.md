@@ -24,19 +24,19 @@ LE Medium humanoid (dwarf)
 **Ranged**  mwk light crossbow +10 (1d8/19–20)  
 **Special Attacks** channel negative energy 4/day (DC 17, 7d6)  
 **Spell-Like Abilities** (CL 13th; concentration +14)  
-1/day—*enlarge person* (self only), *invisibility* (self only), *ironskin*  
+1/day—*[enlarge person](../../magic/spells/enlarge-person.md)* (self only), *[invisibility](../../magic/spells/invisibility.md)* (self only), *[ironskin](../../magic/spells/ironskin.md)*  
 **Domain Spell-Like Abilities** (CL 13th; concentration +18)  
 8/day—copycat (13 rounds), dazing touch  
 At will—charming smile (13 rounds/day, DC 16), master’s illusion (13 rounds/day, DC 21)  
 **Cleric Spells Prepared** (CL 13th; concentration +18)  
-7th—*blasphemy* (DC 22), *insanity*<sup>D</sup> (DC 22)  
-6th—*blade barrier* (DC 21), *harm* (DC 21), *mislead*<sup>D</sup> (DC 21)  
-5th—*break enchantment* (DC 20), *breath of life*, *charm monster*<sup>D</sup> (DC 20), *slay living* (DC 20), *wall of stone* (DC 20)  
-4th—*cure critical wounds*, *divine power*, *freedom of movement*, *heroism*<sup>D</sup>, *spell immunity*, *unholy blight* (DC 19)  
-3rd—*bestow curse* (DC 18), *dispel magic*, *invisibility purge*, *stone shape*, *suggestion*<sup>D</sup> (DC 18), *wind wall*  
-2nd—*control vermin* (DC 17), *hold person* (2, DC 17), *invisibility*<sup>D</sup>, *sound burst* (DC 17), *spiritual weapon*  
-1st—*bane* (DC 16), *charm person*<sup>D</sup> (DC 16), *cure light wounds*, *divine favor*, *doom* (DC 16), *shield of faith* (2)  
-0 (at will)—*detect magic*, *guidance*, *resistance*, *virtue*  
+7th—*[blasphemy](../../magic/spells/blasphemy.md)* (DC 22), *[insanity](../../magic/spells/insanity.md)*<sup>D</sup> (DC 22)  
+6th—*[blade barrier](../../magic/spells/blade-barrier.md)* (DC 21), *[harm](../../magic/spells/harm.md)* (DC 21), *[mislead](../../magic/spells/mislead.md)*<sup>D</sup> (DC 21)  
+5th—*[break enchantment](../../magic/spells/break-enchantment.md)* (DC 20), *[breath of life](../../magic/spells/breath-of-life.md)*, *[charm monster](../../magic/spells/charm-monster.md)*<sup>D</sup> (DC 20), *[slay living](../../magic/spells/slay-living.md)* (DC 20), *[wall of stone](../../magic/spells/wall-of-stone.md)* (DC 20)  
+4th—*[cure critical wounds](../../magic/spells/cure-critical-wounds.md)*, *[divine power](../../magic/spells/divine-power.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[heroism](../../magic/spells/heroism.md)*<sup>D</sup>, *[spell immunity](../../magic/spells/spell-immunity.md)*, *[unholy blight](../../magic/spells/unholy-blight.md)* (DC 19)  
+3rd—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 18), *[dispel magic](../../magic/spells/dispel-magic.md)*, *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[stone shape](../../magic/spells/stone-shape.md)*, *[suggestion](../../magic/spells/suggestion.md)*<sup>D</sup> (DC 18), *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd—*[control vermin](../../magic/spells/control-vermin.md)* (DC 17), *[hold person](../../magic/spells/hold-person.md)* (2, DC 17), *[invisibility](../../magic/spells/invisibility.md)*<sup>D</sup>, *[sound burst](../../magic/spells/sound-burst.md)* (DC 17), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*  
+1st—*[bane](../../magic/spells/bane.md)* (DC 16), *[charm person](../../magic/spells/charm-person.md)*<sup>D</sup> (DC 16), *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[divine favor](../../magic/spells/divine-favor.md)*, *[doom](../../magic/spells/doom.md)* (DC 16), *[shield of faith](../../magic/spells/shield-of-faith.md)* (2)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[resistance](../../magic/spells/resistance.md)*, *[virtue](../../magic/spells/virtue.md)*  
 **D** domain spell; **Domains** Charm, Trickery
 
 **Tactics**

@@ -21,8 +21,8 @@ LN Huge magical beast
 **Space** 15 ft., **Reach** 10 ft.  
 **Special Attacks** grab, soul bite, trip  
 **Spell-Like Abilities** (CL 12th; concentration +15)  
-Constant—*discern lies*, *true seeing*  
-3/day—*remove curse*
+Constant—*[discern lies](../../magic/spells/discern-lies.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+3/day—*[remove curse](../../magic/spells/remove-curse.md)*
 
 **Statistics**
 

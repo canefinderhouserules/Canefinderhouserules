@@ -20,7 +20,7 @@ N Small magical beast
 **Melee** slam +3 (1d4 plus grab)  
 **Special Attacks** constrict (1d4+4), grab (any size)  
 **Spell-Like Abilities** (CL 5th)  
-1/day—*darkness*
+1/day—*[darkness](../../magic/spells/darkness.md)*
 
 **Statistics**
 

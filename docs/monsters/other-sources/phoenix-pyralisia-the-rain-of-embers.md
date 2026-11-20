@@ -24,10 +24,10 @@ NE Gargantuan magical beast (fire)
 **Melee** bite +28 (2d8+9 plus 4d6 fire and 4d6 electricity), 2 talons +28 (2d6+9/19–20 plus 4d6 fire)  
 **Space** 20 ft., **Reach** 20 ft.  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*detect good*, *detect magic*, *see invisibility*  
-At will—*bestow curse* (DC 21), *chain lightning* (DC 23), *continual flame*, *greater dispel magic*, *wall of fire*  
-3/day—*fire storm* (DC 25), *mass inflict critical wounds* (DC 25), quickened *wall of fire*  
-1/day—*destruction* (DC 24), *meteor swarm* (DC 26)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[bestow curse* ](../../magic/spells/bestow-curse.md)(DC 21), *[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 23), *[continual flame](../../magic/spells/continual-flame.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*, *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+3/day—*[fire storm* ](../../magic/spells/fire-storm.md)(DC 25), *[mass inflict critical wounds* ](../../magic/spells/inflict-critical-wounds-mass.md)(DC 25), quickened *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+1/day—*[destruction* ](../../magic/spells/destruction.md)(DC 24), *[meteor swarm* ](../../magic/spells/meteor-swarm.md)(DC 26)
 
 **Statistics**
 

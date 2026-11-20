@@ -24,17 +24,17 @@ N Large humanoid (giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** rock throwing (180 ft.)  
 **Spell-Like Abilities** (CL 10th; concentration +16)  
-1/day—*passwall*, *spike stones*, *statue*, *stoneskin*, *wall of stone*  
+1/day—*[passwall](../../magic/spells/passwall.md)*, *[spike stones](../../magic/spells/spike-stones.md)*, *[statue](../../magic/spells/statue.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*, *[wall of stone](../../magic/spells/wall-of-stone.md)*  
 **Bloodline Spell-Like Abilities** (CL 10th; concentration +16)  
 9/day—*tremor**  
 1/day—*crystal shard**  
 **Sorcerer Spells Known** (CL 10th; concentration +16)  
-5th (4/day)—*hungry pit** (DC 22)  
-4th (6/day)—*calcific touch** (DC 20), *mass enlarge person* (DC 20), *stoneskin*  
-3rd (7/day)—*fireball* (DC 19), *greater magic weapon*, *haste* (DC 19), *shifting sand*  
-2nd (8/day)—*darkvision*, *glitterdust* (DC 19), *share language**, *shatter*, *stone call**  
-1st (8/day)—*crafter’s fortune**, *expeditious excavation**, *feather fall*, *mage armor*, *reduce person* (DC 17), *shocking grasp*  
-0 (at will)—*acid splash*, *arcane mark*, *detect magic*, *light*, *mage hand*, *mending*, *message*, *prestidigitation*, *read magic*  
+5th (4/day)—*[hungry pit](../../magic/spells/hungry-pit.md)** (DC 22)  
+4th (6/day)—*[calcific touch](../../magic/spells/calcific-touch.md)** (DC 20), *[mass enlarge person](../../magic/spells/enlarge-person-mass.md)* (DC 20), *[stoneskin](../../magic/spells/stoneskin.md)*  
+3rd (7/day)—*[fireball* ](../../magic/spells/fireball.md)(DC 19), *[greater magic weapon](../../magic/spells/magic-weapon-greater.md)*, *[haste](../../magic/spells/haste.md)* (DC 19), *[shifting sand](../../magic/spells/shifting-sand.md)*  
+2nd (8/day)—*[darkvision](../../magic/spells/darkvision.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 19), *[share language](../../magic/spells/share-language.md)**, *[shatter](../../magic/spells/shatter.md)*, *[stone call](../../magic/spells/stone-call.md)**  
+1st (8/day)—*[crafter’s fortune](../../magic/spells/crafters-fortune.md)**, *[expeditious excavation](../../magic/spells/expeditious-excavation.md)**, *[feather fall](../../magic/spells/feather-fall.md)*, *[mage armor](../../magic/spells/mage-armor.md)*, *[reduce person* ](../../magic/spells/reduce-person.md)(DC 17), *[shocking grasp](../../magic/spells/shocking-grasp.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[arcane mark](../../magic/spells/arcane-mark.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*  
 **Bloodline** Deep Earth*
 
 **Statistics**

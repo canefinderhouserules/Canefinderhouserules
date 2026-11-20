@@ -22,9 +22,9 @@ CE Medium outsider (evil, extraplanar)
 **Melee** 2 claws +18 (2d8+3 plus 4d6 cold)  
 **Special Attacks** breath of the void (30-ft. cone, 10d6 cold damage plus slowed, Reflex DC 21 for half, usable every 1d4 rounds), penumbral web (+18 ranged, DC 21, 14 hp)  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
-At will—*deeper darkness*, *greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*shadow conjuration* (DC 19), *shadow evocation* (DC 20), *shadow walk* (DC 21), *spell turning*  
-1/day—*greater shadow evocation* (DC 23), *power word blind*
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[greater teleport](../../magic/spells/teleport-greater.md)* (self plus 50 lbs. of objects only)  
+3/day—*[shadow conjuration](../../magic/spells/shadow-conjuration.md)* (DC 19), *[shadow evocation](../../magic/spells/shadow-evocation.md)* (DC 20), *[shadow walk](../../magic/spells/shadow-walk.md)* (DC 21), *[spell turning](../../magic/spells/spell-turning.md)*  
+1/day—*[greater shadow evocation](../../magic/spells/shadow-evocation-greater.md)* (DC 23), *[power word blind](../../magic/spells/power-word-blind.md)*
 
 **Statistics**
 

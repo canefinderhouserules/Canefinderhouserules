@@ -24,7 +24,7 @@ NE Gargantuan undead
 **Space** 20 ft., **Reach** 5 ft.  
 **Special Attacks** absorb dying creature, energy drain (1 level, DC 26), trample (2d6+18, DC 31)  
 **Spell-Like Abilities** (CL 18th; concentration +25)  
-3/day—extended *animate objects* (7 Medium weapons only), *telekinesis* (violent thrust, heavy armor only)
+3/day—extended *[animate objects](../../magic/spells/animate-objects.md)* (7 Medium weapons only), *[telekinesis](../../magic/spells/telekinesis.md)* (violent thrust, heavy armor only)
 
 **Statistics**
 

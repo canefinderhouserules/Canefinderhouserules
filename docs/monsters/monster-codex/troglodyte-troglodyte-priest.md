@@ -25,9 +25,9 @@ CE Medium humanoid (reptilian)
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
 5/day—strength surge (+1)  
 **Cleric Spells Prepared** (CL 3rd; concentration +5)  
-2nd—*amplify stench*, *bull’s strength*<sup>D</sup>, *hold person* (DC 14)  
-1st—*bless*, *command* (DC 13), *doom*<sup>D</sup> (DC 13), *magic weapon*  
-0 (at will)—*bleed* (DC 12), *detect magic*, *guidance*, *spark*  
+2nd—*[amplify stench](../../magic/spells/amplify-stench.md)*, *[bull’s strength](../../magic/spells/bulls-strength.md)*<sup>D</sup>, *[hold person](../../magic/spells/hold-person.md)* (DC 14)  
+1st—*[bless](../../magic/spells/bless.md)*, *[command](../../magic/spells/command.md)* (DC 13), *[doom](../../magic/spells/doom.md)*<sup>D</sup> (DC 13), *[magic weapon](../../magic/spells/magic-weapon.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 12), *[detect magic](../../magic/spells/detect-magic.md)*, *[guidance](../../magic/spells/guidance.md)*, *[spark](../../magic/spells/spark.md)*  
 **D** domain spell; **Domains** Evil (Demon subdomain), Strength
 
 **Tactics**

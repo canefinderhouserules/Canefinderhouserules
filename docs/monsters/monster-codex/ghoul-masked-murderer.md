@@ -23,10 +23,10 @@ CE Medium undead
 **Ranged**  mwk composite shortbow +11/+6 (1d6+2/×3)  
 **Special Attacks** bardic performance 24 rounds/day (move action; countersong, dirge of doom [DC 20], distraction, fascinate [DC 20], inspire competence +3, inspire courage +2, *suggestion* [DC 20]), disease (DC 17), paralysis (1d4+1 rounds, DC 19, elves are immune to this effect)  
 **Bard Spells Known** (CL 8th; concentration +14)  
-3rd (3/day)—*confusion* (DC 19), *crushing despair* (DC 19), *glibness*  
-2nd (6/day)—*allegro*, *fleshy facade* (DC 18), *inflict moderate wounds* (DC 18), *mirror image*  
-1st (6/day)—*disguise self*, *expeditious retreat*, *hideous laughter* (DC 17), *ray of enfeeblement* (DC 17), *silent image* (DC 17)  
-0 (at will)—*detect magic*, *ghost sound* (DC 16), *mage hand*, *message*, *prestidigitation* (DC 16), *summon instrument*
+3rd (3/day)—*[confusion](../../magic/spells/confusion.md)* (DC 19), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 19), *[glibness](../../magic/spells/glibness.md)*  
+2nd (6/day)—*[allegro](../../magic/spells/allegro.md)*, *[fleshy facade](../../magic/spells/flesh-facade.md)* (DC 18), *[inflict moderate wounds](../../magic/spells/inflict-moderate-wounds.md)* (DC 18), *[mirror image](../../magic/spells/mirror-image.md)*  
+1st (6/day)—*[disguise self](../../magic/spells/disguise-self.md)*, *[expeditious retreat](../../magic/spells/expeditious-retreat.md)*, *[hideous laughter](../../magic/spells/hideous-laughter.md)* (DC 17), *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 17), *[silent image](../../magic/spells/silent-image.md)* (DC 17)  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 16), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)* (DC 16), *[summon instrument](../../magic/spells/summon-instrument.md)*
 
 **Tactics**
 

@@ -24,11 +24,11 @@ LE Large dragon (fire)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite and gore)  
 **Special Attacks** adamantine claws, breath weapon (80-ft. line, 12d6 fire damage, DC 22)  
 **Spell-Like Abilities** (CL 14th; concentration +17)  
-At will—*soften earth and stone*, *spike stones* (DC 17), *stone shape*  
+At will—*[soften earth and stone](../../magic/spells/soften-earth-and-stone.md)*, *[spike stones* ](../../magic/spells/spike-stones.md)(DC 17), *[stone shape](../../magic/spells/stone-shape.md)*  
 **Spells Known** (CL 5th; concentration +8)  
-2nd (5/day)—*flaming sphere* (DC 15), *scorching ray*  
-1st (7/day)—*burning hands* (DC 14), *cause fear* (DC 14), *magic missile*, *ray of enfeeblement* (DC 14)  
-0 (at will)—*acid splash*, *bleed* (DC 13), *detect magic*, *flare* (DC 13), *read magic*, *resistance*
+2nd (5/day)—*[flaming sphere* ](../../magic/spells/flaming-sphere.md)(DC 15), *[scorching ray](../../magic/spells/scorching-ray.md)*  
+1st (7/day)—*[burning hands* ](../../magic/spells/burning-hands.md)(DC 14), *[cause fear* ](../../magic/spells/cause-fear.md)(DC 14), *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 14)  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[bleed* ](../../magic/spells/bleed.md)(DC 13), *[detect magic](../../magic/spells/detect-magic.md)*, *[flare* ](../../magic/spells/flare.md)(DC 13), *[read magic](../../magic/spells/read-magic.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

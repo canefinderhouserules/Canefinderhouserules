@@ -26,14 +26,14 @@ NE Medium humanoid (human, orc)
 2/day—shadow illusion (DC 15)  
 1/day—shadow call (DC 18)  
 **Bard Spells Known** (CL 9th; concentration +13)  
-3rd (4/day)—*cure serious wounds*, *deep slumber* (DC 18), *gaseous form*, *see invisibility*  
-2nd (5/day)—*darkness*, *invisibility*, *silence* (DC 16), *suggestion* (DC 17)  
-1st (6/day)—*cure light wounds*, *lesser confusion* (DC 16), *remove fear*, *silent image* (DC 15), *sleep* (DC 16)  
-0 (at will)—*daze* (DC 15), *ghost sound* (DC 14), *lullaby* (DC 15), *mage hand*, *message*, *open/close*
+3rd (4/day)—*[cure serious wounds](../../magic/spells/cure-serious-wounds.md)*, *[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 18), *[gaseous form](../../magic/spells/gaseous-form.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+2nd (5/day)—*[darkness](../../magic/spells/darkness.md)*, *[invisibility](../../magic/spells/invisibility.md)*, *[silence* ](../../magic/spells/silence.md)(DC 16), *[suggestion* ](../../magic/spells/suggestion.md)(DC 17)  
+1st (6/day)—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[lesser confusion* ](../../magic/spells/confusion-lesser.md)(DC 16), *[remove fear](../../magic/spells/remove-fear.md)*, *[silent image* ](../../magic/spells/silent-image.md)(DC 15), *[sleep* ](../../magic/spells/sleep.md)(DC 16)  
+0 (at will)—*[daze* ](../../magic/spells/daze.md)(DC 15), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 14), *[lullaby* ](../../magic/spells/lullaby.md)(DC 15), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[open/close](../../magic/spells/open-close.md)*
 
 **Tactics**
 
-**Before Combat** The shadowdancer casts *see invisibility*.  
+**Before Combat** The shadowdancer casts *[see invisibility](../../magic/spells/see-invisibility.md)*.  
 **During Combat** Keeping to the shadows at the edge of battle, the shadowdancer supports allies and uses crossbow shots and debilitating spells against enemies.  
 **Base Statistics** Without *see invisibility*, the shadowdancer’s statistics are **Senses** darkvision 90 ft.
 

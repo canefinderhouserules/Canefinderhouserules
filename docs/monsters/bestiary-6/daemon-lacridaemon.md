@@ -26,8 +26,8 @@ poison; **Resist** electricity 10, fire 10; **SR** 14
 **Special Attacks** poisonous tears  
 **Spell-Like Abilities** (CL 4th; concentration +5)  
 Constant—*detect good, detect magic, pass without trace*  
-3/day—*overwhelming grief* (DC 15), *teleport* (self plus 50 lbs. of objects only)  
-1/day—*hold person* (DC 14), *invisibility, snare, summon* (level 3, 1 lacridaemon 50%)
+3/day—*[overwhelming grief](../../magic/spells/overwhelming-grief.md)* (DC 15), *[teleport](../../magic/spells/teleport.md)* (self plus 50 lbs. of objects only)  
+1/day—*[hold person](../../magic/spells/hold-person.md)* (DC 14), *invisibility, snare, summon* (level 3, 1 lacridaemon 50%)
 
 **Statistics**
 

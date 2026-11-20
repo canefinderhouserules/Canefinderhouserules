@@ -23,18 +23,18 @@ CN Small humanoid (gnome)
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with whip)  
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, bardic performance 38 rounds/day (swift action; countersong, dirge of doom, distraction, fascinate, frightening tune, inspire competence +5, inspire courage +3, inspire greatness, inspire heroics, soothing performance, *suggestion*)  
 **Spell-Like Abilities** (CL 4th; concentration +8)  
-1/day—*dancing lights*, *ghost sound*, *prestidigitation*, *speak with animals*  
+1/day—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[ghost sound](../../magic/spells/ghost-sound.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[speak with animals](../../magic/spells/speak-with-animals.md)*  
 **Bard Spells Known** (CL 15th; concentration +21)  
-5th (4/day)—*greater heroism*, *mass suggestion* (DC 21), *mislead*, *summon monster V*  
-4th (5/day)—*cure critical wounds* (DC 20), *dominate person* (DC 20), *greater invisibility*, *summon monster IV*  
-3rd (6/day)—*charm monster* (DC 19), *glibness*, *haste* (DC 19), *speak with animals*, *summon monster III*  
-2nd (7/day)—*animal trance* (DC 18), *cat’s grace*, *mirror image*, *pyrotechnics* (DC 18), *rage*, *summon monster II*  
-1st (7/day)—*animate rope*, *charm person* (DC 17), *disguise self*, *hideous laughter* (DC 17), *summon monster I*, *ventriloquism* (DC 18)  
-0 (at will)—*dancing lights*, *daze* (DC 16), *flare* (DC 16), *mage hand*, *mending*, *prestidigitation*
+5th (4/day)—*[greater heroism](../../magic/spells/heroism-greater.md)*, *[mass suggestion* ](../../magic/spells/suggestion-mass.md)(DC 21), *[mislead](../../magic/spells/mislead.md)*, *[summon monster V](../../magic/spells/summon-monster-v.md)*  
+4th (5/day)—*[cure critical wounds* ](../../magic/spells/cure-critical-wounds.md)(DC 20), *[dominate person* ](../../magic/spells/dominate-person.md)(DC 20), *[greater invisibility](../../magic/spells/invisibility-greater.md)*, *[summon monster IV](../../magic/spells/summon-monster-iv.md)*  
+3rd (6/day)—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 19), *[glibness](../../magic/spells/glibness.md)*, *[haste* ](../../magic/spells/haste.md)(DC 19), *[speak with animals](../../magic/spells/speak-with-animals.md)*, *[summon monster III](../../magic/spells/summon-monster-iii.md)*  
+2nd (7/day)—*[animal trance* ](../../magic/spells/animal-trance.md)(DC 18), *[cat’s grace](../../magic/spells/cats-grace.md)*, *[mirror image](../../magic/spells/mirror-image.md)*, *[pyrotechnics* ](../../magic/spells/pyrotechnics.md)(DC 18), *[rage](../../magic/spells/rage.md)*, *[summon monster II](../../magic/spells/summon-monster-ii.md)*  
+1st (7/day)—*[animate rope](../../magic/spells/animate-rope.md)*, *[charm person* ](../../magic/spells/charm-person.md)(DC 17), *[disguise self](../../magic/spells/disguise-self.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 17), *[summon monster I](../../magic/spells/summon-monster-i.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 18)  
+0 (at will)—*[dancing lights](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 16), *[flare* ](../../magic/spells/flare.md)(DC 16), *[mage hand](../../magic/spells/mage-hand.md)*, *[mending](../../magic/spells/mending.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*
 
 **Tactics**
 
-**During Combat** The bard casts *greater invisibility* on himself, and sends forth summoned creatures and trained lions.
+**During Combat** The bard casts *[greater invisibility* ](../../magic/spells/invisibility-greater.md)on himself, and sends forth summoned creatures and trained lions.
 
 **Statistics**
 

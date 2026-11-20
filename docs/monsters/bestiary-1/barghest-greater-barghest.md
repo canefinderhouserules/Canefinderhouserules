@@ -20,8 +20,8 @@ LE Large outsider (evil, extraplanar, lawful, shapechanger)
 **Speed** 40 ft.  
 **Melee** bite +14 (1d8+6), 2 claws +14 (1d6+6)  
 **Spell-Like Abilities** (CL 9th)  
-At will— *blink*, *invisibility sphere*, *levitate*, *misdirection*  
-1/day—*charm monster* (DC 18), *crushing despair* (DC 18), *dimension door*, *mass bull’s strength*, *mass enlarge*
+At will— *[blink](../../magic/spells/blink.md)*, *[invisibility sphere](../../magic/spells/invisibility-sphere.md)*, *[levitate](../../magic/spells/levitate.md)*, *[misdirection](../../magic/spells/misdirection.md)*  
+1/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 18), *[crushing despair* ](../../magic/spells/crushing-despair.md)(DC 18), *[dimension door](../../magic/spells/dimension-door.md)*, *[mass bull’s strength](../../magic/spells/bulls-strength-mass.md)*, *[mass enlarge](../../magic/spells/enlarge-person-mass.md)*
 
 **Statistics**
 

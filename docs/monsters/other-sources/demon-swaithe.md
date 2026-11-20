@@ -21,10 +21,10 @@ CE Small outsider (chaotic, demon, evil, extraplanar)
 **Melee** bite +6 (1d4), 2 claws +6 (1d3)  
 **Special Attacks** hexes (cackle, evil eye [–2, 4 rounds], misfortune [1 round]; DC 13)  
 **Spell-Like Abilities** (CL 5th; concentration +6)  
-Constant—*speak with animals*  
-At will—*cause fear* (DC 12), *detect magic*, *ray of enfeeblement* (DC 12), *read magic*  
-3/day—*charm animal* (DC 12), *invisibility* (self only)  
-1/day—*rage*, *waters of Lamashtu*
+Constant—*[speak with animals](../../magic/spells/speak-with-animals.md)*  
+At will—*[cause fear* ](../../magic/spells/cause-fear.md)(DC 12), *[detect magic](../../magic/spells/detect-magic.md)*, *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 12), *[read magic](../../magic/spells/read-magic.md)*  
+3/day—*[charm animal* ](../../magic/spells/charm-animal.md)(DC 12), *[invisibility* ](../../magic/spells/invisibility.md)(self only)  
+1/day—*[rage](../../magic/spells/rage.md)*, *waters of Lamashtu*
 
 **Statistics**
 

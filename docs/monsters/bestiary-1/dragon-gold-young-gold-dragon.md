@@ -22,10 +22,10 @@ LG Large dragon (fire)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, DC 20, 6d10 fire), weakening breath  
 **Spell-Like Abilities** (CL 12th)  
-At will—*detect evil*  
+At will—*[detect evil](../../magic/spells/detect-evil.md)*  
 **Spells Known** (CL 1st)  
-1st (4/day)—*mage armor*, *shield*  
-0 (at will)—*detect magic*, *light*, *mending*, *stabilize*
+1st (4/day)—*[mage armor](../../magic/spells/mage-armor.md)*, *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[light](../../magic/spells/light.md)*, *[mending](../../magic/spells/mending.md)*, *[stabilize](../../magic/spells/stabilize.md)*
 
 **Statistics**
 

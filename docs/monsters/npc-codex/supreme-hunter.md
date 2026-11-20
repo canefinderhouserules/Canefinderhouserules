@@ -23,14 +23,14 @@ CE Medium humanoid (human)
 **Ranged**  *oathbow* +28/+23/+18/+13 (1d8+8/19–20/×3)  
 **Special Attacks** favored enemy (dwarves +4, elves +4, gnomes +2, humans +6, orcs +2)  
 **Ranger Spells Prepared** (CL 17th; concentration +19)  
-4th—*commune with nature*, *freedom of movement*, *tree stride*  
-3rd—*darkvision*, *neutralize poison*, *remove disease*  
-2nd—*barkskin*, *bear’s endurance*, *protection from energy*, *snare*, *spike growth*  
-1st—*alarm*, *endure elements*, *longstrider*, *pass without trace*, *resist energy*
+4th—*[commune with nature](../../magic/spells/commune-with-nature.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[tree stride](../../magic/spells/tree-stride.md)*  
+3rd—*[darkvision](../../magic/spells/darkvision.md)*, *[neutralize poison](../../magic/spells/neutralize-poison.md)*, *[remove disease](../../magic/spells/remove-disease.md)*  
+2nd—*[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[protection from energy](../../magic/spells/protection-from-energy.md)*, *[snare](../../magic/spells/snare.md)*, *[spike growth](../../magic/spells/spike-growth.md)*  
+1st—*[alarm](../../magic/spells/alarm.md)*, *[endure elements](../../magic/spells/endure-elements.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[resist energy](../../magic/spells/resist-energy.md)*
 
 **Tactics**
 
-**Before Combat** The ranger casts *barkskin*, *bear’s endurance*, *darkvision*, *freedom of movement*, *longstrider*, *pass without trace*, *protection from energy* (fire), *resist energy* (cold), and *tree stride*.  
+**Before Combat** The ranger casts *[barkskin](../../magic/spells/barkskin.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[darkvision](../../magic/spells/darkvision.md)*, *[freedom of movement](../../magic/spells/freedom-of-movement.md)*, *[longstrider](../../magic/spells/longstrider.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[protection from energy* ](../../magic/spells/protection-from-energy.md)(fire), *[resist energy* ](../../magic/spells/resist-energy.md)(cold), and *[tree stride](../../magic/spells/tree-stride.md)*.  
 **During Combat** The ranger swears to kill one target with his *oathbow*, using his *boots of speed* and feats to gain extra attacks. Against dangerous foes, he uses poison.  
 **Base Statistics** Without *barkskin*, *bear’s endurance*, *darkvision*, *longstrider*, *protection from energy*, and *resist energy*, the ranger’s statistics are **Senses** normal; **AC** 26, touch 18, flat-footed 21; **hp** 144; **Fort** +18; **Immune** none; **Resist** none; **Speed** 30 ft.; **Con** 12; **Skills** Acrobatics +15.
 

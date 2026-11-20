@@ -23,10 +23,10 @@ LE Medium outsider (evil, extraplanar, kyton, lawful)
 **Ranged** mwk manacles +23 (1d4+11 nonlethal plus trip)  
 **Special Attacks** animated manacles, forbearance, unnerving gaze (30 ft., DC 26)  
 **Spell-Like Abilities** (CL 18th; concentration +25)  
-Constant—*true seeing*  
-At will—*deeper darkness*, *detect thoughts* (DC 19), *discern lies* (DC 21), *order’s wrath* (DC 21)  
-3/day—*greater command* (DC 22), *greater teleport*  
-1/day—*imprisonment* (DC 26), *greater prying eyes*
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[deeper darkness](../../magic/spells/deeper-darkness.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 19), *[discern lies](../../magic/spells/discern-lies.md)* (DC 21), *[order’s wrath](../../magic/spells/orders-wrath.md)* (DC 21)  
+3/day—*[greater command](../../magic/spells/command-greater.md)* (DC 22), *[greater teleport](../../magic/spells/teleport-greater.md)*  
+1/day—*[imprisonment](../../magic/spells/imprisonment.md)* (DC 26), *[greater prying eyes](../../magic/spells/prying-eyes-greater.md)*
 
 **Statistics**
 

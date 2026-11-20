@@ -20,10 +20,10 @@ CE Medium outsider (incorporeal, native)
 **Speed** fly 60 ft. (perfect)  
 **Melee** touch of madness +19 touch (10d6)  
 **Spell-Like Abilities** (CL 16th; concentration +22)  
-Constant—*true seeing*  
-At will—*darkness*  
-3/day—*bestow curse* (DC 20), *suffocation* (DC 21)  
-1/day—*mass pain strike* (DC 21), *waves of fatigue*
+Constant—*[true seeing](../../magic/spells/true-seeing.md)*  
+At will—*[darkness](../../magic/spells/darkness.md)*  
+3/day—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 20), *[suffocation](../../magic/spells/suffocation.md)* (DC 21)  
+1/day—*[mass pain strike](../../magic/spells/pain-strike-mass.md)* (DC 21), *[waves of fatigue](../../magic/spells/waves-of-fatigue.md)*
 
 **Statistics**
 

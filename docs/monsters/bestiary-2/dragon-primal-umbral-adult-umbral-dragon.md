@@ -23,12 +23,12 @@ CE Huge dragon (extraplanar)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, DC 23, 12d8 negative energy, DC 23), crush, shadow breath (6 Str)  
 **Spell-Like Abilities** (CL 17th; concentration +22)  
-At will—*darkness*, *shadow walk*, *vampiric touch*  
+At will—*[darkness](../../magic/spells/darkness.md)*, *[shadow walk](../../magic/spells/shadow-walk.md)*, *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
 **Spells Known** (CL 7th; concentration +12)  
-3rd (5/day)—*dispel magic*, *inflict serious wounds* (DC 18)  
-2nd (7/day)—*command undead* (DC 17), *invisibility*, *web* (DC 17)  
-1st (8/day)—*grease* (DC 16), *inflict light wounds* (DC 16), *magic missile*, *reduce person* (DC 16), *shield*  
-0 (at will)—*bleed* (DC 15), *detect magic*, *detect poison*, *disrupt undead* (DC 15), *mage hand*, *ray of frost*, *read magic*
+3rd (5/day)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[inflict serious wounds](../../magic/spells/inflict-serious-wounds.md)* (DC 18)  
+2nd (7/day)—*[command undead](../../magic/spells/command-undead.md)* (DC 17), *[invisibility](../../magic/spells/invisibility.md)*, *[web* ](../../magic/spells/web.md)(DC 17)  
+1st (8/day)—*[grease](../../magic/spells/grease.md)* (DC 16),[ *inflict light wounds](../../magic/spells/inflict-light-wounds.md)* (DC 16), *[magic missile](../../magic/spells/magic-missile.md)*, *[reduce person](../../magic/spells/reduce-person.md)* (DC 16), *[shield](../../magic/spells/shield.md)*  
+0 (at will)—*[bleed](../../magic/spells/bleed.md)* (DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[disrupt undead](../../magic/spells/disrupt-undead.md)* (DC 15), *[mage hand](../../magic/spells/mage-hand.md)*, *[ray of frost](../../magic/spells/ray-of-frost.md)*, *[read magic](../../magic/spells/read-magic.md)*
 
 **Statistics**
 

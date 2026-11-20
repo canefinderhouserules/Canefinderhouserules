@@ -23,9 +23,9 @@ LE Medium outsider (native, oni, shapechanger, tengu)
 **Ranged**  composite longbow +10/+5 (1d8+2/×3)  
 **Special Attacks** steal voice  
 **Spell-Like Abilities** (CL 5th; concentration +8)  
-Constant—*see invisibility*, *ventriloquism* (DC 14)  
-3/day—*dimension door*, *hideous laughter* (DC 15), *ray of enfeeblement* (DC 14), *scorching ray*  
-1/day—*blur*, *glitterdust* (DC 15)
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*, *[ventriloquism* ](../../magic/spells/ventriloquism.md)(DC 14)  
+3/day—*[dimension door](../../magic/spells/dimension-door.md)*, *[hideous laughter* ](../../magic/spells/hideous-laughter.md)(DC 15), *[ray of enfeeblement* ](../../magic/spells/ray-of-enfeeblement.md)(DC 14),[ *scorching ray](../../magic/spells/scorching-ray.md)*  
+1/day—*[blur](../../magic/spells/blur.md)*, *[glitterdust* ](../../magic/spells/glitterdust.md)(DC 15)
 
 **Statistics**
 

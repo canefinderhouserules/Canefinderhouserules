@@ -21,10 +21,10 @@ CE Medium outsider (chaotic, demodand, evil, extraplanar)
 **Melee** bite +29 (2d6+9 plus 2d6 nonlethal/19-20), 2 claws +29 (1d10+9 plus 2d6 nonlethal/19-20)  
 **Special Attacks** entangling folds, faith-stealing strike (DC 24)  
 **Spell-Like Abilities** (CL 15th; concentration +19)  
-Constant—*detect good*, *detect magic*  
-At will—*detect thoughts* (DC 16)  
-3/day—*fear* (DC 18), *greater dispel magic*  
-1/day—*hold monster* (DC 19), summon (level 6, 1d4 tarry demodands or 1d2 stringy demodands 40%)
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 16)  
+3/day—*[fear](../../magic/spells/fear.md)* (DC 18), *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*  
+1/day—*[hold monster](../../magic/spells/hold-monster.md)* (DC 19), summon (level 6, 1d4 tarry demodands or 1d2 stringy demodands 40%)
 
 **Statistics**
 

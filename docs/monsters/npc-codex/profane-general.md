@@ -25,14 +25,14 @@ CN Medium humanoid (human)
 **Spell-Like Abilities** (CL 13th; concentration +16)  
 6/day—battle rage (+6 damage), strength surge (+6)  
 **Cleric Spells Prepared** (CL 13th; concentration +16)  
-7th—*power word blind*<sup>D</sup>, *word of chaos*  
-6th—*heal*, *mass bull’s strength*, *stoneskin*<sup>D</sup>  
-5th—*breath of life*, *flame strike* (DC 18), *righteous might*<sup>D</sup>, *spell resistance*  
-4th—*chaos hammer* (DC 17), *dismissal* (DC 17), *divine power*<sup>D</sup>, *restoration*, *spell immunity*  
-3rd—*cure serious wounds* (2), *invisibility purge*, *magic vestment*<sup>D</sup>, *prayer*, *wind wall*  
-2nd—*aid*, *bear’s endurance*, *delay poison* (DC 15), *hold person* (DC 15), *resist energy* (DC 15), *spiritual weapon*<sup>D</sup>  
-1st—*bane* (DC 14), *bless*, *cure light wounds* (2), *enlarge person*<sup>D</sup>(DC 14), *shield of faith*  
-0 (at will)—*detect magic*, *detect poison*, *guidance*, *light*  
+7th—*[power word blind](../../magic/spells/power-word-blind.md)*<sup>D</sup>, *[word of chaos](../../magic/spells/word-of-chaos.md)*  
+6th—*[heal](../../magic/spells/heal.md)*, *[mass bull’s strength](../../magic/spells/bulls-strength-mass.md)*, *[stoneskin](../../magic/spells/stoneskin.md)*<sup>D</sup>  
+5th—*[breath of life](../../magic/spells/breath-of-life.md)*, *[flame strike* ](../../magic/spells/flame-strike.md)(DC 18), *[righteous might](../../magic/spells/righteous-might.md)*<sup>D</sup>, *[spell resistance](../../magic/spells/spell-resistance.md)*  
+4th—*[chaos hammer* ](../../magic/spells/chaos-hammer.md)(DC 17), *[dismissal* ](../../magic/spells/dismissal.md)(DC 17), *[divine power](../../magic/spells/divine-power.md)*<sup>D</sup>, *[restoration](../../magic/spells/restoration.md)*, *[spell immunity](../../magic/spells/spell-immunity.md)*  
+3rd—*[cure serious wounds* ](../../magic/spells/cure-serious-wounds.md)(2), *[invisibility purge](../../magic/spells/invisibility-purge.md)*, *[magic vestment](../../magic/spells/magic-vestment.md)*<sup>D</sup>, *[prayer](../../magic/spells/prayer.md)*, *[wind wall](../../magic/spells/wind-wall.md)*  
+2nd—*[aid](../../magic/spells/aid.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[delay poison* ](../../magic/spells/delay-poison.md)(DC 15), *[hold person* ](../../magic/spells/hold-person.md)(DC 15), *[resist energy* ](../../magic/spells/resist-energy.md)(DC 15), *[spiritual weapon](../../magic/spells/spiritual-weapon.md)*<sup>D</sup>  
+1st—*[bane* ](../../magic/spells/bane.md)(DC 14), *[bless](../../magic/spells/bless.md)*, *[cure light wounds* ](../../magic/spells/cure-light-wounds.md)(2), *[enlarge person](../../magic/spells/enlarge-person.md)*<sup>D</sup>(DC 14), *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[light](../../magic/spells/light.md)*  
 **D** Domain spell; **Domains** Strength, War
 
 **Tactics**

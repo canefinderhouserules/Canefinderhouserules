@@ -23,19 +23,19 @@ CG Medium outsider (azata, chaotic, extraplanar, good, shapechanger)
 **Ranged**  2 light rays +14 ranged touch (2d12)  
 **Special Attacks** gaze  
 **Spell-Like Abilities** (CL 13th)  
-Constant—*detect evil*, *holy aura* (DC 21), *see invisibility*  
-At will—*aid*, *charm monster* (DC 17), *continual flame*, *cure light wounds*, *dancing lights*, *detect thoughts* (DC 15), *disguise self*, *dispel magic*, *hold monster* (DC 18), *greater invisibility* (self only), *major image* (DC 16), *greater teleport* (self plus 50 lbs. of objects only)  
-3/day—*globe of invulnerability*  
-1/day—*chain lightning* (DC 19), *prismatic spray* (DC 20), *wall of force*  
+Constant—*[detect evil](../../magic/spells/detect-evil.md)*, *[holy aura* ](../../magic/spells/holy-aura.md)(DC 21), *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[aid](../../magic/spells/aid.md)*, *[charm monster* ](../../magic/spells/charm-monster.md)(DC 17), *[continual flame](../../magic/spells/continual-flame.md)*, *[cure light wounds](../../magic/spells/cure-light-wounds.md)*, *[dancing lights](../../magic/spells/dancing-lights.md)*, *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 15), *[disguise self](../../magic/spells/disguise-self.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[hold monster* ](../../magic/spells/hold-monster.md)(DC 18), *[greater invisibility* ](../../magic/spells/invisibility-greater.md)(self only), *[major image* ](../../magic/spells/major-image.md)(DC 16), *[greater teleport* ](../../magic/spells/teleport-greater.md)(self plus 50 lbs. of objects only)  
+3/day—*[globe of invulnerability](../../magic/spells/globe-of-invulnerability.md)*  
+1/day—*[chain lightning* ](../../magic/spells/chain-lightning.md)(DC 19), *[prismatic spray* ](../../magic/spells/prismatic-spray.md)(DC 20), *[wall of force](../../magic/spells/wall-of-force.md)*  
 **Spells Prepared** (CL 13th)  
-7th—*holy word* (DC 21)  
-6th—*banishment* (DC 20), *heal* (DC 20)  
-5th—*flame strike* (DC 19), *raise dead*, *true seeing*  
-4th—*death ward*, *dismissal* (2) (DC 18), *divine power*, *restoration*  
-3rd—*cure serious wounds* (3), *searing light* (2)  
-2nd—*aid*, *align weapon*, *bear’s endurance*, *lesser restoration* (2)  
-1st—*bless*, *command* (DC 15), *divine favor*, *obscuring mist*, *shield of faith*  
-0 (at will)—*detect magic*, *purify food and drink*, *stabilize*, *virtue*
+7th—*[holy word* ](../../magic/spells/holy-word.md)(DC 21)  
+6th—*[banishment* ](../../magic/spells/banishment.md)(DC 20), *[heal* ](../../magic/spells/heal.md)(DC 20)  
+5th—*[flame strike* ](../../magic/spells/flame-strike.md)(DC 19), *[raise dead](../../magic/spells/raise-dead.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
+4th—*[death ward](../../magic/spells/death-ward.md)*, *[dismissal* ](../../magic/spells/dismissal.md)(2) (DC 18), *[divine power](../../magic/spells/divine-power.md)*, *[restoration](../../magic/spells/restoration.md)*  
+3rd—*[cure serious wounds* ](../../magic/spells/cure-serious-wounds.md)(3), *[searing light* ](../../magic/spells/searing-light.md)(2)  
+2nd—*[aid](../../magic/spells/aid.md)*, *[align weapon](../../magic/spells/align-weapon.md)*, *[bear’s endurance](../../magic/spells/bears-endurance.md)*, *[lesser restoration* ](../../magic/spells/restoration-lesser.md)(2)  
+1st—*[bless](../../magic/spells/bless.md)*, *[command* ](../../magic/spells/command.md)(DC 15), *[divine favor](../../magic/spells/divine-favor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[shield of faith](../../magic/spells/shield-of-faith.md)*  
+0 (at will)—*[detect magic](../../magic/spells/detect-magic.md)*, *[purify food and drink](../../magic/spells/purify-food-and-drink.md)*, *[stabilize](../../magic/spells/stabilize.md)*, *[virtue](../../magic/spells/virtue.md)*
 
 **Statistics**
 

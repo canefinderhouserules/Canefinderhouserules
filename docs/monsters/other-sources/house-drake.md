@@ -22,9 +22,9 @@ CG Tiny dragon
 **Space** 0 ft., **Reach** 0 ft. (5 ft. with tail)  
 **Special Attacks** breath weapon, silver strike  
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
-Constant—*see invisibility*  
-3/day—*cure light wounds*  
-1/day—*alarm* (CL 12th), *obscuring mist*
+Constant—*[see invisibility](../../magic/spells/see-invisibility.md)*  
+3/day—*[cure light wounds](../../magic/spells/cure-light-wounds.md)*  
+1/day—*[alarm](../../magic/spells/alarm.md)* (CL 12th), *[obscuring mist](../../magic/spells/obscuring-mist.md)*
 
 **Statistics**
 

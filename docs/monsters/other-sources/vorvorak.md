@@ -22,9 +22,9 @@ N Huge magical beast
 **Space** 15 ft., **Reach** 10 ft.  
 **Special Attacks** poison spit (60-ft. line, 8d8 plus poison, DC 20), sweeping tail  
 **Spell-Like Abilities** (CL 13th; concentration +17)  
-At will—*decrepit disguise* (DC 15), *major image* (DC 17), *quintessence* (DC 15)  
-3/day—*control water*, *fog cloud*, *shadow conjuration* (DC 18)  
-1/day—*mirage arcana* (DC 19), *shadow evocation* (DC 19)
+At will—*[decrepit disguise](../../magic/spells/decrepit-disguise.md)* (DC 15), *[major image](../../magic/spells/major-image.md)* (DC 17), *[quintessence](../../magic/spells/quintessence.md)* (DC 15)  
+3/day—*[control water](../../magic/spells/control-water.md)*, *[fog cloud](../../magic/spells/fog-cloud.md)*, *[shadow conjuration](../../magic/spells/shadow-conjuration.md)* (DC 18)  
+1/day—*[mirage arcana](../../magic/spells/mirage-arcana.md)* (DC 19), *[shadow evocation](../../magic/spells/shadow-evocation.md)* (DC 19)
 
 **Statistics**
 

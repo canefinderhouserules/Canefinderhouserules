@@ -23,7 +23,7 @@ LE Large humanoid (dwarf)
 **Melee** mwk dwarven waraxe +5 (2d8+4/×3)  
 **Ranged**  heavy crossbow +3 (2d8/19–20)  
 **Spell-Like Abilities** (CL 2nd; concentration –1)  
-1/day—*enlarge person* (self only), *invisibility* (self only)
+1/day—*[enlarge person](../../magic/spells/enlarge-person.md)* (self only), *[invisibility](../../magic/spells/invisibility.md)* (self only)
 
 **Statistics**
 

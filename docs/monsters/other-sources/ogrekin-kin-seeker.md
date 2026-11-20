@@ -22,9 +22,9 @@ NE Medium humanoid (giant, orc)
 **Melee** mwk club +11 (1d6+6), unarmed strike +10 (1d8+6)  
 **Ranged**  bolas +7 (1d4+6) or mwk composite shortbow +8 (1d6+6/×3)  
 **Druid Spells Prepared** (CL 6th; concentration +7)  
-2nd (3/day)—*fog cloud*, *resist energy*, *warp wood*, *whip of spiders*  
-1st (5/day)—*magic fang*, *pass without trace*, *produce flame*, *summon nature’s ally I*  
-0 (at will)—*create water*, *detect poison*, *guidance*, *know direction*, *resistance*, *virtue*
+2nd (3/day)—*[fog cloud](../../magic/spells/fog-cloud.md)*, *[resist energy](../../magic/spells/resist-energy.md)*, *[warp wood](../../magic/spells/warp-wood.md)*, *[whip of spiders](../../magic/spells/whip-of-spiders.md)*  
+1st (5/day)—*[magic fang](../../magic/spells/magic-fang.md)*, *[pass without trace](../../magic/spells/pass-without-trace.md)*, *[produce flame](../../magic/spells/produce-flame.md)*, *[summon nature’s ally I](../../magic/spells/summon-natures-ally-i.md)*  
+0 (at will)—*[create water](../../magic/spells/create-water.md)*, *[detect poison](../../magic/spells/detect-poison.md)*, *[guidance](../../magic/spells/guidance.md)*, *[know direction](../../magic/spells/know-direction.md)*, *[resistance](../../magic/spells/resistance.md)*, *[virtue](../../magic/spells/virtue.md)*
 
 **Statistics**
 

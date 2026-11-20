@@ -22,8 +22,8 @@ LE Medium construct
 **Melee** 4 talons +10 (1d6+2/18–20 plus 1 bleed and poison)  
 **Special Attacks** poison cloud, pounce  
 **Spell-Like Abilities** (CL 5th; concentration +3)  
-Constant—*freedom of movement*  
-At will—*locate creature* (see below)
+Constant—*[freedom of movement](../../magic/spells/freedom-of-movement.md)*  
+At will—*[locate creature](../../magic/spells/locate-creature.md)* (see below)
 
 **Statistics**
 

@@ -21,8 +21,8 @@ CN Medium fey (mythic)
 **Melee** dagger +5 (1d4/19–20) or touch +5 (1d4 Cha damage)  
 **Special Attacks** life drain, mythic power (3/day, surge +1d6)  
 **Spell-Like Abilities** (CL 10th; concentration +12)  
-At will—*calm emotions* (DC 18), *crushing despair* (DC 20), *dimension door* (self plus 50 lbs. of objects only)  
-3/day—*animal trance* (DC 18), quickened *charm person* (DC 17)
+At will—*[calm emotions](../../magic/spells/calm-emotions.md)* (DC 18), *[crushing despair](../../magic/spells/crushing-despair.md)* (DC 20), *[dimension door](../../magic/spells/dimension-door.md)* (self plus 50 lbs. of objects only)  
+3/day—*[animal trance](../../magic/spells/animal-trance.md)* (DC 18), quickened *[charm person](../../magic/spells/charm-person.md)* (DC 17)
 
 **Statistics**
 

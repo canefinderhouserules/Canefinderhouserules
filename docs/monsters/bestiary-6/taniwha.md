@@ -23,9 +23,9 @@ Perception +16
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** fearful memory, seize magic  
 **Spell-Like Abilities** (CL 6th; concentration +10)  
-Constant—*detect poison*  
+Constant—*[detect poison](../../magic/spells/detect-poison.md)*  
 At will—*hydraulic push, purify food and drink, slow poison, water breathing*  
-3/day—*aqueous orb* (DC 17), *control water, hydraulic torrent, neutralize poison, remove disease*
+3/day—*[aqueous orb](../../magic/spells/aqueous-orb.md)* (DC 17), *control water, hydraulic torrent, neutralize poison, remove disease*
 
 **Statistics**
 

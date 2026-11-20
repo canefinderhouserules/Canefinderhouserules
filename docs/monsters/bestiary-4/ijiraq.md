@@ -21,8 +21,8 @@ CN Medium fey (shapechanger)
 **Ranged**  javelin +9 (1d6+3)  
 **Special Attacks** disorienting gaze  
 **Spell-Like Abilities** (CL 14th; concentration +20)  
-At will—*dimension door*, *fly*, *hallucinatory terrain* (DC 20)  
-3/day—*baleful polymorph* (DC 21), *control winds*, *cure critical wounds* (DC 20), *ice storm* (DC 20), *sleet storm* (DC 19), *summon nature’s ally IV*
+At will—*[dimension door](../../magic/spells/dimension-door.md)*, *[fly](../../magic/spells/fly.md)*, *[hallucinatory terrain](../../magic/spells/hallucinatory-terrain.md)* (DC 20)  
+3/day—*[baleful polymorph](../../magic/spells/baleful-polymorph.md)* (DC 21), *[control winds](../../magic/spells/control-winds.md)*, *[cure critical wounds](../../magic/spells/cure-critical-wounds.md)* (DC 20), *[ice storm](../../magic/spells/ice-storm.md)* (DC 20), *[sleet storm](../../magic/spells/sleet-storm.md)* (DC 19), *[summon nature’s ally IV](../../magic/spells/summon-natures-ally-iv.md)*
 
 **Statistics**
 

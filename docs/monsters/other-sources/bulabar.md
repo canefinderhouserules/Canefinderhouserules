@@ -24,7 +24,7 @@ LN Tiny fey
 **Space** 2-1/2 ft., **Reach** 0 ft.  
 **Special Attacks** disassemble (DC 12)  
 **Spell-Like Abilities** (CL 1st; concentration +1)  
-At will—*mending*
+At will—*[mending](../../magic/spells/mending.md)*
 
 **Statistics**
 

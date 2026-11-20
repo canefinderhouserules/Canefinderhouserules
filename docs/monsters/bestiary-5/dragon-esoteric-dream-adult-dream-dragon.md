@@ -23,12 +23,12 @@ N Huge dragon (extraplanar)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, DC 23, 12d6 electricity), crush, sleeping breath 1/day  
 **Psychic Magic** (CL 17th; concentration +23)  
-11 PE—*euphoric cloud* (2 PE, DC 18), *invisibility* (2 PE), *lullaby* (0 PE, DC 16), *mirror strike* (1 PE), *thought shield II*  
+11 PE—*[euphoric cloud](../../magic/spells/euphoric-cloud.md)* (2 PE, DC 18), *[invisibility* ](../../magic/spells/invisibility.md)(2 PE), *[lullaby* ](../../magic/spells/lullaby.md)(0 PE, DC 16), *[mirror strike* ](../../magic/spells/mirror-strike.md)(1 PE), *[thought shield II](../../magic/spells/thought-shield-ii.md)*  
  **Psychic Spells Known** (CL 7th; concentration +12)  
- 3rd (5/day)—*clairaudience/clairvoyance*, *deep slumber* (DC 18)  
- 2nd (7/day)—*aversion* (DC 17), *calm emotions* (DC 17), *mind thrust II*  
- 1st (8/day)—*blurred movement*, *color spray* (DC 16), *shield*, *sleep* (DC 16), *true strike*  
- 0 (at will)—*dancing light*, *daze* (DC 15), *detect magic*, *ghost sound* (DC 15), *mage hand*, *message*, *resistance*
+ 3rd (5/day)—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[deep slumber](../../magic/spells/deep-slumber.md)* (DC 18)  
+ 2nd (7/day)—*[aversion* ](../../magic/spells/aversion.md)(DC 17), *[calm emotions* ](../../magic/spells/calm-emotions.md)(DC 17), *[mind thrust II](../../magic/spells/mind-thrust-ii.md)*  
+ 1st (8/day)—*[blurred movement](../../magic/spells/blurred-movement.md)*, *[color spray* ](../../magic/spells/color-spray.md)(DC 16), *[shield](../../magic/spells/shield.md)*, *[sleep* ](../../magic/spells/sleep.md)(DC 16), *[true strike](../../magic/spells/true-strike.md)*  
+ 0 (at will)—*[dancing light](../../magic/spells/dancing-lights.md)*, *[daze* ](../../magic/spells/daze.md)(DC 15), *[detect magic](../../magic/spells/detect-magic.md)*, *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 15), *[mage hand](../../magic/spells/mage-hand.md)*, *[message](../../magic/spells/message.md)*, *[resistance](../../magic/spells/resistance.md)*
 
 **Statistics**
 

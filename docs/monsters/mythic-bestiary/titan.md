@@ -30,8 +30,8 @@ effects, disease, divinations, stagger, stun; **SR** 39
 rock throwing (120 ft.), trample (4d8+27, DC 39)  
 **Spell-Like Abilities** (CL 20th; concentration +32)  
 Constant—*air walk, haste, mind blank, true seeing, water walk*  
- At will—*bestow curse* (DC 26), *break enchantment, divination, greater dispel magic, sending* 3/day—quickened *chain lightning* (DC 28), *greater scrying* (DC 29), *harm* (DC 28), quickened *heal* (DC 28), *mass suggestion* (DC 28)  
- 1/day—*greater planar ally, mass heal* (DC 31), *soul bind* (DC 31), *tsunami* (DC 31)
+ At will—*[bestow curse](../../magic/spells/bestow-curse.md)* (DC 26), *break enchantment, divination, greater dispel magic, sending* 3/day—quickened *[chain lightning](../../magic/spells/chain-lightning.md)* (DC 28), *[greater scrying](../../magic/spells/scrying-greater.md)* (DC 29), *[harm](../../magic/spells/harm.md)* (DC 28), quickened *[heal](../../magic/spells/heal.md)* (DC 28), *[mass suggestion](../../magic/spells/suggestion-mass.md)* (DC 28)  
+ 1/day—*greater planar ally, mass heal* (DC 31), *[soul bind](../../magic/spells/soul-bind.md)* (DC 31), *[tsunami](../../magic/spells/tsunami.md)* (DC 31)
 
 **Statistics**
 

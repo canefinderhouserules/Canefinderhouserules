@@ -24,10 +24,10 @@ NE Large outsider (fire, giant, native, oni, shapechanger)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** burn (2d6, DC 26), smoke form  
 **Spell-Like Abilities** (CL 15th; concentration +17)  
-Constant—*fly*  
-At will—*darkness*, *invisibility* (self only), *scorching ray*  
-3/day—*charm monster* (DC 16), *deep slumber* (DC 15), *fireball* (DC 15), *fire shield* (warm shield only), *wall of fire*  
-1/day—*incendiary cloud* (DC 20)
+Constant—*[fly](../../magic/spells/fly.md)*  
+At will—*[darkness](../../magic/spells/darkness.md)*, *[invisibility* ](../../magic/spells/invisibility.md)(self only), *[scorching ray](../../magic/spells/scorching-ray.md)*  
+3/day—*[charm monster* ](../../magic/spells/charm-monster.md)(DC 16), *[deep slumber* ](../../magic/spells/deep-slumber.md)(DC 15), *[fireball* ](../../magic/spells/fireball.md)(DC 15), *[fire shield* ](../../magic/spells/fire-shield.md)(warm shield only), *[wall of fire](../../magic/spells/wall-of-fire.md)*  
+1/day—*[incendiary cloud* ](../../magic/spells/incendiary-cloud.md)(DC 20)
 
 **Statistics**
 

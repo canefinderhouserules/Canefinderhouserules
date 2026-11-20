@@ -21,10 +21,10 @@ N Medium monstrous humanoid
 **Melee** 2 claws +9 (1d4) or touch +4 (phrenic disruption)  
 **Special Attacks** phrenic disruption (DC 19)  
 **Spell-Like Abilities** (CL 9th; concentration +14)  
-Constant—*mage hand*, *thought shield I*, *thoughtsense*, *tongues*  
-At will—*detect thoughts* (DC 17)  
+Constant—*[mage hand](../../magic/spells/mage-hand.md)*, *[thought shield I](../../magic/spells/thought-shield-i.md)*, *[thoughtsense](../../magic/spells/thoughtsense.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17)  
 **Psychic Magic** (CL 9th; concentration +14)  
-12 PE—*detect magic* (0 PE), *hypercognition* (2 PE), *instigate psychic duel* (2 PE, DC 17), *mind thrust II* (2 PE, DC 17), *mindlink* (1 PE), *mindscape door* (3 PE, DC 18), *psychic asylum* (5 PE), *synaptic pulse* (3 PE, DC 18), *thought shield III* (4 PE)
+12 PE—*[detect magic](../../magic/spells/detect-magic.md)* (0 PE), *[hypercognition](../../magic/spells/hypercognition.md)* (2 PE), *[instigate psychic duel](../../magic/spells/instigate-psychic-duel.md)* (2 PE, DC 17), *[mind thrust II](../../magic/spells/mind-thrust-ii.md)* (2 PE, DC 17), *[mindlink](../../magic/spells/mindlink.md)* (1 PE), *[mindscape door](../../magic/spells/mindscape-door.md)* (3 PE, DC 18), *[psychic asylum](../../magic/spells/psychic-asylum.md)* (5 PE), *[synaptic pulse](../../magic/spells/synaptic-pulse.md)* (3 PE, DC 18), *[thought shield III](../../magic/spells/thought-shield-iii.md)* (4 PE)
 
 **Statistics**
 

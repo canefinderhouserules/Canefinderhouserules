@@ -23,7 +23,7 @@ NG Gargantuan dragon (extraplanar, good)
 **Space** 20 ft., **Reach** 20 ft.  
 **Special Attacks** breath weapon (60-ft. cone, 25d6 fire and divine damage, Reflex DC 32 half)  
 **Spell-Like Abilities** (CL 20th; concentration +26)  
-3/day—*miracle* (to duplicate existing spells)
+3/day—*[miracle* ](../../magic/spells/miracle.md)(to duplicate existing spells)
 
 **Statistics**
 

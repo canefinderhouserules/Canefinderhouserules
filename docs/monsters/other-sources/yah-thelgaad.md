@@ -22,15 +22,15 @@ CE Large aberration
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** command disease, mind storm, powerful tentacles, spellstrike  
 **Spell-Like Abilities** (CL 12th; concentration +20)  
-Constant—*diagnose disease*, *true seeing*  
+Constant—*[diagnose disease](../../magic/spells/diagnose-disease.md)*, *[true seeing](../../magic/spells/true-seeing.md)*  
 **Sorcerer Spells Known** (CL 12th; concentration +32)  
-6th (4/day)—*disintegrate* (DC 21)  
-5th (6/day)—*sending*, *suffocation* (DC 22)  
-4th (8/day)—*confusion* (DC 19), *contagion* (DC 21), *dimension door*  
-3rd (8/day)—*clairaudience/clairvoyance*, *dispel magic*, *slow* (DC 18), *vampiric touch*  
-2nd (8/day)—*detect thoughts* (DC 17), *ghoul touch* (DC 19), *mirror image*, *scorching ray*, *spectral hand*  
-1st (8/day)—*chill touch* (DC 18), *magic missile*, *ray of enfeeblement* (DC 18), *shocking grasp*, *unseen servant*  
-0 (at will)—*acid splash*, *detect magic*, *flare* (DC 15), *ghost sound* (DC 15), *mage hand*, *open/close*, *prestidigitation*, *read magic*, *touch of fatigue* (DC 17)
+6th (4/day)—*[disintegrate](../../magic/spells/disintegrate.md)* (DC 21)  
+5th (6/day)—*[sending](../../magic/spells/sending.md)*, *[suffocation](../../magic/spells/suffocation.md)* (DC 22)  
+4th (8/day)—*[confusion](../../magic/spells/confusion.md)* (DC 19), *[contagion](../../magic/spells/contagion.md)* (DC 21), *[dimension door](../../magic/spells/dimension-door.md)*  
+3rd (8/day)—*[clairaudience/clairvoyance](../../magic/spells/clairaudience-clairvoyance.md)*, *[dispel magic](../../magic/spells/dispel-magic.md)*, *[slow](../../magic/spells/slow.md)* (DC 18), *[vampiric touch](../../magic/spells/vampiric-touch.md)*  
+2nd (8/day)—*[detect thoughts](../../magic/spells/detect-thoughts.md)* (DC 17), *[ghoul touch](../../magic/spells/ghoul-touch.md)* (DC 19), *[mirror image](../../magic/spells/mirror-image.md)*, *[scorching ray](../../magic/spells/scorching-ray.md)*, *[spectral hand](../../magic/spells/spectral-hand.md)*  
+1st (8/day)—*[chill touch](../../magic/spells/chill-touch.md)* (DC 18), *[magic missile](../../magic/spells/magic-missile.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 18), *[shocking grasp](../../magic/spells/shocking-grasp.md)*, *[unseen servant](../../magic/spells/unseen-servant.md)*  
+0 (at will)—*[acid splash](../../magic/spells/acid-splash.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[flare](../../magic/spells/flare.md)* (DC 15), *[ghost sound](../../magic/spells/ghost-sound.md)* (DC 15), *[mage hand](../../magic/spells/mage-hand.md)*, *[open/close](../../magic/spells/open-close.md)*, *[prestidigitation](../../magic/spells/prestidigitation.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[touch of fatigue](../../magic/spells/touch-of-fatigue.md)* (DC 17)
 
 **Statistics**
 

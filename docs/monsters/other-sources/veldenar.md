@@ -22,7 +22,7 @@ N Huge magical beast (air, extraplanar)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** vacuum attack, viscous air, fast swallow, swallow whole (4d6 cold damage, AC 17, 13 hp)  
 **Spell-Like Abilities** (CL 10th; concentration +11)  
-At will—*invisibility* (self only), *see invisibility*
+At will—*[invisibility](../../magic/spells/invisibility.md)* (self only), *[see invisibility](../../magic/spells/see-invisibility.md)*
 
 **Statistics**
 

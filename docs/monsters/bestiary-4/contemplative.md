@@ -20,9 +20,9 @@ N Medium monstrous humanoid
 **Speed** 5 ft., fly 30 ft. (perfect)  
 **Melee** 2 claws +2 (1d4–2)  
 **Spell-Like Abilities** (CL 4th; concentration +9)  
-Constant—*detect magic*, *mage hand*, *read magic*, *tongues*  
-At will—*daze* (DC 15), *detect thoughts* (DC 17), *ghost sound* (DC 15), *magic missile*  
-1/day—*telekinesis* (DC 20)
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[mage hand](../../magic/spells/mage-hand.md)*, *[read magic](../../magic/spells/read-magic.md)*, *[tongues](../../magic/spells/tongues.md)*  
+At will—*[daze* ](../../magic/spells/daze.md)(DC 15), *[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 17), *[ghost sound* ](../../magic/spells/ghost-sound.md)(DC 15), *[magic missile](../../magic/spells/magic-missile.md)*  
+1/day—*[telekinesis* ](../../magic/spells/telekinesis.md)(DC 20)
 
 **Statistics**
 

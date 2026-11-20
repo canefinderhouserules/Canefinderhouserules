@@ -22,9 +22,9 @@ CE Medium outsider (chaotic, demodand, evil, extraplanar)
 **Melee** bite +30 (1d10+9 plus 2d6 acid), 2 claws +30 (2d6+13/19–20 plus 2d6 acid and grab)  
 **Special Attacks** acid, dread claws, faith-stealing strike (DC 23)  
 **Spell-Like Abilities** (CL 16th; concentration +19)  
-Constant—*detect good*, *detect magic*, *see invisibility*  
-At will—*detect thoughts* (DC 15), *fear* (DC 17)  
-3/day—*acid fog*, *greater dispel magic*  
+Constant—*[detect good](../../magic/spells/detect-good.md)*, *[detect magic](../../magic/spells/detect-magic.md)*, *[see invisibility](../../magic/spells/see-invisibility.md)*  
+At will—*[detect thoughts* ](../../magic/spells/detect-thoughts.md)(DC 15), *[fear* ](../../magic/spells/fear.md)(DC 17)  
+3/day—*[acid fog](../../magic/spells/acid-fog.md)*, *[greater dispel magic](../../magic/spells/dispel-magic-greater.md)*  
 1/day—summon (level 6, 1d4 tarry demodands 50%)
 
 **Statistics**

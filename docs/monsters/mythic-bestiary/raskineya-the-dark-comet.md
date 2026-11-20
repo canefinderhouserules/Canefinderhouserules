@@ -24,11 +24,11 @@ CE Huge dragon (mythic)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, 12d8 cold, Reflex DC 24 half, usable every 1d4 rounds), crush, dual breath, dragon fury (1d8 cold), fast swallow, gaze of the void (DC 23), mythic power (6/day, surge +1d8), obliteration (DC 23), suffocating breath (DC 23), swallow whole (2d8 cold damage plus suffocating void, AC 23, 26 hp)  
 **Spell-Like Abilities** (CL 16th; concentration +21)  
-At will—asral gloom, *blur*, *ray of enfeeblement* (DC 16), *ray of exhaustion* (DC 18)  
+At will—asral gloom, *[blur](../../magic/spells/blur.md)*, *[ray of enfeeblement](../../magic/spells/ray-of-enfeeblement.md)* (DC 16), *[ray of exhaustion](../../magic/spells/ray-of-exhaustion.md)* (DC 18)  
 **Sorcerer Spells Known** (CL 7th; concentration +12)  
-3rd (5)—*dispel magic*, *rage*  
-2nd (7)—*darkness*, *shatter*, *touch of idiocy*  
-1st (8)—*cause fear* (DC 16), *hypnotism* (DC 16), *mage armor*, *obscuring mist*, *true strike*
+3rd (5)—*[dispel magic](../../magic/spells/dispel-magic.md)*, *[rage](../../magic/spells/rage.md)*  
+2nd (7)—*[darkness](../../magic/spells/darkness.md)*, *[shatter](../../magic/spells/shatter.md)*, *[touch of idiocy](../../magic/spells/touch-of-idiocy.md)*  
+1st (8)—*[cause fear](../../magic/spells/cause-fear.md)* (DC 16), *[hypnotism](../../magic/spells/hypnotism.md)* (DC 16), *[mage armor](../../magic/spells/mage-armor.md)*, *[obscuring mist](../../magic/spells/obscuring-mist.md)*, *[true strike](../../magic/spells/true-strike.md)*
 
 **Statistics**
 

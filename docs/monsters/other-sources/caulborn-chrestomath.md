@@ -20,7 +20,7 @@ N Medium outsider (extraplanar)
 **Speed** fly 10 ft. (average)  
 **Special Attacks** mind flood  
 **Spell-Like Abilities** (CL 7th; concentration +12)  
-Constant—*detect magic*, *detect thoughts*, *tongues*
+Constant—*[detect magic](../../magic/spells/detect-magic.md)*, *[detect thoughts](../../magic/spells/detect-thoughts.md)*, *[tongues](../../magic/spells/tongues.md)*
 
 **Statistics**
 
