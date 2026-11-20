@@ -91,10 +91,90 @@ function featureLevel(name, href) {
   return 0;
 }
 
-// ---- the class feature lists: [name, link, price, level, band low]
+// ---- the text of a listed feature: the section its link points to, or the archetype's ability of that name
+const anchorOf = s => s.toLowerCase().replace(/[^\w\s-]/g, '').trim().replace(/\s+/g, '-');
+function plain(md) {
+  return md.replace(/^\?\?\?[^\n]*\n(?:(?: {4}|\t)[^\n]*\n|\s*\n)*/gm, '') // "??? note" blocks (the original rule)
+    .split('\n').filter(l => !/^\s*\|/.test(l) && !/^#/.test(l)).join(' ')
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/[*_`]/g, '').replace(/<[^>]+>/g, ' ').replace(/&[a-z]+;/g, ' ').replace(/\s+/g, ' ').trim();
+}
+const sectionCache = {};
+function sectionText(file, anchor) {
+  if (!sectionCache[file]) {
+    const out = {};
+    try {
+      const parts = read(file).split(/^(#{2,5} .+)$/m);
+      for (let i = 1; i < parts.length; i += 2) { const k = anchorOf(parts[i].replace(/^#+\s*/, '')); if (!(k in out)) out[k] = plain(parts[i + 1] || ''); }
+    } catch (e) {}
+    sectionCache[file] = out;
+  }
+  return sectionCache[file][anchor] || '';
+}
+function featureText(name, href) {
+  const [file, anchor] = href.replace(/^(\.\.\/)+/, '').split('#');
+  if (/-archetypes\.md$/.test(file)) {
+    const page = file.replace(/\.md$/, '/'), ability = norm(name.replace(/\s*\([^)]*\)\s*$/, ''));
+    for (const cls of Object.keys(ARCH)) for (const a of ARCH[cls].archetypes) {
+      if (a.anchor !== anchor || a.page !== page) continue;
+      const b = a.abilities.find(x => norm(x.name) === ability) || a.abilities.find(x => norm(x.name).startsWith(ability));
+      if (b) return plain(b.html.replace(/<p>This ability (replaces|alters|modifies)[\s\S]*?<\/p>/gi, ''));
+    }
+  }
+  return sectionText(file, anchor || '');
+}
+
+// ---- the levels at which a bonus feat feature gives a feat (as the source class does)
+const ORD = { first: 1, second: 2, third: 3, fourth: 4, fifth: 5, sixth: 6, two: 2, three: 3, four: 4, five: 5, six: 6 };
+function featLevels(name, href, text, lvl) {
+  if (!/^(Bonus Feats?|Teamwork Feat|Combat Style Feat)\b/i.test(name)) return null;
+  const [file, anchor] = href.replace(/^(\.\.\/)+/, '').split('#');
+  let m = file.match(/^characters\/classes\/(?:legendary\/)?([a-z0-9-]+?)\.md$/);
+  if (m && !/-archetypes$/.test(m[1]) && ARCH[m[1]]) {
+    const us = ARCH[m[1]].units.filter(u => u.sec === anchor);
+    if (us.length) return [...new Set(us.map(u => u.lvl))].sort((a, b) => a - b);
+  }
+  if (/^characters\/prestige-classes\//.test(file)) {
+    try {
+      const lines = read(file).split('\n'), h = lines.findIndex(l => /^\| Level \|/.test(l)), out = [];
+      for (let j = h + 2; h >= 0 && lines[j] && lines[j].startsWith('|'); j++) if (/bonus feat|teamwork feat/i.test(lines[j])) out.push(Math.min(20, j - h - 1 + 3));
+      if (out.length) return out;
+    } catch (e) {}
+  }
+  // an archetype's ability: the levels its text names, and "every N levels" after the last one
+  const t = text.slice(0, 400), out = [...t.matchAll(/\b(\d+)(?:st|nd|rd|th)\b/g)].map(x => +x[1]).filter(n => n <= 20);
+  const ev = t.match(/every (\w+) levels/i), step = ev ? (+ev[1] || ORD[ev[1].toLowerCase()]) : 0;
+  if (!out.length) out.push(lvl);
+  if (step) for (let n = out[out.length - 1] + step; n <= 20; n += step) out.push(n);
+  return [...new Set(out)].sort((a, b) => a - b);
+}
+
+// ---- how a listed feature grows: its labels by level in its class table ("Sneak attack +2d6" at 3rd...),
+// so the builder shows the wiki's numbers at the enemy's level (a prestige class's levels are its own)
+function progression(name, href) {
+  const [file, anchor] = href.replace(/^(\.\.\/)+/, '').split('#');
+  const keep = list => list.length && list.some(p => /\d/.test(p[1])) ? list : null;
+  let m = file.match(/^characters\/classes\/(?:legendary\/)?([a-z0-9-]+?)\.md$/);
+  if (m && !/-archetypes$/.test(m[1]) && ARCH[m[1]]) {
+    return keep(ARCH[m[1]].units.filter(u => u.sec === anchor && !u.sub).sort((a, b) => a.lvl - b.lvl).map(u => [u.lvl, clean(u.label)]));
+  }
+  if (/^characters\/prestige-classes\//.test(file)) {
+    try {
+      const lines = read(file).split('\n'), h = lines.findIndex(l => /^\| Level \|/.test(l)), out = [], k = norm(name.replace(/\s*\([^)]*\)\s*$/, ''));
+      if (h < 0) return null;
+      const sp = cells(lines[h]).findIndex(c => /^Special/i.test(c));
+      for (let j = h + 2; lines[j] && lines[j].startsWith('|'); j++) {
+        String(cells(lines[j])[sp] || '').split(/,\s*/).forEach(x => { if (norm(x.replace(/\s*[+\d/].*$/, '')) === k) out.push([j - h - 1, x.trim()]); });
+      }
+      return keep(out);
+    } catch (e) { return null; }
+  }
+  return null;
+}
+
+// ---- the class feature lists: [name, link, price, level, band low, text index, feat levels, progression]
 const PRICE = { 'Iconic': 'iconic', 'Overpowered (OP)': 'op', 'Common': 'common', 'Weak': 'weak' };
-const lists = {};
-let exact = 0, total = 0;
+const lists = {}, texts = [], textIdx = {};
+let exact = 0, total = 0, withText = 0;
 for (const c of classes) {
   const text = read(SW + 'class-features-' + c.s + '.md'), out = [];
   let band = [1, 20];
@@ -108,7 +188,13 @@ for (const c of classes) {
       total++; if (lvl) exact++;
       // links become paths from the site root
       const link = path.posix.normalize(path.posix.join(SW, x[2])).replace(/\.md(#|$)/, '/$1');
-      out.push([x[1], link, PRICE[p[1]], lvl && lvl >= band[0] && lvl <= band[1] ? lvl : band[0], band[0]]);
+      const t = short(featureText(x[1], x[2]), 900);
+      let ti = -1;
+      if (t) { withText++; ti = textIdx[t] != null ? textIdx[t] : (textIdx[t] = texts.push(t) - 1); }
+      const at = lvl && lvl >= band[0] && lvl <= band[1] ? lvl : band[0], fl = featLevels(x[1], x[2], t, at);
+      const pg = progression(x[1], x[2]), row = [x[1], link, PRICE[p[1]], at, band[0], ti];
+      if (fl || pg) row.push(fl || null); if (pg) row.push(pg);
+      out.push(row);
     }
   }
   lists[c.s] = out;
@@ -165,6 +251,6 @@ fp.split(/^\*\*(?=[^*\n]+\*\*\s*$)/m).slice(1).forEach(part => {
 });
 
 const out = path.join(DOCS, 'tools', 'starwars-builder-data.json');
-fs.writeFileSync(out, JSON.stringify({ classes, lists, generic, weapons, forms, powers }));
-console.log('starwars-builder-data.json:', classes.length, 'classes,', total, 'listed features (' + exact + ' with an exact level),', generic.length, 'generic,',
+fs.writeFileSync(out, JSON.stringify({ classes, lists, texts, generic, weapons, forms, powers }));
+console.log('starwars-builder-data.json:', classes.length, 'classes,', total, 'listed features (' + exact + ' with an exact level, ' + withText + ' with text),', generic.length, 'generic,',
   weapons.length, 'weapons,', forms.length, 'forms,', powers.length, 'Force powers');

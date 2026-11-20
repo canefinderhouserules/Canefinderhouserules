@@ -90,3 +90,4 @@
 .md-typeset .eb-chip.eb-common { background: rgba(30, 136, 229, .13); }
 .md-typeset .eb-chip.eb-weak { background: rgba(120, 120, 120, .15); }
 .md-typeset .eb-chip a { text-decoration: none; }
+.md-typeset .eb-fx { color: var(--md-accent-fg-color); font-size: .6rem; }

@@ -13,7 +13,7 @@
   // data-mode="starwars" (tools/starwars-builder.md): the Star Wars subsystem's classes, class feature lists, weapons and Force powers
   var SWM = root.getAttribute('data-mode') === 'starwars';
   var KEY = SWM ? 'starwars-builder:current' : 'enemy-builder:current', LIB = SWM ? 'starwars-builder:saved' : 'enemy-builder:saved';
-  var SWD = null, FP_BY = {}, SW_ENTRIES = {};
+  var SWD = null, FP_BY = {}, SW_ENTRIES = {}, SW_INFO = {};
   var PRICE_PTS = { iconic: 4, op: 4, common: 2, weak: 1 }, PRICE_LABEL = { iconic: 'Iconic', op: 'OP', common: 'Common', weak: 'Weak' };
   var SW_SKILL = { 'Knowledge (arcana)': 'Science', 'Knowledge (planes)': 'Computers', 'Knowledge (engineering)': 'Engineering', 'Disable Device': 'Slicing' };
   var SW_COST = ['0–3', '1–10', '11–20', '21–30', '31–40', '41–50', '51–60', '61–70', '71–80', '81–100'];
@@ -199,10 +199,17 @@
     var d = CLASS_BY[c.s], L = c.lvl || 1, out = [], bonus = 0;
     if (!d) return { list: out, bonusFeats: 0 };
     if (d.sw) {
+      var extra = 0;
       (c.picks || []).forEach(function (p) {
-        if (p.slot <= L) out.push({ name: p.n, type: '', text: p.text || PRICE_LABEL[p.price] + ' class feature (' + ord(p.lvl) + ' level).', link: p.link, lvl: p.slot, price: p.price, sw: true });
+        if (p.slot > L) return;
+        var info = SW_INFO[p.n + '|' + p.link] || {}, prestige = /prestige-classes\//.test(p.link || '');
+        var fl = info.feats ? info.feats.filter(function (l) { return l <= L; }).length : 0;
+        extra += fl;
+        // a prestige class feature counts 3 levels higher, so it scales with the level less 3
+        out.push({ name: p.n, type: '', text: p.text || info.text || PRICE_LABEL[p.price] + ' class feature (' + ord(p.lvl) + ' level).', link: p.link, lvl: p.slot, price: p.price, sw: true,
+          src: srcOf(p.link), fxL: Math.max(1, L - (prestige ? 3 : 0)), prog: info.prog, featNote: info.feats ? (fl ? '+' + fl + ' feat' + (fl > 1 ? 's' : '') : 'no feat yet') + ' (at ' + info.feats.map(ord).join(', ') + ')' : '' });
       });
-      var extra = 0; d.special.slice(0, L).forEach(function (t) { if (/Extra Combat Feat/i.test(t)) extra++; });
+      d.special.slice(0, L).forEach(function (t) { if (/Extra Combat Feat/i.test(t)) extra++; });
       return { list: out, bonusFeats: extra };
     }
     var typeOf = function (t) { var m = String(t).match(/\((Ex|Su|Sp)\)|-(ex|su|sp)$/i); return m ? capFirst((m[1] || m[2]).toLowerCase()) : ''; };
@@ -211,7 +218,7 @@
         String(sp).split(/,\s*/).filter(function (x) { return x && !/^[—–-]$/.test(x); }).forEach(function (x) {
           var base = x.replace(/\s*[+\d/].*$/, '').toLowerCase();
           out = out.filter(function (o) { return o.base !== base; });
-          out.push({ name: capFirst(x), base: base, type: '', text: '', link: d.page, lvl: i + 1 });
+          out.push({ name: capFirst(x), base: base, type: '', text: '', link: d.page, lvl: i + 1, src: d.s, fxL: L });
         });
       });
       return { list: out, bonusFeats: 0 };
@@ -226,14 +233,14 @@
     A.units.forEach(function (u) {
       if (u.sub || u.lvl > L || replaced[u.id] || /class skills|proficien/i.test(u.base)) return;
       count[u.base] = (count[u.base] || 0) + 1;
-      if (/^bonus feat/i.test(u.base)) bonus++;
+      if (/^(bonus feat|teamwork feat|combat style feat)/i.test(u.base)) bonus++;
       if (!latest[u.base] || u.idx >= latest[u.base].idx) latest[u.base] = u;
     });
     Object.keys(latest).forEach(function (k) {
       var u = latest[k], label = capFirst(u.label);
       if (/^bonus feat/i.test(k)) return; // counted in the feat slots instead
       if (count[k] > 1 && !/\d/.test(label)) label += ' ×' + count[k];
-      out.push({ name: label, type: typeOf(u.sec || ''), text: (d.sec || {})[u.sec] || '', link: d.page + (u.sec ? '#' + u.sec : ''), lvl: u.lvl });
+      out.push({ name: label, type: typeOf(u.sec || ''), text: (d.sec || {})[u.sec] || '', link: d.page + (u.sec ? '#' + u.sec : ''), lvl: u.lvl, src: d.s, fxL: L });
     });
     chosen.forEach(function (a) {
       a.abilities.forEach(function (b) {
@@ -241,12 +248,101 @@
         var lvl = b.lvl || (ids.length ? Math.min.apply(null, ids.map(function (id) { return unitById[id] ? unitById[id].lvl : 1; })) : 0);
         if (!lvl || lvl > L || /proficien|class skills|^skills/i.test(b.name)) return;
         out.push({ name: b.name.replace(/\s*\((Ex|Su|Sp)\)\s*$/i, ''), type: typeOf(b.name), text: shortText(stripHtml(b.html), 700),
-          link: (a.page || '') + '#' + (a.anchor || ''), lvl: lvl, arch: a.name });
+          link: (a.page || '') + '#' + (a.anchor || ''), lvl: lvl, arch: a.name, src: d.s, fxL: L });
       });
     });
     out.sort(function (x, y) { return x.lvl - y.lvl; });
     return { list: out, bonusFeats: bonus };
   }
+  // ---------- what class features do to the numbers ----------
+  // Only lasting effects: modes that are turned on (rage and the like) go in as buffs by hand. A feature scales with
+  // the level of its class (in the Star Wars builder, the class level; a prestige class feature, that less 3).
+  function srcOf(link) { var m = String(link || '').match(/(?:classes|prestige-classes)\/(?:legendary\/)?([a-z0-9-]+?)(?:-archetypes)?\//); return m ? m[1] : ''; }
+  var UNARMED = ['1d6', '1d6', '1d6', '1d8', '1d8', '1d8', '1d8', '1d10', '1d10', '1d10', '1d10', '2d6', '2d6', '2d6', '2d6', '2d8', '2d8', '2d8', '2d8', '2d10'];
+  function sneakDice(L, name, src) {
+    var m = name.match(/\((\d+)d6 at (\d+)\w* level(?:, \+1d6 (?:at (\d+)\w* and )?every (\d+) levels?)?/i);
+    if (m) {
+      if (L < +m[2]) return 0;
+      if (m[3]) return 1 + (L >= +m[3] ? 1 + Math.floor((L - m[3]) / m[4]) : 0);
+      return m[4] ? 1 + Math.floor((L - m[2]) / m[4]) : 1;
+    }
+    if (/slayer/.test(src)) return L >= 3 ? Math.floor(L / 3) : 0;
+    return Math.ceil(L / 2);
+  }
+  // the feature's line in its class table at its level ("Sneak attack +3d6"), from which the numbers are read first
+  function tableText(x) {
+    if (!x.prog) return x.name;
+    var t = ''; x.prog.forEach(function (p) { if (p[0] <= (x.fxL || 1)) t = p[1]; });
+    return t;
+  }
+  function plusOf(t) { var m = String(t).match(/\+(\d+)(?![\dd])/); return m ? +m[1] : 0; }
+  function diceOf(t) { var m = String(t).match(/\d+d\d+/); return m ? m[0] : ''; }
+  function tailOf(t) { var m = String(t).match(/\s(\d+)(?=\/|\s*$|\s*\()/); return m ? +m[1] : 0; }
+  var FEATURE_FX = [
+    [/^armor training$/, function (L, x, M, src, t) { var n = tailOf(t) || Math.floor((L + 1) / 4); return n && { acpRed: n, maxDex: n, note: 'armor check penalty –' + n + ', max Dex +' + n }; }],
+    [/^(swashbuckler )?weapon training$/, function (L, x, M, src, t) { var n = tailOf(t) || plusOf(t) || Math.floor((L - 1) / 4); return n > 0 && { wAtk: n, wDmg: n, note: '+' + n + ' attack and damage with weapons (its first group)' }; }],
+    [/^bravery$/, function (L, x, M, src, t) { var n = plusOf(t) || Math.max(1, Math.floor((L + 2) / 4)); return { label: 'Bravery +' + n, note: 'its bonus in the name (against fear)' }; }],
+    [/^(trap sense|danger sense)$/, function (L, x, M, src, t) { var n = plusOf(t) || Math.max(1, Math.floor(L / 3)); return { label: capFirst(x.base) + ' +' + n, def: x.base + ' +' + n, note: 'in Defensive Abilities' }; }],
+    [/^fast movement$/, function (L, x, M, src) { var ft = /monk/.test(src) ? 10 * Math.floor(L / 3) : 10; return ft && { speed: ft, note: '+' + ft + ' ft. speed' }; }],
+    [/^ac bonus$/, function (L, x, M, src, t) {
+      if (/brawler/.test(src)) { var b = plusOf(t) || (L < 4 ? 0 : 1 + (L >= 9) + (L >= 13) + (L >= 18)); return b && { dodge: b, note: '+' + b + ' dodge AC' }; }
+      var v = Math.max(0, M.Wis) + Math.floor(L / 4); return v && { ac: v, acFF: true, cmd: v, note: '+' + v + ' AC and CMD (Wis, +' + Math.floor(L / 4) + ' for level)' };
+    }],
+    [/^nimble$/, function (L, x, M, src, t) { var n = plusOf(t) || (/swashbuckler/.test(src) ? Math.floor((L + 1) / 4) : Math.floor((L + 2) / 4)); return n && { dodge: n, note: '+' + n + ' dodge AC' }; }],
+    [/^canny defense$/, function (L, x, M) { var n = Math.min(Math.max(0, M.Int), L); return n && { dodge: n, note: '+' + n + ' AC (Int)' }; }],
+    [/^(divine grace|unholy resilience)$/, function (L, x, M) { return M.Cha > 0 && { saveAll: M.Cha, note: '+' + M.Cha + ' on all saves (Cha)' }; }],
+    [/^sneak attack$/, function (L, x, M, src, t) { var d = diceOf(t), n = d ? +d.split('d')[0] : sneakDice(L, x.name, src); return n && { label: 'Sneak attack +' + n + 'd6', note: 'a roll button' }; }],
+    [/^channel( (positive|negative))?( energy)?$/, function (L, x, M, src, t) { return { label: 'Channel energy ' + (diceOf(t) || Math.ceil(L / 2) + 'd6'), note: 'a roll button' }; }],
+    [/^(lay on hands|touch of corruption)$/, function (L, x, M, src, t) { var d = diceOf(t) || (L >= 2 ? Math.floor(L / 2) + 'd6' : ''); return d && { label: capFirst(x.base) + ' ' + d, note: 'a roll button' }; }],
+    [/^smite (evil|good|chaos|law)$/, function (L, x, M, src, t) { var m = String(t).match(/(\d+)\/day/); return { label: capFirst(x.base) + ' ' + (m ? m[1] : 1 + Math.floor((L - 1) / 3)) + '/day' }; }],
+    [/^bombs?$/, function (L, x, M, src, t) { return { label: 'Bomb ' + (diceOf(t) || Math.ceil(L / 2) + 'd6') + (M.Int ? (M.Int > 0 ? '+' : '-') + Math.abs(M.Int) : ''), note: 'a roll button' }; }],
+    [/^unarmed strike$/, function (L, x, M, src) { return /monk|brawler/.test(src) && { unarmed: UNARMED[Math.min(L, 20) - 1], note: 'an attack named unarmed strike deals ' + UNARMED[Math.min(L, 20) - 1] + ' (Medium)' }; }],
+    [/^damage reduction$/, function (L, x, M, src, t) { var m = String(t).match(/(\d+)\/—/), n = m ? +m[1] : /barbarian/.test(src) ? Math.floor(L / 2) : 0; return n > 0 && { dr: n, note: 'DR ' + n + '/—' }; }],
+    [/^darkvision$/, function (L, x) { var r = String(x.text || '').match(/(\d+)[- ](?:foot|feet|ft)/); return { senses: 'darkvision ' + (r ? r[1] : 60) + ' ft.', note: 'in Senses' }; }],
+    [/^low-light vision$/, function () { return { senses: 'low-light vision', note: 'in Senses' }; }],
+    [/^bardic knowledge$/, function (L) { var n = Math.max(1, Math.floor(L / 2)); return { know: n, note: '+' + n + ' on Knowledge checks' }; }],
+    [/^stern gaze$/, function (L) { var n = Math.max(1, Math.floor(L / 2)); return { skill: { Intimidate: n, 'Sense Motive': n }, note: '+' + n + ' Intimidate and Sense Motive' }; }],
+    [/^finesse training$/, function () { return { finesse: true, note: 'Weapon Finesse' }; }],
+    [/^gun training$/, function (L) { return L >= 5 && { gunDex: true, note: 'Dex to damage with blasters and firearms' }; }],
+    [/^studied target$/, function (L) { return { label: 'Studied target +' + (1 + Math.floor(L / 5)) }; }],
+    [/^(improved )?(evasion|uncanny dodge)$|^stalwart$/, function (L, x) { return { def: x.base, note: 'in Defensive Abilities' }; }]
+  ];
+  function featureFx(D, M) {
+    var F = { dodge: 0, ac: 0, acFF: 0, cmd: 0, saveAll: 0, speed: 0, skill: {}, know: 0, wAtk: 0, wDmg: 0, acpRed: 0, maxDex: 0, finesse: false, gunDex: false, unarmed: null, dr: 0, def: [], senses: [], parts: [] };
+    D.features.forEach(function (x) {
+      x.note = ''; x.label = '';
+      x.base = String(x.name).replace(/\s*\(.*$/, '').replace(/\s*[+×]?\d.*$/, '').toLowerCase().trim();
+      if (!x.on) return;
+      var t = tableText(x), hit = false;
+      for (var i = 0; i < FEATURE_FX.length; i++) {
+        if (!FEATURE_FX[i][0].test(x.base)) continue;
+        hit = true;
+        var r = FEATURE_FX[i][1](x.fxL || 1, x, M, x.src || '', t);
+        if (r) {
+          ['dodge', 'cmd', 'saveAll', 'speed', 'know', 'wAtk', 'wDmg', 'acpRed', 'maxDex'].forEach(function (k) { if (r[k]) F[k] += r[k]; });
+          var short = (x.label || x.name).replace(/\s*\(.*$/, '');
+          if (r.ac) { F.ac += r.ac; if (r.acFF) F.acFF += r.ac; F.parts.push(sgn(r.ac) + ' ' + short); }
+          if (r.dodge) F.parts.push(sgn(r.dodge) + ' ' + short);
+          if (r.skill) Object.keys(r.skill).forEach(function (k) { F.skill[k] = (F.skill[k] || 0) + r.skill[k]; });
+          if (r.finesse) F.finesse = true; if (r.gunDex) F.gunDex = true; if (r.unarmed) F.unarmed = r.unarmed;
+          if (r.dr) F.dr = Math.max(F.dr, r.dr);
+          if (r.def && F.def.indexOf(r.def) < 0) F.def.push(r.def);
+          if (r.senses && F.senses.indexOf(r.senses) < 0) F.senses.push(r.senses);
+          x.note = r.note || ''; x.label = r.label || '';
+        }
+        break;
+      }
+      // any other feature that grows in its class table shows its number at this level ("Channel damage 3d6")
+      if (!hit && x.prog && t && /\d/.test(t)) { x.label = capFirst(t); if (diceOf(t)) x.note = 'a roll button'; }
+      if (x.featNote) x.note = (x.note ? x.note + '; ' : '') + x.featNote;
+    });
+    return F;
+  }
+  function addSpeed(text, n) {
+    text = text || '30 ft.';
+    return n ? (/\d+\s*ft/.test(text) ? text.replace(/(\d+)(\s*ft)/, function (_, a, b) { return (+a + n) + b; }) : text + ' (+' + n + ' ft.)') : text;
+  }
+
   function weaponData(n) {
     n = String(n || '').toLowerCase().trim();
     for (var i = 0; i < DATA.weapons.length; i++) if (DATA.weapons[i].n.toLowerCase() === n) return DATA.weapons[i];
@@ -280,6 +376,7 @@
     var noCon = S.type === 'undead' || S.type === 'construct';
     var M = {}; ABIL.forEach(function (a) { M[a] = mod(S.abil[a]); });
     if (noCon) M.Con = 0;
+    var FX = D.fx = featureFx(D, M);
     var feats = S.feats.filter(function (f) { return f && f.trim(); });
     var lower = feats.map(function (f) { return f.toLowerCase().trim(); });
     var has = function (n) { n = n.toLowerCase(); return lower.filter(function (f) { return f === n || f.indexOf(n + ' (') === 0; }).length; };
@@ -306,13 +403,13 @@
     // AC
     var arm = armorData(S.armor), sh = armorData(S.shield);
     var armB = arm ? arm.b + (S.armorEnh || 0) : 0, shB = sh ? sh.b + (S.shieldEnh || 0) : 0;
-    var maxDex = [arm && arm.md, sh && sh.md].filter(function (x) { return x != null; });
+    var maxDex = [arm && arm.md != null ? arm.md + FX.maxDex : null, sh && sh.md].filter(function (x) { return x != null; });
     var dexAC = maxDex.length ? Math.min(M.Dex, Math.min.apply(null, maxDex)) : M.Dex;
     var natural = (S.natural || 0) + has('Improved Natural Armor');
     if (has('Improved Natural Armor')) autoNote('Improved Natural Armor', '+' + has('Improved Natural Armor') + ' natural armor');
     var dodgeFeat = has('Dodge') || has('Dodgility') ? 1 : 0;
     if (has('Dodge')) autoNote('Dodge', '+1 dodge AC'); if (has('Dodgility')) autoNote('Dodgility', '+1 dodge AC');
-    var dodge = (S.dodge || 0) + dodgeFeat;
+    var dodge = (S.dodge || 0) + dodgeFeat + FX.dodge;
     D.sw = null;
     if (SWM) {
       var sw = S.sw || (S.sw = { karma: 0, force: false, abil: 'Wis' });
@@ -328,15 +425,16 @@
       D.sw = { force: forceS, fsDodge: fsDodge, karma: K, cls: swc ? CLASS_BY[swc.s] : null, lvl: swl,
         stamina: swc ? Math.max(0, (CLASS_BY[swc.s].stamina + stm) * swl) : 0, known: swc ? CLASS_BY[swc.s].powers[Math.min(swl, 20) - 1] : [] };
     }
-    D.ac = 10 + armB + shB + dexAC + sz.ac + natural + (S.deflection || 0) + dodge;
-    D.touch = 10 + dexAC + sz.ac + (S.deflection || 0) + dodge;
-    D.ff = D.ac - Math.max(0, dexAC) - dodge;
+    D.ac = 10 + armB + shB + dexAC + sz.ac + natural + (S.deflection || 0) + dodge + FX.ac;
+    D.touch = 10 + dexAC + sz.ac + (S.deflection || 0) + dodge + FX.ac;
+    D.ff = D.ac - Math.max(0, dexAC) - dodge - (FX.ac - FX.acFF);
     var parts = [];
     if (armB) parts.push(sgn(armB) + ' armor'); if (shB) parts.push(sgn(shB) + ' shield'); if (dexAC) parts.push(sgn(dexAC) + ' Dex');
-    if (dodge) parts.push(sgn(dodge) + ' dodge'); if (S.deflection) parts.push(sgn(S.deflection) + ' deflection');
+    if (dodge - FX.dodge) parts.push(sgn(dodge - FX.dodge) + ' dodge');
+    parts = parts.concat(FX.parts); if (S.deflection) parts.push(sgn(S.deflection) + ' deflection');
     if (natural) parts.push(sgn(natural) + ' natural'); if (sz.ac) parts.push(sgn(sz.ac) + ' size');
     D.acText = D.ac + ', touch ' + D.touch + ', flat-footed ' + D.ff + (parts.length ? ' (' + parts.join(', ') + ')' : '');
-    D.acp = (arm ? arm.acp : 0) + (sh ? sh.acp : 0);
+    D.acp = (arm ? Math.min(0, arm.acp + FX.acpRed) : 0) + (sh ? sh.acp : 0);
     // saves
     var good = function (k) {
       var i = { Fort: 1, Ref: 2, Will: 3 }[k];
@@ -348,17 +446,17 @@
       var ab = k === 'Fort' ? (S.type === 'undead' ? M.Cha : M.Con) : k === 'Ref' ? M.Dex : M.Wis;
       var f = has(saveFeat[k]) ? 2 : 0;
       if (f) autoNote(saveFeat[k], '+2 ' + k);
-      D.saves[k] = good(k) + ab + f + (S.saveMisc[k] || 0) + (k === 'Will' && D.sw ? D.sw.karma.will : 0);
+      D.saves[k] = good(k) + ab + f + FX.saveAll + (S.saveMisc[k] || 0) + (k === 'Will' && D.sw ? D.sw.karma.will : 0);
     });
     // initiative, CMB, CMD
     var ii = has('Improved Initiative') ? 4 : 0;
     if (ii) autoNote('Improved Initiative', '+4 initiative');
     D.init = M.Dex + ii + (S.initMisc || 0);
-    var finesse = has('Weapon Finesse') > 0; // the wiki's Weapon Finesse includes Agile Maneuvers
+    var finesse = has('Weapon Finesse') > 0 || FX.finesse; // the wiki's Weapon Finesse includes Agile Maneuvers
     if (finesse) autoNote('Weapon Finesse', 'Dex to attack with light and finesse weapons and natural attacks, and to CMB');
     var cmbAb = finesse ? Math.max(M.Str, M.Dex) : M.Str;
     D.cmb = D.bab + cmbAb + sz.cmb;
-    D.cmd = 10 + D.bab + M.Str + M.Dex + sz.cmb + dodge + (S.deflection || 0);
+    D.cmd = 10 + D.bab + M.Str + M.Dex + sz.cmb + dodge + (S.deflection || 0) + FX.cmd;
     D.meleeTouch = D.bab + (finesse ? Math.max(M.Str, M.Dex) : M.Str) + sz.ac;
     D.rangedTouch = D.bab + M.Dex + sz.ac;
     // skills
@@ -374,6 +472,7 @@
         (D.sw && sk[1] === 'Cha' ? (n === 'Intimidate' ? D.sw.karma.intim : D.sw.karma.cha) : 0);
       if (n === 'Stealth') t += sz.stealth; if (n === 'Fly') t += sz.fly;
       if (ACP_SKILLS[n]) t += D.acp;
+      t += (FX.skill[n] || 0) + (/^Knowledge/.test(n) ? FX.know : 0);
       if (focus.indexOf(n.toLowerCase()) >= 0) { t += r >= 10 ? 6 : 3; autoNote('Skill Focus (' + n.toLowerCase() + ')', sgn(r >= 10 ? 6 : 3) + ' ' + n); }
       if (has('Alertness') && (n === 'Perception' || n === 'Sense Motive')) { t += r >= 10 ? 4 : 2; autoNote('Alertness', '+2 Perception and Sense Motive (+4 at 10 ranks)'); }
       D.skills[n] = { total: t, shown: r > 0 || !!st.misc || !!st.show };
@@ -393,7 +492,7 @@
       var enh = w.enh || 0, mw = !enh && w.mwk && !nat ? 1 : 0;
       var focusN = hits(wf, n) + hits(gwf, n);
       if (focusN) autoNote('Weapon Focus (' + n + ')', '+1 attack with ' + n);
-      a.atk = D.bab + (useDex ? M.Dex : M.Str) + sz.ac + enh + mw + focusN + (w.misc || 0);
+      a.atk = D.bab + (useDex ? M.Dex : M.Str) + sz.ac + enh + mw + focusN + (w.misc || 0) + (nat ? 0 : FX.wAtk);
       if (w.mode === 'nat2') a.atk -= multi ? 2 : 5;
       if (multi && w.mode === 'nat2') autoNote('Multiattack', 'secondary natural attacks at –2');
       var strD = M.Str;
@@ -402,8 +501,9 @@
       if (w.mode === 'ranged' && !w.strDmg) strD = Math.min(0, M.Str); // bows: a Str penalty, no bonus (composite: tick Str to damage)
       var spec = (hits(ws, n) + hits(gws, n)) * 2;
       if (spec) autoNote('Weapon Specialization (' + n + ')', '+2 damage with ' + n);
-      a.dmgMod = strD + enh + spec + (w.dmgMisc || 0);
-      a.dice = sizeDice(w.d || '1d4', S.size);
+      var wd = weaponData(w.n), gun = ranged && FX.gunDex && (wd ? wd.p === 'blaster' || /firearm/i.test(wd.c + ' ' + (wd.ty || '')) : /blaster|pistol|rifle|musket/.test(n));
+      a.dmgMod = strD + enh + spec + (w.dmgMisc || 0) + (nat ? 0 : FX.wDmg) + (gun ? M.Dex : 0);
+      a.dice = sizeDice(FX.unarmed && /^unarmed strike$/.test(n) ? FX.unarmed : w.d || '1d4', S.size);
       a.threat = w.t || 20; a.mult = w.x || 2;
       if (hits(ic, n)) { a.threat = 21 - (21 - a.threat) * 2; autoNote('Improved Critical (' + n + ')', 'threat ' + a.threat + '–20'); }
       a.name = (enh ? '+' + enh + ' ' : mw ? 'mwk ' : '') + n;
@@ -470,13 +570,14 @@
     }).join(' / ');
     if (classText) m.line = capFirst(classText) + '; ' + m.line;
     m.init = D.init;
-    m.senses = [S.senses].filter(Boolean).join('; ');
+    m.senses = [S.senses].concat(D.fx.senses).filter(Boolean).join(', ');
     if (S.aura) m.aura = S.aura;
     m.ac = D.acText.replace(/ \(.*$/, '');
     m.hp = D.hpText + (D.sw && D.sw.stamina ? '; stamina ' + D.sw.stamina : '');
     m.saves = { Fort: D.saves.Fort, Ref: D.saves.Ref, Will: D.saves.Will };
-    if (S.defense) m.defense = S.defense;
-    m.speed = S.speed || '30 ft.';
+    var defs = [S.defense, D.fx.def.length ? 'Defensive Abilities ' + D.fx.def.join(', ') : '', D.fx.dr ? 'DR ' + D.fx.dr + '/—' : ''].filter(Boolean).join('; ');
+    if (defs) m.defense = defs;
+    m.speed = addSpeed(S.speed, D.fx.speed);
     m.melee = D.groups.melee; m.ranged = D.groups.ranged;
     m.rangedTouch = D.rangedTouch; m.meleeTouch = D.meleeTouch;
     if (S.specialAttacks) m.specialAttacks = S.specialAttacks;
@@ -499,9 +600,9 @@
     if (!m.spells.length) delete m.spells;
     m.special = S.special.filter(function (s) { return s.name; }).map(function (s) { return { name: s.name, type: s.type || '', text: s.text || '' }; });
     D.features.filter(function (x) { return x.on; }).forEach(function (x) {
-      var b = { name: x.name, type: x.type, text: x.text || x.name };
-      var dice = x.name.match(/\b\d+d\d+\b/);
-      if (dice) b.rolls = [[x.name.replace(/\s*\+?\d+d\d+.*$/, '') || 'roll', dice[0]]];
+      var nm = x.label || x.name, b = { name: nm, type: x.type, text: x.text || nm };
+      var dice = nm.match(/\b\d+d\d+(?:[+-]\d+)?/);
+      if (dice) b.rolls = [[nm.replace(/\s*\+?\d+d\d+.*$/, '') || 'roll', dice[0]]];
       m.special.push(b);
     });
     m.abilities = ABIL.map(function (a) { return a + ' ' + ((a === 'Con' && (S.type === 'undead' || S.type === 'construct')) ? '—' : S.abil[a]); }).join(', ');
@@ -572,6 +673,302 @@
       m.special.forEach(function (s) { L.push(md ? '**' + s.name + (s.type ? ' (' + s.type + ')' : '') + '** ' + s.text + '\n' : '<p>' + B(s.name + (s.type ? ' (' + s.type + ')' : '')) + ' ' + esc(s.text) + '</p>'); });
     }
     return L.join(md ? '\n' : '');
+  }
+
+  // ---------- a random enemy for a CR ----------
+  // aims at the Bestiary's Monster Statistics by CR: [hp, AC, high attack, average full-attack damage, primary DC, good save, poor save]
+  var BY_CR = { 0.125: [4, 10, 0, 2, 9, 2, 0], 0.167: [4, 10, 0, 3, 10, 2, 0], 0.25: [5, 10, 0, 3, 10, 2, 0], 0.333: [6, 11, 1, 4, 10, 3, 0], 0.5: [10, 11, 1, 5, 11, 3, 0],
+    1: [15, 12, 2, 7, 12, 4, 1], 2: [20, 14, 4, 10, 13, 5, 1], 3: [30, 15, 6, 13, 14, 6, 2], 4: [40, 17, 8, 16, 15, 7, 3], 5: [55, 18, 10, 20, 15, 8, 4],
+    6: [70, 19, 12, 25, 16, 9, 5], 7: [85, 20, 13, 30, 17, 10, 6], 8: [100, 21, 15, 35, 18, 11, 7], 9: [115, 23, 17, 40, 18, 12, 8], 10: [130, 24, 18, 45, 19, 13, 9],
+    11: [145, 25, 19, 50, 20, 14, 10], 12: [160, 27, 21, 55, 21, 15, 11], 13: [180, 28, 22, 60, 21, 16, 12], 14: [200, 29, 23, 65, 22, 17, 12], 15: [220, 30, 24, 70, 23, 18, 13],
+    16: [240, 31, 26, 80, 24, 19, 14], 17: [270, 32, 27, 90, 24, 20, 15], 18: [300, 33, 28, 100, 25, 20, 16], 19: [330, 34, 29, 110, 26, 21, 16], 20: [370, 36, 30, 120, 27, 22, 17] };
+  function crValue(t) { t = String(t).trim(); var m = t.match(/^1\s*\/\s*(\d+)$/); return m ? 1 / +m[1] : parseFloat(t.replace(',', '.')); }
+  function crTargets(cr) {
+    var r;
+    if (cr < 1) r = BY_CR[[0.125, 0.167, 0.25, 0.333, 0.5].reduce(function (b, k) { return Math.abs(k - cr) < Math.abs(b - cr) ? k : b; })];
+    else if (cr <= 20) r = BY_CR[Math.round(cr)];
+    else { var n = Math.round(cr) - 20, b = BY_CR[20]; r = [b[0] + 40 * n, b[1] + n, b[2] + n, b[3] + 10 * n, b[4] + n, b[5] + n, b[6] + n]; }
+    return { hp: r[0], ac: r[1], atk: r[2], dmg: r[3], dc: r[4], good: r[5], poor: r[6] };
+  }
+  function rnd(n) { return Math.floor(Math.random() * n); }
+  function pick(a) { return a[rnd(a.length)]; }
+  function chance(p) { return Math.random() < p; }
+  function shuffle(a) { a = a.slice(); for (var i = a.length - 1; i > 0; i--) { var j = rnd(i + 1), t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
+  function diceAvg(d) { var m = String(d).match(/(\d+)d(\d+)/); return m ? +m[1] * (+m[2] + 1) / 2 : 2; }
+  // a weapon or natural attack row, filled as typing its name does
+  function makeAttack(name, mode) {
+    var w = { n: name.toLowerCase(), mode: 'melee', d: '1d4', t: 20, x: 2, opt: 1 }, d = weaponData(name), nat = NATURAL[name.toLowerCase()];
+    if (d) { w.n = d.n.toLowerCase(); w.d = d.d; w.t = d.t; w.x = d.x; w.cat = d.c; w.mode = d.c === 'ranged' ? 'ranged' : d.c === 'two-handed' ? 'two' : 'melee'; w.strDmg = d.p !== 'blaster' && (/sling|throw|composite/i.test(d.n) || (d.c === 'ranged' && !/bow|crossbow|gun|pistol|musket|rifle|firearm/i.test(d.n))); }
+    else if (nat) { w.d = nat[0]; w.cat = 'natural'; w.mode = nat[1] ? 'nat2' : 'nat1'; }
+    if (mode) w.mode = mode;
+    return w;
+  }
+  function firstWeapon(names, cats) {
+    var ok = names.filter(function (n) { return weaponData(n); });
+    if (ok.length) return pick(ok);
+    var any = DATA.weapons.filter(function (w) { return cats.indexOf(w.c) >= 0 && /simple|martial/.test(w.p || ''); });
+    return any.length ? pick(any).n : 'club';
+  }
+  function bestArmor(kind) {
+    var list = DATA.armors.filter(function (a) { return a.k === kind; });
+    if (!list.length) return '';
+    var top = Math.max.apply(null, list.map(function (a) { return a.b; }));
+    return pick(list.filter(function (a) { return a.b >= top - 1; })).n;
+  }
+  function featOk(n) { return !!featSlug(n); }
+  // random spells for a caster block: a few of each level up to top, the ones with rolls (damage, healing) first
+  function randomSpells(listKey, top, perLevel, uses) {
+    var out = [];
+    for (var l = 0; l <= top; l++) {
+      var pool = Object.keys(SPELLS).map(function (u) { return SPELLS[u]; }).filter(function (s) { return s.l && s.l[listKey] === l; });
+      var rolls = shuffle(pool.filter(function (s) { return DATA.rolls[s.u]; })), rest = shuffle(pool.filter(function (s) { return !DATA.rolls[s.u]; }));
+      var n = l === 0 ? 2 : perLevel, chosen = rolls.slice(0, Math.ceil(n / 2)).concat(rest).slice(0, n);
+      if (chosen.length < n) chosen = chosen.concat(rolls.slice(Math.ceil(n / 2), Math.ceil(n / 2) + n - chosen.length));
+      chosen.forEach(function (s) { out.push({ n: s.n, u: s.u, lvl: l, uses: uses(l) }); });
+    }
+    return out;
+  }
+  var NAME_ADJ = ['Ravenous', 'Ashen', 'Grim', 'Hollow', 'Savage', 'Gloom', 'Thorned', 'Iron', 'Blood', 'Storm', 'Pale', 'Rotting', 'Shadow', 'Ember', 'Frost', 'Venom', 'Rust', 'Bone', 'Dusk', 'Howling'];
+  var NAME_NOUN = { 'magical beast': ['Prowler', 'Stalker', 'Mauler', 'Ripper'], animal: ['Boar', 'Wolf', 'Bear', 'Hound', 'Elk'], dragon: ['Drake', 'Wyrm'],
+    aberration: ['Horror', 'Lurker', 'Gibberer', 'Maw'], outsider: ['Fiend', 'Reaver', 'Herald', 'Tormentor'], undead: ['Husk', 'Shade', 'Revenant', 'Corpse'],
+    construct: ['Sentinel', 'Automaton', 'Guardian'], vermin: ['Crawler', 'Skitterer', 'Swarmling'], 'monstrous humanoid': ['Brute', 'Hunter', 'Raider'], fey: ['Trickster', 'Wisp', 'Thornling'],
+    warrior: ['Sellsword', 'Marauder', 'Champion', 'Warlord', 'Enforcer'], skirmisher: ['Cutthroat', 'Scout', 'Duelist', 'Assassin'], caster: ['Cultist', 'Hexer', 'Magus', 'Seer', 'Adept'],
+    'sw-warrior': ['Trooper', 'Mercenary', 'Commando', 'Enforcer'], 'sw-specialist': ['Smuggler', 'Slicer', 'Bounty Hunter', 'Saboteur'], 'sw-consular': ['Acolyte', 'Inquisitor', 'Adept', 'Dark Disciple'] };
+  var SKILL_SETS = { brute: ['Perception', 'Stealth', 'Climb', 'Acrobatics', 'Survival', 'Swim', 'Intimidate'], warrior: ['Perception', 'Intimidate', 'Climb', 'Ride', 'Survival', 'Acrobatics', 'Swim'],
+    skirmisher: ['Perception', 'Stealth', 'Acrobatics', 'Bluff', 'Escape Artist', 'Sleight of Hand', 'Disable Device', 'Sense Motive'],
+    caster: ['Perception', 'Spellcraft', 'Knowledge (arcana)', 'Knowledge (planes)', 'Bluff', 'Sense Motive', 'Diplomacy', 'Use Magic Device'],
+    'sw-warrior': ['Perception', 'Intimidate', 'Acrobatics', 'Climb', 'Survival', 'Knowledge (engineering)', 'Ride', 'Swim'],
+    'sw-specialist': ['Perception', 'Disable Device', 'Stealth', 'Bluff', 'Knowledge (planes)', 'Sleight of Hand', 'Acrobatics', 'Knowledge (engineering)', 'Sense Motive'],
+    'sw-consular': ['Perception', 'Sense Motive', 'Knowledge (arcana)', 'Diplomacy', 'Intimidate', 'Acrobatics', 'Bluff', 'Heal'] };
+  var FEAT_SETS = { brute: ['Improved Initiative', 'Toughness', 'Great Fortitude', 'Iron Will', 'Lightning Reflexes', 'Alertness', 'Combat Reflexes', 'Vital Strike', 'Cleave', 'Blind-Fight'],
+    warrior: ['Improved Initiative', 'Toughness', 'Iron Will', 'Dodgility', 'Combat Reflexes', 'Cleave', 'Vital Strike', 'Great Fortitude', 'Lightning Reflexes', 'Blind-Fight'],
+    skirmisher: ['Weapon Finesse', 'Improved Initiative', 'Dodgility', 'Mobility', 'Point-Blank Shot', 'Precise Shot', 'Rapid Shot', 'Lightning Reflexes', 'Iron Will', 'Combat Reflexes'],
+    caster: ['Improved Initiative', 'Combat Casting', 'Toughness', 'Iron Will', 'Dodgility', 'Lightning Reflexes', 'Great Fortitude', 'Alertness'] };
+
+  function randomEnemy(crText) {
+    var cr = crValue(crText), T = crTargets(cr), big = Math.max(1, Math.round(cr));
+    var keep = { maxHp: S.maxHp };
+    S = blank(); S.maxHp = keep.maxHp !== false; S.cr = crText; S.align = pick(['LE', 'NE', 'CE', 'CE', 'NE', 'N', 'CN', 'LN']);
+    var classed = false, concept, typeKey;
+    var arr = shuffle([0, 1, 2]);
+    var setAbil = function (order, base) { order.forEach(function (a, i) { S.abil[a] = base[i]; }); };
+    var grow = function (a, n) { S.abil[a] += n; };
+    if (SWM) {
+      var key = pick(SWD.classes).s, slugK = 'sw-' + key, d = CLASS_BY[slugK];
+      concept = slugK; classed = true;
+      S.type = 'humanoid'; S.hd = 0; S.subtypes = pick(['human', 'human', 'twi\'lek', 'zabrak', 'rodian', 'trandoshan', 'chiss']);
+      var lvl = Math.max(1, Math.min(20, cr < 1 ? 1 : Math.round(cr) + 1));
+      var c = { s: slugK, lvl: lvl, picks: [] };
+      S.classes = [c];
+      S.sw = { karma: chance(0.65) ? -10 * (1 + rnd(Math.min(10, 1 + Math.floor(lvl / 2)))) : chance(0.3) ? 10 * (1 + rnd(3)) : 0, force: key === 'consular' || (key === 'warrior' && chance(0.35)), abil: key === 'consular' ? pick(['Wis', 'Wis', 'Cha']) : 'Wis' };
+      if (key === 'warrior') setAbil(['Str', 'Con', 'Dex', 'Wis', 'Int', 'Cha'], [16, 14, 14, 12, 10, 8]);
+      else if (key === 'specialist') setAbil(['Dex', 'Int', 'Con', 'Wis', 'Cha', 'Str'], [16, 14, 13, 12, 10, 10]);
+      else setAbil([S.sw.abil, 'Dex', 'Con', S.sw.abil === 'Wis' ? 'Cha' : 'Wis', 'Str', 'Int'], [16, 14, 14, 12, 10, 10]);
+      var main = key === 'warrior' ? 'Str' : key === 'specialist' ? 'Dex' : S.sw.abil;
+      grow(main, Math.floor(lvl / 4) + 2 * Math.floor(lvl / 7)); grow('Con', Math.floor(lvl / 8));
+      // class feature choices, within the points of each choice and the Iconic and OP limits
+      var by = swEntries(d.key), entries = Object.keys(by).map(function (k) { return by[k]; }), used = {}, iconic = false, opLow = false, opHigh = false;
+      var take = function (slot, price) {
+        var pool = shuffle(entries.filter(function (e) { return e.price === price && e.lvl <= slot && !used[e.n]; }));
+        if (!pool.length) return false;
+        var e = pool[0]; used[e.n] = 1;
+        c.picks.push({ slot: slot, n: e.n, link: e.link, price: e.price, lvl: e.lvl, text: e.text || '' });
+        return true;
+      };
+      swSlots(d, lvl).forEach(function (sl) {
+        var r = Math.random(), done = false;
+        if (!sl.small) {
+          var opFree = sl.lvl <= 10 ? !opLow : !opHigh;
+          if (!iconic && r < 0.2 && take(sl.lvl, 'iconic')) { iconic = true; done = true; }
+          else if (opFree && r < 0.45 && take(sl.lvl, 'op')) { if (sl.lvl <= 10) opLow = true; else opHigh = true; done = true; }
+          else if (r < 0.8) done = take(sl.lvl, 'common') && (take(sl.lvl, 'common') || take(sl.lvl, 'weak') || true);
+          if (!done) { take(sl.lvl, 'common') || (take(sl.lvl, 'weak') && take(sl.lvl, 'weak')); take(sl.lvl, 'weak'); take(sl.lvl, 'weak'); }
+        } else if (r < 0.6) { take(sl.lvl, 'common') || take(sl.lvl, 'weak'); }
+        else { take(sl.lvl, 'weak'); take(sl.lvl, 'weak'); }
+      });
+      // weapons: a lightsaber for the Force users, blasters for the rest
+      var sabers = SWD.weapons.filter(function (w) { return !w.blaster; }), blasters = SWD.weapons.filter(function (w) { return w.blaster; });
+      var saber = S.sw.force ? makeAttack(pick(sabers).n) : null;
+      if (saber) S.weapons.push(saber);
+      if (key !== 'consular' || chance(0.3)) { var bl = makeAttack(pick(key === 'specialist' ? blasters.filter(function (w) { return /pistol|revolver|rifle|shotgun|smg|sniper/i.test(w.n); }) : blasters).n); bl.opt = saber ? 2 : 1; S.weapons.push(bl); }
+      if (!S.weapons.length) S.weapons.push(makeAttack('unarmed strike'));
+      if (key !== 'consular') { S.armor = bestArmor(key === 'warrior' ? (lvl >= 6 ? 'heavy' : 'medium') : 'light'); }
+      S.languages = 'Basic';
+      typeKey = slugK;
+    } else {
+      concept = pick(['brute', 'brute', 'warrior', 'skirmisher', 'caster']);
+      var types = concept === 'brute' ? ['magical beast', 'animal', 'aberration', 'dragon', 'outsider', 'undead', 'construct', 'vermin', 'monstrous humanoid']
+        : concept === 'caster' ? ['outsider', 'fey', 'aberration', 'humanoid', 'humanoid', 'undead'] : ['humanoid', 'humanoid', 'monstrous humanoid', 'fey', 'outsider'];
+      if (concept === 'skirmisher') types = types.filter(function (t) { return t !== 'outsider'; });
+      S.type = pick(types);
+      var td = TYPES[S.type]; S.die = td.die; S.bab = td.bab; S.ranks = td.ranks;
+      S.good = { Fort: td.good.indexOf('Fort') >= 0, Ref: td.good.indexOf('Ref') >= 0, Will: td.good.indexOf('Will') >= 0 };
+      if (S.type === 'humanoid') { S.good.Fort = true; S.subtypes = pick(['human', 'orc', 'goblinoid', 'elf', 'dwarf', 'gnoll']); }
+      // size by CR for the brutes
+      if (concept === 'brute') S.size = cr < 1 ? pick(['Small', 'Medium']) : cr < 4 ? pick(['Medium', 'Large']) : cr < 9 ? 'Large' : cr < 15 ? pick(['Large', 'Huge']) : pick(['Huge', 'Gargantuan']);
+      else if (chance(0.15) && S.type !== 'outsider') S.size = 'Small';
+      var SZ = { Tiny: -4, Small: -2, Medium: 0, Large: 4, Huge: 8, Gargantuan: 12, Colossal: 16 }[S.size] || 0;
+      if (concept === 'brute') setAbil(['Str', 'Con', 'Dex', 'Wis', 'Cha', 'Int'], [18, 16, 12, 12, 10, 6]);
+      else if (concept === 'warrior') setAbil(['Str', 'Con', 'Dex', 'Wis', 'Int', 'Cha'], [17, 14, 13, 12, 10, 8]);
+      else if (concept === 'skirmisher') setAbil(['Dex', 'Con', 'Wis', 'Str', 'Int', 'Cha'], [18, 14, 12, 12, 10, 10]);
+      else setAbil(['Cha', 'Dex', 'Con', 'Wis', 'Int', 'Str'], [18, 14, 14, 12, 12, 8]);
+      S.abil.Str += SZ; S.abil.Con += SZ / 2; S.abil.Dex -= Math.max(0, SZ / 2);
+      var mainA = concept === 'brute' || concept === 'warrior' ? 'Str' : concept === 'skirmisher' ? 'Dex' : 'Cha';
+      grow(mainA, 2 * Math.floor(big / 4)); grow('Con', 2 * Math.floor(big / 6));
+      if (S.type === 'animal' || S.type === 'vermin') S.abil.Int = S.type === 'animal' ? 2 : 1;
+      if (S.type === 'animal') { S.abil.Cha = Math.min(S.abil.Cha, 8); S.align = 'N'; }
+      // a humanoid gets class levels; a monster, racial Hit Dice
+      var CLS = { warrior: ['fighter', 'barbarian', 'ranger', 'slayer', 'cavalier', 'bloodrager', 'antipaladin', 'warpriest'], skirmisher: ['rogue', 'ranger', 'slayer', 'investigator', 'swashbuckler', 'ninja'],
+        caster: ['wizard', 'sorcerer', 'cleric', 'druid', 'witch', 'oracle'] }[concept];
+      var clsSlug = S.type === 'humanoid' && CLS ? pick(CLS.filter(function (s) { return CLASS_BY[s]; }).concat([null])) : null;
+      if (S.type === 'humanoid' && !clsSlug && CLS) clsSlug = (CLS.filter(function (s) { return CLASS_BY[s]; })[0]) || null;
+      if (clsSlug) {
+        classed = true; S.hd = 0;
+        S.classes = [{ s: clsSlug, lvl: Math.max(1, Math.min(20, cr < 1 ? 1 : Math.round(cr) + 1)), arch: [], off: [] }];
+        loadArch(clsSlug);
+      } else {
+        var conM = S.type === 'undead' ? mod(S.abil.Cha) : S.type === 'construct' ? 0 : mod(S.abil.Con);
+        var per = (S.maxHp ? S.die : (S.die + 1) / 2) + conM + (S.type === 'construct' ? 0 : 0);
+        var extra = S.type === 'construct' ? (SIZES[S.size] || SIZES.Medium).construct : 0;
+        S.hd = Math.max(1, Math.min(40, Math.round((T.hp - extra) / Math.max(2, per))));
+      }
+      // attacks
+      if (concept === 'brute') {
+        var sets = { dragon: [['bite'], ['claw', 2], ['wing', 2]], 'magical beast': pick([[['bite'], ['claw', 2]], [['gore'], ['hoof', 2]], [['bite'], ['tail slap']]]),
+          animal: pick([[['bite']], [['bite'], ['claw', 2]], [['gore'], ['hoof', 2]]]), aberration: [['bite'], ['tentacle', 2 + rnd(3)]], outsider: [['claw', 2], ['bite']],
+          undead: pick([[['claw', 2], ['bite']], [['slam', 2]]]), construct: [['slam', 2]], vermin: [['bite'], ['sting']], 'monstrous humanoid': [['claw', 2], ['bite']] }[S.type];
+        if (S.type === 'monstrous humanoid' && chance(0.5)) { S.weapons.push(makeAttack(firstWeapon(['Greataxe', 'Greatclub', 'Falchion', 'Glaive', 'Greatsword'], ['two-handed']))); S.armor = bestArmor('light'); }
+        else sets.forEach(function (x) { var w = makeAttack(x[0]); w.count = x[1] || 1; S.weapons.push(w); });
+      } else if (concept === 'warrior') {
+        if (chance(0.5)) S.weapons.push(makeAttack(firstWeapon(['Greatsword', 'Greataxe', 'Falchion', 'Glaive', 'Halberd', 'Earth breaker'], ['two-handed'])));
+        else { S.weapons.push(makeAttack(firstWeapon(['Longsword', 'Battleaxe', 'Warhammer', 'Heavy mace', 'Morningstar', 'Flail'], ['one-handed']))); S.shield = pick(['Shield, heavy steel', 'Shield, heavy wooden']); if (!armorData(S.shield)) S.shield = ''; }
+        var rw = makeAttack(firstWeapon(['Composite longbow', 'Longbow', 'Heavy crossbow', 'Javelin'], ['ranged'])); S.weapons.push(rw);
+        S.armor = bestArmor(big >= 4 ? 'heavy' : 'medium');
+      } else if (concept === 'skirmisher') {
+        if (chance(0.5)) { S.weapons.push(makeAttack(firstWeapon(['Rapier', 'Short sword', 'Kukri', 'Scimitar'], ['light', 'one-handed']))); S.weapons.push(makeAttack(firstWeapon(['Shortbow', 'Light crossbow', 'Composite shortbow'], ['ranged']))); }
+        else { S.weapons.push(makeAttack(firstWeapon(['Shortbow', 'Longbow', 'Composite longbow', 'Light crossbow'], ['ranged']))); S.weapons.push(makeAttack(firstWeapon(['Short sword', 'Dagger', 'Rapier'], ['light']))); }
+        S.weapons.forEach(function (w) { if (/^(melee|off)$/.test(w.mode)) w.finesse = true; });
+        S.armor = bestArmor('light');
+      } else {
+        S.weapons.push(makeAttack(S.type === 'humanoid' ? firstWeapon(['Quarterstaff', 'Dagger', 'Light mace'], ['one-handed', 'light']) : pick(['claw', 'slam', 'bite'])));
+        if (!/^nat/.test(S.weapons[0].mode) && S.weapons[0].mode === 'melee' && /quarterstaff/.test(S.weapons[0].n)) S.weapons[0].mode = 'two';
+      }
+      typeKey = clsSlug ? concept : S.type;
+      if (S.type !== 'humanoid') S.senses = S.type === 'animal' ? 'low-light vision, scent' : S.type === 'fey' ? 'low-light vision' : 'darkvision 60 ft.';
+      else if (S.subtypes !== 'human') S.senses = 'darkvision 60 ft.';
+      S.languages = S.type === 'animal' || S.type === 'vermin' ? '' : S.type === 'outsider' ? pick(['Abyssal', 'Infernal', 'Celestial']) + ', Common' : S.type === 'construct' ? '' : 'Common';
+      if (S.type === 'dragon') { var bdc = Math.max(1, Math.ceil(big / 2)); S.specialAttacks = 'breath weapon (' + (big >= 10 ? 60 : 30) + '-ft. cone, ' + bdc + 'd6 ' + pick(['fire', 'acid', 'cold', 'electricity']) + ', Reflex DC ' + T.dc + ' half, usable every 1d4 rounds)'; S.speed = '40 ft., fly ' + (big >= 10 ? 200 : 150) + ' ft. (poor)'; }
+      if (S.type === 'construct') S.defense = 'Immune construct traits' + (big >= 8 ? '; DR ' + (big >= 14 ? 10 : 5) + '/adamantine' : '');
+      else if (S.type === 'undead') S.defense = 'Immune undead traits' + (big >= 6 ? '; DR ' + (big >= 12 ? 10 : 5) + '/' + pick(['bludgeoning', 'silver', 'good']) : '');
+      else if (S.type === 'outsider' && big >= 5) S.defense = 'DR ' + (big >= 12 ? 10 : 5) + '/' + pick(['good', 'evil', 'cold iron', 'magic']) + '; Resist fire 10' + (big >= 8 ? '; SR ' + (big + 11) : '');
+      else if (S.type === 'aberration' && big >= 7) S.defense = 'SR ' + (big + 11);
+      // spells: spell-like abilities for monsters, spells for a classed caster
+      if (concept === 'caster') {
+        var list = clsSlug ? { wizard: 'wizard', sorcerer: 'sorcerer', cleric: 'cleric', druid: 'druid', witch: 'witch', oracle: 'oracle' }[clsSlug] : pick(['sorcerer', 'cleric', 'druid', 'witch']);
+        var abil = clsSlug === 'wizard' || clsSlug === 'witch' ? 'Int' : clsSlug === 'cleric' || clsSlug === 'druid' ? 'Wis' : 'Cha';
+        if (abil !== 'Cha') { var t2 = S.abil[abil]; S.abil[abil] = S.abil.Cha; S.abil.Cha = t2; }
+        var clv = clsSlug ? S.classes[0].lvl : Math.max(1, Math.round(big * 1.2));
+        var top = Math.max(clsSlug ? 0 : 1, Math.min(9, clsSlug && /sorcerer|oracle/.test(clsSlug) ? Math.floor(clv / 2) : Math.ceil(clv / 2)));
+        var kind = !clsSlug ? 'Spell-Like Abilities' : /sorcerer|oracle/.test(clsSlug) ? 'Spells Known' : 'Spells Prepared';
+        var uses = kind === 'Spell-Like Abilities' ? function (l) { return l <= Math.max(1, top - 3) ? 'At will' : l === top ? '1/day' : '3/day'; } : kind === 'Spells Prepared' ? function () { return 1 + rnd(2); } : function () { return ''; };
+        var sp = randomSpells(list, top, kind === 'Spell-Like Abilities' ? 1 + rnd(2) : 2 + rnd(2), uses);
+        if (kind === 'Spell-Like Abilities') sp = sp.filter(function (x) { return x.lvl > 0; });
+        // the casting ability so the highest spell's DC is about the CR's primary DC
+        S.abil[abil] = Math.max(S.abil[abil], Math.min(40, 10 + 2 * (T.dc - 10 - top)));
+        S.casters.push({ kind: kind, cls: list, cl: clv, abil: abil, spells: sp });
+      }
+    }
+    // skills and feats, then the numbers are nudged toward the CR's
+    D0 = compute();
+    S.name = pick(NAME_ADJ) + ' ' + pick(NAME_NOUN[typeKey] || NAME_NOUN[concept] || ['Foe']);
+    var setKey = SWM ? concept : concept === 'brute' ? 'brute' : concept;
+    var sk = SKILL_SETS[setKey].filter(function (n) { return D0.skills[n]; }), pool = D0.rankPool, cap = D0.totalHD;
+    if (SWM && D0.sw && D0.sw.cls) sk.slice(0, D0.sw.cls.picks).forEach(function (n) { (S.skills[n] = S.skills[n] || {}).cls = true; });
+    sk.forEach(function (n) { var r = Math.min(cap, pool); if (r > 0) { (S.skills[n] = S.skills[n] || {}).r = r; pool -= r; } });
+    var D0;
+    var F = [], addF = function (n) { if (F.length < D0.featSlots && F.indexOf(n) < 0) F.push(n); };
+    var mainW = S.weapons[0];
+    if (SWM) {
+      if (S.weapons.some(function (w) { return /lightsaber/i.test(w.n); })) {
+        var style = pick(['Shii-cho', 'Makashi', 'Soresu', 'Ataru', 'Shien', 'Djem-so', 'Niiman', 'Vapaad']);
+        SWD.forms.filter(function (f) { return f.n.indexOf(style) === 0 && f.lvl <= D0.totalHD; }).forEach(function (f) { addF(f.n); });
+      }
+      if (mainW && featOk('Weapon Focus')) addF('Weapon Focus (' + mainW.n + ')');
+      shuffle(['Improved Initiative', 'Toughness', 'Iron Will', 'Dodgility', 'Lightning Reflexes', 'Great Fortitude', 'Point-Blank Shot', 'Precise Shot', 'Combat Reflexes', 'Alertness']).filter(featOk).forEach(addF);
+    } else {
+      if (concept === 'skirmisher' && featOk('Weapon Finesse')) addF('Weapon Finesse');
+      if (mainW && featOk('Weapon Focus')) addF('Weapon Focus (' + mainW.n + ')');
+      if (mainW && D0.bab >= 8 && featOk('Improved Critical')) addF('Improved Critical (' + mainW.n + ')');
+      shuffle(FEAT_SETS[concept]).filter(featOk).forEach(addF);
+      if (featOk('Skill Focus')) addF('Skill Focus (perception)');
+    }
+    S.feats = F;
+    tuneToCR(T, cr, classed);
+    return S;
+  }
+  // nudges a built enemy toward the CR's AC, attack, damage, saves and hp with gear and racial bonuses
+  function tuneToCR(T, cr, classed) {
+    var big = Math.max(0, Math.round(cr)), D = compute(), gear = [];
+    // AC: magic armor, a ring of protection, then natural armor (or an amulet)
+    var gap = T.ac - D.ac;
+    if (gap > 0 && S.armor) { S.armorEnh = Math.min(gap, 5, Math.floor(big / 3)); gap -= S.armorEnh; }
+    if (gap > 0 && S.shield) { S.shieldEnh = Math.min(gap, 5, Math.floor(big / 4)); gap -= S.shieldEnh; }
+    if (gap > 0 && classed) { S.deflection = Math.min(gap, 5, Math.floor(big / 4)); gap -= S.deflection; }
+    if (gap > 0) { S.natural = classed ? Math.min(gap, 5, Math.floor(big / 4)) : gap; gap -= S.natural; }
+    // attack: magic weapons, then a racial (or a buff's) bonus
+    D = compute();
+    var top = function (D) { var g = D.groups.melee[0] || D.groups.ranged[0]; return g && g[0] ? g[0].bonuses[0] : null; };
+    var a = top(D);
+    if (a != null && a < T.atk) {
+      var enh = Math.min(T.atk - a, 5, Math.floor(big / 3));
+      S.weapons.forEach(function (w) { if (!/^nat/.test(w.mode)) w.enh = enh; });
+      D = compute(); a = top(D);
+      var rest = T.atk - a;
+      if (rest > 0) S.weapons.forEach(function (w) { w.misc = classed ? Math.ceil(rest / 2) : rest; });
+    }
+    // damage: the average of the first full attack
+    D = compute();
+    var g = D.groups.melee[0] || D.groups.ranged[0];
+    if (g) {
+      var hits = 0, avg = 0;
+      g.forEach(function (x) { var n = x.count * x.bonuses.length; hits += n; avg += n * (diceAvg(x.dice) + x.mod); });
+      var per = (T.dmg * (S.casters.length ? 0.6 : 1) - avg) / Math.max(1, hits);
+      if (per >= 1) S.weapons.forEach(function (w) { w.dmgMisc = Math.round(classed ? per / 2 : per); });
+    }
+    // saves: a cloak of resistance, or racial bonuses
+    D = compute();
+    var res = 0;
+    ['Fort', 'Ref', 'Will'].forEach(function (k) {
+      var want = D.saves[k] >= (T.good + T.poor) / 2 ? T.good : T.poor, d = want - D.saves[k];
+      if (d > 0) { var v = classed ? Math.min(d, Math.max(1, Math.ceil(big / 3))) : d; S.saveMisc[k] = v; res = Math.max(res, v); }
+    });
+    // hit points
+    D = compute();
+    var hpGap = T.hp - D.hp;
+    if (hpGap > 0) S.hpMisc = classed ? Math.round(hpGap / 2) : hpGap;
+    if (classed) {
+      var wEnh = S.weapons.filter(function (w) { return w.enh; })[0];
+      if (S.armorEnh) gear.push('+' + S.armorEnh + ' ' + S.armor.toLowerCase());
+      else if (S.armor) gear.push(S.armor.toLowerCase());
+      if (S.shield) gear.push((S.shieldEnh ? '+' + S.shieldEnh + ' ' : '') + S.shield.toLowerCase());
+      S.weapons.filter(function (w) { return !/^nat/.test(w.mode); }).forEach(function (w) { gear.push((w.enh ? '+' + w.enh + ' ' : '') + w.n); });
+      if (S.deflection) gear.push('ring of protection +' + S.deflection);
+      if (S.natural) gear.push('amulet of natural armor +' + S.natural);
+      if (res && !SWM) gear.push('cloak of resistance +' + res);
+      S.gear = gear.join(', ');
+      if (wEnh && SWM) S.gear = S.gear.replace(/\+(\d) (?=\S*(?:lightsaber|rifle|pistol))/gi, 'mod +$1 ');
+    }
+  }
+  function randomButton(cls) {
+    return h('button', { type: 'button', class: 'md-button ' + (cls || 'eb-add'), text: 'Random enemy…', title: 'Make a random enemy of the CR you choose (it replaces the current one)', onclick: function () {
+      var t = prompt('CR of the random enemy (1/8, 1/4, 1/2, 1, 2… 30). It replaces the current enemy.', S.cr || '1');
+      if (t == null) return;
+      t = t.trim().replace(/\s+/g, '');
+      var v = crValue(t);
+      if (!(v > 0) || v > 30) { alert('That is not a CR: try 1/2, 3 or 12.'); return; }
+      if (v >= 1) t = String(Math.round(v)); else if (CRS.indexOf(t) < 0) t = ['1/8', '1/6', '1/4', '1/3', '1/2'].reduce(function (b, k) { return Math.abs(crValue(k) - v) < Math.abs(crValue(b) - v) ? k : b; });
+      randomEnemy(t); store(); redrawAll(); window.scrollTo(0, root.getBoundingClientRect().top + window.scrollY - 80);
+    } });
   }
 
   // ---------- UI ----------
@@ -722,15 +1119,17 @@
             h('div', { class: 'eb-slothead' }, h('b', { text: ord(sl.lvl) + ' level' }), ' · Class Feature ' + sl.n + (sl.small ? ' (1 Common or 2 Weak)' : '') + ' · ',
               h('span', { class: bad ? 'eb-over' : '', text: pts + '/' + cap + ' points' })),
             h('div', { class: 'eb-chips' }, mine.map(function (p) {
-              return h('span', { class: 'eb-chip eb-' + p.price },
-                h('a', { href: new URL(p.link, BASE).href, target: '_blank', text: p.n }), ' ', h('small', { text: PRICE_LABEL[p.price] }),
+              var fx = D.features.filter(function (x) { return x.sw && x.name === p.n && x.lvl === p.slot; })[0];
+              return h('span', { class: 'eb-chip eb-' + p.price, title: fx ? (fx.note ? 'In the numbers: ' + fx.note + '.\n\n' : '') + fx.text : '' },
+                h('a', { href: new URL(p.link, BASE).href, target: '_blank', text: fx && fx.label || p.n }), ' ', h('small', { text: PRICE_LABEL[p.price] }),
+                fx && fx.note ? h('small', { class: 'eb-fx', text: ' · ' + fx.note }) : null,
                 h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { c.picks.splice(c.picks.indexOf(p), 1); changed(); redraw(); } }));
             })),
             pts < cap ? h('div', { class: 'eb-inline' }, priceSel, input) : null, msg);
         })));
         if (limits.length) body.push(h('p', { class: 'eb-over', text: 'Over the limit: ' + limits.join('; ') + '.' }));
         if (c.lvl >= 20) body.push(h('p', { class: 'eb-note', text: 'Capstone at 20th level: agree it with the GM and add it under Special abilities.' }));
-        body.push(h('p', { class: 'eb-note', text: 'Each choice: 1 Iconic, 1 OP, 2 Common or 4 Weak (Iconic and OP are 4 points, Common 2, Weak 1). From 12th level, the choices at 12th, 16th and 18th are 1 Common or 2 Weak. At most 1 Iconic, 1 OP chosen at levels 1–10 and 1 OP chosen at 11–20. A feature can be taken at its own level or later. Filter by price, then type a name.' }));
+        body.push(h('p', { class: 'eb-note', text: 'Each choice: 1 Iconic, 1 OP, 2 Common or 4 Weak (Iconic and OP are 4 points, Common 2, Weak 1). From 12th level, the choices at 12th, 16th and 18th are 1 Common or 2 Weak. At most 1 Iconic, 1 OP chosen at levels 1–10 and 1 OP chosen at 11–20. A feature can be taken at its own level or later. Filter by price, then type a name. Each feature brings its text from its page and grows with your level as in its class table (a prestige class feature, with your level less 3); the ones that change the numbers say how in color and are already in the stat block. Modes you turn on, such as rage, go in by hand.' }));
       }
       var box = h('div', null, body);
       var sig = c ? c.lvl + c.s : '';
@@ -767,11 +1166,12 @@
         });
         var feats = D.features.filter(function (x) { return x.cls === c; });
         var flist = h('div', { class: 'eb-features' }, feats.map(function (x) {
-          return h('label', { class: 'eb-feature' + (x.arch ? ' eb-arch' : ''), title: x.text },
+          return h('label', { class: 'eb-feature' + (x.arch ? ' eb-arch' : ''), title: (x.note ? 'In the numbers: ' + x.note + '.\n\n' : '') + x.text },
             h('input', { type: 'checkbox', checked: x.on, onchange: function (e) {
               c.off = (c.off || []).filter(function (n) { return n !== x.name; }); if (!e.target.checked) c.off.push(x.name); changed();
             } }),
-            h('small', { text: x.lvl + ' ' }), x.name + (x.type ? ' (' + x.type + ')' : '') + ' ',
+            h('small', { text: x.lvl + ' ' }), (x.label || x.name) + (x.type ? ' (' + x.type + ')' : '') + ' ',
+            x.note ? h('small', { class: 'eb-fx', text: x.note + ' ' }) : null,
             h('a', { href: new URL(x.link, BASE).href, target: '_blank', text: '↗', onclick: function (e) { e.stopPropagation(); } }));
         }));
         return h('div', { class: 'eb-classrow' },
@@ -787,7 +1187,7 @@
       var box = h('div', null, rows,
         h('button', { type: 'button', class: 'md-button eb-add', text: '+ Class', onclick: function () { S.classes.push({ s: '', lvl: 1, arch: [], off: [] }); changed(); redrawAll(); } }),
         h('p', { class: 'eb-out' }, 'Total Hit Dice ', calc('totalHD'), ' · BAB ', calc('bab'), ' · Fort ', calc('saves.Fort'), ' Ref ', calc('saves.Ref'), ' Will ', calc('saves.Will')),
-        h('p', { class: 'eb-note', text: 'No class: a plain monster, from its type. With a class, its table gives Hit Dice, BAB, saves, skill ranks, class skills and class features; racial Hit Dice add on top (a bugbear fighter: 3 racial HD + fighter levels). Untick a feature to leave it out of the stat block; hover it for its text.' }));
+        h('p', { class: 'eb-note', text: 'No class: a plain monster, from its type. With a class, its table gives Hit Dice, BAB, saves, skill ranks, class skills and class features; racial Hit Dice add on top (a bugbear fighter: 3 racial HD + fighter levels). Untick a feature to leave it out of the stat block; hover it for its text. Features that change the numbers (armor and weapon training, AC bonus, Divine Grace, fast movement, damage reduction...) say how in color and are already in the stat block; modes you turn on, such as rage, go in by hand.' }));
       // the feature list changes with the level: draw it again then
       var sig = JSON.stringify(D.features.map(function (x) { return x.name; }));
       watch(box, function (D2) { if (JSON.stringify(D2.features.map(function (x) { return x.name; })) !== sig) setTimeout(redrawClasses, 0); });
@@ -1135,6 +1535,7 @@
       DATA.weapons = SWD.weapons.map(function (w) { return { n: w.n, p: w.blaster ? 'blaster' : 'lightsaber', c: w.c, d: w.d, t: w.t, x: w.x, r: w.r, ty: 'Energy', sp: w.sp }; }).concat(DATA.weapons);
       DATA.feats = SWD.forms.map(function (x) { return { n: x.n, u: null }; }).concat(DATA.feats);
       SWD.powers.forEach(function (p) { FP_BY[p.n.toLowerCase()] = p; });
+      Object.keys(SWD.lists).forEach(function (k) { SWD.lists[k].forEach(function (e) { SW_INFO[e[0] + '|' + e[1]] = { text: (SWD.texts || [])[e[5]] || '', feats: e[6] || null, prog: e[7] || null }; }); });
     }
     (S.classes || []).forEach(function (c) { loadArch(c.s); });
     redrawAll();
