@@ -205,6 +205,8 @@
     wrap.appendChild(el('p', 'r20-sub', 'With the name left empty, the buttons read the sheet of whichever token is selected; with no token selected Roll20 warns and rolls the base numbers. Type a name only to tie the buttons to one Roll20 character, so they work without selecting a token.'));
     box.appendChild(wrap);
   }
+  // the Enemy Builder (tools/enemy-builder.md) copies its creature with these
+  window.canefinderRoll20 = { bioHtml: bioHtml, copyHtml: copyHtml };
   function start() { document.querySelectorAll('.r20-export').forEach(build); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start); else start();
 })();

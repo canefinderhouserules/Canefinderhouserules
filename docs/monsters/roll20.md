@@ -2,6 +2,8 @@
 
 Every creature page has a **Roll20** panel above each stat block. It copies the stat block into a Roll20 character, where every attack, save, check, spell and special ability is a button that rolls in chat. It works in free Roll20 games: no API scripts or paid account.
 
+To make your own enemy and copy it the same way, use the [Enemy Builder](../tools/enemy-builder.md).
+
 ## Setting up a creature
 
 1. In the Roll20 **Journal**, click **+ Add → Character** and give it any name. When Roll20 asks how to create it, choose **Edit Sheet Directly**. The game must use the **Pathfinder by Roll20** sheet; leave the sheet blank (abilities at 10, no class).
