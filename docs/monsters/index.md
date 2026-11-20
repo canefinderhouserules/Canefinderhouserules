@@ -16,6 +16,10 @@ Rules for understanding, building, and advancing monsters. Stat blocks are in th
 - [Mythic Monsters](mythic-monsters.md): mythic simple templates and rules for building mythic creatures.
 - [Monster Templates](templates/index.md): simple templates plus undead, planar and other templates from the Bestiary books.
 
+## Monsters by CR
+
+[Monsters by CR](by-cr/index.md): every creature and NPC on the wiki, from all the sources below, on one page per Challenge Rating (CR 1/8 to CR 30), with its type and source book.
+
 ## Monsters by Source
 
 | Source | Page |
