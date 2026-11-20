@@ -289,8 +289,45 @@ const kineticist = { talents: {}, elements: {} };
   }
 }
 
+// ---- the alchemist's discoveries (characters/classes/alchemist.md, under "### Discovery"): "#### Fast bombs" sections
+// and inline ones ("Acid bomb*: When the alchemist..."); * marks a bomb discovery (only one per bomb)
+const alchemist = { discoveries: [] };
+{
+  const page = read('characters/classes/alchemist.md').replace(/\r/g, '');
+  const sec = (page.split(/^### Discovery/m)[1] || '').split(/^### (?!Discovery)/m)[0];
+  const push = (name, body) => {
+    const n = name.replace(/\\?\*$/, '').trim(), text = plain(body);
+    if (!n || alchemist.discoveries.some(d => d.n.toLowerCase() === n.toLowerCase())) return;
+    const lvl = +((text.match(/at least (\d+)(?:st|nd|rd|th) level/) || [])[1] || 2);
+    const needs = ((text.match(/must (?:possess|have) the (.+?) discovery/) || [])[1] || '').split(/\s+and\s+/).filter(Boolean);
+    alchemist.discoveries.push({ n, bomb: /\*$/.test(name) || /bomb/i.test(n), lvl, needs, text: short(text, 350) });
+  };
+  // each "#### Name" or inline "Name*: text" starts a discovery, which keeps the paragraphs until the next one
+  let cur = null;
+  const done = () => { if (cur) push(cur.name, cur.lines.join('\n')); cur = null; };
+  for (const line of sec.split('\n')) {
+    const head = line.match(/^#### (.+)$/), inline = line.match(/^([A-Z][a-z]+(?: [a-z]+){0,3})(\\?\*)?:\s+(.+)$/);
+    if (head) { done(); cur = { name: head[1], lines: [] }; }
+    else if (inline) { done(); cur = { name: inline[1] + (inline[2] ? '*' : ''), lines: [inline[3]] }; }
+    else if (cur) cur.lines.push(line);
+  }
+  done();
+}
+// ---- the Canefinder shifter's aspects (characters/classes/shifter.md, "### Bear" with "**Minor Form**" and "**Major Form**")
+const shifterAspects = [];
+{
+  const page = read('characters/classes/shifter.md').replace(/\r/g, '');
+  const sec = (page.split(/^## Shifter Aspects/m)[1] || '').split(/^## (?!Shifter Aspects)/m)[0];
+  for (const part of sec.split(/^(?=### )/m).slice(1)) {
+    const n = part.split('\n')[0].replace(/^###\s*/, '').trim();
+    const minor = (part.match(/\*\*Minor Form\*\*:?\s*([^\n]+)/) || [])[1], major = (part.match(/\*\*Major Form\*\*:?\s*([^\n]+)/) || [])[1];
+    if (minor) shifterAspects.push({ n, minor: short(plain(minor), 260), major: short(plain(major || ''), 300) });
+  }
+}
+
 const out = path.join(DOCS, 'tools', 'enemy-builder-data.json');
-fs.writeFileSync(out, JSON.stringify({ weapons, armors, feats, rolls, classes, mythic, ragePowers, kineticist }));
+fs.writeFileSync(out, JSON.stringify({ weapons, armors, feats, rolls, classes, mythic, ragePowers, kineticist, alchemist, shifterAspects }));
+console.log('alchemist:', alchemist.discoveries.length, 'discoveries; shifter:', shifterAspects.length, 'aspects');
 console.log('kineticist:', Object.keys(kineticist.talents).length, 'wild talents,', Object.keys(kineticist.elements).map(e => e + ' ' + kineticist.elements[e].length).join(', '));
 console.log('rage powers:', ragePowers.length, '(' + ragePowers.filter(p => /stance/i.test(p.n)).length + ' stances)');
 console.log('mythic:', mythic.abilities.length, 'Unbound Path abilities,', mythic.feats.length, 'mythic feats');

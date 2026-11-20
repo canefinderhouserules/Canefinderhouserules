@@ -312,6 +312,10 @@
       if (/brawler/.test(src)) { var b = plusOf(t) || (L < 4 ? 0 : 1 + (L >= 9) + (L >= 13) + (L >= 18)); return b && { dodge: b, note: '+' + b + ' dodge AC' }; }
       var v = Math.max(0, M.Wis) + Math.floor(L / 4); return v && { ac: v, acFF: true, cmd: v, note: '+' + v + ' AC and CMD (Wis, +' + Math.floor(L / 4) + ' for level)' };
     }],
+    [/^defensive instinct$/, function (L, x, M) {
+      var w = Math.max(0, M.Wis), armored = !!(S.armor || S.shield), v = (armored ? Math.floor(w / 2) : w) + (armored ? 0 : Math.floor(L / 4));
+      return v && { ac: v, acFF: true, cmd: armored ? 0 : v, note: armored ? '+' + v + ' AC (half Wis, in armor)' : '+' + v + ' AC and CMD (Wis, +' + Math.floor(L / 4) + ' for level)' };
+    }],
     [/^nimble$/, function (L, x, M, src, t) { var n = plusOf(t) || (/swashbuckler/.test(src) ? Math.floor((L + 1) / 4) : Math.floor((L + 2) / 4)); return n && { dodge: n, note: '+' + n + ' dodge AC' }; }],
     [/^canny defense$/, function (L, x, M) { var n = Math.min(Math.max(0, M.Int), L); return n && { dodge: n, note: '+' + n + ' AC (Int)' }; }],
     [/^(divine grace|unholy resilience)$/, function (L, x, M) { return M.Cha > 0 && { saveAll: M.Cha, note: '+' + M.Cha + ' on all saves (Cha)' }; }],
@@ -560,7 +564,7 @@
       if (w.mode === 'off' || w.mode === 'nat2') strD = M.Str > 0 ? Math.floor(M.Str / 2) : M.Str;
       if (w.mode === 'off' && dslice) { strD = M.Str; autoNote('Double Slice', 'full Str to off-hand damage'); }
       if (w.mode === 'ranged' && !w.strDmg) strD = Math.min(0, M.Str); // bows: a Str penalty, no bonus (composite: tick Str to damage)
-      if (w.single) strD = 0; // a kinetic blast: its damage is its own (Con), already in its damage misc
+      if (w.single || w.fixed) strD = 0; // a kinetic blast or a bomb: its damage is its own (Con, Int), already in its damage misc
       var spec = (hits(ws, n) + hits(gws, n)) * 2;
       if (spec) autoNote('Weapon Specialization (' + n + ')', '+2 damage with ' + n);
       var wd = weaponData(w.n), gun = ranged && FX.gunDex && (wd ? wd.p === 'blaster' || /firearm/i.test(wd.c + ' ' + (wd.ty || '')) : /blaster|pistol|rifle|musket/.test(n));
@@ -569,7 +573,7 @@
       var ina = nat && hits(featArg('Improved Natural Attack'), n);
       if (ina) autoNote('Improved Natural Attack (' + n + ')', n + ' damage one size larger');
       // (a kinetic blast's dice do not change with size)
-      a.dice = w.single ? w.d || '1d6' : sizeDice(FX.unarmed && /^unarmed strike$/.test(n) ? FX.unarmed : w.d || '1d4', ina ? SIZE_ORDER[Math.min(SIZE_ORDER.length - 1, SIZE_ORDER.indexOf(S.size) + 1)] : S.size);
+      a.dice = w.single || w.fixed ? w.d || '1d6' : sizeDice(FX.unarmed && /^unarmed strike$/.test(n) ? FX.unarmed : w.d || '1d4', ina ? SIZE_ORDER[Math.min(SIZE_ORDER.length - 1, SIZE_ORDER.indexOf(S.size) + 1)] : S.size);
       a.threat = w.t || 20; a.mult = w.x || 2;
       if (hits(ic, n)) { a.threat = 21 - (21 - a.threat) * 2; autoNote('Improved Critical (' + n + ')', 'threat ' + a.threat + '–20'); }
       a.name = (enh ? '+' + enh + ' ' : mw ? 'mwk ' : '') + n;
@@ -943,6 +947,72 @@
     S.abil.Con += 2 * Math.floor(lv / 4) + (lv >= 6 ? 2 : 0) + (lv >= 11 ? 2 : 0) + (lv >= 16 ? 2 : 0);
   }
 
+  // ---- strong archetypes a random classed enemy sometimes has (about half the time, when its class has some here)
+  var STRONG_ARCH = { wizard: ['Exploiter Wizard', 'Spell Sage'], sorcerer: ['Crossblooded', 'Seeker', 'Wildblooded'], cleric: ['Ecclesitheurge', 'Cloistered Cleric', 'Separatist'],
+    druid: ['Feyspeaker', 'Menhir Savant', 'Goliath Druid'], witch: ['Ley Line Guardian'], oracle: ['Dual-Cursed Oracle', 'Seeker'], bard: ['Archaeologist', 'Dervish Dancer', 'Archivist'],
+    magus: ['Kensai', 'Hexcrafter', 'Myrmidarch', 'Bladebound'], inquisitor: ['Sanctified Slayer'], fighter: ['Mobile Fighter', 'Two-Handed Fighter', 'Lore Warden', 'Polearm Master', 'Weapon Master'],
+    barbarian: ['Invulnerable Rager', 'Titan Mauler', 'Urban Barbarian'], ranger: ['Skirmisher', 'Freebooter', 'Guide', 'Trophy Hunter'], paladin: ['Sacred Shield', 'Tortured Crusader'],
+    swashbuckler: ['Inspired Blade', 'Mysterious Avenger', 'Flying Blade'], gunslinger: ['Musket Master', 'Pistolero'], 'unchained-rogue': ['Scout', 'Knife Master', 'Sniper', 'Thug'],
+    'unchained-monk': ['Scaled Fist'], alchemist: ['Grenadier', 'Mindchemist'], investigator: ['Empiricist', 'Mastermind'], brawler: ['Snakebite Striker', 'Strangler', 'Wild Child'],
+    bloodrager: ['Primalist', 'Steelblood'], arcanist: ['School Savant', 'Blood Arcanist'], slayer: ['Sniper', 'Vanguard', 'Cleaner'], cavalier: ['Huntmaster', 'Standard Bearer'],
+    warpriest: ['Sacred Fist', 'Champion of the Faith'], hunter: ['Primal Companion Hunter', 'Feral Hunter'], skald: ['Urban Skald', 'War Drummer'] };
+  function randomArchetype(c) {
+    var A = ARCH[c.s], list = STRONG_ARCH[c.s];
+    if (!list || !A || A === 'loading' || !chance(0.5)) return;
+    var have = list.filter(function (n) { return A.archetypes.some(function (a) { return a.name === n; }); });
+    if (have.length) c.arch = [pick(have)];
+  }
+
+  // ---- a random alchemist (characters/classes/alchemist.md): bombs (1d6 + Int, +1d6 at every odd level, ranged touch,
+  // 20 ft., level + Int a day), extracts, a mutagen and discoveries (one at 2nd and every 2 levels), mostly bomb ones
+  function randomAlchemist(lvl, T) {
+    var b = [18, 16, 14, 12, 10, 8], o = ['Int', 'Dex', 'Con', 'Wis', 'Str', 'Cha'];
+    o.forEach(function (a, i) { S.abil[a] = b[i]; });
+    S.abil.Int += 2 * Math.floor(lvl / 4) + (lvl >= 6 ? 2 : 0) + (lvl >= 11 ? 2 : 0);
+    var list = (DATA.alchemist || {}).discoveries || [], got = [];
+    var has = function (n) { return got.some(function (d) { return d.n.toLowerCase() === n.toLowerCase(); }); };
+    var useless = /potion|dilution|poison|elixir|combine|eternal/i;
+    for (var i = 0; i < Math.min(9, Math.floor(lvl / 2)); i++) {
+      var pool = list.filter(function (d) { return d.lvl <= lvl && !has(d.n) && d.needs.every(has); });
+      if (!pool.length) break;
+      var ws = pool.map(function (d) { return useless.test(d.n) ? 0.15 : /fast bombs|precise|explosive|greater mutagen|grand mutagen|madness|sticky|dispelling/i.test(d.n) ? 3 : d.bomb ? 1.5 : 1; });
+      var r = Math.random() * ws.reduce(function (x, y) { return x + y; }, 0), e = pool[pool.length - 1];
+      for (var j = 0; j < pool.length; j++) { r -= ws[j]; if (r <= 0) { e = pool[j]; break; } }
+      got.push(e);
+    }
+    var int = mod(S.abil.Int), dice = Math.ceil(lvl / 2), fast = has('Fast bombs');
+    var energy = got.filter(function (d) { return /^(acid|frost|shock|force|concussive) bomb$/i.test(d.n); }).map(function (d) { return d.n.split(' ')[0].toLowerCase(); });
+    S.weapons = [{ n: 'bomb', mode: 'thrown', d: dice + (energy[0] === 'force' ? 'd4' : 'd6'), t: 20, x: 2, cat: 'ranged', fixed: true, single: !fast, dmgMisc: int,
+      rider: (energy[0] === 'frost' ? 'cold' : energy[0] === 'shock' ? 'electricity' : energy[0] === 'concussive' ? 'sonic' : energy[0] || 'fire') + ', ranged touch, splash ' + (dice + int) + ', 20 ft.' }];
+    S.weapons.push(makeAttack(firstWeapon(['Dagger', 'Short sword', 'Light crossbow'], ['light'])));
+    S.weapons[1].opt = 2;
+    S.armor = bestArmor('light');
+    var mut = pick(['Dex', 'Dex', 'Con', 'Str']);
+    S.special.push({ name: 'Bomb', type: 'Su', text: (lvl + int) + '/day, a standard action' + (fast ? ' (a full attack with Fast bombs)' : '') + ': ' + dice + 'd6' + sgn(int).replace('–', '-') + ' fire on a direct hit, splash ' + (dice + int) + ' in 5 ft. (Reflex DC ' + (10 + Math.floor(lvl / 2) + int) + ' half).' + (energy.length ? ' Its bombs can be ' + energy.join(', ') + '.' : '') });
+    S.special.push({ name: 'Mutagen', type: 'Su', text: 'A standard action to drink: +4 ' + mut + ', +2 natural armor and –2 ' + (mut === 'Str' ? 'Int' : mut === 'Dex' ? 'Wis' : 'Cha') + ' for ' + (10 * lvl) + ' minutes' + (has('Greater mutagen') ? ' (greater: +6/+4, +4 natural armor)' : '') + '.' });
+    got.forEach(function (d) { S.special.push({ name: d.n, type: 'Su', text: 'Discovery. ' + d.text }); });
+    // extracts: the alchemist's list, Int, as a 6-level caster
+    var top = Math.max(1, Math.min(6, Math.floor((lvl + 2) / 3)));
+    S.casters.push({ kind: 'Spells Prepared', cls: 'alchemist', cl: lvl, abil: 'Int', title: 'Alchemist Extracts Prepared',
+      spells: randomSpells('alchemist', top, 2, function () { return 1; }).filter(function (x) { return x.lvl > 0; }) });
+  }
+
+  // ---- a random Canefinder shifter (characters/classes/shifter.md): two shifter claws (1d4; 1d6 at 7th, 1d8 at 11th, 1d10 at
+  // 13th, x3 at 17th), aspects (one at 1st and one more at 5th, 9th, 13th and 17th) and no armor, for Defensive Instinct
+  function randomShifter(lvl) {
+    var b = [16, 16, 14, 12, 10, 8], o = ['Str', 'Wis', 'Con', 'Dex', 'Int', 'Cha'];
+    o.forEach(function (a, i) { S.abil[a] = b[i]; });
+    S.abil.Str += 2 * Math.floor(lvl / 4); S.abil.Wis += lvl >= 8 ? 2 : 0;
+    var claw = makeAttack('claw');
+    claw.count = 2; claw.mode = 'nat1'; claw.d = lvl >= 13 ? '1d10' : lvl >= 11 ? '1d8' : lvl >= 7 ? '1d6' : '1d4'; claw.x = lvl >= 17 ? 3 : 2; claw.n = 'shifter claw';
+    S.weapons = [claw];
+    S.armor = ''; S.shield = '';
+    var n = 1 + [5, 9, 13, 17].filter(function (l) { return l <= lvl; }).length, aspects = shuffle((DATA.shifterAspects || []).slice()).slice(0, n);
+    S.special.push({ name: 'Shifter Aspects', type: 'Su', text: aspects.map(function (a) { return a.n; }).join(', ') + '. It takes the form of ' + (lvl >= 14 ? 'up to three of them at once' : lvl >= 9 ? 'two of them at once' : 'one at a time') + ' as a swift action, for ' + (3 + lvl) + ' minutes a day.' });
+    aspects.forEach(function (a) { S.special.push({ name: a.n + ' aspect', type: 'Su', text: 'Minor form: ' + a.minor + (a.major ? ' Major form: ' + a.major : '') }); });
+    if (lvl >= 6) S.special.push({ name: 'Shifter\'s Fury', type: 'Ex', text: 'A full attack with one natural weapon instead of all: +' + (lvl >= 16 ? '3 iterative attacks' : lvl >= 11 ? '2 iterative attacks' : '1 iterative attack') + ' (–5 each), the others secondary.' });
+  }
+
   // ---------- a random enemy for a CR ----------
   // aims at the Bestiary's Monster Statistics by CR: [hp, AC, high attack, average full-attack damage, primary DC, good save, poor save]
   var BY_CR = { 0.125: [4, 10, 0, 2, 9, 2, 0], 0.167: [4, 10, 0, 3, 10, 2, 0], 0.25: [5, 10, 0, 3, 10, 2, 0], 0.333: [6, 11, 1, 4, 10, 3, 0], 0.5: [10, 11, 1, 5, 11, 3, 0],
@@ -1031,7 +1101,7 @@
     };
     var groupOf = function (w) { return 'Weapon Focus (' + (weaponGroups(w)[0] || w.n) + ')'; };
     // two weapons: Two-Weapon Fighting, Double Slice and what follows
-    if ((concept === 'warrior' || concept === 'skirmisher' || concept === 'sw-warrior') && melee.length && bab >= 1 && !/gunslinger/.test(((S.classes || [])[0] || {}).s || ''))
+    if ((concept === 'warrior' || concept === 'skirmisher' || concept === 'sw-warrior') && melee.length && bab >= 1 && !/gunslinger|shifter|alchemist|kineticist/.test(((S.classes || [])[0] || {}).s || ''))
       out.push({ label: 'two-weapon fighter', setup: function () {
         var saber = SWM && S.weapons.some(function (w) { return /lightsaber/i.test(w.n); });
         var main = saber ? makeAttack(pick(SWD.weapons.filter(function (w) { return !w.blaster && w.c !== 'two-handed'; })).n)
@@ -1058,13 +1128,13 @@
         return [groupOf(w), 'Weapon Specialization (' + w.n + ')', f >= 8 ? 'Greater Weapon Focus (' + w.n + ')' : '', bab >= 8 ? 'Improved Critical (' + w.n + ')' : '', f >= 12 ? 'Greater Weapon Specialization (' + w.n + ')' : ''];
       } });
     // bows, crossbows and blasters
-    if (ranged.length && (concept === 'skirmisher' || concept === 'warrior' || concept === 'sw-specialist' || concept === 'sw-warrior'))
+    if (ranged.length && (concept === 'skirmisher' || concept === 'warrior' || concept === 'sw-specialist' || concept === 'sw-warrior') && !/shifter|alchemist|kineticist/.test(((S.classes || [])[0] || {}).s || ''))
       out.push({ label: 'archer', setup: function () { S.abil.Dex = Math.max(S.abil.Dex, 15); }, feats: function () {
         var r = S.weapons.filter(function (w) { return /^(ranged|thrown)$/.test(w.mode); })[0];
         return ['Point-Blank Shot', groupOf(r), 'Rapid Shot', bab >= 6 ? 'Manyshot' : '', bab >= 11 ? 'Improved Precise Shot' : '', bab >= 8 ? 'Improved Critical (' + r.n + ')' : ''];
       } });
     // big natural attacks
-    if (nats.length && (concept === 'brute'))
+    if (nats.length && (concept === 'brute' || ((S.classes || [])[0] || {}).s === 'shifter'))
       out.push({ label: 'natural predator', feats: function () {
         var count = nats.reduce(function (t, w) { return t + (w.count || 1); }, 0);
         return ['Weapon Focus (natural)', bab >= 4 ? 'Improved Natural Attack (' + nats[0].n + ')' : '', count >= 3 ? 'Multiattack' : '', S.abil.Con >= 13 ? 'Improved Natural Armor' : '',
@@ -1098,11 +1168,11 @@
   // the classes a random humanoid can have, by concept: the rogue and the monk are their unchained versions (better in
   // almost every way); the barbarian stays the core one, with the unchained stances among its rage powers
   var RANDOM_CLS = { warrior: ['fighter', 'barbarian', 'ranger', 'slayer', 'cavalier', 'bloodrager', 'antipaladin', 'warpriest', 'brawler', 'unchained-monk',
-      'paladin', 'samurai', 'legendary-fighter'],
+      'paladin', 'samurai', 'legendary-fighter', 'shifter'],
     skirmisher: ['unchained-rogue', 'ranger', 'slayer', 'investigator', 'swashbuckler', 'ninja', 'unchained-monk', 'vigilante', 'gunslinger',
       'legendary-swashbuckler', 'legendary-investigator', 'legendary-gunslinger'],
     caster: ['wizard', 'sorcerer', 'cleric', 'druid', 'witch', 'oracle', 'bard', 'magus', 'inquisitor', 'arcanist', 'shaman', 'psychic', 'skald',
-      'mesmerist', 'occultist', 'spiritualist', 'hunter', 'legendary-magus', 'legendary-cleric', 'kineticist'] };
+      'mesmerist', 'occultist', 'spiritualist', 'hunter', 'legendary-magus', 'legendary-cleric', 'kineticist', 'alchemist'] };
   // the concept of a class picked in the form: its list above, else a caster if it has a spell list, else a warrior
   function classConcept(slug) {
     for (var k in RANDOM_CLS) if (RANDOM_CLS[k].indexOf(slug) >= 0) return k;
@@ -1431,6 +1501,7 @@
         classed = true; S.hd = 0;
         S.classes = [{ s: clsSlug, lvl: Math.max(1, Math.min(20, cr < 1 ? 1 : Math.round(cr) + 1)), arch: [], off: [] }];
         loadArch(clsSlug);
+        randomArchetype(S.classes[0]);
       } else {
         var conM = S.type === 'undead' ? mod(S.abil.Cha) : S.type === 'construct' ? 0 : mod(S.abil.Con);
         var per = (S.maxHp ? S.die : (S.die + 1) / 2) + conM + (S.type === 'construct' ? 0 : 0);
@@ -1472,6 +1543,8 @@
       else if (S.type === 'outsider' && big >= 5) S.defense = 'DR ' + (big >= 12 ? 10 : 5) + '/' + pick(['good', 'evil', 'cold iron', 'magic']) + '; Resist fire 10' + (big >= 8 ? '; SR ' + (big + 11) : '');
       else if (S.type === 'aberration' && big >= 7) S.defense = 'SR ' + (big + 11);
       if (clsSlug === 'kineticist') randomKineticist(S.classes[0].lvl);
+      else if (clsSlug === 'alchemist') randomAlchemist(S.classes[0].lvl, T);
+      else if (clsSlug === 'shifter') randomShifter(S.classes[0].lvl);
       // spells: spell-like abilities for monsters, spells for a classed caster
       else if (concept === 'caster') {
         var list = clsSlug ? (CLASSES.indexOf(clsSlug.replace(/^(legendary|unchained)-/, '')) >= 0 ? clsSlug.replace(/^(legendary|unchained)-/, '') : 'sorcerer') : pick(['sorcerer', 'cleric', 'druid', 'witch']);
@@ -1520,8 +1593,10 @@
       shuffle(['Improved Initiative', 'Toughness', 'Iron Will', 'Dodgility', 'Lightning Reflexes', 'Great Fortitude', 'Point-Blank Shot', 'Precise Shot', 'Combat Reflexes', 'Alertness']).filter(featOk).forEach(addF);
     } else {
       if (concept === 'skirmisher' && featOk('Weapon Finesse')) addF('Weapon Finesse');
+      if (clsSlug === 'alchemist') { addF('Point-Blank Shot'); addF('Weapon Focus (bomb)'); ['Throw Anything', 'Improved Initiative', 'Rapid Shot', 'Extra Bombs', 'Extra Discovery'].filter(featOk).forEach(addF); }
+      if (clsSlug === 'shifter') { addF('Weapon Focus (natural)'); ['Improved Initiative', 'Vital Strike', 'Toughness'].filter(featOk).forEach(addF); }
       if (clsSlug === 'kineticist') { addF('Point-Blank Shot'); addF('Weapon Focus (' + S.weapons[0].n + ')'); ['Extra Wild Talent', 'Improved Initiative', 'Toughness'].filter(featOk).forEach(addF); }
-      if (mainW && featOk('Weapon Focus') && clsSlug !== 'kineticist') addF(wfOf(mainW));
+      if (mainW && featOk('Weapon Focus') && !/^(kineticist|alchemist|shifter)$/.test(clsSlug || '')) addF(wfOf(mainW));
       if (mainW && D0.bab >= 8 && featOk('Improved Critical')) addF('Improved Critical (' + mainW.n + ')');
       shuffle(FEAT_SETS[concept]).filter(featOk).forEach(addF);
       if (featOk('Skill Focus')) addF('Skill Focus (perception)');
@@ -1566,7 +1641,7 @@
     a = top(D);
     if (a != null && a < T.atk) {
       var enh = Math.min(T.atk - a, 5, Math.floor(big / 3));
-      S.weapons.forEach(function (w) { if (!/^nat/.test(w.mode) && !w.single) w.enh = enh; });
+      S.weapons.forEach(function (w) { if (!/^nat/.test(w.mode) && !w.single && !w.fixed) w.enh = enh; });
       D = compute(); a = top(D);
       var rest = T.atk - a;
       if (rest > 0) S.weapons.forEach(function (w) { w.misc = classed ? Math.ceil(rest / 2) : rest; });
@@ -1588,8 +1663,8 @@
       // the rest of the damage as a bonus on each hit, at most about the CR per hit
       var per = Math.min((T.dmg * (S.casters.length ? 0.6 : 1) - avg) / Math.max(1, hits), Math.max(3, big));
       // (a kinetic blast's damage is the rules' own: dice + Con)
-      if (per >= 1) S.weapons.forEach(function (w) { if (!w.single) w.dmgMisc = (w.dmgMisc || 0) + Math.round(classed ? per / 2 : per); });
-      else if (avg > T.dmg * 1.25 && per <= -1) S.weapons.forEach(function (w) { if (!w.single) w.dmgMisc = (w.dmgMisc || 0) + Math.round(per); });
+      if (per >= 1) S.weapons.forEach(function (w) { if (!w.single && !w.fixed) w.dmgMisc = (w.dmgMisc || 0) + Math.round(classed ? per / 2 : per); });
+      else if (avg > T.dmg * 1.25 && per <= -1) S.weapons.forEach(function (w) { if (!w.single && !w.fixed) w.dmgMisc = (w.dmgMisc || 0) + Math.round(per); });
     }
     // saves: a cloak of resistance, or racial bonuses
     D = compute();
