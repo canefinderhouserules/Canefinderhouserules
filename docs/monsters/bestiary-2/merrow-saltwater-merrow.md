@@ -1,6 +1,6 @@
 # Merrow, Saltwater Merrow
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Saltwater Merrow&quot;,&quot;cr&quot;:&quot;6&quot;,&quot;xp&quot;:&quot;2,400&quot;,&quot;line&quot;:&quot;NE Huge humanoid (aquatic, giant)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;19, touch 11, flat-footed 16&quot;,&quot;hp&quot;:&quot;80 (7d8+49)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:11,&quot;Ref&quot;:5,&quot;Will&quot;:4},&quot;speed&quot;:&quot;40 ft., swim 40 ft.; space 15 ft., reach 15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[11],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus grab&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;javelin&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:6,&quot;abilities&quot;:&quot;Str 25, Dex 16, Con 23, Int 6, Wis 10, Cha 7&quot;,&quot;combat&quot;:&quot;BAB +5; CMB +14 (+18 grapple); CMD 27&quot;,&quot;checks&quot;:{&quot;Perception&quot;:7,&quot;Stealth&quot;:-2,&quot;Swim&quot;:15,&quot;CMB&quot;:14},&quot;feats&quot;:&quot;Iron Will, Power Attack, Vital Strike, Weapon Focus (claw)&quot;,&quot;languages&quot;:&quot;Giant&quot;,&quot;sq&quot;:&quot;amphibious&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Saltwater Merrow&quot;,&quot;cr&quot;:&quot;6&quot;,&quot;xp&quot;:&quot;2,400&quot;,&quot;line&quot;:&quot;NE Huge humanoid (aquatic, giant)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;20, touch 12, flat-footed 16&quot;,&quot;hp&quot;:&quot;80 (7d8+49)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:11,&quot;Ref&quot;:5,&quot;Will&quot;:4},&quot;speed&quot;:&quot;40 ft., swim 40 ft.; space 15 ft., reach 15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[11],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus grab&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;javelin&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:6,&quot;abilities&quot;:&quot;Str 25, Dex 16, Con 23, Int 6, Wis 10, Cha 7&quot;,&quot;combat&quot;:&quot;BAB +5; CMB +14 (+18 grapple); CMD 28&quot;,&quot;checks&quot;:{&quot;Perception&quot;:7,&quot;Stealth&quot;:-2,&quot;Swim&quot;:15,&quot;CMB&quot;:14},&quot;feats&quot;:&quot;Iron Will, Vital Strike, Weapon Focus (claw), Dodgility; Power Attack (no feat needed)&quot;,&quot;languages&quot;:&quot;Giant&quot;,&quot;sq&quot;:&quot;amphibious&quot;}"></div>
 
 ## Saltwater Merrow (CR 6)
 
@@ -10,7 +10,7 @@ NE Huge humanoid (aquatic, giant)
 
 **Defense**
 
-**AC** 19, touch 11, flat-footed 16 (+3 Dex, +8 natural, –2 size)  
+**AC** 20, touch 12, flat-footed 16 (+1 dodge, +3 Dex, +8 natural, –2 size)  
 **hp** 80 (7d8+49)  
 **Fort** +11, **Ref** +5, **Will** +4
 
@@ -24,8 +24,9 @@ NE Huge humanoid (aquatic, giant)
 **Statistics**
 
 **Str** 25, **Dex** 16, **Con** 23, **Int** 6, **Wis** 10, **Cha** 7  
-**Base Atk** +5; **CMB** +14 (+18 grapple); **CMD** 27  
-**Feats** [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (claw)](../../rules/feats/weapon-focus.md)  
+**Base Atk** +5; **CMB** +14 (+18 grapple); **CMD** 28  
+**Feats** [Iron Will](../../rules/feats/iron-will.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (claw)](../../rules/feats/weapon-focus.md), [Dodgility](../../rules/feats/dodge.md); [Power Attack](../../rules/feats/power-attack.md) (no feat needed)  
+*House rules: Power Attack needs no feat; in their place: Dodgility.*  
 **Skills** Perception +7, Stealth –2 (+2 in water), Swim +15; **Racial Modifiers** +4 Stealth in water  
 **Languages** Giant  
 **SQ** amphibious

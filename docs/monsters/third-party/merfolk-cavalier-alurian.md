@@ -60,7 +60,7 @@ N Medium humanoid (aquatic)
 
 **Wave’s Challenge +7 (3/day) (Ex)** +7 to damage target, -2 AC vs. others when used, +2 morale bonus on saves while underwater.
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Seahorse Companion, Alurian&quot;,&quot;cr&quot;:&quot;–&quot;,&quot;line&quot;:&quot;Giant seahorse, N Large animal&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;24, touch 12, flat-footed 21&quot;,&quot;hp&quot;:&quot;51 (6d8+24)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:9,&quot;Ref&quot;:7,&quot;Will&quot;:3},&quot;saveNote&quot;:&quot;(+4 morale bonus vs. enchantment spells and effects)&quot;,&quot;defense&quot;:&quot;anchor, evasion&quot;,&quot;speed&quot;:&quot;swim 40 ft.; space 10 ft., reach 10 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:5,&quot;abilities&quot;:&quot;Str 20, Dex 15, Con 18, Int 1, Wis 12, Cha 6&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +10; CMD 23 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:9,&quot;Perception&quot;:5,&quot;Swim&quot;:17,&quot;CMB&quot;:10},&quot;feats&quot;:&quot;Dodge, Improved Natural Armor, Weapon Focus (bite)&quot;,&quot;sq&quot;:&quot;combat riding, devotion&quot;,&quot;gear&quot;:&quot;masterwork wooden barding&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Seahorse Companion, Alurian&quot;,&quot;cr&quot;:&quot;–&quot;,&quot;line&quot;:&quot;Giant seahorse, N Large animal&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;24, touch 12, flat-footed 21&quot;,&quot;hp&quot;:&quot;51 (6d8+24)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:9,&quot;Ref&quot;:7,&quot;Will&quot;:3},&quot;saveNote&quot;:&quot;(+4 morale bonus vs. enchantment spells and effects)&quot;,&quot;defense&quot;:&quot;anchor, evasion&quot;,&quot;speed&quot;:&quot;swim 40 ft.; space 10 ft., reach 10 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:5,&quot;abilities&quot;:&quot;Str 20, Dex 15, Con 18, Int 1, Wis 12, Cha 6&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +10; CMD 23 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:9,&quot;Perception&quot;:5,&quot;Swim&quot;:17,&quot;CMB&quot;:10},&quot;feats&quot;:&quot;Dodgility, Improved Natural Armor, Weapon Focus (bite)&quot;,&quot;sq&quot;:&quot;combat riding, devotion&quot;,&quot;gear&quot;:&quot;masterwork wooden barding&quot;}"></div>
 
 ## Seahorse Companion, Alurian (CR –)
 
@@ -91,7 +91,8 @@ N Large animal
 
 **Str** 20, **Dex** 15, **Con** 18, **Int** 1, **Wis** 12, **Cha** 6  
 **Base Atk** +4; **CMB** +10; **CMD** 23 (can’t be tripped)  
-**Feats** Dodge, Improved Natural Armor, Weapon Focus (bite)  
+**Feats** [Dodgility](../../rules/feats/dodge.md), Improved Natural Armor, Weapon Focus (bite)  
+*House rules: Dodge is part of Dodgility.*  
 **Tricks** Attack, Combat Riding, Come, Defend, Down, Guard, Heel  
 **Skills** Acrobatics +9, Perception +5, Swim +17  
 **SQ** combat riding, devotion  

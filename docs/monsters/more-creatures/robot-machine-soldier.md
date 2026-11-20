@@ -1,6 +1,6 @@
 # Robot, Machine Soldier
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Machine Soldier&quot;,&quot;cr&quot;:&quot;4&quot;,&quot;xp&quot;:&quot;1,200&quot;,&quot;line&quot;:&quot;Animated object fighter 1, N Medium construct (robot)&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;18, touch 12, flat-footed 16&quot;,&quot;hp&quot;:&quot;42 (4d10+21)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:3,&quot;Ref&quot;:3,&quot;Will&quot;:0},&quot;saveNote&quot;:&quot;Will-3&quot;,&quot;defense&quot;:&quot;hardness 10; Immune construct traits; Weaknesses vulnerable to critical hits and electricity&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk longsword&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:4,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;mwk short sword&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:2,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk light crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:6,&quot;abilities&quot;:&quot;Str 18, Dex 15, Con—, Int 13, Wis 3, Cha 1&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +8; CMD 20&quot;,&quot;checks&quot;:{&quot;Climb&quot;:11,&quot;Perception&quot;:3,&quot;Sense Motive&quot;:3,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Power Attack, Two-Weapon Fighting, Weapon Focus (longsword)&quot;,&quot;languages&quot;:&quot;Common, Goblin&quot;,&quot;sq&quot;:&quot;Construction Points (metal)&quot;,&quot;gear&quot;:&quot;masterwork light crossbow with 10 bolts, masterwork longsword, masterwork short sword&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Machine Soldier&quot;,&quot;cr&quot;:&quot;4&quot;,&quot;xp&quot;:&quot;1,200&quot;,&quot;line&quot;:&quot;Animated object fighter 1, N Medium construct (robot)&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;19, touch 13, flat-footed 16&quot;,&quot;hp&quot;:&quot;42 (4d10+21)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:3,&quot;Ref&quot;:3,&quot;Will&quot;:0},&quot;saveNote&quot;:&quot;Will-3&quot;,&quot;defense&quot;:&quot;hardness 10; Immune construct traits; Weaknesses vulnerable to critical hits and electricity&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk longsword&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:4,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;mwk short sword&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:2,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk light crossbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:0,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:6,&quot;abilities&quot;:&quot;Str 18, Dex 15, Con—, Int 13, Wis 3, Cha 1&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +8; CMD 21&quot;,&quot;checks&quot;:{&quot;Climb&quot;:11,&quot;Perception&quot;:3,&quot;Sense Motive&quot;:3,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Two-Weapon Fighting, Weapon Focus (longsword), Dodgility; Power Attack (no feat needed)&quot;,&quot;languages&quot;:&quot;Common, Goblin&quot;,&quot;sq&quot;:&quot;Construction Points (metal)&quot;,&quot;gear&quot;:&quot;masterwork light crossbow with 10 bolts, masterwork longsword, masterwork short sword&quot;}"></div>
 
 ## Machine Soldier (CR 4)
 
@@ -11,7 +11,7 @@
 
 **Defense**
 
- **AC** 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)  
+ **AC** 19, touch 13, flat-footed 16 (+1 dodge, +2 Dex, +6 natural)  
  **hp** 42 (4d10+21)  
  **Fort** +3, **Ref** +3, Will—3  
  **Defensive Abilities** hardness 10; **Immune** construct traits  
@@ -32,8 +32,9 @@
 **Statistics**
 
  **Str** 18, **Dex** 15, Con—, **Int** 13, **Wis** 3, **Cha** 1  
- **Base Atk** +4; **CMB** +8; **CMD** 20  
- **Feats** Power Attack, Two-Weapon Fighting, Weapon Focus (longsword)  
+ **Base Atk** +4; **CMB** +8; **CMD** 21  
+ **Feats** Two-Weapon Fighting, Weapon Focus (longsword), [Dodgility](../../rules/feats/dodge.md); [Power Attack](../../rules/feats/power-attack.md) (no feat needed)  
+*House rules: Power Attack needs no feat; in their place: Dodgility.*  
  **Skills** Climb +11, Perception +3, Sense Motive +3  
  **Languages** Common, Goblin  
  **SQ** Construction Points (metal)  

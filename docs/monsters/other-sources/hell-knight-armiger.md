@@ -1,6 +1,6 @@
 # Hell Knight Armiger
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Hell Knight Armiger&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;Half-orc fighter 3, LN Medium humanoid (human, orc)&quot;,&quot;init&quot;:1,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;19, touch 11, flat-footed 18&quot;,&quot;hp&quot;:&quot;27 (3d10+6)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:2,&quot;Will&quot;:2},&quot;saveNote&quot;:&quot;(+1 vs. fear)&quot;,&quot;defense&quot;:&quot;bravery +1, orc ferocity&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk alchemical silver glaive&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d10&quot;,&quot;mod&quot;:2,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:4,&quot;abilities&quot;:&quot;Str 15, Dex 13, Con 14, Int 8, Wis 12, Cha 12&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +5; CMD 16&quot;,&quot;checks&quot;:{&quot;Intimidate&quot;:10,&quot;Knowledge (planes)&quot;:1,&quot;Sense Motive&quot;:3,&quot;Perception&quot;:1,&quot;CMB&quot;:5},&quot;feats&quot;:&quot;Furious Focus, Intimidating Prowess, Power Attack, Weapon Focus (glaive)&quot;,&quot;languages&quot;:&quot;Common, Orc&quot;,&quot;sq&quot;:&quot;armor training 1, orc blood, weapon familiarity&quot;,&quot;gear&quot;:&quot;oil of magic weapon, potion of bull’s strength, potion of cure light wounds&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Hell Knight Armiger&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;Half-orc fighter 3, LN Medium humanoid (human, orc)&quot;,&quot;init&quot;:1,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;20, touch 12, flat-footed 18&quot;,&quot;hp&quot;:&quot;27 (3d10+6)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:2,&quot;Will&quot;:2},&quot;saveNote&quot;:&quot;(+1 vs. fear)&quot;,&quot;defense&quot;:&quot;bravery +1, orc ferocity&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk alchemical silver glaive&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d10&quot;,&quot;mod&quot;:2,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:4,&quot;abilities&quot;:&quot;Str 15, Dex 13, Con 14, Int 8, Wis 12, Cha 12&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +5; CMD 17&quot;,&quot;checks&quot;:{&quot;Intimidate&quot;:10,&quot;Knowledge (planes)&quot;:1,&quot;Sense Motive&quot;:3,&quot;Perception&quot;:1,&quot;CMB&quot;:5},&quot;feats&quot;:&quot;Furious Focus, Intimidating Prowess, Weapon Focus (glaive), Dodgility; Power Attack (no feat needed)&quot;,&quot;languages&quot;:&quot;Common, Orc&quot;,&quot;sq&quot;:&quot;armor training 1, orc blood, weapon familiarity&quot;,&quot;gear&quot;:&quot;oil of magic weapon, potion of bull’s strength, potion of cure light wounds&quot;}"></div>
 
 ## Hell Knight Armiger (CR 2)
 
@@ -11,7 +11,7 @@ LN Medium humanoid (human, orc)
 
 **Defense**
 
-**AC** 19, touch 11, flat-footed 18 (+8 armor, +1 Dex)  
+**AC** 20, touch 12, flat-footed 18 (+1 dodge, +8 armor, +1 Dex)  
 **hp** 27 (3d10+6)  
 **Fort** +5, **Ref** +2, **Will** +2 (+1 vs. fear)  
 **Defensive Abilities** bravery +1, orc ferocity
@@ -24,8 +24,9 @@ LN Medium humanoid (human, orc)
 **Statistics**
 
 **Str** 15, **Dex** 13, **Con** 14, **Int** 8, **Wis** 12, **Cha** 12  
-**Base Atk** +3; **CMB** +5; **CMD** 16  
-**Feats** [Furious Focus](../../rules/feats/furious-focus.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (glaive)](../../rules/feats/weapon-focus.md)  
+**Base Atk** +3; **CMB** +5; **CMD** 17  
+**Feats** [Furious Focus](../../rules/feats/furious-focus.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Weapon Focus (glaive)](../../rules/feats/weapon-focus.md), [Dodgility](../../rules/feats/dodge.md); [Power Attack](../../rules/feats/power-attack.md) (no feat needed)  
+*House rules: Power Attack needs no feat; in their place: Dodgility.*  
 **Skills** Intimidate +10, Knowledge (planes) +1, Sense Motive +3;  
 **Languages** Common, Orc  
 **SQ** armor training 1, orc blood, weapon familiarity  

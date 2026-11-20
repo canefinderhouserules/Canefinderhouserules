@@ -1,6 +1,6 @@
 # Gnoll, Flind
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Flind&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;NE Medium humanoid (gnoll)&quot;,&quot;init&quot;:6,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;17, touch 12, flat-footed 15&quot;,&quot;hp&quot;:&quot;30 (4d8+12)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:7,&quot;Ref&quot;:3,&quot;Will&quot;:3},&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;flindbar&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus disarm, trip&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;composite longbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:5,&quot;special&quot;:[{&quot;name&quot;:&quot;Weapon Familiarity&quot;,&quot;type&quot;:&quot;&quot;,&quot;text&quot;:&quot;Flinds are always proficient with flindbars.&quot;}],&quot;abilities&quot;:&quot;Str 18, Dex 15, Con 16, Int 12, Wis 15, Cha 13&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +7; CMD 19&quot;,&quot;checks&quot;:{&quot;Handle Animal&quot;:8,&quot;Intimidate&quot;:5,&quot;Perception&quot;:6,&quot;CMB&quot;:7},&quot;feats&quot;:&quot;Improved Initiative, Power Attack&quot;,&quot;languages&quot;:&quot;Common, Gnoll&quot;,&quot;sq&quot;:&quot;weapon familiarity&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Flind&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;NE Medium humanoid (gnoll)&quot;,&quot;init&quot;:6,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;17, touch 12, flat-footed 15&quot;,&quot;hp&quot;:&quot;30 (4d8+12)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:7,&quot;Ref&quot;:3,&quot;Will&quot;:3},&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;flindbar&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus disarm, trip&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;composite longbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:5,&quot;special&quot;:[{&quot;name&quot;:&quot;Weapon Familiarity&quot;,&quot;type&quot;:&quot;&quot;,&quot;text&quot;:&quot;Flinds are always proficient with flindbars.&quot;}],&quot;abilities&quot;:&quot;Str 18, Dex 15, Con 16, Int 12, Wis 15, Cha 13&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +7; CMD 19&quot;,&quot;checks&quot;:{&quot;Handle Animal&quot;:8,&quot;Intimidate&quot;:5,&quot;Perception&quot;:6,&quot;CMB&quot;:7},&quot;feats&quot;:&quot;Improved Initiative, Weapon Focus (flindbar); Power Attack (no feat needed)&quot;,&quot;languages&quot;:&quot;Common, Gnoll&quot;,&quot;sq&quot;:&quot;weapon familiarity&quot;}"></div>
 
 ## Flind (CR 3)
 
@@ -17,14 +17,15 @@ NE Medium humanoid (gnoll)
 **Offense**
 
 **Speed** 30 ft.  
-**Melee** flindbar +6 (1d8+6/×2 plus disarm, trip)  
+**Melee** flindbar +7 (1d8+6/×2 plus disarm, trip)  
 **Ranged**  composite longbow +5 (1d8+4/×3)
 
 **Statistics**
 
 **Str** 18, **Dex** 15, **Con** 16, **Int** 12, **Wis** 15, **Cha** 13  
 **Base Atk** +3; **CMB** +7; **CMD** 19  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Focus (flindbar)](../../rules/feats/weapon-focus.md); [Power Attack](../../rules/feats/power-attack.md) (no feat needed)  
+*House rules: Power Attack needs no feat; in their place: Weapon Focus (flindbar).*  
 **Skills** Handle Animal +8, Intimidate +5, Perception +6  
 **Languages** Common, Gnoll  
 **SQ** weapon familiarity

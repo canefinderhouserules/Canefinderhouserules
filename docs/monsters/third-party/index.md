@@ -569,7 +569,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Deep One Pureblood](deep-one-pureblood.md) | 1 | CE Medium monstrous humanoid (aquatic, deep one) |
 | [Deep One Pureblood](deep-one-pureblood-cr-1.md) | 1 | CE Medium monstrous humanoid (aquatic, deep one) |
 | [Deep One Scion](deep-one-scion.md) | 7 | Deep one scion cleric of Cthulhu 7, CE Medium humanoid (aquatic, deep one, human) |
-| [Deep Singer Whale](deep-singer-whale.md) | 18 | Always good Gargantuan magical beast |
+| [Deep Singer Whale](deep-singer-whale.md) | 18 | Always good Gargantuan magical beast, Deep singer whales are not normally aggressive, preferring to use their entrancing song ability or various spell-like abilities to calm hostile creatures. If unsuccessful it will attack with its various sonic spell-like abilities or as a last resort, engage opponents in melee combat, striking with their devastating tail slaps. |
 | [Deep Tiger Anemone](invertebrate-deep-tiger-anemone.md) | 14 | N Colossal vermin (aquatic) |
 | [Deepriver Wyrm](wyrm-deepriver.md) | 8 | CE Huge dragon (water) |
 | [Deer](herd-animal-deer.md) | 1/4 | N Medium animal |
@@ -1354,7 +1354,7 @@ Every creature here has a **Roll20** panel above its stat block: copy it into a 
 | [Lythic](lythic.md) | 4 | N Medium outsider (earth, elemental, extraplanar) |
 | [Maddened Mercenary](maddened-mercenary-cr-1-2.md) | 1/2 | Human warrior 3, CE Medium humanoid |
 | [Madness Slug](madness-slug.md) | 13 | CE Gargantuan outsider (chaotic, evil, extraplanar) |
-| [Madness Slug Alternate Form](madness-slug-alternate-form.md) | 11 | CE Female drow witch 7, At will—glibness |
+| [Madness Slug Alternate Form](madness-slug-alternate-form.md) | 11 | CE Female drow witch 7, At will—glibness, House rules: Dodge is part of Dodgility. |
 | [Maelae](maelae.md) | 12 | N Medium plant |
 | [Maelbud](maelae-youth-maelbud.md) | 6 | N Tiny plant |
 | [Maenad Dragon](dragon-maenad.md) | 13 | CE Large dragon (chaotic, human and/or orc) |

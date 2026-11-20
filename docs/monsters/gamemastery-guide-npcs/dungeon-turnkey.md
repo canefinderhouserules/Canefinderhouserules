@@ -1,6 +1,6 @@
 # Dungeon (Turnkey)
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Dungeon (Turnkey)&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;Human warrior 5, N Medium humanoid&quot;,&quot;init&quot;:0,&quot;ac&quot;:&quot;19, touch 10, flat-footed 19&quot;,&quot;hp&quot;:&quot;37 (5d10+10)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:1,&quot;Will&quot;:0},&quot;speed&quot;:&quot;20 ft.; space 5 ft., reach 5 ft. (10 ft. with guisarme)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk guisarme&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d4&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;spiked gauntlet&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;sap&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;nonlethal&quot;}]],&quot;rangedTouch&quot;:5,&quot;abilities&quot;:&quot;Str 16, Dex 11, Con 12, Int 8, Wis 9, Cha 10&quot;,&quot;combat&quot;:&quot;BAB +5; CMB +8 (+10 bull rush); CMD 18 (20 vs. bull rush)&quot;,&quot;checks&quot;:{&quot;Intimidate&quot;:10,&quot;Perception&quot;:4,&quot;Sense Motive&quot;:4,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Alertness, Improved Bull Rush, Intimidating Prowess, Power Attack&quot;,&quot;languages&quot;:&quot;Common&quot;,&quot;gear&quot;:&quot;tanglefoot bags (2)&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Dungeon (Turnkey)&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;Human warrior 5, N Medium humanoid&quot;,&quot;init&quot;:0,&quot;ac&quot;:&quot;19, touch 10, flat-footed 19&quot;,&quot;hp&quot;:&quot;37 (5d10+10)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:1,&quot;Will&quot;:0},&quot;speed&quot;:&quot;20 ft.; space 5 ft., reach 5 ft. (10 ft. with guisarme)&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk guisarme&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d4&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;spiked gauntlet&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;sap&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;nonlethal&quot;}]],&quot;rangedTouch&quot;:5,&quot;abilities&quot;:&quot;Str 16, Dex 11, Con 12, Int 8, Wis 9, Cha 10&quot;,&quot;combat&quot;:&quot;BAB +5; CMB +8 (+10 bull rush); CMD 18 (20 vs. bull rush)&quot;,&quot;checks&quot;:{&quot;Intimidate&quot;:10,&quot;Perception&quot;:4,&quot;Sense Motive&quot;:4,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Alertness, Improved Bull Rush, Intimidating Prowess, Weapon Focus (guisarme); Power Attack (no feat needed)&quot;,&quot;languages&quot;:&quot;Common&quot;,&quot;gear&quot;:&quot;tanglefoot bags (2)&quot;}"></div>
 
 ## Dungeon (Turnkey) (CR 3)
 
@@ -18,14 +18,15 @@ N Medium humanoid
 **Offense**
 
 **Speed** 20 ft.  
-**Melee** mwk guisarme +9 (2d4+4/×3) or spiked gauntlet +8 (1d4+3) or sap +8 (1d6+3 nonlethal)  
+**Melee** mwk guisarme +10 (2d4+4/×3) or spiked gauntlet +8 (1d4+3) or sap +8 (1d6+3 nonlethal)  
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with guisarme)
 
 **Statistics**
 
 **Str** 16, **Dex** 11, **Con** 12, **Int** 8, **Wis** 9, **Cha** 10  
 **Base Atk** +5; **CMB** +8 (+10 bull rush); **CMD** 18 (20 vs. bull rush)  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Weapon Focus (guisarme)](../../rules/feats/weapon-focus.md); [Power Attack](../../rules/feats/power-attack.md) (no feat needed)  
+*House rules: Power Attack needs no feat; in their place: Weapon Focus (guisarme).*  
 **Skills** Intimidate +10, Perception +4, Sense Motive +4  
 **Languages** Common  
 **Combat Gear**  tanglefoot bags (2); **Other Gear** *+1 half-plate*, masterwork guisarme, sap, spiked gauntlet

@@ -6,6 +6,7 @@
 const fs = require('fs');
 const path = require('path');
 
+const { applyFeatRules } = require('./feat-rules.js');
 const ROOT = path.join(__dirname, '..', 'docs');
 const MON = path.join(ROOT, 'monsters');
 const BOOKS = {
@@ -209,7 +210,7 @@ function toMarkdown(html) {
     return s ? '[[LINK:../../magic/spells/' + s + '.md]]' + t + '[[/LINK]]' : t;
   });
   h = h.replace(/<a [^>]*href="FeatDisplay\.aspx\?ItemName=([^"]+)"[^>]*>([\s\S]*?)<\/a>/g, (all, item, text) => {
-    const s = slugOf(decode(item));
+    const s = { 'dodgility': 'dodge' }[slugOf(decode(item))] || slugOf(decode(item)); // Dodgility lives on dodge.md
     return featPages.has(s) ? '[[LINK:../../rules/feats/' + s + '.md]]' + text + '[[/LINK]]' : text;
   });
   h = h.replace(/<a [^>]*>([\s\S]*?)<\/a>/g, '$1');
@@ -462,7 +463,7 @@ function pageFor(html, bookKey) {
     if (!/<h2 class="title">[^<]*\bCR\b/.test(b)) continue;
     // template and variant boxes ("True Hunter (CR +1)") have no AC or hit points of their own
     if (!/<b>AC<\/b>/.test(b) && !/<b>hp<\/b>/.test(b)) continue;
-    blocks.push({ html: b, source: src });
+    blocks.push({ html: applyFeatRules(b), source: src });
   }
   const book = BOOKS[bookKey];
   const mine = blocks.filter(b => {

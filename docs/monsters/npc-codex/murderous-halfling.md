@@ -1,6 +1,6 @@
 # Murderous Halfling
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Murderous Halfling&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;Halfling fighter 4, CE Small humanoid (halfling)&quot;,&quot;init&quot;:4,&quot;ac&quot;:&quot;20, touch 15, flat-footed 16&quot;,&quot;hp&quot;:&quot;30 (4d10+4)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:6,&quot;Will&quot;:2},&quot;saveNote&quot;:&quot;+3 vs. fear&quot;,&quot;defense&quot;:&quot;bravery +1&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:3,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;mwk dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:2,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:3,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:9,&quot;abilities&quot;:&quot;Str 12, Dex 18, Con 12, Int 13, Wis 10, Cha 10&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +4; CMD 18&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:10,&quot;Bluff&quot;:4,&quot;Climb&quot;:3,&quot;Perception&quot;:6,&quot;Sleight of Hand&quot;:5,&quot;Stealth&quot;:11,&quot;CMB&quot;:4},&quot;feats&quot;:&quot;Deadly Aim, Two-Weapon Fighting, Weapon Finesse, Weapon Focus (dagger), Weapon Specialization (dagger)&quot;,&quot;languages&quot;:&quot;Common, Goblin, Halfling&quot;,&quot;sq&quot;:&quot;armor training 1&quot;,&quot;gear&quot;:&quot;feather token (whip), flask of acid&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Murderous Halfling&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;Halfling fighter 4, CE Small humanoid (halfling)&quot;,&quot;init&quot;:4,&quot;ac&quot;:&quot;21, touch 16, flat-footed 16&quot;,&quot;hp&quot;:&quot;30 (4d10+4)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:6,&quot;Will&quot;:2},&quot;saveNote&quot;:&quot;+3 vs. fear&quot;,&quot;defense&quot;:&quot;bravery +1&quot;,&quot;speed&quot;:&quot;20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:3,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;mwk dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:2,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:3,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:9,&quot;abilities&quot;:&quot;Str 12, Dex 18, Con 12, Int 13, Wis 10, Cha 10&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +4; CMD 19&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:10,&quot;Bluff&quot;:4,&quot;Climb&quot;:3,&quot;Perception&quot;:6,&quot;Sleight of Hand&quot;:5,&quot;Stealth&quot;:11,&quot;CMB&quot;:4},&quot;feats&quot;:&quot;Two-Weapon Fighting, Weapon Finesse, Weapon Focus (dagger), Weapon Specialization (dagger), Dodgility; Deadly Aim (no feat needed)&quot;,&quot;languages&quot;:&quot;Common, Goblin, Halfling&quot;,&quot;sq&quot;:&quot;armor training 1&quot;,&quot;gear&quot;:&quot;feather token (whip), flask of acid&quot;}"></div>
 
 ## Murderous Halfling (CR 3)
 
@@ -11,7 +11,7 @@ CE Small humanoid (halfling)
 
 **Defense**
 
-**AC** 20, touch 15, flat-footed 16 (+5 armor, +4 Dex, +1 size)  
+**AC** 21, touch 16, flat-footed 16 (+1 dodge, +5 armor, +4 Dex, +1 size)  
 **hp** 30 (4d10+4)  
 **Fort** +6, **Ref** +6, **Will** +2; +3 vs. fear  
 **Defensive Abilities** bravery +1
@@ -29,8 +29,9 @@ CE Small humanoid (halfling)
 **Statistics**
 
 **Str** 12, **Dex** 18, **Con** 12, **Int** 13, **Wis** 10, **Cha** 10  
-**Base Atk** +4; **CMB** +4; **CMD** 18  
-**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (dagger)](../../rules/feats/weapon-focus.md), [Weapon Specialization (dagger)](../../rules/feats/weapon-specialization.md)  
+**Base Atk** +4; **CMB** +4; **CMD** 19  
+**Feats** [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (dagger)](../../rules/feats/weapon-focus.md), [Weapon Specialization (dagger)](../../rules/feats/weapon-specialization.md), [Dodgility](../../rules/feats/dodge.md); [Deadly Aim](../../rules/feats/deadly-aim.md) (no feat needed)  
+*House rules: Deadly Aim needs no feat; in their place: Dodgility.*  
 **Skills** Acrobatics +10 (+6 when jumping), Bluff +4, Climb +3, Perception +6, Sleight of Hand +5, Stealth +11  
 **Languages** Common, Goblin, Halfling  
 **SQ** armor training 1  

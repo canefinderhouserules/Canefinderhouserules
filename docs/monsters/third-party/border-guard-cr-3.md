@@ -1,6 +1,6 @@
 # Border Guard (CR 3)
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Border Guard&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;Half-orc ranger 4, NE Medium humanoid (human, orc)&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;18, touch 14, flat-footed 14&quot;,&quot;hp&quot;:&quot;30 (4d10+4)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:8,&quot;Will&quot;:2},&quot;defense&quot;:&quot;orc ferocity&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;falchion&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d4&quot;,&quot;mod&quot;:3,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk hunting rifle&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:null,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;+7/+7&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[],&quot;kind&quot;:&quot;Ranged&quot;,&quot;auto&quot;:true,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:4,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;favored enemy (humans +2)&quot;,&quot;rangedTouch&quot;:8,&quot;spells&quot;:[{&quot;title&quot;:&quot;Ranger Spells Prepared&quot;,&quot;cl&quot;:1,&quot;concentration&quot;:2,&quot;levels&quot;:[{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;gravity bullet&quot;}]}]}],&quot;abilities&quot;:&quot;Str 14, Dex 18, Con 12, Int 10, Wis 13, Cha 8&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +6; CMD 20&quot;,&quot;checks&quot;:{&quot;Climb&quot;:8,&quot;Intimidate&quot;:8,&quot;Knowledge (geography)&quot;:5,&quot;Knowledge (local)&quot;:2,&quot;Knowledge (nature)&quot;:7,&quot;Perception&quot;:8,&quot;Stealth&quot;:10,&quot;Survival&quot;:8,&quot;CMB&quot;:6},&quot;feats&quot;:&quot;Endurance, Point-Blank Shot, Precise Shot, Rapid Shot&quot;,&quot;languages&quot;:&quot;Common, Orc&quot;,&quot;sq&quot;:&quot;favored terrain (choose one +2), hunter’s bond (companions), orc blood, track +2, weapon familiarity, wild empathy +3&quot;,&quot;gear&quot;:&quot;potion of cure moderate wounds, potion of shield of faith&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Border Guard&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;Half-orc ranger 4, NE Medium humanoid (human, orc)&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;18, touch 14, flat-footed 14&quot;,&quot;hp&quot;:&quot;34 (4d10+8)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:8,&quot;Will&quot;:2},&quot;defense&quot;:&quot;orc ferocity&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;falchion&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d4&quot;,&quot;mod&quot;:3,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk hunting rifle&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:null,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;+7/+7&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[],&quot;kind&quot;:&quot;Ranged&quot;,&quot;auto&quot;:true,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:4,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;favored enemy (humans +2)&quot;,&quot;rangedTouch&quot;:8,&quot;spells&quot;:[{&quot;title&quot;:&quot;Ranger Spells Prepared&quot;,&quot;cl&quot;:1,&quot;concentration&quot;:2,&quot;levels&quot;:[{&quot;label&quot;:&quot;1st&quot;,&quot;spells&quot;:[{&quot;name&quot;:&quot;gravity bullet&quot;}]}]}],&quot;abilities&quot;:&quot;Str 14, Dex 18, Con 12, Int 10, Wis 13, Cha 8&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +6; CMD 20&quot;,&quot;checks&quot;:{&quot;Climb&quot;:8,&quot;Intimidate&quot;:8,&quot;Knowledge (geography)&quot;:5,&quot;Knowledge (local)&quot;:2,&quot;Knowledge (nature)&quot;:7,&quot;Perception&quot;:8,&quot;Stealth&quot;:10,&quot;Survival&quot;:8,&quot;CMB&quot;:6},&quot;feats&quot;:&quot;Toughness, Point-Blank Shot, Rapid Shot, Weapon Focus (falchion)&quot;,&quot;languages&quot;:&quot;Common, Orc&quot;,&quot;sq&quot;:&quot;favored terrain (choose one +2), hunter’s bond (companions), orc blood, track +2, weapon familiarity, wild empathy +3&quot;,&quot;gear&quot;:&quot;potion of cure moderate wounds, potion of shield of faith&quot;}"></div>
 
 ## Border Guard (CR 3)
 
@@ -12,14 +12,14 @@ NE Medium humanoid (human, orc)
 **Defense**
 
  **AC** 18, touch 14, flat-footed 14 (+4 armor, +4 Dex)  
-**hp** 30 (4d10+4)  
+**hp** 34 (4d10+8)  
 **Fort** +5, **Ref** +8, **Will** +2  
 **Defensive Abilities** orc ferocity  
 
 **Offense**
 
  **Speed** 30 ft.  
-**Melee** falchion +6 (2d4+3/18–20)  
+**Melee** falchion +7 (2d4+3/18–20)  
 **Ranged** mwk hunting rifle +9 or +7/+7 (2d8/×4)  
 **Special Attacks** favored enemy (humans +2)  
 **Ranger Spells Prepared** (CL 1st; concentration +2)  
@@ -42,7 +42,8 @@ NE Medium humanoid (human, orc)
 
  **Str** 14, **Dex** 18, **Con** 12, **Int** 10, **Wis** 13, **Cha** 8  
 **Base Atk** +4; **CMB** +6; **CMD** 20  
-**Feats** Endurance, Point-Blank Shot, Precise Shot, Rapid Shot  
+**Feats** [Toughness](../../rules/feats/toughness.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), Rapid Shot, [Weapon Focus (falchion)](../../rules/feats/weapon-focus.md)  
+*House rules: Endurance is part of Toughness; Point-Blank Shot and Precise Shot are one feat, Point-Blank Shot; in their place: Weapon Focus (falchion).*  
 **Skills** Climb +8, Intimidate +8, Knowledge (geography) +5, Knowledge (local) +2, Knowledge (nature) +7, Perception +8, Stealth +10, Survival +8  
 **Languages** Common, Orc  
 **SQ** favored terrain (choose one +2), hunter’s bond (companions), orc blood, track +2, weapon familiarity, wild empathy +3  

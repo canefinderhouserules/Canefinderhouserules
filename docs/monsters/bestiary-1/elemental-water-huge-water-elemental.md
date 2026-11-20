@@ -1,6 +1,6 @@
 # Elemental (Water), Huge Water Elemental
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Huge Water Elemental&quot;,&quot;cr&quot;:&quot;7&quot;,&quot;xp&quot;:&quot;3,200&quot;,&quot;line&quot;:&quot;N Huge outsider (elemental, extraplanar, water)&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;21, touch 13, flat-footed 16&quot;,&quot;hp&quot;:&quot;95 (10d10+40)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:11,&quot;Ref&quot;:11,&quot;Will&quot;:3},&quot;defense&quot;:&quot;DR 5/—; Immune elemental traits&quot;,&quot;speed&quot;:&quot;20 ft., swim 90 ft.; space 15 ft., reach 15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[15],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;drench, vortex (DC 22), water mastery&quot;,&quot;rangedTouch&quot;:12,&quot;abilities&quot;:&quot;Str 24, Dex 18, Con 19, Int 6, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +10; CMB +19; CMD 34&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:11,&quot;Escape Artist&quot;:15,&quot;Knowledge (planes)&quot;:7,&quot;Perception&quot;:13,&quot;Stealth&quot;:3,&quot;Swim&quot;:26,&quot;CMB&quot;:19},&quot;feats&quot;:&quot;Cleave, Dodge, Great Cleave, Improved Bull Rush, Power Attack&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Huge Water Elemental&quot;,&quot;cr&quot;:&quot;7&quot;,&quot;xp&quot;:&quot;3,200&quot;,&quot;line&quot;:&quot;N Huge outsider (elemental, extraplanar, water)&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;21, touch 13, flat-footed 16&quot;,&quot;hp&quot;:&quot;95 (10d10+40)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:11,&quot;Ref&quot;:11,&quot;Will&quot;:3},&quot;defense&quot;:&quot;DR 5/—; Immune elemental traits&quot;,&quot;speed&quot;:&quot;20 ft., swim 90 ft.; space 15 ft., reach 15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[16],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;drench, vortex (DC 22), water mastery&quot;,&quot;rangedTouch&quot;:12,&quot;abilities&quot;:&quot;Str 24, Dex 18, Con 19, Int 6, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +10; CMB +19; CMD 34&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:11,&quot;Escape Artist&quot;:15,&quot;Knowledge (planes)&quot;:7,&quot;Perception&quot;:13,&quot;Stealth&quot;:3,&quot;Swim&quot;:26,&quot;CMB&quot;:19},&quot;feats&quot;:&quot;Cleave, Dodgility, Great Cleave, Improved Bull Rush, Weapon Focus (slam); Power Attack (no feat needed)&quot;}"></div>
 
 ## Huge Water Elemental (CR 7)
 
@@ -18,7 +18,7 @@ N Huge outsider (elemental, extraplanar, water)
 **Offense**
 
 **Speed** 20 ft., swim 90 ft.  
-**Melee** 2 slams +15 (2d6+7)  
+**Melee** 2 slams +16 (2d6+7)  
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** drench, vortex (DC 22), water mastery
 
@@ -26,7 +26,8 @@ N Huge outsider (elemental, extraplanar, water)
 
 **Str** 24, **Dex** 18, **Con** 19, **Int** 6, **Wis** 11, **Cha** 11  
 **Base Atk** +10; **CMB** +19; **CMD** 34  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Dodge](../../rules/feats/dodge.md), [Great Cleave](../../rules/feats/great-cleave.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Dodgility](../../rules/feats/dodge.md), [Great Cleave](../../rules/feats/great-cleave.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Weapon Focus (slam)](../../rules/feats/weapon-focus.md); [Power Attack](../../rules/feats/power-attack.md) (no feat needed)  
+*House rules: Dodge is part of Dodgility; Power Attack needs no feat; in their place: Weapon Focus (slam).*  
 **Skills** Acrobatics +11, Escape Artist +15, Knowledge (planes) +7, Perception +13, Stealth +3, Swim +26
 
 **Ecology**

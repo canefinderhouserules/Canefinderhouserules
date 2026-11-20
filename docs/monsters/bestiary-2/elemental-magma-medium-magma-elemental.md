@@ -1,6 +1,6 @@
 # Elemental (Magma), Medium Magma Elemental
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Medium Magma Elemental&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;N Medium outsider (earth, elemental, extraplanar, fire)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;16, touch 9, flat-footed 16&quot;,&quot;hp&quot;:&quot;30 (4d10+8)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:3,&quot;Will&quot;:1},&quot;defense&quot;:&quot;Immune fire, elemental traits; Weaknesses vulnerable to cold&quot;,&quot;speed&quot;:&quot;20 ft., burrow 20 ft.; earth glide&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slam&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus burn&quot;}]],&quot;specialAttacks&quot;:&quot;burn (1d4, DC 12), lava puddle&quot;,&quot;rangedTouch&quot;:3,&quot;abilities&quot;:&quot;Str 14, Dex 8, Con 15, Int 4, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +6; CMD 15&quot;,&quot;checks&quot;:{&quot;Knowledge (dungeoneering)&quot;:4,&quot;Perception&quot;:7,&quot;Stealth&quot;:6,&quot;CMB&quot;:6},&quot;feats&quot;:&quot;Improved Initiative, Power Attack&quot;,&quot;sq&quot;:&quot;earth glide&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Medium Magma Elemental&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;N Medium outsider (earth, elemental, extraplanar, fire)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;16, touch 9, flat-footed 16&quot;,&quot;hp&quot;:&quot;30 (4d10+8)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:3,&quot;Will&quot;:1},&quot;defense&quot;:&quot;Immune fire, elemental traits; Weaknesses vulnerable to cold&quot;,&quot;speed&quot;:&quot;20 ft., burrow 20 ft.; earth glide&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slam&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus burn&quot;}]],&quot;specialAttacks&quot;:&quot;burn (1d4, DC 12), lava puddle&quot;,&quot;rangedTouch&quot;:3,&quot;abilities&quot;:&quot;Str 14, Dex 8, Con 15, Int 4, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +6; CMD 15&quot;,&quot;checks&quot;:{&quot;Knowledge (dungeoneering)&quot;:4,&quot;Perception&quot;:7,&quot;Stealth&quot;:6,&quot;CMB&quot;:6},&quot;feats&quot;:&quot;Improved Initiative, Weapon Focus (slam); Power Attack (no feat needed)&quot;,&quot;sq&quot;:&quot;earth glide&quot;}"></div>
 
 ## Medium Magma Elemental (CR 3)
 
@@ -19,14 +19,15 @@ N Medium outsider (earth, elemental, extraplanar, fire)
 **Offense**
 
 **Speed** 20 ft., burrow 20 ft.; earth glide  
-**Melee** slam +6 (1d6+3 plus burn)  
+**Melee** slam +7 (1d6+3 plus burn)  
 **Special Attacks** burn (1d4, DC 12), lava puddle
 
 **Statistics**
 
 **Str** 14, **Dex** 8, **Con** 15, **Int** 4, **Wis** 11, **Cha** 11  
 **Base Atk** +4; **CMB** +6; **CMD** 15  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Focus (slam)](../../rules/feats/weapon-focus.md); [Power Attack](../../rules/feats/power-attack.md) (no feat needed)  
+*House rules: Power Attack needs no feat; in their place: Weapon Focus (slam).*  
 **Skills** Knowledge (dungeoneering) +4, Perception +7, Stealth +6  
 **SQ** earth glide
 

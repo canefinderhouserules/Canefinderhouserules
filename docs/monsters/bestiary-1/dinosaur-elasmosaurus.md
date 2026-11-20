@@ -1,6 +1,6 @@
 # Dinosaur, Elasmosaurus
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Elasmosaurus&quot;,&quot;cr&quot;:&quot;7&quot;,&quot;xp&quot;:&quot;3,200&quot;,&quot;line&quot;:&quot;N Huge animal&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;low-light vision, scent&quot;,&quot;ac&quot;:&quot;20, touch 11, flat-footed 17&quot;,&quot;hp&quot;:&quot;105 (10d8+60)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:14,&quot;Ref&quot;:9,&quot;Will&quot;:6},&quot;speed&quot;:&quot;20 ft., swim 50 ft.; space 15 ft., reach 20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[13],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:12,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:7,&quot;abilities&quot;:&quot;Str 26, Dex 15, Con 20, Int 2, Wis 13, Cha 9&quot;,&quot;combat&quot;:&quot;BAB +7; CMB +17; CMD 30 (34 vs. trip)&quot;,&quot;checks&quot;:{&quot;Perception&quot;:14,&quot;Swim&quot;:16,&quot;CMB&quot;:17},&quot;feats&quot;:&quot;Dodge, Great Fortitude, Iron Will, Mobility, Toughness&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Elasmosaurus&quot;,&quot;cr&quot;:&quot;7&quot;,&quot;xp&quot;:&quot;3,200&quot;,&quot;line&quot;:&quot;N Huge animal&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;low-light vision, scent&quot;,&quot;ac&quot;:&quot;20, touch 11, flat-footed 17&quot;,&quot;hp&quot;:&quot;105 (10d8+60)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:14,&quot;Ref&quot;:9,&quot;Will&quot;:6},&quot;speed&quot;:&quot;20 ft., swim 50 ft.; space 15 ft., reach 20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[14],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d8&quot;,&quot;mod&quot;:12,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:7,&quot;abilities&quot;:&quot;Str 26, Dex 15, Con 20, Int 2, Wis 13, Cha 9&quot;,&quot;combat&quot;:&quot;BAB +7; CMB +17; CMD 30 (34 vs. trip)&quot;,&quot;checks&quot;:{&quot;Perception&quot;:14,&quot;Swim&quot;:16,&quot;CMB&quot;:17},&quot;feats&quot;:&quot;Dodgility, Great Fortitude, Iron Will, Toughness, Weapon Focus (bite)&quot;}"></div>
 
 ## Elasmosaurus (CR 7)
 
@@ -17,14 +17,15 @@ N Huge animal
 **Offense**
 
 **Speed** 20 ft., swim 50 ft.  
-**Melee** bite +13 (2d8+12)  
+**Melee** bite +14 (2d8+12)  
 **Space** 15 ft., **Reach** 20 ft.
 
 **Statistics**
 
 **Str** 26, **Dex** 15, **Con** 20, **Int** 2, **Wis** 13, **Cha** 9  
 **Base Atk** +7; **CMB** +17; **CMD** 30 (34 vs. trip)  
-**Feats** [Dodge](../../rules/feats/dodge.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Dodgility](../../rules/feats/dodge.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md)  
+*House rules: Dodge and Mobility are one feat, Dodgility; in their place: Weapon Focus (bite).*  
 **Skills** Perception +14, Swim +16
 
 **Ecology**

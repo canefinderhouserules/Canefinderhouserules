@@ -1,6 +1,6 @@
 # Axe Warrior
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Axe Warrior&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;Half-orc barbarian 3, CE Medium humanoid (human, orc)&quot;,&quot;init&quot;:1,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;15, touch 9, flat-footed 14&quot;,&quot;hp&quot;:&quot;40 (3d12+15)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:7,&quot;Ref&quot;:2,&quot;Will&quot;:3},&quot;defense&quot;:&quot;orc ferocity, trap sense +1, uncanny dodge&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk greataxe&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d12&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk sling&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:5,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;rage (10 rounds/day), rage powers (intimidating glare)&quot;,&quot;rangedTouch&quot;:4,&quot;abilities&quot;:&quot;Str 21, Dex 13, Con 18, Int 8, Wis 10, Cha 12&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +8; CMD 17&quot;,&quot;checks&quot;:{&quot;Climb&quot;:7,&quot;Intimidate&quot;:14,&quot;Perception&quot;:6,&quot;Survival&quot;:4,&quot;Swim&quot;:5,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Intimidating Prowess, Power Attack&quot;,&quot;languages&quot;:&quot;Common, Orc&quot;,&quot;sq&quot;:&quot;fast movement, orc blood, weapon familiarity&quot;,&quot;gear&quot;:&quot;potion of cure light wounds, potion of lesser restoration, potion of protection from good&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Axe Warrior&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;Half-orc barbarian 3, CE Medium humanoid (human, orc)&quot;,&quot;init&quot;:1,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;15, touch 9, flat-footed 14&quot;,&quot;hp&quot;:&quot;40 (3d12+15)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:7,&quot;Ref&quot;:2,&quot;Will&quot;:3},&quot;defense&quot;:&quot;orc ferocity, trap sense +1, uncanny dodge&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk greataxe&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d12&quot;,&quot;mod&quot;:7,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;mwk sling&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:5,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;rage (10 rounds/day), rage powers (intimidating glare)&quot;,&quot;rangedTouch&quot;:4,&quot;abilities&quot;:&quot;Str 21, Dex 13, Con 18, Int 8, Wis 10, Cha 12&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +8; CMD 17&quot;,&quot;checks&quot;:{&quot;Climb&quot;:7,&quot;Intimidate&quot;:14,&quot;Perception&quot;:6,&quot;Survival&quot;:4,&quot;Swim&quot;:5,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Intimidating Prowess, Weapon Focus (greataxe); Power Attack (no feat needed)&quot;,&quot;languages&quot;:&quot;Common, Orc&quot;,&quot;sq&quot;:&quot;fast movement, orc blood, weapon familiarity&quot;,&quot;gear&quot;:&quot;potion of cure light wounds, potion of lesser restoration, potion of protection from good&quot;}"></div>
 
 ## Axe Warrior (CR 2)
 
@@ -19,7 +19,7 @@ CE Medium humanoid (human, orc)
 **Offense**
 
 **Speed** 30 ft.  
-**Melee** mwk greataxe +9 (1d12+7/×3)  
+**Melee** mwk greataxe +10 (1d12+7/×3)  
 **Ranged**  mwk sling +5 (1d4+5)  
 **Special Attacks** rage (10 rounds/day), rage powers (intimidating glare)
 
@@ -32,7 +32,8 @@ CE Medium humanoid (human, orc)
 
 **Str** 21, **Dex** 13, **Con** 18, **Int** 8, **Wis** 10, **Cha** 12  
 **Base Atk** +3; **CMB** +8; **CMD** 17  
-**Feats** [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Weapon Focus (greataxe)](../../rules/feats/weapon-focus.md); [Power Attack](../../rules/feats/power-attack.md) (no feat needed)  
+*House rules: Power Attack needs no feat; in their place: Weapon Focus (greataxe).*  
 **Skills** Climb +7, Intimidate +14, Perception +6, Survival +4, Swim +5  
 **Languages** Common, Orc  
 **SQ** fast movement, orc blood, weapon familiarity  

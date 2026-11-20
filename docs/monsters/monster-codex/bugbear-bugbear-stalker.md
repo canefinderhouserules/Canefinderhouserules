@@ -1,6 +1,6 @@
 # Bugbear, Bugbear Stalker
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Bugbear Stalker&quot;,&quot;cr&quot;:&quot;5&quot;,&quot;xp&quot;:&quot;1,600&quot;,&quot;line&quot;:&quot;Bugbear ranger 3, CE Medium humanoid (goblinoid)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;darkvision 60 ft., scent&quot;,&quot;ac&quot;:&quot;20, touch 13, flat-footed 17&quot;,&quot;hp&quot;:&quot;41 (6 HD; 3d8+3d10+12)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:9,&quot;Will&quot;:4},&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk scimitar&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+1 composite longbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;favored enemy (humans +2)&quot;,&quot;rangedTouch&quot;:8,&quot;abilities&quot;:&quot;Str 16, Dex 17, Con 15, Int 12, Wis 14, Cha 6&quot;,&quot;combat&quot;:&quot;BAB +5; CMB +8; CMD 21&quot;,&quot;checks&quot;:{&quot;Intimidate&quot;:11,&quot;Perception&quot;:11,&quot;Stealth&quot;:13,&quot;Survival&quot;:11,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Deadly Aim, Endurance, Far Shot, Point-Blank Shot, Weapon Focus (longbow)&quot;,&quot;languages&quot;:&quot;Common, Goblin, Sylvan&quot;,&quot;sq&quot;:&quot;favored terrain (forest +2), stalker, track +1, wild empathy +1&quot;,&quot;gear&quot;:&quot;potions of cure light wounds (4)&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Bugbear Stalker&quot;,&quot;cr&quot;:&quot;5&quot;,&quot;xp&quot;:&quot;1,600&quot;,&quot;line&quot;:&quot;Bugbear ranger 3, CE Medium humanoid (goblinoid)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;darkvision 60 ft., scent&quot;,&quot;ac&quot;:&quot;21, touch 14, flat-footed 17&quot;,&quot;hp&quot;:&quot;41 (6 HD; 3d8+3d10+12)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:9,&quot;Will&quot;:4},&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk scimitar&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+1 composite longbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[10],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;favored enemy (humans +2)&quot;,&quot;rangedTouch&quot;:8,&quot;abilities&quot;:&quot;Str 16, Dex 17, Con 15, Int 12, Wis 14, Cha 6&quot;,&quot;combat&quot;:&quot;BAB +5; CMB +8; CMD 22&quot;,&quot;checks&quot;:{&quot;Intimidate&quot;:11,&quot;Perception&quot;:11,&quot;Stealth&quot;:13,&quot;Survival&quot;:11,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Toughness, Far Shot, Point-Blank Shot, Weapon Focus (longbow), Dodgility; Deadly Aim (no feat needed)&quot;,&quot;languages&quot;:&quot;Common, Goblin, Sylvan&quot;,&quot;sq&quot;:&quot;favored terrain (forest +2), stalker, track +1, wild empathy +1&quot;,&quot;gear&quot;:&quot;potions of cure light wounds (4)&quot;}"></div>
 
 ## Bugbear Stalker (CR 5)
 
@@ -11,7 +11,7 @@ CE Medium humanoid (goblinoid)
 
 **Defense**
 
-**AC** 20, touch 13, flat-footed 17 (+4 armor, +3 Dex, +3 natural)  
+**AC** 21, touch 14, flat-footed 17 (+1 dodge, +4 armor, +3 Dex, +3 natural)  
 **hp** 41 (6 HD; 3d8+3d10+12)  
 **Fort** +6, **Ref** +9, **Will** +4
 
@@ -30,8 +30,9 @@ CE Medium humanoid (goblinoid)
 **Statistics**
 
 **Str** 16, **Dex** 17, **Con** 15, **Int** 12, **Wis** 14, **Cha** 6  
-**Base Atk** +5; **CMB** +8; **CMD** 21  
-**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Endurance](../../rules/feats/endurance.md), [Far Shot](../../rules/feats/far-shot.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Weapon Focus (longbow)](../../rules/feats/weapon-focus.md)  
+**Base Atk** +5; **CMB** +8; **CMD** 22  
+**Feats** [Toughness](../../rules/feats/toughness.md), [Far Shot](../../rules/feats/far-shot.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Weapon Focus (longbow)](../../rules/feats/weapon-focus.md), [Dodgility](../../rules/feats/dodge.md); [Deadly Aim](../../rules/feats/deadly-aim.md) (no feat needed)  
+*House rules: Endurance is part of Toughness; Deadly Aim needs no feat; in their place: Dodgility.*  
 **Skills** Intimidate +11, Perception +11, Stealth +13, Survival +11  
 **Languages** Common, Goblin, Sylvan  
 **SQ** favored terrain (forest +2), stalker, track +1, wild empathy +1  

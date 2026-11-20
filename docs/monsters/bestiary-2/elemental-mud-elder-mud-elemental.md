@@ -1,6 +1,6 @@
 # Elemental (Mud), Elder Mud Elemental
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Elder Mud Elemental&quot;,&quot;cr&quot;:&quot;11&quot;,&quot;xp&quot;:&quot;12,800&quot;,&quot;line&quot;:&quot;N Huge outsider (earth, elemental, extraplanar, water)&quot;,&quot;init&quot;:5,&quot;senses&quot;:&quot;darkvision 60 ft., tremorsense 30 ft.&quot;,&quot;ac&quot;:&quot;23, touch 14, flat-footed 17&quot;,&quot;hp&quot;:&quot;152 (16d10+64)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:14,&quot;Ref&quot;:17,&quot;Will&quot;:5},&quot;defense&quot;:&quot;DR 10/—; Immune acid, elemental traits&quot;,&quot;speed&quot;:&quot;20 ft., burrow 10 ft., swim 30 ft.; earth glide; space 15 ft., reach 15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[24],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d10&quot;,&quot;mod&quot;:10,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus entrap&quot;}]],&quot;specialAttacks&quot;:&quot;entrap (DC 22, 10 minutes, hardness 10, hp 15)&quot;,&quot;rangedTouch&quot;:19,&quot;abilities&quot;:&quot;Str 30, Dex 20, Con 19, Int 10, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +16; CMB +28; CMD 44&quot;,&quot;checks&quot;:{&quot;Climb&quot;:29,&quot;Escape Artist&quot;:24,&quot;Intimidate&quot;:19,&quot;Knowledge (planes)&quot;:19,&quot;Perception&quot;:19,&quot;Stealth&quot;:16,&quot;Swim&quot;:18,&quot;CMB&quot;:28},&quot;feats&quot;:&quot;Awesome Blow, Cleave, Dodge, Great Cleave, Greater Bull Rush, Improved Bull Rush, Improved Critical (slams), Lightning Reflexes, Power Attack&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Elder Mud Elemental&quot;,&quot;cr&quot;:&quot;11&quot;,&quot;xp&quot;:&quot;12,800&quot;,&quot;line&quot;:&quot;N Huge outsider (earth, elemental, extraplanar, water)&quot;,&quot;init&quot;:5,&quot;senses&quot;:&quot;darkvision 60 ft., tremorsense 30 ft.&quot;,&quot;ac&quot;:&quot;23, touch 14, flat-footed 17&quot;,&quot;hp&quot;:&quot;152 (16d10+64)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:14,&quot;Ref&quot;:17,&quot;Will&quot;:5},&quot;defense&quot;:&quot;DR 10/—; Immune acid, elemental traits&quot;,&quot;speed&quot;:&quot;20 ft., burrow 10 ft., swim 30 ft.; earth glide; space 15 ft., reach 15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[25],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d10&quot;,&quot;mod&quot;:10,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus entrap&quot;}]],&quot;specialAttacks&quot;:&quot;entrap (DC 22, 10 minutes, hardness 10, hp 15)&quot;,&quot;rangedTouch&quot;:19,&quot;abilities&quot;:&quot;Str 30, Dex 20, Con 19, Int 10, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +16; CMB +28; CMD 44&quot;,&quot;checks&quot;:{&quot;Climb&quot;:29,&quot;Escape Artist&quot;:24,&quot;Intimidate&quot;:19,&quot;Knowledge (planes)&quot;:19,&quot;Perception&quot;:19,&quot;Stealth&quot;:16,&quot;Swim&quot;:18,&quot;CMB&quot;:28},&quot;feats&quot;:&quot;Awesome Blow, Cleave, Dodgility, Great Cleave, Greater Bull Rush, Improved Bull Rush, Improved Critical (slams), Lightning Reflexes, Weapon Focus (slam); Power Attack (no feat needed)&quot;}"></div>
 
 ## Elder Mud Elemental (CR 11)
 
@@ -18,7 +18,7 @@ N Huge outsider (earth, elemental, extraplanar, water)
 **Offense**
 
 **Speed** 20 ft., burrow 10 ft., swim 30 ft.; earth glide  
-**Melee** 2 slams +24 (2d10+10/19–20 plus entrap)  
+**Melee** 2 slams +25 (2d10+10/19–20 plus entrap)  
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** entrap (DC 22, 10 minutes, hardness 10, hp 15)
 
@@ -26,7 +26,8 @@ N Huge outsider (earth, elemental, extraplanar, water)
 
 **Str** 30, **Dex** 20, **Con** 19, **Int** 10, **Wis** 11, **Cha** 11  
 **Base Atk** +16; **CMB** +28; **CMD** 44  
-**Feats** Awesome Blow, [Cleave](../../rules/feats/cleave.md), [Dodge](../../rules/feats/dodge.md), [Great Cleave](../../rules/feats/great-cleave.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (slams)](../../rules/feats/improved-critical.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** Awesome Blow, [Cleave](../../rules/feats/cleave.md), [Dodgility](../../rules/feats/dodge.md), [Great Cleave](../../rules/feats/great-cleave.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (slams)](../../rules/feats/improved-critical.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Weapon Focus (slam)](../../rules/feats/weapon-focus.md); [Power Attack](../../rules/feats/power-attack.md) (no feat needed)  
+*House rules: Dodge is part of Dodgility; Power Attack needs no feat; in their place: Weapon Focus (slam).*  
 **Skills** Climb +29, Escape Artist +24, Intimidate +19, Knowledge (planes) +19, Perception +19, Stealth +16, Swim +18
 
 **Ecology**

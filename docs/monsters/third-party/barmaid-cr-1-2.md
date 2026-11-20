@@ -1,6 +1,6 @@
 # Barmaid (CR 1/2)
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Barmaid&quot;,&quot;cr&quot;:&quot;1/2&quot;,&quot;xp&quot;:&quot;200&quot;,&quot;line&quot;:&quot;Human commoner 2, N Medium humanoid&quot;,&quot;init&quot;:1,&quot;ac&quot;:&quot;11, touch 11, flat-footed 10&quot;,&quot;hp&quot;:&quot;7 (2d6)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:0,&quot;Ref&quot;:1,&quot;Will&quot;:0},&quot;saveNote&quot;:&quot;Will -1&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;serving tray&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[1],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;frying pan&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[1],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1 fire [if hot]&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;drinking glass&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[2],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus dazzled 1 round [drink in eyes]&quot;}]],&quot;rangedTouch&quot;:2,&quot;abilities&quot;:&quot;Str 10, Dex 12, Con 11, Int 10, Wis 9, Cha 13&quot;,&quot;combat&quot;:&quot;BAB +1; CMB +1; CMD 12&quot;,&quot;checks&quot;:{&quot;Perception&quot;:4,&quot;Perform (dance)&quot;:3,&quot;Profession (barmaid)&quot;:4,&quot;Profession (cook)&quot;:3,&quot;Sleight of Hand&quot;:2,&quot;CMB&quot;:1},&quot;feats&quot;:&quot;Catch Off-Guard, Throw Anything&quot;,&quot;languages&quot;:&quot;Common&quot;,&quot;gear&quot;:&quot;antitoxin (2)&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Barmaid&quot;,&quot;cr&quot;:&quot;1/2&quot;,&quot;xp&quot;:&quot;200&quot;,&quot;line&quot;:&quot;Human commoner 2, N Medium humanoid&quot;,&quot;init&quot;:1,&quot;ac&quot;:&quot;11, touch 11, flat-footed 10&quot;,&quot;hp&quot;:&quot;7 (2d6)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:0,&quot;Ref&quot;:1,&quot;Will&quot;:0},&quot;saveNote&quot;:&quot;Will -1&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;serving tray&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[2],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;frying pan&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[1],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1 fire [if hot]&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;drinking glass&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[2],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus dazzled 1 round [drink in eyes]&quot;}]],&quot;rangedTouch&quot;:2,&quot;abilities&quot;:&quot;Str 10, Dex 12, Con 11, Int 10, Wis 9, Cha 13&quot;,&quot;combat&quot;:&quot;BAB +1; CMB +1; CMD 12&quot;,&quot;checks&quot;:{&quot;Perception&quot;:4,&quot;Perform (dance)&quot;:3,&quot;Profession (barmaid)&quot;:4,&quot;Profession (cook)&quot;:3,&quot;Sleight of Hand&quot;:2,&quot;CMB&quot;:1},&quot;feats&quot;:&quot;Throw Anything, Weapon Focus (tray)&quot;,&quot;languages&quot;:&quot;Common&quot;,&quot;gear&quot;:&quot;antitoxin (2)&quot;}"></div>
 
 ## Barmaid (CR 1/2)
 
@@ -18,14 +18,15 @@ N Medium humanoid
 **Offense**
 
  **Speed** 30 ft.  
-**Melee** serving tray +1 (1d4) or frying pan +1 (1d6 plus 1 fire [if hot])  
+**Melee** serving tray +2 (1d4) or frying pan +1 (1d6 plus 1 fire [if hot])  
 **Ranged** drinking glass +2 (1d4 plus dazzled 1 round [drink in eyes])  
 
 **Statistics**
 
  **Str** 10, **Dex** 12, **Con** 11, **Int** 10, **Wis** 9, **Cha** 13  
 **Base Atk** +1; **CMB** +1; **CMD** 12  
-**Feats** Catch Off-Guard, Throw Anything  
+**Feats** [Throw Anything](../../rules/feats/throw-anything.md), [Weapon Focus (tray)](../../rules/feats/weapon-focus.md)  
+*House rules: Catch Off-Guard and Throw Anything are one feat, Throw Anything; in their place: Weapon Focus (tray).*  
 **Skills** Perception +4, Perform (dance) +3, Profession (barmaid) +4, Profession (cook) +3, Sleight of Hand +2  
 **Languages** Common  
 **Combat Gear** antitoxin (2); **Other Gear** serving tray or frying pan, drinking glasses (2 to 4)  

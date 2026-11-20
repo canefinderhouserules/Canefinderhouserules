@@ -1,17 +1,17 @@
 # Longboat Captain
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Longboat Captain&quot;,&quot;cr&quot;:&quot;4&quot;,&quot;xp&quot;:&quot;1,200&quot;,&quot;line&quot;:&quot;Human fighter 5, CN Medium humanoid (human)&quot;,&quot;init&quot;:3,&quot;ac&quot;:&quot;17, touch 13, flat-footed 14&quot;,&quot;hp&quot;:&quot;42 (5d10++10)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:4,&quot;Will&quot;:2},&quot;saveNote&quot;:&quot;+1 vs. fear&quot;,&quot;defense&quot;:&quot;bravery +1&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk battleaxe&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:1,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+1 composite longbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[11],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:5,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;weapon training (bows +1)&quot;,&quot;rangedTouch&quot;:8,&quot;abilities&quot;:&quot;Str 12, Dex 16, Con 14, Int 13, Wis 8, Cha 12&quot;,&quot;combat&quot;:&quot;BAB +5; CMB +6; CMD 19&quot;,&quot;checks&quot;:{&quot;Craft (carpentry)&quot;:9,&quot;Intimidate&quot;:11,&quot;Profession (sailor)&quot;:7,&quot;Sense Motive&quot;:4,&quot;Swim&quot;:9,&quot;Perception&quot;:-1,&quot;CMB&quot;:6},&quot;feats&quot;:&quot;Deadly Aim, Iron Will, Persuasive, Point-Blank Shot, Precise Shot, Weapon Focus (composite longbow), Weapon Specialization (composite longbow)&quot;,&quot;languages&quot;:&quot;Aquan, Common, Skald&quot;,&quot;sq&quot;:&quot;armor training 1&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Longboat Captain&quot;,&quot;cr&quot;:&quot;4&quot;,&quot;xp&quot;:&quot;1,200&quot;,&quot;line&quot;:&quot;Human fighter 5, CN Medium humanoid (human)&quot;,&quot;init&quot;:7,&quot;ac&quot;:&quot;18, touch 14, flat-footed 14&quot;,&quot;hp&quot;:&quot;42 (5d10++10)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:4,&quot;Will&quot;:2},&quot;saveNote&quot;:&quot;+1 vs. fear&quot;,&quot;defense&quot;:&quot;bravery +1&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk battleaxe&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:1,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;+1 composite longbow&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[11],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:5,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;weapon training (bows +1)&quot;,&quot;rangedTouch&quot;:8,&quot;abilities&quot;:&quot;Str 12, Dex 16, Con 14, Int 13, Wis 8, Cha 12&quot;,&quot;combat&quot;:&quot;BAB +5; CMB +6; CMD 20&quot;,&quot;checks&quot;:{&quot;Craft (carpentry)&quot;:9,&quot;Intimidate&quot;:11,&quot;Profession (sailor)&quot;:7,&quot;Sense Motive&quot;:4,&quot;Swim&quot;:9,&quot;Perception&quot;:-1,&quot;CMB&quot;:6},&quot;feats&quot;:&quot;Iron Will, Persuasive, Point-Blank Shot, Weapon Focus (composite longbow), Weapon Specialization (composite longbow), Dodgility, Improved Initiative; Deadly Aim (no feat needed)&quot;,&quot;languages&quot;:&quot;Aquan, Common, Skald&quot;,&quot;sq&quot;:&quot;armor training 1&quot;}"></div>
 
 ## Longboat Captain (CR 4)
 
 **XP** 1,200  
 Human fighter 5  
 CN Medium humanoid (human)  
-**Init** +3; **Senses** Perception –1
+**Init** +7; **Senses** Perception –1
 
 **Defense**
 
-**AC** 17, touch 13, flat-footed 14 (+4 armor, +3 Dex)  
+**AC** 18, touch 14, flat-footed 14 (+1 dodge, +4 armor, +3 Dex)  
 **hp** 42 (5d10++10)  
 **Fort** +6, **Ref** +4, **Will** +2; +1 vs. fear  
 **Defensive Abilities** bravery +1
@@ -26,8 +26,9 @@ CN Medium humanoid (human)
 **Statistics**
 
 **Str** 12, **Dex** 16, **Con** 14, **Int** 13, **Wis** 8, **Cha** 12  
-**Base Atk** +5; **CMB** +6; **CMD** 19  
-**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Iron Will](../../rules/feats/iron-will.md), [Persuasive](../../rules/feats/persuasive.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Weapon Focus (composite longbow)](../../rules/feats/weapon-focus.md), [Weapon Specialization (composite longbow)](../../rules/feats/weapon-specialization.md)  
+**Base Atk** +5; **CMB** +6; **CMD** 20  
+**Feats** [Iron Will](../../rules/feats/iron-will.md), [Persuasive](../../rules/feats/persuasive.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Weapon Focus (composite longbow)](../../rules/feats/weapon-focus.md), [Weapon Specialization (composite longbow)](../../rules/feats/weapon-specialization.md), [Dodgility](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md); [Deadly Aim](../../rules/feats/deadly-aim.md) (no feat needed)  
+*House rules: Point-Blank Shot and Precise Shot are one feat, Point-Blank Shot; Deadly Aim needs no feat; in their place: Dodgility, Improved Initiative.*  
 **Skills** Craft (carpentry) +9, Intimidate +11, Profession (sailor) +7, Sense Motive +4, Swim +9  
 **Languages** Aquan, Common, Skald  
 **SQ** armor training 1

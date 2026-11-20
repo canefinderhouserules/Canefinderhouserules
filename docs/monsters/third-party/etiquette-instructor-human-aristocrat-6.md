@@ -1,6 +1,6 @@
 # Etiquette Instructor (Human Aristocrat 6)
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Etiquette Instructor&quot;,&quot;cr&quot;:&quot;4&quot;,&quot;xp&quot;:&quot;1,200&quot;,&quot;line&quot;:&quot;Female human aristocrat 6, N Medium humanoid (human)&quot;,&quot;init&quot;:1,&quot;ac&quot;:&quot;11, touch 11, flat-footed 10&quot;,&quot;hp&quot;:&quot;21 (6d8-6)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:1,&quot;Ref&quot;:3,&quot;Will&quot;:5},&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 mithral rapier&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:5,&quot;abilities&quot;:&quot;Str 7, Dex 13, Con 9, Int 11, Wis 11, Cha 13&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +2; CMD 13&quot;,&quot;checks&quot;:{&quot;Diplomacy&quot;:13,&quot;Knowledge (nobility)&quot;:12,&quot;Perform (ballroom dance)&quot;:10,&quot;Ride&quot;:10,&quot;Sense Motive&quot;:9,&quot;Perception&quot;:0,&quot;CMB&quot;:2},&quot;feats&quot;:&quot;Dodge, Skill Focus (Diplomacy, Knowledge [nobility]), Weapon Finesse&quot;,&quot;languages&quot;:&quot;Common&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Etiquette Instructor&quot;,&quot;cr&quot;:&quot;4&quot;,&quot;xp&quot;:&quot;1,200&quot;,&quot;line&quot;:&quot;Female human aristocrat 6, N Medium humanoid (human)&quot;,&quot;init&quot;:1,&quot;ac&quot;:&quot;11, touch 11, flat-footed 10&quot;,&quot;hp&quot;:&quot;21 (6d8-6)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:1,&quot;Ref&quot;:3,&quot;Will&quot;:5},&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+1 mithral rapier&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:5,&quot;abilities&quot;:&quot;Str 7, Dex 13, Con 9, Int 11, Wis 11, Cha 13&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +2; CMD 13&quot;,&quot;checks&quot;:{&quot;Diplomacy&quot;:13,&quot;Knowledge (nobility)&quot;:12,&quot;Perform (ballroom dance)&quot;:10,&quot;Ride&quot;:10,&quot;Sense Motive&quot;:9,&quot;Perception&quot;:0,&quot;CMB&quot;:2},&quot;feats&quot;:&quot;Dodgility, Skill Focus (Diplomacy, Knowledge [nobility]), Weapon Finesse&quot;,&quot;languages&quot;:&quot;Common&quot;}"></div>
 
 ## Etiquette Instructor (CR 4)
 
@@ -24,7 +24,8 @@
 
  **Str** 7, **Dex** 13, **Con** 9, **Int** 11, **Wis** 11, **Cha** 13  
  **Base Atk** +4; **CMB** +2; **CMD** 13  
- **Feats** Dodge, Skill Focus (Diplomacy, Knowledge [nobility]), Weapon Finesse  
+ **Feats** [Dodgility](../../rules/feats/dodge.md), Skill Focus (Diplomacy, Knowledge [nobility]), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+*House rules: Dodge is part of Dodgility.*  
  **Skills** Diplomacy +13, Knowledge (nobility) +12, Perform (ballroom dance) +10, Ride +10, Sense Motive +9  
  **Languages** Common  
  **NPC Gear** *+1 mithral rapier*, noble’s outfit with jewelry (400 gp)  

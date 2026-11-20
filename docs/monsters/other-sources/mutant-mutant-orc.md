@@ -1,13 +1,13 @@
 # Mutant, Mutant Orc
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Mutant Orc&quot;,&quot;cr&quot;:&quot;7&quot;,&quot;xp&quot;:&quot;3,200&quot;,&quot;line&quot;:&quot;Mutant orc barbarian 7, CE Medium aberration (orc)&quot;,&quot;init&quot;:1,&quot;senses&quot;:&quot;blindsense 30 ft.&quot;,&quot;ac&quot;:&quot;16, touch 9, flat-footed 15&quot;,&quot;hp&quot;:&quot;100 (7d12+49); fast healing 5&quot;,&quot;saves&quot;:{&quot;Fort&quot;:11,&quot;Ref&quot;:3,&quot;Will&quot;:4},&quot;defense&quot;:&quot;ferocity, improved uncanny dodge, trap sense +2; DR 1/—; Immune gaze attacks, radiation, sight-based attacks, and visual effects&quot;,&quot;speed&quot;:&quot;40 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk club&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[18,13],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:9,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;rage (20 rounds/day), rage powers (powerful blow +2, quick reflexes, scent)&quot;,&quot;rangedTouch&quot;:8,&quot;abilities&quot;:&quot;Str 28, Dex 12, Con 22, Int 6, Wis 11, Cha 4&quot;,&quot;combat&quot;:&quot;BAB +7; CMB +16; CMD 25&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:11,&quot;Climb&quot;:19,&quot;Swim&quot;:19,&quot;Perception&quot;:0,&quot;CMB&quot;:16},&quot;feats&quot;:&quot;Blind-Fight, Cleave, Power Attack, Toughness, Weapon Focus (club)&quot;,&quot;languages&quot;:&quot;Common, Orc&quot;,&quot;sq&quot;:&quot;deformities (blind, useless arm), fast movement, mutations (armored, fast healing, sonar), weapon familiarity&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Mutant Orc&quot;,&quot;cr&quot;:&quot;7&quot;,&quot;xp&quot;:&quot;3,200&quot;,&quot;line&quot;:&quot;Mutant orc barbarian 7, CE Medium aberration (orc)&quot;,&quot;init&quot;:5,&quot;senses&quot;:&quot;blindsense 30 ft.&quot;,&quot;ac&quot;:&quot;16, touch 9, flat-footed 15&quot;,&quot;hp&quot;:&quot;100 (7d12+49); fast healing 5&quot;,&quot;saves&quot;:{&quot;Fort&quot;:11,&quot;Ref&quot;:3,&quot;Will&quot;:4},&quot;defense&quot;:&quot;ferocity, improved uncanny dodge, trap sense +2; DR 1/—; Immune gaze attacks, radiation, sight-based attacks, and visual effects&quot;,&quot;speed&quot;:&quot;40 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk club&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[18,13],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:9,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;rage (20 rounds/day), rage powers (powerful blow +2, quick reflexes, scent)&quot;,&quot;rangedTouch&quot;:8,&quot;abilities&quot;:&quot;Str 28, Dex 12, Con 22, Int 6, Wis 11, Cha 4&quot;,&quot;combat&quot;:&quot;BAB +7; CMB +16; CMD 25&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:11,&quot;Climb&quot;:19,&quot;Swim&quot;:19,&quot;Perception&quot;:0,&quot;CMB&quot;:16},&quot;feats&quot;:&quot;Blind-Fight, Cleave, Toughness, Weapon Focus (club), Improved Initiative; Power Attack (no feat needed)&quot;,&quot;languages&quot;:&quot;Common, Orc&quot;,&quot;sq&quot;:&quot;deformities (blind, useless arm), fast movement, mutations (armored, fast healing, sonar), weapon familiarity&quot;}"></div>
 
 ## Mutant Orc (CR 7)
 
 **XP** 3,200  
 Mutant orc barbarian 7  
 CE Medium aberration (orc)  
-**Init** +1; **Senses** blindsense 30 ft.; Perception +0
+**Init** +5; **Senses** blindsense 30 ft.; Perception +0
 
 **Defense**
 
@@ -30,7 +30,8 @@ CE Medium aberration (orc)
 
 **Str** 28, **Dex** 12, **Con** 22, **Int** 6, **Wis** 11, **Cha** 4  
 **Base Atk** +7; **CMB** +16; **CMD** 25  
-**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Cleave](../../rules/feats/cleave.md), [Power Attack](../../rules/feats/power-attack.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (club)](../../rules/feats/weapon-focus.md)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Cleave](../../rules/feats/cleave.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (club)](../../rules/feats/weapon-focus.md), [Improved Initiative](../../rules/feats/improved-initiative.md); [Power Attack](../../rules/feats/power-attack.md) (no feat needed)  
+*House rules: Power Attack needs no feat; in their place: Improved Initiative.*  
 **Skills** Acrobatics +11 (+15 when jumping), Climb +19, Swim +19  
 **Languages** Common, Orc  
 **SQ** deformities (blind, useless arm), fast movement, mutations (armored, fast healing, sonar), weapon familiarity

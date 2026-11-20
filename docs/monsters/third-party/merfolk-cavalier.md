@@ -58,7 +58,7 @@ N Medium humanoid (aquatic)
 
 **Wave’s Challenge +5 (2/day) (Ex)** +5 to damage target, -2 AC vs. others when used, +2 morale bonus on saves while underwater.
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Seahorse Companion&quot;,&quot;cr&quot;:&quot;–&quot;,&quot;line&quot;:&quot;Giant seahorse, N Large animal&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;19, touch 12, flat-footed 16&quot;,&quot;hp&quot;:&quot;43 (5d8+20)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:8,&quot;Ref&quot;:6,&quot;Will&quot;:2},&quot;defense&quot;:&quot;anchor, evasion&quot;,&quot;speed&quot;:&quot;swim 40 ft.; space 10 ft., reach 10 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:4,&quot;abilities&quot;:&quot;Str 19, Dex 14, Con 18, Int 1, Wis 12, Cha 6&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +8; CMD 21 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:8,&quot;Perception&quot;:5,&quot;Swim&quot;:16,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Dodge, Improved Natural Armor, Weapon Focus (bite)&quot;,&quot;sq&quot;:&quot;combat riding&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Seahorse Companion&quot;,&quot;cr&quot;:&quot;–&quot;,&quot;line&quot;:&quot;Giant seahorse, N Large animal&quot;,&quot;init&quot;:2,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;19, touch 12, flat-footed 16&quot;,&quot;hp&quot;:&quot;43 (5d8+20)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:8,&quot;Ref&quot;:6,&quot;Will&quot;:2},&quot;defense&quot;:&quot;anchor, evasion&quot;,&quot;speed&quot;:&quot;swim 40 ft.; space 10 ft., reach 10 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:4,&quot;abilities&quot;:&quot;Str 19, Dex 14, Con 18, Int 1, Wis 12, Cha 6&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +8; CMD 21 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:8,&quot;Perception&quot;:5,&quot;Swim&quot;:16,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Dodgility, Improved Natural Armor, Weapon Focus (bite)&quot;,&quot;sq&quot;:&quot;combat riding&quot;}"></div>
 
 ## Seahorse Companion (CR –)
 
@@ -89,7 +89,8 @@ N Large animal
 
 **Str** 19, **Dex** 14, **Con** 18, **Int** 1, **Wis** 12, **Cha** 6  
 **Base Atk** +3; **CMB** +8; **CMD** 21 (can’t be tripped)  
-**Feats** Dodge, Improved Natural Armor, Weapon Focus (bite)  
+**Feats** [Dodgility](../../rules/feats/dodge.md), Improved Natural Armor, Weapon Focus (bite)  
+*House rules: Dodge is part of Dodgility.*  
 **Tricks** Attack, Combat Riding, Come, Defend, Down, Guard, Heel  
 **Skills** Acrobatics +8, Perception +5, Swim +16  
 **SQ** combat riding  

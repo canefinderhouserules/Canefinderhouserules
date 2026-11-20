@@ -1,6 +1,6 @@
 # Plains Tribe Gladiator
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Plains Tribe Gladiator&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;Male human barbarian 3, CN Medium humanoid (human)&quot;,&quot;init&quot;:0,&quot;ac&quot;:&quot;15, touch 8, flat-footed 15&quot;,&quot;hp&quot;:&quot;34 (3d12+9)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:1,&quot;Will&quot;:5},&quot;defense&quot;:&quot;uncanny dodge, trap sense +1&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk earth breaker*&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;spiked gauntlet&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;rage (9 rounds/day), rage powers (knockback)&quot;,&quot;rangedTouch&quot;:3,&quot;abilities&quot;:&quot;Str 19, Dex 10, Con 16, Int 8, Wis 15, Cha 14&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +7; CMD 15&quot;,&quot;checks&quot;:{&quot;Handle Animal&quot;:8,&quot;Intimidate&quot;:8,&quot;Perception&quot;:8,&quot;Ride&quot;:3,&quot;Survival&quot;:8,&quot;CMB&quot;:7},&quot;feats&quot;:&quot;Cleave, Improved Bull Rush, Power Attack&quot;,&quot;languages&quot;:&quot;Common, Plains Tribe&quot;,&quot;sq&quot;:&quot;fast movement&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Plains Tribe Gladiator&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;Male human barbarian 3, CN Medium humanoid (human)&quot;,&quot;init&quot;:0,&quot;ac&quot;:&quot;15, touch 8, flat-footed 15&quot;,&quot;hp&quot;:&quot;34 (3d12+9)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:6,&quot;Ref&quot;:1,&quot;Will&quot;:5},&quot;defense&quot;:&quot;uncanny dodge, trap sense +1&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;mwk earth breaker*&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[9],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:3,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;spiked gauntlet&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:6,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;rage (9 rounds/day), rage powers (knockback)&quot;,&quot;rangedTouch&quot;:3,&quot;abilities&quot;:&quot;Str 19, Dex 10, Con 16, Int 8, Wis 15, Cha 14&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +7; CMD 15&quot;,&quot;checks&quot;:{&quot;Handle Animal&quot;:8,&quot;Intimidate&quot;:8,&quot;Perception&quot;:8,&quot;Ride&quot;:3,&quot;Survival&quot;:8,&quot;CMB&quot;:7},&quot;feats&quot;:&quot;Cleave, Improved Bull Rush, Weapon Focus (breaker*); Power Attack (no feat needed)&quot;,&quot;languages&quot;:&quot;Common, Plains Tribe&quot;,&quot;sq&quot;:&quot;fast movement&quot;}"></div>
 
 ## Plains Tribe Gladiator (CR 2)
 
@@ -19,7 +19,7 @@ CN Medium humanoid (human)
 **Offense**
 
 **Speed** 30 ft.  
-**Melee** mwk earth breaker* +8 (2d6+6/×3) or spiked gauntlet +7 (1d4+6)  
+**Melee** mwk earth breaker* +9 (2d6+6/×3) or spiked gauntlet +7 (1d4+6)  
 **Special Attacks** rage (9 rounds/day), rage powers (knockback)
 
 **Tactics**
@@ -30,7 +30,8 @@ CN Medium humanoid (human)
 
 **Str** 19, **Dex** 10, **Con** 16, **Int** 8, **Wis** 15, **Cha** 14  
 **Base Atk** +3; **CMB** +7; **CMD** 15  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Weapon Focus (breaker*)](../../rules/feats/weapon-focus.md); [Power Attack](../../rules/feats/power-attack.md) (no feat needed)  
+*House rules: Power Attack needs no feat; in their place: Weapon Focus (breaker*).*  
 **Skills** Handle Animal +8, Intimidate +8, Perception +8, Ride +3, Survival +8  
 **Languages** Common, Plains Tribe  
 **SQ** fast movement

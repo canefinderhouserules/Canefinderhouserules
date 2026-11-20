@@ -1,6 +1,6 @@
 # Sandling
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Sandling&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;N Large outsider (elemental, extraplanar, earth)&quot;,&quot;init&quot;:1,&quot;senses&quot;:&quot;darkvision 60 ft., tremorsense&quot;,&quot;ac&quot;:&quot;17, touch 10, flat-footed 16&quot;,&quot;hp&quot;:&quot;26 (4d10+4)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:2,&quot;Will&quot;:4},&quot;defense&quot;:&quot;DR 5/bludgeoning; Immune elemental traits; Weaknesses vulnerability to water&quot;,&quot;speed&quot;:&quot;30 ft., burrow 20 ft.; space 10 ft., reach 5 ft&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:4,&quot;special&quot;:[{&quot;name&quot;:&quot;Vulnerability to Water&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;For every 2 gallons of water that hit a sandling, it is slowed (as the slow spell) for 1 round (no save).&quot;}],&quot;abilities&quot;:&quot;Str 17, Dex 13, Con 13, Int 4, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +8; CMD 19 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Perception&quot;:10,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Power Attack, Skill Focus (Perception)&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Sandling&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;N Large outsider (elemental, extraplanar, earth)&quot;,&quot;init&quot;:1,&quot;senses&quot;:&quot;darkvision 60 ft., tremorsense&quot;,&quot;ac&quot;:&quot;17, touch 10, flat-footed 16&quot;,&quot;hp&quot;:&quot;26 (4d10+4)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:2,&quot;Will&quot;:4},&quot;defense&quot;:&quot;DR 5/bludgeoning; Immune elemental traits; Weaknesses vulnerability to water&quot;,&quot;speed&quot;:&quot;30 ft., burrow 20 ft.; space 10 ft., reach 5 ft&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:4,&quot;special&quot;:[{&quot;name&quot;:&quot;Vulnerability to Water&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;For every 2 gallons of water that hit a sandling, it is slowed (as the slow spell) for 1 round (no save).&quot;}],&quot;abilities&quot;:&quot;Str 17, Dex 13, Con 13, Int 4, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +4; CMB +8; CMD 19 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Perception&quot;:10,&quot;CMB&quot;:8},&quot;feats&quot;:&quot;Skill Focus (Perception), Weapon Focus (bite); Power Attack (no feat needed)&quot;}"></div>
 
 ## Sandling (CR 2)
 
@@ -29,7 +29,7 @@
 
  **Speed** 30 ft., burrow 20 ft.  
 
-**Melee** bite +6 (1d8+4)  
+**Melee** bite +7 (1d8+4)  
 
 **Space** 10 ft.; **Reach** 5 ft  
 
@@ -41,7 +41,8 @@
 
 **Base Atk** +4; **CMB** +8; **CMD** 19 (can’t be tripped)  
 
-**Feats** Power Attack, Skill Focus (Perception)  
+**Feats** Skill Focus (Perception), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md); [Power Attack](../../rules/feats/power-attack.md) (no feat needed)  
+*House rules: Power Attack needs no feat; in their place: Weapon Focus (bite).*  
 
 **Skills** Perception +10  
 
