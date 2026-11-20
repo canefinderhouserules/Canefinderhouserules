@@ -279,10 +279,12 @@ function buildSub(sub) {
       }
     });
   }
-  // elements (Naruto): the common ones; a shinobi has one of them
-  const elements = sub.elements ? [...read(D + sub.elements).split(/^## Extra Elements/m)[0].matchAll(/^\*\*(\w+):\*\*/gm)].map(m => m[1]) : [];
+  // elements (Naruto): the common ones (the classes' Elemental Affinity) and the extra ones, each taken as a feat
+  const elPage = sub.elements ? read(D + sub.elements).split(/^## Extra Elements/m) : ['', ''];
+  const elements = sub.elements ? [...elPage[0].matchAll(/^\*\*(\w+):\*\*/gm)].map(m => m[1]) : [];
+  const extraElements = sub.elements ? [...(elPage[1] || '').matchAll(/^\*\*(\w+):\*\*/gm)].map(m => m[1]) : [];
 
-  fs.writeFileSync(path.join(DOCS, 'tools', sub.out), JSON.stringify({ sub: sub.id, dir: D, classes, lists, texts, generic, weapons, forms, powers, elements }));
+  fs.writeFileSync(path.join(DOCS, 'tools', sub.out), JSON.stringify({ sub: sub.id, dir: D, classes, lists, texts, generic, weapons, forms, powers, elements, extraElements }));
   console.log(sub.out + ':', classes.map(c => c.n + ' (' + c.table.length + ' levels, d' + c.die + ', ' + c.stamina + ' stamina)').join(', ') + ';', total, 'listed features (' + exact + ' with an exact level, ' + withText + ' with text),',
     generic.length, 'generic,', weapons.length, 'weapons,', forms.length, 'forms,', powers.length, 'powers,', elements.length, 'elements');
 }

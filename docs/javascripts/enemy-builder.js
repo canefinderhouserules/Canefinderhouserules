@@ -630,6 +630,7 @@
         if (!noSave) { b.dc = 10 + lvl + am + sfN + (D.sw ? D.sw.karma.dc : 0); b.save = sv; }
         var r = (DATA.rolls[sp.u] || [])[scl - 1];
         if (r) Object.keys(r).forEach(function (k) { b[k] = r[k]; });
+        if (sp.conv) { b.name += ' [' + sp.conv + ']'; if (b.damageLabel) b.damageLabel = b.damageLabel.replace(ENERGY_RE, sp.conv); }
         var du = durationAt(info.du, scl); if (du) b.duration = du;
         if (c.kind === 'Force Powers') b.cost = sp.fp && FP_BY[sp.n.toLowerCase()] ? FP_BY[sp.n.toLowerCase()].cost : SW_COST[lvl];
         return b;
@@ -698,7 +699,7 @@
     if (D.feats.length || mfeats.length) m.feats = D.feats.concat(mfeats).join(', ');
     if (S.languages) m.languages = S.languages;
     if (S.sq) m.sq = S.sq;
-    if (D.sw && (D.sw.force || S.sw.karma || S.sw.element)) m.sq = [S.sq, D.sw.force ? 'Force sensitive' : '', S.sw.karma ? 'karma ' + sgn(S.sw.karma).replace('–', '-') : '', S.sw.element ? 'elemental affinity (' + S.sw.element.toLowerCase() + ')' : ''].filter(Boolean).join(', ');
+    if (D.sw && (D.sw.force || S.sw.karma || S.sw.element)) m.sq = [S.sq, D.sw.force ? 'Force sensitive' : '', S.sw.karma ? 'karma ' + sgn(S.sw.karma).replace('–', '-') : '', S.sw.element ? 'elemental affinity (' + (S.sw.elements || [S.sw.element]).join(', ').toLowerCase() + ')' : ''].filter(Boolean).join(', ');
     if (S.gear) m.gear = S.gear;
     return m;
   }
@@ -1295,14 +1296,24 @@
     'ray-of-frost': 'Cryo Shot', 'snowball': 'Cryo Grenade', 'cloudkill': 'Toxin Cloud', 'solid-fog': 'Foam Dispenser', 'sleet-storm': 'Cryo Storm', 'shout': 'Sonic Blaster', 'disintegrate': 'Disruptor',
     'chain-lightning': 'Arc Caster', 'detect-magic': 'Scanner', 'spider-climb': 'Climbing Claws', 'knock': 'Lock Breaker', 'magic-weapon': 'Weapon Mod', 'keen-edge': 'Vibroblade Edge', 'hold-person': 'Stun Ray',
     'slow': 'Stasis Field', 'dispel-magic': 'EMP Burst', 'enlarge-person': 'Power Armor', 'displacement': 'Holo Shroud', 'true-strike': 'Targeting Computer', 'protection-from-energy': 'Energy Shield' };
-  var ELEMENT_DESC = { Fire: /fire/, Water: /water|cold/, Earth: /earth|acid/, Wind: /air|sonic/, Lightning: /electricity/ };
+  // the spells that are an element's own (by descriptor), and the damage an element's jutsu deal when a spell of another
+  // energy is turned into one of its (the subsystem lets a jutsu take any spell and change its element)
+  var ELEMENT_DESC = { Fire: /fire/, Water: /water|cold/, Earth: /earth|acid/, Wind: /air|sonic/, Lightning: /electricity/, Ice: /cold|water/, Lava: /fire|earth/,
+    Wood: /plant|wood|earth/, Storm: /electricity|water|air/, Explosion: /fire|sonic/, Steam: /fire|water/, Crystal: /earth/, Mud: /earth|water|acid/, Scorch: /fire|air/,
+    Magnetism: /earth|electricity|force/ };
+  var ELEMENT_ENERGY = { Fire: 'fire', Water: 'cold', Earth: 'acid', Wind: 'sonic', Lightning: 'electricity', Ice: 'cold', Lava: 'fire', Wood: 'piercing', Storm: 'electricity',
+    Explosion: 'fire', Steam: 'fire', Crystal: 'piercing', Mud: 'acid', Scorch: 'fire', Magnetism: 'bludgeoning' };
+  var HERO_ENERGY = { fire: 'fire', cold: 'cold', lightning: 'electricity', sonic: 'sonic', acid: 'acid' };
+  var ENERGY_RE = /fire|cold|acid|electricity|sonic/;
+  // a damage spell of an energy (one a jutsu or power can take and turn into its own energy)
+  function energyDamage(s) { var r = (DATA.rolls[s.u] || [])[9] || (DATA.rolls[s.u] || [])[4]; return !!(r && r.damage && ENERGY_RE.test((s.d || []).join(' ') + ' ' + (r.damageLabel || ''))); }
   var HERO_THEMES = { fire: /fire/, cold: /cold/, lightning: /electricity/, sonic: /sonic/, acid: /acid/, mind: /mind-affecting/, force: /force/ };
   function titleCase(t) { return String(t).replace(/(^|[\s(-])([a-z])/g, function (_, a, b) { return a + b.toUpperCase(); }); }
   // what kind of powers a subsystem enemy has: Force (light or dark side) or tech in Star Wars, its element's jutsu
   // and genjutsu in Naruto, one power theme in Heroes; none for a Star Wars warrior without the Force
   function powerFlavor(role) {
     if (MODE === 'starwars') return S.sw.force ? { kind: 'force', dark: (S.sw.karma || 0) < 0 } : role === 'specialist' ? { kind: 'tech', title: 'Tech' } : null;
-    if (MODE === 'chakra') return { kind: 'jutsu', element: S.sw.element || 'Fire' };
+    if (MODE === 'chakra') return { kind: 'jutsu', element: S.sw.element || '', elements: S.sw.elements || (S.sw.element ? [S.sw.element] : []), chosen: !!S.sw.elementChosen };
     if (MODE === 'superheroes') { var th = pick(Object.keys(HERO_THEMES)); return { kind: 'hero', theme: th }; }
     return null;
   }
@@ -1335,7 +1346,9 @@
       return false;
     }
     if (f.kind === 'jutsu') {
-      if (ELEMENT_DESC[f.element] && ELEMENT_DESC[f.element].test(desc)) return 'element';
+      for (var ei = 0; ei < f.elements.length; ei++) if (ELEMENT_DESC[f.elements[ei]] && ELEMENT_DESC[f.elements[ei]].test(desc)) return 'element:' + f.elements[ei];
+      // a damage spell of another energy becomes the element's
+      if (f.element && energyDamage(s) && !/good|evil|lawful|chaotic/.test(desc)) return 'convert:' + f.element;
       if (/fire|cold|acid|water|earth|air|sonic|electricity|good|evil|lawful|chaotic/.test(desc) || ELEMENT_WORDS.test(n)) return false;
       if ((/illusion/.test(sch) || (/enchantment/.test(sch) && /mind-affecting/.test(desc))) && !self && s.sv && !/none|harmless/i.test(s.sv)) return 'genjutsu';
       if (/transmutation|abjuration/.test(sch) && self && !/form|shape|polymorph|alter self|giant|beast/i.test(n)) return 'ninjutsu';
@@ -1344,6 +1357,7 @@
     }
     if (f.kind === 'hero') {
       if (HERO_THEMES[f.theme].test(desc)) return true;
+      if (HERO_ENERGY[f.theme] && energyDamage(s) && !/good|evil|lawful|chaotic/.test(desc)) return 'convert';
       return self && /transmutation|abjuration/.test(sch) && !/form|shape|polymorph|alter self|beast/i.test(n) && !/good|evil|lawful|chaotic/.test(desc);
     }
     return false;
@@ -1351,7 +1365,7 @@
   function powerName(s, f, fit) {
     if (f.kind === 'force') return FORCE_ALIAS[s.u] || '';
     if (f.kind === 'tech') return TECH_ALIAS[s.u] || '';
-    if (f.kind === 'jutsu') return (fit === 'element' ? f.element + ' Style' : fit === 'genjutsu' ? 'Genjutsu' : 'Ninjutsu') + ': ' + titleCase(s.n);
+    if (f.kind === 'jutsu') return (/^(element|convert):/.test(fit) ? fit.split(':')[1] + ' Style' : fit === 'genjutsu' ? 'Genjutsu' : 'Ninjutsu') + ': ' + titleCase(s.n);
     return '';
   }
   // n powers of spell level L for the flavor: the ones with a setting name and the ones that roll damage are likelier
@@ -1359,7 +1373,9 @@
     if (n <= 0) return [];
     var pool = Object.keys(SPELLS).map(function (u) { return SPELLS[u]; }).map(function (s) {
       var lv = spellLevelAny(s), fit = lv === L && have.indexOf(s.u) < 0 && powerFits(s, f);
-      return fit ? { s: s, fit: fit, score: Math.random() + ((f.kind === 'force' ? FORCE_ALIAS : f.kind === 'tech' ? TECH_ALIAS : {})[s.u] ? 1.2 : 0) + (DATA.rolls[s.u] ? 1 : 0) + (fit === 'element' ? 0.8 : 0)
+      return fit ? { s: s, fit: fit, score: Math.random() + ((f.kind === 'force' ? FORCE_ALIAS : f.kind === 'tech' ? TECH_ALIAS : {})[s.u] ? 1.2 : 0) + (DATA.rolls[s.u] ? 1 : 0) + (/^element/.test(fit) || (fit === true && f.kind === 'hero' && HERO_ENERGY[f.theme]) ? 0.8 : /^convert/.test(fit) ? 0.5 : 0)
+        // its main element (the one asked for, when there is one) comes first
+        + (f.element && /^(element|convert):/.test(fit) && fit.split(':')[1] === f.element ? (f.chosen ? 1.2 : 0.4) : 0)
         // a fight wants damage or a save; utility (stone shape, whispering wind) is unlikely
         + (s.sv && !/none|harmless/i.test(s.sv) ? 0.5 : 0) - (!DATA.rolls[s.u] && (!s.sv || /none|harmless/i.test(s.sv)) ? 0.8 : 0) } : null;
     }).filter(Boolean).sort(function (a, b) { return b.score - a.score; });
@@ -1368,10 +1384,13 @@
       var as = powerName(p.s, f, p.fit);
       if (out.length >= n || (as && seen[as])) return;
       // a shinobi keeps a place for a genjutsu or ninjutsu at each level
-      if (p.fit === 'element' && n > 1 && elem >= Math.ceil(n * 2 / 3)) return;
-      if (p.fit === 'element') elem++;
+      var elemental = /^(element|convert)/.test(p.fit);
+      if (f.kind === 'jutsu' && elemental && n > 1 && elem >= Math.ceil(n * 2 / 3)) return;
+      if (elemental) elem++;
       if (as) seen[as] = 1;
-      out.push({ n: p.s.n, u: p.s.u, lvl: L, uses: '', as: as || undefined });
+      // the energy it deals now, when it was a spell of another one
+      var conv = /^convert/.test(p.fit) ? (f.kind === 'jutsu' ? ELEMENT_ENERGY[p.fit.split(':')[1]] : HERO_ENERGY[f.theme]) : '';
+      out.push({ n: p.s.n, u: p.s.u, lvl: L, uses: '', as: as || undefined, conv: conv || undefined });
     });
     return out;
   }
@@ -1480,7 +1499,22 @@
       S.classes = [c];
       S.sw = { karma: SUB.karma ? (chance(0.65) ? -10 * (1 + rnd(Math.min(10, 1 + Math.floor(lvl / 2)))) : chance(0.3) ? 10 * (1 + rnd(3)) : 0) : 0,
         force: !!SUB.force && (role === 'caster' || (role === 'martial' && chance(0.35))), abil: role === 'caster' ? pick(['Wis', 'Wis', 'Cha', 'Int']) : 'Wis' };
-      if (SUB.elements && SWD.elements.length) S.sw.element = pick(SWD.elements);
+      // its elements: as many common ones as its Elemental Affinity gives by now (the Jutsu Master gets more at 5th, 10th
+      // and 15th), or the one asked for: a unique element needs the Elemental Bloodline feat, and a common one before the class gives one needs
+      // the Extra Elemental Affinity feat
+      if (SUB.elements && SWD.elements.length) {
+        var aff = (d.special || []).map(function (t, i) { return /Elemental Affinity/i.test(t) ? i + 1 : 0; }).filter(function (x) { return x && x <= lvl; }).length
+          + (role === 'caster' ? [5, 10, 15].filter(function (x) { return x <= lvl; }).length : 0);
+        var els = [], need = [], extraEls = SWD.extraElements || [];
+        if (opts.element) {
+          els.push(opts.element);
+          if (extraEls.indexOf(opts.element) >= 0) need.push('Elemental Bloodline (' + opts.element.toLowerCase() + ')'); // its 1st-level feat (bloodline techniques)
+          else if (aff > 0) aff--; else need.push('Extra Elemental Affinity');
+        }
+        for (; aff > 0; aff--) { var ne = SWD.elements.filter(function (x) { return els.indexOf(x) < 0; }); if (!ne.length) break; els.push(pick(ne)); }
+        if (!els.length && chance(0.3)) { els.push(pick(SWD.elements)); need.push('Extra Elemental Affinity'); }
+        S.sw.elements = els; S.sw.element = els[0] || ''; S.sw.needFeats = need; S.sw.elementChosen = !!opts.element;
+      }
       if (role === 'martial') setAbil(['Str', 'Con', 'Dex', 'Wis', 'Int', 'Cha'], [16, 14, 14, 12, 10, 8]);
       else if (role === 'specialist') setAbil(['Dex', 'Int', 'Con', 'Wis', 'Cha', 'Str'], [16, 14, 13, 12, 10, 10]);
       else setAbil([S.sw.abil, 'Dex', 'Con', S.sw.abil === 'Wis' ? 'Cha' : 'Wis', 'Str', S.sw.abil === 'Int' ? 'Cha' : 'Int'], [16, 14, 14, 12, 10, 10]);
@@ -1662,7 +1696,8 @@
       if (n && F.length < D0.featSlots && F.indexOf(n) < 0) F.push(n);
     };
     // one or two builds: feat chains that work together, with what they need (weapons, scores, ranks, a spell)
-    // bonus feats a class gives by name go in first (the White-Haired Witch's Hex Strike)
+    // feats an element needs (Naruto), then bonus feats a class gives by name (the White-Haired Witch's Hex Strike), go in first
+    ((S.sw && S.sw.needFeats) || []).forEach(function (n) { if (F.indexOf(n) < 0) F.push(n); });
     if ((S.classes || []).some(function (c) { return c.whw && c.lvl >= 5; }) && featOk('Hex Strike')) addF('Hex Strike');
     var builds = shuffle(randomBuilds(concept, D0, sk)).slice(0, D0.featSlots >= 6 ? 2 : 1);
     builds.forEach(function (b) { if (b.setup) b.setup(); });
@@ -1787,6 +1822,9 @@
       ? h('select', { class: 'eb-s' }, [h('option', { value: '', text: 'any class' })].concat(SWD.classes.map(function (c) { return h('option', { value: c.s, text: c.n }); })))
       : h('select', { class: 'eb-s' }, [h('option', { value: '', text: 'any type' })].concat(Object.keys(TYPES).map(function (t) { return h('option', { value: t, text: t }); })));
     var tierIn = h('input', { type: 'number', class: 'eb-t eb-short', value: 0, min: 0, max: 10 });
+    var elemSel = MODE === 'chakra' ? h('select', { class: 'eb-s' }, [h('option', { value: '', text: 'any (as its class gives)' }),
+      h('optgroup', { label: 'Elements' }, (SWD.elements || []).map(function (e) { return h('option', { value: e, text: e }); })),
+      h('optgroup', { label: 'Unique elements (Elemental Bloodline feat)' }, (SWD.extraElements || []).map(function (e) { return h('option', { value: e, text: e }); }))]) : null;
     var clsSel = SWM ? null : h('select', { class: 'eb-s' }, [h('option', { value: '', text: 'any (or none)' }),
       h('optgroup', { label: 'Classes' }, DATA.classes.filter(function (c) { return !c.npc; }).map(function (c) { return h('option', { value: c.s, text: c.n }); })),
       h('optgroup', { label: 'NPC classes' }, DATA.classes.filter(function (c) { return c.npc; }).map(function (c) { return h('option', { value: c.s, text: c.n }); }))]);
@@ -1799,6 +1837,7 @@
       field('CR', crIn, '1/8, 1/4, 1/2, 1, 2… 30'),
       field(SWM ? 'Class' : 'Creature type', kindSel),
       clsSel ? field('Class', clsSel, 'empty: as the creature type goes') : null,
+      elemSel ? field('Element', elemSel, 'empty: as its class gives') : null,
       field('Size', sizeSel),
       field('Mythic tier', tierIn, '0 = not mythic; Unbound Path'),
       msg,
@@ -1810,6 +1849,7 @@
       if (!(v > 0) || v > 30) { e.preventDefault(); msg.textContent = 'That is not a CR: try 1/2, 3 or 12.'; crIn.focus(); return; }
       if (v >= 1) t = String(Math.round(v)); else if (CRS.indexOf(t) < 0) t = ['1/8', '1/6', '1/4', '1/3', '1/2'].reduce(function (b, k) { return Math.abs(crValue(k) - v) < Math.abs(crValue(b) - v) ? k : b; });
       var opts = { size: sizeSel.value || '', tier: Math.max(0, Math.min(10, parseInt(tierIn.value, 10) || 0)) };
+      if (elemSel) opts.element = elemSel.value || '';
       if (SWM) opts.cls = kindSel.value || ''; else { opts.type = kindSel.value || ''; opts.cls = clsSel.value || ''; }
       setTimeout(function () { dlg.remove(); onOk(t, opts); }, 0);
     });
@@ -2260,7 +2300,7 @@
                 ? h('span', { class: 'eb-inline' }, '×', numBox(function () { return +sp.uses || 1; }, function (v) { sp.uses = v; }, { min: 1, max: 9 }))
                 : h('span', { class: 'eb-inline' }, textBox(function () { return sp.uses; }, function (v) { sp.uses = v; }, { ph: 'per day', cls: 'eb-short' }));
             list.appendChild(h('div', { class: 'eb-spell' },
-              h('a', { href: new URL(sp.fp ? SUB.powersPage : 'magic/spells/' + sp.u + '/', BASE).href, target: '_blank', text: sp.as ? sp.as + (sp.as.toLowerCase().indexOf(sp.n.toLowerCase()) >= 0 ? '' : ' (' + sp.n + ')') : sp.n }),
+              h('a', { href: new URL(sp.fp ? SUB.powersPage : 'magic/spells/' + sp.u + '/', BASE).href, target: '_blank', text: (sp.as ? sp.as + (sp.as.toLowerCase().indexOf(sp.n.toLowerCase()) >= 0 ? '' : ' (' + sp.n + ')') : sp.n) + (sp.conv ? ' [' + sp.conv + ']' : '') }),
               h('span', { class: 'eb-inline' }, 'lvl', numBox(function () { return sp.lvl; }, function (v) { sp.lvl = v; }, { min: 0, max: 9 })),
               usesCtl, out,
               h('button', { type: 'button', class: 'eb-x', text: '×', title: 'Remove', onclick: function () { c.spells.splice(i, 1); changed(); redraw(); } })));
