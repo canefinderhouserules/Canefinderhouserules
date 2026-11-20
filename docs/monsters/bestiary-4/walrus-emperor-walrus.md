@@ -1,6 +1,6 @@
 # Walrus, Emperor Walrus
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Emperor Walrus&quot;,&quot;cr&quot;:&quot;8&quot;,&quot;xp&quot;:&quot;4,800&quot;,&quot;line&quot;:&quot;N Gargantuan animal&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;20, touch 5, flat-footed 20&quot;,&quot;hp&quot;:&quot;138 (12d8+84)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:14,&quot;Ref&quot;:7,&quot;Will&quot;:8},&quot;speed&quot;:&quot;20 ft., swim 60 ft.; space 20 ft., reach 15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[16],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;4d6&quot;,&quot;mod&quot;:15,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;slam&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[15],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:15,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus trip&quot;}]],&quot;rangedTouch&quot;:4,&quot;abilities&quot;:&quot;Str 31, Dex 9, Con 22, Int 2, Wis 15, Cha 6&quot;,&quot;combat&quot;:&quot;BAB +9; CMB +23; CMD 32 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Perception&quot;:16,&quot;Swim&quot;:22,&quot;CMB&quot;:23},&quot;feats&quot;:&quot;Toughness, Improved Critical (bite), Iron Will, Vital Strike, Weapon Focus (bite), Improved Initiative&quot;,&quot;sq&quot;:&quot;hold breath&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Emperor Walrus&quot;,&quot;cr&quot;:&quot;8&quot;,&quot;xp&quot;:&quot;4,800&quot;,&quot;line&quot;:&quot;N Gargantuan animal&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;low-light vision&quot;,&quot;ac&quot;:&quot;20, touch 5, flat-footed 20&quot;,&quot;hp&quot;:&quot;180 (12d8+84)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:14,&quot;Ref&quot;:7,&quot;Will&quot;:8},&quot;speed&quot;:&quot;20 ft., swim 60 ft.; space 20 ft., reach 15 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[16],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;4d6&quot;,&quot;mod&quot;:15,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}],[{&quot;name&quot;:&quot;slam&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[15],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:15,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus trip&quot;}]],&quot;rangedTouch&quot;:4,&quot;abilities&quot;:&quot;Str 31, Dex 9, Con 22, Int 2, Wis 15, Cha 6&quot;,&quot;combat&quot;:&quot;BAB +9; CMB +23; CMD 32 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Perception&quot;:16,&quot;Swim&quot;:22,&quot;CMB&quot;:23},&quot;feats&quot;:&quot;Toughness, Improved Critical (bite), Iron Will, Vital Strike, Weapon Focus (bite), Improved Initiative&quot;,&quot;sq&quot;:&quot;hold breath&quot;}"></div>
 
 ## Emperor Walrus (CR 8)
 
@@ -11,7 +11,7 @@ N Gargantuan animal
 **Defense**
 
 **AC** 20, touch 5, flat-footed 20 (–1 Dex, +15 natural, –4 size)  
-**hp** 138 (12d8+84)  
+**hp** 180 (12d8+84)  
 **Fort** +14, **Ref** +7, **Will** +8
 
 **Offense**

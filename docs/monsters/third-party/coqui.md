@@ -1,6 +1,6 @@
 # Coqui
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Coqui&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;CG Fine magical beast&quot;,&quot;init&quot;:8,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;22, touch 22, flat-footed 18&quot;,&quot;hp&quot;:&quot;13 (3d10-3)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:2,&quot;Ref&quot;:7,&quot;Will&quot;:2},&quot;speed&quot;:&quot;10 ft.; climb 20 ft.; swim 20 ft.; space -; Reach—&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d2&quot;,&quot;mod&quot;:-5,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;coqui song (5 ft. burst, Fort DC 14, 2d6 sonic)&quot;,&quot;rangedTouch&quot;:15,&quot;abilities&quot;:&quot;Str 1, Dex 18, Con 8, Int 7, Wis 13, Cha 14&quot;,&quot;combat&quot;:&quot;BAB +3; CMB -5; CMD 1 (5 vs. trip)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:12,&quot;Climb&quot;:9,&quot;Stealth&quot;:28,&quot;Swim&quot;:5,&quot;Perception&quot;:1,&quot;CMB&quot;:-5},&quot;feats&quot;:&quot;Athletic, Improved Initiative&quot;,&quot;languages&quot;:&quot;understands Common&quot;,&quot;sq&quot;:&quot;coqui glyph, coqui song&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Coqui&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;CG Fine magical beast&quot;,&quot;init&quot;:8,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision&quot;,&quot;ac&quot;:&quot;22, touch 22, flat-footed 18&quot;,&quot;hp&quot;:&quot;27 (3d10-3)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:2,&quot;Ref&quot;:7,&quot;Will&quot;:2},&quot;speed&quot;:&quot;10 ft.; climb 20 ft.; swim 20 ft.; space -; Reach—&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d2&quot;,&quot;mod&quot;:-5,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;coqui song (5 ft. burst, Fort DC 14, 2d6 sonic)&quot;,&quot;rangedTouch&quot;:15,&quot;abilities&quot;:&quot;Str 1, Dex 18, Con 8, Int 7, Wis 13, Cha 14&quot;,&quot;combat&quot;:&quot;BAB +3; CMB -5; CMD 1 (5 vs. trip)&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:12,&quot;Climb&quot;:9,&quot;Stealth&quot;:28,&quot;Swim&quot;:5,&quot;Perception&quot;:1,&quot;CMB&quot;:-5},&quot;feats&quot;:&quot;Athletic, Improved Initiative&quot;,&quot;languages&quot;:&quot;understands Common&quot;,&quot;sq&quot;:&quot;coqui glyph, coqui song&quot;}"></div>
 
 ## Coqui (CR 2)
 
@@ -13,7 +13,7 @@ CG Fine magical beast
 
 
 **AC** 22, touch 22, flat-footed 18 (+4 Dex, +8 size)  
-**hp** 13 (3d10-3)  
+**hp** 27 (3d10-3)  
 **Fort** +2, **Ref** +7, **Will** +2  
 **Immunity** mind-affecting effects  
 

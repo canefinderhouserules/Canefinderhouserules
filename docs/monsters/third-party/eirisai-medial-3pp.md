@@ -1,6 +1,6 @@
 # Ei’risai, Medial (3pp)
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Ei’risai, Medial&quot;,&quot;cr&quot;:&quot;8&quot;,&quot;xp&quot;:&quot;4,800&quot;,&quot;line&quot;:&quot;CN Large outsider ( chaotic, extraplanar)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;darkvision 60 ft.; Perception + 5&quot;,&quot;ac&quot;:&quot;19, touch 12, flat-footed 16&quot;,&quot;hp&quot;:&quot;76 (8d10+32)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:10,&quot;Ref&quot;:9,&quot;Will&quot;:2},&quot;defense&quot;:&quot;Immune one energy type (random; see Table: Energy Immunity); Resist all other energy types 5&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;rangedTouch&quot;:-1,&quot;checks&quot;:{&quot;CMB&quot;:0}}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Ei’risai, Medial&quot;,&quot;cr&quot;:&quot;8&quot;,&quot;xp&quot;:&quot;4,800&quot;,&quot;line&quot;:&quot;CN Large outsider ( chaotic, extraplanar)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;darkvision 60 ft.; Perception + 5&quot;,&quot;ac&quot;:&quot;19, touch 12, flat-footed 16&quot;,&quot;hp&quot;:&quot;112 (8d10+32)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:10,&quot;Ref&quot;:9,&quot;Will&quot;:2},&quot;defense&quot;:&quot;Immune one energy type (random; see Table: Energy Immunity); Resist all other energy types 5&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;rangedTouch&quot;:-1,&quot;checks&quot;:{&quot;CMB&quot;:0}}"></div>
 
 ## Ei’risai, Medial (CR 8)
 
@@ -11,7 +11,7 @@
 **Defense**
 
  **AC** 19, touch 12, flat-footed 16 (+3 Dex, +7 natural, –1 size)  
- **hp** 76 (8d10+32)**; fast healing** 5  
+ **hp** 112 (8d10+32)**; fast healing** 5  
  **Fort** +10, **Ref** +9, **Will** +2  
  **Immune** one energy type (random; see Table: Energy Immunity); **Resist** all other energy types 5
 

@@ -1,6 +1,6 @@
 # Dinosaur, Tyrannosaurus
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Tyrannosaurus&quot;,&quot;cr&quot;:&quot;9&quot;,&quot;xp&quot;:&quot;6,400&quot;,&quot;line&quot;:&quot;N Gargantuan animal&quot;,&quot;init&quot;:5,&quot;senses&quot;:&quot;low-light vision, scent&quot;,&quot;ac&quot;:&quot;21, touch 7, flat-footed 20&quot;,&quot;hp&quot;:&quot;171 (18d8+90)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:15,&quot;Ref&quot;:12,&quot;Will&quot;:10},&quot;speed&quot;:&quot;40 ft.; space 20 ft., reach 20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[21],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;4d6&quot;,&quot;mod&quot;:22,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus grab&quot;}]],&quot;specialAttacks&quot;:&quot;swallow whole (2d8+11, AC 17, hp 15)&quot;,&quot;rangedTouch&quot;:10,&quot;special&quot;:[{&quot;name&quot;:&quot;Powerful Bite&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A tyrannosaurus applies twice its Strength modifier to bite damage.&quot;}],&quot;abilities&quot;:&quot;Str 32, Dex 13, Con 19, Int 2, Wis 15, Cha 10&quot;,&quot;combat&quot;:&quot;BAB +13; CMB +28 (+32 grapple); CMD 39&quot;,&quot;checks&quot;:{&quot;Perception&quot;:37,&quot;CMB&quot;:28},&quot;feats&quot;:&quot;Bleeding Critical, Critical Focus, Toughness, Improved Critical (bite), Improved Initiative, Iron Will, Run, Skill Focus (Perception), Weapon Focus (bite)&quot;,&quot;sq&quot;:&quot;powerful bite&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Tyrannosaurus&quot;,&quot;cr&quot;:&quot;9&quot;,&quot;xp&quot;:&quot;6,400&quot;,&quot;line&quot;:&quot;N Gargantuan animal&quot;,&quot;init&quot;:5,&quot;senses&quot;:&quot;low-light vision, scent&quot;,&quot;ac&quot;:&quot;21, touch 7, flat-footed 20&quot;,&quot;hp&quot;:&quot;234 (18d8+90)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:15,&quot;Ref&quot;:12,&quot;Will&quot;:10},&quot;speed&quot;:&quot;40 ft.; space 20 ft., reach 20 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[21],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;4d6&quot;,&quot;mod&quot;:22,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus grab&quot;}]],&quot;specialAttacks&quot;:&quot;swallow whole (2d8+11, AC 17, hp 15)&quot;,&quot;rangedTouch&quot;:10,&quot;special&quot;:[{&quot;name&quot;:&quot;Powerful Bite&quot;,&quot;type&quot;:&quot;Ex&quot;,&quot;text&quot;:&quot;A tyrannosaurus applies twice its Strength modifier to bite damage.&quot;}],&quot;abilities&quot;:&quot;Str 32, Dex 13, Con 19, Int 2, Wis 15, Cha 10&quot;,&quot;combat&quot;:&quot;BAB +13; CMB +28 (+32 grapple); CMD 39&quot;,&quot;checks&quot;:{&quot;Perception&quot;:37,&quot;CMB&quot;:28},&quot;feats&quot;:&quot;Bleeding Critical, Critical Focus, Toughness, Improved Critical (bite), Improved Initiative, Iron Will, Run, Skill Focus (Perception), Weapon Focus (bite)&quot;,&quot;sq&quot;:&quot;powerful bite&quot;}"></div>
 
 ## Tyrannosaurus (CR 9)
 
@@ -11,7 +11,7 @@ N Gargantuan animal
 **Defense**
 
 **AC** 21, touch 7, flat-footed 20 (+1 Dex, +14 natural, –4 size)  
-**hp** 171 (18d8+90)  
+**hp** 234 (18d8+90)  
 **Fort** +15, **Ref** +12, **Will** +10
 
 **Offense**

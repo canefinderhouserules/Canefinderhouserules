@@ -1,6 +1,6 @@
 # Orc
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Orc&quot;,&quot;cr&quot;:&quot;1/3&quot;,&quot;xp&quot;:&quot;135&quot;,&quot;line&quot;:&quot;Orc warrior 1, CE Medium humanoid&quot;,&quot;init&quot;:0,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;13, touch 10, flat-footed 13&quot;,&quot;hp&quot;:&quot;6 (1d10+1)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:3,&quot;Ref&quot;:0,&quot;Will&quot;:-1},&quot;defense&quot;:&quot;ferocity; Weaknesses light sensitivity&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;falchion&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d4&quot;,&quot;mod&quot;:4,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;javelin&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[1],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:1,&quot;abilities&quot;:&quot;Str 17, Dex 11, Con 12, Int 7, Wis 8, Cha 6&quot;,&quot;combat&quot;:&quot;BAB +1; CMB +4; CMD 14&quot;,&quot;checks&quot;:{&quot;Intimidate&quot;:2,&quot;Perception&quot;:-1,&quot;CMB&quot;:4},&quot;feats&quot;:&quot;Weapon Focus (falchion)&quot;,&quot;languages&quot;:&quot;Common, Orc&quot;,&quot;sq&quot;:&quot;weapon familiarity&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Orc&quot;,&quot;cr&quot;:&quot;1/3&quot;,&quot;xp&quot;:&quot;135&quot;,&quot;line&quot;:&quot;Orc warrior 1, CE Medium humanoid&quot;,&quot;init&quot;:0,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;13, touch 10, flat-footed 13&quot;,&quot;hp&quot;:&quot;11 (1d10+1)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:3,&quot;Ref&quot;:0,&quot;Will&quot;:-1},&quot;defense&quot;:&quot;ferocity; Weaknesses light sensitivity&quot;,&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;falchion&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d4&quot;,&quot;mod&quot;:4,&quot;threat&quot;:18,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;ranged&quot;:[[{&quot;name&quot;:&quot;javelin&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[1],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:1,&quot;abilities&quot;:&quot;Str 17, Dex 11, Con 12, Int 7, Wis 8, Cha 6&quot;,&quot;combat&quot;:&quot;BAB +1; CMB +4; CMD 14&quot;,&quot;checks&quot;:{&quot;Intimidate&quot;:2,&quot;Perception&quot;:-1,&quot;CMB&quot;:4},&quot;feats&quot;:&quot;Weapon Focus (falchion)&quot;,&quot;languages&quot;:&quot;Common, Orc&quot;,&quot;sq&quot;:&quot;weapon familiarity&quot;}"></div>
 
 ## Orc (CR 1/3)
 
@@ -12,7 +12,7 @@ CE Medium humanoid
 **Defense**
 
 **AC** 13, touch 10, flat-footed 13 (+3 armor)  
-**hp** 6 (1d10+1)  
+**hp** 11 (1d10+1)  
 **Fort** +3, **Ref** +0, **Will** –1  
 **Defensive Abilities** ferocity  
 **Weaknesses** light sensitivity

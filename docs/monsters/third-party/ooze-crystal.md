@@ -1,6 +1,6 @@
 # Ooze, Crystal
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Crystal Ooze&quot;,&quot;cr&quot;:&quot;4&quot;,&quot;xp&quot;:&quot;1,200&quot;,&quot;line&quot;:&quot;N Medium ooze (aquatic)&quot;,&quot;init&quot;:0,&quot;senses&quot;:&quot;blindsight 60 ft.&quot;,&quot;ac&quot;:&quot;5, touch 5, flat-footed 5&quot;,&quot;hp&quot;:&quot;50 (4d8+32)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:9,&quot;Ref&quot;:0,&quot;Will&quot;:0},&quot;saveNote&quot;:&quot;Ref-4, Will-4&quot;,&quot;defense&quot;:&quot;ooze traits; Immune cold, fire&quot;,&quot;speed&quot;:&quot;10 ft., swim 30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slam&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1d6 acid and grab&quot;}]],&quot;specialAttacks&quot;:&quot;acid, paralysis&quot;,&quot;rangedTouch&quot;:-2,&quot;abilities&quot;:&quot;Str 16, Dex 1, Con 26, Int—, Wis 1, Cha 1&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +6 (+10 grapple); CMD 11 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Perception&quot;:-5,&quot;CMB&quot;:6},&quot;sq&quot;:&quot;transparent&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Crystal Ooze&quot;,&quot;cr&quot;:&quot;4&quot;,&quot;xp&quot;:&quot;1,200&quot;,&quot;line&quot;:&quot;N Medium ooze (aquatic)&quot;,&quot;init&quot;:0,&quot;senses&quot;:&quot;blindsight 60 ft.&quot;,&quot;ac&quot;:&quot;5, touch 5, flat-footed 5&quot;,&quot;hp&quot;:&quot;64 (4d8+32)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:9,&quot;Ref&quot;:0,&quot;Will&quot;:0},&quot;saveNote&quot;:&quot;Ref-4, Will-4&quot;,&quot;defense&quot;:&quot;ooze traits; Immune cold, fire&quot;,&quot;speed&quot;:&quot;10 ft., swim 30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slam&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[6],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1d6 acid and grab&quot;}]],&quot;specialAttacks&quot;:&quot;acid, paralysis&quot;,&quot;rangedTouch&quot;:-2,&quot;abilities&quot;:&quot;Str 16, Dex 1, Con 26, Int—, Wis 1, Cha 1&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +6 (+10 grapple); CMD 11 (can’t be tripped)&quot;,&quot;checks&quot;:{&quot;Perception&quot;:-5,&quot;CMB&quot;:6},&quot;sq&quot;:&quot;transparent&quot;}"></div>
 
 ## Crystal Ooze (CR 4)
 
@@ -8,7 +8,7 @@
 N Medium ooze (aquatic)  
 Init—5; **Senses** blindsight 60 ft.; Perception –5  
    **DEFENSE**  **AC** 5, touch 5, flat-footed 5 (–5 Dex)  
-**hp** 50 (4d8+32)  
+**hp** 64 (4d8+32)  
 **Fort** +9, Ref—4, Will—4  
 **Defensive Abilities** ooze traits; **Immune** cold, fire  
    **OFFENSE**  **Speed** 10 ft., swim 30 ft.  

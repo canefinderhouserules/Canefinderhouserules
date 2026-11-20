@@ -176,4 +176,20 @@ function bumpAttack(html, attack, focus) {
   return html;
 }
 
-module.exports = { applyFeatRules, focusName };
+// House rule: enemies have maximum hit points. "85 (10d8+40)" -> 120 (10d8+40); every die at its top, plus every
+// constant in the expression ("(11d6+55 plus 15 false life)" -> 66+55+15; "+4 favored class +28 CON" counts both).
+function maxHp(html) {
+  return setField(html, 'hp', v => v.replace(/^(\s*)(\d+)(\s*\()([^)]*)\)/, (all, sp, total, open, expr) => {
+    const dice = [...expr.matchAll(/(\d+)d(\d+)/g)];
+    if (!dice.length) return all;
+    let max = dice.reduce((t, d) => t + parseInt(d[1], 10) * parseInt(d[2], 10), 0);
+    const rest = expr.replace(/\d+d\d+/g, ' ').replace(/[–—−]/g, '-');
+    for (const c of rest.matchAll(/(?:^|[\s+-]|plus\s+)([+-]?)\s*(\d+)(?!\s*(?:ft|\/|%))/g)) {
+      const sign = /-\s*$/.test(rest.slice(0, c.index + c[0].indexOf(c[2])).replace(/plus\s*$/, '')) && !/plus\s*$/.test(rest.slice(0, c.index + c[0].length - c[2].length)) ? -1 : 1;
+      max += sign * parseInt(c[2], 10);
+    }
+    return sp + Math.max(max, parseInt(total, 10)) + open + expr + ')';
+  }));
+}
+
+module.exports = { applyFeatRules, focusName, maxHp };

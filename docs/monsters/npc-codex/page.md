@@ -1,6 +1,6 @@
 # Page
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Page&quot;,&quot;cr&quot;:&quot;1/3&quot;,&quot;xp&quot;:&quot;135&quot;,&quot;line&quot;:&quot;Halfling aristocrat 1, N Small humanoid (halfling)&quot;,&quot;init&quot;:2,&quot;ac&quot;:&quot;13, touch 13, flat-footed 11&quot;,&quot;hp&quot;:&quot;3 (1d8-1)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:0,&quot;Ref&quot;:3,&quot;Will&quot;:3},&quot;saveNote&quot;:&quot;+2 vs. fear&quot;,&quot;speed&quot;:&quot;25 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[-1],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:-2,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:3,&quot;abilities&quot;:&quot;Str 6, Dex 15, Con 9, Int 12, Wis 10, Cha 12&quot;,&quot;combat&quot;:&quot;BAB +0; CMB -3; CMD 9&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:4,&quot;Climb&quot;:0,&quot;Diplomacy&quot;:5,&quot;Escape Artist&quot;:3,&quot;Knowledge (local)&quot;:5,&quot;Knowledge (nobility)&quot;:5,&quot;Perception&quot;:6,&quot;Stealth&quot;:7,&quot;CMB&quot;:-3},&quot;feats&quot;:&quot;Fleet&quot;,&quot;languages&quot;:&quot;Common, Halfling&quot;,&quot;gear&quot;:&quot;dagger, courtier’s outfit, 228 gp&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Page&quot;,&quot;cr&quot;:&quot;1/3&quot;,&quot;xp&quot;:&quot;135&quot;,&quot;line&quot;:&quot;Halfling aristocrat 1, N Small humanoid (halfling)&quot;,&quot;init&quot;:2,&quot;ac&quot;:&quot;13, touch 13, flat-footed 11&quot;,&quot;hp&quot;:&quot;7 (1d8-1)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:0,&quot;Ref&quot;:3,&quot;Will&quot;:3},&quot;saveNote&quot;:&quot;+2 vs. fear&quot;,&quot;speed&quot;:&quot;25 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;dagger&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[-1],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d3&quot;,&quot;mod&quot;:-2,&quot;threat&quot;:19,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:3,&quot;abilities&quot;:&quot;Str 6, Dex 15, Con 9, Int 12, Wis 10, Cha 12&quot;,&quot;combat&quot;:&quot;BAB +0; CMB -3; CMD 9&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:4,&quot;Climb&quot;:0,&quot;Diplomacy&quot;:5,&quot;Escape Artist&quot;:3,&quot;Knowledge (local)&quot;:5,&quot;Knowledge (nobility)&quot;:5,&quot;Perception&quot;:6,&quot;Stealth&quot;:7,&quot;CMB&quot;:-3},&quot;feats&quot;:&quot;Fleet&quot;,&quot;languages&quot;:&quot;Common, Halfling&quot;,&quot;gear&quot;:&quot;dagger, courtier’s outfit, 228 gp&quot;}"></div>
 
 ## Page (CR 1/3)
 
@@ -12,7 +12,7 @@ N Small humanoid (halfling)
 **Defense**
 
 **AC** 13, touch 13, flat-footed 11 (+2 Dex, +1 size)  
-**hp** 3 (1d8–1)  
+**hp** 7 (1d8–1)  
 **Fort** +0, **Ref** +3, **Will** +3; +2 vs. fear
 
 **Offense**

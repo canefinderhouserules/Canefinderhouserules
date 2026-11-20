@@ -1,6 +1,6 @@
 # Monsters
 
-This section collects creatures and monster rules. Each creature uses the standard stat block format and can be copied into Roll20. Horror-themed templates (dread lord, implacable stalker, waxwork and others) are on the [Horror Monsters and Templates](../rules/horror/monster-templates.md) page.
+This section collects creatures and monster rules. Each creature uses the standard stat block format and can be copied into Roll20. Stat blocks follow the house rules: every creature has maximum hit points, and feats follow the wiki's feat rules (Power Attack and similar feats need no feat, combined feats such as Dodgility replace their parts, and freed feat slots get another feat, with the numbers updated; a note under each creature's feats says what changed). Horror-themed templates (dread lord, implacable stalker, waxwork and others) are on the [Horror Monsters and Templates](../rules/horror/monster-templates.md) page.
 
 ## Monster Rules
 

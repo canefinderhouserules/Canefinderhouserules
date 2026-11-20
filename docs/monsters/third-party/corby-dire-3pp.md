@@ -1,6 +1,6 @@
 # Corby, Dire (3pp)
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Dire Corby&quot;,&quot;cr&quot;:&quot;1&quot;,&quot;xp&quot;:&quot;400&quot;,&quot;line&quot;:&quot;NE Medium monstrous humanoid&quot;,&quot;init&quot;:1,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;14, touch 11, flat-footed 13&quot;,&quot;hp&quot;:&quot;13 (2d10+2)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:1,&quot;Ref&quot;:4,&quot;Will&quot;:3},&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:3,&quot;abilities&quot;:&quot;Str 16, Dex 12, Con 13, Int 6, Wis 10, Cha 8&quot;,&quot;combat&quot;:&quot;BAB +2; CMB +5; CMD 16&quot;,&quot;checks&quot;:{&quot;Climb&quot;:8,&quot;Perception&quot;:8,&quot;Stealth&quot;:5,&quot;CMB&quot;:5},&quot;feats&quot;:&quot;Blind-Fight&quot;,&quot;languages&quot;:&quot;Aklo&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Dire Corby&quot;,&quot;cr&quot;:&quot;1&quot;,&quot;xp&quot;:&quot;400&quot;,&quot;line&quot;:&quot;NE Medium monstrous humanoid&quot;,&quot;init&quot;:1,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;14, touch 11, flat-footed 13&quot;,&quot;hp&quot;:&quot;22 (2d10+2)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:1,&quot;Ref&quot;:4,&quot;Will&quot;:3},&quot;speed&quot;:&quot;30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[5],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:3,&quot;abilities&quot;:&quot;Str 16, Dex 12, Con 13, Int 6, Wis 10, Cha 8&quot;,&quot;combat&quot;:&quot;BAB +2; CMB +5; CMD 16&quot;,&quot;checks&quot;:{&quot;Climb&quot;:8,&quot;Perception&quot;:8,&quot;Stealth&quot;:5,&quot;CMB&quot;:5},&quot;feats&quot;:&quot;Blind-Fight&quot;,&quot;languages&quot;:&quot;Aklo&quot;}"></div>
 
 ## Dire Corby (CR 1)
 
@@ -13,7 +13,7 @@
 
  **AC** 14, touch 11, flat-footed 13 (+1 Dex, +3 natural)  
 
-**hp** 13 (2d10+2)  
+**hp** 22 (2d10+2)  
 
 **Fort** +1; **Ref** +4; **Will** +3  
 

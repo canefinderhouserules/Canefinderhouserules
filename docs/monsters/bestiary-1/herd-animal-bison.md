@@ -1,6 +1,6 @@
 # Herd Animal, Bison
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Bison&quot;,&quot;cr&quot;:&quot;4&quot;,&quot;xp&quot;:&quot;1,200&quot;,&quot;line&quot;:&quot;N Large animal&quot;,&quot;init&quot;:0,&quot;senses&quot;:&quot;low-light vision, scent&quot;,&quot;ac&quot;:&quot;17, touch 9, flat-footed 17&quot;,&quot;hp&quot;:&quot;47 (5d8+25)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:8,&quot;Ref&quot;:4,&quot;Will&quot;:1},&quot;speed&quot;:&quot;40 ft.; space 10 ft., reach 5 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;gore&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[11],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:12,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;stampede (see aurochs), trample (2d6+12, DC 20)&quot;,&quot;rangedTouch&quot;:2,&quot;abilities&quot;:&quot;Str 27, Dex 10, Con 19, Int 2, Wis 11, Cha 4&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +12; CMD 22 (26 vs. trip)&quot;,&quot;checks&quot;:{&quot;Perception&quot;:8,&quot;CMB&quot;:12},&quot;feats&quot;:&quot;Toughness, Improved Bull Rush, Weapon Focus (gore); Power Attack (no feat needed)&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Bison&quot;,&quot;cr&quot;:&quot;4&quot;,&quot;xp&quot;:&quot;1,200&quot;,&quot;line&quot;:&quot;N Large animal&quot;,&quot;init&quot;:0,&quot;senses&quot;:&quot;low-light vision, scent&quot;,&quot;ac&quot;:&quot;17, touch 9, flat-footed 17&quot;,&quot;hp&quot;:&quot;65 (5d8+25)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:8,&quot;Ref&quot;:4,&quot;Will&quot;:1},&quot;speed&quot;:&quot;40 ft.; space 10 ft., reach 5 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;gore&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[11],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;2d6&quot;,&quot;mod&quot;:12,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;stampede (see aurochs), trample (2d6+12, DC 20)&quot;,&quot;rangedTouch&quot;:2,&quot;abilities&quot;:&quot;Str 27, Dex 10, Con 19, Int 2, Wis 11, Cha 4&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +12; CMD 22 (26 vs. trip)&quot;,&quot;checks&quot;:{&quot;Perception&quot;:8,&quot;CMB&quot;:12},&quot;feats&quot;:&quot;Toughness, Improved Bull Rush, Weapon Focus (gore); Power Attack (no feat needed)&quot;}"></div>
 
 ## Bison (CR 4)
 
@@ -11,7 +11,7 @@ N Large animal
 **Defense**
 
 **AC** 17, touch 9, flat-footed 17 (+8 natural, –1 size)  
-**hp** 47 (5d8+25)  
+**hp** 65 (5d8+25)  
 **Fort** +8, **Ref** +4, **Will** +1
 
 **Offense**

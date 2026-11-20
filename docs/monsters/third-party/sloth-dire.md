@@ -1,6 +1,6 @@
 # Sloth, Dire
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Dire Sloth&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;N Medium animal&quot;,&quot;init&quot;:0,&quot;senses&quot;:&quot;low-light vision, scent&quot;,&quot;ac&quot;:&quot;15, touch 10, flat-footed 15&quot;,&quot;hp&quot;:&quot;26 (4d8+8)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:8,&quot;Ref&quot;:4,&quot;Will&quot;:2},&quot;speed&quot;:&quot;15 ft., climb 30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;rend (2 claws, 1d4+6)&quot;,&quot;rangedTouch&quot;:3,&quot;abilities&quot;:&quot;Str 18, Dex 10, Con 14, Int 2, Wis 12, Cha 10&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +7; CMD 17 (21 vs. trip)&quot;,&quot;checks&quot;:{&quot;Climb&quot;:12,&quot;Stealth&quot;:9,&quot;Swim&quot;:13,&quot;Perception&quot;:1,&quot;CMB&quot;:7},&quot;feats&quot;:&quot;Great Fortitude, Weapon Focus (claw); Power Attack (no feat needed)&quot;,&quot;sq&quot;:&quot;staggered&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Dire Sloth&quot;,&quot;cr&quot;:&quot;3&quot;,&quot;xp&quot;:&quot;800&quot;,&quot;line&quot;:&quot;N Medium animal&quot;,&quot;init&quot;:0,&quot;senses&quot;:&quot;low-light vision, scent&quot;,&quot;ac&quot;:&quot;15, touch 10, flat-footed 15&quot;,&quot;hp&quot;:&quot;40 (4d8+8)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:8,&quot;Ref&quot;:4,&quot;Will&quot;:2},&quot;speed&quot;:&quot;15 ft., climb 30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;claws&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[8],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;},{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:4,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;rend (2 claws, 1d4+6)&quot;,&quot;rangedTouch&quot;:3,&quot;abilities&quot;:&quot;Str 18, Dex 10, Con 14, Int 2, Wis 12, Cha 10&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +7; CMD 17 (21 vs. trip)&quot;,&quot;checks&quot;:{&quot;Climb&quot;:12,&quot;Stealth&quot;:9,&quot;Swim&quot;:13,&quot;Perception&quot;:1,&quot;CMB&quot;:7},&quot;feats&quot;:&quot;Great Fortitude, Weapon Focus (claw); Power Attack (no feat needed)&quot;,&quot;sq&quot;:&quot;staggered&quot;}"></div>
 
 ## Dire Sloth (CR 3)
 
@@ -13,7 +13,7 @@
 
  **AC** 15, touch 10, flat-footed 15 (+5 natural)  
 
-**hp** 26 (4d8+8)  
+**hp** 40 (4d8+8)  
 
 **Fort** +8; **Ref** +4; **Will** +2  
 

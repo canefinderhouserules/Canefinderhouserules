@@ -1,6 +1,6 @@
 # Elemental (Lightning), Large Lightning Elemental
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Large Lightning Elemental&quot;,&quot;cr&quot;:&quot;5&quot;,&quot;xp&quot;:&quot;1,600&quot;,&quot;line&quot;:&quot;N Large outsider (air, elemental, extraplanar)&quot;,&quot;init&quot;:10,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;18, touch 16, flat-footed 11&quot;,&quot;hp&quot;:&quot;60 (8d10+16)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:8,&quot;Ref&quot;:12,&quot;Will&quot;:2},&quot;defense&quot;:&quot;DR 5/—; Immune electricity, elemental traits&quot;,&quot;speed&quot;:&quot;fly 100 ft. (perfect); space 10 ft., reach 10 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[14],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1d6 electricity&quot;}]],&quot;specialAttacks&quot;:&quot;metal mastery, spark leap&quot;,&quot;rangedTouch&quot;:13,&quot;abilities&quot;:&quot;Str 16, Dex 23, Con 14, Int 6, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +8; CMB +12; CMD 29&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:17,&quot;Escape Artist&quot;:17,&quot;Fly&quot;:12,&quot;Knowledge (planes)&quot;:9,&quot;Perception&quot;:11,&quot;CMB&quot;:12},&quot;feats&quot;:&quot;Dodgility, Flyby Attack, Improved Initiative, Weapon Finesse, Weapon Focus (slam)&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Large Lightning Elemental&quot;,&quot;cr&quot;:&quot;5&quot;,&quot;xp&quot;:&quot;1,600&quot;,&quot;line&quot;:&quot;N Large outsider (air, elemental, extraplanar)&quot;,&quot;init&quot;:10,&quot;senses&quot;:&quot;darkvision 60 ft.&quot;,&quot;ac&quot;:&quot;18, touch 16, flat-footed 11&quot;,&quot;hp&quot;:&quot;96 (8d10+16)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:8,&quot;Ref&quot;:12,&quot;Will&quot;:2},&quot;defense&quot;:&quot;DR 5/—; Immune electricity, elemental traits&quot;,&quot;speed&quot;:&quot;fly 100 ft. (perfect); space 10 ft., reach 10 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;slams&quot;,&quot;count&quot;:2,&quot;bonuses&quot;:[14],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d8&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus 1d6 electricity&quot;}]],&quot;specialAttacks&quot;:&quot;metal mastery, spark leap&quot;,&quot;rangedTouch&quot;:13,&quot;abilities&quot;:&quot;Str 16, Dex 23, Con 14, Int 6, Wis 11, Cha 11&quot;,&quot;combat&quot;:&quot;BAB +8; CMB +12; CMD 29&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:17,&quot;Escape Artist&quot;:17,&quot;Fly&quot;:12,&quot;Knowledge (planes)&quot;:9,&quot;Perception&quot;:11,&quot;CMB&quot;:12},&quot;feats&quot;:&quot;Dodgility, Flyby Attack, Improved Initiative, Weapon Finesse, Weapon Focus (slam)&quot;}"></div>
 
 ## Large Lightning Elemental (CR 5)
 
@@ -11,7 +11,7 @@ N Large outsider (air, elemental, extraplanar)
 **Defense**
 
 **AC** 18, touch 16, flat-footed 11 (+6 Dex, +1 dodge, +2 natural, –1 size)  
-**hp** 60 (8d10+16)  
+**hp** 96 (8d10+16)  
 **Fort** +8, **Ref** +12, **Will** +2  
 **DR** 5/—; **Immune** electricity, elemental traits
 

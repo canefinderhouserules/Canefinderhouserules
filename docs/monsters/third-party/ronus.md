@@ -1,6 +1,6 @@
 # Ronus
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Ronus&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;N Medium magical beast&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision, scent&quot;,&quot;ac&quot;:&quot;17, touch 14, flat-footed 13&quot;,&quot;hp&quot;:&quot;22 (3d10+6)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:7,&quot;Will&quot;:3},&quot;speed&quot;:&quot;60 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:7,&quot;abilities&quot;:&quot;Str 16, Dex 19, Con 15, Int 4, Wis 14, Cha 7&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +6; CMD 20&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:8,&quot;Perception&quot;:10,&quot;Stealth&quot;:12,&quot;CMB&quot;:6},&quot;feats&quot;:&quot;Skill Focus (Perception), Weapon Focus (bite)&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Ronus&quot;,&quot;cr&quot;:&quot;2&quot;,&quot;xp&quot;:&quot;600&quot;,&quot;line&quot;:&quot;N Medium magical beast&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft., low-light vision, scent&quot;,&quot;ac&quot;:&quot;17, touch 14, flat-footed 13&quot;,&quot;hp&quot;:&quot;36 (3d10+6)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:5,&quot;Ref&quot;:7,&quot;Will&quot;:3},&quot;speed&quot;:&quot;60 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Melee&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:3,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;rangedTouch&quot;:7,&quot;abilities&quot;:&quot;Str 16, Dex 19, Con 15, Int 4, Wis 14, Cha 7&quot;,&quot;combat&quot;:&quot;BAB +3; CMB +6; CMD 20&quot;,&quot;checks&quot;:{&quot;Acrobatics&quot;:8,&quot;Perception&quot;:10,&quot;Stealth&quot;:12,&quot;CMB&quot;:6},&quot;feats&quot;:&quot;Skill Focus (Perception), Weapon Focus (bite)&quot;}"></div>
 
 ## Ronus (CR 2)
 
@@ -13,7 +13,7 @@
 
  **AC** 17, touch 14, flat-footed 13 (+4 Dex, +3 natural)  
 
-**hp** 22 (3d10+6)  
+**hp** 36 (3d10+6)  
 
 **Fort** +5, **Ref** +7, **Will** +3  
 

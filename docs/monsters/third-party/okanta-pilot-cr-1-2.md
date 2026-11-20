@@ -40,7 +40,7 @@ NG Medium humanoid (okanta)
 **SQ** aethership bond, adaptive mimicry, order of the sword, powerful build  
 **Combat Gear** potion of cure light wounds; **Other Gear** Large earth breaker, heavy trooper armor, standard aetheric capacitor (60 au) Many okanta form a specialized bond with small aethertech speeders, fighters, and similar small warcraft, piloting them into battle as knights of old did their living steeds.
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Okanta Speeder&quot;,&quot;cr&quot;:&quot;—&quot;,&quot;line&quot;:&quot;XP—&quot;,&quot;init&quot;:0,&quot;ac&quot;:&quot;12, touch 9, flat-footed 12&quot;,&quot;hp&quot;:&quot;40 (2d10+30)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:1,&quot;Ref&quot;:1,&quot;Will&quot;:1},&quot;defense&quot;:&quot;Immune construct traits&quot;,&quot;speed&quot;:&quot;fly 60 ft. (average; see limited mobility)&quot;,&quot;rangedTouch&quot;:0,&quot;checks&quot;:{&quot;CMB&quot;:0}}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Okanta Speeder&quot;,&quot;cr&quot;:&quot;—&quot;,&quot;line&quot;:&quot;XP—&quot;,&quot;init&quot;:0,&quot;ac&quot;:&quot;12, touch 9, flat-footed 12&quot;,&quot;hp&quot;:&quot;50 (2d10+30)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:1,&quot;Ref&quot;:1,&quot;Will&quot;:1},&quot;defense&quot;:&quot;Immune construct traits&quot;,&quot;speed&quot;:&quot;fly 60 ft. (average; see limited mobility)&quot;,&quot;rangedTouch&quot;:0,&quot;checks&quot;:{&quot;CMB&quot;:0}}"></div>
 
 ## Okanta Speeder (CR —)
 
@@ -53,7 +53,7 @@ Large construct (aether, aethercraft)
 
 
 **AC** 12, touch 9, flat-footed 12 (+3 natural, –1 size)  
-**hp** 40 (2d10+30)  
+**hp** 50 (2d10+30)  
 **Fort** +1, **Ref** +1, **Will** +1  
 **Immune** construct traits  
 

@@ -1,6 +1,6 @@
 # Woghemoth
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Woghemoth&quot;,&quot;cr&quot;:&quot;1/2&quot;,&quot;line&quot;:&quot;N Small vermin (aquatic)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;tremorsense 30 ft.&quot;,&quot;ac&quot;:&quot;16, touch 14, flat-footed 13&quot;,&quot;hp&quot;:&quot;6 (1d8+1)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:4,&quot;Ref&quot;:3,&quot;Will&quot;:1},&quot;defense&quot;:&quot;Immune electricity (partial); Resist fire 5&quot;,&quot;speed&quot;:&quot;5 ft., swim 30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+4 bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[],&quot;kind&quot;:&quot;Melee&quot;,&quot;auto&quot;:true,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;electrical discharge&quot;,&quot;rangedTouch&quot;:4,&quot;abilities&quot;:&quot;Str 10, Dex 16, Con 13, Int—, Wis 12, Cha 8&quot;,&quot;combat&quot;:&quot;BAB +0; CMB -1; CMD 12&quot;,&quot;checks&quot;:{&quot;Perception&quot;:6,&quot;Swim&quot;:12,&quot;CMB&quot;:-1},&quot;feats&quot;:&quot;Weapon Finesse&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Woghemoth&quot;,&quot;cr&quot;:&quot;1/2&quot;,&quot;line&quot;:&quot;N Small vermin (aquatic)&quot;,&quot;init&quot;:3,&quot;senses&quot;:&quot;tremorsense 30 ft.&quot;,&quot;ac&quot;:&quot;16, touch 14, flat-footed 13&quot;,&quot;hp&quot;:&quot;9 (1d8+1)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:4,&quot;Ref&quot;:3,&quot;Will&quot;:1},&quot;defense&quot;:&quot;Immune electricity (partial); Resist fire 5&quot;,&quot;speed&quot;:&quot;5 ft., swim 30 ft.&quot;,&quot;melee&quot;:[[{&quot;name&quot;:&quot;+4 bite&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[],&quot;kind&quot;:&quot;Melee&quot;,&quot;auto&quot;:true,&quot;dice&quot;:&quot;1d4&quot;,&quot;mod&quot;:0,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;&quot;}]],&quot;specialAttacks&quot;:&quot;electrical discharge&quot;,&quot;rangedTouch&quot;:4,&quot;abilities&quot;:&quot;Str 10, Dex 16, Con 13, Int—, Wis 12, Cha 8&quot;,&quot;combat&quot;:&quot;BAB +0; CMB -1; CMD 12&quot;,&quot;checks&quot;:{&quot;Perception&quot;:6,&quot;Swim&quot;:12,&quot;CMB&quot;:-1},&quot;feats&quot;:&quot;Weapon Finesse&quot;}"></div>
 
 ## Woghemoth (CR 1/2)
 
@@ -11,7 +11,7 @@ N Small vermin (aquatic)
 **Defense**
 
  **AC** 16, touch 14, flat-footed 13 (+3 Dex, +2 natural, +1 size)  
-**hp** 6 (1d8+1)  
+**hp** 9 (1d8+1)  
 **Fort** +4, **Ref** +3, **Will** +1  
 **Immune** electricity (partial); **Resist** fire 5  
 

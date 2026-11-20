@@ -1,6 +1,6 @@
 # Hellcrown
 
-<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Hellcrown&quot;,&quot;cr&quot;:&quot;1&quot;,&quot;xp&quot;:&quot;400&quot;,&quot;line&quot;:&quot;LE Tiny undead&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft.,&quot;,&quot;ac&quot;:&quot;16, touch 16, flat-footed 12&quot;,&quot;hp&quot;:&quot;15 (2d8+6)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:3,&quot;Ref&quot;:4,&quot;Will&quot;:4},&quot;defense&quot;:&quot;Immune undead traits&quot;,&quot;speed&quot;:&quot;fly 30 ft&quot;,&quot;ranged&quot;:[[{&quot;name&quot;:&quot;Nail&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus bleeding nail&quot;}]],&quot;rangedTouch&quot;:7,&quot;abilities&quot;:&quot;Str 9, Dex 18, Con -, Int 9, Wis 12, Cha 17&quot;,&quot;combat&quot;:&quot;BAB +1; CMB -1; CMD 13&quot;,&quot;checks&quot;:{&quot;Fly&quot;:13,&quot;Intimidate&quot;:8,&quot;Perception&quot;:6,&quot;Stealth&quot;:12,&quot;CMB&quot;:-1},&quot;feats&quot;:&quot;Rapid Shot, Flyby Attack&quot;,&quot;languages&quot;:&quot;Common, Infernal&quot;}"></div>
+<div class="r20-export" data-r20="{&quot;name&quot;:&quot;Hellcrown&quot;,&quot;cr&quot;:&quot;1&quot;,&quot;xp&quot;:&quot;400&quot;,&quot;line&quot;:&quot;LE Tiny undead&quot;,&quot;init&quot;:4,&quot;senses&quot;:&quot;darkvision 60 ft.,&quot;,&quot;ac&quot;:&quot;16, touch 16, flat-footed 12&quot;,&quot;hp&quot;:&quot;22 (2d8+6)&quot;,&quot;saves&quot;:{&quot;Fort&quot;:3,&quot;Ref&quot;:4,&quot;Will&quot;:4},&quot;defense&quot;:&quot;Immune undead traits&quot;,&quot;speed&quot;:&quot;fly 30 ft&quot;,&quot;ranged&quot;:[[{&quot;name&quot;:&quot;Nail&quot;,&quot;count&quot;:1,&quot;bonuses&quot;:[7],&quot;touch&quot;:false,&quot;kind&quot;:&quot;Ranged&quot;,&quot;dice&quot;:&quot;1d6&quot;,&quot;mod&quot;:-1,&quot;threat&quot;:20,&quot;mult&quot;:2,&quot;rider&quot;:&quot;plus bleeding nail&quot;}]],&quot;rangedTouch&quot;:7,&quot;abilities&quot;:&quot;Str 9, Dex 18, Con -, Int 9, Wis 12, Cha 17&quot;,&quot;combat&quot;:&quot;BAB +1; CMB -1; CMD 13&quot;,&quot;checks&quot;:{&quot;Fly&quot;:13,&quot;Intimidate&quot;:8,&quot;Perception&quot;:6,&quot;Stealth&quot;:12,&quot;CMB&quot;:-1},&quot;feats&quot;:&quot;Rapid Shot, Flyby Attack&quot;,&quot;languages&quot;:&quot;Common, Infernal&quot;}"></div>
 
 ## Hellcrown (CR 1)
 
@@ -13,7 +13,7 @@ LE Tiny undead
 
 
 **AC** 16, touch 16, flat-footed 12 (+4 Dex, +2 size)  
-**hp** 15 (2d8+6)  
+**hp** 22 (2d8+6)  
 **Fort** +3, **Ref** +4, **Will** +4  
 **Immune** undead traits  
 
