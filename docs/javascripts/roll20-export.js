@@ -9,7 +9,7 @@
 //   saves, initiative, skills: + the sheet total for that stat (fortitude, stealth...) + its condition penalty
 // Not melee_mod / ranged_mod: a new sheet does not create them until something on it changes, and Roll20 then
 // prints "No attribute was found".
-// Rolls name the character (@{Name|attr}), so the name typed in the panel must match the Roll20 character.
+// Rolls read @{selected|attr} (the selected token's sheet) unless a character name is typed in the panel.
 // Tested in a free Roll20 game (Power Attack buff: -1 to attack, +2 to damage).
 (function () {
   var me = document.currentScript && document.currentScript.src;
@@ -165,24 +165,24 @@
     var m; try { m = JSON.parse(raw); } catch (e) { return; }
     var wrap = el('details', 'r20'); wrap.appendChild(el('summary', null, 'Roll20'));
     var ol = el('ol', 'r20-steps');
-    [ 'In the Roll20 Journal, create a character and, when Roll20 asks how to create it, choose Edit Sheet Directly (Pathfinder by Roll20 sheet, left blank). Type its name below (no parentheses).',
+    [ 'In the Roll20 Journal, create a character with any name and, when Roll20 asks how to create it, choose Edit Sheet Directly (Pathfinder by Roll20 sheet, left blank). Link its token to it.',
       'Click Copy for Bio & Info.',
       'In Roll20, open the character, click Edit, click inside the Bio & Info box and press Ctrl+V. Save Changes.',
-      'Open the Bio & Info tab: each attack, save and check rolls in chat when clicked. Buffs and conditions set on the character sheet are added to the rolls. Init also adds the selected token to the turn order.'
+      'Select the creature\'s token and click the buttons in its Bio & Info tab: each attack, save and check rolls in chat, with the buffs and conditions set on the selected token\'s sheet. Init also adds the token to the turn order.'
     ].forEach(function (s) { ol.appendChild(el('li', null, s)); });
     wrap.appendChild(ol);
     var row = el('div', 'r20-row');
-    var label = el('label', 'r20-hint', 'Character name: ');
-    // suggested name without parentheses, which break Roll20 references
-    var input = el('input', 'r20-name'); input.type = 'text'; input.value = m.name.replace(/[()|]/g, '').replace(/\s+/g, ' ').trim(); label.appendChild(input);
+    var label = el('label', 'r20-hint', 'Character name (optional): ');
+    // empty: rolls read the selected token's sheet (@{selected|...}), so the Roll20 name does not matter
+    var input = el('input', 'r20-name'); input.type = 'text'; input.value = ''; input.placeholder = 'selected token'; label.appendChild(input);
     var b = el('button', 'md-button r20-btn', 'Copy for Bio & Info'); b.type = 'button';
     b.addEventListener('click', function () {
-      var who = (input.value || m.name).trim();
+      var who = input.value.replace(/[()|]/g, '').replace(/\s+/g, ' ').trim() || 'selected';
       copyHtml(bioHtml(m, who), m.name + ' (CR ' + m.cr + ')', b);
     });
     row.appendChild(b); row.appendChild(label);
     wrap.appendChild(row);
-    wrap.appendChild(el('p', 'r20-sub', 'The name must match the Roll20 character exactly; rolls read its sheet by that name. Buffs apply to the character, so every token of it shares them.'));
+    wrap.appendChild(el('p', 'r20-sub', 'With the name left empty, the buttons read the sheet of whichever token is selected; with no token selected Roll20 warns and rolls the base numbers. Type a name only to tie the buttons to one Roll20 character, so they work without selecting a token.'));
     box.appendChild(wrap);
   }
   function start() { document.querySelectorAll('.r20-export').forEach(build); }
