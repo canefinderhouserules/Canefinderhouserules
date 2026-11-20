@@ -5,6 +5,8 @@
 
 This page holds the rules of the subsystem. The rest is on three pages: [Lightsabers and Blasters](lightsabers.md) (with the lightsaber forms), [Races](races.md), and [Force Powers](force-powers.md).
 
+To make an enemy for this subsystem, use the [Star Wars Enemy Builder](../../tools/starwars-builder.md).
+
 ## Stamina
 
 **Stamina:** a fixed number (by class type) × level, plus the casting ability modifier × level (like hit points with Constitution, but using an ability that suits the power). The fixed number is the maximum of the class’s stamina die, the same way hit points take the maximum of every Hit Die: Warrior d6 = 6 per level, Specialist d8 = 8, Consular d12 = 12.

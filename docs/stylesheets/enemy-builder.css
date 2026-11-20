@@ -81,3 +81,15 @@
 .md-typeset .eb-feature a { text-decoration: none; }
 .md-typeset .eb-h { display: flex; align-items: center; justify-content: space-between; gap: .5rem; }
 .md-typeset .eb-head-btn { padding: .1em .8em; font-size: .62rem; margin: 0; font-weight: 400; }
+/* Star Wars class feature choices */
+.md-typeset .eb-slots { display: grid; grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr)); gap: .4rem .8rem; margin: .3rem 0; }
+.md-typeset .eb-slot { border: 1px solid var(--md-default-fg-color--lightest); border-radius: .25rem; padding: .25rem .45rem; font-size: .66rem; }
+.md-typeset .eb-slot.eb-bad { border-color: #d32f2f; }
+.md-typeset .eb-slothead { margin-bottom: .2rem; }
+.md-typeset .eb-slot .eb-chips { margin-bottom: .2rem; }
+.md-typeset .eb-slot .eb-t.eb-wide { width: 13rem; }
+.md-typeset .eb-chip.eb-iconic { background: rgba(156, 39, 176, .15); }
+.md-typeset .eb-chip.eb-op { background: rgba(229, 57, 53, .15); }
+.md-typeset .eb-chip.eb-common { background: rgba(30, 136, 229, .13); }
+.md-typeset .eb-chip.eb-weak { background: rgba(120, 120, 120, .15); }
+.md-typeset .eb-chip a { text-decoration: none; }

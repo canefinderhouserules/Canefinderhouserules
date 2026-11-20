@@ -22,6 +22,7 @@ jobs:
       - run: node tools/build-spells.js
       - run: node tools/build-archetypes.js
       - run: node tools/build-enemy-builder.js
+      - run: node tools/build-starwars-builder.js
       - run: mkdocs build
       - run: node tools/build-fulltext.js site
       - uses: actions/upload-pages-artifact@v3

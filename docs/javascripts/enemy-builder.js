@@ -10,7 +10,13 @@
   if (!root) return;
   var cfgEl = document.getElementById('__config');
   var BASE = new URL(cfgEl ? JSON.parse(cfgEl.textContent).base.replace(/\/?$/, '/') : '../../', location.href);
-  var KEY = 'enemy-builder:current', LIB = 'enemy-builder:saved';
+  // data-mode="starwars" (tools/starwars-builder.md): the Star Wars subsystem's classes, class feature lists, weapons and Force powers
+  var SWM = root.getAttribute('data-mode') === 'starwars';
+  var KEY = SWM ? 'starwars-builder:current' : 'enemy-builder:current', LIB = SWM ? 'starwars-builder:saved' : 'enemy-builder:saved';
+  var SWD = null, FP_BY = {}, SW_ENTRIES = {};
+  var PRICE_PTS = { iconic: 4, op: 4, common: 2, weak: 1 }, PRICE_LABEL = { iconic: 'Iconic', op: 'OP', common: 'Common', weak: 'Weak' };
+  var SW_SKILL = { 'Knowledge (arcana)': 'Science', 'Knowledge (planes)': 'Computers', 'Knowledge (engineering)': 'Engineering', 'Disable Device': 'Slicing' };
+  var SW_COST = ['0–3', '1–10', '11–20', '21–30', '31–40', '41–50', '51–60', '61–70', '71–80', '81–100'];
 
   // ---------- rules tables ----------
   var ABIL = ['Str', 'Dex', 'Con', 'Int', 'Wis', 'Cha'];
@@ -165,7 +171,7 @@
       abil: { Str: 10, Dex: 10, Con: 10, Int: 10, Wis: 10, Cha: 10 }, skills: {}, feats: [],
       armor: '', armorEnh: 0, shield: '', shieldEnh: 0, natural: 0, deflection: 0, dodge: 0, hpMisc: 0, maxHp: true, initMisc: 0,
       saveMisc: { Fort: 0, Ref: 0, Will: 0 }, speed: '30 ft.', senses: '', languages: 'Common', defense: '', aura: '', sq: '', gear: '',
-      specialAttacks: '', weapons: [], casters: [], special: [], classes: [] };
+      specialAttacks: '', weapons: [], casters: [], special: [], classes: [], sw: { karma: 0, force: false, abil: 'Wis' } };
   }
   var S = blank();
   try { var saved = JSON.parse(localStorage.getItem(KEY)); if (saved) S = Object.assign(blank(), saved); } catch (e) {}
@@ -192,6 +198,13 @@
   function classFeatures(c) {
     var d = CLASS_BY[c.s], L = c.lvl || 1, out = [], bonus = 0;
     if (!d) return { list: out, bonusFeats: 0 };
+    if (d.sw) {
+      (c.picks || []).forEach(function (p) {
+        if (p.slot <= L) out.push({ name: p.n, type: '', text: p.text || PRICE_LABEL[p.price] + ' class feature (' + ord(p.lvl) + ' level).', link: p.link, lvl: p.slot, price: p.price, sw: true });
+      });
+      var extra = 0; d.special.slice(0, L).forEach(function (t) { if (/Extra Combat Feat/i.test(t)) extra++; });
+      return { list: out, bonusFeats: extra };
+    }
     var typeOf = function (t) { var m = String(t).match(/\((Ex|Su|Sp)\)|-(ex|su|sp)$/i); return m ? capFirst((m[1] || m[2]).toLowerCase()) : ''; };
     if (!d.arch) {
       (d.special || []).slice(0, L).forEach(function (sp, i) {
@@ -300,6 +313,21 @@
     var dodgeFeat = has('Dodge') || has('Dodgility') ? 1 : 0;
     if (has('Dodge')) autoNote('Dodge', '+1 dodge AC'); if (has('Dodgility')) autoNote('Dodgility', '+1 dodge AC');
     var dodge = (S.dodge || 0) + dodgeFeat;
+    D.sw = null;
+    if (SWM) {
+      var sw = S.sw || (S.sw = { karma: 0, force: false, abil: 'Wis' });
+      var swc = cls.filter(function (c) { return CLASS_BY[c.s].sw; })[0], swl = swc ? swc.lvl : 0;
+      var forceS = !!(swc && swc.s === 'sw-consular') || !!sw.force;
+      // Force Sensitive: +1 dodge AC, +1 more at 3rd level and every 3 levels
+      var fsDodge = forceS ? 1 + Math.floor(hd / 3) : 0;
+      dodge += fsDodge;
+      var kar = sw.karma || 0, kabs = Math.abs(kar), K = { cl: 0, dc: 0, will: 0, cha: 0, intim: 0 };
+      if (kar <= -10) { var tier = kabs >= 100 ? 3 : kabs >= 50 ? 2 : 1; K.cl = tier; K.dc = -tier; K.will = -tier; K.cha = -Math.floor(kabs / 10); K.intim = Math.floor(kabs / 10); }
+      else if (kar >= 10) { K.will = kabs >= 100 ? 3 : kabs >= 50 ? 2 : 1; K.dc = kabs >= 100 ? 3 : kabs >= 50 ? 2 : kabs >= 30 ? 1 : 0; K.cha = Math.floor(kabs / 10); }
+      var stm = mod(S.abil[sw.abil] || 10);
+      D.sw = { force: forceS, fsDodge: fsDodge, karma: K, cls: swc ? CLASS_BY[swc.s] : null, lvl: swl,
+        stamina: swc ? Math.max(0, (CLASS_BY[swc.s].stamina + stm) * swl) : 0, known: swc ? CLASS_BY[swc.s].powers[Math.min(swl, 20) - 1] : [] };
+    }
     D.ac = 10 + armB + shB + dexAC + sz.ac + natural + (S.deflection || 0) + dodge;
     D.touch = 10 + dexAC + sz.ac + (S.deflection || 0) + dodge;
     D.ff = D.ac - Math.max(0, dexAC) - dodge;
@@ -320,7 +348,7 @@
       var ab = k === 'Fort' ? (S.type === 'undead' ? M.Cha : M.Con) : k === 'Ref' ? M.Dex : M.Wis;
       var f = has(saveFeat[k]) ? 2 : 0;
       if (f) autoNote(saveFeat[k], '+2 ' + k);
-      D.saves[k] = good(k) + ab + f + (S.saveMisc[k] || 0);
+      D.saves[k] = good(k) + ab + f + (S.saveMisc[k] || 0) + (k === 'Will' && D.sw ? D.sw.karma.will : 0);
     });
     // initiative, CMB, CMD
     var ii = has('Improved Initiative') ? 4 : 0;
@@ -342,7 +370,8 @@
     SKILLS.forEach(function (sk) {
       var n = sk[0], st = S.skills[n] || {}, r = st.r || 0;
       D.ranksUsed += r;
-      var t = r + M[sk[1]] + ((st.cls || D.classSkill[n]) && r > 0 ? 3 : 0) + (st.misc || 0);
+      var t = r + M[sk[1]] + ((st.cls || D.classSkill[n]) && r > 0 ? 3 : 0) + (st.misc || 0) +
+        (D.sw && sk[1] === 'Cha' ? (n === 'Intimidate' ? D.sw.karma.intim : D.sw.karma.cha) : 0);
       if (n === 'Stealth') t += sz.stealth; if (n === 'Fly') t += sz.fly;
       if (ACP_SKILLS[n]) t += D.acp;
       if (focus.indexOf(n.toLowerCase()) >= 0) { t += r >= 10 ? 6 : 3; autoNote('Skill Focus (' + n.toLowerCase() + ')', sgn(r >= 10 ? 6 : 3) + ' ' + n); }
@@ -411,17 +440,20 @@
     });
     // spells
     D.casters = S.casters.map(function (c) {
-      var am = mod(S.abil[c.abil] || 10), cl = Math.max(1, Math.min(20, c.cl || 1));
+      var am = mod(S.abil[c.abil] || 10), cl = Math.max(1, Math.min(20, (c.cl || 1) + (D.sw ? D.sw.karma.cl : 0)));
       var out = { c: c, cl: cl, conc: cl + am, spells: [] };
       out.spells = c.spells.map(function (sp) {
         var info = SPELLS[sp.u] || {}, lvl = sp.lvl || 0;
+        if (sp.fp) { var fpw = FP_BY[sp.n.toLowerCase()] || {}; info = { n: fpw.n || sp.n, sv: fpw.save, du: fpw.dur }; }
         var sv = String(info.sv || '').replace(/\s*\(harmless[^)]*\)/ig, '').trim();
         var noSave = !sv || /^(none|no|—|-)$/i.test(sv) || /see text/i.test(sv) && sv.length < 12;
         var b = { name: (info.n || sp.n || '').toLowerCase(), page: sp.u || '', lvl: lvl, uses: sp.uses };
-        if (!noSave) { b.dc = 10 + lvl + am; b.save = sv; }
+        if (sp.fp) b.page = '';
+        if (!noSave) { b.dc = 10 + lvl + am + (D.sw ? D.sw.karma.dc : 0); b.save = sv; }
         var r = (DATA.rolls[sp.u] || [])[cl - 1];
         if (r) Object.keys(r).forEach(function (k) { b[k] = r[k]; });
         var du = durationAt(info.du, cl); if (du) b.duration = du;
+        if (c.kind === 'Force Powers') b.cost = sp.fp && FP_BY[sp.n.toLowerCase()] ? FP_BY[sp.n.toLowerCase()].cost : SW_COST[lvl];
         return b;
       });
       return out;
@@ -441,7 +473,7 @@
     m.senses = [S.senses].filter(Boolean).join('; ');
     if (S.aura) m.aura = S.aura;
     m.ac = D.acText.replace(/ \(.*$/, '');
-    m.hp = D.hpText;
+    m.hp = D.hpText + (D.sw && D.sw.stamina ? '; stamina ' + D.sw.stamina : '');
     m.saves = { Fort: D.saves.Fort, Ref: D.saves.Ref, Will: D.saves.Will };
     if (S.defense) m.defense = S.defense;
     m.speed = S.speed || '30 ft.';
@@ -455,6 +487,7 @@
         if (!groups[label]) { groups[label] = []; order.push({ label: label, lvl: s.lvl, sla: sla }); }
         var b = {};
         Object.keys(s).forEach(function (k) { if (k !== 'lvl' && k !== 'uses') b[k] = s[k]; });
+        if (s.cost) { b.effect = (b.effect ? b.effect + '; ' : '') + 'stamina ' + s.cost; delete b.cost; }
         if (!sla && c.c.kind === 'Spells Prepared' && s.uses && /^\d+$/.test(String(s.uses)) && +s.uses > 1) b.note = String(s.uses);
         groups[label].push(b);
       });
@@ -479,6 +512,7 @@
     if (D.feats.length) m.feats = D.feats.join(', ');
     if (S.languages) m.languages = S.languages;
     if (S.sq) m.sq = S.sq;
+    if (D.sw && (D.sw.force || S.sw.karma)) m.sq = [S.sq, D.sw.force ? 'Force sensitive' : '', S.sw.karma ? 'karma ' + sgn(S.sw.karma).replace('–', '-') : ''].filter(Boolean).join(', ');
     if (S.gear) m.gear = S.gear;
     return m;
   }
@@ -527,7 +561,7 @@
     p = [T(m.abilities).replace(/(Str|Dex|Con|Int|Wis|Cha) /g, function (_, a) { return B(a) + ' '; }),
       B('Base Atk') + ' ' + sgn(D.bab) + '; ' + B('CMB') + ' ' + sgn(D.cmb) + '; ' + B('CMD') + ' ' + D.cmd];
     if (m.feats) p.push(B('Feats') + ' ' + T(m.feats));
-    var sk = SKILLS.filter(function (s) { return D.skills[s[0]].shown; }).map(function (s) { return s[0] + ' ' + sgn(D.skills[s[0]].total); });
+    var sk = SKILLS.filter(function (s) { return D.skills[s[0]].shown; }).map(function (s) { return ((SWM && SW_SKILL[s[0]]) || s[0]) + ' ' + sgn(D.skills[s[0]].total); });
     if (sk.length) p.push(B('Skills') + ' ' + T(sk.join(', ')));
     if (m.languages) p.push(B('Languages') + ' ' + T(m.languages));
     if (m.sq) p.push(B('SQ') + ' ' + T(m.sq));
@@ -597,6 +631,113 @@
     ), null, newEnemyButton('eb-head-btn'));
   }
 
+  // the class feature choices a Star Wars class gets: "Class Feature N" in its table; at 12th, 16th and 18th they are small
+  function swSlots(d, L) {
+    var out = [];
+    d.special.slice(0, L).forEach(function (t, i) {
+      if (/Class Feature \d+/.test(t)) out.push({ lvl: i + 1, small: /\(Common\)/.test(t), n: +t.match(/Class Feature (\d+)/)[1] });
+    });
+    return out;
+  }
+  // every feature a class type can copy, plus the generic ones: [entry], keyed by the text shown in the picker
+  function swEntries(key) {
+    if (SW_ENTRIES[key]) return SW_ENTRIES[key];
+    var by = {};
+    SWD.lists[key].forEach(function (e) { by[e[0] + ' — ' + PRICE_LABEL[e[2]] + ', ' + ord(e[3])] = { n: e[0], link: e[1], price: e[2], lvl: e[3] }; });
+    SWD.generic.forEach(function (g) {
+      if (g.levels[key]) by[g.n + ' — ' + PRICE_LABEL[g.price] + ', ' + ord(g.levels[key]) + ' (generic)'] = { n: g.n, link: g.link, price: g.price, lvl: g.levels[key], text: g.text, generic: true };
+    });
+    return (SW_ENTRIES[key] = by);
+  }
+  function swDatalists() {
+    var c = (S.classes || []).filter(function (x) { return CLASS_BY[x.s] && CLASS_BY[x.s].sw; })[0];
+    if (!c) return null;
+    var key = CLASS_BY[c.s].key, by = swEntries(key), names = Object.keys(by).sort();
+    return h('div', null, ['all', 'iconic', 'op', 'common', 'weak'].map(function (p) {
+      return h('datalist', { id: 'sw-list-' + p }, names.filter(function (n) { return p === 'all' || by[n].price === p; }).map(function (n) { return h('option', { value: n }); }));
+    }));
+  }
+  function swCard() {
+    return card('Star Wars class', slot(function (redraw) {
+      var D = compute();
+      var c = (S.classes || []).filter(function (x) { return CLASS_BY[x.s] && CLASS_BY[x.s].sw; })[0];
+      var d = c && CLASS_BY[c.s];
+      var pick = select([['', '— no class (a creature or droid) —']].concat(SWD.classes.map(function (x) { return ['sw-' + x.s, x.n]; })),
+        function () { return c ? c.s : ''; }, function (v) {
+          if (!v) S.classes = [];
+          else if (c) { if (c.s !== v) { c.s = v; c.picks = []; } }
+          else { S.classes = [{ s: v, lvl: 1, picks: [] }]; if (S.hd === 1 && S.type === 'humanoid') S.hd = 0; }
+        }, function () { redrawAll(); });
+      var head = h('div', { class: 'eb-grid' },
+        field('Class', pick),
+        c ? field('Level', numBox(function () { return c.lvl; }, function (v) { c.lvl = v; }, { min: 1, max: 20 })) : null,
+        field('Force Sensitive', d && d.key === 'consular' ? h('span', { class: 'eb-note', text: 'free (Consular)' }) : check(function () { return S.sw.force; }, function (v) { S.sw.force = v; }, 'feat')),
+        field('Stamina / casting ability', select(['Wis', 'Int', 'Cha'], function () { return S.sw.abil; }, function (v) { S.sw.abil = v; })),
+        field('Karma', numBox(function () { return S.sw.karma || 0; }, function (v) { S.sw.karma = v; }, { min: -100, max: 100 }), '–100 dark side · +100 light side'));
+      var info = h('p', { class: 'eb-out' });
+      watch(info, function (D2) {
+        var parts = [];
+        if (D2.sw.cls) {
+          var picked = SKILLS.filter(function (sk) { return (S.skills[sk[0]] || {}).cls; }).length;
+          parts.push('d' + D2.sw.cls.die + ' HD · stamina ' + D2.sw.stamina + ' (' + D2.sw.cls.stamina + ' + ' + S.sw.abil + ' per level) · ' + D2.sw.cls.ranks + ' + Int ranks per level · class skills: tick ' + D2.sw.cls.picks + ' (' + picked + ' ticked)');
+        }
+        if (D2.sw.fsDodge) parts.push('Force Sensitive: +' + D2.sw.fsDodge + ' dodge AC');
+        var k = D2.sw.karma;
+        if (S.sw.karma) parts.push('karma: ' + [k.cl ? 'CL +' + k.cl : '', k.dc ? 'power DC ' + sgn(k.dc) : '', k.will ? 'Will ' + sgn(k.will) : '', k.cha ? 'Cha checks ' + sgn(k.cha) : '', k.intim ? 'Intimidate +' + k.intim : ''].filter(Boolean).join(', '));
+        info.textContent = parts.join('  ·  ');
+      });
+      var body = [head, info];
+      if (c) {
+        var slots = swSlots(d, c.lvl), by = swEntries(d.key);
+        c.picks = c.picks || [];
+        var all = c.picks.filter(function (p) { return p.slot <= c.lvl; });
+        var iconic = all.filter(function (p) { return p.price === 'iconic'; }).length;
+        var opLow = all.filter(function (p) { return p.price === 'op' && p.slot <= 10; }).length, opHigh = all.filter(function (p) { return p.price === 'op' && p.slot >= 11; }).length;
+        var limits = [];
+        if (iconic > 1) limits.push('only 1 Iconic class feature');
+        if (opLow > 1) limits.push('only 1 OP chosen at levels 1–10');
+        if (opHigh > 1) limits.push('only 1 OP chosen at levels 11–20');
+        body.push(h('div', { class: 'eb-slots' }, slots.map(function (sl) {
+          var mine = c.picks.filter(function (p) { return p.slot === sl.lvl; });
+          var pts = mine.reduce(function (t, p) { return t + PRICE_PTS[p.price]; }, 0), cap = sl.small ? 2 : 4;
+          var big = mine.some(function (p) { return p.price === 'op' || p.price === 'iconic'; });
+          var bad = pts > cap || (big && mine.length > 1) || (sl.small && big);
+          var msg = h('small', { class: 'eb-over' });
+          var priceSel = h('select', { class: 'eb-s' }, [['all', 'any price'], ['iconic', 'Iconic'], ['op', 'OP'], ['common', 'Common'], ['weak', 'Weak']]
+            .filter(function (o) { return !sl.small || !/iconic|op/.test(o[0]); }).map(function (o) { return h('option', { value: o[0], text: o[1] }); }));
+          var input = h('input', { type: 'text', class: 'eb-t eb-wide', placeholder: 'type to search the ' + d.n + ' list…' });
+          input.setAttribute('list', 'sw-list-all');
+          priceSel.addEventListener('change', function () { input.setAttribute('list', 'sw-list-' + priceSel.value); input.focus(); });
+          var add = function () {
+            var e = by[input.value]; if (!e) return;
+            if (e.lvl > sl.lvl) { msg.textContent = e.n + ' is a feature of ' + ord(e.lvl) + ' level: this choice is ' + ord(sl.lvl) + ' level.'; return; }
+            if (sl.small && (e.price === 'op' || e.price === 'iconic')) { msg.textContent = 'At ' + ord(sl.lvl) + ' level the choice is only 1 Common or 2 Weak.'; return; }
+            c.picks.push({ slot: sl.lvl, n: e.n, link: e.link, price: e.price, lvl: e.lvl, text: e.text || '' });
+            input.value = ''; changed(); redraw();
+            var again = root.querySelector('.eb-slot[data-slot="' + sl.lvl + '"] input'); if (again) again.focus();
+          };
+          input.addEventListener('input', function () { if (by[input.value]) add(); });
+          input.addEventListener('change', add);
+          return h('div', { class: 'eb-slot' + (bad ? ' eb-bad' : ''), 'data-slot': sl.lvl },
+            h('div', { class: 'eb-slothead' }, h('b', { text: ord(sl.lvl) + ' level' }), ' · Class Feature ' + sl.n + (sl.small ? ' (1 Common or 2 Weak)' : '') + ' · ',
+              h('span', { class: bad ? 'eb-over' : '', text: pts + '/' + cap + ' points' })),
+            h('div', { class: 'eb-chips' }, mine.map(function (p) {
+              return h('span', { class: 'eb-chip eb-' + p.price },
+                h('a', { href: new URL(p.link, BASE).href, target: '_blank', text: p.n }), ' ', h('small', { text: PRICE_LABEL[p.price] }),
+                h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { c.picks.splice(c.picks.indexOf(p), 1); changed(); redraw(); } }));
+            })),
+            pts < cap ? h('div', { class: 'eb-inline' }, priceSel, input) : null, msg);
+        })));
+        if (limits.length) body.push(h('p', { class: 'eb-over', text: 'Over the limit: ' + limits.join('; ') + '.' }));
+        if (c.lvl >= 20) body.push(h('p', { class: 'eb-note', text: 'Capstone at 20th level: agree it with the GM and add it under Special abilities.' }));
+        body.push(h('p', { class: 'eb-note', text: 'Each choice: 1 Iconic, 1 OP, 2 Common or 4 Weak (Iconic and OP are 4 points, Common 2, Weak 1). From 12th level, the choices at 12th, 16th and 18th are 1 Common or 2 Weak. At most 1 Iconic, 1 OP chosen at levels 1–10 and 1 OP chosen at 11–20. A feature can be taken at its own level or later. Filter by price, then type a name.' }));
+      }
+      var box = h('div', null, body);
+      var sig = c ? c.lvl + c.s : '';
+      watch(box, function () { var c2 = (S.classes || []).filter(function (x) { return CLASS_BY[x.s] && CLASS_BY[x.s].sw; })[0]; if ((c2 ? c2.lvl + c2.s : '') !== sig) setTimeout(redrawAll, 0); });
+      return box;
+    }), 'eb-classes');
+  }
   function classesCard() {
     return card('Classes', slot(function () {
       var D = compute();
@@ -713,7 +854,7 @@
       h('div', { class: 'eb-sklegend' }, h('span', { text: 'Skill' }), h('span', { text: 'Class' }), h('span', { text: 'Ranks' }), h('span', { text: 'Misc' }), h('span', { text: 'Total' })),
       h('div', { class: 'eb-skillgrid' }, SKILLS.map(function (sk) {
         var n = sk[0], st = function () { return S.skills[n] || (S.skills[n] = {}); };
-        var label = n.replace(/^Knowledge \((.*)\)$/, 'Know. ($1)');
+        var label = (SWM && SW_SKILL[n]) || n.replace(/^Knowledge \((.*)\)$/, 'Know. ($1)');
         return h('div', { class: 'eb-sk', 'data-skill': n, title: n + ' (' + sk[1] + ')' },
           h('span', { class: 'eb-skn', text: label }),
           check(function () { return st().cls; }, function (v) { st().cls = v; }),
@@ -770,7 +911,7 @@
         });
         var fill = function (v) {
           var n = v.trim().toLowerCase(), d = weaponData(n), nat = NATURAL[n];
-          if (d) { w.d = d.d; w.t = d.t; w.x = d.x; w.cat = d.c; w.mode = d.c === 'ranged' ? 'ranged' : d.c === 'two-handed' ? 'two' : 'melee'; w.strDmg = /sling|throw/i.test(d.n) || (d.c === 'ranged' && !/bow|crossbow|gun|pistol|musket|rifle|firearm/i.test(d.n)); }
+          if (d) { w.d = d.d; w.t = d.t; w.x = d.x; w.cat = d.c; w.mode = d.c === 'ranged' ? 'ranged' : d.c === 'two-handed' ? 'two' : 'melee'; w.strDmg = d.p !== 'blaster' && (/sling|throw/i.test(d.n) || (d.c === 'ranged' && !/bow|crossbow|gun|pistol|musket|rifle|firearm/i.test(d.n))); }
           else if (nat) { w.d = nat[0]; w.t = 20; w.x = 2; w.cat = 'natural'; w.mode = nat[1] ? 'nat2' : 'nat1'; }
           else return;
           changed(); redraw();
@@ -807,9 +948,23 @@
     }));
   }
 
+  // Force powers known by level, against the class table
+  function knownLine(c) {
+    var p = h('p', { class: 'eb-note' });
+    watch(p, function (D) {
+      if (!D.sw || !D.sw.cls) { p.textContent = 'Pick a class to see how many powers of each level it knows.'; return; }
+      var have = {}; c.spells.forEach(function (x) { have[x.lvl] = (have[x.lvl] || 0) + 1; });
+      p.innerHTML = 'Known at ' + ord(D.sw.lvl) + ' level: ' + D.sw.known.map(function (n, i) {
+        if (!n && !have[i]) return '';
+        var over = (have[i] || 0) > n;
+        return '<span class="' + (over ? 'eb-over' : '') + '">' + (i ? ord(i) : '0th') + ' ' + (have[i] || 0) + '/' + n + '</span>';
+      }).filter(Boolean).join(' · ') + ' · stamina ' + D.sw.stamina;
+    });
+    return p;
+  }
   function spells() {
     var classes = [['', 'any class']].concat(CLASSES.map(function (c) { return [c, c]; }));
-    return card('Spells', slot(function (redraw) {
+    return card(SWM ? 'Force powers and spells' : 'Spells', slot(function (redraw) {
       var blocks = S.casters.map(function (c, ci) {
         var list = h('div', { class: 'eb-spells' });
         var drawList = function () {
@@ -822,6 +977,7 @@
               var cc = D.casters[ci]; if (!cc || cc.c !== c) return;
               var b = cc.spells[i]; if (!b) return;
               var t = [];
+              if (b.cost) t.push('stamina ' + b.cost);
               if (b.dc) t.push('DC ' + b.dc + ' ' + b.save);
               if (b.touch) t.push((b.rays > 1 ? b.rays + ' rays, ' : '') + 'ranged touch ' + sgn(D.rangedTouch));
               if (b.melee) t.push('melee touch ' + sgn(D.meleeTouch));
@@ -831,13 +987,13 @@
               if (b.duration) t.push(b.duration);
               out.textContent = t.join(' · ');
             });
-            var usesCtl = c.kind === 'Spell-Like Abilities'
+            var usesCtl = c.kind === 'Force Powers' ? null : c.kind === 'Spell-Like Abilities'
               ? textBox(function () { return sp.uses; }, function (v) { sp.uses = v; }, { list: 'eb-uses', cls: 'eb-short' })
               : c.kind === 'Spells Prepared'
                 ? h('span', { class: 'eb-inline' }, '×', numBox(function () { return +sp.uses || 1; }, function (v) { sp.uses = v; }, { min: 1, max: 9 }))
                 : h('span', { class: 'eb-inline' }, textBox(function () { return sp.uses; }, function (v) { sp.uses = v; }, { ph: 'per day', cls: 'eb-short' }));
             list.appendChild(h('div', { class: 'eb-spell' },
-              h('a', { href: new URL('magic/spells/' + sp.u + '/', BASE).href, target: '_blank', text: sp.n }),
+              h('a', { href: new URL(sp.fp ? 'campaign-systems/star-wars/force-powers/' : 'magic/spells/' + sp.u + '/', BASE).href, target: '_blank', text: sp.n }),
               h('span', { class: 'eb-inline' }, 'lvl', numBox(function () { return sp.lvl; }, function (v) { sp.lvl = v; }, { min: 0, max: 9 })),
               usesCtl, out,
               h('button', { type: 'button', class: 'eb-x', text: '×', title: 'Remove', onclick: function () { c.spells.splice(i, 1); changed(); redraw(); } })));
@@ -847,25 +1003,27 @@
         var adder = h('input', { type: 'text', class: 'eb-t', placeholder: 'type a spell name and pick it…' });
         adder.setAttribute('list', 'eb-spell-list');
         var add = function () {
+          var fpw = FP_BY[adder.value.trim().toLowerCase()];
+          if (fpw) { c.spells.push({ n: fpw.n, fp: true, lvl: fpw.lvl, uses: '' }); adder.value = ''; changed(); redraw(); return; }
           var s = SPELL_BY_NAME[adder.value.trim().toLowerCase()]; if (!s) return;
           var lv = s.l || {}, lvl = c.cls && lv[c.cls] != null ? lv[c.cls] : Math.min.apply(null, Object.keys(lv).map(function (k) { return lv[k]; }).concat([9]));
           c.spells.push({ n: s.n, u: s.u, lvl: lvl, uses: c.kind === 'Spell-Like Abilities' ? '3/day' : c.kind === 'Spells Prepared' ? 1 : '' });
           adder.value = ''; changed(); redraw();
           var next = root.querySelectorAll('.eb-caster')[ci]; next = next && next.querySelector('input[list="eb-spell-list"]'); if (next) next.focus();
         };
-        adder.addEventListener('change', add); adder.addEventListener('input', function () { if (SPELL_BY_NAME[adder.value.trim().toLowerCase()]) add(); });
+        adder.addEventListener('change', add); adder.addEventListener('input', function () { var v = adder.value.trim().toLowerCase(); if (SPELL_BY_NAME[v] || FP_BY[v]) add(); });
         return h('div', { class: 'eb-caster' },
           h('div', { class: 'eb-grid' },
-            field('Kind', select(['Spell-Like Abilities', 'Spells Prepared', 'Spells Known'], function () { return c.kind; }, function (v) { c.kind = v; }, redraw)),
-            field('Class (for spell levels)', select(classes, function () { return c.cls || ''; }, function (v) { c.cls = v; })),
+            field('Kind', select(SWM ? ['Force Powers', 'Spells Prepared', 'Spell-Like Abilities'] : ['Spell-Like Abilities', 'Spells Prepared', 'Spells Known'], function () { return c.kind; }, function (v) { c.kind = v; }, redraw)),
+            SWM ? null : field('Class (for spell levels)', select(classes, function () { return c.cls || ''; }, function (v) { c.cls = v; })),
             field('Caster level', numBox(function () { return c.cl; }, function (v) { c.cl = v; }, { min: 1, max: 20 })),
             field('Casting ability', select(ABIL.slice(3), function () { return c.abil; }, function (v) { c.abil = v; })),
             h('p', { class: 'eb-out' }, 'Concentration ', calc('casters.' + ci + '.conc')),
             h('button', { type: 'button', class: 'eb-x', text: '×', title: 'Remove this block', onclick: function () { S.casters.splice(ci, 1); changed(); redrawAll(); } })),
-          list, adder);
+          c.kind === 'Force Powers' ? knownLine(c) : null, list, adder);
       });
       return h('div', null, blocks.length ? blocks : h('p', { class: 'eb-note', text: 'No spells yet.' }),
-        h('button', { type: 'button', class: 'md-button eb-add', text: '+ Spell block', onclick: function () { S.casters.push({ kind: 'Spell-Like Abilities', cls: '', cl: lastD ? lastD.totalHD : Math.max(1, S.hd), abil: 'Cha', spells: [] }); changed(); redrawAll(); } }),
+        h('button', { type: 'button', class: 'md-button eb-add', text: SWM ? '+ Power block' : '+ Spell block', onclick: function () { S.casters.push({ kind: SWM ? 'Force Powers' : 'Spell-Like Abilities', cls: '', cl: lastD ? lastD.totalHD : Math.max(1, S.hd), abil: SWM ? (S.sw.abil || 'Wis') : 'Cha', spells: [] }); changed(); redrawAll(); } }),
         h('p', { class: 'eb-note', text: 'DC = 10 + spell level + casting ability modifier. Damage, healing, rays, bonuses and durations are worked out at the caster level, as on the monster pages.' }));
     }));
   }
@@ -942,7 +1100,8 @@
     return h('div', null,
       dl('eb-weapon-list', Object.keys(NATURAL).concat(DATA.weapons.map(function (w) { return w.n; }))),
       dl('eb-feat-list', DATA.feats.map(function (f) { return f.n; })),
-      dl('eb-spell-list', Object.keys(SPELLS).map(function (u) { return SPELLS[u].n; })),
+      dl('eb-spell-list', (SWD ? SWD.powers.map(function (p) { return p.n; }) : []).concat(Object.keys(SPELLS).map(function (u) { return SPELLS[u].n; }))),
+      SWM ? swDatalists() : null,
       dl('eb-uses', ['At will', 'Constant', '1/day', '2/day', '3/day', '1/week']));
   }
 
@@ -951,7 +1110,7 @@
     root.innerHTML = '';
     root.appendChild(datalists());
     root.appendChild(h('div', { class: 'eb-layout' },
-      h('div', { class: 'eb-main' }, basics(), classesCard(), abilities(), defense(), skills(), feats(), attacks(), spells(), specials(), saving()),
+      h('div', { class: 'eb-main' }, basics(), SWM ? swCard() : classesCard(), abilities(), defense(), skills(), feats(), attacks(), spells(), specials(), saving()),
       h('div', { class: 'eb-side' }, output())));
     store();
     refresh();
@@ -960,13 +1119,24 @@
   root.innerHTML = '<p>Loading the wiki\'s weapons, feats and spells…</p>';
   Promise.all([
     fetch(new URL('tools/enemy-builder-data.json', BASE)).then(function (r) { if (!r.ok) throw new Error('enemy-builder-data.json ' + r.status); return r.json(); }),
-    fetch(new URL('tools/spell-data.json', BASE)).then(function (r) { if (!r.ok) throw new Error('spell-data.json ' + r.status); return r.json(); })
+    fetch(new URL('tools/spell-data.json', BASE)).then(function (r) { if (!r.ok) throw new Error('spell-data.json ' + r.status); return r.json(); }),
+    SWM ? fetch(new URL('tools/starwars-builder-data.json', BASE)).then(function (r) { if (!r.ok) throw new Error('starwars-builder-data.json ' + r.status); return r.json(); }) : null
   ]).then(function (res) {
     DATA = res[0];
     var cls = {};
     res[1].spells.forEach(function (s) { SPELLS[s.u] = s; SPELL_BY_NAME[s.n.toLowerCase()] = s; Object.keys(s.l || {}).forEach(function (k) { cls[k] = 1; }); });
     CLASSES = Object.keys(cls).sort();
     (DATA.classes || []).forEach(function (c) { CLASS_BY[c.s] = c; });
+    if (SWM) {
+      SWD = res[2];
+      SWD.classes.forEach(function (c) {
+        CLASS_BY['sw-' + c.s] = { s: 'sw-' + c.s, key: c.s, n: c.n, die: c.die, ranks: c.ranks, skills: [], table: c.table, special: c.special, sw: true,
+          stamina: c.stamina, powers: c.powers, picks: c.skillPicks, prof: c.prof, page: 'campaign-systems/star-wars/#' + c.s };
+      });
+      DATA.weapons = SWD.weapons.map(function (w) { return { n: w.n, p: w.blaster ? 'blaster' : 'lightsaber', c: w.c, d: w.d, t: w.t, x: w.x, r: w.r, ty: 'Energy', sp: w.sp }; }).concat(DATA.weapons);
+      DATA.feats = SWD.forms.map(function (x) { return { n: x.n, u: null }; }).concat(DATA.feats);
+      SWD.powers.forEach(function (p) { FP_BY[p.n.toLowerCase()] = p; });
+    }
     (S.classes || []).forEach(function (c) { loadArch(c.s); });
     redrawAll();
   }).catch(function (e) { root.innerHTML = '<p>The builder could not load its data (' + esc(e.message) + ').</p>'; });
