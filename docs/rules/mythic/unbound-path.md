@@ -13,13 +13,13 @@ The unbound hero follows no single road to legend, and yet walks all of them. Th
 
 **Mythic Path**: None, yet all of them. You choose this path instead of one of the six standard paths, and you don't gain a path's features (such as a champion's or trickster's 1st-tier attack, or its 10th-tier capstone).
 
-**Mythic Points**: Each mythic tier grants you 2 mythic points. You spend them on path abilities and mythic feats, each with its own cost (shown in brackets after its name). As a general rule mythic feats cost 1 point, and path abilities cost between 1 and 3.
+**Mythic Points**: Each mythic tier grants you 2 mythic points, and they are all you gain from the tier. You spend them on path abilities and mythic feats, each with its own cost (shown in brackets after its name). As a general rule mythic feats cost 1 point, and path abilities cost between 1 and 3, so a tier usually buys either one path ability or two mythic feats.
 
 - **[1]**: A weak mythic feat or path ability that costs only 1 mythic point.
 - **[2]**: A path ability of good power that costs 2 mythic points.
 - **[3]**: A path ability that is probably broken; it costs 3 mythic points.
 
-**Base Mythic Abilities**: Several base abilities (hard to kill, surge, recuperation, mythic saving throws and force of will) are in the universal list below with a cost. You buy them with mythic points instead of gaining them automatically at a set tier.
+**No Base Mythic Abilities**: This path is much leaner than the standard ones. You don't gain anything from [Table 1-1: Base Mythic Abilities](index.md#table-1-1-base-mythic-abilities): no ability score increases, no bonus mythic feats, no bonus hit points, and none of the base abilities (surge, hard to kill, amazing initiative, recuperation, mythic saving throws, force of will, unstoppable, immortal or legendary hero). Some of them, such as surge, hard to kill, recuperation, mythic saving throws and force of will, are in the universal list below with a cost; you have them only if you buy them.
 
 **Mythic Power**: The mythic "mana" you spend to use most mythic abilities. You have 2 + your mythic tier uses of mythic power per day, instead of 3 + double your tier.
 
