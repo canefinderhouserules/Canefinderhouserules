@@ -6,4 +6,4 @@ You collect all your power into a single vicious and debilitating punch.
 
 **Prerequisites**: [Improved Unarmed Strike](improved-unarmed-strike.md); base attack bonus +6, brawler's flurry class feature, or flurry of blows class feature.
 
-**Benefit**: As a full-round action (3 AP), you can pool all your attack potential in one devastating punch. Make a number of rolls equal to the number of attacks you can make with a full attack or a flurry of blows (your choice) with the normal attack bonus for each attack. For each roll that is a hit, you deal the normal amount of damage, adding it to any damage the attack has already dealt from previous rolls (if any). If any of the attack rolls are critical threats, make one confirmation roll for the entire attack at your highest base attack bonus. If it succeeds, the entire attack is a confirmed critical hit.
+**Benefit**: Whenever you use a full-attack action or flurry of blows to make multiple attacks against a single opponent with unarmed strikes, total the damage from all hits before applying damage reduction. This ability works only with unarmed strikes, no matter what other abilities you might possess.

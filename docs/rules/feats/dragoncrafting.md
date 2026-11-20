@@ -15,3 +15,5 @@ You have the ability to create rare and valuable items from the bodies of fallen
 | Huge | 6 vials | 3 vials | 2 vials | 2 vials | 3 grips |
 | Gargantuan | 7 vials | 3 vials | 3 vials | 3 vials | 3 grips |
 | Colossal | 8 vials | 4 vials | 3 vials | 3 vials | 3 grips |
+
+**Special**: Normally, if a suit of dragonhide armor has energy immunity, one may enhance such a suit with additional energy protection for the wearer at a 25% reduced cost. However, only effects with the same elemental type as the armor’s immunity are eligible for this discount. An artisan with the Dragoncrafting feat may add 1 additional elemental protection to a suit of dragonhide armor at the same 25% discount, even if this energy resistance is not normally associated with the type of dragonhide being used.

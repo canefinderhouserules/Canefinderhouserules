@@ -2,4 +2,4 @@
 
 You rely on your assuredness and sense of self to help keep your mind clear.
 
-**Benefit**: You gain an insight bonus on Will saving throws against mind-affecting effects equal to your Charisma modifier (minimum 0).
+**Benefit**: Add your Charisma modifier instead of your Wisdom bonus on Will saves against mind-affecting effects. If you have a Wisdom penalty, you must apply both your Wisdom penalty and your Charisma modifier.

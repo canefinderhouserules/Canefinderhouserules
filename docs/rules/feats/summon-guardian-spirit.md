@@ -2,7 +2,7 @@
 
 A guardian spirit has selected you as its ward.
 
-**Prerequisites**: [*summon monster III*](../../magic/spells/summon-monster-iii.md) or [*summon nature’s ally III*](../../magic/spells/summon-natures-ally-iii.md).
+**Prerequisites**: Ability to cast [*summon monster III*](../../magic/spells/summon-monster-iii.md) or [*summon nature’s ally III*](../../magic/spells/summon-natures-ally-iii.md).
 
 **Benefit**: Select one creature that qualifies to be an improved familiar, and apply the guardian spirit template (see below) to it. That creature is added to either your summon monster III or summon nature’s ally III list as a summonable creature. When you summon your guardian spirit, the duration of the spell you use to summon it is 1 minute per level. A guardian spirit is always exactly the same creature, with memory of all the events that occurred while previously summoned; multiple versions of it can’t be summoned. If it’s killed while summoned, it cannot be summoned again for 24 hours.
 

@@ -2,7 +2,7 @@
 
 You attacks are augmented by the strength of your and your deity's shared alignment.
 
-**Prerequisites**: Base attack bonus +n, ability to cast divine spells, alignment must be within one step of your deity's.
+**Prerequisites**: Base attack bonus +11, ability to cast divine spells, alignment must be within one step of your deity's.
 
 **Benefit**: All of your attacks are treated as having whatever alignment components you and your deity share for the purpose of overcoming damage reduction.
 

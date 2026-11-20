@@ -7,3 +7,5 @@ You have mastered the ability to grab foes while you fly by them, carry them int
 **Prerequisites**: Flyby Attack, [Powerful Wings](powerful-wings.md).
 
 **Benefit**: When you succeed at a grapple combat maneuver check as part of a flyby attack, you can move yourself and your target up to half your remaining fly speed. You must drop your target before the end of your turn, or both you and your target crash to the ground immediately and take 2d6 points of falling damage each. A dropped creature takes falling damage as normal. You can't use this feat on creatures whose weight would exceed the amount you can carry as a heavy load.
+
+**Special**: While the following feats are primarily taken by strix, other creatures with natural wings can also take them at the GM's discretion.

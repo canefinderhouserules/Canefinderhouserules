@@ -2,6 +2,6 @@
 
 Your deity protects you against deadly attacks.
 
-**Prerequisites**: Cha 13, Knowledge (religion) 5 ranks, ability to cast 2nd-level divine spells; blessings, domains, or mystery class feature.
+**Prerequisites**: Cha 13, [Knowledge](../skills/knowledge.md) (religion) 5 ranks.
 
-**Benefit**: You gain a bonus equal to your Charisma modifier on all saving throws. If your Charisma modifier is already applied as a bonus on all saving throw (such as from the divine grace class feature), you instead gain a +1 bonus on all saving throws.
+**Benefit**: Once per day as an immediate action (1 AP of your next turn) before rolling a saving throw, you can add your Charisma modifier on that saving throw. As usual, this does not stack if you already apply your Charisma modifier to that saving throw. If you possess the charmed life class feature, you can instead apply Divine Protection’s bonus after rolling the saving throw but before the result is revealed.

@@ -4,7 +4,7 @@
 
 Your anatomical insight adds deadliness to your shots.
 
-**Prerequisites**: Int 13, Point Blank Shot, [Precise Shot](precise-shot.md).
+**Prerequisites**: Int 13, [Point-Blank Shot](point-blank-shot.md), [Precise Shot](precise-shot.md).
 
 **Benefit**: As a standard action (1 AP), you may make an attack with a bow or crossbow and add your Intelligence modifier on the damage roll. You must be within 30 feet of your target to deal this extra damage. Creatures immune to critical hits and sneak attacks are immune to this extra damage.
 

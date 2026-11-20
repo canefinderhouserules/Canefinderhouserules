@@ -2,7 +2,7 @@
 
 You are able to harness the rage that burns inside you and fuels your might.
 
-**Prerequisites**: Str 21.
+**Prerequisites**: Str 21, ogre.
 
 **Benefit**: Select one rage power. Once per day as a free action, you can enter a state of fury and gain the effects of this rage power for 1 minute. If the rage power normally ends a barbarian rage when used, the ability ends after it's used and you immediately become [fatigued](../appendices/conditions.md#fatigued). You don't otherwise become fatigued at the end of this ability's duration.
 

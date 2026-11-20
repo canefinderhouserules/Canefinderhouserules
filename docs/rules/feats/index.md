@@ -852,7 +852,7 @@ Feats from *Ultimate Combat*. Each name links to its full description.
 | [Adder Strike](adder-strike.md) | Combat | Poison use class feature, Craft (alchemy) 1 rank, Improved Unarmed Strike |
 | [Adept Champion](adept-champion.md) | — | Smite evil class feature, base attack bonus +5 |
 | [Amateur Gunslinger](amateur-gunslinger.md) | Combat | You have no levels in a class that has the grit class feature |
-| [Arc Slinger](arc-slinger.md) | Combat | Point-Blank Shot, proficient with sling or half ling sling staff |
+| [Arc Slinger](arc-slinger.md) | Combat | Point-Blank Shot, proficient with sling or halfling sling staff |
 | [Back to Back](back-to-back.md) | Teamwork | Perception 3 ranks |
 | [Betrayer](betrayer.md) | — | Quick Draw, Persuasive, base attack bonus +3 |
 | [Binding Throw](binding-throw.md) | Combat | Improved Grapple, Improved Trip, Improved Unarmed Strike, Ki Throw |
@@ -1316,7 +1316,7 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 | [Cleave Through](cleave-through.md) | Combat | Cleaving Finish, base attack bonus +6 |
 | [Cloud Gazer](cloud-gazer.md) | — | Sylph |
 | [Cloven Helm](cloven-helm.md) | Combat | Dented Helm, Hard-Headed, base attack bonus +11, dwarf |
-| [Courageous Resolve](courageous-resolve.md) | — | Craven racial trait or fearless racial trait, half ling |
+| [Courageous Resolve](courageous-resolve.md) | — | Craven racial trait or fearless racial trait, halfling |
 | [Critical Versatility](critical-versatility.md) | Combat | Fighter level 11th, human |
 | [Dark Sight](dark-sight.md) | — | Gloom Sight, fetchling |
 | [Dauntless Destiny](dauntless-destiny.md) | — | Cha 13, Fearless Curiosity, Intimidate 10 ranks, human |
