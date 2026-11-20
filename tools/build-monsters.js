@@ -77,9 +77,9 @@ const SPELL_ALIASES = {
   'meld with stone': 'meld-into-stone', 'purify food & drink': 'purify-food-and-drink', 'purify food and water': 'purify-food-and-drink',
   'purify food or drink': 'purify-food-and-drink', "order's wraith": 'orders-wrath', 'order’s wraith': 'orders-wrath',
   'cure mod. wounds': 'cure-moderate-wounds', 'magic circle vs. evil': 'magic-circle-against-evil', 'g. teleport': 'teleport-greater',
-  'd. magic': 'dispel-magic', 'r. magic': 'read-magic', 'major curse': 'bestow-curse-greater', 'fires of judgment': 'fire-of-judgment', 'fleshy facade': 'flesh-facade',
-  // the user's reading of three source typos
-  'd. poison': 'poison', 'ray of fatigue': 'ray-of-exhaustion', 'bear’s strength': 'bulls-strength', "bear's strength": 'bulls-strength',
+  'd. magic': 'detect-magic', 'r. magic': 'read-magic', 'major curse': 'bestow-curse-greater', 'fires of judgment': 'fire-of-judgment', 'fleshy facade': 'flesh-facade',
+  // source typos: d. magic and d. poison sit in a 0-level list (detect spells)
+  'd. poison': 'detect-poison', 'ray of fatigue': 'ray-of-exhaustion', 'bear’s strength': 'bulls-strength', "bear's strength": 'bulls-strength',
 };
 function spellSlug(name) {
   const alias = SPELL_ALIASES[name.toLowerCase().trim()];
