@@ -23,7 +23,7 @@ N Medium animal
 
 **Str** 13, **Dex** 17, **Con** 16, **Int** 2, **Wis** 15, **Cha** 8  
 **Base Atk** +1; **CMB** +2; **CMD** 15 (19 vs. trip)  
-**Feats** [Run<sup>B</sup>](../../rules/feats/run.md), [Skill Focus (Acrobatics)](../../rules/feats/skill-focus.md)  
+**Feats** [Run](../../rules/feats/run.md), [Skill Focus (Acrobatics)](../../rules/feats/skill-focus.md)  
 **Skills** Acrobatics +10, Perception +6
 
 **Ecology**

@@ -28,7 +28,7 @@ N Medium construct (clockwork)
 
 **Str** 19, **Dex** 14, **Con** —, **Int** —, **Wis** 13, **Cha** 1  
 **Base Atk** +10; **CMB** +15; **CMD** 29  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **Skills** Climb +12  
 **SQ** swift reactions, tactical calculus, winding
 

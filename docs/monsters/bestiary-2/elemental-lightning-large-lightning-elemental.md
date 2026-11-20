@@ -26,7 +26,7 @@ N Large outsider (air, elemental, extraplanar)
 
 **Str** 16, **Dex** 23, **Con** 14, **Int** 6, **Wis** 11, **Cha** 11  
 **Base Atk** +8; **CMB** +12; **CMD** 29  
-**Feats** [Dodge](../../rules/feats/dodge.md), Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), [Mobility](../../rules/feats/mobility.md), Weapon Finesse <sup>B</sup>  
+**Feats** [Dodge](../../rules/feats/dodge.md), Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), [Mobility](../../rules/feats/mobility.md), Weapon Finesse  
 **Skills** Acrobatics +17, Escape Artist +17, Fly +12, Knowledge (planes) +9, Perception +11
 
 **Ecology**

@@ -23,9 +23,9 @@ NE Small humanoid (goblinoid)
 **Ranged**  light crossbow +12 (1d6/19–20)  
 **Special Attacks** bomb 10/day (4d6+3 fire, DC 16)  
 **Alchemist Extracts Prepared** (CL 7th)  
-3rd—*heroism*, *resinous skin*<sup>UC</sup> (DC 16)  
-2nd—*alchemical allocation*<sup>APG</sup> (2), *barkskin*, *see invisibility*  
-1st—*disguise self*, *expeditious retreat*, *reduce person* (DC 14), *shield*, *targeted bomb admixture*<sup>UC</sup>
+3rd—*heroism*, *resinous skin* (DC 16)  
+2nd—*alchemical allocation* (2), *barkskin*, *see invisibility*  
+1st—*disguise self*, *expeditious retreat*, *reduce person* (DC 14), *shield*, *targeted bomb admixture*
 
 **Tactics**
 
@@ -35,10 +35,10 @@ NE Small humanoid (goblinoid)
 
 **Str** 6, **Dex** 22, **Con** 13, **Int** 16, **Wis** 10, **Cha** 8  
 **Base Atk** +5; **CMB** +2; **CMD** 18  
-**Feats** [Brew Potion](../../rules/feats/brew-potion.md), [Fire Tamer<sup>ARG</sup>](../../rules/feats/fire-tamer.md), [Flame Heart<sup>ARG</sup>](../../rules/feats/flame-heart.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Throw Anything](../../rules/feats/throw-anything.md)  
+**Feats** [Brew Potion](../../rules/feats/brew-potion.md), [Fire Tamer](../../rules/feats/fire-tamer.md), [Flame Heart](../../rules/feats/flame-heart.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Throw Anything](../../rules/feats/throw-anything.md)  
 **Skills** Craft (alchemy) +13, Disable Device +16, Heal +4, Intimidate +6 (+8 vs. goblins), Knowledge (arcana, nature) +7, Perception +10, Ride +10, Sleight of Hand +11, Spellcraft +11, Stealth +21, Survival +4, Use Magic Device +5  
 **Languages** Aklo, Aquan, Goblin, Undercommon  
-**SQ** alchemy (alchemy crafting +7, identify potions), discoveries (precise bombs [3 squares], tanglefoot bomb<sup>UM</sup>, wings<sup>UM</sup>), mutagen (+4/–2, +2 natural, 70 minutes), poison use, swift alchemy, swift poisoning  
+**SQ** alchemy (alchemy crafting +7, identify potions), discoveries (precise bombs [3 squares], tanglefoot bomb, wings), mutagen (+4/–2, +2 natural, 70 minutes), poison use, swift alchemy, swift poisoning  
 **Combat Gear**  *potion of fly*, *potion of fox’s cunning*, *potion of invisibility*, *wand of freedom of movement* (2 charges), tanglefoot bags (8); **Other Gear** *+1 mithral chain shirt*, heavy mace, light crossbow with 20 bolts, *cloak of resistance +1*, universal solvent (2), 11 gp
 
 **Ecology**

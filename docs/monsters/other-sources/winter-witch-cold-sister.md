@@ -20,15 +20,15 @@ LE Medium humanoid (human)
 
 **Speed** 30 ft.  
 **Melee** *+1 spear* +4 (1d8)  
-**Special Attacks** hexes (blight [100 feet], evil eye [–4, 7 rounds], flight [ *feather fall* at will, *levitate* 1/day, fly 10 minutes/day], *hoarfrost*<sup>UM</sup>, slumber [10 rounds])  
+**Special Attacks** hexes (blight [100 feet], evil eye [–4, 7 rounds], flight [ *feather fall* at will, *levitate* 1/day, fly 10 minutes/day], *hoarfrost*, slumber [10 rounds])  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
 Constant—*endure elements* (cold temperatures only)  
 **Witch Spells Prepared** (CL 9th; concentration +13)  
 5th—*cone of cold* (DC 20)  
 4th—*lesser geas* (DC 19), *phantasmal killer* (DC 18), *wall of ice* (DC 19)  
-3rd—*bestow curse* (DC 17), *share senses*<sup>APG</sup>, *sleet storm*, *twilight knife*<sup>APG</sup>  
-2nd—*detect thoughts* (DC 16), *fog cloud*, *hold person* (DC 17), *perceive cues*<sup>APG</sup>, *zone of truth* (DC 17)  
-1st—*beguiling gift*<sup>APG</sup> (DC 15), *chill touch* (DC 15), *command* (DC 16), *icicle dagger*<sup>UM</sup>, *unshakable chill*<sup>UM</sup>(DC 16)  
+3rd—*bestow curse* (DC 17), *share senses*, *sleet storm*, *twilight knife*  
+2nd—*detect thoughts* (DC 16), *fog cloud*, *hold person* (DC 17), *perceive cues*, *zone of truth* (DC 17)  
+1st—*beguiling gift* (DC 15), *chill touch* (DC 15), *command* (DC 16), *icicle dagger*, *unshakable chill*(DC 16)  
 0 (at will)—*daze* (DC 14), *detect magic*, *ray of frost*, *read magic*  
 **Patron** winter
 
@@ -53,7 +53,7 @@ Constant—*endure elements* (cold temperatures only)
 
 **Freeze and Thaw (Su)** At 2nd level, a winter witch can freeze water or melt ice and snow with a touch. As a standard action, a winter witch can melt an adjacent 5-foot cube of ice or 10-foot cube of snow. Melting snow produces a volume of water equal to 10% the snow’s volume. Alternatively, a winter witch can freeze 5 cubic feet of water into solid ice. This freezing takes place gradually over 1 round, making it almost impossible to trap a creature unless it’s helpless. This ability cannot affect water within a creature. One cubic foot of ice contains roughly 8 gallons of water and weighs about 60 pounds. This ability works on fresh water and saltwater, but has no affect on water creatures; on liquids (frozen or otherwise) other than water; or on magical water, ice, or snow. A winter witch can use this ability a number of times per day equal to 1/2 her class level.
 
-**Hyperboreal Patronage** A winter witch’s patron reveals an icy aspect. A winter witch adds the following spells to her spell list at the following class levels, but does not automatically learn them: 3rd—*wall of ice*, 5th—*icy prison*<sup>UM</sup>, 7th—*freezing sphere*.
+**Hyperboreal Patronage** A winter witch’s patron reveals an icy aspect. A winter witch adds the following spells to her spell list at the following class levels, but does not automatically learn them: 3rd—*wall of ice*, 5th—*icy prison*, 7th—*freezing sphere*.
 
 **Ice Magic** When a winter witch casts a spell with the cold descriptor, the save DC of the spell increases by 1. A winter witch cannot learn or cast spells with the fire descriptor.
 

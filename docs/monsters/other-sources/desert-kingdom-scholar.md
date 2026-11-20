@@ -24,7 +24,7 @@ N Medium humanoid (human)
 **Special Attacks** archaeologist’s luck 7 rounds/day (+2)  
 **Bard Spells Known** (CL 8th; concentration +11)  
 3rd (3/day)—*dispel magic*, *good hope*, *haste*  
-2nd (5/day)—*cure moderate wounds*, *glitterdust* (DC 15), *locate object*, *pilfering hand*<sup>UC</sup>  
+2nd (5/day)—*cure moderate wounds*, *glitterdust* (DC 15), *locate object*, *pilfering hand*  
 1st (5/day)—*animate rope*, *charm person* (DC 14), *comprehend languages*, *detect secret doors*, *grease* (DC 14)  
 0 (at will)—*detect magic*, *know direction*, *mending*, *open/close*, *read magic*, *resistance*
 

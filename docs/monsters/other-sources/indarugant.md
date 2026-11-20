@@ -23,7 +23,7 @@ CE Huge undead
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** curse of frozen flesh, lingering curses, rock throwing (120 ft.)  
 **Spell-Like Abilities** (CL 15th; concentration +19)  
-At will—*ill omen*<sup>APG</sup>  
+At will—*ill omen*  
 3/day—*bestow curse* (DC 18), *blindness/deafness* (DC 17)  
 1/day—*cone of cold* (DC 19)
 

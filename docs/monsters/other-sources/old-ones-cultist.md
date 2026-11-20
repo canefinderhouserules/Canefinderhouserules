@@ -24,16 +24,16 @@ CE Medium humanoid (human)
 5th (4/day)—*feeblemind* (DC 20), *mass inflict light wounds* (DC 20), *summon monster V*  
 4th (6/day)—*black tentacles*, *divine power*, *inflict critical wounds* (DC 19), *summon monster IV*  
 3rd (7/day)—*animate dead*, *bestow curse* (DC 18), *inflict serious wounds* (DC 18), *prayer*, *tongues*  
-2nd (7/day)—*disfiguring touch*<sup>UM</sup> (DC 17), *dust of twilight*<sup>APG</sup> (DC 17), *enthrall* (DC 17), *inflict moderate wounds* (DC 17), *lesser restoration*, *shard of chaos*<sup>UM</sup> (DC 17)  
-1st (8/day)—*command* (DC 16), *divine favor*, *doom* (DC 16), *entropic shield*, *inflict light wounds* (DC 16), *ray of sickening*<sup>UM</sup> (DC 16), *shield of faith*  
-0 (at will)—*bleed* (DC 15), *detect magic*, *detect poison*, *guidance*, *light*, *mending*, *read magic*, *resistance*, *spark*<sup>APG</sup>  
-**Mystery** dark tapestry<sup>UM</sup>
+2nd (7/day)—*disfiguring touch* (DC 17), *dust of twilight* (DC 17), *enthrall* (DC 17), *inflict moderate wounds* (DC 17), *lesser restoration*, *shard of chaos* (DC 17)  
+1st (8/day)—*command* (DC 16), *divine favor*, *doom* (DC 16), *entropic shield*, *inflict light wounds* (DC 16), *ray of sickening* (DC 16), *shield of faith*  
+0 (at will)—*bleed* (DC 15), *detect magic*, *detect poison*, *guidance*, *light*, *mending*, *read magic*, *resistance*, *spark*  
+**Mystery** dark tapestry
 
 **Statistics**
 
 **Str** 10, **Dex** 15, **Con** 12, **Int** 13, **Wis** 8, **Cha** 20  
 **Base Atk** +7; **CMB** +7; **CMD** 20  
-**Feats** [Dodge](../../rules/feats/dodge.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), [Oracular Intuition<sup>UM</sup>](../../rules/feats/oracular-intuition.md), Stoic, [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Dodge](../../rules/feats/dodge.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), [Oracular Intuition](../../rules/feats/oracular-intuition.md), Stoic, [Toughness](../../rules/feats/toughness.md)  
 **Skills** Diplomacy +13, Disguise +13, Heal +7, Intimidate +13, Knowledge (arcana) +14, Knowledge (history) +8, Knowledge (planes) +14, Knowledge (religion) +14, Sense Motive +9, Spellcraft +18, Stealth +6  
 **Languages** Aklo, Common, Terran; *tongues* (understand only)  
 **SQ** oracle’s curse (tongues), revelations (brain drain [3/day, 10d4], cloak of darkness [+6, 10 hours/day], interstellar void [2/day, 10d6 plus fatigue])  

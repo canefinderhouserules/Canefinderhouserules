@@ -23,7 +23,7 @@ CE Medium monstrous humanoid (cold)
 **Special Attacks** breath weapon (30-ft. cone, 4d6 cold and blinded for 1d6 rounds, Reflex DC 18 partial, usable every 1d4 round)  
 **Spell-Like Abilities** (CL 10th; concentration +14)  
 Constant—*pass without trace*, *see invisibility*  
-At will—*chill metal* (DC 16), *detect magic*, *fog cloud*, *frostbite*<sup>UM</sup>, *whispering wind*  
+At will—*chill metal* (DC 16), *detect magic*, *fog cloud*, *frostbite*, *whispering wind*  
 3/day—*alter self*, *charm monster* (DC 18), *invisibility* (self only), *major image* (DC 17)  
 1/day—*cone of cold* (DC 19; see ice staff), *control weather* (windy or cold weather only), *wall of ice* (DC 18), *waves of fatigue*
 

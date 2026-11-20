@@ -32,7 +32,7 @@ At will—*detect evil*
 
 **Str** 16, **Dex** 10, **Con** 14, **Int** 8, **Wis** 12, **Cha** 16  
 **Base Atk** +8; **CMB** +11; **CMD** 21  
-**Feats** [Extra Mercy](../../rules/feats/extra-mercy.md), [Improved Shield Bash](../../rules/feats/improved-shield-bash.md), [Power Attack](../../rules/feats/power-attack.md), [Shield Focus](../../rules/feats/shield-focus.md), [Shield Wall<sup>APG</sup>](../../rules/feats/shield-wall.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (longsword)](../../rules/feats/weapon-focus.md)  
+**Feats** [Extra Mercy](../../rules/feats/extra-mercy.md), [Improved Shield Bash](../../rules/feats/improved-shield-bash.md), [Power Attack](../../rules/feats/power-attack.md), [Shield Focus](../../rules/feats/shield-focus.md), [Shield Wall](../../rules/feats/shield-wall.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (longsword)](../../rules/feats/weapon-focus.md)  
 **Skills** Diplomacy +14, Heal +5, Knowledge (religion) +7, Perception +6, Sense Motive +7  
 **Languages** Common  
 **SQ** aura, code of conduct, divine bond (weapon +1, 1/day), lay on hands (2d6, 5/day), mercy (shaken, sickened), sentinel against undeath +1  

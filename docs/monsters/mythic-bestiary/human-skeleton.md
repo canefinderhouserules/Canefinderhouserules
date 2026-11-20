@@ -32,7 +32,7 @@ NE Medium undead (mythic)
 
 **Str** 15, **Dex** 14, **Con** —, **Int** —, **Wis** 10, **Cha** 10  
 **Base Atk** +1; **CMB** +3; **CMD** 15  
-**Feats** [Improved Initiative<sup>B M</sup>](../../rules/feats/improved-initiative.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md)  
 **Skills** Perception +0
 
 **Ecology**

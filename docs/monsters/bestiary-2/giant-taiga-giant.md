@@ -27,7 +27,7 @@ CN Huge humanoid (giant)
 
 **Str** 31, **Dex** 14, **Con** 22, **Int** 12, **Wis** 17, **Cha** 15  
 **Base Atk** +11; **CMB** +23; **CMD** 39  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Cleave](../../rules/feats/cleave.md), [Endurance](../../rules/feats/endurance.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Self-Sufficient](../../rules/feats/self-sufficient.md), [Shot on the Run<sup>B</sup>](../../rules/feats/shot-on-the-run.md), [Vital Strike](../../rules/feats/vital-strike.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Cleave](../../rules/feats/cleave.md), [Endurance](../../rules/feats/endurance.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Self-Sufficient](../../rules/feats/self-sufficient.md), [Shot on the Run](../../rules/feats/shot-on-the-run.md), [Vital Strike](../../rules/feats/vital-strike.md)  
 **Skills** Climb +15, Knowledge (religion) +11, Perception +13, Stealth +6 (+12 in undergrowth), Survival +20; **Racial Modifiers** +6 Stealth in undergrowth  
 **Languages** Common, Giant  
 **SQ** spirit summoning

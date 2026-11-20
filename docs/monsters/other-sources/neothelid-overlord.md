@@ -27,7 +27,7 @@ Constant—*fly*
 At will—*clairvoyance/clairaudience*, *detect thoughts* (DC 19), *mass charm monster* (DC 25), *mass suggestion* (DC 23), *poison* (DC 20), *telekinesis*, *teleport*  
 3/day—quickened *mass suggestion* (DC 23)  
 **Psychic Magic** (CL 20th; concentration +27)  
-27 PE—*demand offering*<sup>OA</sup> (2 PE, DC 19), *ego whip V*<sup>OA</sup> (6 PE, DC 23), *id insinuation IV*<sup>OA</sup> (5 PE, DC 22), *mass inflict pain*<sup>OA</sup> (6 PE, DC 23), *mind thrust VI*<sup>OA</sup> (6 PE, DC 23), *psychic crush V*<sup>OA</sup> (9 PE, DC 26), *telekinetic storm*<sup>OA</sup> (9 PE, DC 26)
+27 PE—*demand offering* (2 PE, DC 19), *ego whip V* (6 PE, DC 23), *id insinuation IV* (5 PE, DC 22), *mass inflict pain* (6 PE, DC 23), *mind thrust VI* (6 PE, DC 23), *psychic crush V* (9 PE, DC 26), *telekinetic storm* (9 PE, DC 26)
 
 **Statistics**
 
@@ -41,7 +41,7 @@ At will—*clairvoyance/clairaudience*, *detect thoughts* (DC 19), *mass charm m
 **Ecology**
 
 **Environment** any underground  
-**Organization** solitary, pair, or conclave (3–5 served by a cult of neothelids and 9–24 seugathi<sup>B2</sup>)  
+**Organization** solitary, pair, or conclave (3–5 served by a cult of neothelids and 9–24 seugathi)  
 **Treasure** standard
 
 **Special Abilities**
@@ -50,6 +50,6 @@ At will—*clairvoyance/clairaudience*, *detect thoughts* (DC 19), *mass charm m
 
 **Coordinated Attacks (Ex)** A neothelid overlord can make attacks with the three tongues in each of its two heads. It can attempt to swallow two targets at the same time, but if the neothelid overlord instead attacks the same target with all six tongues, it gains a +4 bonus on all combat maneuver checks to grab and swallow that target, regardless of how many tongues successfully hit. On a round in which it uses its breath weapon, a neothelid overlord can still attack with the three tongues belonging to its other head.
 
-**Divided Consciousness (Ex)** The neothelid overlord’s two heads share a split consciousness that allows it to operate as though the overlord were constantly under the effect of a *divide mind*<sup>OA</sup> spell.
+**Divided Consciousness (Ex)** The neothelid overlord’s two heads share a split consciousness that allows it to operate as though the overlord were constantly under the effect of a *divide mind* spell.
 
 **Trace Teleport (Ex)** A neothelid overlord telepathically and reflexively learns the mental coordinates of the destination of all creatures that use a teleport spell or effect within 60 feet of it, gaining an awareness of the location equivalent to “seen casually.” This knowledge fades and is lost after 1 minute. This ability does not grant any environmental information about the conditions of the destination.

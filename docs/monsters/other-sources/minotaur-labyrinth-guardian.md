@@ -29,7 +29,7 @@ CE Large undead (augmented monstrous humanoid)
 
 **Str** 25, **Dex** 12, **Con** —, **Int** 14, **Wis** 18, **Cha** 16  
 **Base Atk** +7; **CMB** +15; **CMD** 26  
-**Feats** [Exotic Weapon Proficiency (bastard sword)](../../rules/feats/exotic-weapon-proficiency.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Mounted Combat<sup>B</sup>](../../rules/feats/mounted-combat.md), [Power Attack](../../rules/feats/power-attack.md), [Ride-By Attack<sup>B</sup>](../../rules/feats/ride-by-attack.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (bastard sword)](../../rules/feats/weapon-focus.md)  
+**Feats** [Exotic Weapon Proficiency (bastard sword)](../../rules/feats/exotic-weapon-proficiency.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Mounted Combat](../../rules/feats/mounted-combat.md), [Power Attack](../../rules/feats/power-attack.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), [Toughness](../../rules/feats/toughness.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (bastard sword)](../../rules/feats/weapon-focus.md)  
 **Skills** Climb +12, Intimidate +18, Knowledge (dungeoneering) +12, Knowledge (engineering) +10, Knowledge (religion) +12, Perception +20, Ride +14, Survival +13; **Racial Modifiers** +8 Intimidate, +12 Perception, +8 Ride, +4 Survival  
 **Languages** Common, Giant  
 **SQ** phantom mount, ruinous revivification  

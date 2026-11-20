@@ -26,7 +26,7 @@ N Huge vermin
 
 **Str** 27, **Dex** 15, **Con** 20, **Int** —, **Wis** 14, **Cha** 2  
 **Base Atk** +7; **CMB** +17 (+21 grapple); **CMD** 29 (41 vs. trip)  
-**Feats** [Skill Focus (Stealth)<sup>B</sup>](../../rules/feats/skill-focus.md)  
+**Feats** [Skill Focus (Stealth)](../../rules/feats/skill-focus.md)  
 **Skills** Perception +6, Stealth +5 (+13 in forests); **Racial Modifiers** +4 Perception, +8 Stealth (+16 in forests)
 
 **Ecology**

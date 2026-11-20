@@ -34,7 +34,7 @@ NE Small humanoid (goblinoid)
 **Skills** Acrobatics +3, Handle Animal +3, Perception +6, Ride +10, Stealth +14, Swim +3; **Racial Modifiers** +4 Ride, +4 Stealth  
 **Languages** Goblin  
 **SQ** track +1, wild empathy +0  
-**Combat Gear**  *potion of bull’s strength*, *potions of cure light wounds* (2), alchemist’s fire (4), tanglefoot bags (2); **Other Gear** studded leather, heavy wooden shield, mwk dogslicer<sup>UE</sup>, shortbow with 20 mwk arrows, tindertwigs (7), giant gecko mount, 2 gp
+**Combat Gear**  *potion of bull’s strength*, *potions of cure light wounds* (2), alchemist’s fire (4), tanglefoot bags (2); **Other Gear** studded leather, heavy wooden shield, mwk dogslicer, shortbow with 20 mwk arrows, tindertwigs (7), giant gecko mount, 2 gp
 
 **Ecology**
 

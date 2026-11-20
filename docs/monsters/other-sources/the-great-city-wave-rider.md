@@ -26,9 +26,9 @@ NG Medium humanoid (aquatic)
 **Spell-Like Abilities** (CL 2nd; concentration +5)  
 6/day—dehydrating touch  
 **Sorcerer Spells Known** (CL 2nd; concentration +5)  
-1st (5/day)—*hydraulic push*<sup>APG</sup>, *mage armor*  
+1st (5/day)—*hydraulic push*, *mage armor*  
 0 (at will)—*daze* (DC 13), *detect magic*, *light*, *ray of frost*, *read magic*  
-**Bloodline** aquatic<sup>APG</sup>
+**Bloodline** aquatic
 
 **Statistics**
 

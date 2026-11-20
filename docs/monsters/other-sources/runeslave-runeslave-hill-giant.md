@@ -28,7 +28,7 @@ CE Large humanoid (giant)
 
 **Str** 29, **Dex** 10, **Con** 19, **Int** 4, **Wis** 8, **Cha** 5  
 **Base Atk** +7; **CMB** +17; **CMD** 27  
-**Feats** [Diehard<sup>B</sup>](../../rules/feats/diehard.md), [Iron Will](../../rules/feats/iron-will.md), [Martial Weapon Proficiency (greatclub)](../../rules/feats/martial-weapon-proficiency.md), [Power Attack](../../rules/feats/power-attack.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (greatclub)](../../rules/feats/weapon-focus.md)  
+**Feats** [Diehard](../../rules/feats/diehard.md), [Iron Will](../../rules/feats/iron-will.md), [Martial Weapon Proficiency (greatclub)](../../rules/feats/martial-weapon-proficiency.md), [Power Attack](../../rules/feats/power-attack.md), [Toughness](../../rules/feats/toughness.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (greatclub)](../../rules/feats/weapon-focus.md)  
 **Skills** Climb +14, Perception +7  
 **Languages** Giant
 

@@ -28,9 +28,9 @@ CE Large humanoid (cold, giant)
 9/day—strength surge (+4)  
 9/day—battle rage (+4)  
 **Cleric Spells Prepared** (CL 8th; concentration +14)  
-4th—*blessing of fervor*<sup>APG</sup>, *communal protection from energy*<sup>UC</sup>, *divine power*<sup>D</sup>, *unholy blight* (DC 20)  
-3rd—*enter image*<sup>APG</sup>, *invisibility purge*, *magic vestment*<sup>D</sup>, *protection from energy*, *sacred bond*<sup>APG</sup>  
-2nd—*align weapon*, *death knell* (DC 18), *hold person* (DC 18), *magic boulder*, *spiritual weapon*<sup>D</sup>, *weapon of awe*<sup>APG</sup>  
+4th—*blessing of fervor*, *communal protection from energy*, *divine power*<sup>D</sup>, *unholy blight* (DC 20)  
+3rd—*enter image*, *invisibility purge*, *magic vestment*<sup>D</sup>, *protection from energy*, *sacred bond*  
+2nd—*align weapon*, *death knell* (DC 18), *hold person* (DC 18), *magic boulder*, *spiritual weapon*<sup>D</sup>, *weapon of awe*  
 1st—*bane* (DC 17), *bless*, *command* (DC 17), *cure light wounds*, *divine favor*, *enlarge person*<sup>D</sup> (DC 17), *shield of faith*  
 0 (at will)—*detect magic*, *guidance*, *mending*, *read magic*  
 **D** domain spell; **Domains** Strength, War

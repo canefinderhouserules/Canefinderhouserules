@@ -28,7 +28,7 @@ N Gargantuan construct (robot)
 
 **Str** 36, **Dex** 11, **Con** —, **Int** 12, **Wis** 13, **Cha** 1  
 **Base Atk** +20; **CMB** +37 (+41 bull rush, +39 sunder); **CMD** 47 (49 vs. bull rush, 49 vs. sunder)  
-**Feats** Awesome Blow, [Deadly Aim](../../rules/feats/deadly-aim.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (slam)](../../rules/feats/improved-critical.md), [Improved Sunder](../../rules/feats/improved-sunder.md), Point- Blank Shot, [Power Attack](../../rules/feats/power-attack.md), [Precise Shot](../../rules/feats/precise-shot.md), [Stunning Assault<sup>APG</sup>](../../rules/feats/stunning-assault.md)  
+**Feats** Awesome Blow, [Deadly Aim](../../rules/feats/deadly-aim.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (slam)](../../rules/feats/improved-critical.md), [Improved Sunder](../../rules/feats/improved-sunder.md), Point- Blank Shot, [Power Attack](../../rules/feats/power-attack.md), [Precise Shot](../../rules/feats/precise-shot.md), [Stunning Assault](../../rules/feats/stunning-assault.md)  
 **Skills** Climb +17, Disable Device +13, Knowledge (engineering) +24, Perception +24, Sense Motive +13  
 **Languages** Androffan, Common
 

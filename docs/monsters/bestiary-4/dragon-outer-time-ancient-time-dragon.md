@@ -24,14 +24,14 @@ N Gargantuan dragon
 **Special Attacks** breath weapon (60-ft. cone, 20d10 electricity, DC 32), crush, second chance, shifting breath (5 rounds), tail sweep  
 **Spell-Like Abilities** (CL 27th; concentration +33)  
 Constant—*detect magic*  
-At will—*clairaudience/clairvoyance*, *legend lore*, *locate creature*, *share memory*<sup>UM</sup>  
+At will—*clairaudience/clairvoyance*, *legend lore*, *locate creature*, *share memory*  
 **Sorcerer Spells Known** (CL 15th; concentration +21)  
 7th (4/day)—*plane shift* (DC 23), *sequester*  
 6th (7/day)—*disintegrate* (DC 22), *greater dispel magic*, *true seeing*  
 5th (7/day)—*dominate person* (DC 21), *feeblemind* (DC 21), *telepathic bond*, *teleport*  
 4th (7/day)—*fear* (DC 20), *scrying* (DC 20), *stone shape*, *stoneskin*  
 3rd (7/day)—*blink*, *dispel magic*, *slow* (DC 19), *tongues*  
-2nd (8/day)—*arcane lock*, *blindness/deafness* (DC 18), *blur*, *detect thoughts* (DC 18), *memory lapse*<sup>APG</sup> (DC 18)  
+2nd (8/day)—*arcane lock*, *blindness/deafness* (DC 18), *blur*, *detect thoughts* (DC 18), *memory lapse* (DC 18)  
 1st (8/day)—*erase*, *feather fall*, *identify*, *mage armor*, *magic missile*  
 0 (at will)—*light*, *mage hand*, *message*, *read magic*, 5 more
 

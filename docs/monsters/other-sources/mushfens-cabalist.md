@@ -22,11 +22,11 @@ NE Medium humanoid (changeling)
 **Ranged**  sling +5 (1d4–1)  
 **Special Attacks** hexes (cackle, charm [2 steps, 3 rounds], disguise [9 hours], evil eye [–4, 6 rounds], slumber [9 rounds], ward [+3])  
 **Witch Spells Prepared** (CL 9th; concentration +12)  
-5th—*suffocation*<sup>APG</sup> (DC 19)  
+5th—*suffocation* (DC 19)  
 4th—*control water*, *fear* (DC 17)  
 3rd—*bestow curse* (DC 16), *dispel magic*, *vampiric touch*, *water breathing*  
 2nd—*blindness/deafness* (DC 15), *cure moderate wounds*, *detect thoughts* (DC 15), *hold person* (DC 15), *see invisibility*  
-1st—*beguiling gift*<sup>APG</sup> (DC 15), *charm person* (DC 14), *mage armor*, *obscuring mist*, *ray of enfeeblement* (DC 14)  
+1st—*beguiling gift* (DC 15), *charm person* (DC 14), *mage armor*, *obscuring mist*, *ray of enfeeblement* (DC 14)  
 0 (at will)—*bleed* (DC 13), *detect magic*, *read magic*, *touch of fatigue* (DC 13)  
 **Patron** Water
 
@@ -34,7 +34,7 @@ NE Medium humanoid (changeling)
 
 **Str** 8, **Dex** 13, **Con** 10, **Int** 17, **Wis** 16, **Cha** 12  
 **Base Atk** +4; **CMB** +3; **CMD** 15  
-**Feats** [Deceitful](../../rules/feats/deceitful.md), [Extend Spell](../../rules/feats/extend-spell.md), [Extra Hex<sup>APG</sup>](../../rules/feats/extra-hex.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Deceitful](../../rules/feats/deceitful.md), [Extend Spell](../../rules/feats/extend-spell.md), [Extra Hex](../../rules/feats/extra-hex.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Bluff +12, Disguise +3, Intimidate +13, Knowledge (arcana) +15, Knowledge (nature) +15, Spellcraft +15  
 **Languages** Aklo, Common, Giant, Goblin, Frontier  
 **SQ** hulking changeling, witch’s familiar (snake)  

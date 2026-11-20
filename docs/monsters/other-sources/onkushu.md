@@ -24,8 +24,8 @@ CG Large outsider (extraplanar, fire, good)
 **Special Attacks** burn (2d6 fire, DC 22), wing buffet  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
 At will—*detect evil*, *discern lies* (DC 19), *invisibility* (self only), *remove curse*, *remove disease*, *remove fear*  
- 3/day—*fire breath*<sup>APG</sup> (DC 17), *burning gaze* (DC 17)  
- 1/day—*fire snake*<sup>APG</sup> (DC 20)
+ 3/day—*fire breath* (DC 17), *burning gaze* (DC 17)  
+ 1/day—*fire snake* (DC 20)
 
 **Statistics**
 

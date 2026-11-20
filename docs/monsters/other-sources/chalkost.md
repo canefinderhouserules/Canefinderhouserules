@@ -23,7 +23,7 @@ LG Medium outsider (extraplanar, good, lawful, shapechanger)
 **Spell-Like Abilities** (CL 5th; concentration +4)  
 At will—*guidance*, *light*, *mending*, *resistance*  
 3/day—*cure light wounds*, *magic weapon*  
-1/day—*bear’s endurance*, *crafter’s fortune*<sup>APG</sup>, *status*
+1/day—*bear’s endurance*, *crafter’s fortune*, *status*
 
 **Statistics**
 
@@ -38,7 +38,7 @@ At will—*guidance*, *light*, *mending*, *resistance*
 
 **Environment** any (Heaven)  
 **Organization** solitary, pair, or team (3–5)  
-**Treasure** standard (masterwork cestus<sup>UE</sup>, other treasure)
+**Treasure** standard (masterwork cestus, other treasure)
 
 **Special Abilities**
 

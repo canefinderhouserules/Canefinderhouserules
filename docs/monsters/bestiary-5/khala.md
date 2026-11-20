@@ -35,7 +35,7 @@ Reflex DC 27 half, usable every 1d4 rounds), constrict
 **Str** 30, **Dex** 22, **Con** 27, **Int** 22, **Wis** 21, **Cha** 25  
 **Base Atk** +18; **CMB** +29 (+33 grapple); **CMD** 45 (can’t be
 tripped)  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Critical Focus](../../rules/feats/critical-focus.md), Empower Spell-Like Ability (*ice storm*), Flyby Attack, [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Multiattack<sup>B</sup>, [Power Attack](../../rules/feats/power-attack.md), [Staggering Critical](../../rules/feats/staggering-critical.md), [Stunning Critical](../../rules/feats/stunning-critical.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Critical Focus](../../rules/feats/critical-focus.md), Empower Spell-Like Ability (*ice storm*), Flyby Attack, [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Staggering Critical](../../rules/feats/staggering-critical.md), [Stunning Critical](../../rules/feats/stunning-critical.md)  
 **Skills** Appraise +27, Bluff +28, Diplomacy +28, Fly +29,
 Intimidate +28, Knowledge (geography) +27,
 Knowledge (local) +27, Knowledge (nature) +27,

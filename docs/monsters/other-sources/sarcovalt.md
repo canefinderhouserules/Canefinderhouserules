@@ -24,7 +24,7 @@ NE Tiny outsider (evil, extraplanar)
 **Spell-Like Abilities** (CL 4th; concentration +2)  
 Constant—*deathwatch*  
 At will—*purify food and drink*  
-3/day—*death knell* (DC 10), *lesser animate dead*<sup>UM</sup>, *vomit swarm* (see below)  
+3/day—*death knell* (DC 10), *lesser animate dead*, *vomit swarm* (see below)  
 1/day—*acid arrow*, *contagion* (DC 11), *stinking cloud* (DC 10)
 
 **Statistics**

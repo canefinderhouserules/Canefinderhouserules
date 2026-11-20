@@ -35,7 +35,7 @@ NE Medium humanoid (elf)
 
 **Str** 14, **Dex** 14, **Con** 12, **Int** 10, **Wis** 18, **Cha** 10  
 **Base Atk** +8; **CMB** +10; **CMD** 24  
-**Feats** [Augment Summoning](../../rules/feats/augment-summoning.md), [Dodge](../../rules/feats/dodge.md), [Natural Spell](../../rules/feats/natural-spell.md), Shade of the Uskwood<sup>ISWG</sup>, [Spell Focus (conjuration)](../../rules/feats/spell-focus.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Augment Summoning](../../rules/feats/augment-summoning.md), [Dodge](../../rules/feats/dodge.md), [Natural Spell](../../rules/feats/natural-spell.md), Shade of the Uskwood, [Spell Focus (conjuration)](../../rules/feats/spell-focus.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Knowledge (nature) +16, Perception +20, Spellcraft +14 (+16 to identify magic item properties), Survival +20; **Racial Modifiers** +2 Perception, +2 Spellcraft to identify magic item properties  
 **Languages** Druidic, Elven, Shadowtongue, Sylvan  
 **SQ** elven magic, nature bond (animal companion), nature sense, trackless step, weapon familiarity, wild empathy +11, woodland stride  

@@ -31,7 +31,7 @@ At will—*rage*
 
 **Str** 19, **Dex** 16, **Con** 19, **Int** 10, **Wis** 14, **Cha** 11  
 **Base Atk** +13; **CMB** +17; **CMD** 30  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Iron Will<sup>B</sup>](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), [Stand Still](../../rules/feats/stand-still.md), [Step Up](../../rules/feats/step-up.md), [Strike Back](../../rules/feats/strike-back.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), [Stand Still](../../rules/feats/stand-still.md), [Step Up](../../rules/feats/step-up.md), [Strike Back](../../rules/feats/strike-back.md)  
 **Skills** Intimidate +16, Knowledge (engineering) +16, Knowledge (planes) +16, Perception +18, Ride +16, Survival +18  
 **Languages** Celestial, Common  
 **SQ** battle-trained, thirst for battle

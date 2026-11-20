@@ -39,7 +39,7 @@ Constant—*speak with animals*
 
 **Environment** temperate forests  
 **Organization** solitary, pair, or band (3–6)  
-**Treasure** standard (sickle, masterwork composite longbow [Str +4] with 20 arrows, wooden armor<sup>APG</sup>, other treasure)
+**Treasure** standard (sickle, masterwork composite longbow [Str +4] with 20 arrows, wooden armor, other treasure)
 
 **Special Abilities**
 

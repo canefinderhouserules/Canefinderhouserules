@@ -24,7 +24,7 @@ LE Medium outsider (evil, extraplanar, kyton, lawful)
 Constant—*blur*  
 At will—*bleed* (DC 11), *dancing lights*, *detect magic*  
 3/day—*darkness*, *invisibility* (self only), *levitate* (self only)  
-1/day—*deeper darkness*, *shadowstep*<sup>UM</sup>
+1/day—*deeper darkness*, *shadowstep*
 
 **Statistics**
 

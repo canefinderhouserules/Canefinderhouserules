@@ -27,7 +27,7 @@ N Huge construct (clockwork)
 
 **Str** 30, **Dex** 8, **Con** —, **Int** —, **Wis** 11, **Cha** 7  
 **Base Atk** +13; **CMB** +25; **CMD** 36  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **SQ** difficult to create, superior craftsmanship, swift reactions, winding
 
 **Ecology**

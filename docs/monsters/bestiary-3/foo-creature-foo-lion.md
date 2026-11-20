@@ -26,7 +26,7 @@ NG Large outsider (augmented animal, good, extraplanar)
 
 **Str** 23, **Dex** 17, **Con** 17, **Int** 6, **Wis** 12, **Cha** 6  
 **Base Atk** +3; **CMB** +10 (+14 grapple); **CMD** 23 (27 vs. trip)  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will<sup>B</sup>](../../rules/feats/iron-will.md), [Run](../../rules/feats/run.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Run](../../rules/feats/run.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
 **Skills** Acrobatics +11 (+15 when jumping), Perception +9, Stealth +8 (+16 in undergrowth); **Racial Modifiers** +4 Acrobatics, +4 Perception, +4 Stealth (+8 in undergrowth)  
 **Languages** Celestial, Common  
 **SQ** freeze

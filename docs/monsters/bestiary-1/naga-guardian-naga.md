@@ -31,7 +31,7 @@ LG Large aberration
 
 **Str** 21, **Dex** 23, **Con** 20, **Int** 16, **Wis** 19, **Cha** 18  
 **Base Atk** +9; **CMB** +15; **CMD** 31 (can’t be tripped)  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Casting](../../rules/feats/combat-casting.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), [Improved Trip](../../rules/feats/improved-trip.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Casting](../../rules/feats/combat-casting.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Improved Trip](../../rules/feats/improved-trip.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **Skills** Bluff +16, Diplomacy +16, Knowledge (arcana) +18, Perception +23, Sense Motive +20, Spellcraft +18, Stealth +17  
 **Languages** Celestial, Common
 

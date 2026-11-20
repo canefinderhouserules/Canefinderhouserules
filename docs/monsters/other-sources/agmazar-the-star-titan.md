@@ -31,10 +31,10 @@ Constant—*freedom of movement*
 
 **Str** 47, **Dex** 21, **Con** —, **Int** 6, **Wis** 31, **Cha** 40  
 **Base Atk** +22; **CMB** +48; **CMD** 86  
-**Feats** [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Blind-Fight](../../rules/feats/blind-fight.md), [Critical Focus](../../rules/feats/critical-focus.md), [Defensive Combat Training](../../rules/feats/defensive-combat-training.md), Empower Spell-Like Ability (*horrid wilting*), [Improved Critical (slam)](../../rules/feats/improved-critical.md), [Power Attack](../../rules/feats/power-attack.md), [Quick Channel](../../rules/feats/quick-channel.md), Quicken Spell-Like Ability (*circle of death*), [Sickening Critical](../../rules/feats/sickening-critical.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), Snatch, [Thanatopic Spell<sup>UM</sup>](../../rules/feats/thanatopic-spell.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (slam)](../../rules/feats/weapon-focus.md)  
+**Feats** [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Blind-Fight](../../rules/feats/blind-fight.md), [Critical Focus](../../rules/feats/critical-focus.md), [Defensive Combat Training](../../rules/feats/defensive-combat-training.md), Empower Spell-Like Ability (*horrid wilting*), [Improved Critical (slam)](../../rules/feats/improved-critical.md), [Power Attack](../../rules/feats/power-attack.md), [Quick Channel](../../rules/feats/quick-channel.md), Quicken Spell-Like Ability (*circle of death*), [Sickening Critical](../../rules/feats/sickening-critical.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), Snatch, [Thanatopic Spell](../../rules/feats/thanatopic-spell.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (slam)](../../rules/feats/weapon-focus.md)  
 **Skills** Climb +30, Intimidate +36, Knowledge (religion) +10, Perception +49, Swim +20  
 **Languages** Draconic (can’t speak)  
-**SQ** kaiju traits<sup>B4</sup>, massive, powerful blows, recovery
+**SQ** kaiju traits, massive, powerful blows, recovery
 
 **Special Abilities**
 

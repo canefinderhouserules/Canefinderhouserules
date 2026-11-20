@@ -26,7 +26,7 @@ N Huge vermin (aquatic)
 
 **Str** 26, **Dex** 9, **Con** 20, **Int** &mdash;, **Wis** 13, **Cha** 2  
 **Base Atk** +9; **CMB** +19; **CMD** 28  
-**Feats** [Improved Critical (claw)<sup>B</sup>](../../rules/feats/improved-critical.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md)  
+**Feats** [Improved Critical (claw)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md)  
 **Skills** Swim +16  
 **SQ** amphibious
 

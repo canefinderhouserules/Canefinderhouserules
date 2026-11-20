@@ -26,7 +26,7 @@ LN Tiny outsider (extraplanar, lawful)
 
 **Str** 6, **Dex** 15, **Con** 9, **Int** 11, **Wis** 10, **Cha** 14  
 **Base Atk** +1; **CMB** +1 (+3 grapple, +11 when maintaining grapple with ribbon); **CMD** 9 (11 vs. grapple, 17 vs. trip)  
-**Feats** [Improved Grapple<sup>B</sup>](../../rules/feats/improved-grapple.md), [Improved Initiative](../../rules/feats/improved-initiative.md)  
+**Feats** [Improved Grapple](../../rules/feats/improved-grapple.md), [Improved Initiative](../../rules/feats/improved-initiative.md)  
 **Skills** Climb +10, Knowledge (arcana) +4, Knowledge (history) +4, Knowledge (planes) +4, Perception +4, Sense Motive +4  
 **Languages** truespeech (can't speak)  
 **SQ** transcription

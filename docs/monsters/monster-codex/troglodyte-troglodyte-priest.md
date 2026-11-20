@@ -27,7 +27,7 @@ CE Medium humanoid (reptilian)
 **Cleric Spells Prepared** (CL 3rd; concentration +5)  
 2nd—*amplify stench*, *bull’s strength*<sup>D</sup>, *hold person* (DC 14)  
 1st—*bless*, *command* (DC 13), *doom*<sup>D</sup> (DC 13), *magic weapon*  
-0 (at will)—*bleed* (DC 12), *detect magic*, *guidance*, *spark*<sup>APG</sup>  
+0 (at will)—*bleed* (DC 12), *detect magic*, *guidance*, *spark*  
 **D** domain spell; **Domains** Evil (Demon subdomain), Strength
 
 **Tactics**

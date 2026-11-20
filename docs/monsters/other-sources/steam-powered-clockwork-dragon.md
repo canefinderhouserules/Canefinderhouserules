@@ -29,7 +29,7 @@ Constant—*see invisibility*
 
 **Str** 38, **Dex** 23, **Con** —, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +25; **CMB** +41; **CMD** 59 (63 vs. trip)  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md), [Run<sup>B</sup>](../../rules/feats/run.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Run](../../rules/feats/run.md)  
 **Skills** Fly +10, Perception +8, Swim +22; **Racial Modifiers** +8 Fly, +8 Perception  
 **SQ** heat management, increased locomotion, steam engine, swift reactions
 

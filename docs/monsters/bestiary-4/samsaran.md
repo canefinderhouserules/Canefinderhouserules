@@ -5,7 +5,7 @@
 ## Samsaran (CR 1/2)
 
 **XP** 200  
-Male samsaran oracle<sup>APG</sup> 1  
+Male samsaran oracle 1  
 N Medium humanoid (samsaran)  
 **Init** +2; **Senses** low-light vision; Perception +8
 

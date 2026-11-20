@@ -21,11 +21,11 @@ CN Medium humanoid (human)
 **Speed** 30 ft.  
 **Melee** *+2 returning spear* +20/+15/+10 (1d8+9/×3) or mwk battleaxe +19/+14/+9 (1d8+5/×3)  
 **Ranged**  *+2 returning spear* +22 (1d8+7/×3)  
-**Special Attacks** colossus hunter, rage (9 rounds/day), rage powers (ferocious mount<sup>APG</sup>), wild shape 2/day  
+**Special Attacks** colossus hunter, rage (9 rounds/day), rage powers (ferocious mount), wild shape 2/day  
 **Druid Spells Prepared** (CL 6th; concentration +9)  
 3rd—*call lightning* (DC 16), *greater magic fang*, *protection from energy*  
-2nd—*aspect of the bear*<sup>APG</sup>, *bear’s endurance*, *cat’s grace*, *resist energy*  
-1st—*keen senses*<sup>APG</sup>, *obscuring mist*, *pass without trace*, *speak with animals*  
+2nd—*aspect of the bear*, *bear’s endurance*, *cat’s grace*, *resist energy*  
+1st—*keen senses*, *obscuring mist*, *pass without trace*, *speak with animals*  
 0 (at will)— *flare* (DC 13), *guidance*, *resistance*, *stabilize*
 
 **Statistics**
@@ -36,7 +36,7 @@ CN Medium humanoid (human)
 **Skills** Handle Animal +22, Intimidate +12, Knowledge (nature) +9, Ride +21, Spellcraft +8, Survival +18  
 **Languages** Common, Druidic, Hallit, Sylvan  
 **SQ** fast movement, hunter’s instinct, nature bond (animal companion), nature sense, rapid straddle, steed, trackless step, trap sense +1, undaunted, wild coercion, wild empathy +12, woodland stride  
-**Combat Gear**  *potion of barkskin* (CL 6th), *potion of bull’s strength*, *potions of cure serious wounds* (2), *scrolls of reduce animal* (2), *wand of endure elements* (40 charges); **Other Gear** *+2 hide armor*, *+1 light wooden shield*, *+2 returning spear*, mwk battleaxe, *cloak of resistance +2*, *lesser belt of mighty hurling*<sup>UE</sup>, holly and mistletoe, exotic military saddle, 10 gp
+**Combat Gear**  *potion of barkskin* (CL 6th), *potion of bull’s strength*, *potions of cure serious wounds* (2), *scrolls of reduce animal* (2), *wand of endure elements* (40 charges); **Other Gear** *+2 hide armor*, *+1 light wooden shield*, *+2 returning spear*, mwk battleaxe, *cloak of resistance +2*, *lesser belt of mighty hurling*, holly and mistletoe, exotic military saddle, 10 gp
 
 **Special Abilities**
 

@@ -22,9 +22,9 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Special Attacks** idolatry, labyrinthine mindtrap, mindrender, powerful charge (gore, 4d6+12), rend (2 claws, 2d6+9), unspeakable truth  
 **Spell-Like Abilities** (CL 18th; concentration +24)  
 Constant—*see invisibility*  
-At will—*enter image*<sup>APG</sup>, *greater teleport* (self plus 50 lbs. of objects only), *meld into stone*, *possess object*<sup>UM</sup>, *ventriloquism* (DC 17)  
-3/day—*charm monster* (DC 20), quickened *dominate person* (DC 21), *stone shape*, *vengeful outrage*<sup>UM</sup> (DC 22)  
-1/day—*mass suggestion* (DC 22), *statue*, summon (level 7, 1 shachath<sup>AP75</sup> or 1d3 succubi 50%), *symbol of persuasion* (DC 22)
+At will—*enter image*, *greater teleport* (self plus 50 lbs. of objects only), *meld into stone*, *possess object*, *ventriloquism* (DC 17)  
+3/day—*charm monster* (DC 20), quickened *dominate person* (DC 21), *stone shape*, *vengeful outrage* (DC 22)  
+1/day—*mass suggestion* (DC 22), *statue*, summon (level 7, 1 shachath or 1d3 succubi 50%), *symbol of persuasion* (DC 22)
 
 **Statistics**
 
@@ -49,4 +49,4 @@ At will—*enter image*<sup>APG</sup>, *greater teleport* (self plus 50 lbs. of 
 
 **Mindrender (Su)** When a vilsteth hits with both claw attacks and rends its target, it gains a +4 profane bonus on its gore attack for that turn. In addition, if the vilsteth’s gore attack hits, the target is affected by the vilsteth’s labyrinthine mindtrap ability, even if the targeted creature already successfully saved against that ability in the last 24 hours.
 
-**Unspeakable Truth (Su)** A vilsteth is surrounded by a mantle of misinformation. Creatures within 30 feet are affected by a curse that manifests the next time they attempt to share information about the vilsteth, including things they have observed the demon saying or doing. This curse affects the creature as *fumbletongue*<sup>UM</sup> (Will DC 25 negates). A successful save negates the curse, but if the target fails the save, this curse manifests every time that target attempts to talk about the vilsteth. This curse is a mind-affecting compulsion effect and can’t be dispelled or suppressed with *protection from evil*. A vilsteth can order creatures affected by charm or compulsion effects that it creates to share information about it without triggering the curse.
+**Unspeakable Truth (Su)** A vilsteth is surrounded by a mantle of misinformation. Creatures within 30 feet are affected by a curse that manifests the next time they attempt to share information about the vilsteth, including things they have observed the demon saying or doing. This curse affects the creature as *fumbletongue* (Will DC 25 negates). A successful save negates the curse, but if the target fails the save, this curse manifests every time that target attempts to talk about the vilsteth. This curse is a mind-affecting compulsion effect and can’t be dispelled or suppressed with *protection from evil*. A vilsteth can order creatures affected by charm or compulsion effects that it creates to share information about it without triggering the curse.

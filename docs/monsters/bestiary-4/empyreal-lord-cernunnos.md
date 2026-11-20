@@ -35,7 +35,7 @@ At will—*greater teleport*, *haste**, *true strike**
 7th—*control weather*, *creeping doom* (DC 23), *heal*, *sunbeam* (DC 23)  
 6th—*antilife shell*, *greater dispel magic* (2), *move earth*, *wall of stone* (DC 22)  
 5th—*atonement*, *baleful polymorph* (DC 21), *deathward*, *transmute rock to mud*, *wall of thorns*  
-4th—*cure serious wounds* (2), *freedom of movement*, *rusting grasp*, *true form*<sup>APG</sup> (DC 20)  
+4th—*cure serious wounds* (2), *freedom of movement*, *rusting grasp*, *true form* (DC 20)  
 3rd—*call lightning* (DC 19), *cure moderate wounds*, *neutralize poison* (2), *remove disease*  
 2nd—*chill metal* (DC 18), *fog cloud*, *heat metal* (DC 18), *lesser restoration*, *resist energy* (2)  
 1st—*calm animals* (DC 17, 2), *cure light wounds* (2), *pass without trace* (2)  

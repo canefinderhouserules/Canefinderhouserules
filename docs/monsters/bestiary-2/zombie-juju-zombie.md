@@ -26,7 +26,7 @@ NE Medium undead (augmented human)
 
 **Str** 18, **Dex** 19, **Con** —, **Int** 8, **Wis** 13, **Cha** 10  
 **Base Atk** +1; **CMB** +5; **CMD** 19  
-**Feats** [Dodge](../../rules/feats/dodge.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +8, Climb +16, Disable Device +8, Intimidate +5, Perception +6, Sleight of Hand +9, Stealth +8, Survival +3, Swim +8, Use Magic Device +5; **Racial Modifiers** +8 Climb  
 **Languages** Common  
 **SQ** rogue talents (combat trick), trapfinding +1

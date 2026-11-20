@@ -24,7 +24,7 @@ N Small animal
 
 **Str** 10, **Dex** 17, **Con** 14, **Int** 2, **Wis** 13, **Cha** 7  
 **Base Atk** +0; **CMB** –1; **CMD** 12 (16 vs. trip)  
-**Feats** [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Run<sup>B</sup>](../../rules/feats/run.md)  
+**Feats** [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Run](../../rules/feats/run.md)  
 **Skills** Perception +5
 
 **Ecology**

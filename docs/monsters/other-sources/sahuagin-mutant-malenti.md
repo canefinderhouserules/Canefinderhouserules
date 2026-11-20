@@ -27,7 +27,7 @@ LE Medium monstrous humanoid (aquatic)
 
 **Str** 14, **Dex** 17, **Con** 14, **Int** 14, **Wis** 13, **Cha** 13  
 **Base Atk** +2; **CMB** +4; **CMD** 17  
-**Feats** [Deceitful<sup>B</sup>](../../rules/feats/deceitful.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Skill Focus (Bluff)<sup>B</sup>](../../rules/feats/skill-focus.md)  
+**Feats** [Deceitful](../../rules/feats/deceitful.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Skill Focus (Bluff)](../../rules/feats/skill-focus.md)  
 **Skills** Bluff +6, Disguise +3, Handle Animal +3, Perception +6, Ride +8, Stealth +8, Survival +6, Swim +15  
 **Languages** Aquan, Common; speak with sharks
 

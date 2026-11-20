@@ -24,7 +24,7 @@ N Medium construct
 
 **Str** 14, **Dex** 17, **Con** —, **Int** —, **Wis** 12, **Cha** 13  
 **Base Atk** +4; **CMB** +6; **CMD** 19  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md)  
 **SQ** bodyguard
 
 **Ecology**

@@ -22,11 +22,11 @@ CG Medium humanoid (munavri)
 **Speed** 30 ft.  
 **Melee** *+1 rapier* +10 (1d6+2/18–20) or silver dagger +8 (1d4/19–20)  
 **Ranged**  silver dagger +8 (1d4/19–20)  
-**Special Attacks** deeds (derring-do, dodging panache, kip-up, menacing swordplay, opportune parry and riposte, precise strike +4, swashbuckler initiative), panache (3), phrenic amplification (defensive prognostication<sup>OA</sup>), phrenic pool (4 points)  
+**Special Attacks** deeds (derring-do, dodging panache, kip-up, menacing swordplay, opportune parry and riposte, precise strike +4, swashbuckler initiative), panache (3), phrenic amplification (defensive prognostication), phrenic pool (4 points)  
 **Spell-Like Abilities** (CL 2nd; concentration +3)  
 1/day—*detect thoughts* (DC 14)  
 **Psychic Spells Known** (CL 2nd; concentration +3)  
-1st (5/day)—*charm person* (DC 12), *mind thrust I*<sup>OA</sup> (DC 12), *true strike*  
+1st (5/day)—*charm person* (DC 12), *mind thrust I* (DC 12), *true strike*  
 0 (at will)—*detect magic*, *ghost sound* (DC 11), *know direction*, *mage hand*, *mending*  
 **Psychic Discipline** rapport
 
@@ -38,4 +38,4 @@ CG Medium humanoid (munavri)
 **Skills** Acrobatics +10, Bluff +8, Diplomacy +8, Perception +7, Profession (sailor) +7, Sense Motive +5, Sleight of Hand +8, Spellcraft +7, Swim +7  
 **Languages** Munavri, Undercommon; telepathy 60 ft.  
 **SQ** advanced object reading, detect thoughts, emotional bond, swashbuckler finesse  
-**Combat Gear**  *feather token (swan boat)*, *scroll of blur*, *scroll of gaseous form*, *wand of chill touch* (10 charges), *wand of cure light wounds* (20 charges); **Other Gear** *+1 studded leather*, *+1 rapier*, silver daggers (4), prismatic crystal<sup>OA</sup>
+**Combat Gear**  *feather token (swan boat)*, *scroll of blur*, *scroll of gaseous form*, *wand of chill touch* (10 charges), *wand of cure light wounds* (20 charges); **Other Gear** *+1 studded leather*, *+1 rapier*, silver daggers (4), prismatic crystal

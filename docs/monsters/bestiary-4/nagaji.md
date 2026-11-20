@@ -18,7 +18,7 @@ LN Medium humanoid (reptilian)
 **Offense**
 
 **Speed** 30 ft.  
-**Melee** naginata<sup>UC</sup> +5 (1d8+4/×4) or claw +4 (1d4+4)  
+**Melee** naginata +5 (1d8+4/×4) or claw +4 (1d4+4)  
 **Ranged**  longbow +3 (1d8/×3)  
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with naginata)
 

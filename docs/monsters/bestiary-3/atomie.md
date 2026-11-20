@@ -31,7 +31,7 @@ At will—*dancing lights*, *reduce person* (DC 15)
 
 **Str** 6, **Dex** 17, **Con** 13, **Int** 11, **Wis** 14, **Cha** 18  
 **Base Atk** +1; **CMB** +0; **CMD** 8  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +8 (+4 when jumping), Bluff +9, Escape Artist +7, Fly +18, Perception +7, Sense Motive +6, Stealth +20  
 **Languages** Common, Sylvan; *speak with animals*
 

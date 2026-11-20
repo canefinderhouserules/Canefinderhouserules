@@ -25,7 +25,7 @@ CE Colossal aberration (aquatic, chaotic, evil)
 Constant—*true seeing*  
 At will—*deeper darkness*, *detect magic*, *dimension door*, *freedom of movement*, *protection from good*, *protection from law*  
 3/day—*feeblemind* (DC 26), *nightmare* (DC 26), *telekinesis* (DC 26)  
-1/day—*insanity* (DC 28), *mind blank*, *overwhelming presence*<sup>UM</sup> (DC 30), *repulsion* (DC 27)
+1/day—*insanity* (DC 28), *mind blank*, *overwhelming presence* (DC 30), *repulsion* (DC 27)
 
 **Statistics**
 

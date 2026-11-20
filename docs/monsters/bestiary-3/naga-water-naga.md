@@ -29,7 +29,7 @@ N Large aberration (aquatic)
 
 **Str** 20, **Dex** 23, **Con** 20, **Int** 11, **Wis** 17, **Cha** 18  
 **Base Atk** +6; **CMB** +12; **CMD** 28 (can’t be tripped)  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md)  
 **Skills** Bluff +8, Knowledge (local) +4, Perception +17, Spellcraft +11, Stealth +16, Swim +13  
 **Languages** Aquan, Common  
 **SQ** amphibious

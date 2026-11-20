@@ -24,7 +24,7 @@ CE Large humanoid (giant)
 
 **Str** 20, **Dex** 13, **Con** 14, **Int** 5, **Wis** 10, **Cha** 5  
 **Base Atk** +3; **CMB** +9; **CMD** 20 (24 vs. trip)  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Iron Will](../../rules/feats/iron-will.md), [Night Stalker](../../rules/feats/night-stalker.md), [Skill Focus (Stealth)<sup>B</sup>](../../rules/feats/skill-focus.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Iron Will](../../rules/feats/iron-will.md), [Night Stalker](../../rules/feats/night-stalker.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md)  
 **Skills** Climb +9, Perception +6, Stealth +1 (+5 in dim light or darkness); **Racial Modifiers** +4 Stealth in dim light or darkness  
 **Languages** Giant  
 **SQ** ogre blood

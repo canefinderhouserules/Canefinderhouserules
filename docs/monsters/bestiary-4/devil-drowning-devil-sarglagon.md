@@ -24,8 +24,8 @@ LE Large outsider (devil, evil, extraplanar, lawful)
 **Special Attacks** drown, poison  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
 Constant—*see invisibility*, *water breathing*  
-At will—*control water*, *curse water*, *discern lies*, *greater teleport* (self plus 50 lbs. of objects only), *hydraulic push*<sup>APG</sup>  
-3/day—*hydraulic torrent*<sup>APG</sup>, *poison* (DC 18), *protection from good*  
+At will—*control water*, *curse water*, *discern lies*, *greater teleport* (self plus 50 lbs. of objects only), *hydraulic push*  
+3/day—*hydraulic torrent*, *poison* (DC 18), *protection from good*  
 1/day—*freedom of movement*, summon (level 4, 1 drowning devil 35%)
 
 **Statistics**

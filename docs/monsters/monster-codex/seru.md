@@ -25,7 +25,7 @@ NE Small magical beast
 
 **Str** 6, **Dex** 15, **Con** 14, **Int** 11, **Wis** 13, **Cha** 10  
 **Base Atk** +3; **CMB** +0; **CMD** 13  
-**Feats** [Dodge](../../rules/feats/dodge.md), Flyby Attack<sup>B</sup>, [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Dodge](../../rules/feats/dodge.md), Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Bluff +7, Fly +4, Perception +10, Stealth +10 (+14 in rocky areas); **Racial Modifiers** +4 Bluff, +4 Perception  
 **Languages** Aklo, Common (can’t speak any language); telepathy 60 ft.
 

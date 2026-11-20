@@ -31,7 +31,7 @@ At Will—*plane shift* (willing targets to elemental planes, Astral Plane, or M
 
 **Str** 23, **Dex** 17, **Con** 18, **Int** 12, **Wis** 14, **Cha** 15  
 **Base Atk** +10; **CMB** +17; **CMD** 31  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deceitful](../../rules/feats/deceitful.md), [Dodge](../../rules/feats/dodge.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), Quicken Spell-Like Ability (*scorching ray*)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deceitful](../../rules/feats/deceitful.md), [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Quicken Spell-Like Ability (*scorching ray*)  
 **Skills** Bluff +19, Craft (any one) +14, Disguise +10, Fly +13, Intimidate +15, Perception +15, Sense Motive +15, Spellcraft +14, Stealth +8  
 **Languages** Auran, Aquan, Common, Ignan, Terran; telepathy 100 ft.  
 **SQ** change shape (humanoid or giant, *alter self* or *giant form I*)

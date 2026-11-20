@@ -30,7 +30,7 @@ At will—*disguise self*, *greater teleport* (self plus 50 lbs. of objects only
 
 **Str** 22, **Dex** 24, **Con** 19, **Int** 15, **Wis** 24, **Cha** 19  
 **Base Atk** +12; **CMB** +18 (+20 grapple); **CMD** 39 (41 vs. grapple)  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Combat Reflexes<sup>B</sup>](../../rules/feats/combat-reflexes.md), [Deflect Arrows<sup>B</sup>](../../rules/feats/deflect-arrows.md), [Dodge](../../rules/feats/dodge.md), [Great Cleave](../../rules/feats/great-cleave.md), [Improved Grapple<sup>B</sup>](../../rules/feats/improved-grapple.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), [Spring Attack](../../rules/feats/spring-attack.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect Arrows](../../rules/feats/deflect-arrows.md), [Dodge](../../rules/feats/dodge.md), [Great Cleave](../../rules/feats/great-cleave.md), [Improved Grapple](../../rules/feats/improved-grapple.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), [Spring Attack](../../rules/feats/spring-attack.md)  
 **Skills** Acrobatics +19 (+27 when jumping), Bluff +16, Diplomacy +13, Escape Artist +25, Intimidate +16, Knowledge (arcana) +8, Knowledge (planes) +14, Perception +23, Perform (dance) +16, Sense Motive +19, Stealth +19; **Racial Modifiers** +8 Acrobatics when jumping, +6 Escape Artist, +4 Perception  
 **Languages** Common, Infernal; telepathy 100 ft.
 

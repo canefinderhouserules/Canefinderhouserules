@@ -25,7 +25,7 @@ Constant—*detect magic*, *detect thoughts*
 At will—*greater teleport*, *suggestion* (DC 15)  
 1/day—summon (level 3, 1 bearded devil or 6 lemures 50%)  
 **Psychic Magic** (CL 6th; concentration +9)  
-16 PE—*aversion*<sup>OA</sup> (2 PE, DC 15), *calm emotions* (2 PE, DC 15), *confusion* (4 PE, DC 17), *deja vu*<sup>OA</sup> (1 PE), *invisibility* (2 PE)
+16 PE—*aversion* (2 PE, DC 15), *calm emotions* (2 PE, DC 15), *confusion* (4 PE, DC 17), *deja vu* (1 PE), *invisibility* (2 PE)
 
 **Statistics**
 
@@ -46,4 +46,4 @@ At will—*greater teleport*, *suggestion* (DC 15)
 
 **Easily Forgotten (Su)** A mnemor devil’s appearance and presence are difficult to fix in one’s mind. Once a mnemor devil moves out of line of sight of a creature (or otherwise becomes unseen), that creature must succeed at a DC 16 Will save or be unable recall the last known location or direction of the devil. Such a creature cannot recall the details or nature of their encounter with the devil, though it retains a vague recollection that the encounter occurred. The mnemor can choose to suppress this ability.
 
-**Memory Siphon (Sp)** A creature struck by a mnemor devil’s proboscis suffers the effect of the *memory lapse*<sup>APG</sup> spell with no saving throw. Additionally, the mnemor devil can choose to attempt to affect the creature as with the *repress memory*<sup>OA</sup> spell (DC 16 Will save negates)—the spell targets the creature struck, rather than the mnemor devil itself, and spell resistance applies. If the target is a willing creature, the mnemor devil may alter memories of any length, as if through multiple applications of *repress memory*<sup>OA</sup>.
+**Memory Siphon (Sp)** A creature struck by a mnemor devil’s proboscis suffers the effect of the *memory lapse* spell with no saving throw. Additionally, the mnemor devil can choose to attempt to affect the creature as with the *repress memory* spell (DC 16 Will save negates)—the spell targets the creature struck, rather than the mnemor devil itself, and spell resistance applies. If the target is a willing creature, the mnemor devil may alter memories of any length, as if through multiple applications of *repress memory*.

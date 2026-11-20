@@ -25,7 +25,7 @@ N Small outsider (air, elemental, extraplanar)
 
 **Str** 10, **Dex** 15, **Con** 10, **Int** 4, **Wis** 11, **Cha** 11  
 **Base Atk** +2; **CMB** +1; **CMD** 13  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), Weapon Finesse <sup>B</sup>  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), Weapon Finesse  
 **Skills** Acrobatics +7, Escape Artist +6, Fly +12, Knowledge (planes) +1, Perception +5
 
 **Ecology**

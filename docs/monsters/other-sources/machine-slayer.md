@@ -24,7 +24,7 @@ CN Medium humanoid (human)
 **Special Attacks** combat style (archery), favored enemy (animals +2, constructs +4)  
 **Ranger Spells Prepared** (CL 6th; concentration +7)  
 2nd—*barkskin*  
-1st—*abundant ammunition*<sup>UC</sup>, *longstrider*, *resist energy*
+1st—*abundant ammunition*, *longstrider*, *resist energy*
 
 **Statistics**
 

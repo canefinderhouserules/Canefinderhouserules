@@ -24,7 +24,7 @@ LG Medium outsider (archon, extraplanar, good, lawful)
 **Special Attacks** favored enemy (any one +4)  
 **Spell-Like Abilities** (CL 5th; concentration +8)  
 Constant—*detect evil*, *detect magic*, *magic circle against evil*  
-At will—*aid*, *continual flame*, *forbid action*<sup>UM</sup> (DC 14), *greater teleport* (self plus 50 lbs. of objects only), *mage hand*, *message*  
+At will—*aid*, *continual flame*, *forbid action* (DC 14), *greater teleport* (self plus 50 lbs. of objects only), *mage hand*, *message*  
 1/day—*calm emotions* (DC 15), *clairaudience/clairvoyance*, *commune* (CL 9th, 1 question), *daylight*, *silence* (DC 15)
 
 **Statistics**

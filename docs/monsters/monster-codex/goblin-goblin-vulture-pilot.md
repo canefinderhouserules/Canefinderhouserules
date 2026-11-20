@@ -22,8 +22,8 @@ NE Small humanoid (goblinoid)
 **Ranged**  bomb +9 (2d6+3 fire plus catch fire)  
 **Special Attacks** bomb 7/day (2d6+3 fire and catch fire, DC 15, 10-ft. radius)  
 **Alchemist Extracts Prepared** (CL 4th)  
-2nd—*false life*, *touch injection*<sup>UC</sup>  
-1st—*bomber’s eye*<sup>APG</sup>, *bouncy body*, *shield*, *true strike*
+2nd—*false life*, *touch injection*  
+1st—*bomber’s eye*, *bouncy body*, *shield*, *true strike*
 
 **Tactics**
 

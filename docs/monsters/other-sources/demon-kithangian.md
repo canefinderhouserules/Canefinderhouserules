@@ -23,8 +23,8 @@ CE Large outsider (chaotic, demon, evil, extraplanar)
 **Special Attacks** hatred, rasping tongues  
 **Spell-Like Abilities** (CL 12th; concentration +15)  
 Constant—*speak with animals*  
-At will—*hold animal* (DC 15), *greater teleport* (self plus 50 lbs. of objects only), *unnatural lust*<sup>UM</sup> (DC 14)  
-3/day—*air walk*, quickened *unnatural lust*<sup>UM</sup> (DC 14)  
+At will—*hold animal* (DC 15), *greater teleport* (self plus 50 lbs. of objects only), *unnatural lust* (DC 14)  
+3/day—*air walk*, quickened *unnatural lust* (DC 14)  
 1/day—*baleful polymorph* (DC 18), summon (level 3, 1 kithangian 35%)
 
 **Statistics**

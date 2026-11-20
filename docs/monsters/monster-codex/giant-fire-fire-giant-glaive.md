@@ -32,7 +32,7 @@ LE Large humanoid (fire, giant)
 **Feats** [Cleave](../../rules/feats/cleave.md), [Great Cleave](../../rules/feats/great-cleave.md), [Greater Overrun](../../rules/feats/greater-overrun.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), [Smoking Boulder](../../rules/feats/smoking-boulder.md), [Step Up](../../rules/feats/step-up.md), [Weapon Focus (glaive)](../../rules/feats/weapon-focus.md)  
 **Skills** Climb +22, Craft (armor) +9, Intimidate +20, Perception +23, Profession (soldier) +9  
 **Languages** Common, Giant  
-**Combat Gear**  *potions of cure serious wounds* (3), tangleburn bags<sup>UE</sup> (3); **Other Gear** *+1 mithral scale mail*, *+2 glaive*, 82 gp
+**Combat Gear**  *potions of cure serious wounds* (3), tangleburn bags (3); **Other Gear** *+1 mithral scale mail*, *+2 glaive*, 82 gp
 
 **Ecology**
 

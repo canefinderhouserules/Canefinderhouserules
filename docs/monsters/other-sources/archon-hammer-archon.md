@@ -24,14 +24,14 @@ LG Large outsider (archon, extraplanar, good, lawful)
 **Special Attacks** axiomatic barrage, inevitable sunder  
 **Spell-Like Abilities** (CL 20th; concentration +24)  
 Constant—*detect evil*  
-At will—*break*<sup>APG</sup> (DC 15), *protection from chaos*, *shield*  
-1/day—*dictum*, *enemy hammer*<sup>APG</sup> (DC 20), *sympathetic vibration*
+At will—*break* (DC 15), *protection from chaos*, *shield*  
+1/day—*dictum*, *enemy hammer* (DC 20), *sympathetic vibration*
 
 **Statistics**
 
 **Str** 23, **Dex** 13, **Con** 30, **Int** 16, **Wis** 20, **Cha** 19  
 **Base Atk** +20; **CMB** +27 (+31 bull rush, +31 sunder); **CMD** 38 (40 vs. sunder)  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Great Cleave](../../rules/feats/great-cleave.md), [Greater Sunder](../../rules/feats/greater-sunder.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Improved Vital Strike](../../rules/feats/improved-vital-strike.md), [Power Attack](../../rules/feats/power-attack.md), [Sundering Strike<sup>APG</sup>](../../rules/feats/sundering-strike.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (lucerne hammer)](../../rules/feats/weapon-focus.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Great Cleave](../../rules/feats/great-cleave.md), [Greater Sunder](../../rules/feats/greater-sunder.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Improved Vital Strike](../../rules/feats/improved-vital-strike.md), [Power Attack](../../rules/feats/power-attack.md), [Sundering Strike](../../rules/feats/sundering-strike.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (lucerne hammer)](../../rules/feats/weapon-focus.md)  
 **Skills** Diplomacy +27, Fly +21, Intimidate +27, Knowledge (engineering) +26, Knowledge (history) +26, Knowledge (planes) +26, Perception +28, Sense Motive +28, Survival +28  
 **Languages** Celestial, Draconic, Infernal; truespeech  
 **SQ** immovable object
@@ -40,7 +40,7 @@ At will—*break*<sup>APG</sup> (DC 15), *protection from chaos*, *shield*
 
 **Environment** any (Heaven)  
 **Organization** solitary, pair, or squad (3–6)  
-**Treasure** double (*+2 full plate*, *+4 impact*<sup>UE</sup> *lucerne hammer*<sup>APG</sup>, other treasure)
+**Treasure** double (*+2 full plate*, *+4 impact* *lucerne hammer*, other treasure)
 
 **Special Abilities**
 

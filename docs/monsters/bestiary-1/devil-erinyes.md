@@ -29,7 +29,7 @@ At will—*fear* (single target, DC 19), *greater teleport* (self plus 50 lbs. o
 
 **Str** 20, **Dex** 23, **Con** 21, **Int** 14, **Wis** 18, **Cha** 21  
 **Base Atk** +9; **CMB** +14; **CMD** 31  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge<sup>B</sup>](../../rules/feats/dodge.md), [Mobility<sup>B</sup>](../../rules/feats/mobility.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Shot on the Run](../../rules/feats/shot-on-the-run.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Mobility](../../rules/feats/mobility.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Shot on the Run](../../rules/feats/shot-on-the-run.md)  
 **Skills** Acrobatics +18, Bluff +17, Diplomacy +14, Escape Artist +12, Fly +19, Intimidate +17, Knowledge (planes) +8, Knowledge (religion) +8, Perception +16, Sense Motive +10, Stealth +15  
 **Languages** Celestial, Common, Draconic, Infernal; telepathy 100 ft.
 

@@ -25,13 +25,13 @@ N Huge outsider (air, elemental, extraplanar, herald, water)
 **Spell-Like Abilities** (CL 17th; concentration +21)  
 At will—*create water*, *invisibility* (self only), *summon monster II* (air or water elemental only)  
 5/day—*air breathing* (as *water breathing*, but allows water-breathing creatures to breathe air or water), *control water*, *control weather* (as a druid), *water breathing*  
-1/day—*beast shape IV*, *possess object*<sup>UM</sup>, *summon monster IX* (air or water elementals only)
+1/day—*beast shape IV*, *possess object*, *summon monster IX* (air or water elementals only)
 
 **Statistics**
 
 **Str** 28, **Dex** 35, **Con** 22, **Int** 15, **Wis** 15, **Cha** 18  
 **Base Atk** +17; **CMB** +28 (+30 bull rush); **CMD** 51 (53 vs. bull rush)  
-**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), Flyby Attack, [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (slam)](../../rules/feats/improved-critical.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), Flyby Attack, [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (slam)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +29, Escape Artist +32, Fly +27, Knowledge (nature, religion) +22, Knowledge (planes) +13, Perception +22, Sense Motive +14, Stealth +24, Survival +11, Swim +17  
 **Languages** Aquan, Auran, Common, Druidic, Ignan, Sylvan, Terran  
 **SQ** change shape (air or water elemental; *elemental body IV*)

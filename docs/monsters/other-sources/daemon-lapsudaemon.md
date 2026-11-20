@@ -24,7 +24,7 @@ NE Medium outsider (daemon, evil, extraplanar)
 **Spell-Like Abilities** (CL 14th; concentration +16)  
 At will—*greater teleport* (self plus 50 pounds only)  
 3/day—quickened *gust of wind* (DC 15), *reverse gravity*  
-1/day—*fickle winds*<sup>UM</sup>, summon
+1/day—*fickle winds*, summon
 
 **Statistics**
 

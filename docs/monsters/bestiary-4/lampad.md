@@ -26,7 +26,7 @@ CN Medium fey
 At will—*meld into stone*, *stone tell*  
 **Druid Spells Prepared** (CL 5th; concentration +8)  
 3rd—*stone shape*  
-2nd—*spider climb*, *stone call*<sup>APG</sup>  
+2nd—*spider climb*, *stone call*  
 1st—*cure light wounds*, *faerie fire*, *magic stone*  
 0—*detect magic*, *detect poison*, *light*, *mending*
 

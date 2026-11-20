@@ -28,7 +28,7 @@ Constant—*mage armor*
 
 **Str** 16, **Dex** 17, **Con** 16, **Int** 10, **Wis** 15, **Cha** 11  
 **Base Atk** +8; **CMB** +11; **CMD** 24  
-**Feats** [Combat Reflexes<sup>B</sup>](../../rules/feats/combat-reflexes.md), [Double Slice](../../rules/feats/double-slice.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Weapon Focus (scimitar)](../../rules/feats/weapon-focus.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Double Slice](../../rules/feats/double-slice.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Weapon Focus (scimitar)](../../rules/feats/weapon-focus.md)  
 **Skills** Fly +10, Knowledge (history) +8, Perception +13, Stealth +18; **Racial Modifiers** +4 Stealth  
 **Languages** Common, Sphinx  
 **SQ** runic tattoos

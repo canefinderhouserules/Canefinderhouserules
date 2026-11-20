@@ -24,7 +24,7 @@ N Medium animal
 
 **Str** 13, **Dex** 10, **Con** 17, **Int** 2, **Wis** 13, **Cha** 12  
 **Base Atk** +1; **CMB** +2; **CMD** 12 (16 vs. bull rush, 20 vs. trip)  
-**Feats** [Endurance](../../rules/feats/endurance.md), [Nimble Moves<sup>B</sup>](../../rules/feats/nimble-moves.md)  
+**Feats** [Endurance](../../rules/feats/endurance.md), [Nimble Moves](../../rules/feats/nimble-moves.md)  
 **Skills** Perception +5, Survival +2 (+6 when tracking by scent); **Racial Modifiers** +4 Survival when tracking by scent  
 **SQ** sure-footed
 

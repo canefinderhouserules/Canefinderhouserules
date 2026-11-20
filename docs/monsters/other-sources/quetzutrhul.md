@@ -32,7 +32,7 @@ At will—*confusion* (single target only) (DC 15), *daze monster* (no HD limit)
 
 **Str** 10, **Dex** 32, **Con** 22, **Int** 20, **Wis** 10, **Cha** 12  
 **Base Atk** +6; **CMB** +5; **CMD** 27 (31 vs. trip)  
-**Feats** [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), Multiattack<sup>B</sup>, [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), Multiattack, [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +22 (+26 when jumping), Bluff +17, Climb +11, Disguise +9, Escape Artist +22, Knowledge (local) +16, Perception +19, Sense Motive +8, Stealth +34, Use Magic Device +10; **Racial Modifiers** +8 Bluff, +8 Perception, +8 Stealth  
 **Languages** Common, Elven, Orc, Terran, Undercommon, Frontier (can’t speak); telepathy 100 ft.  
 **SQ** deformities (poor ability [Charisma]), mutations (celerity, extra arm, fast healing), prehensile proboscis  

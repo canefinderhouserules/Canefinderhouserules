@@ -24,14 +24,14 @@ CG or CE Huge humanoid (aquatic, giant)
 **Special Attacks** conch focus, rock throwing (110 ft.)  
 **Spell-Like Abilities** (CL 14th; concentration +18)  
 Constant—*freedom of movement*  
-3/day—*aqueous orb*<sup>APG</sup> (DC 17), *control winds* (DC 19), *shout* (DC 18), *summon nature’s ally VII* (swimming creatures only), *water breathing*  
-1/day—*vortex*<sup>APG</sup> (DC 20)
+3/day—*aqueous orb* (DC 17), *control winds* (DC 19), *shout* (DC 18), *summon nature’s ally VII* (swimming creatures only), *water breathing*  
+1/day—*vortex* (DC 20)
 
 **Statistics**
 
 **Str** 40, **Dex** 11, **Con** 25, **Int** 12, **Wis** 15, **Cha** 18  
 **Base Atk** +14; **CMB** +31 (+33 bull rush); **CMD** 41 (43 vs. bull rush)  
-**Feats** [Augment Summoning<sup>B</sup> (with conch)](../../rules/feats/augment-summoning.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Critical Focus](../../rules/feats/critical-focus.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Martial Weapon Proficiency (trident)](../../rules/feats/martial-weapon-proficiency.md), [Power Attack](../../rules/feats/power-attack.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (trident)](../../rules/feats/weapon-focus.md)  
+**Feats** [Augment Summoning (with conch)](../../rules/feats/augment-summoning.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Critical Focus](../../rules/feats/critical-focus.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Martial Weapon Proficiency (trident)](../../rules/feats/martial-weapon-proficiency.md), [Power Attack](../../rules/feats/power-attack.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (trident)](../../rules/feats/weapon-focus.md)  
 **Skills** Intimidate +17, Knowledge (nature) +11, Perception +24, Perform (wind) +13, Survival +14, Swim +24  
 **Languages** Aquan, Common, Giant  
 **SQ** amphibious

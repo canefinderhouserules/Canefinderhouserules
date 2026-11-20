@@ -26,7 +26,7 @@ N Small outsider (aether, elemental, extraplanar)
 
 **Str** 12, **Dex** 15, **Con** 12, **Int** 4, **Wis** 11, **Cha** 11  
 **Base Atk** +2; **CMB** +2; **CMD** 15  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md)  
 **Skills** Acrobatics +6, Fly +12, Perception +5, Stealth +11  
 **SQ** telekinetic invisibility
 

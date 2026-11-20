@@ -26,7 +26,7 @@ N Tiny vermin
 
 **Str** 1, **Dex** 17, **Con** 10, **Int** —, **Wis** 10, **Cha** 2  
 **Base Atk** +0; **CMB** +1; **CMD** 6 (can’t be tripped)  
-**Feats** [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Climb +11, Perception +4, Stealth +19; **Racial Modifiers** +4 Perception, +8 Stealth
 
 **Ecology**

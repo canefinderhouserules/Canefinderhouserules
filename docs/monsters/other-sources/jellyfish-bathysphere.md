@@ -26,7 +26,7 @@ N Tiny vermin (aquatic, extraplanar)
 
 **Str** 10, **Dex** 12, **Con** 15, **Int** &mdash;, **Wis** 10, **Cha** 1  
 **Base Atk** +0; **CMB** -1; **CMD** 9 (can't be tripped)  
-**Feats** [toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [toughness](../../rules/feats/toughness.md)  
 **Skills** Swim +9  
 **SQ** air bell, compression
 

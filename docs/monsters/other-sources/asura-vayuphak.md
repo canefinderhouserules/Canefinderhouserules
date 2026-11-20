@@ -24,7 +24,7 @@ LE Medium outsider (asura, evil, extraplanar, lawful)
 At will—*greater teleport* (self plus 50 lbs. of objects only)  
 1/day—summon (level 4, 1 vayuphak 35%)  
 **Psychic Magic** (CL 5th; concentration +9)  
-7 PE—*dispel magic* (3 PE), *id insinuation I*<sup>OA</sup> (2 PE, DC 16), *object reading*<sup>OA</sup> (1 PE), *scorching ray* (2 PE)
+7 PE—*dispel magic* (3 PE), *id insinuation I* (2 PE, DC 16), *object reading* (1 PE), *scorching ray* (2 PE)
 
 **Statistics**
 

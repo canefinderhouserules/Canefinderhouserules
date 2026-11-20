@@ -23,8 +23,8 @@ N Medium outsider (aeon, extraplanar)
 **Space** 5 ft., **Reach** 5 ft. (unintuitive reach)  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
 At will—*daze* (DC 13)  
-3/day—*id insinuation I*<sup>OA</sup> (DC 14), *touch of idiocy*  
-1/day—*cognitive block*<sup>OA</sup> (DC 15), *fox’s cunning*, *mental block*<sup>OA</sup> (DC 14)
+3/day—*id insinuation I* (DC 14), *touch of idiocy*  
+1/day—*cognitive block* (DC 15), *fox’s cunning*, *mental block* (DC 14)
 
 **Statistics**
 

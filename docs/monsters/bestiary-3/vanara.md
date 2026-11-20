@@ -25,7 +25,7 @@ LG Medium humanoid (vanara)
 
 **Str** 13, **Dex** 16, **Con** 10, **Int** 12, **Wis** 17, **Cha** 6  
 **Base Atk** +0; **CMB** +1; **CMD** 18  
-**Feats** [Combat Reflexes<sup>B</sup>](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Improved Unarmed Strike<sup>B</sup>](../../rules/feats/improved-unarmed-strike.md), [Stunning Fist<sup>B</sup>](../../rules/feats/stunning-fist.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Stunning Fist](../../rules/feats/stunning-fist.md)  
 **Skills** Acrobatics +9, Climb +13, Perception +7, Sense Motive +7, Stealth +9; **Racial Modifiers** +2 Acrobatics, +2 Stealth  
 **Languages** Common, Sylvan, Vanaran  
 **SQ** prehensile tail

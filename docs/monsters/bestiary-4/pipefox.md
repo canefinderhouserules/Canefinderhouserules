@@ -21,7 +21,7 @@ N Diminutive magical beast
 **Space** 1 ft., **Reach** 0 ft.  
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
 Constant—*comprehend languages*  
-3/day—*augury*, *vanish*<sup>APG</sup>  
+3/day—*augury*, *vanish*  
 1/day—*detect thoughts* (DC 14), *divination*, *greater invisibility* (self only)
 
 **Statistics**

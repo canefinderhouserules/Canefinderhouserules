@@ -33,7 +33,7 @@ N Large monstrous humanoid
 **Skills** Climb +20, Craft (weapons) +8, Knowledge (history) +8, Knowledge (nature) +7, Perception +24, Sense Motive +9, Stealth +19, Survival +20; **Racial Modifiers** +4 Climb, +4 Perception, +4 Stealth  
 **Languages** Common, Girtablilu  
 **SQ** favored terrain (desert +2), scorpion empathy +13, track +1, undersized weapons, wild empathy +4  
-**Combat Gear**  *+1 frost arrows* (10), *potion of cat’s grace*, *potions of cure serious wounds* (3), *potion of owl’s wisdom*, *potions of pass without trace* (2), *potions of spider climb* (2); **Other Gear** *+1 expeditious*<sup>UE</sup> *leather armor*, *+1 composite longbow* with 50 arrows, mwk falchion, *eyes of the eagle*, backpack, camouflage netting<sup>UE</sup>, compass<sup>UE</sup>
+**Combat Gear**  *+1 frost arrows* (10), *potion of cat’s grace*, *potions of cure serious wounds* (3), *potion of owl’s wisdom*, *potions of pass without trace* (2), *potions of spider climb* (2); **Other Gear** *+1 expeditious* *leather armor*, *+1 composite longbow* with 50 arrows, mwk falchion, *eyes of the eagle*, backpack, camouflage netting, compass
 
 **Ecology**
 

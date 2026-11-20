@@ -28,11 +28,11 @@ At will—*feather fall*
 8/day—grave touch (5 rounds)  
 **Necromancer Spells Prepared** (CL 11th; concentration +16)  
 6th—*eyebite* (DC 23), *globe of invulnerability*  
-5th—*cloudkill* (DC 20), *magic jar* (DC 22), *suffocation*<sup>APG</sup> (DC 22), *teleport*  
-4th—*bestow curse* (DC 21), *enervation* (2), *shadow projection*<sup>APG</sup>, reach *vampiric touch*  
+5th—*cloudkill* (DC 20), *magic jar* (DC 22), *suffocation* (DC 22), *teleport*  
+4th—*bestow curse* (DC 21), *enervation* (2), *shadow projection*, reach *vampiric touch*  
 3rd—*dispel magic*, reach *ghoul touch* (DC 19), *ray of exhaustion* (DC 20), *slow* (DC 18), *vampiric touch* (2)  
 2nd—*command undead* (DC 19), *false life* (2), *ghoul touch* (DC 19), *shatter* (DC 17), *web* (DC 17)  
-1st—*cause fear* (DC 18), *detect undead*, *expeditious excavation*<sup>APG</sup>, *expeditious retreat*, *protection from good*, *shield*, reach *touch of fatigue* (DC 17)  
+1st—*cause fear* (DC 18), *detect undead*, *expeditious excavation*, *expeditious retreat*, *protection from good*, *shield*, reach *touch of fatigue* (DC 17)  
 0 (at will)—*bleed* (DC 17), *detect magic*, *read magic*, *touch of fatigue* (DC 17)  
 **Opposition Schools** Enchantment, Illusion
 
@@ -40,7 +40,7 @@ At will—*feather fall*
 
 **Str** 17, **Dex** 16, **Con** 17, **Int** 20, **Wis** 15, **Cha** 16  
 **Base Atk** +8; **CMB** +11; **CMD** 26  
-**Feats** [Arcane Armor Training](../../rules/feats/arcane-armor-training.md), [Combat Casting](../../rules/feats/combat-casting.md), [Craft Wand](../../rules/feats/craft-wand.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Greater Spell Focus (necromancy)](../../rules/feats/greater-spell-focus.md), [Improved Channel](../../rules/feats/improved-channel.md), [Iron Will](../../rules/feats/iron-will.md), [Reach Spell<sup>APG</sup>](../../rules/feats/reach-spell.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Spell Focus (necromancy)](../../rules/feats/spell-focus.md), [Turn Undead](../../rules/feats/turn-undead.md)  
+**Feats** [Arcane Armor Training](../../rules/feats/arcane-armor-training.md), [Combat Casting](../../rules/feats/combat-casting.md), [Craft Wand](../../rules/feats/craft-wand.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Greater Spell Focus (necromancy)](../../rules/feats/greater-spell-focus.md), [Improved Channel](../../rules/feats/improved-channel.md), [Iron Will](../../rules/feats/iron-will.md), [Reach Spell](../../rules/feats/reach-spell.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Spell Focus (necromancy)](../../rules/feats/spell-focus.md), [Turn Undead](../../rules/feats/turn-undead.md)  
 **Skills** Bluff +13, Intimidate +14, Knowledge (arcana, dungeoneering, planes, religion) +20, Linguistics +18, Perception +11, Sense Motive +12, Spellcraft +22, Stealth +16  
 **Languages** Aboleth, Abyssal, Aklo, Common, Dark Folk, Dwarven, Elven, Gnome, Goblin, Infernal, Orc, Orvian, Shae, Rune Empire, Undercommon, Yithian  
 **SQ** arcane bond (*ring of protection +2*), daemonic pact, life sight 10 ft. (11 rounds/day), power over undead  

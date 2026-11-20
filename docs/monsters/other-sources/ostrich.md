@@ -23,7 +23,7 @@ N Medium animal
 
 **Str** 17, **Dex** 14, **Con** 14, **Int** 2, **Wis** 13, **Cha** 11  
 **Base Atk** +1; **CMB** +4; **CMD** 16  
-**Feats** [Endurance<sup>B</sup>](../../rules/feats/endurance.md), [Run<sup>B</sup>](../../rules/feats/run.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
+**Feats** [Endurance](../../rules/feats/endurance.md), [Run](../../rules/feats/run.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
 **Skills** Acrobatics +6 (+18 when jumping), Perception +8  
 **SQ** crouch
 

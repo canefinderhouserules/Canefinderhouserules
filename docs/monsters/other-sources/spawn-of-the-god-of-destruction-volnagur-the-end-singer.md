@@ -24,7 +24,7 @@ CE Colossal magical beast
 **Space** 30 ft., **Reach** 30 ft. (50 ft. with razor tongues)  
 **Spell-Like Abilities** (CL 25th; concentration +30)  
 At will—*acid fog*, *greater invisibility*, *song of discord* (DC 20)  
-3/day—*winds of vengeance*<sup>APG</sup>
+3/day—*winds of vengeance*
 
 **Statistics**
 
@@ -43,7 +43,7 @@ At will—*acid fog*, *greater invisibility*, *song of discord* (DC 20)
 
 **Special Abilities**
 
-**Blood Rage (Ex)** Any creature taking bleed damage from Volnagur’s razor tongues takes a –4 penalty on Will saves and is affected as the *murderous command*<sup>UM</sup> spell (Will DC 16 negates) each round that bleeding continues, ignoring allies that are also taking bleed damage from Volnagur.
+**Blood Rage (Ex)** Any creature taking bleed damage from Volnagur’s razor tongues takes a –4 penalty on Will saves and is affected as the *murderous command* spell (Will DC 16 negates) each round that bleeding continues, ignoring allies that are also taking bleed damage from Volnagur.
 
 **Eye Rays (Su)** Volnagur fires eye rays at a range of up to 120 feet. Creatures struck by his eye rays are nauseated 1 for 1 minute (Fortitude DC 29 negates). In addition, if the target fails a second Fortitude save against the same DC, it gains one of the following conditions, lasting as long as the nauseated condition, as its mind and body begin to unravel (roll 1d6): 1—confused, 2—fatigued (exhausted if already fatigued), 3—shaken (increase severity of fear effect if already present), 4—sickened, 5—staggered, 6—stunned. Reroll if an identical condition already exists. This is a sonic effect. The save DC is Charisma-based.
 

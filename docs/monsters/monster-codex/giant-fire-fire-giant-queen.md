@@ -27,7 +27,7 @@ LE Large humanoid (fire, giant)
 **Sorcerer Spells Known** (CL 8th; concentration +13)  
 4th (4/day)—*dimension door*  
 3rd (6/day)—*dispel magic*, *fireball* (DC 18), *fly*  
-2nd (7/day)—*bull’s strength*, *dust of twilight*<sup>APG</sup> (DC 17), *invisibility*, *scorching ray*  
+2nd (7/day)—*bull’s strength*, *dust of twilight* (DC 17), *invisibility*, *scorching ray*  
 1st (8/day)—*burning hands* (DC 16), *color spray* (DC 16), *endure elements*, *identify*, *ray of enfeeblement* (DC 16), *summon monster I*  
 0 (at will)—*acid splash*, *bleed* (DC 15), *daze* (DC 15), *detect magic*, *detect poison*, *flare* (DC 15), *read magic*, *touch of fatigue* (DC 15)  
 **Bloodline** arcane
@@ -44,7 +44,7 @@ LE Large humanoid (fire, giant)
 **Skills** Climb +22, Craft (weapons) +11, Diplomacy +21, Intimidate +16, Knowledge (arcana) +24, Perception +33, Spellcraft +34, Use Magic Device +36  
 **Languages** Common, Giant, Infernal  
 **SQ** arcane bond (mace), armor training 1, bloodline arcana (+1 DC for metamagic spells that increase spell level), metamagic adept (2/day)  
-**Combat Gear**  *potions of cure serious wounds* (3), *potions of invisibility* (2), *scrolls of darkness* (2), *scroll of flame arrow*, *scrolls of lightning bolt* (2), *scroll of summon monster IV*, *wand of scorching ray* (22 charges); **Other Gear** *+3 mithral spell storing*<sup>UE</sup> *chain shirt*, *+1 dispelling*<sup>UE</sup> *furyborn*<sup>UE</sup> *heavy mace*, *amulet of natural armor +2*, *belt of physical perfection +2*, *headband of mental prowess +4* (Int, Cha), *ring of protection +2*
+**Combat Gear**  *potions of cure serious wounds* (3), *potions of invisibility* (2), *scrolls of darkness* (2), *scroll of flame arrow*, *scrolls of lightning bolt* (2), *scroll of summon monster IV*, *wand of scorching ray* (22 charges); **Other Gear** *+3 mithral spell storing* *chain shirt*, *+1 dispelling* *furyborn* *heavy mace*, *amulet of natural armor +2*, *belt of physical perfection +2*, *headband of mental prowess +4* (Int, Cha), *ring of protection +2*
 
 **Ecology**
 

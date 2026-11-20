@@ -29,7 +29,7 @@ CN Large aberration
 
 **Str** 14, **Dex** 19, **Con** 18, **Int** 13, **Wis** 16, **Cha** 17  
 **Base Atk** +6; **CMB** +9; **CMD** 24 (can’t be tripped)  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Dodge](../../rules/feats/dodge.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Dodge](../../rules/feats/dodge.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md)  
 **Skills** Bluff +7, Diplomacy +7, Knowledge (arcana) +5, Knowledge (nature) +9, Perception +14, Spellcraft +8, Stealth +14  
 **Languages** Aklo, Common
 

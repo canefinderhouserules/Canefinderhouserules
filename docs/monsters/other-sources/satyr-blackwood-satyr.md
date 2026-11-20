@@ -24,7 +24,7 @@ CN Medium fey
 **Special Attacks** pipes (DC 19)  
 **Spell-Like Abilities** (CL 8th; concentration +13)  
 At will—*dancing lights* (DC 15), *deep slumber* (DC 18), *ghost sound* (DC 15), *suggestion* (DC 18)  
-3/day—*major image* (DC 18), *reckless infatuation*<sup>UM</sup> (DC 18)  
+3/day—*major image* (DC 18), *reckless infatuation* (DC 18)  
 1/day—*charm monster* (DC 19), *summon nature’s ally IV*
 
 **Statistics**

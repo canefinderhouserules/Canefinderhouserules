@@ -32,7 +32,7 @@ Constant—*detect evil*, *detect magic*
 **Feats** Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +11, Fly +8, Knowledge (planes) +10, Knowledge (religion) +10, Perception +11, Perform (any one) +11, Stealth +15, Survival +11  
 **Languages** Celestial, Draconic, Infernal; truespeech  
-**SQ** change shape (giant moth [use giant wasp stats]; *vermin shape II*<sup>UM</sup>)
+**SQ** change shape (giant moth [use giant wasp stats]; *vermin shape II*)
 
 **Ecology**
 

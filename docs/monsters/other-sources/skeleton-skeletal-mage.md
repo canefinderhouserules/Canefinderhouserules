@@ -34,7 +34,7 @@ NE Medium undead
 
 **Str** 12, **Dex** 15, **Con** &mdash;, **Int** 16, **Wis** 12, **Cha** 15  
 **Base Atk** +2; **CMB** +3; **CMD** 15  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Command Undead](../../rules/feats/command-undead.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Silent Spell<sup>B</sup>](../../rules/feats/silent-spell.md), [Spell Focus (necromancy)](../../rules/feats/spell-focus.md), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Command Undead](../../rules/feats/command-undead.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Silent Spell](../../rules/feats/silent-spell.md), [Spell Focus (necromancy)](../../rules/feats/spell-focus.md), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Intimidate +8, Knowledge (arcana) +11, Knowledge (religion) +11, Perception +8, Sense Motive +9, Spellcraft +11, Stealth +10  
 **Languages** Abyssal, Common, Draconic, Undercommon  
 **SQ** arcane bond (skull)

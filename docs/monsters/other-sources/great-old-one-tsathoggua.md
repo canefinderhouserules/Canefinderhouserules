@@ -25,7 +25,7 @@ CE Large aberration (chaotic, evil, Great Old One)
 **Spell-Like Abilities** (CL 29th; concentration +41)  
 Constant—*air walk*, *freedom of movement*, *tongues*, *true seeing*  
 At will—*astral projection*, *dimension door*<sup>M</sup>, *dream*<sup>M</sup>, *greater dispel magic*, *insanity* (DC 29), *nightmare*<sup>M</sup> (DC 27), *sending*<sup>M</sup>  
-3/day—*demand* (DC 30), quickened *feeblemind* (DC 27), *hungry pit*<sup>APG</sup> (DC 27), *power word stun*  
+3/day—*demand* (DC 30), quickened *feeblemind* (DC 27), *hungry pit* (DC 27), *power word stun*  
 1/day—*maze*, *weird* (DC 31), *wish*<sup>M</sup>  
 **Spells Known** (CL 29th; concentration +41)  
 9th (7/day)—*imprisonment* (DC 31), *time stop*  

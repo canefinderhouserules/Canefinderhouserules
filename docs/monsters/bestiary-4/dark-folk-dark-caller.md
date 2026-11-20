@@ -23,7 +23,7 @@ CE Medium humanoid (dark folk)
 **Spell-Like Abilities** (CL 8th; concentration +12)  
 Constant—*detect magic*  
 At will—*bleed* (DC 14)  
-3/day—*deeper darkness*, *shadow step*<sup>UM</sup>  
+3/day—*deeper darkness*, *shadow step*  
 1/day—*shadow conjuration* (DC 18)
 
 **Statistics**

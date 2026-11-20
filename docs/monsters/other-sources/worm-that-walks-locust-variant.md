@@ -35,7 +35,7 @@ CE Medium vermin (augmented human)
 
 **Str** 13, **Dex** 14, **Con** 18, **Int** 8, **Wis** 20, **Cha** 12  
 **Base Atk** +5; **CMB** +6 (+14 grapple); **CMD** 29 (33 vs. grapple)  
-**Feats** [Diehard<sup>B</sup>](../../rules/feats/diehard.md), [Dodge](../../rules/feats/dodge.md), [Extra Channel](../../rules/feats/extra-channel.md), [Improved Channel](../../rules/feats/improved-channel.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (scythe)](../../rules/feats/weapon-focus.md)  
+**Feats** [Diehard](../../rules/feats/diehard.md), [Dodge](../../rules/feats/dodge.md), [Extra Channel](../../rules/feats/extra-channel.md), [Improved Channel](../../rules/feats/improved-channel.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (scythe)](../../rules/feats/weapon-focus.md)  
 **Skills** Knowledge (planes) +6, Knowledge (religion) +5, Perception +15, Sense Motive +13, Spellcraft +7, Stealth +10; **Racial Modifiers** +8 Perception, +8 Sense Motive, +8 Stealth  
 **Languages** Common  
 **Gear** mwk scythe, *headband of inspired wisdom +2*, *ring of protection +1*

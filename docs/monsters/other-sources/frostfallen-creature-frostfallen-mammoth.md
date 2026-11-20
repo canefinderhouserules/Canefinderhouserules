@@ -27,7 +27,7 @@ NE Huge undead (cold)
 
 **Str** 36, **Dex** 12, **Con** —, **Int** —, **Wis** 10, **Cha** 12  
 **Base Atk** +10; **CMB** +25; **CMD** 36 (40 vs. trip)  
-**Feats** [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Toughness](../../rules/feats/toughness.md)  
 **SQ** lifesense
 
 **Ecology**

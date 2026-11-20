@@ -24,7 +24,7 @@ NE Medium undead
 
 **Str** 15, **Dex** 13, **Con** —, **Int** —, **Wis** 10, **Cha** 13  
 **Base Atk** +3; **CMB** +5; **CMD** 16  
-**Feats** [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Toughness](../../rules/feats/toughness.md)  
 **SQ** Construction Points (additional movement [fly], extra attack [bite])
 
 **Ecology**

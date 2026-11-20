@@ -26,7 +26,7 @@ Always N Huge vermin
 
 **Str** 20, **Dex** 18, **Con** 14, **Int** &mdash;, **Wis** 10, **Cha** 2  
 **Base Atk** +12; **Grapple** +25  
-**Feats** [Altitude Affinity<sup>B</sup>](../../rules/feats/altitude-affinity.md)  
+**Feats** [Altitude Affinity](../../rules/feats/altitude-affinity.md)  
 **Skills** Climb +21, Hide +0, Jump +15, Spot +8; **Racial Modifiers** +4 Jump  
 **SQ** tether
 

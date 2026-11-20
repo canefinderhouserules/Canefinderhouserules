@@ -23,7 +23,7 @@ CE Huge aberration
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** confusion command  
 **Psychic Magic** (CL 15th; concentration +19)  
-12 PE—*anticipate thoughts*<sup>OA</sup> (2 PE, DC 16), *detect thoughts* (2 PE, DC 16), *levitate* (2 PE), *mental barrier IV*<sup>U, OA</sup> (5 PE), *mind fog* (5 PE, DC 19), *psychic crush I*<sup>OA</sup> (5 PE, DC 19), *suggestion* (2 PE, DC 17)
+12 PE—*anticipate thoughts* (2 PE, DC 16), *detect thoughts* (2 PE, DC 16), *levitate* (2 PE), *mental barrier IV* (5 PE), *mind fog* (5 PE, DC 19), *psychic crush I* (5 PE, DC 19), *suggestion* (2 PE, DC 17)
 
 **Statistics**
 

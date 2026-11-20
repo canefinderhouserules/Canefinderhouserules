@@ -21,7 +21,7 @@ N Huge construct
 **Speed** 60 ft.  
 **Melee** 2 claws +38 (2d6+13 plus grab), slam +38 (2d8+13 plus grab)  
 **Space** 15 ft., **Reach** 15 ft.  
-**Special Attacks** constrict (2d6+19), fast swallow<sup>B3</sup>, swallow whole (see below), trample (2d8+19, DC 36)  
+**Special Attacks** constrict (2d6+19), fast swallow, swallow whole (see below), trample (2d8+19, DC 36)  
 **Spell-Like Abilities** (CL 15th; concentration +22)  
 At will—*dimensional anchor*, *freedom of movement*, *irresistible dance* (DC 25)  
 3/day—*blink*, *dimension door*, *incendiary cloud* (DC 25)

@@ -27,7 +27,7 @@ CE Large outsider (chaotic, demon, evil, extraplanar)
 Constant—*true seeing*  
 1/day—summon (level 6, 1 painajai 35%)  
 **Psychic Magic** (CL 14th; concentration +18)  
-25 PE—*cognitive block*<sup>OA</sup> (3 PE, DC 17), *confusion* (4 PE, DC 18), *fear* (4 PE, DC 18), *greater oneiric horror*<sup>OA</sup> (4 PE, DC 18), *hungry pit*<sup>APG</sup> (5 PE, DC 19), *mental barrier II*<sup>OA</sup> (3 PE), *mirage arcana* (5 PE, DC 19), *nightmare* (5 PE, DC 19), *phantasmal killer* (4 PE, DC 18), *synaptic pulse*<sup>OA</sup> (3 PE, DC 17)
+25 PE—*cognitive block* (3 PE, DC 17), *confusion* (4 PE, DC 18), *fear* (4 PE, DC 18), *greater oneiric horror* (4 PE, DC 18), *hungry pit* (5 PE, DC 19), *mental barrier II* (3 PE), *mirage arcana* (5 PE, DC 19), *nightmare* (5 PE, DC 19), *phantasmal killer* (4 PE, DC 18), *synaptic pulse* (3 PE, DC 17)
 
 **Statistics**
 
@@ -46,6 +46,6 @@ Constant—*true seeing*
 
 **Special Abilities**
 
-**Chain-Spear (Ex)** A painajai can hurl its spear at a target within 50 feet with no range penalty. If the attack hits, the painajai can immediately yank the chain to attempt a reposition<sup>APG</sup> or trip combat maneuver check against the target. The painajai is considered to have the Improved Reposition<sup>APG</sup> and Improved Trip feats when performing these maneuvers with its spear only. A reposition combat maneuver performed in this way can only move the target closer to the painajai. The painajai can recover its spear as a swift action.
+**Chain-Spear (Ex)** A painajai can hurl its spear at a target within 50 feet with no range penalty. If the attack hits, the painajai can immediately yank the chain to attempt a reposition or trip combat maneuver check against the target. The painajai is considered to have the Improved Reposition and Improved Trip feats when performing these maneuvers with its spear only. A reposition combat maneuver performed in this way can only move the target closer to the painajai. The painajai can recover its spear as a swift action.
 
-**Dreamwalker (Su)** A painajai can travel between the Abyss and the Dimension of Dreams at will, as per *dream travel*<sup>OA</sup>, except that it cannot enter any other planes or take other creatures with it.
+**Dreamwalker (Su)** A painajai can travel between the Abyss and the Dimension of Dreams at will, as per *dream travel*, except that it cannot enter any other planes or take other creatures with it.

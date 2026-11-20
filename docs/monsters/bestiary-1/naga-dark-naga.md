@@ -30,7 +30,7 @@ LE Large aberration
 
 **Str** 14, **Dex** 21, **Con** 18, **Int** 16, **Wis** 15, **Cha** 17  
 **Base Atk** +7; **CMB** +10; **CMD** 26 (can’t be tripped)  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Casting](../../rules/feats/combat-casting.md), [Dodge](../../rules/feats/dodge.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Stealthy](../../rules/feats/stealthy.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Casting](../../rules/feats/combat-casting.md), [Dodge](../../rules/feats/dodge.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Stealthy](../../rules/feats/stealthy.md)  
 **Skills** Bluff +13, Diplomacy +9, Disguise +9, Escape Artist +13, Intimidate +12, Knowledge (arcana) +13, Perception +19, Sense Motive +10, Spellcraft +12, Stealth +18  
 **Languages** Common, Infernal
 

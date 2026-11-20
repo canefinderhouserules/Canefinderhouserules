@@ -23,7 +23,7 @@ LN Huge dragon (fire)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (100-ft. line, 12d10 fire, DC 23), channel life (8/day), crush, primal fire  
 **Spell-Like Abilities** (CL 7th; concentration +12)  
-At will—*cup of dust*<sup>APG</sup>, *detect magic*, *searing light*  
+At will—*cup of dust*, *detect magic*, *searing light*  
 **Sorcerer Spells Known** (CL 7th; concentration +12)  
 3rd (5/day)—*dispel magic*, *tongues*  
 2nd (7/day)—*invisibility*, *resist energy*, *scorching ray*  
@@ -34,7 +34,7 @@ At will—*cup of dust*<sup>APG</sup>, *detect magic*, *searing light*
 
 **Str** 28, **Dex** 13, **Con** 20, **Int** 19, **Wis** 16, **Cha** 21  
 **Base Atk** +17; **CMB** +28; **CMD** 39 (43 vs. trip)  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Quick Channel<sup>UM</sup>](../../rules/feats/quick-channel.md), [Selective Channeling](../../rules/feats/selective-channeling.md), [Silent Spell](../../rules/feats/silent-spell.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Quick Channel](../../rules/feats/quick-channel.md), [Selective Channeling](../../rules/feats/selective-channeling.md), [Silent Spell](../../rules/feats/silent-spell.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Diplomacy +25, Fly +13, Heal +21, Knowledge (arcana, history, nature, planes, religion) +24, Linguistics +9, Perception +23, Sense Motive +23  
 **Languages** Auran, Celestial, Common, Draconic, Ignan, Sylvan, Terran  
 **SQ** no breath, starflight

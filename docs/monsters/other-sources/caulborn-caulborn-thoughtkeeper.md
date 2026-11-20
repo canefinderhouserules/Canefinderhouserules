@@ -25,7 +25,7 @@ Constant—*detect magic*, *detect thoughts* (DC 18), *read magic*
 3/day—*charm monster* (DC 19), *daze monster* (DC 17), *hold monster* (DC 20), *hypnotic pattern* (DC 18), *vampiric touch*  
 1/week—*plane shift* (willing targets only)  
 **Psychic Magic** (CL 9th; concentration +15)  
-10 PE—*burst of insight*<sup>OA</sup> (1 PE), *emotive block*<sup>OA</sup> (3 PE, DC 19), *greater oneiric horror*<sup>OA</sup> (4 PE, DC 20), *mind thrust III*<sup>OA</sup> (3 PE, DC 19), *mindscape door*<sup>OA</sup> (3 PE, DC 19), *mindwipe*<sup>OA</sup> (4 PE, DC 20), *telekinetic maneuver*<sup>OA</sup> (3 PE)
+10 PE—*burst of insight* (1 PE), *emotive block* (3 PE, DC 19), *greater oneiric horror* (4 PE, DC 20), *mind thrust III* (3 PE, DC 19), *mindscape door* (3 PE, DC 19), *mindwipe* (4 PE, DC 20), *telekinetic maneuver* (3 PE)
 
 **Statistics**
 

@@ -26,7 +26,7 @@ N Tiny vermin
 
 **Str** 5, **Dex** 15, **Con** 10, **Int** &mdash;, **Wis** 10, **Cha** 2  
 **Base Atk** +0; **CMB** +0; **CMD** 7  
-**Feats** [Lunge<sup>B</sup>](../../rules/feats/lunge.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Lunge](../../rules/feats/lunge.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Climb +5  
 **SQ** compression, water skating
 

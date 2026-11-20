@@ -5,7 +5,7 @@
 ## Gravedragger (CR 15)
 
 **XP** 51,200  
-NE Large outsider (evil, herald<sup>ISG</sup>)  
+NE Large outsider (evil, herald)  
 **Init** +8; **Senses** darkvision 60 ft., scent, see in darkness; Perception +23  
 **Aura** frightful presence (30 ft., DC 22), unluck (30 ft.)
 
@@ -32,7 +32,7 @@ At will—*dimension door* (self only), *invisibility* (self only)
 
 **Str** 20, **Dex** 19, **Con** 22, **Int** 17, **Wis** 16, **Cha** 19  
 **Base Atk** +17; **CMB** +23 (+25 dirty trick, +25 drag); **CMD** 37 (39 vs. dirty trick, 39 vs. drag)  
-**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Critical (heavy pick)](../../rules/feats/improved-critical.md), [Improved Dirty Trick<sup>APG</sup>](../../rules/feats/improved-dirty-trick.md), [Improved Drag<sup>APG</sup>](../../rules/feats/improved-drag.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Power Attack](../../rules/feats/power-attack.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (heavy pick)](../../rules/feats/weapon-focus.md)  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Critical (heavy pick)](../../rules/feats/improved-critical.md), [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), [Improved Drag](../../rules/feats/improved-drag.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Power Attack](../../rules/feats/power-attack.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (heavy pick)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +21, Bluff +24, Fly +2, Handle Animal +15, Intimidate +21, Knowledge (history) +15, Knowledge (planes) +15, Knowledge (religion) +23, Perception +23, Perform (dance) +12, Sleight of Hand +24, Stealth +20  
 **Languages** Abyssal, Celestial, Common, Infernal; telepathy 60 ft.  
 **SQ** change shape (human; *alter self*)

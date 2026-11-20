@@ -24,13 +24,13 @@ CE Tiny fey
 **Special Attacks** lashing chains, malicious mischief  
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
 At will—*alter self* (Small humanoid child only), *ghost sound* (DC 12)  
-1/day—*lesser confusion* (DC 13), *murderous command*<sup>UM</sup> (DC 13), *rage*
+1/day—*lesser confusion* (DC 13), *murderous command* (DC 13), *rage*
 
 **Statistics**
 
 **Str** 14, **Dex** 16, **Con** 15, **Int** 8, **Wis** 9, **Cha** 14  
 **Base Atk** +1; **CMB** +2; **CMD** 14  
-**Feats** [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +9, Bluff +8, Perception +5, Sleight of Hand +13, Stealth +20; **Racial Modifiers** +4 Sleight of Hand  
 **Languages** Aklo, Common, Undercommon
 
@@ -46,4 +46,4 @@ At will—*alter self* (Small humanoid child only), *ghost sound* (DC 12)
 
 **Lashing Chains (Ex)** Erinats have 5-foot reach when attacking on their turn with their spiked chains, though they don’t threaten adjacent squares when it is not their turn.
 
-**Malicious Mischief (Su)** A pair of erinats working together for 1 round can present an item and compel a creature to take it. This functions as *beguiling gift*<sup>APG</sup> (DC 13), but rather than using the item in the appropriate fashion, the recipient is compelled to use the item to attack a random non-gremlin creature within 30 feet, even if the recipient must use the item as an improvised weapon. Additionally, a group of six erinats working together over the course of 1 hour can create an effect identical to *malicious spite*<sup>UM</sup> (DC 16) on any living creature. This effect functions at CL 6th, and the target creature must be either willing or helpless.
+**Malicious Mischief (Su)** A pair of erinats working together for 1 round can present an item and compel a creature to take it. This functions as *beguiling gift* (DC 13), but rather than using the item in the appropriate fashion, the recipient is compelled to use the item to attack a random non-gremlin creature within 30 feet, even if the recipient must use the item as an improvised weapon. Additionally, a group of six erinats working together over the course of 1 hour can create an effect identical to *malicious spite* (DC 16) on any living creature. This effect functions at CL 6th, and the target creature must be either willing or helpless.

@@ -32,7 +32,7 @@ At will—*light*, *remove fear*, *stabilize*, *virtue*
 
 **Str** 15, **Dex** 17, **Con** 16, **Int** 11, **Wis** 14, **Cha** 12  
 **Base Atk** +8; **CMB** +10; **CMD** 23  
-**Feats** [Cavalry Formation<sup>APG</sup>](../../rules/feats/cavalry-formation.md), [Mounted Combat](../../rules/feats/mounted-combat.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), [Spirited Charge](../../rules/feats/spirited-charge.md)  
+**Feats** [Cavalry Formation](../../rules/feats/cavalry-formation.md), [Mounted Combat](../../rules/feats/mounted-combat.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), [Spirited Charge](../../rules/feats/spirited-charge.md)  
 **Skills** Fly +7, Handle Animal +12, Heal +11, Knowledge (planes) +7, Perception +13, Profession (soldier) +13, Ride +14, Sense Motive +11  
 **Languages** Celestial, Common, Infernal; truespeech  
 **SQ** inspiring presence, shining mount

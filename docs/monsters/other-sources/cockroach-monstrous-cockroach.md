@@ -23,7 +23,7 @@ Always N Small vermin
 
 **Str** 10, **Dex** 12, **Con** 19, **Int** &mdash;, **Wis** 10, **Cha** 2  
 **Base Atk** +0; **Grapple** -4  
-**Feats** [Diehard<sup>B</sup>](../../rules/feats/diehard.md), [Endurance<sup>B</sup>](../../rules/feats/endurance.md)  
+**Feats** [Diehard](../../rules/feats/diehard.md), [Endurance](../../rules/feats/endurance.md)  
 **Skills** Climb +9, Hide +9, Spot +4; **Racial Modifiers** +4 Hide, +4 Spot  
 **SQ** hold breath, light sensitivity
 

@@ -29,8 +29,8 @@ LE Small humanoid (reptilian)
 **Feats** [Paired Opportunists](../../rules/feats/paired-opportunists.md), [Slurk Rider](../../rules/feats/slurk-rider.md)  
 **Skills** Craft (trapmaking) +1, Handle Animal +9, Intimidate +6, Perception +2, Profession (miner) +2, Ride +4  
 **Languages** Common, Draconic  
-**SQ** crafty, mount (cave salamander or slurk<sup>B2</sup>), order of the lion (lion’s call), tactician (1/day, 4 rounds, standard action)  
-**Combat Gear**  *liquid ice*<sup>APG</sup>, *potion of cure light wounds*; **Other Gear** mwk scale mail, mwk heavy steel shield, mwk lance, 10 gp
+**SQ** crafty, mount (cave salamander or slurk), order of the lion (lion’s call), tactician (1/day, 4 rounds, standard action)  
+**Combat Gear**  *liquid ice*, *potion of cure light wounds*; **Other Gear** mwk scale mail, mwk heavy steel shield, mwk lance, 10 gp
 
 **Ecology**
 

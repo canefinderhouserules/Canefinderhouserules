@@ -31,7 +31,7 @@ At will—*aid*, *greater teleport* (self plus 50 lbs. of objects only), *messag
 
 **Str** 20, **Dex** 13, **Con** 25, **Int** 14, **Wis** 16, **Cha** 15  
 **Base Atk** +9; **CMB** +15; **CMD** 26 (30 vs. bull rush and trip)  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Shield Focus](../../rules/feats/shield-focus.md), [Stand Still](../../rules/feats/stand-still.md), [Weapon Specialization (shortspear)<sup>B</sup>](../../rules/feats/weapon-specialization.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Shield Focus](../../rules/feats/shield-focus.md), [Stand Still](../../rules/feats/stand-still.md), [Weapon Specialization (shortspear)](../../rules/feats/weapon-specialization.md)  
 **Skills** Diplomacy +14, Fly +0, Intimidate +14, Knowledge (religion) +14, Perception +15, Sense Motive +15, Stealth -6, Survival +15  
 **Languages** Celestial, Draconic, Infernal; truespeech  
 **SQ** spear and shield, stability

@@ -26,7 +26,7 @@ N Tiny animal (aquatic)
 
 **Str** 8, **Dex** 21, **Con** 10, **Int** 2, **Wis** 13, **Cha** 3  
 **Base Atk** +0; **CMB** +3 (+7 grapple); **CMD** 12 (can’t be tripped)  
-**Feats** Multiattack<sup>B</sup>, [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** Multiattack, [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Escape Artist +15, Stealth +25, Swim +13; **Racial Modifiers** +10 Escape Artist, +8 Stealth
 
 **Ecology**

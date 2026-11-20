@@ -25,7 +25,7 @@ N Large animal
 
 **Str** 20, **Dex** 15, **Con** 18, **Int** 2, **Wis** 15, **Cha** 5  
 **Base Atk** +3; **CMB** +9; **CMD** 21 (25 vs. trip)  
-**Feats** [Endurance](../../rules/feats/endurance.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Run<sup>B</sup>](../../rules/feats/run.md)  
+**Feats** [Endurance](../../rules/feats/endurance.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Run](../../rules/feats/run.md)  
 **Skills** Perception +9
 
 **Ecology**

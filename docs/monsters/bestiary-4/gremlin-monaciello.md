@@ -21,14 +21,14 @@ CE Small fey
 **Speed** 30 ft.  
 **Melee** bite +4 (1d4–2), dagger +4 (1d3–2/19–20)  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
-At will—*prestidigitation*, *putrefy food and drink*<sup>APG</sup> (DC 11), *ghost sound* (DC 12), *silent image* (DC 12)  
+At will—*prestidigitation*, *putrefy food and drink* (DC 11), *ghost sound* (DC 12), *silent image* (DC 12)  
 1/day—*glitterdust*
 
 **Statistics**
 
 **Str** 6, **Dex** 15, **Con** 14, **Int** 11, **Wis** 12, **Cha** 13  
 **Base Atk** +1; **CMB** –2; **CMD** 10  
-**Feats** [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Bluff +6, Disable Device +8, Escape Artist +7, Perception +6, Sense Motive +6, Stealth +18 (+14 when moving); **Racial Modifiers** +4 Disable Device, +4 Stealth (+0 when moving)  
 **Languages** Aklo  
 **SQ** compression, magic bag

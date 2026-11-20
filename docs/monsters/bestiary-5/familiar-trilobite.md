@@ -25,7 +25,7 @@ N Tiny vermin (aquatic)
 
 **Str** 7, **Dex** 15, **Con** 12, **Int** —, **Wis** 11, **Cha** 2  
 **Base Atk** +0; **CMB** +0; **CMD** 8  
-**Feats** [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Perception +4, Swim +10; **Racial Modifiers** +4 Perception  
 **SQ** curl, water dependency
 

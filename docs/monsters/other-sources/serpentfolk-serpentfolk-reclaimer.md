@@ -21,7 +21,7 @@ NE Medium monstrous humanoid
 **Melee** mwk dagger +15/+10 (1d4/19–20), bite +9 (1d6 plus poison)  
 **Special Attacks** poison  
 **Psychic Magic** (CL 9th, concentration +14)  
-12 PE—*anticipate thoughts*<sup>OA</sup> (2 PE, DC 17), *call spirit*<sup>OA</sup> (5 PE, DC 20), *command* (1 PE, DC 16), *disguise self* (1 PE, DC 16), *hypnotism* (1 PE, DC 16), *instigate psychic duel*<sup>OA</sup> (2 PE, DC 17), *suggestion* (2 PE, DC 17), *synesthesia*<sup>OA</sup> (3 PE, DC 18)
+12 PE—*anticipate thoughts* (2 PE, DC 17), *call spirit* (5 PE, DC 20), *command* (1 PE, DC 16), *disguise self* (1 PE, DC 16), *hypnotism* (1 PE, DC 16), *instigate psychic duel* (2 PE, DC 17), *suggestion* (2 PE, DC 17), *synesthesia* (3 PE, DC 18)
 
 **Statistics**
 

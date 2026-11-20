@@ -28,7 +28,7 @@ CE Huge magical beast (augmented vermin)
 
 **Str** 31, **Dex** 15, **Con** 22, **Int** 10, **Wis** 14, **Cha** 15  
 **Base Atk** +7; **CMB** +19 (+23 grapple); **CMD** 32 (44 vs. trip)  
-**Feats** [Dodge](../../rules/feats/dodge.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Stealth)<sup>B</sup>](../../rules/feats/skill-focus.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Vital Strike](../../rules/feats/vital-strike.md)  
+**Feats** [Dodge](../../rules/feats/dodge.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md), [Vital Strike](../../rules/feats/vital-strike.md)  
 **Skills** Acrobatics +15, Climb +23, Perception +19, Stealth +21 (+29 in forests); **Racial Modifiers** +4 Perception, +8 Stealth (+16 in forests)  
 **Languages** Abyssal, Celestial, Draconic; telepathy 100 ft.
 

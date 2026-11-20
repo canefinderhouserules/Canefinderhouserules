@@ -26,7 +26,7 @@ N Huge construct
 
 **Str** 33, **Dex** 24, **Con** —, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +24; **CMB** +37; **CMD** 55  
-**Feats** [Dodge<sup>B</sup>](../../rules/feats/dodge.md), [Mobility<sup>B</sup>](../../rules/feats/mobility.md), [Run<sup>B</sup>](../../rules/feats/run.md), [Spring Attack<sup>B</sup>](../../rules/feats/spring-attack.md)
+**Feats** [Dodge](../../rules/feats/dodge.md), [Mobility](../../rules/feats/mobility.md), [Run](../../rules/feats/run.md), [Spring Attack](../../rules/feats/spring-attack.md)
 
 **Ecology**
 

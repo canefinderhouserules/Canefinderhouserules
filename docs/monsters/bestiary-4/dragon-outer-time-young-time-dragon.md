@@ -23,7 +23,7 @@ N Large dragon
 **Special Attacks** breath weapon (40-ft. cone, 6d10 electricity, DC 21)  
 **Spell-Like Abilities** (CL 11th; concentration +13)  
 Constant—*detect magic*  
-At will—*share memory*<sup>UM</sup>  
+At will—*share memory*  
 **Sorcerer Spells Known** (CL 1st; concentration +3)  
 1st (4/day)—*erase*, *mage armor*  
 0 (at will)—*mage hand*, *message*, *read magic*, *resistance*

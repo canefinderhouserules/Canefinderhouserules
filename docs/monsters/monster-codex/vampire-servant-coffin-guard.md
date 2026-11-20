@@ -33,7 +33,7 @@ NE Medium humanoid (elf)
 **Skills** Intimidate +6, Knowledge (geography) +8, Knowledge (local) +5, Perception +10, Sense Motive +5, Stealth +10, Survival +8  
 **Languages** Common, Draconic, Elven  
 **SQ** elven magic, favored terrain (urban +2), hunter’s bond (companions), track +2, wild empathy +3  
-**Combat Gear**  *potion of cat’s grace*, *potion of cure moderate wounds*, *potion of protective penumbra*<sup>UM</sup>, *scroll of animal messenger*, *scroll of longstrider*; **Other Gear** mwk chain shirt, mwk composite longbow with 20 arrows, mwk rapiers (2), sunrods (5), 9 gp
+**Combat Gear**  *potion of cat’s grace*, *potion of cure moderate wounds*, *potion of protective penumbra*, *scroll of animal messenger*, *scroll of longstrider*; **Other Gear** mwk chain shirt, mwk composite longbow with 20 arrows, mwk rapiers (2), sunrods (5), 9 gp
 
 **Ecology**
 

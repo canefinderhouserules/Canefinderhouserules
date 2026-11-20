@@ -5,7 +5,7 @@
 ## Paakis-Si (CR 5)
 
 **XP** 1,600  
-Male sasquatch ranger (warden<sup>UC</sup>) 3  
+Male sasquatch ranger (warden) 3  
 LN Medium humanoid (sasquatch)  
 **Init** +4; **Senses** darkvision 60 ft., low-light vision, scent; Perception +15
 
@@ -29,7 +29,7 @@ LN Medium humanoid (sasquatch)
 **Feats** [Endurance](../../rules/feats/endurance.md), [Self-Sufficient](../../rules/feats/self-sufficient.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Weapon Focus (greatclub)](../../rules/feats/weapon-focus.md)  
 **Skills** Heal +10, Knowledge (nature) +6, Perception +15, Stealth +20 (+24 in forests), Survival +17; **Racial Modifiers** +4 Perception, +4 Stealth (+8 in forests), +4 Survival  
 **Languages** Sasquatch  
-**SQ** favored terrain (forest +4, mountain +2), live in comfort<sup>UC</sup>, pungency, track +1, wild empathy +2, woodland stride  
+**SQ** favored terrain (forest +4, mountain +2), live in comfort, pungency, track +1, wild empathy +2, woodland stride  
 **Gear** *+1 greatclub*
 
 **Special Abilities**

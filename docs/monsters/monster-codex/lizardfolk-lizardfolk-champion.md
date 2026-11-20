@@ -26,7 +26,7 @@ N Medium humanoid (reptilian)
 
 **Str** 21, **Dex** 10, **Con** 17, **Int** 7, **Wis** 12, **Cha** 12  
 **Base Atk** +10; **CMB** +15; **CMD** 25  
-**Feats** [Duck and Cover<sup>APG</sup>](../../rules/feats/duck-and-cover.md), [Improved Critical (lance)](../../rules/feats/improved-critical.md), Improved Natural Attack (claw), [Mounted Combat](../../rules/feats/mounted-combat.md), [Power Attack](../../rules/feats/power-attack.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), [Shield Wall<sup>APG</sup>](../../rules/feats/shield-wall.md), [Trample](../../rules/feats/trample.md), [Weapon Focus (lance)](../../rules/feats/weapon-focus.md)  
+**Feats** [Duck and Cover](../../rules/feats/duck-and-cover.md), [Improved Critical (lance)](../../rules/feats/improved-critical.md), Improved Natural Attack (claw), [Mounted Combat](../../rules/feats/mounted-combat.md), [Power Attack](../../rules/feats/power-attack.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), [Shield Wall](../../rules/feats/shield-wall.md), [Trample](../../rules/feats/trample.md), [Weapon Focus (lance)](../../rules/feats/weapon-focus.md)  
 **Skills** Perception +13, Ride +5, Swim +11; **Racial Modifiers** +4 Acrobatics  
 **Languages** Draconic  
 **SQ** expert trainer +4, greater tactician (2/day, 7 rounds, swift action), hold breath, mount (styracosaurus), order of the dragon (aid allies, strategy)  

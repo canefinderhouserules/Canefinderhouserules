@@ -23,7 +23,7 @@ N Medium animal
 
 **Str** 13, **Dex** 13, **Con** 14, **Int** 2, **Wis** 11, **Cha** 4  
 **Base Atk** +1; **CMB** +2; **CMD** 13 (17 vs. trip)  
-**Feats** [Endurance](../../rules/feats/endurance.md), [Run<sup>B</sup>](../../rules/feats/run.md)  
+**Feats** [Endurance](../../rules/feats/endurance.md), [Run](../../rules/feats/run.md)  
 **Skills** Perception +5  
 **SQ** docile (see horse)
 

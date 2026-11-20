@@ -37,7 +37,7 @@ At will—*speak with animals*
 **Skills** Craft (alchemy) +12, Disable Device +8, Knowledge (arcana) +10, Knowledge (dungeoneering) +4, Knowledge (engineering) +4, Knowledge (geography) +4, Knowledge (history) +4, Knowledge (local) +4, Knowledge (nature) +10, Knowledge (nobility) +4, Knowledge (planes) +4, Knowledge (religion) +4, Perception +8, Use Magic Device +8  
 **Languages** Celestial, Common, Elven, Gnome, Halfling, Sylvan  
 **SQ** alchemy (alchemy crafting +4, identify potions), bleachling, discoveries (smoke bomb, stink bomb), mutagen (+4/–2, +2 natural, 40 minutes), poison use, swift alchemy  
-**Combat Gear**  *potion of cure moderate wounds*, *potion of invisibility*, *wand of polypurpose panacea*<sup>UM</sup> (17 charges), acid (2), thunderstone (3); **Other Gear** *+1 leather armor*, mwk light crossbow with 10 bolts, punching dagger, *dull gray ioun stone*, alchemy lab, formula book (contains all prepared extracts as well as the following: 1st—*cure light wounds*, *endure elements*, *enlarge person*, *jump*), sunrods (2), 8 gp
+**Combat Gear**  *potion of cure moderate wounds*, *potion of invisibility*, *wand of polypurpose panacea* (17 charges), acid (2), thunderstone (3); **Other Gear** *+1 leather armor*, mwk light crossbow with 10 bolts, punching dagger, *dull gray ioun stone*, alchemy lab, formula book (contains all prepared extracts as well as the following: 1st—*cure light wounds*, *endure elements*, *enlarge person*, *jump*), sunrods (2), 8 gp
 
 **Special Abilities**
 

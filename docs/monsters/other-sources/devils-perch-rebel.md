@@ -22,8 +22,8 @@ CN Medium humanoid (strix)
 **Ranged**  dart +5 (1d4–1)  
 **Special Attacks** +1 on attack rolls against humanoids with the human subtype, hexes (disguise [5 hours], evil eye [–2, 6 rounds], slumber [5 rounds])  
 **Witch Spells Prepared** (CL 5th; concentration +8)  
-3rd—*pain strike*<sup>APG</sup> (DC 17), *twilight knife*<sup>APG</sup>  
-2nd—*burning gaze*<sup>APG</sup> (DC 15), *darkness*, *hold person* (DC 15)  
+3rd—*pain strike* (DC 17), *twilight knife*  
+2nd—*burning gaze* (DC 15), *darkness*, *hold person* (DC 15)  
 1st—*burning hands* (DC 14), *cause fear* (DC 14), *mage armor*, *silent image* (DC 14)  
 0 (at will)—*bleed* (DC 13), *dancing lights*, *message*, *touch of fatigue* (DC 13)  
 **Patron** shadow

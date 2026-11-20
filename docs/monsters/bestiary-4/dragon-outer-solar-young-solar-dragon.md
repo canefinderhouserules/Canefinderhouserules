@@ -31,7 +31,7 @@ At will—*detect magic*
 
 **Str** 22, **Dex** 15, **Con** 16, **Int** 15, **Wis** 12, **Cha** 17  
 **Base Atk** +11; **CMB** +18; **CMD** 30 (34 vs. trip)  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Quick Channel<sup>UM</sup>](../../rules/feats/quick-channel.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Quick Channel](../../rules/feats/quick-channel.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Diplomacy +17, Fly +10, Knowledge (arcana, history, nature, planes) +16, Perception +15, Sense Motive +15  
 **Languages** Celestial, Common, Draconic  
 **SQ** no breath, starflight

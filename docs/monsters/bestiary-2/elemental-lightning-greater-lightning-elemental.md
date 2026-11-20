@@ -26,7 +26,7 @@ N Huge outsider (air, elemental, extraplanar)
 
 **Str** 22, **Dex** 29, **Con** 16, **Int** 8, **Wis** 11, **Cha** 11  
 **Base Atk** +13; **CMB** +21; **CMD** 41  
-**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Dodge](../../rules/feats/dodge.md), Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), Weapon Finesse <sup>B</sup>  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Dodge](../../rules/feats/dodge.md), Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), Weapon Finesse  
 **Skills** Acrobatics +25, Escape Artist +25, Fly +13, Intimidate +16, Knowledge (planes) +15, Perception +16
 
 **Ecology**

@@ -22,7 +22,7 @@ NE Medium fey (aquatic)
 **Special Attacks** drowning touch (DC 14),  
 **Spell-Like Abilities** (CL 9th; concentration +14)  
 Constant—*water walk*  
-3/day—*hydraulic torrent*<sup>APG</sup>
+3/day—*hydraulic torrent*
 
 **Statistics**
 
@@ -43,7 +43,7 @@ Constant—*water walk*
 
 **Drowning Touch (Su)** A fossegrim can flood the lungs of a creature that is willing, is helpless, is affected by its enchanted music ability, touches it while it’s in treasure form, or is touched by it (traditionally by kissing the creature on the lips). If the target cannot breathe water, it cannot hold its breath and immediately begins to drown slowly. On its turn, the target can attempt a DC 16 Fortitude save to cough up this water; if it fails, it falls unconscious at 0 hp. On the next round, a fallen target must attempt another DC 16 Fortitude save, dropping to –1 hit points and dying if it fails; on the next round it must attempt to save again or lose 1d6 hit points. On the first successful save, the water clears from the target’s lungs and the target stabilizes. The save DC is Constitution-based.
 
-**Enchanting Music (Su)** As a full-round action, a fossegrim can play a musical stringed instrument (usually a harp or violin) and target a single creature within 45 feet that can hear and see the fossegrim with an effect identical to the *unnatural lust*<sup>UM</sup> spell (CL 9th; Will DC 19). This action provokes an attack of opportunity. If the target touches or kisses the fossegrim, the fey can affect the target with its drowning touch ability. This is a sonic mind-affecting compulsion effect. The save DC is Charisma-based.
+**Enchanting Music (Su)** As a full-round action, a fossegrim can play a musical stringed instrument (usually a harp or violin) and target a single creature within 45 feet that can hear and see the fossegrim with an effect identical to the *unnatural lust* spell (CL 9th; Will DC 19). This action provokes an attack of opportunity. If the target touches or kisses the fossegrim, the fey can affect the target with its drowning touch ability. This is a sonic mind-affecting compulsion effect. The save DC is Charisma-based.
 
 **Transparency (Su)** When underwater, a fossegrim’s body becomes transparent, effectively rendering it invisible. It can become visible or transparent at will as a free action.
 

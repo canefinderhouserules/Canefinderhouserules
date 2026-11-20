@@ -34,7 +34,7 @@ LG Large magical beast
 
 **Str** 23, **Dex** 12, **Con** 21, **Int** 16, **Wis** 17, **Cha** 14  
 **Base Atk** +9; **CMB** +16; **CMD** 27 (31 vs. trip)  
-**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md)  
 **Skills** Diplomacy +11, Fly +11, Knowledge (arcana) +12, Perception +15, Sense Motive +12  
 **Languages** Celestial, Common
 

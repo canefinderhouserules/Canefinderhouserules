@@ -22,8 +22,8 @@ CN Medium fey (extraplanar)
 **Melee** mwk rapier +8 (1d6+2/18–20)  
 **Special Attacks** dissonance (every 1d4 rounds, 15-ft. cone, 6d6 sonic damage, Reflex DC 16 half ), elemental font  
 **Spell-Like Abilities** (CL 7th; concentration +10)  
-3/day—*calm emotions* (DC 15), *delusional pride*<sup>UM</sup> (DC 14), *reckless infatuation*<sup>UM</sup> (DC 16), *unadulterated loathing*<sup>UM</sup>(DC 16), *unnatural lust*<sup>UM</sup> (DC 15)  
-1/day—*charm monster* (DC 17), *overwhelming grief*<sup>UM</sup> (DC 17), *rage* (DC 16)
+3/day—*calm emotions* (DC 15), *delusional pride* (DC 14), *reckless infatuation* (DC 16), *unadulterated loathing*(DC 16), *unnatural lust* (DC 15)  
+1/day—*charm monster* (DC 17), *overwhelming grief* (DC 17), *rage* (DC 16)
 
 **Statistics**
 
@@ -46,8 +46,8 @@ CN Medium fey (extraplanar)
 **Elemental Font (Su)** A dawn piper can infuse a 40-foot-radius area with the primal qualities of the First World. The creation of an elemental font requires a musical instrument and a musical ritual lasting 8 hours. As long as the piper returns to it every 24 hours, a font can persist forever, but it is destroyed immediately upon the creator’s death. A dawn piper can also destroy its own font as a full-round action. The dawn piper gains additional spell-like abilities based on a single element while within range of its elemental font. *Dimensional anchor* and *dimensional lock* stop the flow of power, preventing the piper from using the additional spelllike abilities. The save DCs are Charisma-based, and the spell-like abilities are cast at caster level 7th.
 
 Air: 2/day—*fly*, *gust of wind* (DC 15), *shocking grasp*  
-Earth: 2/day—*grease* (DC 14), *spiked pit*<sup>APG</sup>(DC 16), *stone call*<sup>APG</sup>  
+Earth: 2/day—*grease* (DC 14), *spiked pit*(DC 16), *stone call*  
 Fire: 2/day—*burning hands* (DC 14), *fireball* (DC 16), *pyrotechnics* (DC 15)  
-Water: 2/day—*aqueous orb*<sup>APG</sup>(DC 16), *hydraulic push*<sup>APG</sup>, *slipstream*<sup>APG</sup>
+Water: 2/day—*aqueous orb*(DC 16), *hydraulic push*, *slipstream*
 
 **Terrible Beauty (Su)** As a standard action, a dawn piper can surround itself in an intense aura of magnificence that is too potent for non-fey to withstand. Non-fey creatures within a 30-foot radius of the dawn piper must succeed at a DC 16 Will save or be blinded or deafened for 1d4 rounds (the piper’s choice, but the effect is consistent for all affected creatures), and take 1 point of bleed damage from their eyes or ears (depending on the specific effect). This aura lasts 1 full round, and a creature that succeeds at its saving throw cannot be affected again for 24 hours. This is a visual or auditory, mind-affecting effect. A dawn piper requires a musical instrument in order to create this aura. The save DC for this ability is Charisma-based.

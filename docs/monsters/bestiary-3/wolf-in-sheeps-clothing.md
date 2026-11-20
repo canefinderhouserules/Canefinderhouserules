@@ -25,7 +25,7 @@ N Medium aberration
 
 **Str** 17, **Dex** 10, **Con** 17, **Int** 6, **Wis** 14, **Cha** 7  
 **Base Atk** +9; **CMB** +12 (+18 grapple); **CMD** 22 (can’t be tripped)  
-**Feats** [Great Fortitude](../../rules/feats/great-fortitude.md), [Greater Grapple<sup>B</sup>](../../rules/feats/greater-grapple.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Lightning Reflexes](../../rules/feats/improved-lightning-reflexes.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Weapon Focus (tentacle)](../../rules/feats/weapon-focus.md)  
+**Feats** [Great Fortitude](../../rules/feats/great-fortitude.md), [Greater Grapple](../../rules/feats/greater-grapple.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Lightning Reflexes](../../rules/feats/improved-lightning-reflexes.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Weapon Focus (tentacle)](../../rules/feats/weapon-focus.md)  
 **Skills** Climb +15, Disguise –1 (+11 as tree stump), Knowledge (nature) +4, Perception +14, Sense Motive +8, Stealth +9; **Racial Modifiers** +12 Disguise as tree stump  
 **SQ** corpse lure
 

@@ -23,7 +23,7 @@ NG Medium humanoid
 
 **Str** 15, **Dex** 13, **Con** 14, **Int** 10, **Wis** 12, **Cha** 11  
 **Base Atk** +2; **CMB** +4; **CMD** 16  
-**Feats** [Dodge](../../rules/feats/dodge.md), Hover<sup>B</sup>, Multiattack  
+**Feats** [Dodge](../../rules/feats/dodge.md), Hover, Multiattack  
 **Skills** Fly +3, Perception +2 (+6 listening only), Survival +6; **Racial Modifiers** +4 Perception (listening only)  
 **Languages** Common  
 **SQ** elephantine ears

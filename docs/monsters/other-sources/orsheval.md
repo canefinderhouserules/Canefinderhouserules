@@ -23,14 +23,14 @@ LN Medium outsider (extraplanar, lawful)
 **Special Attacks** glittering radiance  
 **Spell-Like Abilities** (CL 6th; concentration +6)  
 At will—*light*, *mage hand*  
-3/day—*ant haul*<sup>APG</sup>, *bless*, *expeditious retreat*  
+3/day—*ant haul*, *bless*, *expeditious retreat*  
 1/day—*dimension door* (self and rider only), *lesser restoration*, *zone of truth*
 
 **Statistics**
 
 **Str** 17, **Dex** 12, **Con** 15, **Int** 10, **Wis** 13, **Cha** 10  
 **Base Atk** +5; **CMB** +8 (+10 overrun); **CMD** 19 (21 vs. overrun, 23 vs. trip)  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Endurance](../../rules/feats/endurance.md), [Improved Overrun<sup>B</sup>](../../rules/feats/improved-overrun.md), [Run](../../rules/feats/run.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Endurance](../../rules/feats/endurance.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Run](../../rules/feats/run.md)  
 **Skills** Acrobatics +4, Appraise +6, Knowledge (local) +3, Knowledge (nobility) +6, Knowledge (planes) +6, Knowledge (religion) +6, Perception +11, Sense Motive +11, Swim +5  
 **Languages** Celestial, Infernal; truespeech
 

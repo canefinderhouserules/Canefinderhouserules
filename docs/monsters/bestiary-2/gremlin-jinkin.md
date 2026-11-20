@@ -29,7 +29,7 @@ At will—*prestidigitation*
 
 **Str** 3, **Dex** 19, **Con** 11, **Int** 14, **Wis** 14, **Cha** 15  
 **Base Atk** +0; **CMB** +2; **CMD** 9  
-**Feats** [Dodge](../../rules/feats/dodge.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Dodge](../../rules/feats/dodge.md), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Bluff +6, Craft (traps) +10, Disable Device +9, Escape Artist +8, Perception +6, Sleight of Hand +8, Stealth +16, Use Magic Device +6; **Racial Modifiers** +4 Craft (traps), +4 Disable Device  
 **Languages** Undercommon
 

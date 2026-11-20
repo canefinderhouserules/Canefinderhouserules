@@ -22,7 +22,7 @@ CN Large fey (air, shapechanger)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** breath weapon (90-ft. cone, 6d6 sonic plus wind blast, Reflex DC 24 for half, usable every 1d4 rounds), pounce, powerful hooves, thundering blows, trample (1d8+10 plus 2d6 sonic, DC 25)  
 **Spell-Like Abilities** (CL 16th; concentration +21)  
-Constant—*cloak of winds*<sup>APG</sup> (DC 18)  
+Constant—*cloak of winds* (DC 18)  
 At will—*fog cloud*, *gust of wind* (DC 17), *invisibility* (self only), *whispering wind*  
 3/day—*control weather*, *plant growth*, *sleet storm*  
 1/day—*chain lightning* (DC 21)

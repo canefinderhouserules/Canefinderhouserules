@@ -42,7 +42,7 @@ At will—*detect thoughts* (DC 19), *ethereal jaunt*, *invisibility*, *plane sh
 
 **Str** 30, **Dex** 20, **Con** 25, **Int** 18, **Wis** 29, **Cha** 27  
 **Base Atk** +20; **CMB** +32 (+36 grapple); **CMD** 48 (can't be tripped)  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Dodge](../../rules/feats/dodge.md), [Empower Spell](../../rules/feats/empower-spell.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), Hover, [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Natural Spell](../../rules/feats/natural-spell.md), [Spell Penetration](../../rules/feats/spell-penetration.md), [Widen Spell](../../rules/feats/widen-spell.md), Wingover  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Dodge](../../rules/feats/dodge.md), [Empower Spell](../../rules/feats/empower-spell.md), [Eschew Materials](../../rules/feats/eschew-materials.md), Hover, [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Natural Spell](../../rules/feats/natural-spell.md), [Spell Penetration](../../rules/feats/spell-penetration.md), [Widen Spell](../../rules/feats/widen-spell.md), Wingover  
 **Skills** Bluff +31, Fly +20, Intimidate +31, Knowledge (geography) +27, Knowledge (nature) +27, Perception +36, Sense Motive +36, Spellcraft +24, Stealth +20, Survival +32  
 **Languages** Celestial, Common, Draconic, Druidic; telepathy 100 ft.  
 **SQ** natural form, wild empathy +32

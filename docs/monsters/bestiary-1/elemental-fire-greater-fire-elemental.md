@@ -27,7 +27,7 @@ N Huge outsider (elemental, extraplanar, fire)
 
 **Str** 24, **Dex** 27, **Con** 18, **Int** 8, **Wis** 11, **Cha** 11  
 **Base Atk** +13; **CMB** +22; **CMD** 41  
-**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Spring Attack](../../rules/feats/spring-attack.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md), [Wind Stance](../../rules/feats/wind-stance.md)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Spring Attack](../../rules/feats/spring-attack.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Wind Stance](../../rules/feats/wind-stance.md)  
 **Skills** Acrobatics +23, Climb +20, Escape Artist +21, Intimidate +15, Knowledge (planes) +10, Perception +16
 
 **Ecology**

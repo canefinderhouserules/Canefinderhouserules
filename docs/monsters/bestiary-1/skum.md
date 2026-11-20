@@ -25,7 +25,7 @@ LE Medium monstrous humanoid (aquatic)
 
 **Str** 15, **Dex** 13, **Con** 17, **Int** 10, **Wis** 10, **Cha** 6  
 **Base Atk** +2; **CMB** +4; **CMD** 15  
-**Feats** Multiattack<sup>B</sup>, [Toughness](../../rules/feats/toughness.md)  
+**Feats** Multiattack, [Toughness](../../rules/feats/toughness.md)  
 **Skills** Intimidate +3, Perception +5 (+9 underwater), Stealth +6 (+10 underwater), Swim +15; **Racial Modifiers** +4 Perception and Stealth underwater  
 **Languages** Aboleth, Undercommon  
 **SQ** amphibious

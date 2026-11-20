@@ -25,7 +25,7 @@ CG Tiny outsider (chaotic, extraplanar, good)
 **Spell-Like Abilities** (CL 4th; concentration +6)  
 At will—*remove fear*  
 3/day—*bear’s endurance*, *create water* (ale or wine, up to 4 cups), *hideous laughter* (DC 13), *lesser confusion* (DC 13), *pick your poison*, *sleep* (DC 13)  
-1/day—*knock*, *magic jar* (willing target only, lasts 1 hour, see possession), *ray of sickening*<sup>UM</sup> (DC 13)
+1/day—*knock*, *magic jar* (willing target only, lasts 1 hour, see possession), *ray of sickening* (DC 13)
 
 **Statistics**
 

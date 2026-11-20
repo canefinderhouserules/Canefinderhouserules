@@ -25,7 +25,7 @@ NE Gargantuan undead
 
 **Str** 32, **Dex** 15, **Con** &mdash;, **Int** &mdash;, **Wis** 10, **Cha** 10  
 **Base Atk** +13; **CMB** +28; **CMD** 40  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md)  
 **SQ** multiplication, powerful bite
 
 **Special Abilities**

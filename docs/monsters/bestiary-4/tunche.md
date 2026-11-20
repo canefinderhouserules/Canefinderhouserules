@@ -23,7 +23,7 @@ CN Huge fey
 **Special Attacks** poison, rend (2 claws, 3d6+16)  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
 Constant—*speak with plants*, *tongues*  
-At will—*burst of nettles*<sup>UM</sup> (DC 20), *entangle* (DC 18), *tree shape*, *tree stride*, *ventriloquism*, *warp wood* (DC 19)  
+At will—*burst of nettles* (DC 20), *entangle* (DC 18), *tree shape*, *tree stride*, *ventriloquism*, *warp wood* (DC 19)  
 7/day—*diminish plants*, *plant growth*, *wall of thorns*  
 3/day—*control plants* (DC 25), *move earth*, *true seeing*
 

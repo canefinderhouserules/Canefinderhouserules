@@ -29,10 +29,10 @@ At will—*disguise self* (DC 16, humanoid form only), *ventriloquism* (DC 16)
 9/day— battle rage (+5), touch of evil (5 rounds)  
 **Cleric Spells Prepared** (CL 10th; concentration +16)  
 5th—*flame strike*<sup>D</sup> (2, DC 21), *righteous might*, *slay living* (DC 21)  
-4th—*cure critical wounds*, *divine power*, *freedom of movement*, *spit venom*<sup>UM</sup> (DC 20), *unholy blight*<sup>D</sup> (DC 20)  
+4th—*cure critical wounds*, *divine power*, *freedom of movement*, *spit venom* (DC 20), *unholy blight*<sup>D</sup> (DC 20)  
 3rd—*cure serious wounds*, *dispel magic*, *invisibility purge*, *magic circle against good*<sup>D</sup>, *protection from energy*  
-2nd—*bear’s endurance*, *calm emotions* (DC 18), *darkness*, *dread bolt*<sup>UM</sup> (DC 18), hold person (2, DC 18), *spiritual weapon*<sup>D</sup>  
-1st—*bane* (DC 17), *forbid action*<sup>UM</sup> (DC 17), *murderous command*<sup>UM</sup> (2, DC 17), *protection from good*<sup>D</sup>, *shield of faith* (2)  
+2nd—*bear’s endurance*, *calm emotions* (DC 18), *darkness*, *dread bolt* (DC 18), hold person (2, DC 18), *spiritual weapon*<sup>D</sup>  
+1st—*bane* (DC 17), *forbid action* (DC 17), *murderous command* (2, DC 17), *protection from good*<sup>D</sup>, *shield of faith* (2)  
 0 (at will)—*bleed* (DC 16), *detect magic*, *resistance*, *stabilize*  
 **D** domain spell; **Domains** Evil, War
 

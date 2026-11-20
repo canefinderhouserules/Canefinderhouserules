@@ -27,7 +27,7 @@ NE Medium humanoid (elf, human)
 
 **Str** 13, **Dex** 16, **Con** 12, **Int** 14, **Wis** 10, **Cha** 10  
 **Base Atk** +3; **CMB** +4; **CMD** 17  
-**Feats** [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Rapid Reload (hand crossbow)](../../rules/feats/rapid-reload.md), [Skill Focus (Stealth)<sup>B</sup>](../../rules/feats/skill-focus.md), [Weapon Focus (hand crossbow)](../../rules/feats/weapon-focus.md)  
+**Feats** [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Rapid Reload (hand crossbow)](../../rules/feats/rapid-reload.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Weapon Focus (hand crossbow)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +12, Bluff +9, Climb +10, Disable Device +12, Disguise +9, Escape Artist +12, Intimidate +8, Perception +11, Sleight of Hand +12, Stealth +15; **Racial Modifiers** +2 Perception  
 **Languages** Common, Elven, Plains Tribe, Frontier  
 **SQ** elf blood, poison use, rogue talents (bleeding attack +3, lasting poison*), trapfinding +2  

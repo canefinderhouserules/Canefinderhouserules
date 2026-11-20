@@ -25,9 +25,9 @@ LE Medium humanoid (human)
 6/day—corrupting touch (3 rounds)  
 **Sorcerer Spells Known** (CL 8th; concentration +11)  
 4th (3/day)—*wall of fire*  
-3rd (6/day)—*dispel magic*, *suggestion* (DC 16), *vision of hell*<sup>UM</sup> (DC 16)  
+3rd (6/day)—*dispel magic*, *suggestion* (DC 16), *vision of hell* (DC 16)  
 2nd (7/day)—*alter self*, *resist energy*, *scorching ray*, *summon monster II*  
-1st (7/day)—*burning hands* (DC 14), *charm person* (DC 16), *infernal healing*<sup>ISWG</sup>, *magic missile*, *protection from chaos*, *protection from good*  
+1st (7/day)—*burning hands* (DC 14), *charm person* (DC 16), *infernal healing*, *magic missile*, *protection from chaos*, *protection from good*  
 0 (at will)—*acid splash*, *bleed* (DC 13), *detect magic*, *ghost sound* (DC 13), *light*, *mage hand*, *ray of frost*, *read magic*  
 **Bloodline** infernal
 
@@ -39,7 +39,7 @@ LE Medium humanoid (human)
 **Skills** Diplomacy +10, Intimidate +8, Knowledge (arcana) +10, Knowledge (local) +6, Knowledge (nobility) +6, Knowledge (planes) +10, Sense Motive +8, Spellcraft +10  
 **Languages** Common, Infernal  
 **SQ** bloodline arcana (+2 DC for charm spells), Order of the Gate, signifer mask  
-**Combat Gear**  *potion of cure moderate wounds*, *scroll of false life*, *scroll of fireball*, *potion of fly*, *scroll of greater infernal healing*<sup>ISWG</sup>, *scroll of summon monster III*, *wand of shield* (30 charges); **Other Gear** *+1 breastplate*, *+1 quarterstaff*, dagger, *cloak of resistance +1*, signifer mask, 48 gp
+**Combat Gear**  *potion of cure moderate wounds*, *scroll of false life*, *scroll of fireball*, *potion of fly*, *scroll of greater infernal healing*, *scroll of summon monster III*, *wand of shield* (30 charges); **Other Gear** *+1 breastplate*, *+1 quarterstaff*, dagger, *cloak of resistance +1*, signifer mask, 48 gp
 
 **Special Abilities**
 

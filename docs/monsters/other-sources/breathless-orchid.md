@@ -25,7 +25,7 @@ N Medium plant
 
 **Str** 10, **Dex** 17, **Con** 14, **Int** —, **Wis** 13, **Cha** 7  
 **Base Atk** +2; **CMB** +2 (+10 grapple when attached); **CMD** 15 (can’t be tripped)  
-**Feats** [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **SQ** camouflage
 
 **Ecology**

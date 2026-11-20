@@ -24,7 +24,7 @@ LG Medium humanoid (human)
 **Spell-Like Abilities** (CL 4th; concentration +6)  
 5/day—icicle (1d6+2 cold damage), resistant touch  
 **Cleric Spells Prepared** (CL 4th; concentration +6)  
-2nd—*aid*, *calm emotions* (DC 14), *communal endure elements*<sup>UC</sup>, *fog cloud*<sup>D</sup>  
+2nd—*aid*, *calm emotions* (DC 14), *communal endure elements*, *fog cloud*<sup>D</sup>  
 1st—*bless*, *remove fear*, *sanctuary*<sup>D</sup> (DC 13), *shield of faith*, *summon monster I*  
 0 (at will)—*guidance*, *know direction*, *purify food and drink*, *stabilize*  
 **D** Domain spell; **Domains** Protection, Water

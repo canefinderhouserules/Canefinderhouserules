@@ -27,20 +27,20 @@ At will—*detect magic*, *detect thoughts* (DC 19), *dominate person* (DC 22)
 3/day—*arcane eye*, *dominate monster* (DC 26), *geas/quest* (DC 23), *mind fog* (DC 22), *mirage arcana* (DC 22)  
 1/day—*astral projection*, *veil* (DC 23)  
 **Psychic Spells Known** (CL 15th; concentration +22)  
-7th (5/day)—*ectoplasmic eruption*<sup>OA</sup> (DC 24), *psychic crush III*<sup>OA</sup> (DC 24)  
-6th (7/day)—*incorporeal chains*<sup>OA</sup>, *mind thrust VI*<sup>OA</sup> (DC 23), *primal regression*<sup>OA</sup> (DC 23)  
-5th (7/day)—*etheric shards*<sup>OA</sup> (DC 22), *explode head*<sup>OA</sup> (DC 22), *mind swap*<sup>OA</sup> (DC 22), *possession*<sup>OA</sup> (DC 22)  
-4th (7/day)—*condensed ether*<sup>OA</sup>, *mindwipe*<sup>OA</sup> (DC 21), *riding possession*<sup>OA</sup> (DC 21), *stoneskin*  
-3rd (8/day)—*babble*<sup>OA</sup> (DC 20), *catatonia*<sup>OA</sup>, *displacement*, *synesthesia*<sup>OA</sup> (DC 20)  
-2nd (8/day)—*aversion*<sup>OA</sup> (DC 19), *invisibility*, *paranoia*<sup>OA</sup> (DC 19), *resist energy*, *touch of idiocy*  
-1st (8)—*deja vu*<sup>OA</sup>, *psychic reading*<sup>OA</sup>, *shield*, *thought echo*<sup>OA</sup>, *true strike*  
-0 (at will)—*arcane mark*, *bleed* (DC 17), *detect magic*, *grave words*<sup>OA</sup>, *mage hand*, *open/close*, *prestidigitation*, *read magic*, *telekinetic projectile*<sup>OA</sup>
+7th (5/day)—*ectoplasmic eruption* (DC 24), *psychic crush III* (DC 24)  
+6th (7/day)—*incorporeal chains*, *mind thrust VI* (DC 23), *primal regression* (DC 23)  
+5th (7/day)—*etheric shards* (DC 22), *explode head* (DC 22), *mind swap* (DC 22), *possession* (DC 22)  
+4th (7/day)—*condensed ether*, *mindwipe* (DC 21), *riding possession* (DC 21), *stoneskin*  
+3rd (8/day)—*babble* (DC 20), *catatonia*, *displacement*, *synesthesia* (DC 20)  
+2nd (8/day)—*aversion* (DC 19), *invisibility*, *paranoia* (DC 19), *resist energy*, *touch of idiocy*  
+1st (8)—*deja vu*, *psychic reading*, *shield*, *thought echo*, *true strike*  
+0 (at will)—*arcane mark*, *bleed* (DC 17), *detect magic*, *grave words*, *mage hand*, *open/close*, *prestidigitation*, *read magic*, *telekinetic projectile*
 
 **Statistics**
 
 **Str** 32, **Dex** 28, **Con** 27, **Int** 25, **Wis** 21, **Cha** 24  
 **Base Atk** +18; **CMB** +33; **CMD** 52  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md), [Hidden Presence<sup>OA</sup>](../../rules/feats/hidden-presence.md), [Intrusive Presence<sup>OA</sup>](../../rules/feats/intrusive-presence.md), [Manipulative Presence<sup>OA</sup>](../../rules/feats/manipulative-presence.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md), [Hidden Presence](../../rules/feats/hidden-presence.md), [Intrusive Presence](../../rules/feats/intrusive-presence.md), [Manipulative Presence](../../rules/feats/manipulative-presence.md)  
 **Skills** Bluff +25, Diplomacy +23, Disguise +25, Intimidate +25, Knowledge (arcana, dungeoneering, engineering, geography, history, local, nature, nobility, planes, religion) +25, Perception +30, Sense Motive +24, Spellcraft +35, Stealth +24, Swim +28, Use Magic Device +30  
 **Languages** Aboleth, Aklo, Aquan, Sunken Empire, Common, Undercommon; telepathy 300 ft.; *tongues*  
 **SQ** servant of the mesh, telepathic mesh, vast knowledge

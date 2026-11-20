@@ -26,12 +26,12 @@ N Medium humanoid (human)
 1/day—*lesser planar ally* (janni only)  
 **Druid Spells Prepared** (CL 9th; concentration +12)  
 5th—*control winds* (DC 19), *transmute rock to mud*<sup>D</sup> (create loose sand instead of mud, DC 19)  
-4th—*giant vermin*, *hallucinatory terrain*<sup>D</sup> (DC 17), *vermin shape II*<sup>APG</sup>  
-3rd—*burrow*<sup>UM</sup>, *cup of dust*<sup>APG, D</sup> (DC 17), *greater magic fang*, *neutralize poison*, *spit venom*<sup>UM</sup> (DC 17)  
-2nd—*barkskin*, *elemental speech*<sup>APG</sup>, *pernicious poison*<sup>UM</sup>, *resist energy*, *shifting sand*<sup>APG, D</sup> (DC 16), *summon swarm*  
-1st—*alter winds*<sup>APG</sup> (DC 15), *cloak of shade*<sup>APG, D</sup>, *faerie fire*, *feather step*<sup>APG</sup>, *longstrider*, *speak with animals*  
+4th—*giant vermin*, *hallucinatory terrain*<sup>D</sup> (DC 17), *vermin shape II*  
+3rd—*burrow*, *cup of dust* (DC 17), *greater magic fang*, *neutralize poison*, *spit venom* (DC 17)  
+2nd—*barkskin*, *elemental speech*, *pernicious poison*, *resist energy*, *shifting sand* (DC 16), *summon swarm*  
+1st—*alter winds* (DC 15), *cloak of shade*, *faerie fire*, *feather step*, *longstrider*, *speak with animals*  
 0 (at will)—*create water*, *detect poison*, *light*, *virtue*  
-**D** Domain spell; **Domains** Desert<sup>UM</sup>
+**D** Domain spell; **Domains** Desert
 
 **Statistics**
 
@@ -40,7 +40,7 @@ N Medium humanoid (human)
 **Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Dodge](../../rules/feats/dodge.md), [Iron Will](../../rules/feats/iron-will.md), [Natural Spell](../../rules/feats/natural-spell.md), [Spell Focus (transmutation)](../../rules/feats/spell-focus.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Fly +15, Knowledge (nature) +14, Perception +15, Stealth +12, Survival +17  
 **Languages** Common, Druidic, Osiriani  
-**SQ** nature bond (Desert domain<sup>UM</sup>), nature sense, trackless step, wild empathy +8, woodland stride
+**SQ** nature bond (Desert domain), nature sense, trackless step, wild empathy +8, woodland stride
 
 **Ecology**
 

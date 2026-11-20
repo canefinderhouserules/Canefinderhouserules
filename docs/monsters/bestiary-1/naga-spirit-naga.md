@@ -30,7 +30,7 @@ CE Large aberration
 
 **Str** 18, **Dex** 20, **Con** 21, **Int** 12, **Wis** 17, **Cha** 17  
 **Base Atk** +7; **CMB** +12; **CMD** 27 (can’t be tripped)  
-**Feats** Ability Focus (charming gaze), [Combat Casting](../../rules/feats/combat-casting.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Stealthy](../../rules/feats/stealthy.md)  
+**Feats** Ability Focus (charming gaze), [Combat Casting](../../rules/feats/combat-casting.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Stealthy](../../rules/feats/stealthy.md)  
 **Skills** Bluff +13, Escape Artist +13, Intimidate +9, Knowledge (arcana) +14, Perception +22, Spellcraft +11, Stealth +15, Swim +12  
 **Languages** Abyssal, Common
 

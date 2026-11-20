@@ -27,7 +27,7 @@ N Huge construct
 
 **Str** 36, **Dex** 15, **Con** —, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +25; **CMB** +40; **CMD** 52  
-**Feats** [Toughness<sup>B</sup>](../../rules/feats/toughness.md)
+**Feats** [Toughness](../../rules/feats/toughness.md)
 
 **Ecology**
 

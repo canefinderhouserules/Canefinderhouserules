@@ -24,7 +24,7 @@ N Small humanoid (ratfolk)
 **Alchemist Extracts Prepared** (CL 8th)  
 3rd—*cure serious wounds*, *fly*, *heroism*  
 2nd—*barkskin*, *bull’s strength*, *invisibility*, *resist energy*, *see invisibility*  
-1st—*comprehend languages*, *crafter’s fortune*<sup>APG</sup>, *negate aroma*<sup>APG</sup> (DC 15), *reduce person* (DC 15), *shield*
+1st—*comprehend languages*, *crafter’s fortune*, *negate aroma* (DC 15), *reduce person* (DC 15), *shield*
 
 **Tactics**
 

@@ -25,7 +25,7 @@ CG Medium humanoid (human)
 4th (2/day)—*legend lore*, *shout* (DC 18)  
 3rd (4/day)—*clairaudience/clairvoyance*, *good hope*, *remove curse*, *scrying* (DC 18)  
 2nd (5/day)—*alter self*, *calm emotions* (DC 16), *detect thoughts* (DC 17), *locate object*, *hold person* (DC 16)  
-1st (6/day)—*anticipate peril*<sup>UM</sup> (DC 16), *comprehend languages*, *ear-piercing scream*<sup>UM</sup>, *hideous laughter* (DC 15), *remove fear*  
+1st (6/day)—*anticipate peril* (DC 16), *comprehend languages*, *ear-piercing scream*, *hideous laughter* (DC 15), *remove fear*  
 0 (at will)—*detect magic*, *ghost sound* (DC 14), *know direction*, *light*, *mage hand*, *read magic*
 
 **Statistics**
@@ -36,7 +36,7 @@ CG Medium humanoid (human)
 **Skills** Appraise +9, Bluff +12, Disguise +12, Intimidate +10, Knowledge (arcana) +12, Knowledge (history) +10, Knowledge (local) +10, Knowledge (nobility) +10, Perform (dance) +12, Perform (oratory) +23, Sleight of Hand +9, Spellcraft +14, Stealth +9, Use Magic Device +8  
 **Languages** Common, Frontier  
 **SQ** bardic knowledge +3, blessing of the harrow 1/day, lore master 1/day, versatile performance (dance, oratory), tower of intelligence*, tower of strength*  
-**Combat Gear**  *potions of cat’s grace* (3), *potions of cure moderate wounds* (2), *potion of protection from evil*, *scroll of confusion*, *scroll of eagle’s splendor*, *wand of cure light wounds* (40 charges), *wand of magic missile* (50 charges), *wand of sound burst* (17 charges), *feather token* (whip); **Other Gear** *+1 leather armor*, *+1 dagger*, *cloak of resistance +1*, *ring of protection +1*, *seer’s tea*<sup>UE</sup>, Harrow deck, spell component pouch, 28 gp
+**Combat Gear**  *potions of cat’s grace* (3), *potions of cure moderate wounds* (2), *potion of protection from evil*, *scroll of confusion*, *scroll of eagle’s splendor*, *wand of cure light wounds* (40 charges), *wand of magic missile* (50 charges), *wand of sound burst* (17 charges), *feather token* (whip); **Other Gear** *+1 leather armor*, *+1 dagger*, *cloak of resistance +1*, *ring of protection +1*, *seer’s tea*, Harrow deck, spell component pouch, 28 gp
 
 **Special Abilities**
 

@@ -23,7 +23,7 @@ CN Large outsider (chaotic, extraplanar, herald, shapechanger)
 **Space** 10 ft., **Reach** 5 ft.  
 **Special Attacks** implant, mind control, poison  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
-At will—*dimension door*, *dispel magic*, *lover’s vengeance*<sup>ISWG</sup>, *message*, *neutralize poison*, *rage*, *secret speech*  
+At will—*dimension door*, *dispel magic*, *lover’s vengeance*, *message*, *neutralize poison*, *rage*, *secret speech*  
 5/day—*crushing despair* (DC 19), *cat’s grace*, *cure moderate wounds*, *remove disease*, *suggestion* (DC 18), *summon swarm*, *telekinesis*, *teleport*, *wall of thorns*  
 1/day—*heal*, *insect plague*, *scrying* (DC 19)
 

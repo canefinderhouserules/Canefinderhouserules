@@ -40,7 +40,7 @@ At will—*feather fall*
 **Skills** Acrobatics –1 (–5 when jumping), Bluff +14, Fly +7, Intimidate +19, Knowledge (dungeoneering) +7, Knowledge (planes) +17, Knowledge (religion) +17, Perception +20, Sense Motive +16, Spellcraft +16  
 **Languages** Aklo, Elven, Infernal, Orvian, Undercommon  
 **SQ** blessings (evil: battle companion, unholy strike; war: battle lust, war mind), daemonic pact  
-**Combat Gear**  *potion of barkskin* (CL 9th), *potion of bear’s endurance*, *potion of cat’s grace*, *potion of haste*; **Other Gear** *+2 glamered chainmail*, *+1 vicious*<sup>UE</sup> *rhoka sword*<sup>UE</sup>, mwk silver light mace, *belt of giant strength +2*, *cloak of resistance +3*, *headband of inspired wisdom +2*, *incense of meditation*, *ring of protection +2*, iron unholy symbol
+**Combat Gear**  *potion of barkskin* (CL 9th), *potion of bear’s endurance*, *potion of cat’s grace*, *potion of haste*; **Other Gear** *+2 glamered chainmail*, *+1 vicious* *rhoka sword*, mwk silver light mace, *belt of giant strength +2*, *cloak of resistance +3*, *headband of inspired wisdom +2*, *incense of meditation*, *ring of protection +2*, iron unholy symbol
 
 **Ecology**
 

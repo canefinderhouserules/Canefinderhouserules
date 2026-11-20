@@ -24,7 +24,7 @@ N Medium vermin
 
 **Str** 14, **Dex** 10, **Con** 17, **Int** —, **Wis** 13, **Cha** 11  
 **Base Atk** +1; **CMB** +3 (+7 grapple); **CMD** 13 (21 vs. trip)  
-**Feats** [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Toughness](../../rules/feats/toughness.md)  
 **Skills** Climb +10, Perception +5, Survival +5; **Racial Modifiers** +4 Perception, +4 Survival
 
 **Ecology**

@@ -31,7 +31,7 @@ At will—*animate rope*, *cure light wounds*
 
 **Str** 17, **Dex** 22, **Con** —, **Int** —, **Wis** 18, **Cha** 1  
 **Base Atk** +18; **CMB** +21; **CMD** 39  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **SQ** difficult to create, swift reactions, winding
 
 **Ecology**

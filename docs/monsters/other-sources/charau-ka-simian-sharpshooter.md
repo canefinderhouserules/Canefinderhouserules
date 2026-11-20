@@ -27,11 +27,11 @@ CE Small humanoid (charau-ka)
 
 **Str** 15, **Dex** 18, **Con** 16, **Int** 10, **Wis** 16, **Cha** 9  
 **Base Atk** +6; **CMB** +7; **CMD** 23  
-**Feats** [Dodge](../../rules/feats/dodge.md), [Gunsmithing<sup>UC</sup>](../../rules/feats/gunsmithing.md), [Mobility](../../rules/feats/mobility.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Shot on the Run](../../rules/feats/shot-on-the-run.md), [Throw Anything<sup>B</sup>](../../rules/feats/throw-anything.md)  
+**Feats** [Dodge](../../rules/feats/dodge.md), [Gunsmithing](../../rules/feats/gunsmithing.md), [Mobility](../../rules/feats/mobility.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Shot on the Run](../../rules/feats/shot-on-the-run.md), [Throw Anything](../../rules/feats/throw-anything.md)  
 **Skills** Acrobatics +10, Bluff +4, Climb +13, Intimidate +4, Perception +11, Sleight of Hand +8, Stealth +12, Survival +11; **Racial Modifiers** +4 Stealth  
 **Languages** Abyssal, Polyglot  
 **SQ** deeds (deadeye, gunslinger initiative, gunslinger’s dodge, pistol-whip, quick clear, utility shot), gunsmith  
-**Combat Gear**  *oil of jury-rig*<sup>UC</sup>, *oil of magic weapon*, *potions of cure moderate wounds* (2), *potion of invisibility*, *potion of protection from good*, *tracer bullets*<sup>UC</sup> (2), entangling shot alchemical cartridges<sup>UC</sup> (10), salt shot alchemical cartridges<sup>UC</sup> (10), tanglefoot bags (2); **Other Gear** mwk chain shirt, mwk club, musket<sup>UC</sup> with 20 bullets<sup>UC</sup>, *amulet of natural armor +1*, powder horn with 20 doses of black powder<sup>UC</sup>
+**Combat Gear**  *oil of jury-rig*, *oil of magic weapon*, *potions of cure moderate wounds* (2), *potion of invisibility*, *potion of protection from good*, *tracer bullets* (2), entangling shot alchemical cartridges (10), salt shot alchemical cartridges (10), tanglefoot bags (2); **Other Gear** mwk chain shirt, mwk club, musket with 20 bullets, *amulet of natural armor +1*, powder horn with 20 doses of black powder
 
 **Ecology**
 

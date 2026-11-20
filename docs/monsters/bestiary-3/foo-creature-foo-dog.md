@@ -24,7 +24,7 @@ NG Medium outsider (augmented animal, good, extraplanar)
 
 **Str** 17, **Dex** 15, **Con** 17, **Int** 6, **Wis** 12, **Cha** 6  
 **Base Atk** +1; **CMB** +4; **CMD** 16 (20 vs. trip)  
-**Feats** [Iron Will<sup>B</sup>](../../rules/feats/iron-will.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
+**Feats** [Iron Will](../../rules/feats/iron-will.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
 **Skills** Acrobatics +6 (+14 when jumping), Perception +8; **Racial Modifiers** Acrobatics (+4 when jumping), +4 Survival when tracking by scent  
 **Languages** Celestial, Common  
 **SQ** freeze

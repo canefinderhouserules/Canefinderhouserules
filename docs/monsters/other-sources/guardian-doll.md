@@ -23,7 +23,7 @@ NE Tiny construct (cold)
 **Spell-Like Abilities** (CL 4th; concentration +4)  
 At will—*ray of frost*  
 3/day—*alarm*, *charm person* (DC 11), *light*, *mage hand*, *open/close*, *prestidigitation*  
-1/day—*frost fall*<sup>UC</sup> (DC 12), *levitate*
+1/day—*frost fall* (DC 12), *levitate*
 
 **Statistics**
 

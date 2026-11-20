@@ -26,7 +26,7 @@ CN Small fey
 2nd (5/day)—*darkvision*, *dust of twilight* (DC 17),  *haunting mists* (DC 17)  
 1st (8/day)—*bungle* (DC 16), *lock gaze* (DC 16), *mage  armor*, *ray of enfeeblement* (DC 16), *shadow weapon* (DC 16)  
 0 (at will)—*arcane mark*, *daze*(DC 15), *detect magic*,  *haunted fey aspect*, *message*, *read magic*  
-**Bloodline** shadow<sup>APG</sup>
+**Bloodline** shadow
 
 **Statistics**
 
@@ -36,4 +36,4 @@ CN Small fey
 **Skills** Bluff +16, Escape Artist +11, Knowledge (nature) +9, Perception +20, Perform (comedy) +11, Perform (dance) +13, Sense Motive +11, Sleight of Hand +14, Spellcraft +10, Stealth +20; **Racial Modifiers**  +8 Perception, +4 Sleight of Hand  
 **Languages** Aklo, Common, Elven, Halfling, Shadowtongue, Sylvan  
 **SQ** bloodline arcana, leprechaun magic, nighteye  
-**Combat Gear**  *wand of memory lapse*<sup>APG</sup> (30 charges), thunderstones (5); **Other Gear** club, *amulet of natural armor +1*, *gray bag of tricks*
+**Combat Gear**  *wand of memory lapse* (30 charges), thunderstones (5); **Other Gear** club, *amulet of natural armor +1*, *gray bag of tricks*

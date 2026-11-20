@@ -27,7 +27,7 @@ At will — *call lightning* (DC 15), *create food and water*, *bless water*, *m
 
 **Str** 18, **Dex** 15, **Con** 17, **Int** 12, **Wis** 20, **Cha** 14  
 **Base Atk** +6; **Grapple** +14  
-**Feats** [Endurance](../../rules/feats/endurance.md), Flyby Attack, [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md), [Run](../../rules/feats/run.md)  
+**Feats** [Endurance](../../rules/feats/endurance.md), Flyby Attack, [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Run](../../rules/feats/run.md)  
 **Skills** Balance +9, Diplomacy +8, Heal +8, Knowledge (any one) +7, Listen +10, Sense Motive +8, Spot +8; **Racial Modifiers** +2 Listen, +4 Balance  
 **Languages** Common, Celestial, Draconic  
 **SQ** fold the earth

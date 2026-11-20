@@ -6,7 +6,7 @@
 
 **XP** 1,200  
 N Medium outsider (extraplanar, psychopomp)  
-**Init** +1; **Senses** darkvision 60 ft., low-light vision, spiritsense<sup>B4</sup>; Perception +10
+**Init** +1; **Senses** darkvision 60 ft., low-light vision, spiritsense; Perception +10
 
 **Defense**
 
@@ -21,9 +21,9 @@ N Medium outsider (extraplanar, psychopomp)
 **Melee** *+1 returning undead–bane dagger* +8/+3 (1d4+1/19–20)  
 **Ranged**  *+1 returning undead–bane dagger* +9 (1d4+1/19–20)  
 **Spell-Like Abilities** (CL 6th; concentration +7)  
-At will—*bleed*, *deathwatch*, *detect undead*, *disrupt undead*, *ghost sound* (DC 11), summon (level 1, 1 great horned owl<sup>B3</sup> 100%)  
-3/day—*chill touch* (DC 12), *ghostbane dirge*<sup>APG</sup> (DC 13), *greater teleport* (self plus 50 lbs. of objects only), *silence* (DC 13), *spectral hand*  
-1/day—*ghostly disguise*<sup>UM</sup>, *locate creature*, *speak with dead*
+At will—*bleed*, *deathwatch*, *detect undead*, *disrupt undead*, *ghost sound* (DC 11), summon (level 1, 1 great horned owl 100%)  
+3/day—*chill touch* (DC 12), *ghostbane dirge* (DC 13), *greater teleport* (self plus 50 lbs. of objects only), *silence* (DC 13), *spectral hand*  
+1/day—*ghostly disguise*, *locate creature*, *speak with dead*
 
 **Statistics**
 
@@ -32,7 +32,7 @@ At will—*bleed*, *deathwatch*, *detect undead*, *disrupt undead*, *ghost sound
 **Feats** [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), [Weapon Focus (dagger)](../../rules/feats/weapon-focus.md)  
 **Skills** Knowledge (religion) +9, Perception +10, Sense Motive +10, Stealth +10, Survival +10, Use Magic Device +10  
 **Languages** Abyssal, Celestial, Infernal  
-**SQ** death’s dagger, ectoplasmic focus, spirit touch<sup>B4</sup>
+**SQ** death’s dagger, ectoplasmic focus, spirit touch
 
 **Ecology**
 

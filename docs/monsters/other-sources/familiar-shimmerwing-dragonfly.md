@@ -25,7 +25,7 @@ N Tiny vermin
 
 **Str** 6, **Dex** 14, **Con** 10, **Int** —, **Wis** 12, **Cha** 9  
 **Base Atk** +0; **CMB** +0; **CMD** 8 (16 vs. trip)  
-**Feats** Flyby Attack<sup>B</sup>  
+**Feats** Flyby Attack  
 **Skills** Fly +14
 
 **Ecology**

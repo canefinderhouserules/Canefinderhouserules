@@ -25,7 +25,7 @@ N Gargantuan animal
 
 **Str** 36, **Dex** 12, **Con** 21, **Int** 1, **Wis** 15, **Cha** 2  
 **Base Atk** +8; **CMB** +25 (+29 grapple); **CMD** 36 (40 vs. trip)  
-**Feats** Awesome Blow (tail slap only)<sup>B</sup>, [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Skill Focus (Perception](../../rules/feats/skill-focus.md), Stealth), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md)  
+**Feats** Awesome Blow (tail slap only), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Skill Focus (Perception](../../rules/feats/skill-focus.md), Stealth), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md)  
 **Skills** Perception +14, Stealth +0 (+12 in water), Swim +21; **Racial Modifiers** +12 Stealth in water  
 **SQ** hold breath
 

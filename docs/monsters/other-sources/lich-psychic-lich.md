@@ -25,19 +25,19 @@ LE Medium undead (augmented humanoid)
 **Spell-Like Abilities** (CL 11th; concentration +17)  
 1/day—*detect thoughts* (DC 17), *telepathic bond*  
 **Psychic Spells Known** (CL 11th; concentration +17)  
-5th (4/day)— *echolocation*<sup>UM</sup>, *mind fog* (DC 21), *synapse overload*<sup>OA</sup> (DC 21)  
-4th (6/day)—*aura of doom*<sup>UM</sup> (DC 20), *freedom of movement*, *id insinuation III*<sup>OA</sup> (DC 20), *mental barrier III*<sup>OA</sup>  
-3rd (7/day)—*dispel magic*, *fly*, *haste*, *mind thrust III*<sup>OA</sup> (DC 19), *synaptic pulse*<sup>OA</sup> (DC 19)  
-2nd (7/day)— *bear’s endurance*, *blur*, *calm emotions* (DC 18), *false life*, *mental block*<sup>OA</sup>, *resist energy*  
-1st (7/day)—*ear-piercing scream*<sup>UM</sup> (DC 17), *expeditious retreat*, *mage armor*, *magic missile*, *mindlink*<sup>OA</sup>, shield  
-0 (at will)—*arcane mark*, *dancing lights*, *detect magic*, *detect psychic significance*<sup>OA</sup>, *ghost sound* (DC 16), *mage hand*, *message*, *prestidigitation* (DC 16), *read magic*  
+5th (4/day)— *echolocation*, *mind fog* (DC 21), *synapse overload* (DC 21)  
+4th (6/day)—*aura of doom* (DC 20), *freedom of movement*, *id insinuation III* (DC 20), *mental barrier III*  
+3rd (7/day)—*dispel magic*, *fly*, *haste*, *mind thrust III* (DC 19), *synaptic pulse* (DC 19)  
+2nd (7/day)— *bear’s endurance*, *blur*, *calm emotions* (DC 18), *false life*, *mental block*, *resist energy*  
+1st (7/day)—*ear-piercing scream* (DC 17), *expeditious retreat*, *mage armor*, *magic missile*, *mindlink*, shield  
+0 (at will)—*arcane mark*, *dancing lights*, *detect magic*, *detect psychic significance*, *ghost sound* (DC 16), *mage hand*, *message*, *prestidigitation* (DC 16), *read magic*  
 **Psychic Discipline** self-perfection
 
 **Statistics**
 
 **Str** 8, **Dex** 12, **Con** —, **Int** 22, **Wis** 16, **Cha** 16  
 **Base Atk** +5; **CMB** +4; **CMD** 22  
-**Feats** [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Defensive Combat Training](../../rules/feats/defensive-combat-training.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Intuitive Spell<sup>OA</sup>](../../rules/feats/intuitive-spell.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Psychic Combatant<sup>B</sup>](../../rules/feats/psychic-combatant.md), [Psychic Defender<sup>B</sup>](../../rules/feats/psychic-defender.md), [Quicken Spell](../../rules/feats/quicken-spell.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Defensive Combat Training](../../rules/feats/defensive-combat-training.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Intuitive Spell](../../rules/feats/intuitive-spell.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Psychic Combatant](../../rules/feats/psychic-combatant.md), [Psychic Defender](../../rules/feats/psychic-defender.md), [Quicken Spell](../../rules/feats/quicken-spell.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Bluff +17, Disguise +12, Intimidate +15, Knowledge (arcana) +20, Knowledge (history) +20, Linguistics +20, Perception +11, Perform (oratory) +10, Sense Motive +25, Spellcraft +20, Stealth +23; **Racial Modifiers** +8 Perception, +8 Sense Motive, +8 Stealth  
 **Languages** Abyssal, Aklo, Sunken Empire, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnome, Halfling, Infernal, Osiriani, Skald, Sylvan, Undercommon, Frontier, Far Eastern  
 **SQ** bodily purge (6d8), detect thoughts, telepathic bond

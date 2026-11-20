@@ -34,7 +34,7 @@ N Medium humanoid (aquatic)
 **Skills** Climb +8, Handle Animal +8, Knowledge (engineering) +6, Knowledge (nature) +9, Perception +9, Stealth +10, Survival +10, Swim +17  
 **Languages** Aboleth, Common  
 **SQ** amphibious, favored terrain (water +2), hunter’s bond (companions), track +3, wild empathy +6  
-**Combat Gear**  *potion of barkskin*, *potion of bull’s strength*, *potions of cure light wounds* (2); **Other Gear** *+1 wooden armor*<sup>UE</sup>, *+1 shortspear*, mwk short sword, shortspears (5), block and tackle, crowbar, mwk backpack, sacks (4), silk rope (100 feet), whetstone<sup>UE</sup>
+**Combat Gear**  *potion of barkskin*, *potion of bull’s strength*, *potions of cure light wounds* (2); **Other Gear** *+1 wooden armor*, *+1 shortspear*, mwk short sword, shortspears (5), block and tackle, crowbar, mwk backpack, sacks (4), silk rope (100 feet), whetstone
 
 **Ecology**
 

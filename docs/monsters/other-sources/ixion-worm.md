@@ -23,8 +23,8 @@ LE Large outsider (evil, extraplanar, lawful)
 **Special Attacks** constrict (2d6+9; serpentine form only), energy drain (2 levels, DC 22), euphoric gaze (3/day; wheel form only), hypnotic wheel (DC 22; wheel form only), powerful charge (slam, 2d8+9; wheel form only)  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
 Constant—*true seeing*  
-At will—*castigate*<sup>APG</sup> (DC 17), *enthrall* (DC 17), *hypnotism* (DC 17), *lock gaze*<sup>UC</sup> (DC 16), *mage hand*  
-3/day—*mass suggestion* (DC 20), *miserable pity*<sup>UM</sup> (DC 18), *persistent image* (DC 19), *telekinesis* (DC 20)  
+At will—*castigate* (DC 17), *enthrall* (DC 17), *hypnotism* (DC 17), *lock gaze* (DC 16), *mage hand*  
+3/day—*mass suggestion* (DC 20), *miserable pity* (DC 18), *persistent image* (DC 19), *telekinesis* (DC 20)  
 1/day—*synapse overload* (DC 21; *Occult Adventures*)
 
 **Statistics**
@@ -48,6 +48,6 @@ At will—*castigate*<sup>APG</sup> (DC 17), *enthrall* (DC 17), *hypnotism* (DC
 
 **Energy Drain (Su)** This ability functions as the universal monster rule of the same name, but rather than granting the ixion worm temporary hit points, it instead grants 1 additional use of its 3/day spell-like abilities per level drained. This additional use is available for 1 hour and is consumed only after the ixion worm’s normal daily uses of its spell-like abilities have been expended.
 
-**Euphoric Gaze (Su)** Three times a day as a move action, when in its wheel form, an ixion worm can unfocus its eye and spin it in a mesmerizing whirl to gain a gaze attack that affects all creatures within 30 feet as per *euphoric tranquility*<sup>APG</sup> (CL 14th, Will DC 22 partial). The effect is persistent but immediately ends if the ixion worm threatens or is threatened by a creature, uses any other special abilities, or moves in any way but a straight line. The effect also ends for creatures that move beyond the range of the gaze attack. While sustaining this effect, the ixion worm also takes a –8 penalty on visual Perception checks.
+**Euphoric Gaze (Su)** Three times a day as a move action, when in its wheel form, an ixion worm can unfocus its eye and spin it in a mesmerizing whirl to gain a gaze attack that affects all creatures within 30 feet as per *euphoric tranquility* (CL 14th, Will DC 22 partial). The effect is persistent but immediately ends if the ixion worm threatens or is threatened by a creature, uses any other special abilities, or moves in any way but a straight line. The effect also ends for creatures that move beyond the range of the gaze attack. While sustaining this effect, the ixion worm also takes a –8 penalty on visual Perception checks.
 
 **Hypnotic Wheel (Su)** A rolling ixion worm’s face is hypnotically grotesque. An ixion worm in wheel form can take a full-round action to move up to twice its speed. If it moves at least 20 feet as part of such an action, it can target a creature within 30 feet that is visible from any square in its path with a 14th-level mesmerist’s hypnotic stare that has the allure, susceptibility, and timidity bold stare improvements. The stare’s effects last until the start of the ixion worm’s next turn, regardless of the ixion worm’s location. The save DC is Charisma-based.

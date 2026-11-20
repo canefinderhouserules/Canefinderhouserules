@@ -26,7 +26,7 @@ N Huge outsider (earth, elemental, extraplanar)
 
 **Str** 34, **Dex** 8, **Con** 21, **Int** 10, **Wis** 11, **Cha** 11  
 **Base Atk** +16; **CMB** +30; **CMD** 39  
-**Feats** Awesome Blow, [Cleave](../../rules/feats/cleave.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Greater Overrun](../../rules/feats/greater-overrun.md), [Improved Bull Rush<sup>B</sup>](../../rules/feats/improved-bull-rush.md), [Improved Critical (slam)](../../rules/feats/improved-critical.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** Awesome Blow, [Cleave](../../rules/feats/cleave.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Greater Overrun](../../rules/feats/greater-overrun.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (slam)](../../rules/feats/improved-critical.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Power Attack](../../rules/feats/power-attack.md)  
 **Skills** Appraise +19, Climb +31, Knowledge (dungeoneering) +19, Knowledge (planes) +19, Perception +19, Stealth +10
 
 **Ecology**

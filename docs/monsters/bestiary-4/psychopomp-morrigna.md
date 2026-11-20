@@ -27,16 +27,16 @@ At will—*detect undead*, *stone tell*
 3/day—summon  
 **Inquisitor Spells Known** (CL 12th; concentration +15)  
 4th (3)—*cure critical wounds*, *divination*, *freedom of movement*, *spell immunity*  
-3rd (5)—*blood biography*<sup>APG</sup> (DC 16), *dimensional anchor*, *dispel magic*, *halt undead* (DC 16)  
-2nd (6)—*confess*<sup>APG</sup> (DC 15), *detect thoughts* (DC 15), *hold person* (DC 15), *invisibility*, *see invisibility*  
-1st (6)—*bane* (DC 14), *command* (DC 14), *comprehend languages*, *expeditious retreat*, *sanctuary* (DC 14), *wrath*<sup>APG</sup>  
-0—*bleed* (DC 13), *detect magic*, *disrupt undead*, *read magic*, *sift*<sup>APG</sup>, *stabilize*
+3rd (5)—*blood biography* (DC 16), *dimensional anchor*, *dispel magic*, *halt undead* (DC 16)  
+2nd (6)—*confess* (DC 15), *detect thoughts* (DC 15), *hold person* (DC 15), *invisibility*, *see invisibility*  
+1st (6)—*bane* (DC 14), *command* (DC 14), *comprehend languages*, *expeditious retreat*, *sanctuary* (DC 14), *wrath*  
+0—*bleed* (DC 13), *detect magic*, *disrupt undead*, *read magic*, *sift*, *stabilize*
 
 **Statistics**
 
 **Str** 22, **Dex** 19, **Con** 18, **Int** 13, **Wis** 17, **Cha** 16  
 **Base Atk** +18; **CMB** +24 (+28 grapple); **CMD** 38  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect Arrows<sup>B</sup>](../../rules/feats/deflect-arrows.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), [Following Step<sup>APG</sup>](../../rules/feats/following-step.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Persuasive](../../rules/feats/persuasive.md), [Step Up](../../rules/feats/step-up.md), [Step Up and Strike<sup>APG</sup>](../../rules/feats/step-up-and-strike.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect Arrows](../../rules/feats/deflect-arrows.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Following Step](../../rules/feats/following-step.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Persuasive](../../rules/feats/persuasive.md), [Step Up](../../rules/feats/step-up.md), [Step Up and Strike](../../rules/feats/step-up-and-strike.md)  
 **Skills** Bluff +15, Climb +11, Diplomacy +25, Disguise +15, Intimidate +17, Knowledge (planes) +13, Perception +28, Sense Motive +25, Sleight of Hand +10, Stealth +22, Survival +15, Swim +6  
 **Languages** Abyssal, Celestial, Infernal; *speak with animals* (including vermin), *tongues*  
 **SQ** change shape (any animal or humanoid), spirit touch

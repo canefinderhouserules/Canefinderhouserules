@@ -6,7 +6,7 @@
 
 **XP** 38,400  
 CE Large aberration  
-**Init** +8; **Senses** darkvision 60 ft., *diagnose disease*<sup>UM</sup>, *true seeing*; Perception +26
+**Init** +8; **Senses** darkvision 60 ft., *diagnose disease*, *true seeing*; Perception +26
 
 **Defense**
 
@@ -22,10 +22,10 @@ CE Large aberration
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** command disease, mind storm, powerful tentacles, spellstrike  
 **Spell-Like Abilities** (CL 12th; concentration +20)  
-Constant—*diagnose disease*<sup>UM</sup>, *true seeing*  
+Constant—*diagnose disease*, *true seeing*  
 **Sorcerer Spells Known** (CL 12th; concentration +32)  
 6th (4/day)—*disintegrate* (DC 21)  
-5th (6/day)—*sending*, *suffocation*<sup>APG</sup> (DC 22)  
+5th (6/day)—*sending*, *suffocation* (DC 22)  
 4th (8/day)—*confusion* (DC 19), *contagion* (DC 21), *dimension door*  
 3rd (8/day)—*clairaudience/clairvoyance*, *dispel magic*, *slow* (DC 18), *vampiric touch*  
 2nd (8/day)—*detect thoughts* (DC 17), *ghoul touch* (DC 19), *mirror image*, *scorching ray*, *spectral hand*  
@@ -36,7 +36,7 @@ Constant—*diagnose disease*<sup>UM</sup>, *true seeing*
 
 **Str** 32, **Dex** 18, **Con** 26, **Int** 23, **Wis** 25, **Cha** 21  
 **Base Atk** +12; **CMB** +24; **CMD** 50 (62 vs. trip)  
-**Feats** [Arcane Strike](../../rules/feats/arcane-strike.md), [Combat Casting](../../rules/feats/combat-casting.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), [Greater Spell Focus (necromancy)](../../rules/feats/greater-spell-focus.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Spell Focus (necromancy)](../../rules/feats/spell-focus.md), [Vital Strike](../../rules/feats/vital-strike.md)  
+**Feats** [Arcane Strike](../../rules/feats/arcane-strike.md), [Combat Casting](../../rules/feats/combat-casting.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Greater Spell Focus (necromancy)](../../rules/feats/greater-spell-focus.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Spell Focus (necromancy)](../../rules/feats/spell-focus.md), [Vital Strike](../../rules/feats/vital-strike.md)  
 **Skills** Bluff +21, Diplomacy +13, Fly +21, Intimidate +24, Knowledge (arcana) +37, Knowledge (engineering) +37, Knowledge (geography) +37, Knowledge (planes) +37, Perception +26, Spellcraft +25, Use Magic Device +21  
 **Languages** Abyssal, Aklo, Common, Draconic, Infernal, Protean, Undercommon; telepathy 100 ft.  
 **SQ** brain collection, strange knowledge

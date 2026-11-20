@@ -30,7 +30,7 @@ NE Medium construct (augmented, clockwork)
 
 **Str** 28, **Dex** 15, **Con** —, **Int** 15, **Wis** 11, **Cha** 10  
 **Base Atk** +8; **CMB** +17 (+19 disarm); **CMD** 31 (33 vs. disarm)  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md)  
 **Skills** Intimidate +8, Knowledge (arcana) +10, Perception +8, Spellcraft +10  
 **SQ** artificial soul, efficient winding, phrenic stone, proficient, standby, swift reactions
 

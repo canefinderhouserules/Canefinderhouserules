@@ -22,8 +22,8 @@ CN Medium outsider (extraplanar, incorporeal)
 **Special Attacks** force of nature, powerful charge (gore, 2d8 plus 4d6 force), spirit walk  
 **Spell-Like Abilities** (CL 13th; concentration +17)  
 Constant—*speak with animals*  
-At will—*call animal*<sup>APG</sup>, *charm animal* (DC 15)  
-3/day—*dominate animal* (DC 17), *moonstruck*<sup>APG</sup> (DC 18)  
+At will—*call animal*, *charm animal* (DC 15)  
+3/day—*dominate animal* (DC 17), *moonstruck* (DC 18)  
 1/day—*baleful polymorph* (DC 19), *commune with nature*
 
 **Statistics**
@@ -46,4 +46,4 @@ At will—*call animal*<sup>APG</sup>, *charm animal* (DC 15)
 
 **Spirit Walk (Su)** Once per round as a standard action, a birelu can merge itself with a single humanoid or animal. This ability is similar to the *magic jar* spell (caster level 13th), except it doesn’t require a receptacle. To use this ability, the birelu must be adjacent to the target. The target can resist the attack with a successful DC 20 Will save. A creature that successfully saves is immune to the same birelu’s spirit walk ability for 24 hours. The save DC is Charisma-based.
 
-Additionally, a creature affected by this ability undergoes a physical transformation, growing either more beastlike or more humanlike, depending on its original form. A humanoid affected by this ability is affected as by *greater animal aspect*<sup>UC</sup>. The birelu chooses the aspect gained from this effect. This aspect can’t be changed, though the birelu can select a new aspect if it merges with the same creature again at a later time. An animal affected by the spirit walk ability is affected as by *anthropomorphic animal*<sup>UM</sup>. Either effect lasts for as long as the creature remains possessed by the birelu, ending once the birelu leaves the creature’s body.
+Additionally, a creature affected by this ability undergoes a physical transformation, growing either more beastlike or more humanlike, depending on its original form. A humanoid affected by this ability is affected as by *greater animal aspect*. The birelu chooses the aspect gained from this effect. This aspect can’t be changed, though the birelu can select a new aspect if it merges with the same creature again at a later time. An animal affected by the spirit walk ability is affected as by *anthropomorphic animal*. Either effect lasts for as long as the creature remains possessed by the birelu, ending once the birelu leaves the creature’s body.

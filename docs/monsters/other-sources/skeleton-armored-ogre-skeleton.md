@@ -25,5 +25,5 @@ NE Large undead
 
 **Str** 21, **Dex** 10, **Con** &mdash;, **Int** &mdash;, **Wis** 10, **Cha** 10  
 **Base Atk** +3; **CMB** +9; **CMD** 19  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md)  
 **Gear** half-plate, greatclub

@@ -30,7 +30,7 @@ At will—*mending*
 
 **Str** 6, **Dex** 13, **Con** 12, **Int** 15, **Wis** 10, **Cha** 11  
 **Base Atk** +0; **CMB** -1; **CMD** 7  
-**Feats** Ability Focus (disassemble), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** Ability Focus (disassemble), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Appraise +3, Climb +2, Craft (alchemy) +6, Disable Device +10, Knowledge (engineering) +7, Perception +4, Stealth +13, Use Magic Device +4; **Racial Modifiers** +8 Disable Device, +4 Knowledge (engineering)  
 **Languages** Common, First Speech, Gnome
 

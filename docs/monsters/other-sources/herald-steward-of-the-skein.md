@@ -6,7 +6,7 @@
 
 **XP** 51,200  
 N Medium outsider (extraplanar, herald, psychopomp, shapechanger)  
-**Init** +7; **Senses** blindsense 30 ft., darkvision 60 ft., *detect chaos/evil/good/law*, spiritsense<sup>B4</sup>; Perception +27  
+**Init** +7; **Senses** blindsense 30 ft., darkvision 60 ft., *detect chaos/evil/good/law*, spiritsense; Perception +27  
 **Aura** fate (20 ft.)
 
 **Defense**
@@ -20,7 +20,7 @@ N Medium outsider (extraplanar, herald, psychopomp, shapechanger)
 
 **Speed** 50 ft., fly 150 ft. (average)  
 **Melee** 2 slams +26 (2d10+7 plus gaze)  
-**Special Attacks** gaze, tugging strands (Fate subdomain<sup>APG</sup>, 3/day)  
+**Special Attacks** gaze, tugging strands (Fate subdomain, 3/day)  
 **Spell-Like Abilities** (CL 19th; concentration +25)  
 Constant—*detect chaos/evil/good/law*  
 At will—*augury*, *cure light wounds*, *dancing lights*, *death ward*, *detect thoughts* (DC 18), *disguise self*, *major image* (DC 19), *greater teleport* (self plus 50 lbs. of objects only)  
@@ -33,7 +33,7 @@ At will—*augury*, *cure light wounds*, *dancing lights*, *death ward*, *detect
 **Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Dodge](../../rules/feats/dodge.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Mobility](../../rules/feats/mobility.md), [Spell Penetration](../../rules/feats/spell-penetration.md)  
 **Skills** Bluff +19, Diplomacy +16, Fly +15, Handle Animal +16, Heal +27, Intimidate +28, Knowledge (history, planes, religion) +26, Knowledge (nature) +13, Perception +27, Sense Motive +27, Stealth +15  
 **Languages** Abyssal, Celestial, Common, Draconic, Infernal  
-**SQ** change shape (incorporeal form), spirit touch<sup>B4</sup>
+**SQ** change shape (incorporeal form), spirit touch
 
 **Ecology**
 

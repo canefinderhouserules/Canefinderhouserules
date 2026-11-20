@@ -26,7 +26,7 @@ NE Medium undead
 
 **Str** 17, **Dex** 21, **Con** —, **Int** 11, **Wis** 18, **Cha** 18  
 **Base Atk** +11; **CMB** +14; **CMD** 33  
-**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Dodge](../../rules/feats/dodge.md), [Improved Critical (pistol)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Quick Draw<sup>B</sup>](../../rules/feats/quick-draw.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md)  
+**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Dodge](../../rules/feats/dodge.md), [Improved Critical (pistol)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Quick Draw](../../rules/feats/quick-draw.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md)  
 **Skills** Acrobatics +10, Climb +11, Intimidate +22, Perception +22, Ride +15, Stealth +13, Swim +8  
 **Languages** Common  
 **SQ** stranger’s luck

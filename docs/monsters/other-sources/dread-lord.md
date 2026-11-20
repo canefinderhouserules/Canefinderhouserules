@@ -32,7 +32,7 @@ At will—*charm animal* (DC 15), *charm person*(DC 15), *detect thoughts* (DC 1
 
 **Str** 22, **Dex** 16, **Con** 18, **Int** 14, **Wis** 8, **Cha** 18  
 **Base Atk** +11; **CMB** +17; **CMD** 31  
-**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Distracting Charge<sup>ACG</sup>](../../rules/feats/distracting-charge.md), [Improved Critical (greatsword)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), OutflankAPG, [Power Attack](../../rules/feats/power-attack.md), [Step Up](../../rules/feats/step-up.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (greatsword)](../../rules/feats/weapon-focus.md)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Distracting Charge](../../rules/feats/distracting-charge.md), [Improved Critical (greatsword)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), OutflankAPG, [Power Attack](../../rules/feats/power-attack.md), [Step Up](../../rules/feats/step-up.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (greatsword)](../../rules/feats/weapon-focus.md)  
 **Skills** Climb +9, Handle Animal +18, Intimidate +18, Knowledge (history) +8, Knowledge (nobility) +8, Perception +10, Ride +12 (+17 on mount), Sense Motive +13, Swim +9  
 **Languages** Common, Draconic, Infernal  
 **SQ** expert trainer +5, greater tactician (3/day, 8 rounds, swift action), mount (horse), one with the land, order of the cockatrice (braggart, steal glory)

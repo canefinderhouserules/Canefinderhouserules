@@ -35,7 +35,7 @@ LN Small humanoid (reptilian)
 **Skills** Craft (trapmaking) +2, Perception +3, Profession (miner) +3, Stealth +11, Use Magic Device +6  
 **Languages** Draconic  
 **SQ** bloodline arcana (fire spells deal +1 damage per die), crafty  
-**Combat Gear**  *scroll of mage armor*, *scroll of vanish*<sup>APG</sup>, caltrops, silversheen; **Other Gear** light crossbow, 54 gp
+**Combat Gear**  *scroll of mage armor*, *scroll of vanish*, caltrops, silversheen; **Other Gear** light crossbow, 54 gp
 
 **Ecology**
 

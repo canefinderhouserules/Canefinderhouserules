@@ -24,7 +24,7 @@ NE Large magical beast
 **Spell-Like Abilities** (CL 9th; concentration +11)  
 At will—*speak with dead* (DC 15)  
 3/day—*detect thoughts* (DC 14)  
-1/day—*animate dead*, *seek thoughts*<sup>APG</sup> (DC 15)
+1/day—*animate dead*, *seek thoughts* (DC 15)
 
 **Statistics**
 

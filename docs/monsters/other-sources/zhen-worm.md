@@ -26,7 +26,7 @@ N Medium vermin
 
 **Str** 12, **Dex** 9, **Con** 13, **Int** —, **Wis** 10, **Cha** 1  
 **Base Atk** +0; **CMB** +1; **CMD** 10  
-**Feats** [Blind-Fight<sup>B</sup>](../../rules/feats/blind-fight.md)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md)  
 **Skills** Stealth –1 (+9 in swamps), Swim +9; **Racial Modifiers** +10 Stealth in swamps
 
 **Ecology**

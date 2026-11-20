@@ -24,7 +24,7 @@ N Medium vermin
 
 **Str** 19, **Dex** 15, **Con** 14, **Int** —, **Wis** 12, **Cha** 9  
 **Base Atk** +5; **CMB** +9 (+13 grappling, or +17 grappling on a charge); **CMD** 21 (29 vs. trip)  
-**Feats** Flyby Attack<sup>B</sup>  
+**Feats** Flyby Attack  
 **Skills** Fly +10
 
 **Ecology**

@@ -30,7 +30,7 @@ At will—*prestidigitation*, *speak with animals*
 
 **Str** 3, **Dex** 13, **Con** 11, **Int** 10, **Wis** 14, **Cha** 6  
 **Base Atk** +0; **CMB** –1; **CMD** 5  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Bluff +2, Craft (traps) +4, Disable Device +2, Perception +6 (+2 Listening), Ride +2, Stealth +17; **Racial Modifiers** +4 Stealth, –4 Perception when listening  
 **Languages** Gnoll, Undercommon
 

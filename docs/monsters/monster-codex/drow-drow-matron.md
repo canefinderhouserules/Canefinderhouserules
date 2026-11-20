@@ -33,11 +33,11 @@ Domain S pell-Like Abilities (CL 15th; concentration +22)
 8th—*fire storm* (DC 25), *unholy aura*<sup>D</sup> (DC 25)  
 7th—*blasphemy*<sup>D</sup> (DC 24), *destruction* (DC 25), *ethereal jaunt*, *summon monster VII*  
 6th—*antilife shell*, *antimagic field*<sup>D</sup>, *greater dispel magic*, *harm* (DC 24), *heal*  
-5th—*communal spell immunity*<sup>UC</sup>, *dispel good*<sup>D</sup> (DC 22), *fickle winds*<sup>UM</sup>, *flame strike* (DC 22), *slay living* (DC 23), *wall of stone* (DC 22)  
-4th—*cure critical wounds*, *dimensional anchor*, *divine power*, *freedom of movement*, *imbue with spell ability*<sup>D</sup>, *summoner conduit*<sup>UC</sup> (DC 22)  
-3rd—*bestow curse* (DC 21), *chain of perdition*<sup>UC</sup>, *dispel magic*, *invisibility purge*, *magic circle against good*<sup>D</sup>, *protection from energy*, *water breathing*  
-2nd—*align weapon*<sup>D</sup> (evil only), *delay poison*, *dread bolt*<sup>UM</sup> (DC 19), *hold person* (DC 19), *lesser restoration*, *protective penumbra*<sup>UM</sup>, *sound burst* (DC 19)  
-1st—*cure light wounds* (2), *entropic shield*, *murderous command*<sup>UM</sup> (2, DC 18), *protection from good*<sup>D</sup>, *shield of faith*  
+5th—*communal spell immunity*, *dispel good*<sup>D</sup> (DC 22), *fickle winds*, *flame strike* (DC 22), *slay living* (DC 23), *wall of stone* (DC 22)  
+4th—*cure critical wounds*, *dimensional anchor*, *divine power*, *freedom of movement*, *imbue with spell ability*<sup>D</sup>, *summoner conduit* (DC 22)  
+3rd—*bestow curse* (DC 21), *chain of perdition*, *dispel magic*, *invisibility purge*, *magic circle against good*<sup>D</sup>, *protection from energy*, *water breathing*  
+2nd—*align weapon*<sup>D</sup> (evil only), *delay poison*, *dread bolt* (DC 19), *hold person* (DC 19), *lesser restoration*, *protective penumbra*, *sound burst* (DC 19)  
+1st—*cure light wounds* (2), *entropic shield*, *murderous command* (2, DC 18), *protection from good*<sup>D</sup>, *shield of faith*  
 0 (at will)—*detect magic*, *detect poison*, *guidance*, *read magic*  
 **D** domain spell; **Domains** Evil, Magic
 

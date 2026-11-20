@@ -22,7 +22,7 @@ NE Large humanoid (giant)
 **Melee** mwk greataxe +17/+12 (3d6+10/×3)  
 **Ranged**  *+1 composite longbow* +10/+5 (2d6+8/×3)  
 **Space** 10 ft., **Reach** 10 ft.  
-**Special Attacks** combat style (two-handed weapon<sup>APG</sup>), favored enemy (humans +2)
+**Special Attacks** combat style (two-handed weapon), favored enemy (humans +2)
 
 **Statistics**
 

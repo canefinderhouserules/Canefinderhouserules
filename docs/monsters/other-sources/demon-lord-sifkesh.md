@@ -25,7 +25,7 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Spell-Like Abilities** (CL 28th; concentration +41)  
 Constant—*detect good*, *detect law*, *freedom of movement*, *true seeing*, *unholy aura*  
 At will—*astral projection*, *blasphemy* (DC 30), *crushing despair* (DC 27), *desecrate*, *greater dispel magic*, *greater teleport*, *telekinesis* (DC 28), *shapechange*, *suggestion* (DC 26), *unhallow*, *unholy blight* (DC 27)  
-3/day—*demand* (DC 31), quickened *dominate person* (DC 28), quickened *suggestion* (DC 26), summon demons, *symbol of strife*<sup>UM</sup> (DC 32)  
+3/day—*demand* (DC 31), quickened *dominate person* (DC 28), quickened *suggestion* (DC 26), summon demons, *symbol of strife* (DC 32)  
 1/day—*sympathy* (DC 31), *time stop*, *weird* (DC 32)
 
 **Statistics**

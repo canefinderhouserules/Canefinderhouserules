@@ -26,7 +26,7 @@ N Large magical beast (aquatic)
 
 **Str** 17, **Dex** 20, **Con** 17, **Int** 2, **Wis** 15, **Cha** 11  
 **Base Atk** +8; **CMB** +12; **CMD** 27  
-**Feats** [Improved Critical (gore)<sup>B</sup>](../../rules/feats/improved-critical.md), [Improved Roar](../../rules/feats/improved-roar.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Weapon Focus (gore)](../../rules/feats/weapon-focus.md)  
+**Feats** [Improved Critical (gore)](../../rules/feats/improved-critical.md), [Improved Roar](../../rules/feats/improved-roar.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Weapon Focus (gore)](../../rules/feats/weapon-focus.md)  
 **Skills** Escape Artist +7, Perception +11, Stealth +10, Swim +11
 
 **Special Abilities**

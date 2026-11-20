@@ -31,10 +31,10 @@ LE Medium outsider (augmented humanoid, kyton, native)
 **Feats** [Dodge](../../rules/feats/dodge.md), [Double Slice](../../rules/feats/double-slice.md), [Greater Two-Weapon Fighting](../../rules/feats/greater-two-weapon-fighting.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), [Iron Will](../../rules/feats/iron-will.md), [Toughness](../../rules/feats/toughness.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Two-Weapon Rend](../../rules/feats/two-weapon-rend.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (sickle)](../../rules/feats/weapon-focus.md)  
 **Skills** Bluff +23, Heal +21, Intimidate +23, Perception +17, Sense Motive +17, Stealth +21, Survival +17 (+22 when tracking); **Racial Modifiers** +4 Bluff, +4 Heal, +4 Intimidate  
 **Languages** Common, Infernal  
-**SQ** shadow traveler, slayer talents (evasion<sup>UC</sup>, finesse rogue, ranger combat style [3]), stalker, swift tracker, track +5
+**SQ** shadow traveler, slayer talents (evasion, finesse rogue, ranger combat style [3]), stalker, swift tracker, track +5
 
 **Ecology**
 
 **Environment** any land  
-**Organization** solitary or cabal (1 plus 4 ostiarius kytons<sup>B4</sup>)  
+**Organization** solitary or cabal (1 plus 4 ostiarius kytons)  
 **Treasure** NPC gear (*+1 mithral chain shirt, +1 cold iron sickle* [2], *ring of protection +1, belt of incredible dexterity +2, cloak of resistance +3*, other treasure)

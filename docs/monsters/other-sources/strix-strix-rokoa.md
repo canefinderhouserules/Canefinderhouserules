@@ -26,12 +26,12 @@ LN Medium humanoid (strix)
 Constant—*know direction*  
 1/day—*virtue*  
 **Shaman Spells Prepared** (CL 12th; concentration +16)  
-6th—*cone of cold* (DC 21), *greater dispel magic*, *sirocco*<sup>S, APG</sup> (DC 21)  
+6th—*cone of cold* (DC 21), *greater dispel magic*, *sirocco* (DC 21)  
 5th—*baleful polymorph* (DC 19), *control winds*<sup>S</sup> (DC 19), *dominate person* (DC 19), *wall of fire*  
-4th—*air geyser*<sup>ACG</sup> (DC 19), *cure critical wounds*, *ice storm*, *poison* (DC 18), *river of wind*<sup>S, APG</sup> (DC 19)  
-3rd—*bestow curse* (DC 17), *call lightning* (DC 18), *cloak of winds*<sup>S, APG</sup> (DC 17), *deep slumber* (DC 17), *dispel magic*, *speak with dead* (DC 17)  
-2nd—*aid*, *focused scrutiny*<sup>ACG</sup>, *gust of wind*<sup>S</sup> (DC 17), *hold person* (DC 16), *lesser restoration*, *summon swarm*  
-1st—*alter winds*<sup>S, APG</sup> (DC 15), *bless*, *hide from animals*, *magic weapon*, *obscuring mist*, *sense spirit magic*<sup>ACG</sup>  
+4th—*air geyser* (DC 19), *cure critical wounds*, *ice storm*, *poison* (DC 18), *river of wind* (DC 19)  
+3rd—*bestow curse* (DC 17), *call lightning* (DC 18), *cloak of winds* (DC 17), *deep slumber* (DC 17), *dispel magic*, *speak with dead* (DC 17)  
+2nd—*aid*, *focused scrutiny*, *gust of wind*<sup>S</sup> (DC 17), *hold person* (DC 16), *lesser restoration*, *summon swarm*  
+1st—*alter winds* (DC 15), *bless*, *hide from animals*, *magic weapon*, *obscuring mist*, *sense spirit magic*  
 0 (at will)—*detect magic*, *guidance*, *purify food and drink* (DC 14), *read magic*  
 **S** spirit magic spell; **Spirit** Wind
 
@@ -39,10 +39,10 @@ Constant—*know direction*
 
 **Str** 8, **Dex** 12, **Con** 13, **Int** 14, **Wis** 18, **Cha** 10  
 **Base Atk** +9; **CMB** +8; **CMD** 20  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Nature Magic<sup>ACG</sup>](../../rules/feats/nature-magic.md), [Persuasive](../../rules/feats/persuasive.md), [Skill Focus (Knowledge [history])](../../rules/feats/skill-focus.md), [Spell Focus (evocation)](../../rules/feats/spell-focus.md), [Spirit Talker<sup>ACG</sup>](../../rules/feats/spirit-talker.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Nature Magic](../../rules/feats/nature-magic.md), [Persuasive](../../rules/feats/persuasive.md), [Skill Focus (Knowledge [history])](../../rules/feats/skill-focus.md), [Spell Focus (evocation)](../../rules/feats/spell-focus.md), [Spirit Talker](../../rules/feats/spirit-talker.md)  
 **Skills** Acrobatics –2 (–6 when jumping), Diplomacy +17, Fly +9, Heal +17, Intimidate +7, Knowledge (arcana) +7, Knowledge (history) +23, Knowledge (nature) +10, Perception +12 (+14 in dim light or darkness), Spellcraft +15, Stealth –2 (+0 in dim light or darkness), Survival +9  
 **Languages** Auran, Goblin, Strix  
-**SQ** nocturnal, revelations of the past (momentary glimpse<sup>UM</sup>, voice of the grave<sup>UM</sup>, wisdom of the ancestors<sup>UM</sup>), shocking touch (1d6+6 electricity), spark soul (12d4 electricity), suspicious  
+**SQ** nocturnal, revelations of the past (momentary glimpse, voice of the grave, wisdom of the ancestors), shocking touch (1d6+6 electricity), spark soul (12d4 electricity), suspicious  
 **Combat Gear**  *potion of invisibility*, *scroll of eagle’s splendor*, *scroll of flame strike*, *scroll of fog cloud*, *wand of owl’s wisdom* (9 charges); **Other Gear** *+3 bone scale mail*, darts (10), mwk quarterstaff, *amulet of natural armor +1*, *cloak of resistance +2*, *ring of protection +1*
 
 **Ecology**

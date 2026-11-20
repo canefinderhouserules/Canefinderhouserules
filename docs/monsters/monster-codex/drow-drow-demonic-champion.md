@@ -29,9 +29,9 @@ CE Medium humanoid (elf)
 Antipaladin Spell-Like Abilities (CL 10th; concentration +13)  
 At will—*detect good*  
 **Antipaladin Spells Prepared** (CL 7th; concentration +10)  
-3rd—*litany of sight*<sup>UC</sup>  
+3rd—*litany of sight*  
 2nd—*invisibility*, *silence* (DC 15)  
-1st—*litany of sloth*<sup>UC</sup>, *murderous command*<sup>UM</sup> (DC 14), *protection from good*
+1st—*litany of sloth*, *murderous command* (DC 14), *protection from good*
 
 **Tactics**
 
@@ -46,7 +46,7 @@ At will—*detect good*
 **Skills** Acrobatics +0, Climb +3, Intimidate +11, Perception +11, Stealth +8  
 **Languages** Elven, Undercommon  
 **SQ** cruelties (dazed, nauseated, sickened, staggered), fiendish boon (weapon +2, 2/day), poison use, touch of corruption 8/day (5d6)  
-**Combat Gear**  *potion of cure serious wounds*, *potion of delay poison*, *potion of haste*, *scroll of defile armor*<sup>APG</sup>, *scroll of invisibility*, acid (2), alchemist’s fire (2), antitoxin; **Other Gear** *+1 full plate*, *+1 heavy steel shield*, *+1 scimitar*, heavy crossbow with 10 mwk bolts, *belt of giant strength +2*, 69 gp
+**Combat Gear**  *potion of cure serious wounds*, *potion of delay poison*, *potion of haste*, *scroll of defile armor*, *scroll of invisibility*, acid (2), alchemist’s fire (2), antitoxin; **Other Gear** *+1 full plate*, *+1 heavy steel shield*, *+1 scimitar*, heavy crossbow with 10 mwk bolts, *belt of giant strength +2*, 69 gp
 
 **Ecology**
 

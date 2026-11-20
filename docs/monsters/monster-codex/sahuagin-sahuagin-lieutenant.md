@@ -32,7 +32,7 @@ LE Medium monstrous humanoid (aquatic)
 **Skills** Climb +10, Handle Animal +4, Intimidate +11, Perception +10, Ride +7, Stealth +7, Survival +6, Swim +16  
 **Languages** Aquan, Common; speak with sharks  
 **SQ** armor training 1  
-**Combat Gear**  *potion of cure moderate wounds*; **Other Gear** leather armor, *+1 trident*, dagger, mwk underwater heavy crossbow<sup>UE</sup> with 20 bolts, 421 gp
+**Combat Gear**  *potion of cure moderate wounds*; **Other Gear** leather armor, *+1 trident*, dagger, mwk underwater heavy crossbow with 20 bolts, 421 gp
 
 **Ecology**
 

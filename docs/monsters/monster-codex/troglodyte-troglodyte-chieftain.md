@@ -25,7 +25,7 @@ CE Medium humanoid (reptilian)
 **Special Attacks** fire bolt (1d6+3 fire, 6/day), rage (7 rounds/day), rage powers (moment of clarity), wild shape 1/day (can adopt ooze form but not plant form)  
 **Druid Spells Prepared** (CL 6th; concentration +9)  
 3rd—*fireball*<sup>D</sup> (DC 16), *greater magic fang* (2), *swarm of fangs* (DC 16)  
-2nd—*barkskin*, *bull’s strength* (2), *produce flame*<sup>D</sup>, *stone call*<sup>APG</sup>  
+2nd—*barkskin*, *bull’s strength* (2), *produce flame*<sup>D</sup>, *stone call*  
 1st—*burning hands*<sup>D</sup> (DC 14), *cure light wounds* (2), *longstrider*, *pass without trace*  
 0 (at will)—*create water*, *detect magic*, *know direction*, *mending*  
 **D** domain spell; **Domain** Fire

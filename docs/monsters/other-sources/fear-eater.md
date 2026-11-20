@@ -22,7 +22,7 @@ NE Medium fey
 **Special Attacks** anxiety spores, dread burst, fungal snare  
 **Spell-Like Abilities** (CL 5th, concentration +7)  
 At will—*cause fear* (DC 13), *dancing lights*  
-3/day—*faerie fire*, *paranoia*<sup>OA</sup> (DC 14)  
+3/day—*faerie fire*, *paranoia* (DC 14)  
 1/day—*fear*, *feather fall*
 
 **Statistics**

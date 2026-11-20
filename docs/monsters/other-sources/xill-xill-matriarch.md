@@ -25,7 +25,7 @@ LE Medium outsider (evil, extraplanar)
 
 **Str** 21, **Dex** 18, **Con** 18, **Int** 15, **Wis** 18, **Cha** 19  
 **Base Atk** +13; **CMB** +18 (+22 grapple); **CMD** 32  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Psychic Sensitivity<sup>OA</sup>](../../rules/feats/psychic-sensitivity.md), [Two-Weapon Rend](../../rules/feats/two-weapon-rend.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Psychic Sensitivity](../../rules/feats/psychic-sensitivity.md), [Two-Weapon Rend](../../rules/feats/two-weapon-rend.md)  
 **Skills** Acrobatics +19 (+23 when jumping), Bluff +20, Intimidate +20, Knowledge (arcana) +18, Knowledge (planes) +18, Perception +20, Sense Motive +20, Stealth +19  
 **Languages** Common, Infernal  
 **SQ** matriarch weapon mastery, swift planewalk

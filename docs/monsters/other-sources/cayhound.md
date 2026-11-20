@@ -29,7 +29,7 @@ At will—*open/close*
 
 **Str** 21, **Dex** 15, **Con** 16, **Int** 8, **Wis** 12, **Cha** 13  
 **Base Atk** +6; **CMB** +11; **CMD** 23 (27 vs. trip)  
-**Feats** [Dimensional Agility<sup>UC</sup>](../../rules/feats/dimensional-agility.md), [Dimensional Assault<sup>UC</sup>](../../rules/feats/dimensional-assault.md), [Improved Initiative](../../rules/feats/improved-initiative.md)  
+**Feats** [Dimensional Agility](../../rules/feats/dimensional-agility.md), [Dimensional Assault](../../rules/feats/dimensional-assault.md), [Improved Initiative](../../rules/feats/improved-initiative.md)  
 **Skills** Acrobatics +10 (+14 when jumping), Intimidate +6, Knowledge (planes) +6, Perception +10, Sense Motive +8, Stealth +10, Survival +8  
 **Languages** Celestial  
 **SQ** unbound

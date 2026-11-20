@@ -25,7 +25,7 @@ N Small outsider (air, elemental, extraplanar)
 
 **Str** 12, **Dex** 17, **Con** 12, **Int** 4, **Wis** 11, **Cha** 11  
 **Base Atk** +2; **CMB** +2; **CMD** 15  
-**Feats** Flyby Attack, [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +7, Escape Artist +7, Fly +17, Knowledge (planes) +1, Perception +4, Stealth +11
 
 **Ecology**

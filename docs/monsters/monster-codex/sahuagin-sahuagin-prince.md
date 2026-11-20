@@ -31,11 +31,11 @@ LE Medium monstrous humanoid (aquatic)
 
 **Str** 20, **Dex** 16, **Con** 20, **Int** 13, **Wis** 12, **Cha** 10  
 **Base Atk** +12; **CMB** +17; **CMD** 31  
-**Feats** [Dreadful Carnage<sup>APG</sup>](../../rules/feats/dreadful-carnage.md), [Furious Focus<sup>APG</sup>](../../rules/feats/furious-focus.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Lookout<sup>APG</sup>](../../rules/feats/lookout.md), [Mounted Combat](../../rules/feats/mounted-combat.md), Multiattack, [Outflank<sup>APG</sup>](../../rules/feats/outflank.md), [Power Attack](../../rules/feats/power-attack.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), [Spirited Charge](../../rules/feats/spirited-charge.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Dreadful Carnage](../../rules/feats/dreadful-carnage.md), [Furious Focus](../../rules/feats/furious-focus.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Lookout](../../rules/feats/lookout.md), [Mounted Combat](../../rules/feats/mounted-combat.md), Multiattack, [Outflank](../../rules/feats/outflank.md), [Power Attack](../../rules/feats/power-attack.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), [Spirited Charge](../../rules/feats/spirited-charge.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Handle Animal +15, Knowledge (nobility) +16, Perception +16, Ride +15 (+18 with personal mount), Sense Motive +10, Swim +19  
 **Languages** Aquan, Common; speak with animals  
 **SQ** exotic mount (shark), greater tactician (3/day, 8 rounds, swift action), multiweapon mastery, order of the lion (for the king, lion’s call)  
-**Combat Gear**  *potions of cure moderate wounds* (2), *potions of barkskin* (2), *potion of heroism*; **Other Gear** *+1 breastplate*, *lance of jousting*, mwk underwater heavy crossbow<sup>UE</sup> (20 bolts), *belt of mighty constitution +2*, *cloak of resistance +2*, *ring of protection +1*, *+1 studded leather barding*, *stone of alliance* (swallowed by mount), exotic military saddle, 2,678 gp
+**Combat Gear**  *potions of cure moderate wounds* (2), *potions of barkskin* (2), *potion of heroism*; **Other Gear** *+1 breastplate*, *lance of jousting*, mwk underwater heavy crossbow (20 bolts), *belt of mighty constitution +2*, *cloak of resistance +2*, *ring of protection +1*, *+1 studded leather barding*, *stone of alliance* (swallowed by mount), exotic military saddle, 2,678 gp
 
 **Ecology**
 

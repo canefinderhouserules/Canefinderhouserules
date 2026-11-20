@@ -35,7 +35,7 @@ At will—*darkness*, *ghost sound* (DC 12)
 **Skills** Acrobatics +6 (+2 when jumping), Bluff +9, Climb +5, Disguise +6, Intimidate +8, Knowledge (local) +8, Perception +7, Sense Motive +5, Stealth +10, Survival +7  
 **Languages** Aklo, Common, Undercommon  
 **SQ** favored terrain (urban +2), madness, poison use, slayer talents (slowing strike, terrain mastery), track +2  
-**Combat Gear**  *potion of bull’s strength*, *potion of enlarge person*, *potion of invisibility* (2), medium spider venom (4 doses); **Other Gear** chain shirt, *+1 aklys*<sup>UC</sup>, darts (10), mwk spiked gauntlet, *hat of disguise*
+**Combat Gear**  *potion of bull’s strength*, *potion of enlarge person*, *potion of invisibility* (2), medium spider venom (4 doses); **Other Gear** chain shirt, *+1 aklys*, darts (10), mwk spiked gauntlet, *hat of disguise*
 
 **Ecology**
 

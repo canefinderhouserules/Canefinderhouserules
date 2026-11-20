@@ -26,7 +26,7 @@ N Medium construct (clockwork)
 
 **Str** 16, **Dex** 21, **Con** —, **Int** —, **Wis** 14, **Cha** 1  
 **Base Atk** +15; **CMB** +18; **CMD** 35  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **SQ** difficult to create, runeplated, swift reactions, winding
 
 **Ecology**

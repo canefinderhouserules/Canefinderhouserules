@@ -26,7 +26,7 @@ CN Large magical beast (aquatic, chaotic, extraplanar, Great Old One)
 Constant—*air walk*  
 At will—*cloudkill*<sup>M</sup> (DC 23), *dimension door*<sup>M</sup>, *dream*<sup>M</sup>, *greater dispel magic*, *hallucinatory terrain*, *nightmare*<sup>M</sup> (DC 23), *plane shift*<sup>M</sup>, *transmute rock to mud*, *wind walk*  
 3/day—*demand*, quickened *feeblemind* (DC 23), *horrid wilting* (DC 26)  
-1/day—*control weather*<sup>M</sup>, *symbol of insanity* (DC 26), *tsunami*<sup>APG, M</sup> (DC 26)
+1/day—*control weather*<sup>M</sup>, *symbol of insanity* (DC 26), *tsunami* (DC 26)
 
 **Statistics**
 

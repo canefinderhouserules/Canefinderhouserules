@@ -22,7 +22,7 @@ N Medium humanoid (samsaran)
 **Melee** nine-ring broadsword +0 (1d8/×3)  
 **Occultist Spells Known** (CL 1st; concentration +4)  
 1st (2/day)—*disguise self*, *shocking grasp*  
-0 (at will)—*ghost sound* (DC 13), *telekinetic projectile*<sup>OA</sup>  
+0 (at will)—*ghost sound* (DC 13), *telekinetic projectile*  
 **Implements**  
 **Evocation** (rod, 2 points)-*Resonant* intense focus (+1); *Focus* energy ray (1d6), radiance (1 min.)  
 **Illusion** (ring, 2 points)-*Resonant* distortion (10%); *Focus* minor figment (1 round)
@@ -31,7 +31,7 @@ N Medium humanoid (samsaran)
 
 **Str** 10, **Dex** 8, **Con** 12, **Int** 17, **Wis** 15, **Cha** 12  
 **Base Atk** +0; **CMB** +0; **CMD** 9  
-**Feats** [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Psychic Virtuoso<sup>OA</sup>](../../rules/feats/psychic-virtuoso.md)  
+**Feats** [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Psychic Virtuoso](../../rules/feats/psychic-virtuoso.md)  
 **Skills** Appraise +7, Knowledge (arcana, history, religion) +7, Perception +6, Sense Motive +6, Spellcraft +7, Use Magic Device +5  
 **Languages** Abyssal, Celestial, Common, Draconic, Samsaran  
 **SQ** implements, psychic learning
@@ -40,7 +40,7 @@ N Medium humanoid (samsaran)
 
 **Environment** any land  
 **Organization** solitary, pair, or clan (3–12)  
-**Treasure** NPC gear (studded leather, nine-ring broadsword<sup>UE</sup>, ring, rod, other treasure)
+**Treasure** NPC gear (studded leather, nine-ring broadsword, ring, rod, other treasure)
 
 **Special Abilities**
 

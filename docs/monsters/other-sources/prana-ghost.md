@@ -14,7 +14,7 @@ NG Medium outsider (augmented humanoid, elf, extraplanar, human, incorporeal)
 **AC** 27, touch 27, flat-footed 20 (+4 deflection, +7 Dex, +6 Wis)  
 **hp** 126 (11d8+77)  
 **Fort** +13, **Ref** +15, **Will** +10; +2 vs. enchantments  
-**Defensive Abilities** AC bonus, dual minded<sup>ARG</sup>, incorporeal, rejuvenation; **Immune** dazing, disease, effects requiring a physical body, exhaustion, fatigue, nonlethal damage, paralysis, poison, sleep effects, stunning  
+**Defensive Abilities** AC bonus, dual minded, incorporeal, rejuvenation; **Immune** dazing, disease, effects requiring a physical body, exhaustion, fatigue, nonlethal damage, paralysis, poison, sleep effects, stunning  
 **Weaknesses** living prana
 
 **Offense**
@@ -31,7 +31,7 @@ Utility—basic hydrokinesis, basic telekinesis, slick (DC 15), suffocate (DC 15
 
 **Str** —, **Dex** 24, **Con** 20, **Int** 12, **Wis** 18, **Cha** 10  
 **Base Atk** +8; **CMB** +15; **CMD** 35  
-**Feats** [Alertness<sup>B</sup>](../../rules/feats/alertness.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Extra Wild Talent](../../rules/feats/extra-wild-talent.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Snake Fang<sup>UC</sup>](../../rules/feats/snake-fang.md), [Snake Sidewind<sup>UC</sup>](../../rules/feats/snake-sidewind.md), [Snake Style<sup>UC</sup>](../../rules/feats/snake-style.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Weapon Focus (unarmed strike)](../../rules/feats/weapon-focus.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Extra Wild Talent](../../rules/feats/extra-wild-talent.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Snake Fang](../../rules/feats/snake-fang.md), [Snake Sidewind](../../rules/feats/snake-sidewind.md), [Snake Style](../../rules/feats/snake-style.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (unarmed strike)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +16, Diplomacy +8, Perception +30, Sense Motive +30, Stealth +29, Use Magic Device +14; **Racial Modifiers** +10 Perception, +8 Sense Motive, +8 Stealth  
 **Languages** Celestial, Common, Elven  
 **SQ** burn (3 points/round, maximum 8), elemental wisdom, elf blood, expanded element (aether), gather power, infusion specialization 3, internal buffer 2, supercharge

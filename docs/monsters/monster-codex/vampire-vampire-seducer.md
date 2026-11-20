@@ -23,9 +23,9 @@ NE Medium undead (augmented humanoid, human)
 **Melee** slam +7 (1d4+4 plus energy drain)  
 **Special Attacks** bardic performance 24 rounds/day (countersong, distraction, fascinate [DC 18], inspire competence +2, inspire courage +2), blood drain, children of the night, create spawn, dominate (DC 18), energy drain (2 levels, DC 18)  
 **Bard Spells Known** (CL 5th; concentration +11)  
-2nd (4/day)—*darkness*, *enthrall* (DC 20), *share memory*<sup>UM</sup> (DC 18)  
-1st (6/day)—*charm person* (DC 19), *ear-piercing scream*<sup>UM</sup>, *lesser confusion* (DC 19), *memory lapse*<sup>APG</sup> (DC 19)  
-0 (at will)—*daze* (DC 18), *detect magic*, *mage hand*, *open/close*, *prestidigitation* (DC 16), *unwitting ally*<sup>APG</sup> (DC 18)
+2nd (4/day)—*darkness*, *enthrall* (DC 20), *share memory* (DC 18)  
+1st (6/day)—*charm person* (DC 19), *ear-piercing scream*, *lesser confusion* (DC 19), *memory lapse* (DC 19)  
+0 (at will)—*daze* (DC 18), *detect magic*, *mage hand*, *open/close*, *prestidigitation* (DC 16), *unwitting ally* (DC 18)
 
 **Tactics**
 
@@ -35,11 +35,11 @@ NE Medium undead (augmented humanoid, human)
 
 **Str** 18, **Dex** 18, **Con** —, **Int** 15, **Wis** 12, **Cha** 22  
 **Base Atk** +3; **CMB** +7; **CMD** 22  
-**Feats** [Alertness<sup>B</sup>](../../rules/feats/alertness.md), [Combat Casting](../../rules/feats/combat-casting.md), [Dodge<sup>B</sup>](../../rules/feats/dodge.md), [Extra Performance](../../rules/feats/extra-performance.md), [Greater Spell Focus (enchantment)](../../rules/feats/greater-spell-focus.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md), [Spell Focus (enchantment)](../../rules/feats/spell-focus.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Casting](../../rules/feats/combat-casting.md), [Dodge](../../rules/feats/dodge.md), [Extra Performance](../../rules/feats/extra-performance.md), [Greater Spell Focus (enchantment)](../../rules/feats/greater-spell-focus.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Spell Focus (enchantment)](../../rules/feats/spell-focus.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Bluff +22, Diplomacy +14, Intimidate +14, Knowledge (local) +12, Knowledge (nobility) +12, Perception +19, Perform (act) +14, Perform (dance) +14, Sense Motive +19, Stealth +19; **Racial Modifiers** +8 Bluff, +8 Perception, +8 Sense Motive, +8 Stealth  
 **Languages** Common, Dwarven, Elven  
 **SQ** bardic knowledge +2, change shape (dire bat or wolf, *beast shape II*), gaseous form, lore master 1/day, shadowless, spider climb, versatile performance (dance)  
-**Combat Gear**  feather token (whip), *necklace of fireballs* (type I), *potion of inflict moderate wounds*, *potion of invisibility*, *scroll of haste*, *wand of disguise self* (15 charges), smokesticks (2), thunderstones (2); **Other Gear** mwk chain shirt, *animated portrait*<sup>UE</sup>, 450 gp
+**Combat Gear**  feather token (whip), *necklace of fireballs* (type I), *potion of inflict moderate wounds*, *potion of invisibility*, *scroll of haste*, *wand of disguise self* (15 charges), smokesticks (2), thunderstones (2); **Other Gear** mwk chain shirt, *animated portrait*, 450 gp
 
 **Ecology**
 

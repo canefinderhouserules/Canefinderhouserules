@@ -25,20 +25,20 @@ CN Medium humanoid (aquatic)
 **Special Attacks** bardic performance 31 rounds/day (move action; dirge of doom [DC 18], distraction, fascinate [DC 18], inspire courage +2, inspire greatness, sea shanty, still water, whistle the wind)  
 **Bard Spells Known** (CL 10th; concentration +13)  
 4th (1/day)—*legend lore*, *shadow conjuration* (DC 17)  
-3rd (4/day)—*charm monster* (DC 16), *elemental speech*<sup>APG</sup>, *seek thoughts*<sup>APG</sup> (DC 16), *summon monster III*  
-2nd (5/day)—*create treasure map*<sup>APG</sup>, *enthrall* (DC 15), *heroism*, *suggestion* (DC 15), *whispering wind*  
-1st (6/day)—*animate rope*, *comprehend languages*, *invigorate*<sup>APG</sup>, *remove fear*, *sleep* (DC 14)  
+3rd (4/day)—*charm monster* (DC 16), *elemental speech*, *seek thoughts* (DC 16), *summon monster III*  
+2nd (5/day)—*create treasure map*, *enthrall* (DC 15), *heroism*, *suggestion* (DC 15), *whispering wind*  
+1st (6/day)—*animate rope*, *comprehend languages*, *invigorate*, *remove fear*, *sleep* (DC 14)  
 0 (at will)—*dancing lights*, *daze* (DC 13), *know direction*, *mage hand*, *message*, *resistance*
 
 **Statistics**
 
 **Str** 10, **Dex** 16, **Con** 14, **Int** 8, **Wis** 12, **Cha** 16  
 **Base Atk** +7; **CMB** +7; **CMD** 21 (23 vs. grapple, overrun, and trip)  
-**Feats** [Arcane Strike](../../rules/feats/arcane-strike.md), [Extra Performance](../../rules/feats/extra-performance.md), [Lingering Performance<sup>APG</sup>](../../rules/feats/lingering-performance.md), [Skill Focus (Survival)](../../rules/feats/skill-focus.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md)  
+**Feats** [Arcane Strike](../../rules/feats/arcane-strike.md), [Extra Performance](../../rules/feats/extra-performance.md), [Lingering Performance](../../rules/feats/lingering-performance.md), [Skill Focus (Survival)](../../rules/feats/skill-focus.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md)  
 **Skills** Acrobatics +11, Climb +8, Knowledge (geography) +11, Knowledge (local) +13, Knowledge (nature) +11, Linguistics +4, Perception +10, Perform (sing) +16, Survival +11, Swim +14  
 **Languages** Aboleth, Common  
 **SQ** amphibious, familiar (parrot), jack-of-all-trades (use any skill), lore master 1/day, sea legs, world traveler  
-**Combat Gear**  *potions of cure moderate wounds* (2), *potions of endure elements* (2), *potion of shield of faith*; **Other Gear** *+2 studded leather*, mwk quarterstaff, mwk light crossbow with 20 bolts, *cloak of resistance +2*, *ring of protection +1*, *seer’s tea*<sup>UE</sup> (3 doses)
+**Combat Gear**  *potions of cure moderate wounds* (2), *potions of endure elements* (2), *potion of shield of faith*; **Other Gear** *+2 studded leather*, mwk quarterstaff, mwk light crossbow with 20 bolts, *cloak of resistance +2*, *ring of protection +1*, *seer’s tea* (3 doses)
 
 **Ecology**
 

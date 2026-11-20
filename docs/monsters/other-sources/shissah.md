@@ -24,7 +24,7 @@ N Large animal
 
 **Str** 18, **Dex** 20, **Con** 19, **Int** 2, **Wis** 14, **Cha** 10  
 **Base Atk** +3; **CMB** +8; **CMD** 23  
-**Feats** [Endurance](../../rules/feats/endurance.md), Multiattack, [Run<sup>B</sup>](../../rules/feats/run.md), [Weapon Focus (hoof)](../../rules/feats/weapon-focus.md)  
+**Feats** [Endurance](../../rules/feats/endurance.md), Multiattack, [Run](../../rules/feats/run.md), [Weapon Focus (hoof)](../../rules/feats/weapon-focus.md)  
 **Skills** Perception +8 (+12 in deserts), Survival +4 (+8 in deserts); **Racial Modifiers** +4 Perception and +4 Survival in deserts  
 **SQ** desert dweller, easily trained
 

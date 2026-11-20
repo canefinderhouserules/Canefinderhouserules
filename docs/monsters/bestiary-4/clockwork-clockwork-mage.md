@@ -26,7 +26,7 @@ N Medium construct (clockwork)
 
 **Str** 16, **Dex** 21, **Con** —, **Int** —, **Wis** 14, **Cha** 1  
 **Base Atk** +15; **CMB** +18; **CMD** 35  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **SQ** difficult to create, swift reactions, winding
 
 **Ecology**
@@ -41,8 +41,8 @@ N Medium construct (clockwork)
 
 *Abjuration*: 1st—*hold portal*, *shield*; 2nd—*protection from arrows*, *resist energy*; 3rd—*dispel magic*  
  *Conjuration*: 1st—*grease* (DC 11), *summon monster I*; 2nd—*glitterdust* (DC 13), *web* (DC 13); 3rd—*stinking cloud* (DC 14)  
- *Enchantment*: 1st—*bungle*<sup>APG</sup> (DC 11), *sleep* (DC 11); 2nd—*daze monster* (DC 13), *touch of idiocy*; 3rd—*deep slumber* (DC 14)  
+ *Enchantment*: 1st—*bungle* (DC 11), *sleep* (DC 11); 2nd—*daze monster* (DC 13), *touch of idiocy*; 3rd—*deep slumber* (DC 14)  
  *Evocation*: 1st—*magic missile*, *shocking grasp* (DC 11); 2nd—*gust of wind* (DC 13), *scorching ray*; 3rd—*fireball* (DC 14)  
- *Illusion*: 1st—*color spray* (DC 11), *vanish*<sup>APG</sup>; 2nd—*blur*, *hypnotic pattern* (DC 13); 3rd—*displacement*  
+ *Illusion*: 1st—*color spray* (DC 11), *vanish*; 2nd—*blur*, *hypnotic pattern* (DC 13); 3rd—*displacement*  
  *Necromancy*: 1st—*cause fear* (DC 11), *ray of enfeeblement* (DC 11), 2nd—*blindness/deafness* (DC 13), *scare* (DC 13); 3rd—*ray of exhaustion* (DC 14)  
  *Transmutation*: 1st—*expeditious retreat*, *reduce person* (DC 11); 2nd—*alter self*, *spider climb*; 3rd—*haste*

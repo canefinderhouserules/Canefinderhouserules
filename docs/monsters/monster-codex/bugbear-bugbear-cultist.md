@@ -22,8 +22,8 @@ CE Medium humanoid (goblinoid)
 **Oracle Spells Known** (CL 6th; concentration +8)  
 3rd (3/day)—*bestow curse* (DC 16), *inflict serious wounds* (DC 15), *magic vestment*  
  2nd (6/day)—*fog cloud*, *inflict moderate wounds* (DC 14), *resist energy*, *summon monster II*  
- 1st (7/day)—*cure light wounds*, *enlarge person*, *inflict light wounds* (DC 13), *protection from good*, *ray of sickening*<sup>UM</sup> (DC 14), *shield of faith* (DC 13)  
- 0 (at will)—*bleed* (DC 13), *create water*, *detect magic*, *detect poison*, *guidance*, *spark*<sup>APG</sup>, *virtue*  
+ 1st (7/day)—*cure light wounds*, *enlarge person*, *inflict light wounds* (DC 13), *protection from good*, *ray of sickening* (DC 14), *shield of faith* (DC 13)  
+ 0 (at will)—*bleed* (DC 13), *create water*, *detect magic*, *detect poison*, *guidance*, *spark*, *virtue*  
  **Mystery** battle
 
 **Tactics**

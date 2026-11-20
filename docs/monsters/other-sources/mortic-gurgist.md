@@ -27,7 +27,7 @@ N Medium humanoid (human, mortic)
 
 **Str** 18, **Dex** 17, **Con** 18, **Int** 17, **Wis** 14, **Cha** 7  
 **Base Atk** +6; **CMB** +10; **CMD** 23  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), [Quick Draw](../../rules/feats/quick-draw.md), [Skill Focus<sup>B</sup> (Craft [leatherworking])](../../rules/feats/skill-focus.md), Signature Skill<sup>B</sup> (Craft [leatherworking]), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Weapon Focus (dagger)](../../rules/feats/weapon-focus.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), [Quick Draw](../../rules/feats/quick-draw.md), [Skill Focus (Craft [leatherworking])](../../rules/feats/skill-focus.md), Signature Skill (Craft [leatherworking]), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Weapon Focus (dagger)](../../rules/feats/weapon-focus.md)  
 **Skills** Craft (leatherworking) +18, Disguise +7, Knowledge (nature) +12, Stealth +15, Survival +14  
 **Languages** Common  
 **SQ** obsession skill, unliving nature

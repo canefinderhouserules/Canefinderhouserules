@@ -31,7 +31,7 @@ NE Large monstrous humanoid
 **Feats** [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Magical Aptitude](../../rules/feats/magical-aptitude.md), [Mobility](../../rules/feats/mobility.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md)  
 **Skills** Acrobatics +16, Climb +14, Craft (traps) +16, Disable Device +20, Knowledge (dungeoneering) +12, Knowledge (history) +3, Perception +20, Sense Motive +9, Sleight of Hand +6, Spellcraft +8, Stealth +23, Survival +9, Use Magic Device +16; **Racial Modifiers** +4 Perception, +4 Survival  
 **Languages** Giant  
-**SQ** careful disarm, rogue talents (fast stealth, trap spotter, cunning trigger<sup>APG</sup>, quick trapsmith<sup>APG</sup>), trap master, trapfinding +4  
+**SQ** careful disarm, rogue talents (fast stealth, trap spotter, cunning trigger, quick trapsmith), trap master, trapfinding +4  
 **Combat Gear**  *wand of expeditious retreat* (12 charges), *wand of invisibility* (8 charges); **Other Gear** *+1 chain shirt*, *+1 repeating heavy crossbow*, mwk short sword, *cloak of elvenkind*, *ring of protection +1*, masterwork thieves’ tools, trap components (CR 1 arrow trap, CR 1 poison dart trap, CR 1 swinging axe trap, CR 2 javelin trap, CR 4 electricity arc trap)
 
 **Ecology**

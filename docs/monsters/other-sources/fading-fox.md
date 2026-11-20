@@ -24,7 +24,7 @@ N Tiny animal
 
 **Str** 10, **Dex** 21, **Con** 13, **Int** 2, **Wis** 17, **Cha** 10  
 **Base Atk** +2; **CMB** +5; **CMD** 15 (19 vs. trip)  
-**Feats** [Go Unnoticed](../../rules/feats/go-unnoticed.md), [Mobility<sup>B</sup>](../../rules/feats/mobility.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Stealthy<sup>B</sup>](../../rules/feats/stealthy.md)  
+**Feats** [Go Unnoticed](../../rules/feats/go-unnoticed.md), [Mobility](../../rules/feats/mobility.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Stealthy](../../rules/feats/stealthy.md)  
 **Skills** Acrobatics +5 (+17 when jumping), Climb +9, Escape Artist +7, Perception +10, Stealth +19, Survival +3 (+7 when tracking by scent); **Racial Modifiers** +4 Acrobatics when jumping, +4 Survival when tracking by scent  
 **SQ** fade away
 

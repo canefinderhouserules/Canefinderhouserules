@@ -25,9 +25,9 @@ NE Medium humanoid (human)
 **Cleric Spells Prepared** (CL 5th; concentration +8)  
 3rd—*bestow curse* (DC 16), *call lightning*<sup>D</sup> (DC 16), *dispel magic*  
 2nd—*gust of wind*<sup>D</sup> (DC 15), *shatter*, *silence* (DC 15), *undetectable alignment*  
-1st—*command* (DC 14), *cure light wounds*, *doom* (DC 14), *forbid action*<sup>UM</sup> (DC 15), *true strike*<sup>D</sup>  
+1st—*command* (DC 14), *cure light wounds*, *doom* (DC 14), *forbid action* (DC 15), *true strike*<sup>D</sup>  
 0 (at will)—*create water*, *detect magic*, *read magic*, *resistance*  
-**D** Domain spell; **Domains** Catastrophe<sup>APG</sup>, Evil
+**D** Domain spell; **Domains** Catastrophe, Evil
 
 **Statistics**
 
@@ -37,7 +37,7 @@ NE Medium humanoid (human)
 **Skills** Bluff +5, Craft (alchemy) +5, Diplomacy +6, Disguise +5, Knowledge (local) +3, Linguistics +6, Perception +4, Spellcraft +6, Stealth +5, Use Magic Device +7  
 **Languages** Abyssal, Common, Infernal, Osiriani  
 **SQ** aura  
-**Combat Gear**  *potion of invisibility*, *scroll of owl’s wisdom*, *wand of cure light wounds* (50 charges); **Other Gear** *+1 chain shirt*, mwk scorpion whip<sup>UE</sup>, dagger, *cloak of resistance +1*
+**Combat Gear**  *potion of invisibility*, *scroll of owl’s wisdom*, *wand of cure light wounds* (50 charges); **Other Gear** *+1 chain shirt*, mwk scorpion whip, dagger, *cloak of resistance +1*
 
 The Usij are a secret cabal of nihilistic spellcasters who follow Ahriman—Lord of All Divs, He Who Walks In Ruin, the Father of Oblivion. Originating in the eastern continent, cabals of Usij spread to northern the southern continent with the Keleshite invasion. In the time since, the cult has flourished in the desert of the sun orchid, where in the vast deserts of that nation the House of Oblivion stands as a permanent marker of Ahriman’s presence. Usij blend in with desert societies, keeping their dedication to their lord a secret while spreading ruin and social decay.
 

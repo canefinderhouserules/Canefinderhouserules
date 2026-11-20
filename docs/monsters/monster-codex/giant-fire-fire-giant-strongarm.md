@@ -29,11 +29,11 @@ LE Large humanoid (fire, giant)
 
 **Str** 35, **Dex** 13, **Con** 19, **Int** 12, **Wis** 16, **Cha** 10  
 **Base Atk** +14; **CMB** +27 (+29 overrun, +29 sunder); **CMD** 39 (41 vs. overrun, 41 vs. sunder)  
-**Feats** [Improved Overrun](../../rules/feats/improved-overrun.md), [Impact Critical Shot<sup>UC</sup>](../../rules/feats/impact-critical-shot.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Power Attack](../../rules/feats/power-attack.md), [Precise Shot](../../rules/feats/precise-shot.md), [Quick Draw](../../rules/feats/quick-draw.md), [Smoking Boulder](../../rules/feats/smoking-boulder.md), [Target of Opportunity<sup>UC</sup>](../../rules/feats/target-of-opportunity.md), [Weapon Focus (warhammer)](../../rules/feats/weapon-focus.md)  
+**Feats** [Improved Overrun](../../rules/feats/improved-overrun.md), [Impact Critical Shot](../../rules/feats/impact-critical-shot.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Power Attack](../../rules/feats/power-attack.md), [Precise Shot](../../rules/feats/precise-shot.md), [Quick Draw](../../rules/feats/quick-draw.md), [Smoking Boulder](../../rules/feats/smoking-boulder.md), [Target of Opportunity](../../rules/feats/target-of-opportunity.md), [Weapon Focus (warhammer)](../../rules/feats/weapon-focus.md)  
 **Skills** Climb +22, Craft (weapons) +9, Intimidate +21, Perception +24  
 **Languages** Common, Giant  
 **SQ** armor training 1  
-**Combat Gear**  *potions of cure serious wounds* (2), fuse grenades<sup>UE</sup> (3); **Other Gear** *+1 steaming half-plate*, *+1 arrow catching heavy steel shield*, *+1 flaming warhammer*, *ring of protection +1*, 98 gp
+**Combat Gear**  *potions of cure serious wounds* (2), fuse grenades (3); **Other Gear** *+1 steaming half-plate*, *+1 arrow catching heavy steel shield*, *+1 flaming warhammer*, *ring of protection +1*, 98 gp
 
 **Ecology**
 

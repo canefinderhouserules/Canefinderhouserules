@@ -32,7 +32,7 @@ At will—*calm emotions* (DC 16), *charm monster* (DC 18), *clairaudience/clair
 
 **Str** 11, **Dex** 21, **Con** 14, **Int** 18, **Wis** 10, **Cha** 19  
 **Base Atk** +9; **CMB** +9 (+21 grapple); **CMD** 24 (32 vs. grapple, can’t be tripped)  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Critical Focus](../../rules/feats/critical-focus.md), Flyby Attack, Hover<sup>B</sup>, [Improved Initiative](../../rules/feats/improved-initiative.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (tentacle)](../../rules/feats/weapon-focus.md), Wingover<sup>B</sup>  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Critical Focus](../../rules/feats/critical-focus.md), Flyby Attack, Hover, [Improved Initiative](../../rules/feats/improved-initiative.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (tentacle)](../../rules/feats/weapon-focus.md), Wingover  
 **Skills** Acrobatics +21, Diplomacy +17, Fly +20, Knowledge (arcana) +14, Perception +28, Sense Motive +13, Spellcraft +15, Stealth +21, Use Magic Device +17; **Racial Modifiers** +6 Perception  
 **Languages** Aklo, Common, Draconic, Undercommon; telepathy 100 ft.  
 **SQ** compression, float, no breath

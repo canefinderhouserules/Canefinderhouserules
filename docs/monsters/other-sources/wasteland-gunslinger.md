@@ -27,7 +27,7 @@ CG Medium humanoid (human)
 
 **Str** 12, **Dex** 17, **Con** 14, **Int** 10, **Wis** 14, **Cha** 8  
 **Base Atk** +6; **CMB** +7; **CMD** 23  
-**Feats** [Gunsmithing<sup>UC</sup>](../../rules/feats/gunsmithing.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (laser pistol)](../../rules/feats/weapon-focus.md)  
+**Feats** [Gunsmithing](../../rules/feats/gunsmithing.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (laser pistol)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +11, Craft (mechanical) +9, Knowledge (engineering) +9, Perception +11, Sleight of Hand +11  
 **Languages** Common  
 **SQ** deeds (deadeye, gunslinger initiative, gunslinger’s dodge, pistol-whip, quick clear, utility shot), gunsmith, rare resources

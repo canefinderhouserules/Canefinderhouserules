@@ -26,7 +26,7 @@ CE Huge magical beast
 
 **Str** 26, **Dex** 7, **Con** 20, **Int** 4, **Wis** 17, **Cha** 7  
 **Base Atk** +19; **CMB** +29 (+31 bull rush); **CMD** 37 (39 vs. bull rush, 41 vs. trip)  
-**Feats** Awesome Blow, [Cleave](../../rules/feats/cleave.md), [Great Cleave](../../rules/feats/great-cleave.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), [Run](../../rules/feats/run.md), [Stunning Assault<sup>APG</sup>](../../rules/feats/stunning-assault.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** Awesome Blow, [Cleave](../../rules/feats/cleave.md), [Great Cleave](../../rules/feats/great-cleave.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), [Run](../../rules/feats/run.md), [Stunning Assault](../../rules/feats/stunning-assault.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Acrobatics +10 (+18 when jumping), Climb +15, Perception +16; **Racial Modifiers** +8 Acrobatics when jumping, +4 Perception
 
 **Ecology**

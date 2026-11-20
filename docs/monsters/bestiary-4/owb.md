@@ -24,8 +24,8 @@ NE Medium outsider (extraplanar)
 **Special Attacks** burning cold, curse of darkness  
 **Spell-Like Abilities** (CL 8th; concentration +11)  
 Constant—*blur*  
-At will—*deeper darkness*, *detect thoughts*, *dust of twillight*<sup>APG</sup> (DC 15)  
-5/day—*shadow step*<sup>UM</sup>  
+At will—*deeper darkness*, *detect thoughts*, *dust of twillight* (DC 15)  
+5/day—*shadow step*  
 1/day—*plane shift* (self only, to or from the Shadow Plane only)
 
 **Statistics**

@@ -35,7 +35,7 @@ At will—*detect thoughts* (DC 15), *invisibility*, *plane shift* (self plus 50
 
 **Str** 18, **Dex** 19, **Con** 18, **Int** 15, **Wis** 17, **Cha** 15  
 **Base Atk** +10; **CMB** +15 (+19 grapple); **CMD** 29 (can't be tripped)  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), Hover, [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Eschew Materials](../../rules/feats/eschew-materials.md), Hover, [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md)  
 **Skills** Diplomacy +16, Fly +19, Knowledge (geography) +15, Knowledge (nature) +15, Perception +20, Sense Motive +20, Stealth +0 (+20 in the night sky)  
 **Languages** Celestial, Common, Draconic; telepathy 100 ft.  
 **SQ** gift of knowledge, star child

@@ -29,7 +29,7 @@ NE Large humanoid (cold, giant)
 4th—*cure serious wounds*, *flame strike* (DC 21), *ice storm*, *spike stones* (DC 20)  
 3rd—*call lightning* (DC 20), *dominate animal* (DC 19), *protection from energy*, *sleet storm*  
 2nd—*animal trance* (DC 18), *barkskin*, *bull’s strength*, *chill metal*, *delay poison*, *hold animal* (DC 18)  
-1st—*charm animal* (DC 17), *entangle* (DC 17), *frostbite*<sup>UM</sup>, *obscuring mist*, *speak with animals* (2)  
+1st—*charm animal* (DC 17), *entangle* (DC 17), *frostbite*, *obscuring mist*, *speak with animals* (2)  
 0 (at will)—*create water*, *detect magic*, *light*, *purify food and drink*
 
 **Tactics**
@@ -45,7 +45,7 @@ NE Large humanoid (cold, giant)
 **Skills** Bluff +9, Handle Animal +20, Heal +14, Intimidate +29, Knowledge (geography) +9 (+14 in cold or icy terrain), Knowledge (nature) +16, Perception +29 (+34 in cold or icy terrain), Stealth –6 (+3 in cold or icy terrain), Survival +21 (+26 in cold or icy terrain), Swim +15; **Racial Modifiers** +4 Stealth in snow  
 **Languages** Common, Druidic, Giant, Sylvan  
 **SQ** arctic native, icewalking, nature bond (animal companion), nature sense, wild empathy +12  
-**Combat Gear**  *pearl of power* (2nd), *scrolls of cure serious wounds* (2), antitoxin (2); **Other Gear** *+3 hide armor*, *+1 greataxe*, *amulet of natural armor +1*, *belt of mighty constitution +2*, *cloak of resistance +1*, *headband of inspired wisdom +2*, *manacles of cooperation*<sup>APG</sup> (2), *ring of protection +1*, 1,465 gp
+**Combat Gear**  *pearl of power* (2nd), *scrolls of cure serious wounds* (2), antitoxin (2); **Other Gear** *+3 hide armor*, *+1 greataxe*, *amulet of natural armor +1*, *belt of mighty constitution +2*, *cloak of resistance +1*, *headband of inspired wisdom +2*, *manacles of cooperation* (2), *ring of protection +1*, 1,465 gp
 
 **Ecology**
 

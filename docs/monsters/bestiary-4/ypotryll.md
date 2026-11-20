@@ -26,7 +26,7 @@ N Huge magical beast
 
 **Str** 32, **Dex** 9, **Con** 21, **Int** 2, **Wis** 10, **Cha** 7  
 **Base Atk** +22; **CMB** +35 (+37 bull rush, +39 overrun); **CMD** 44 (46 vs. bull rush, 46 vs. overrun)  
-**Feats** [Charge Through<sup>APG</sup>](../../rules/feats/charge-through.md), [Endurance](../../rules/feats/endurance.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Greater Overrun](../../rules/feats/greater-overrun.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Iron Will](../../rules/feats/iron-will.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Run](../../rules/feats/run.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Charge Through](../../rules/feats/charge-through.md), [Endurance](../../rules/feats/endurance.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Greater Overrun](../../rules/feats/greater-overrun.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Iron Will](../../rules/feats/iron-will.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Run](../../rules/feats/run.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Acrobatics +6 (+18 when jumping), Perception +12, Survival +4, Swim +23; **Racial Modifiers** +12 Acrobatics when jumping, +4 Swim  
 **SQ** bloody-minded
 

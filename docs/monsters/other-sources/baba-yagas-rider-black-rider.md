@@ -25,8 +25,8 @@ LN Medium fey
 Constant—*see invisibility*  
 At will—*chill touch* (DC 16), *detect thoughts* (DC 17), *zone of truth* (DC 17)  
 5/day—*deeper darkness*, *ice storm*  
-3/day—*cone of cold* (DC 20), *dust of twilight*<sup>APG</sup>(DC 17), *moonstruck*<sup>APG</sup> (DC 19)  
-1/day—*cloak of dreams*<sup>APG</sup> (DC 21)
+3/day—*cone of cold* (DC 20), *dust of twilight*(DC 17), *moonstruck* (DC 19)  
+1/day—*cloak of dreams* (DC 21)
 
 **Statistics**
 

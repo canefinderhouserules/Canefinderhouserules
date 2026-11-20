@@ -27,7 +27,7 @@ N Large outsider (native)
 
 **Str** 25, **Dex** 15, **Con** 18, **Int** 14, **Wis** 16, **Cha** 17  
 **Base Atk** +11; **CMB** +19 (+23 sunder); **CMD** 31 (33 vs. sunder)  
-**Feats** [Endurance<sup>B</sup>](../../rules/feats/endurance.md), [Great Fortitude<sup>B</sup>](../../rules/feats/great-fortitude.md), [Greater Sunder](../../rules/feats/greater-sunder.md), [Improved Critical (longsword)](../../rules/feats/improved-critical.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Quick Draw](../../rules/feats/quick-draw.md)  
+**Feats** [Endurance](../../rules/feats/endurance.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Greater Sunder](../../rules/feats/greater-sunder.md), [Improved Critical (longsword)](../../rules/feats/improved-critical.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Quick Draw](../../rules/feats/quick-draw.md)  
 **Skills** Bluff +12, Climb +13, Diplomacy +17, Intimidate +17, Knowledge (geography, planes) +11, Perception +17, Sense Motive +17, Stealth +9, Survival +12  
 **Languages** Celestial
 

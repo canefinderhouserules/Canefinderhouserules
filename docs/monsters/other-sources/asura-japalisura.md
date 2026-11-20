@@ -32,7 +32,7 @@ At will—*augury*, *flame arrow*
 
 **Str** 17, **Dex** 24, **Con** 21, **Int** 14, **Wis** 19, **Cha** 16  
 **Base Atk** +14; **CMB** +17; **CMD** 34  
-**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Deflect Arrows<sup>B</sup>](../../rules/feats/deflect-arrows.md), [Improved Precise Shot](../../rules/feats/improved-precise-shot.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Snatch Arrows<sup>B</sup>](../../rules/feats/snatch-arrows.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md)  
+**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Deflect Arrows](../../rules/feats/deflect-arrows.md), [Improved Precise Shot](../../rules/feats/improved-precise-shot.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Snatch Arrows](../../rules/feats/snatch-arrows.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md)  
 **Skills** Acrobatics +24 (+28 when jumping), Bluff +20, Climb +21, Escape Artist +23, Knowledge (planes) +12, Perception +25, Profession (soothsayer) +21, Sense Motive +21, Spellcraft +9, Stealth +24; **Racial Modifiers** +6 Escape Artist, +4 Perception  
 **Languages** Common, Infernal; telepathy 100 ft.  
 **SQ** hateful prophecy, infernal arrows, selective *[nondetection](../../magic/spells/nondetection.md)*

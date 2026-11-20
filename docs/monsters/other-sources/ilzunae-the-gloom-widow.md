@@ -32,7 +32,7 @@ At will—*deeper darkness*, *fear* (DC 22), *greater teleport* (self only), *te
 3/day—*shadow conjuration* (DC 22), *shadow evocation* (DC 23)  
 1/day—*magic jar* (DC 23), summon (level 3, 1 shadow demon 50%)  
 **Cleric Spells Prepared** (CL 15th; concentration +20)  
-8th—*demand*<sup>D</sup> (DC 23), *rift of ruin*<sup>BOTD2</sup> (DC 23)  
+8th—*demand*<sup>D</sup> (DC 23), *rift of ruin* (DC 23)  
 7th—quickened *cure critical wounds*, *destruction* (DC 22), *power word blind*<sup>D</sup>  
 6th—*blade barrier* (DC 21), quickened *death knell* (DC 17), *geas/quest*<sup>D</sup>, *heal*  
 5th—*breath of life*, quickened *command* (DC 16), *flame strike* (DC 20), *greater command* (DC 20), *slay living* (DC 20), *summon monster V*<sup>D</sup> (summons 1d3 shadows)  
@@ -47,7 +47,7 @@ At will—*deeper darkness*, *fear* (DC 22), *greater teleport* (self only), *te
 
 **Str** —, **Dex** 22, **Con** 22, **Int** 14, **Wis** 20, **Cha** 26  
 **Base Atk** +18; **CMB** +24; **CMD** 44  
-**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Demonic Obedience<sup>BOTD2</sup>](../../rules/feats/demonic-obedience.md), [Dodge](../../rules/feats/dodge.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Improved Possession](../../rules/feats/improved-possession.md), [Lightning Stance](../../rules/feats/lightning-stance.md), [Mobility](../../rules/feats/mobility.md), [Quicken Spell](../../rules/feats/quicken-spell.md), [Spring Attack](../../rules/feats/spring-attack.md), [Toughness](../../rules/feats/toughness.md), [Wind Stance](../../rules/feats/wind-stance.md)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Demonic Obedience](../../rules/feats/demonic-obedience.md), [Dodge](../../rules/feats/dodge.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Improved Possession](../../rules/feats/improved-possession.md), [Lightning Stance](../../rules/feats/lightning-stance.md), [Mobility](../../rules/feats/mobility.md), [Quicken Spell](../../rules/feats/quicken-spell.md), [Spring Attack](../../rules/feats/spring-attack.md), [Toughness](../../rules/feats/toughness.md), [Wind Stance](../../rules/feats/wind-stance.md)  
 **Skills** Bluff +33, Diplomacy +33, Fly +32, Knowledge (planes) +20, Knowledge (religion) +17, Perception +31, Sense Motive +23  
 **Languages** Abyssal, Draconic; telepathy 100 ft.  
 **SQ** eyes of darkness (7 rounds/day)  

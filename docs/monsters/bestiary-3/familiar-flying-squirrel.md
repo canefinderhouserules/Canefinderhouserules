@@ -24,7 +24,7 @@ N Tiny animal
 
 **Str** 3, **Dex** 15, **Con** 8, **Int** 1, **Wis** 12, **Cha** 6  
 **Base Atk** +0; **CMB** +0; **CMD** 6 (10 vs. trip)  
-**Feats** [Acrobatic<sup>B</sup>](../../rules/feats/acrobatic.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Acrobatic](../../rules/feats/acrobatic.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +16 (+12 when jumping), Climb +10, Fly +4; **Racial Modifiers** +12 Acrobatics, +8 Climb  
 **SQ** glide
 

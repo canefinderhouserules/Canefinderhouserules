@@ -25,21 +25,21 @@ NE Medium humanoid (human)
 At will—*detect alignment*  
 5 rounds/day—*discern lies*  
 **Inquisitor Spells Known** (CL 7th; concentration +11)  
-3rd (2/day)—*retribution*<sup>APG</sup> (DC 17), *seek thoughts*<sup>APG</sup> (DC 17)  
-2nd (4/day)—*confess*<sup>APG</sup> (DC 16), *cure moderate wounds*, *detect thoughts* (DC 16), *hold person* (DC 16)  
-1st (5/day)—*cause fear* (DC 15), *comprehend languages*, *disguise self*, *divine favor*, *vocal alteration*<sup>UM</sup> (DC 15)  
-0 (at will)—*bleed* (DC 13), *brand*<sup>APG</sup> (DC 13), *daze* (DC 13), *detect magic*, *guidance*, *sift*<sup>APG</sup>  
-**Domain** Heresy inquisition<sup>UM</sup>
+3rd (2/day)—*retribution* (DC 17), *seek thoughts* (DC 17)  
+2nd (4/day)—*confess* (DC 16), *cure moderate wounds*, *detect thoughts* (DC 16), *hold person* (DC 16)  
+1st (5/day)—*cause fear* (DC 15), *comprehend languages*, *disguise self*, *divine favor*, *vocal alteration* (DC 15)  
+0 (at will)—*bleed* (DC 13), *brand* (DC 13), *daze* (DC 13), *detect magic*, *guidance*, *sift*  
+**Domain** Heresy inquisition
 
 **Statistics**
 
 **Str** 10, **Dex** 14, **Con** 12, **Int** 8, **Wis** 18, **Cha** 14  
 **Base Atk** +5; **CMB** +5; **CMD** 18  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Intimidating Gaze<sup>UM</sup>](../../rules/feats/intimidating-gaze.md), [Lookout<sup>APG</sup>](../../rules/feats/lookout.md), [Persuasive](../../rules/feats/persuasive.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Intimidating Gaze](../../rules/feats/intimidating-gaze.md), [Lookout](../../rules/feats/lookout.md), [Persuasive](../../rules/feats/persuasive.md)  
 **Skills** Bluff +15 (+18 to conceal her identity), Diplomacy +13, Disguise +13 (+16 to conceal her identity), Heal +11, Intimidate +21, Knowledge (local) +8, Perception +15, Sense Motive +19, Stealth +5  
 **Languages** Common  
 **SQ** anonymity, blessed infiltration (4/day), cunning initiative, dramatic interrogation, harsh judgment 1/day, judgment 2/ day, monster lore +4, righteous infiltration, solo tactics, stern gaze, track +2  
-**Combat Gear**  *oil of keen edge*, *potions of cure light wounds* (2), *potion of misdirection*, *wand of zone of truth* (8 charges); **Other Gear** *+1 armored coat*<sup>UE</sup>, *+1 short sword*, mwk alchemical silver dagger, *ring of protection +1*, 98 gp
+**Combat Gear**  *oil of keen edge*, *potions of cure light wounds* (2), *potion of misdirection*, *wand of zone of truth* (8 charges); **Other Gear** *+1 armored coat*, *+1 short sword*, mwk alchemical silver dagger, *ring of protection +1*, 98 gp
 
 **Special Abilities**
 

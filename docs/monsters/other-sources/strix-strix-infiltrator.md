@@ -24,7 +24,7 @@ N Medium humanoid (strix)
 **Special Attacks** hatred, studied combat (+2, 2 rounds), studied strike +1d6  
 **Investigator Extracts Prepared** (CL 4th; concentration +6)  
 2nd—*detect thoughts* (DC 14), *invisibility*  
-1st—*disguise self*, *expeditious retreat*, *keen senses*<sup>APG</sup> (DC 13), *shield*
+1st—*disguise self*, *expeditious retreat*, *keen senses* (DC 13), *shield*
 
 **Statistics**
 
@@ -34,7 +34,7 @@ N Medium humanoid (strix)
 **Skills** Bluff +10, Craft (alchemy) +6 (+10 to create alchemical items), Disable Device +9, Disguise +10, Fly +4, Knowledge (geography) +6, Knowledge (local) +6, Knowledge (nobility) +6, Knowledge (religion) +6, Linguistics +6, Perception +6 (+8 in dim light or darkness), Sense Motive +4, Sleight of Hand +5, Stealth +6 (+8 in dim light or darkness), Use Magic Device +8  
 **Languages** Common, Elven, Infernal, Strix  
 **SQ** alchemy (alchemy crafting +4), inspiration (4/day), investigator talent (underworld inspiration), keen recollection, nocturnal, poison lore, suspicious, swift alchemy, trapfinding +2  
-**Combat Gear**  *oil of disguise weapon*<sup>ACG</sup>, *potion of cure light wounds*, *wand of alter self* (6 charges), *wand of cure light wounds* (18 charges); **Other Gear** *+1 studded leather*, dagger, short sword, shortbow with 20 arrows, courtier’s outfit, disguise kit, entertainer’s outfit, glass cutter, mwk thieves’ tools, scholar’s outfit, small steel mirror, traveler’s outfit
+**Combat Gear**  *oil of disguise weapon*, *potion of cure light wounds*, *wand of alter self* (6 charges), *wand of cure light wounds* (18 charges); **Other Gear** *+1 studded leather*, dagger, short sword, shortbow with 20 arrows, courtier’s outfit, disguise kit, entertainer’s outfit, glass cutter, mwk thieves’ tools, scholar’s outfit, small steel mirror, traveler’s outfit
 
 **Ecology**
 

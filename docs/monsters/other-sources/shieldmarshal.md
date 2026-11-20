@@ -27,11 +27,11 @@ LN Medium humanoid (human)
 
 **Str** 10, **Dex** 18, **Con** 14, **Int** 12, **Wis** 14, **Cha** 8  
 **Base Atk** +9; **CMB** +9; **CMD** 25  
-**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Gunsmithing<sup>UC</sup>](../../rules/feats/gunsmithing.md), [Iron Will](../../rules/feats/iron-will.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Quick Draw](../../rules/feats/quick-draw.md), [Rapid Reload (double-barreled pistol)](../../rules/feats/rapid-reload.md), [Weapon Focus (double-barreled pistol)](../../rules/feats/weapon-focus.md)  
+**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Gunsmithing](../../rules/feats/gunsmithing.md), [Iron Will](../../rules/feats/iron-will.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Quick Draw](../../rules/feats/quick-draw.md), [Rapid Reload (double-barreled pistol)](../../rules/feats/rapid-reload.md), [Weapon Focus (double-barreled pistol)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +15, Craft (alchemy) +5, Diplomacy +6, Intimidate +11, Knowledge (local) +12, Perception +15, Sense Motive +11, Survival +13  
 **Languages** Common, Osiriani  
 **SQ** danger sense, deeds (deadeye, gunslinger initiative, gunslinger’s dodge, pistolwhip, quick clear, starting shot, targeting, utility shot), eye for detail, gunmarshal, gunsmith, labyrinthine cunning, legal judgment 2/day  
-**Combat Gear**  *oils of silence*<sup>UE</sup> (3), *potion of cat’s grace*, *potions of cure moderate wounds* (2), bullets<sup>UE</sup> (20), flare alchemical cartridges<sup>UE</sup> (10), paper alchemical cartridges (bullet)<sup>UE</sup> (50); **Other Gear** mwk chain shirt, *+1 double-barreled pistol*<sup>UE</sup>, handaxe, mwk musket<sup>UE</sup>, *cloak of resistance +1*, *ring of protection +1*, black powder horn with 20 doses of black powder, gunsmith’s kit, mwk manacles, shieldmarshal’s badge (worth 5 gp), 201 gp
+**Combat Gear**  *oils of silence* (3), *potion of cat’s grace*, *potions of cure moderate wounds* (2), bullets (20), flare alchemical cartridges (10), paper alchemical cartridges (bullet) (50); **Other Gear** mwk chain shirt, *+1 double-barreled pistol*, handaxe, mwk musket, *cloak of resistance +1*, *ring of protection +1*, black powder horn with 20 doses of black powder, gunsmith’s kit, mwk manacles, shieldmarshal’s badge (worth 5 gp), 201 gp
 
 **Special Abilities**
 

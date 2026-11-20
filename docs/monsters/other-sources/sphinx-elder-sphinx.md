@@ -23,7 +23,7 @@ N Gargantuan magical beast
 **Special Attacks** litany of riddles, pounce, rake (2 claws +31, 2d6+14), trample (2d6+21, DC 34)  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
 Constant—*comprehend languages*, *detect magic*, *nondetection*, *read magic*, *true seeing*  
-3/day—*clairaudience/clairvoyance*, *greater dispel magic*, *hallucinatory terrain* (DC 21), *locate object*, *remove curse*, *sirocco*<sup>APG</sup> (DC 23)  
+3/day—*clairaudience/clairvoyance*, *greater dispel magic*, *hallucinatory terrain* (DC 21), *locate object*, *remove curse*, *sirocco* (DC 23)  
 1/day—*commune*, *contact other plane*, *legend lore*  
 1/week—any one of the following: *symbol of fear* (DC 22), *symbol of persuasion* (DC 23), *symbol of sleep* (DC 23), *symbol of vulnerability* (DC 26), *symbol of weakness* (DC 24); all symbols last for 1 week maximum
 

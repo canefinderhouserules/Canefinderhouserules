@@ -34,7 +34,7 @@ LE Gargantuan aberration
 
 **Str** 32, **Dex** 11, **Con** 21, **Int** 16, **Wis** 21, **Cha** 14  
 **Base Atk** +10; **CMB** +25 (+27 bull rush); **CMD** 35 (37 vs. bull rush, can’t be tripped)  
-**Feats** Awesome Blow, [Combat Casting](../../rules/feats/combat-casting.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), [Extend Spell](../../rules/feats/extend-spell.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md), [Vital Strike](../../rules/feats/vital-strike.md)  
+**Feats** Awesome Blow, [Combat Casting](../../rules/feats/combat-casting.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Extend Spell](../../rules/feats/extend-spell.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md), [Vital Strike](../../rules/feats/vital-strike.md)  
 **Skills** Climb +16, Diplomacy +16, Intimidate +30, Knowledge (religion) +20, Perception +22, Sense Motive +19, Spellcraft +20, Survival +22  
 **Languages** Aklo, Common, Infernal; telepathy 100 ft.  
 **SQ** alien vestment

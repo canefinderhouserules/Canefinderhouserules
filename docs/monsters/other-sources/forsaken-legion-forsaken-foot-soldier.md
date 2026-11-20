@@ -25,7 +25,7 @@ LE Medium undead
 
 **Str** 14, **Dex** 11, **Con** —, **Int** 11, **Wis** 12, **Cha** 11  
 **Base Atk** +3; **CMB** +5; **CMD** 15  
-**Feats** [Precise Strike<sup>APG</sup>](../../rules/feats/precise-strike.md), [Shield Wall<sup>APG</sup>](../../rules/feats/shield-wall.md)  
+**Feats** [Precise Strike](../../rules/feats/precise-strike.md), [Shield Wall](../../rules/feats/shield-wall.md)  
 **Skills** Diplomacy +4, Intimidate +7, Perception +8, Profession (soldier) +5  
 **Languages** Common, Jistka  
 **SQ** undying loyalty

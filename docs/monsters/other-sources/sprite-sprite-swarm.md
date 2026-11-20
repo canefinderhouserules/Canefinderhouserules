@@ -23,7 +23,7 @@ CN Diminutive fey (swarm)
 **Special Attacks** angry glow, concentrated rush, distraction (DC 16)  
 **Spell-Like Abilities** (CL 5th; concentration +5)  
 Constant—*detect evil*, *detect good*  
-1/day—*mass daze*<sup>UM</sup> (DC 14)
+1/day—*mass daze* (DC 14)
 
 **Statistics**
 

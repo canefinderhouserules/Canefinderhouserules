@@ -34,8 +34,8 @@ NE Small humanoid (goblinoid)
 **Feats** [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +8, Climb +4, Disable Device +8, Escape Artist +8, Perception +6, Sleight of Hand +8, Stealth +12, Swim +4  
 **Languages** Goblin  
-**SQ** rogue talents (finesse rogue), trapfinding +1, weapon familiarity<sup>ARG</sup>  
-**Combat Gear**  *potion of cure light wounds*, *potion of jump*, *potion of feather fall*, alchemist’s fire (4), smokesticks (2), thunderstones (4); **Other Gear** studded leather, dogslicer<sup>UE</sup>, mwk dogslicer<sup>UE</sup>, shortbow with 20 arrows, 18 gp
+**SQ** rogue talents (finesse rogue), trapfinding +1, weapon familiarity  
+**Combat Gear**  *potion of cure light wounds*, *potion of jump*, *potion of feather fall*, alchemist’s fire (4), smokesticks (2), thunderstones (4); **Other Gear** studded leather, dogslicer, mwk dogslicer, shortbow with 20 arrows, 18 gp
 
 **Ecology**
 

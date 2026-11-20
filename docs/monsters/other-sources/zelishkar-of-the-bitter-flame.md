@@ -25,15 +25,15 @@ NE Large outsider (daemon, evil, extraplanar, fire)
 **Special Attacks** bitter flames, corpse cremation, incandescent body, incendiary grasp, pounce, rake (2 claws +35, 1d10+11 plus 2d6 fire)  
 **Spell-Like Abilities** (CL 24th; concentration +30)  
 Constant—*blur*, *true seeing*, *unholy aura* (DC 24)  
-At will—*blistering invective*<sup>UC</sup> (DC 18), *dispel good* (DC 21), *fire shield*, *mass charm monster* (creatures of the fire subtype only) (DC 24)  
-3/day—empowered *fire storm* (DC 24), *incendiary cloud* (DC 24), quickened *contagious flame*<sup>APG</sup>, *sirocco*<sup>APG</sup> (DC 22)  
+At will—*blistering invective* (DC 18), *dispel good* (DC 21), *fire shield*, *mass charm monster* (creatures of the fire subtype only) (DC 24)  
+3/day—empowered *fire storm* (DC 24), *incendiary cloud* (DC 24), quickened *contagious flame*, *sirocco* (DC 22)  
 1/day—summon (level 9, 2 fiendish elder fire elementals or any daemon of 20 Hit Dice or fewer 100%)
 
 **Statistics**
 
 **Str** 33, **Dex** 21, **Con** 32, **Int** 17, **Wis** 22, **Cha** 23  
 **Base Atk** +24; **CMB** +36; **CMD** 52  
-**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Charge Through<sup>APG</sup>](../../rules/feats/charge-through.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), Empower Spell-Like Ability ( *fire storm*), [Greater Overrun](../../rules/feats/greater-overrun.md), [Improved Critical (claw)](../../rules/feats/improved-critical.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (*contagious flame*), [Weapon Focus (claw)](../../rules/feats/weapon-focus.md)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Charge Through](../../rules/feats/charge-through.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), Empower Spell-Like Ability ( *fire storm*), [Greater Overrun](../../rules/feats/greater-overrun.md), [Improved Critical (claw)](../../rules/feats/improved-critical.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (*contagious flame*), [Weapon Focus (claw)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +29, Bluff +20, Diplomacy +20, Fly +26, Intimidate +33, Knowledge (planes) +30, Perception +33, Sense Motive +29, Spellcraft +24, Stealth +25, Survival +27  
 **Languages** Abyssal, Common, Ignan, Infernal; telepathy 300 ft.  
 **SQ** daemonic harbinger traits

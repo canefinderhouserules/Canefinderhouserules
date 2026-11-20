@@ -23,7 +23,7 @@ N Medium animal
 
 **Str** 13, **Dex** 16, **Con** 13, **Int** 2, **Wis** 12, **Cha** 13  
 **Base Atk** +1; **CMB** +2; **CMD** 15 (19 vs. trip)  
-**Feats** [Nimble Moves<sup>B</sup>](../../rules/feats/nimble-moves.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
+**Feats** [Nimble Moves](../../rules/feats/nimble-moves.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
 **Skills** Acrobatics +7 (+11 when jumping), Climb +5, Perception +8; **Racial Modifiers** +4 Climb  
 **SQ** surefooted
 

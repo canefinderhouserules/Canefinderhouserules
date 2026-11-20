@@ -23,10 +23,10 @@ CE Medium undead
 **Special Attacks** disease (DC 23), paralysis (1d4+1 rounds, DC 23, elves are immune to this effect), ravenous frenzy (12/day)  
 **Sorcerer Spells Known** (CL 12th; concentration +18)  
 6th (4/day)—*mislead* (DC 22), *move earth*  
-5th (6/day)—*dominate person* (DC 21), *hungry earth* (DC 21), *suffocation*<sup>APG</sup> (DC 21)  
+5th (6/day)—*dominate person* (DC 21), *hungry earth* (DC 21), *suffocation* (DC 21)  
 4th (7/day)—*beast shape II*, *black tentacles*, *dimension door*, *fear*  
 3rd (7/day)—*gaseous form*, *lightning bolt* (DC 19), *nondetection*, *stinking cloud* (DC 19), *vampiric touch*  
-2nd (8/day)—*alter self*, *command undead* (DC 18), *false life*, *feast of ashes*<sup>APG</sup> (DC 18), *invisibility*, *mirror image*  
+2nd (8/day)—*alter self*, *command undead* (DC 18), *false life*, *feast of ashes* (DC 18), *invisibility*, *mirror image*  
 1st (8/day)—*burning hands* (DC 17), *grease* (DC 17), *mage armor*, *obscuring mist*, *ray of enfeeblement* (DC 17), *silent image*  
 0 (at will)—*arcane mark*, *dancing lights*, *daze* (DC 16), *detect magic*, *light*, *mage hand*, *prestidigitation* (DC 16), *ray of frost*, *read magic*  
 **Bloodline** ghoul
@@ -46,7 +46,7 @@ CE Medium undead
 **Skills** Bluff +13, Intimidate +23, Perception +20, Spellcraft +19, Stealth +28  
 **Languages** Common, Draconic, Undercommon  
 **SQ** bloodline arcana (heal when casting necromancy spells)  
-**Combat Gear**  *potions of inflict moderate wounds* (2), *scroll of magic jar*, *scroll of teleport*; **Other Gear** *+2 silken ceremonial armor*<sup>UE</sup>, *belt of incredible dexterity +2*, *headband of alluring charisma +2*, *ring of protection +1*, *stalker’s mask*<sup>UE</sup>, 470 gp
+**Combat Gear**  *potions of inflict moderate wounds* (2), *scroll of magic jar*, *scroll of teleport*; **Other Gear** *+2 silken ceremonial armor*, *belt of incredible dexterity +2*, *headband of alluring charisma +2*, *ring of protection +1*, *stalker’s mask*, 470 gp
 
 **Ecology**
 

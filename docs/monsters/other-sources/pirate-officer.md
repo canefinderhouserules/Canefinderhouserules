@@ -30,7 +30,7 @@ CN Medium humanoid (elf, human)
 
 **Str** 10, **Dex** 16, **Con** 12, **Int** 13, **Wis** 8, **Cha** 16  
 **Base Atk** +3; **CMB** +6; **CMD** 16  
-**Feats** [Agile Maneuvers](../../rules/feats/agile-maneuvers.md), [Skill Focus (Perform [string])<sup>B</sup>](../../rules/feats/skill-focus.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Agile Maneuvers](../../rules/feats/agile-maneuvers.md), [Skill Focus (Perform [string])](../../rules/feats/skill-focus.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +10, Bluff +10, Diplomacy +10, Perception +8, Perform (string) +13, Profession (sailor) +6, Sense Motive +6, Use Magic Device +10; **Racial Modifiers** +2 Perception  
 **Languages** Aquan, Common, Elven  
 **SQ** bardic knowledge +2, elf blood, versatile performance (string)

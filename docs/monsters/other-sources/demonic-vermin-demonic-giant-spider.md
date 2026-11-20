@@ -27,7 +27,7 @@ CE Medium magical beast
 
 **Str** 15, **Dex** 17, **Con** 14, **Int** 10, **Wis** 10, **Cha** 15  
 **Base Atk** +2; **CMB** +4; **CMD** 17 (29 vs. trip)  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Acrobatics +9, Climb +32, Perception +10, Stealth +13 (+17 in webs); **Racial Modifiers** +16 Climb, +4 Perception, +4 Stealth (+8 in webs)  
 **Languages** Abyssal, Celestial, Draconic; telepathy 100 ft.
 

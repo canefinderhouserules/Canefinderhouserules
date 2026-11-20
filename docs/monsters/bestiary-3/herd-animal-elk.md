@@ -23,7 +23,7 @@ N Medium animal
 
 **Str** 14, **Dex** 17, **Con** 16, **Int** 2, **Wis** 15, **Cha** 7  
 **Base Atk** +1; **CMB** +3; **CMD** 16 (20 vs. trip)  
-**Feats** [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Run<sup>B</sup>](../../rules/feats/run.md)  
+**Feats** [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Run](../../rules/feats/run.md)  
 **Skills** Perception +7
 
 **Ecology**

@@ -30,7 +30,7 @@ Constant—*detect chaos*
 
 **Str** 11, **Dex** 16, **Con** 14, **Int** 11, **Wis** 11, **Cha** 14  
 **Base Atk** +2; **CMB** +3; **CMD** 13  
-**Feats** Flyby Attack, [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** Flyby Attack, [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Diplomacy +7, Fly +12, Knowledge (planes) +5, Perception +5, Sense Motive +5, Stealth +16  
 **Languages** truespeech  
 **SQ** locate inevitable

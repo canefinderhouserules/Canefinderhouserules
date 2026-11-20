@@ -26,11 +26,11 @@ CE Medium humanoid (orc)
 **Witch Spells Prepared** (CL 9th; concentration +10)  
 5th—*cloudkill* (DC 16)  
 4th—*enervation*, *shout* (DC 15)  
-3rd—*fly*, *lightning bolt* (DC 14), *pain strike*<sup>APG</sup> (DC 14), *screech*<sup>APG</sup> (DC 14)  
-2nd—*blindness/deafness* (DC 13), *blood blaze*<sup>ARG</sup>, *false life*, *sentry skull*<sup>ARG</sup>, *touch of idiocy*  
+3rd—*fly*, *lightning bolt* (DC 14), *pain strike* (DC 14), *screech* (DC 14)  
+2nd—*blindness/deafness* (DC 13), *blood blaze*, *false life*, *sentry skull*, *touch of idiocy*  
 1st—*burning hands* (DC 12), *chill touch* (DC 12), *enlarge person* (DC 12), *mage armor*, *ray of enfeeblement* (DC 12)  
-0 (at will)—*arcane mark*, *detect magic*, *read magic*, *spark*<sup>APG</sup>  
-**Patron** vengeance<sup>UM</sup>
+0 (at will)—*arcane mark*, *detect magic*, *read magic*, *spark*  
+**Patron** vengeance
 
 **Tactics**
 
@@ -42,7 +42,7 @@ CE Medium humanoid (orc)
 
 **Str** 12, **Dex** 14, **Con** 16, **Int** 12, **Wis** 12, **Cha** 8  
 **Base Atk** +4; **CMB** +5; **CMD** 18  
-**Feats** [Accursed Hex<sup>APG</sup>](../../rules/feats/accursed-hex.md), [Combat Casting](../../rules/feats/combat-casting.md), [Extra Hex<sup>APG</sup>](../../rules/feats/extra-hex.md), [Iron Will](../../rules/feats/iron-will.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Accursed Hex](../../rules/feats/accursed-hex.md), [Combat Casting](../../rules/feats/combat-casting.md), [Extra Hex](../../rules/feats/extra-hex.md), [Iron Will](../../rules/feats/iron-will.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Heal +7, Intimidate +12, Perception +10, Spellcraft +13  
 **Languages** Common, Orc  
 **SQ** constitution dependent, fetish mask, hex scar, scarshield (+4, 9 min./day), weapon familiarity  

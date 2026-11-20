@@ -27,7 +27,7 @@ N Huge magical beast
 
 **Str** 19, **Dex** 14, **Con** 20, **Int** 2, **Wis** 13, **Cha** 11  
 **Base Atk** +12; **CMB** +18; **CMD** 30 (34 vs. trip)  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Improved Natural Attack (bite), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), Snatch<sup>B</sup>  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Improved Natural Attack (bite), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Toughness](../../rules/feats/toughness.md), Snatch  
 **Skills** Perception +12, Swim +21; **Racial Modifiers** +2 Perception  
 **SQ** bloodspray, hydra traits, regenerate head
 

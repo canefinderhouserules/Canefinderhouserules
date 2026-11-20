@@ -25,14 +25,14 @@ CG Large monstrous humanoid
 4th—*charm monster* (DC 18), *summon monster IV*  
 3rd—*fly*, *haste*, merciful *lightning bolt* (DC 17)  
 2nd—*alter self*, *cat’s grace*, *glitterdust* (DC 16), *web* (DC 16)  
-1st—*alarm*, *expeditious retreat*, *feather fall*, *mage armor*, *vanish*<sup>APG</sup>  
+1st—*alarm*, *expeditious retreat*, *feather fall*, *mage armor*, *vanish*  
 0 (at will)—*ghost sound* (DC 14), *light*, *message*, *resistance*
 
 **Statistics**
 
 **Str** 12, **Dex** 15, **Con** 14, **Int** 18, **Wis** 14, **Cha** 16  
 **Base Atk** +7; **CMB** +9; **CMD** 22 (26 vs. trip)  
-**Feats** [Cosmopolitan<sup>APG</sup> (Bluff](../../rules/feats/cosmopolitan.md), Intimidate), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Merciful Spell<sup>APG</sup>](../../rules/feats/merciful-spell.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Cosmopolitan (Bluff](../../rules/feats/cosmopolitan.md), Intimidate), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Merciful Spell](../../rules/feats/merciful-spell.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Appraise +18, Bluff +8, Diplomacy +14, Disguise +8, Intimidate +8, Knowledge (arcana) +13, Knowledge (geography) +8, Knowledge (history) +8, Knowledge (nature) +12, Knowledge (planes) +13, Perception +16, Spellcraft +18, Survival +10  
 **Languages** Aklo, Common, Elven, Sylvan, Frontier, Far Eastern  
 **SQ** arcane bond (*wand of comprehend languages*) undersized weapons  

@@ -50,4 +50,4 @@ At will—*fear* (DC 20)
 
 **Planar Empowerment (Su)** While on the plane of Abaddon, an Abaddon gigas can cast each of the following as a spell-like ability once per day: *blasphemy* (DC 28), *earthquake* (DC 29), and *unholy aura* (DC 29) . If the gigas ventures onto another plane, it can’t use these abilities (though its other spell-like abilities remain available). The save DCs for these spell-like abilities are Charisma-based and include a +5 racial bonus.
 
-**Vile Weapon (Su)** As a swift action, an Abaddon gigas can transform its weapon into a *+3 wounding adamantine greatsword*, a *+5 nullifying*<sup>UE</sup> *adamantine spiked gauntlet*, a *+5 unholy adamantine quarterstaff*, a *+3 cruel*<sup>UE</sup> *keen scythe*, or a +3 weapon of any other kind.
+**Vile Weapon (Su)** As a swift action, an Abaddon gigas can transform its weapon into a *+3 wounding adamantine greatsword*, a *+5 nullifying* *adamantine spiked gauntlet*, a *+5 unholy adamantine quarterstaff*, a *+3 cruel* *keen scythe*, or a +3 weapon of any other kind.

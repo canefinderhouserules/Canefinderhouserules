@@ -20,7 +20,7 @@ CN Small fey
 **Speed** 30 ft., fly 40 ft. (poor)  
 **Melee** spear +2 (1d6+1/×3)  
 **Spell-Like Abilities** (CL 1st; concentration +4)  
-1/day—*entangle*, *feather step*<sup>APG</sup>  
+1/day—*entangle*, *feather step*  
 **Bloodline Spell-Like Abilities** (CL 1st; concentration +4)  
 6/day—laughing touch  
 **Sorcerer Spells Known** (CL 1st; concentration +4)  

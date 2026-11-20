@@ -27,8 +27,8 @@ At will—*disguise self* (DC 14, humanoid form only), *ventriloquism* (DC 14)
 1/day—*blur*, *dominate person* (DC 18), *major image* (DC 16), *mass suggestion* (DC 19), *mirror image*, *suggestion* (DC 16), *teleport*  
 **Magus Spells Prepared** (CL 9th; concentration +14)  
 3rd—*dispel magic*, *displacement*, *vampiric touch* (2)  
-2nd—*acid arrow*, *defensive shock*<sup>UM</sup>, *frigid touch*<sup>UM</sup>, *invisibility*, *web* (DC 17)  
-1st—*burning hands* (DC 16), *chill touch* (DC 16), *corrosive touch*<sup>UM</sup>, *magic missile*, *ray of enfeeblement* (DC 16), *shocking grasp*  
+2nd—*acid arrow*, *defensive shock*, *frigid touch*, *invisibility*, *web* (DC 17)  
+1st—*burning hands* (DC 16), *chill touch* (DC 16), *corrosive touch*, *magic missile*, *ray of enfeeblement* (DC 16), *shocking grasp*  
 0 (at will)—*arcane mark*, *detect magic*, *mage hand*, *prestidigitation* (DC 15), *read magic*
 
 **Tactics**
@@ -44,7 +44,7 @@ At will—*disguise self* (DC 14, humanoid form only), *ventriloquism* (DC 14)
 **Skills** Acrobatics +10 (+6 when jumping), Climb +10, Craft (alchemy) +13, Disguise +9, Escape Artist +19, Intimidate +15, Knowledge (arcana) +18, Knowledge (dungeoneering) +12, Knowledge (history) +8, Knowledge (nobility) +6, Perception +18, Sense Motive +8, Spellcraft +16, Stealth +15, Survival +8, Swim +4, Use Magic Device +15; **Racial Modifiers** +8 Escape Artist, +4 Use Magic Device  
 **Languages** Aklo, Common, Draconic, Undercommon; telepathy 100 ft.  
 **SQ** arcane pool (9 points, +3), knowledge pool, magus arcana (hasted assault, pool strike +4d6, spell shield), medium armor proficiency, spell recall  
-**Combat Gear**  *potions of cure serious wounds* (2), *scroll of force hook charge*<sup>UM</sup>, *scroll of gaseous form*, *scroll of greater invisibility*, *scroll of protection from energy*, acid (4); **Other Gear** *+2 glamered scale mail*, *+2 corrosive scimitar*, mwk composite longbow with 20 *+1 arrows*, *amulet of natural armor +1*, *belt of giant strength +2*, *cloak of resistance +1*, *ring of protection +1*, spellbook, 449 gp
+**Combat Gear**  *potions of cure serious wounds* (2), *scroll of force hook charge*, *scroll of gaseous form*, *scroll of greater invisibility*, *scroll of protection from energy*, acid (4); **Other Gear** *+2 glamered scale mail*, *+2 corrosive scimitar*, mwk composite longbow with 20 *+1 arrows*, *amulet of natural armor +1*, *belt of giant strength +2*, *cloak of resistance +1*, *ring of protection +1*, spellbook, 449 gp
 
 **Ecology**
 

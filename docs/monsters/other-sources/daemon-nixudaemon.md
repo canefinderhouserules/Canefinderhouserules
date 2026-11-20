@@ -25,7 +25,7 @@ NE Large outsider (daemon, evil, extraplanar)
 Constant—*deathwatch*  
 At Will—*greater teleport* (self plus 50 lbs. only)  
 3/day—*heroism*, *waves of fatigue* (DC 18)  
-1/day—*temporary resurrection*<sup>UM</sup>
+1/day—*temporary resurrection*
 
 **Statistics**
 
@@ -43,7 +43,7 @@ At Will—*greater teleport* (self plus 50 lbs. only)
 
 **Special Abilities**
 
-**Damning Scourge (Su)** Each of a nixudaemon’s upper arms functions as a Large *+1 deadly*<sup>UE</sup> *merciful*<sup>UE</sup> *vicious*<sup>UE</sup> *whip*. Attacks with these whips count as natural attacks for the nixudaemon, have a reach of 20 feet, and don’t provoke attacks of opportunity. The whips can’t be disarmed or sundered, nor can they be dropped to allow the nixudaemon to avoid being tripped because of failing a combat maneuver check to trip. The nixudaemon decides before each attack roll whether to apply the weapon’s merciful special ability, its vicious special ability, both, or neither.
+**Damning Scourge (Su)** Each of a nixudaemon’s upper arms functions as a Large *+1 deadly* *merciful* *vicious* *whip*. Attacks with these whips count as natural attacks for the nixudaemon, have a reach of 20 feet, and don’t provoke attacks of opportunity. The whips can’t be disarmed or sundered, nor can they be dropped to allow the nixudaemon to avoid being tripped because of failing a combat maneuver check to trip. The nixudaemon decides before each attack roll whether to apply the weapon’s merciful special ability, its vicious special ability, both, or neither.
 
 **Dead Tired (Su)** A nixudaemon’s attacks drain every bit of vitality from its victims when they die. Raising a creature killed by a nixudaemon (via *raise dead* or another effect that restores life) requires a successful DC 20 caster level check. The restored creature gains the exhausted condition, regardless of the spell used to raise it. The DC of this caster level check is Charisma-based, and includes a +2 racial bonus. A nixudaemon can use its *temporary resurrection* spell-like ability without attempting this check, even if another nixudaemon killed the subject.
 

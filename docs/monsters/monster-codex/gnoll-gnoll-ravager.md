@@ -26,7 +26,7 @@ CE Medium humanoid (gnoll)
 At will—*detect good*  
 **Antipaladin Spells Prepared** (CL 7th; concentration +8)  
 2nd—*bull’s strength*  
-1st—*doom* (DC 12), *litany of sloth*<sup>UC</sup>, *protection from good*
+1st—*doom* (DC 12), *litany of sloth*, *protection from good*
 
 **Tactics**
 

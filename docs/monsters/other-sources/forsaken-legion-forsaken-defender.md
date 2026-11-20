@@ -37,6 +37,6 @@ LE Medium undead
 
 **Special Abilities**
 
-**Phantom Trench (Su)** Three times per day as a full-round action, a forsaken defender can create an extradimensional trench, as *create pit*<sup>APG</sup> (Reflex DC 14 avoids), except the pit must be in a contiguous shape made of up to four 5-foot squares. The pit is 10 feet deep and persists for 4 rounds. The save DC is Intelligence-based.
+**Phantom Trench (Su)** Three times per day as a full-round action, a forsaken defender can create an extradimensional trench, as *create pit* (Reflex DC 14 avoids), except the pit must be in a contiguous shape made of up to four 5-foot squares. The pit is 10 feet deep and persists for 4 rounds. The save DC is Intelligence-based.
 
 **Phantom Wall (Su)** Three times per day as a standard action, a forsaken defender can create a wall from loose rocks and bricks, as *wall of stone*, except the maximum area of the wall is 20 feet and the wall is always 10 feet high and 1 inch thick. The wall persists for 4 rounds.

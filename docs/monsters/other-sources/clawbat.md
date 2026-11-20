@@ -24,7 +24,7 @@ N Small magical beast
 
 **Str** 7, **Dex** 17, **Con** 10, **Int** 2, **Wis** 14, **Cha** 10  
 **Base Atk** +2; **CMB** -1; **CMD** 12  
-**Feats** Flyby Attack<sup>B</sup>, [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** Flyby Attack, [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Fly +5, Stealth +12
 
 **Ecology**

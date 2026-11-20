@@ -25,7 +25,7 @@ CN Medium magical beast
 
 **Str** 15, **Dex** 24, **Con** 12, **Int** 4, **Wis** 13, **Cha** 11  
 **Base Atk** +4; **CMB** +6; **CMD** 24 (28 vs. trip)  
-**Feats** [Dodge](../../rules/feats/dodge.md), [Mobility<sup>B</sup>](../../rules/feats/mobility.md), [Spring Attack<sup>B</sup>](../../rules/feats/spring-attack.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Wind Stance<sup>B</sup>](../../rules/feats/wind-stance.md)  
+**Feats** [Dodge](../../rules/feats/dodge.md), [Mobility](../../rules/feats/mobility.md), [Spring Attack](../../rules/feats/spring-attack.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Wind Stance](../../rules/feats/wind-stance.md)  
 **Skills** Acrobatics +15 (+27 when jumping), Perception +6, Stealth +15; **Racial Modifiers** +4 Acrobatics (+16 when jumping), +4 Stealth  
 **Languages** telepathy (empathy) 60 ft.
 

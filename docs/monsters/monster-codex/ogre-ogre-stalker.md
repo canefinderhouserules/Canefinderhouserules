@@ -32,7 +32,7 @@ CE Large humanoid (giant)
 **Skills** Acrobatics +11, Climb +17, Disable Device +2, Perception +10, Stealth +10 (+14 in dim light or darkness)  
 **Languages** Giant  
 **SQ** rogue talents (fast stealth), trapfinding +1  
-**Combat Gear**  *potion of cure moderate wounds*, *potion of elixir of hiding*, *wasp nest of swarming*<sup>UE</sup>; **Other Gear** *+1 studded leather*, javelins (3), mwk greatclub, *feather token* (tree), 16 gp
+**Combat Gear**  *potion of cure moderate wounds*, *potion of elixir of hiding*, *wasp nest of swarming*; **Other Gear** *+1 studded leather*, javelins (3), mwk greatclub, *feather token* (tree), 16 gp
 
 **Ecology**
 

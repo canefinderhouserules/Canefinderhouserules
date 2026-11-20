@@ -26,7 +26,7 @@ N Large vermin (aquatic)
 
 **Str** 18, **Dex** 17, **Con** 16, **Int** &mdash;, **Wis** 13, **Cha** 2  
 **Base Atk** +5; **CMB** +10; **CMD** 23  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **Skills** Swim +12  
 **SQ** amphibious
 

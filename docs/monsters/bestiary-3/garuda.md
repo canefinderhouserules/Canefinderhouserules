@@ -31,7 +31,7 @@ CG Medium outsider (native)
 
 **Str** 16, **Dex** 21, **Con** 20, **Int** 15, **Wis** 14, **Cha** 17  
 **Base Atk** +11; **CMB** +14; **CMD** 29  
-**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Manyshot](../../rules/feats/manyshot.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Power Attack](../../rules/feats/power-attack.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Manyshot](../../rules/feats/manyshot.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Power Attack](../../rules/feats/power-attack.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +19, Fly +23, Intimidate +21, Perception +20, Sense Motive +20, Spellcraft +13, Stealth +19, Survival +13; **Racial Modifiers** +4 Intimidate, +4 Perception, +4 Sense Motive  
 **Languages** Common, Garuda
 

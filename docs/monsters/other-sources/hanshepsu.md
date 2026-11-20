@@ -54,7 +54,7 @@ N Medium construct
 
 *Scarab*: The hanshepsu’s damage reduction is not subject to the effects of a *golembane scarab* or any abilities that allow a creature to ignore a construct’s damage reduction.
 
-*Scorpion*: The hanshepsu gains a climb speed of 20 feet and its mace gains the *speed*<sup>UE</sup> weapon special ability for 1 minute each day.
+*Scorpion*: The hanshepsu gains a climb speed of 20 feet and its mace gains the *speed* weapon special ability for 1 minute each day.
 
 *Set Beast*: The hanshepsu’s mace deals an additional 1d6 points of negative energy damage with each successful attack.
 

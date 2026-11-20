@@ -25,7 +25,7 @@ N Tiny plant
 
 **Str** 5, **Dex** 15, **Con** 11, **Int** —, **Wis** 10, **Cha** 6  
 **Base Atk** +0; **CMB** +0; **CMD** 7  
-**Feats** [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)
+**Feats** [Weapon Finesse](../../rules/feats/weapon-finesse.md)
 
 **Ecology**
 

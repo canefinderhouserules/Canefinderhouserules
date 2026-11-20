@@ -24,7 +24,7 @@ N Colossal construct (colossus, mythic)
 **Special Attacks** mythic power (7/day, surge +1d10), mythic quickening  
 **Spell-Like Abilities** (CL 14th; concentration +14)  
 3/day—extended *good hope*  
-1/day—extended *vengeful outrage*<sup>UM</sup> (DC 16)
+1/day—extended *vengeful outrage* (DC 16)
 
 **Statistics**
 

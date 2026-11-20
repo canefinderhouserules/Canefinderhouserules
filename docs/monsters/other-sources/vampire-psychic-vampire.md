@@ -23,13 +23,13 @@ LE Medium undead (augmented humanoid)
 **Melee** slam +14 (1d4+9 plus drain psychic energy)  
 **Special Attacks** drain psychic energy (DC 19), possession, sneak attack +2d6, studied target +2 (2nd, swift)  
 **Psychic Magic** (CL 7th; concentration +11)  
-7 PE—*burst of adrenaline*<sup>OA</sup> (1 PE), *haste* (3 PE), *mental block*<sup>OA</sup> (2 PE, DC 16), *spider climb* (2 PE)
+7 PE—*burst of adrenaline* (1 PE), *haste* (3 PE), *mental block* (2 PE, DC 16), *spider climb* (2 PE)
 
 **Statistics**
 
 **Str** 22, **Dex** 16, **Con** —, **Int** 16, **Wis** 14, **Cha** 19  
 **Base Atk** +7; **CMB** +13; **CMD** 27  
-**Feats** Ability Focus (drain psychic energy), [Alertness<sup>B</sup>](../../rules/feats/alertness.md), [Combat Expertise<sup>B</sup>](../../rules/feats/combat-expertise.md), [Dodge<sup>B</sup>](../../rules/feats/dodge.md), [Improved Feint](../../rules/feats/improved-feint.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Iron Will<sup>B</sup>](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Bluff)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (slam)](../../rules/feats/weapon-focus.md)  
+**Feats** Ability Focus (drain psychic energy), [Alertness](../../rules/feats/alertness.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Dodge](../../rules/feats/dodge.md), [Improved Feint](../../rules/feats/improved-feint.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Bluff)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (slam)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +12, Bluff +25, Climb +15, Disguise +14, Knowledge (local) +13, Knowledge (nature) +10, Perception +22, Sense Motive +22, Stealth +20, Survival +12; **Racial Modifiers** +8 Bluff, +8 Perception, +8 Sense Motive, +8 Stealth  
 **Languages** Common, Draconic, Infernal, Far Eastern  
 **SQ** possess object, slayer talents (combat trick, fast stealth, rogue crawl), stalker, track +3

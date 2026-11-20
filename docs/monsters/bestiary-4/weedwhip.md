@@ -28,7 +28,7 @@ N Medium plant
 
 **Str** 10, **Dex** 17, **Con** 12, **Int** —, **Wis** 13, **Cha** 5  
 **Base Atk** +2; **CMB** +2; **CMD** 15 (27 vs. trip)  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **SQ** camouflage
 
 **Ecology**

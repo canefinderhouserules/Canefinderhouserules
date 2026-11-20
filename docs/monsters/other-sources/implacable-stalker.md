@@ -32,7 +32,7 @@ Constant—*see invisibility*
 
 **Str** 25, **Dex** 13, **Con** 26, **Int** 14, **Wis** 13, **Cha** 16  
 **Base Atk** +7; **CMB** +14; **CMD** 25  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Diehard<sup>B</sup>](../../rules/feats/diehard.md), [Endurance<sup>B</sup>](../../rules/feats/endurance.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Intimidating Prowess<sup>B</sup>](../../rules/feats/intimidating-prowess.md), [Iron Will](../../rules/feats/iron-will.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Diehard](../../rules/feats/diehard.md), [Endurance](../../rules/feats/endurance.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Iron Will](../../rules/feats/iron-will.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Acrobatics +11 (+7 when jumping), Climb +14, Disable Device +11, Escape Artist +11, Intimidate +18, Perception +19, Sense Motive +11, Sleight of Hand +11, Stealth +28, Survival +1 (+7 to follow tracks); **Racial Modifiers** –4 Acrobatics when jumping, +8 Intimidate, +8 Perception, +14 Stealth, +6 Survival to follow tracks  
 **Languages** Abyssal, Celestail, Draconic, telepathy 100 ft.  
 **SQ** nightmare resurrection

@@ -29,7 +29,7 @@ CN Large outsider (chaotic, extraplanar)
 
 **Str** 17, **Dex** 12, **Con** 13, **Int** 8, **Wis** 11, **Cha** 10  
 **Base Atk** +6; **CMB** +10 (+14 grapple, +12 sunder); **CMD** 21 (23 vs. sunder, 25 vs. trip)  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Sunder<sup>B</sup>](../../rules/feats/improved-sunder.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (claws)](../../rules/feats/weapon-focus.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (claws)](../../rules/feats/weapon-focus.md)  
 **Skills** Climb +12, Intimidate +9, Knowledge (planes) +5, Knowledge (religion) +5, Perception +9, Swim +16; **Racial Modifiers** +4 Swim  
 **Languages** Abyssal, Celestial; *speak with animals* (bears only)  
 **SQ** eat metal

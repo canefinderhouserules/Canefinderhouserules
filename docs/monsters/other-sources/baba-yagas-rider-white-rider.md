@@ -25,7 +25,7 @@ LN Medium fey
 **Spell-Like Abilities** (CL 11th; concentration +16)  
 Constant—*see invisibility*  
 At will—*chill touch* (DC 16), *detect thoughts* (DC 17), *zone of truth* (DC 17)  
-5/day—*ice storm*, *daybreak arrow*<sup>UC</sup>  
+5/day—*ice storm*, *daybreak arrow*  
 3/day— *charm monster* (DC 19), *cone of cold* (DC 20)  
 1/day—*mass suggestion* (DC 21)
 

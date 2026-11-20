@@ -25,8 +25,8 @@ N Huge magical beast (aquatic)
 **Spell-Like Abilities** (CL 15th; concentration +15)  
 At will—*control water*, *freedom of movement*  
 5/day—*diminish plants*, *plant growth*  
-3/day—*command plants*, *thorn body*<sup>APG</sup>, *wall of thorns*  
-1/day—*hydraulic torrent*<sup>APG</sup>
+3/day—*command plants*, *thorn body*, *wall of thorns*  
+1/day—*hydraulic torrent*
 
 **Statistics**
 

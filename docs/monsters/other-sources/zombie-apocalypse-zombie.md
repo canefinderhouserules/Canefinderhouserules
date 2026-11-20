@@ -26,7 +26,7 @@ NE Medium undead
 
 **Str** 17, **Dex** 14, **Con** &mdash;, **Int** &mdash;, **Wis** 10, **Cha** 10  
 **Base Atk** +3; **CMB** +6 (+10 grapple); **CMD** 18  
-**Feats** [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Toughness](../../rules/feats/toughness.md)  
 **Skills** Climb +11, Survival +0 (+4 to track by smell)
 
 **Ecology**

@@ -24,8 +24,8 @@ N Huge construct
 **Special Attacks** charming gaze  
 **Spell-Like Abilities** (CL 10th; concentration +13)  
 At will—*detect thoughts* (DC 15), *obscuring mist*, *sound burst* (DC 15)  
-3/day—*calm emotions* (DC 15), *crushing despair* (DC 17), *good hope*, empowered *sound burst* (DC 15), *stone shape*, *thundering drums*<sup>APG</sup> (DC 16)  
-1/day—*arcane concordance*<sup>APG</sup>, *fear* (DC 17), *witness*<sup>UM</sup> (DC 16)  
+3/day—*calm emotions* (DC 15), *crushing despair* (DC 17), *good hope*, empowered *sound burst* (DC 15), *stone shape*, *thundering drums* (DC 16)  
+1/day—*arcane concordance*, *fear* (DC 17), *witness* (DC 16)  
 1/week—*dream*, *nightmare* (DC 18)
 
 **Statistics**

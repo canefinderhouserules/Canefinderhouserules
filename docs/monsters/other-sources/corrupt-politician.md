@@ -21,15 +21,15 @@ N Medium humanoid (human)
 **Melee** mwk sap +6 (1d6–1 nonlethal)  
 **Special Attacks** bardic performance 16 rounds/day (countersong, distraction, fascinate (DC 16), mockery –2, satire –2)  
 **Bard Spells Known** (CL 5th; concentration +9)  
-2nd (3/day)—*enter image*<sup>APG</sup>, *honeyed tongue*<sup>APG</sup>, *suggestion* (DC 16)  
-1st (5/day)—*charm person* (DC 15), *disguise self*, *memory lapse*<sup>APG</sup> (DC 15), *vanish*<sup>APG</sup>  
+2nd (3/day)—*enter image*, *honeyed tongue*, *suggestion* (DC 16)  
+1st (5/day)—*charm person* (DC 15), *disguise self*, *memory lapse* (DC 15), *vanish*  
 0 (at will)—*dancing lights*, *daze* (DC 14), *ghost sound* (DC 14), *mage hand*, *message*, *prestidigitation*
 
 **Statistics**
 
 **Str** 8, **Dex** 14, **Con** 12, **Int** 13, **Wis** 10, **Cha** 18  
 **Base Atk** +3; **CMB** +2; **CMD** 14  
-**Feats** [Enforcer<sup>APG</sup>](../../rules/feats/enforcer.md), [Lingering Performance<sup>APG</sup>](../../rules/feats/lingering-performance.md), [Skill Focus (Intimidate)](../../rules/feats/skill-focus.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Enforcer](../../rules/feats/enforcer.md), [Lingering Performance](../../rules/feats/lingering-performance.md), [Skill Focus (Intimidate)](../../rules/feats/skill-focus.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Bluff +14, Diplomacy +16, Disguise +8, Intimidate +15, Knowledge (history) +8, Knowledge (local) +8, Knowledge (nobility) +8, Perception +8, Perform (act) +9, Perform (oratory) +12, Sleight of Hand +7, Stealth +7, Use Magic Device +11  
 **Languages** Common, Halfling  
 **SQ** heraldic expertise +2, versatile performance (oratory), wide audience

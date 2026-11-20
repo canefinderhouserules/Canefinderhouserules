@@ -21,10 +21,10 @@ N Medium monstrous humanoid
 **Melee** 2 claws +9 (1d4) or touch +4 (phrenic disruption)  
 **Special Attacks** phrenic disruption (DC 19)  
 **Spell-Like Abilities** (CL 9th; concentration +14)  
-Constant—*mage hand*, *thought shield I*<sup>OA</sup>, *thoughtsense*<sup>OA</sup>, *tongues*  
+Constant—*mage hand*, *thought shield I*, *thoughtsense*, *tongues*  
 At will—*detect thoughts* (DC 17)  
 **Psychic Magic** (CL 9th; concentration +14)  
-12 PE—*detect magic* (0 PE), *hypercognition*<sup>OA</sup> (2 PE), *instigate psychic duel*<sup>OA</sup> (2 PE, DC 17), *mind thrust II*<sup>OA</sup> (2 PE, DC 17), *mindlink*<sup>OA</sup> (1 PE), *mindscape door*<sup>OA</sup> (3 PE, DC 18), *psychic asylum*<sup>OA</sup> (5 PE), *synaptic pulse*<sup>OA</sup> (3 PE, DC 18), *thought shield III*<sup>OA</sup> (4 PE)
+12 PE—*detect magic* (0 PE), *hypercognition* (2 PE), *instigate psychic duel* (2 PE, DC 17), *mind thrust II* (2 PE, DC 17), *mindlink* (1 PE), *mindscape door* (3 PE, DC 18), *psychic asylum* (5 PE), *synaptic pulse* (3 PE, DC 18), *thought shield III* (4 PE)
 
 **Statistics**
 

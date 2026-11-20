@@ -28,10 +28,10 @@ CE Large humanoid (cold, giant)
 7/day—cold steel (grant weapon or 50 ammunition *frost* weapon special ability for 3 rounds)  
 **Sorcerer Spells Known** (CL 6th; concentration +9)  
 3rd (4/day)—*dispel magic*  
-2nd (6/day)—*frigid touch*<sup>UM</sup>, *ice slick*, *rage* (DC 16)  
+2nd (6/day)—*frigid touch*, *ice slick*, *rage* (DC 16)  
 1st (7/day)—*enlarge person*, *expeditious retreat*, *obscuring mist*, *shield*, *true strike*  
 0 (at will)—*detect magic*, *ghost sound* (DC 13), *flare* (DC 13), *mage hand*, *message*, *ray of frost*, *touch of fatigue* (DC 13)  
-**Bloodline** boreal<sup>APG</sup>
+**Bloodline** boreal
 
 **Tactics**
 

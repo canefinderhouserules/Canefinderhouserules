@@ -27,7 +27,7 @@ N Large construct (augmented, robot)
 
 **Str** 24, **Dex** 20, **Con** —, **Int** 15, **Wis** 11, **Cha** 5  
 **Base Atk** +10; **CMB** +18 (+22 grapple); **CMD** 33  
-**Feats** [Acrobatic Steps](../../rules/feats/acrobatic-steps.md), [Dodge<sup>B</sup>](../../rules/feats/dodge.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Great Fortitude](../../rules/feats/improved-great-fortitude.md), [Mobility<sup>B</sup>](../../rules/feats/mobility.md), [Nimble Moves](../../rules/feats/nimble-moves.md), [Power Attack<sup>B</sup>](../../rules/feats/power-attack.md), [Weapon Focus (drill)](../../rules/feats/weapon-focus.md)  
+**Feats** [Acrobatic Steps](../../rules/feats/acrobatic-steps.md), [Dodge](../../rules/feats/dodge.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Great Fortitude](../../rules/feats/improved-great-fortitude.md), [Mobility](../../rules/feats/mobility.md), [Nimble Moves](../../rules/feats/nimble-moves.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (drill)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +8, Climb +15, Fly +5, Knowledge (engineering) +19, Knowledge (nature) +19, Perception +13, Swim +15; Racial Modifiers +4 Knowledge (engineering), +4 Knowledge (nature)  
 **Languages** Common  
 **SQ** reprogram terrain, tactical awareness, technological wonders, terraform

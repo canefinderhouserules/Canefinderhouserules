@@ -27,7 +27,7 @@ CE Small humanoid (derro)
 At will—*darkness*, *ghost sound* (DC 15)  
 1/day—*daze* (DC 15), *sound burst* (DC 17)  
 **Bard Spells Known** (CL 2nd; concentration +7)  
-1st (4/day)—*cause fear* (DC 16), *memory lapse*<sup>APG</sup> (DC 16), *sleep* (DC 16)  
+1st (4/day)—*cause fear* (DC 16), *memory lapse* (DC 16), *sleep* (DC 16)  
 0 (at will)—*detect magic*, *flare* (DC 15), *lullaby* (DC 15), *mage hand*, *message*
 
 **Statistics**
@@ -38,7 +38,7 @@ At will—*darkness*, *ghost sound* (DC 15)
 **Skills** Acrobatics +8 (+4 when jumping), Bluff +12, Disguise +10, Escape Artist +7, Knowledge (geography) +6, Knowledge (local) +6, Linguistics +5, Perception +2, Perform (oratory) +13, Stealth +12, Use Magic Device +11  
 **Languages** Aklo, Common, Undercommon  
 **SQ** bardic knowledge +1, madness, poison use, versatile performance (oratory)  
-**Combat Gear**  *wand of charm person* (15 charges), *wand of hold person* (8 charges), *wand of modify memory* (12 charges), medium spider venom (5 doses), striped toadstool (5 doses); **Other Gear** mwk chain shirt, aklys<sup>UC</sup>, repeating light crossbow with 20 mwk bolts
+**Combat Gear**  *wand of charm person* (15 charges), *wand of hold person* (8 charges), *wand of modify memory* (12 charges), medium spider venom (5 doses), striped toadstool (5 doses); **Other Gear** mwk chain shirt, aklys, repeating light crossbow with 20 mwk bolts
 
 **Ecology**
 

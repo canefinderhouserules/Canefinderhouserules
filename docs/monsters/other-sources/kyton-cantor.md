@@ -21,8 +21,8 @@ LE Small outsider (evil, extraplanar, kyton, lawful)
 **Melee** 2 claws +16 (1d3+2 plus grab and lingering touch), bite +16 (1d4+2)  
 **Special Attacks** lingering touch, oneiric invasion, unnerving gaze (DC 18)  
 **Spell-Like Abilities** (CL 9th; concentration +12)  
-3/day—*ego whip I*<sup>OA</sup> (DC 16), *nightmare* (DC 18), *paranoia*<sup>OA</sup> (DC 15)  
-1/day—*shadow body*<sup>OA</sup>
+3/day—*ego whip I* (DC 16), *nightmare* (DC 18), *paranoia* (DC 15)  
+1/day—*shadow body*
 
 **Statistics**
 
@@ -40,10 +40,10 @@ LE Small outsider (evil, extraplanar, kyton, lawful)
 
 **Special Abilities**
 
-**Lingering Touch (Su)** The touch of a cantor is supernaturally toxic, lingering in its victim’s mind like a poison. Any creature damaged by a cantor must succeed at a Will saving throw or vividly feel the pain of the kyton’s claws. The memory is so real, the victim continues to take damage. Multiple attacks increase the DC of this effect, as with any other poison. Any form of magical healing or spells like psychic surgery<sup>OA</sup> end this effect immediately, but remove poison has no effect. Creatures that are immune to mind-affecting effects are immune to this ability.
+**Lingering Touch (Su)** The touch of a cantor is supernaturally toxic, lingering in its victim’s mind like a poison. Any creature damaged by a cantor must succeed at a Will saving throw or vividly feel the pain of the kyton’s claws. The memory is so real, the victim continues to take damage. Multiple attacks increase the DC of this effect, as with any other poison. Any form of magical healing or spells like psychic surgery end this effect immediately, but remove poison has no effect. Creatures that are immune to mind-affecting effects are immune to this ability.
 
 *Lingering Touch*: Claw—injury; *save* Will DC 20; *frequency* 1/round for 10 rounds; *effect* 1d3 damage; *cure* 2 consecutive saves. The save DC is Wisdom-based.
 
-**Oneiric Invasion (Su)** Once per minute, a cantor can unleash a soundless scream. All foes within 30 feet must succeed at a DC 20 Will saving throw or be affected as per the spell *oneiric horror*<sup>OA</sup>. Those who fail believe the cantor has grown even more terrifying and is making a direct assault against them. At the same moment, the cantor becomes invisible, as per *improved invisibility*. This invisibility lasts for as long as at least one creature is affected by the cantor’s *oneiric horror* effect. If no creature fails its saving throw, the cantor remains visible. Those who succeed at their saving throws are immune to the same cantor’s oneiric invasion for 24 hours. Creatures that are immune to mind-affecting effects are immune to this ability. The save DC is Wisdom-based.
+**Oneiric Invasion (Su)** Once per minute, a cantor can unleash a soundless scream. All foes within 30 feet must succeed at a DC 20 Will saving throw or be affected as per the spell *oneiric horror*. Those who fail believe the cantor has grown even more terrifying and is making a direct assault against them. At the same moment, the cantor becomes invisible, as per *improved invisibility*. This invisibility lasts for as long as at least one creature is affected by the cantor’s *oneiric horror* effect. If no creature fails its saving throw, the cantor remains visible. Those who succeed at their saving throws are immune to the same cantor’s oneiric invasion for 24 hours. Creatures that are immune to mind-affecting effects are immune to this ability. The save DC is Wisdom-based.
 
 **Unnerving Gaze (Su)** Those who fail their saves are telepathically wracked by agonizing pain that imposes a –4 penalty on their attack rolls, skill checks, and ability checks. This penalty lasts for 1d4 rounds. This is a mind-affecting fear effect. The save DC is Charisma-based.

@@ -24,7 +24,7 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Special Attacks** betrayer’s blade, disrupt coordination  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
 At will—*alter self*, *greater teleport* (self plus 50 pounds of objects only), *lesser confusion* (DC 13)  
-3/day—*murderous command*<sup>UM</sup> (DC 13)
+3/day—*murderous command* (DC 13)
 
 **Statistics**
 

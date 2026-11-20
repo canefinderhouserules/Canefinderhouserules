@@ -30,7 +30,7 @@ At will—*create water*, *prestidigitation*
 
 **Str** 7, **Dex** 13, **Con** 12, **Int** 10, **Wis** 13, **Cha** 8  
 **Base Atk** +0; **CMB** –1; **CMD** 7  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Climb +9, Escape Artist +5, Handle Animal +4, Perception +5, Stealth +13, Swim +13, Use Magic Device +3; **Racial Modifiers** +4 Handle Animal  
 **Languages** Aquan  
 **SQ** amphibious

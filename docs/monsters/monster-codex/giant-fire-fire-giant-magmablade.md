@@ -25,12 +25,12 @@ LE Large humanoid (fire, giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** greater spell combat, heated rock, improved spell combat, rock throwing (120 ft.), spell combat (–2 attack, +2 concentration, double bonus), spellstrike  
 **Magus Spells Prepared** (CL 14th; concentration +19)  
-5th—*geyser*<sup>APG</sup> (DC 20), *telekinesis* (DC 20), *wall of stone* (DC 20)  
-4th—*arcana theft*<sup>UM</sup>, *ball lightning*<sup>APG</sup> (DC 19), *black tentacles*, *stoneskin*, *wall of fire*  
+5th—*geyser* (DC 20), *telekinesis* (DC 20), *wall of stone* (DC 20)  
+4th—*arcana theft*, *ball lightning* (DC 19), *black tentacles*, *stoneskin*, *wall of fire*  
 3rd—*blink*, *dispel magic*, *fireball* (DC 18), *flame arrow*, *fly*  
-2nd—*alter self*, *blur*, *effortless armor*<sup>UC</sup>, *elemental touch*<sup>APG</sup> (DC 17), *invisibility*, *scorching ray*  
-1st—*burning hands* (DC 16), *enlarge person* (DC 16), *expeditious retreat*, *flare burst*<sup>APG</sup> (DC 16), *magic missile*, *mirror strike*<sup>UC</sup>, *reduce person* (DC 16)  
-0 (at will)—*acid splash*, *detect magic*, *flare* (DC 15), *light*, *spark*<sup>APG</sup>
+2nd—*alter self*, *blur*, *effortless armor*, *elemental touch* (DC 17), *invisibility*, *scorching ray*  
+1st—*burning hands* (DC 16), *enlarge person* (DC 16), *expeditious retreat*, *flare burst* (DC 16), *magic missile*, *mirror strike*, *reduce person* (DC 16)  
+0 (at will)—*acid splash*, *detect magic*, *flare* (DC 15), *light*, *spark*
 
 **Tactics**
 
@@ -42,11 +42,11 @@ LE Large humanoid (fire, giant)
 
 **Str** 36, **Dex** 11, **Con** 19, **Int** 20, **Wis** 16, **Cha** 10  
 **Base Atk** +21; **CMB** +35 (+37 overrun, +37 sunder); **CMD** 46 (48 vs. overrun, 48 vs. sunder)  
-**Feats** [Burning Spell<sup>UM</sup>](../../rules/feats/burning-spell.md), [Cleave](../../rules/feats/cleave.md), [Combat Casting](../../rules/feats/combat-casting.md), [Critical Focus](../../rules/feats/critical-focus.md), [Disruptive](../../rules/feats/disruptive.md), [Great Cleave](../../rules/feats/great-cleave.md), [Improved Critical (battleaxe)](../../rules/feats/improved-critical.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), [Maximize Spell](../../rules/feats/maximize-spell.md), [Power Attack](../../rules/feats/power-attack.md), [Quicken Spell](../../rules/feats/quicken-spell.md), [Staggering Critical](../../rules/feats/staggering-critical.md), [Stunning Critical](../../rules/feats/stunning-critical.md), [Weapon Focus (battleaxe)](../../rules/feats/weapon-focus.md), [Weapon Specialization (battleaxe)](../../rules/feats/weapon-specialization.md)  
+**Feats** [Burning Spell](../../rules/feats/burning-spell.md), [Cleave](../../rules/feats/cleave.md), [Combat Casting](../../rules/feats/combat-casting.md), [Critical Focus](../../rules/feats/critical-focus.md), [Disruptive](../../rules/feats/disruptive.md), [Great Cleave](../../rules/feats/great-cleave.md), [Improved Critical (battleaxe)](../../rules/feats/improved-critical.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), [Maximize Spell](../../rules/feats/maximize-spell.md), [Power Attack](../../rules/feats/power-attack.md), [Quicken Spell](../../rules/feats/quicken-spell.md), [Staggering Critical](../../rules/feats/staggering-critical.md), [Stunning Critical](../../rules/feats/stunning-critical.md), [Weapon Focus (battleaxe)](../../rules/feats/weapon-focus.md), [Weapon Specialization (battleaxe)](../../rules/feats/weapon-specialization.md)  
 **Skills** Climb +41, Craft (weapons) +37, Fly +26, Intimidate +32, Knowledge (arcana) +15, Perception +35, Spellcraft +37, Use Magic Device +32  
 **Languages** Common, Draconic, Giant, Infernal, Orc  
 **SQ** arcane pool (12 points, +4), fighter training (fighter level 7), heavy armor proficiency, improved spell recall, knowledge pool, magus arcana (arcane edge, critical strike, maximized magic, spell shield), medium armor proficiency  
-**Combat Gear**  *potions of cure serious wounds* (2), *scroll of bear’s endurance*, *scroll of haste*, *scrolls of shield* (2), *wand of true strike* (50 charges); **Other Gear** *+3 spell storing stone coat*<sup>UC</sup> (*scorching ray*), *+1 dispelling*<sup>UE</sup> *keen battleaxe*, *amulet of natural armor +2*, *cloak of resistance +1*, *headband of vast intelligence +4*, *pearl of power* (3rd level), *ring of protection +1*, granite and diamond dust worth 250 gp
+**Combat Gear**  *potions of cure serious wounds* (2), *scroll of bear’s endurance*, *scroll of haste*, *scrolls of shield* (2), *wand of true strike* (50 charges); **Other Gear** *+3 spell storing stone coat* (*scorching ray*), *+1 dispelling* *keen battleaxe*, *amulet of natural armor +2*, *cloak of resistance +1*, *headband of vast intelligence +4*, *pearl of power* (3rd level), *ring of protection +1*, granite and diamond dust worth 250 gp
 
 **Ecology**
 

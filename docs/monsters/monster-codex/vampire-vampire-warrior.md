@@ -33,11 +33,11 @@ LE Medium undead (augmented humanoid, vishkanya)
 
 **Str** 20, **Dex** 20, **Con** —, **Int** 10, **Wis** 15, **Cha** 18  
 **Base Atk** +7; **CMB** +12; **CMD** 28  
-**Feats** [Alertness<sup>B</sup>](../../rules/feats/alertness.md), [Cleave](../../rules/feats/cleave.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge<sup>B</sup>](../../rules/feats/dodge.md), [Exotic Weapon Proficiency (katana)](../../rules/feats/exotic-weapon-proficiency.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Mobility<sup>B</sup>](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), [Quick Draw](../../rules/feats/quick-draw.md), [Skill Focus (Acrobatics)<sup>B</sup>](../../rules/feats/skill-focus.md), [Spring Attack<sup>B</sup>](../../rules/feats/spring-attack.md), [Weapon Focus (katana)](../../rules/feats/weapon-focus.md), [Weapon Specialization (katana)](../../rules/feats/weapon-specialization.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Cleave](../../rules/feats/cleave.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Exotic Weapon Proficiency (katana)](../../rules/feats/exotic-weapon-proficiency.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), [Quick Draw](../../rules/feats/quick-draw.md), [Skill Focus (Acrobatics)](../../rules/feats/skill-focus.md), [Spring Attack](../../rules/feats/spring-attack.md), [Weapon Focus (katana)](../../rules/feats/weapon-focus.md), [Weapon Specialization (katana)](../../rules/feats/weapon-specialization.md)  
 **Skills** Acrobatics +12, Craft (calligraphy) +4, Craft (paintings) +4, Escape Artist +3, Knowledge (local) +2, Knowledge (nobility) +2, Perception +21, Sense Motive +4, Stealth +12; **Racial Modifiers** +8 Acrobatics, +8 Perception, +10 Stealth  
 **Languages** Common, Vishkanya  
 **SQ** armor training 2, poison use, toxic (4/day)  
-**Combat Gear**  *oil of keen edge*, *potion of bull’s strength*, *potion of fly*, *potion of haste*, *potion of inflict moderate wounds*, *potion of invisibility*; **Other Gear** o-yoroi<sup>UE</sup>, mwk katana, shuriken (20), *brooch of shielding* (50 points), *scabbard of vigor*<sup>UE</sup>, 46 gp
+**Combat Gear**  *oil of keen edge*, *potion of bull’s strength*, *potion of fly*, *potion of haste*, *potion of inflict moderate wounds*, *potion of invisibility*; **Other Gear** o-yoroi, mwk katana, shuriken (20), *brooch of shielding* (50 points), *scabbard of vigor*, 46 gp
 
 **Ecology**
 

@@ -25,8 +25,8 @@ CE Medium aberration (chaotic, evil, Great Old One)
 **Spell-Like Abilities** (CL 29th; concentration +42)  
 Constant—*air walk*, *freedom of movement*, *tongues*, *true seeing*  
 At will—*astral projection*, *dimension door*<sup>M</sup>, *dream*<sup>M</sup>, *enervation*<sup>M</sup>, *greater dispel magic*, *insanity* (DC 30), *mirage arcana* (DC 28), *nightmare*<sup>M</sup> (DC 28), *sending*<sup>M</sup>, *veil*, *wish*<sup>M</sup> (see below)  
-3/day—*demand* (DC 31), quickened *feeblemind*, *interplanetary teleport*<sup>UM</sup>, *mass suggestion* (DC 29), *project image* (DC 30)  
-1/day—*symbol of death* (DC 31), *symbol of fear* (DC 29), *symbol of insanity* (DC 31), *symbol of pain* (DC 28), *symbol of persuasion* (DC 29), *symbol of strife*<sup>UM</sup> (DC 32), *symbol of stunning* (DC 30), *symbol of weakness* (DC 30)
+3/day—*demand* (DC 31), quickened *feeblemind*, *interplanetary teleport*, *mass suggestion* (DC 29), *project image* (DC 30)  
+1/day—*symbol of death* (DC 31), *symbol of fear* (DC 29), *symbol of insanity* (DC 31), *symbol of pain* (DC 28), *symbol of persuasion* (DC 29), *symbol of strife* (DC 32), *symbol of stunning* (DC 30), *symbol of weakness* (DC 30)
 
 **Statistics**
 

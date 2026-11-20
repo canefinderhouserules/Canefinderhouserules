@@ -21,14 +21,14 @@ NE Medium outsider (native)
 **Speed** 20 ft.  
 **Melee** *+1 vicious rhoka sword* +16/+11 (1d8+7/15–20 plus 2d6), bite +9 (1d4+3 plus 2 Str) or bite +14 (1d4+6 plus 2 Str)  
 **Ranged**  dagger +11 (1d4+6/19–20)  
-**Special Attacks** arcane pool (+2, 7 points), blood drain (1 Con), magus arcana (empowered magic<sup>UM</sup>, lingering pain<sup>UC</sup>), spell combat, spell recall, spellstrike, strength damage  
+**Special Attacks** arcane pool (+2, 7 points), blood drain (1 Con), magus arcana (empowered magic, lingering pain), spell combat, spell recall, spellstrike, strength damage  
 **Spell-Like Abilities** (CL 3rd; concentration +4)  
 At will—*feather fall*  
 3/day—*align weapon*, *death knell* (DC 12), *ray of enfeeblement* (DC 12)  
 **Magus Spells Prepared** (CL 7th; concentration +11)  
 3rd—*dispel magic*, *haste*  
 2nd—*glitterdust* (DC 16), *scorching ray*, *shatter* (DC 16), *spider climb*  
-1st—*shield*, *shocking grasp* (2), *true strike*, *vanish*<sup>APG</sup> (DC 15)  
+1st—*shield*, *shocking grasp* (2), *true strike*, *vanish* (DC 15)  
 0 (at will)—*daze* (DC 14), *detect magic*, *ghost sound* (DC 14), *mage hand*, *read magic*
 
 **Statistics**
@@ -39,4 +39,4 @@ At will—*feather fall*
 **Skills** Intimidate +7, Knowledge (dungeoneering, planes, religion) +17, Perception +14, Ride +5, Sense Motive +7, Spellcraft +17, Survival +7, Use Magic Device +14  
 **Languages** Abyssal, Aklo, Sunken Empire, Infernal, Undercommon  
 **SQ** daemonic pact, knowledge pool, medium armor  
-**Combat Gear**  *scroll of animate dead*, *scroll of inflict critical wounds*; **Other Gear** *+1 chainmail*, *+1 vicious rhoka sword*<sup>UE</sup>, daggers (5), *belt of mighty constitution +2*
+**Combat Gear**  *scroll of animate dead*, *scroll of inflict critical wounds*; **Other Gear** *+1 chainmail*, *+1 vicious rhoka sword*, daggers (5), *belt of mighty constitution +2*

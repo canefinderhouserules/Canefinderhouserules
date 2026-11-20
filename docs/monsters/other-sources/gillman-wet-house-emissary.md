@@ -25,18 +25,18 @@ N Medium humanoid (aquatic)
 **Special Attacks** studied combat (+3, 3 rounds), studied strike +2d6  
 **Investigator Extracts Prepared** (CL 7th; concentration +10)  
 3rd—*nondetection*, *tongues*  
-2nd—*barkskin*, *eagle’s splendor*, *focused scrutiny*<sup>ACG</sup>, *investigative mind*<sup>ACG</sup>  
-1st—*blurred movement*<sup>ACG</sup>, *cure light wounds*, *disguise self*, *heightened awareness*<sup>ACG</sup>, *shield*
+2nd—*barkskin*, *eagle’s splendor*, *focused scrutiny*, *investigative mind*  
+1st—*blurred movement*, *cure light wounds*, *disguise self*, *heightened awareness*, *shield*
 
 **Statistics**
 
 **Str** 12, **Dex** 8, **Con** 12, **Int** 16, **Wis** 14, **Cha** 14  
 **Base Atk** +6; **CMB** +7; **CMD** 16  
-**Feats** [Deceitful](../../rules/feats/deceitful.md), [Deft Hands](../../rules/feats/deft-hands.md), [Extra Investigator Talent<sup>ACG</sup>](../../rules/feats/extra-investigator-talent.md), [Focused Inspiration<sup>ACG</sup>](../../rules/feats/focused-inspiration.md), [Persuasive](../../rules/feats/persuasive.md)  
+**Feats** [Deceitful](../../rules/feats/deceitful.md), [Deft Hands](../../rules/feats/deft-hands.md), [Extra Investigator Talent](../../rules/feats/extra-investigator-talent.md), [Focused Inspiration](../../rules/feats/focused-inspiration.md), [Persuasive](../../rules/feats/persuasive.md)  
 **Skills** Bluff +16, Diplomacy +16, Disable Device +13, Disguise +11, Intimidate +8, Knowledge (arcana) +10, Knowledge (geography) +8, Knowledge (history) +10, Knowledge (local) +10, Knowledge (nobility) +10, Perception +12, Sense Motive +12, Sleight of Hand +13, Stealth +7, Swim +13  
 **Languages** Aboleth, Aklo, Aquan, Common, Draconic  
 **SQ** a quiet word, alchemy (alchemy crafting +7), amphibious, inspiration (6/day), investigator talents (charmer, coax information, empathy, underworld inspiration), keen recollection, mastermind defense, poison lore, servitor  
-**Combat Gear**  *potions of cure moderate wounds* (2), *potion of invisibility*, *potion of shield of faith*; **Other Gear** *+1 leather armor*, *+1 sword cane*<sup>UE</sup>, mwk light crossbow, *cloak of resistance +1*, disguise kit, formula book (contains all prepared extracts, plus an additional three 1st-level and two 2nd-level extracts of the GM’s choice), mwk thieves’ tools
+**Combat Gear**  *potions of cure moderate wounds* (2), *potion of invisibility*, *potion of shield of faith*; **Other Gear** *+1 leather armor*, *+1 sword cane*, mwk light crossbow, *cloak of resistance +1*, disguise kit, formula book (contains all prepared extracts, plus an additional three 1st-level and two 2nd-level extracts of the GM’s choice), mwk thieves’ tools
 
 **Ecology**
 

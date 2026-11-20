@@ -23,7 +23,7 @@ LE Medium humanoid (human)
 **Special Attacks** improved spell combat, spell combat (–2 attack, +2 concentration), spellstrike  
 **Magus Spells Prepared** (CL 8th; concentration +12)  
 3rd—*arcane sight*, *dispel magic*, *vampiric touch*  
-2nd—*bear’s endurance*, *blur*, *elemental touch*<sup>APG</sup> (DC 14), *invisibility*, *scorching ray*  
+2nd—*bear’s endurance*, *blur*, *elemental touch* (DC 14), *invisibility*, *scorching ray*  
 1st—*burning hands* (DC 13), *magic missile*, *ray of enfeeblement* (DC 13), *shield*, *true strike*  
 0 (at will)—*arcane mark*, *detect magic*, *light*, *open/close*, *read magic*
 
@@ -31,7 +31,7 @@ LE Medium humanoid (human)
 
 **Str** 14, **Dex** 10, **Con** 12, **Int** 18, **Wis** 8, **Cha** 14  
 **Base Atk** +6; **CMB** +8; **CMD** 19  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Casting](../../rules/feats/combat-casting.md), [Extra Arcana<sup>UM</sup>](../../rules/feats/extra-arcana.md), [Skill Focus (Intimidate)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (heavy mace)](../../rules/feats/weapon-focus.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Casting](../../rules/feats/combat-casting.md), [Extra Arcana](../../rules/feats/extra-arcana.md), [Skill Focus (Intimidate)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (heavy mace)](../../rules/feats/weapon-focus.md)  
 **Skills** Diplomacy +6, Intimidate +16, Knowledge (arcana) +15, Knowledge (local) +12, Knowledge (nobility) +8, Perception +9, Sense Motive +9, Spellcraft +15  
 **Languages** Common, Halfling, Infernal, Osiriani, Shadowtongue  
 **SQ** arcane pool (8 points, +2), knowledge pool, magus arcana (arcane accuracy, empowered magic, spell shield), medium armor proficiency, spell recall  

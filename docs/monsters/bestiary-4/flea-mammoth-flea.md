@@ -26,7 +26,7 @@ N Large vermin
 
 **Str** 13, **Dex** 17, **Con** 13, **Int** —, **Wis** 11, **Cha** 6  
 **Base Atk** +3; **CMB** +6; **CMD** 19  
-**Feats** [Dodge<sup>B</sup>](../../rules/feats/dodge.md)  
+**Feats** [Dodge](../../rules/feats/dodge.md)  
 **Skills** Acrobatics +0 (+20 when jumping); **Racial Modifiers** +20 Acrobatics when jumping  
 **SQ** uncanny leap (see giant flea)
 

@@ -22,7 +22,7 @@ NG Medium outsider (agathion, extraplanar, good)
 **Special Attacks** powerful charge (gore +11, 2d6+3)  
 **Spell-Like Abilities** (CL 6th; concentration +8)  
 Constant— *freedom of movement*, *speak with animals*  
-At will—*animal trance* (DC 13), *liberating command*<sup>APG</sup>, *message*, *remove paralysis*  
+At will—*animal trance* (DC 13), *liberating command*, *message*, *remove paralysis*  
 3/day—*knock*, *protection from evil*, *summon nature’s ally III* (1 aurochs or 1d3 stags only)  
 1/day—*break enchantment*, *seeming*
 

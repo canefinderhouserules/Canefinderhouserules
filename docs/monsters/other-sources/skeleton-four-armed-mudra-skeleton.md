@@ -24,5 +24,5 @@ NE Medium undead
 
 **Str** 15, **Dex** 16, **Con** &mdash;, **Int** &mdash;, **Wis** 10, **Cha** 10  
 **Base Atk** +0; **CMB** +2; **CMD** 15  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), Multiweapon Fighting<sup>B</sup>, [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), Multiweapon Fighting, [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Gear** 4 short swords

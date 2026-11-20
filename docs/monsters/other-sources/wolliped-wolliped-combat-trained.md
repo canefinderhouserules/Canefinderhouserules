@@ -25,7 +25,7 @@ N Large animal
 
 **Str** 18, **Dex** 14, **Con** 17, **Int** 2, **Wis** 11, **Cha** 3  
 **Base Atk** +3; **CMB** +8 (+10 bull rush); **CMD** 20 (22 vs. bull rush, 32 vs. trip)  
-**Feats** [Endurance<sup>B</sup>](../../rules/feats/endurance.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Endurance](../../rules/feats/endurance.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Power Attack](../../rules/feats/power-attack.md)  
 **Skills** Climb +8, Perception +6
 
 **Ecology**

@@ -25,16 +25,16 @@ CE Large outsider (azata, chaotic, extraplanar, evil)
 3/day—*darkness*, *hallucinatory terrain* (DC 19), *knock*, *light*  
 1/day—*charm person* (DC 16), *speak with animals*, *speak with plants*  
 **Bard Spells Known** (CL 7th; concentration +2)  
-3rd (2/day)—*crushing despair* (DC 18), *terrible remorse*<sup>UM</sup> (DC 18)  
-2nd (4/day)—*blindness/deafness* (DC 17), *piercing shriek*<sup>UM</sup> (DC 17), *rage*, *suggestion* (DC 17)  
-1st (6/day)—*cause fear* (DC 16), *charm person* (DC 16), *ear-piercing scream*<sup>UM</sup> (DC 16), *hideous laughter* (DC 16), *lesser confusion* (DC 16)  
+3rd (2/day)—*crushing despair* (DC 18), *terrible remorse* (DC 18)  
+2nd (4/day)—*blindness/deafness* (DC 17), *piercing shriek* (DC 17), *rage*, *suggestion* (DC 17)  
+1st (6/day)—*cause fear* (DC 16), *charm person* (DC 16), *ear-piercing scream* (DC 16), *hideous laughter* (DC 16), *lesser confusion* (DC 16)  
 0 (at will)—*dancing lights*, *daze* (DC 15), *detect magic*, *ghost sound* (DC 15), *read magic*, *resistance*
 
 **Statistics**
 
 **Str** 20, **Dex** 17, **Con** 27, **Int** 14, **Wis** 8, **Cha** 21  
 **Base Atk** +7; **CMB** +13 (+17 grapple); **CMD** 26 (can’t be tripped)  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Diehard<sup>B</sup>](../../rules/feats/diehard.md), [Endurance<sup>B</sup>](../../rules/feats/endurance.md), [Great Fortitude<sup>B</sup>](../../rules/feats/great-fortitude.md), Hover, [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Diehard](../../rules/feats/diehard.md), [Endurance](../../rules/feats/endurance.md), [Great Fortitude](../../rules/feats/great-fortitude.md), Hover, [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Bluff +15, Fly +11, Intimidate +13, Knowledge (nature) +9, Perception +9, Perform (string) +17, Sense Motive +9, Stealth +9, Survival +10; **Racial Modifiers** +8 Intimidate, +4 Survival  
 **Languages** Celestial, Draconic, Infernal; truespeech
 

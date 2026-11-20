@@ -22,9 +22,9 @@ LE Medium monstrous humanoid
 **Special Attacks** choke on cinders  
 **Spell-Like Abilities** (CL 8th; concentration +11; save DCs are Int-based)  
 Constant—*pass without trace*, *tongues*  
-At will—*alter self*, *beguiling gift*<sup>APG</sup> (DC 14), *burning hands* (DC 14), *detect magic*, *infernal healing*<sup>ISWG</sup>  
-3/day—*burning gaze*<sup>APG</sup> (DC 15), *feast of ashes*<sup>APG</sup> (DC 15), *inflict moderate wounds* (DC 15), *invisibility* (self only)  
-1/day—*ash storm*<sup>UM</sup>, *cup of dust*<sup>APG</sup> (DC 16), *inflict serious wounds* (DC 17), *phantasmal killer* (DC 17)
+At will—*alter self*, *beguiling gift* (DC 14), *burning hands* (DC 14), *detect magic*, *infernal healing*  
+3/day—*burning gaze* (DC 15), *feast of ashes* (DC 15), *inflict moderate wounds* (DC 15), *invisibility* (self only)  
+1/day—*ash storm*, *cup of dust* (DC 16), *inflict serious wounds* (DC 17), *phantasmal killer* (DC 17)
 
 **Statistics**
 

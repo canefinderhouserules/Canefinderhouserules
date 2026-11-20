@@ -27,8 +27,8 @@ CE Medium humanoid (goblinoid)
 At will—*detect good*  
 **Antipaladin Spells Prepared** (CL 9th; concentration +11)  
 3rd—*isolate* (DC 15)  
-2nd—*corruption resistance*<sup>APG</sup>, *litany of warding*<sup>UC</sup>, *scare* (DC 14)  
-1st—*disguise self*, *litany of sloth*<sup>UC</sup>, *litany of weakness*<sup>UC</sup>
+2nd—*corruption resistance*, *litany of warding*, *scare* (DC 14)  
+1st—*disguise self*, *litany of sloth*, *litany of weakness*
 
 **Tactics**
 

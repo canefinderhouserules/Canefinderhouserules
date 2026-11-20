@@ -27,5 +27,5 @@ N Tiny construct (clockwork)
 
 **Str** 6, **Dex** 14, **Con** —, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +1; **CMB** +1; **CMD** 11  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **SQ** difficult to create, swift reflexes, winding

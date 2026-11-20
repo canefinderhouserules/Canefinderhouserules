@@ -24,14 +24,14 @@ NE Large undead (evil, extraplanar, herald)
 **Special Attacks** breath weapon (60-ft. cone, 15d6 negative energy, Reflex DC 25 for half, usable every 1d4 rounds), channel negative energy 9/day (DC 19, 6d6), devour soul, disease, swallow whole (special, AC 17, 20 hp)  
 **Spell-Like Abilities** (CL 15th; concentration +21)  
 Constant—*desecrate*  
-At will—*contagion* (DC 20), *dimension door*, *ghoul hunger* (DC 18), *inflict critical wounds* (DC 20), quickened *vomit swarm*<sup>APG</sup> (maggots, use army ant swarm)  
+At will—*contagion* (DC 20), *dimension door*, *ghoul hunger* (DC 18), *inflict critical wounds* (DC 20), quickened *vomit swarm* (maggots, use army ant swarm)  
 1/day—*animate dead*, *create undead*, *eyebite* (DC 22), *plane shift* (DC 22)
 
 **Statistics**
 
 **Str** 33, **Dex** 25, **Con** —, **Int** 21, **Wis** 20, **Cha** 22  
 **Base Atk** +13; **CMB** +25; **CMD** 42 (can’t be tripped)  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Command Undead<sup>B</sup>](../../rules/feats/command-undead.md), [Critical Focus](../../rules/feats/critical-focus.md), [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Staggering Critical](../../rules/feats/staggering-critical.md), [Stunning Critical<sup>B</sup>](../../rules/feats/stunning-critical.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Command Undead](../../rules/feats/command-undead.md), [Critical Focus](../../rules/feats/critical-focus.md), [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Staggering Critical](../../rules/feats/staggering-critical.md), [Stunning Critical](../../rules/feats/stunning-critical.md)  
 **Skills** Acrobatics +25, Fly +26, Intimidate +27, Knowledge (planes) +23, Knowledge (religion) +26, Perception +26, Profession (cook) +23, Sense Motive +26, Stealth +24  
 **Languages** Abyssal, Common, Infernal, Necril  
 **SQ** deathless

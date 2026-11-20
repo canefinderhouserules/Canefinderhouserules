@@ -27,11 +27,11 @@ LN Medium humanoid (human)
 
 **Str** 12, **Dex** 17, **Con** 14, **Int** 14, **Wis** 10, **Cha** 8  
 **Base Atk** +6; **CMB** +7 (+9 disarm); **CMD** 20 (22 vs. disarm)  
-**Feats** Aldori Dueling Mastery<sup>ISWG</sup>, [Combat Expertise](../../rules/feats/combat-expertise.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Exotic Weapon Proficiency (Aldori dueling sword)](../../rules/feats/exotic-weapon-proficiency.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (Aldori dueling sword)](../../rules/feats/weapon-focus.md), [Weapon Specialization (Aldori dueling sword)](../../rules/feats/weapon-specialization.md)  
+**Feats** Aldori Dueling Mastery, [Combat Expertise](../../rules/feats/combat-expertise.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Exotic Weapon Proficiency (Aldori dueling sword)](../../rules/feats/exotic-weapon-proficiency.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (Aldori dueling sword)](../../rules/feats/weapon-focus.md), [Weapon Specialization (Aldori dueling sword)](../../rules/feats/weapon-specialization.md)  
 **Skills** Acrobatics +11, Bluff +7, Diplomacy +7, Intimidate +7, Knowledge (nobility) +10, Sense Motive +8  
 **Languages** Common, Hallit, Orc  
 **SQ** deft strike  
-**Combat Gear**  *potions of cure light wounds* (2); **Other Gear** *+1 studded leather*, *+1 Aldori dueling sword*<sup>ISWG</sup>, dagger, *cloak of resistance +1*, cold weather outfit, 45 gp
+**Combat Gear**  *potions of cure light wounds* (2); **Other Gear** *+1 studded leather*, *+1 Aldori dueling sword*, dagger, *cloak of resistance +1*, cold weather outfit, 45 gp
 
 **Special Abilities**
 

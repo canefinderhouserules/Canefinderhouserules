@@ -22,9 +22,9 @@ NE Medium humanoid (giant)
 **Special Attacks** hexes (blight [100 feet], cackle, coven, disguise [10 hours], evil eye [–4, 6 rounds], hag’s eye [10 minutes/day], misfortune [2 rounds])  
 **Witch Spells Prepared** (CL 10th; concentration +13)  
 5th—*baleful polymorph* (DC 18), *dominate person* (DC 18)  
-4th—*dimension door*, *phantasmal killer* (DC 17), *spite*<sup>APG</sup>  
-3rd—*bestow curse* (DC 16), *pain strike*<sup>APG</sup> (DC 16), *stinking cloud* (DC 16), *water breathing*  
-2nd—*alter self*, *blindness/deafness*, *fester*<sup>APG</sup> (DC 15), *vomit swarm*<sup>APG</sup>, *web* (DC 15)  
+4th—*dimension door*, *phantasmal killer* (DC 17), *spite*  
+3rd—*bestow curse* (DC 16), *pain strike* (DC 16), *stinking cloud* (DC 16), *water breathing*  
+2nd—*alter self*, *blindness/deafness*, *fester* (DC 15), *vomit swarm*, *web* (DC 15)  
 1st—*cause fear* (DC 14), *charm person* (DC 14), *mage armor*, *obscuring mist*, *ray of enfeeblement* (DC 14)  
 0 (at will)—*bleed* (DC 13), *detect magic*, *detect poison*, *purify food and drink*  
 **Patron** Water
@@ -33,7 +33,7 @@ NE Medium humanoid (giant)
 
 **Str** 14, **Dex** 12, **Con** 15, **Int** 17, **Wis** 16, **Cha** 10  
 **Base Atk** +5; **CMB** +7; **CMD** 19  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Deceitful](../../rules/feats/deceitful.md), [Extra Hex<sup>APG</sup>](../../rules/feats/extra-hex.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Deceitful](../../rules/feats/deceitful.md), [Extra Hex](../../rules/feats/extra-hex.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Bluff +14, Craft (alchemy) +8, Disguise +2, Fly +9, Intimidate +13, Knowledge (arcana) +11, Knowledge (history) +7, Knowledge (nature) +7, Perception +7, Spellcraft +12, Use Magic Device +9  
 **Languages** Aquan, Common, Giant  
 **SQ** deformities (obese, webbed fingers), green widow, familiar (toad)  

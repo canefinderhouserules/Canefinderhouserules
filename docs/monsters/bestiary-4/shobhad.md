@@ -26,7 +26,7 @@ N Large monstrous humanoid
 
 **Str** 20, **Dex** 13, **Con** 18, **Int** 10, **Wis** 11, **Cha** 13  
 **Base Atk** +5; **CMB** +11; **CMD** 22  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Multiweapon Fighting, [Weapon Focus<sup>B</sup> (shobhad longrifle)](../../rules/feats/weapon-focus.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Multiweapon Fighting, [Weapon Focus (shobhad longrifle)](../../rules/feats/weapon-focus.md)  
 **Skills** Intimidate +9, Perception +8, Stealth +2, Survival +8  
 **Languages** Giant
 

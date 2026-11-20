@@ -27,11 +27,11 @@ N Small humanoid (ratfolk)
 
 **Str** 11, **Dex** 17, **Con** 12, **Int** 12, **Wis** 14, **Cha** 8  
 **Base Atk** +3; **CMB** +2; **CMD** 15  
-**Feats** [Gunsmithing<sup>UC</sup>](../../rules/feats/gunsmithing.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Rapid Reload (musket)](../../rules/feats/rapid-reload.md)  
+**Feats** [Gunsmithing](../../rules/feats/gunsmithing.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Rapid Reload (musket)](../../rules/feats/rapid-reload.md)  
 **Skills** Acrobatics +9 (+5 when jumping), Climb +5, Craft (alchemy) +9, Knowledge (local) +6, Perception +10, Sleight of Hand +9, Swim +5  
 **Languages** Common, Undercommon  
 **SQ** deeds (deadeye, gunslinger initiative, gunslinger’s dodge, pistol-whip, quick clear, utility shot), gunsmith  
-**Combat Gear**  *oil of silence*<sup>UC</sup>, *potion of cure light wounds*, alchemist’s fire, black powder horns (2) with 20 doses of black powder, flare cartridges<sup>UE</sup> (5), paper cartridges<sup>UE</sup> (10); **Other Gear** mwk studded leather, mwk handaxe, mwk musket<sup>UE</sup> with 20 bullets, gunsmith’s kit, 211 gp
+**Combat Gear**  *oil of silence*, *potion of cure light wounds*, alchemist’s fire, black powder horns (2) with 20 doses of black powder, flare cartridges (5), paper cartridges (10); **Other Gear** mwk studded leather, mwk handaxe, mwk musket with 20 bullets, gunsmith’s kit, 211 gp
 
 **Ecology**
 

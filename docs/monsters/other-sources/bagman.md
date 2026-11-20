@@ -34,7 +34,7 @@ NE Medium fey
 
 **Environment** any urban  
 **Organization** solitary, pair, or gang (3–5)  
-**Treasure** standard (*potion of infernal healing*<sup>ISWG</sup>, *potion of youthful appearance*<sup>UM</sup>, cauldron, flint and steel, sack, sewing needle, other treasure)
+**Treasure** standard (*potion of infernal healing*, *potion of youthful appearance*, cauldron, flint and steel, sack, sewing needle, other treasure)
 
 **Special Abilities**
 

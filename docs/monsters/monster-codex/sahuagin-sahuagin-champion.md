@@ -22,7 +22,7 @@ NE Medium monstrous humanoid (aquatic)
 **Speed** 40 ft., swim 60 ft.  
 **Melee** *+1 trident* +18/+13 (1d8+13), claw +15 (1d4+4), mwk spiked heavy steel shield +18 (1d6+8), bite +15 (1d4+4)  
 **Ranged**  mwk underwater heavy crossbow +13 (1d10/19–20)  
-**Special Attacks** blood frenzy, multiweapon mastery, rage (19 rounds/day), rage powers (inspire ferocity<sup>APG</sup>, no escape, reckless abandon<sup>APG</sup> +2)
+**Special Attacks** blood frenzy, multiweapon mastery, rage (19 rounds/day), rage powers (inspire ferocity, no escape, reckless abandon +2)
 
 **Tactics**
 
@@ -36,7 +36,7 @@ NE Medium monstrous humanoid (aquatic)
 **Skills** Acrobatics +14 (+18 when jumping), Intimidate +20, Perception +13, Ride +8, Stealth +11, Swim +27  
 **Languages** Aquan, Common; speak with sharks  
 **SQ** fast movement  
-**Combat Gear**  *potion of barkskin*; **Other Gear** mwk studded leather, mwk spiked heavy steel shield, *+1 trident*, mwk underwater heavy crossbow<sup>UE</sup> with 20 bolts, *belt of giant strength +2*, *cloak of resistance +2*, 1,038 gp
+**Combat Gear**  *potion of barkskin*; **Other Gear** mwk studded leather, mwk spiked heavy steel shield, *+1 trident*, mwk underwater heavy crossbow with 20 bolts, *belt of giant strength +2*, *cloak of resistance +2*, 1,038 gp
 
 **Ecology**
 

@@ -24,7 +24,7 @@ NE Medium monstrous humanoid
 
 **Str** 16, **Dex** 18, **Con** 15, **Int** 9, **Wis** 13, **Cha** 10  
 **Base Atk** +7; **CMB** +10; **CMD** 24  
-**Feats** Flyby Attack, Hover<sup>B</sup>, [Improved Initiative](../../rules/feats/improved-initiative.md), [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
+**Feats** Flyby Attack, Hover, [Improved Initiative](../../rules/feats/improved-initiative.md), [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
 **Skills** Acrobatics +11, Fly +8, Perception +14, Stealth +14  
 **Languages** Abyssal
 

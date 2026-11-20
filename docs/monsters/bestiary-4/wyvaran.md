@@ -5,7 +5,7 @@
 ## Wyvaran (CR 1/2)
 
 **XP** 200  
-Female wyvaran inquisitor<sup>APG</sup> 1  
+Female wyvaran inquisitor 1  
 LN Medium dragon  
 **Init** +2; **Senses** darkvision 60 ft., low-light vision; Perception +7
 

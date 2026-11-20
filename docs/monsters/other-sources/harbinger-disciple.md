@@ -22,9 +22,9 @@ CN Medium humanoid (human)
 **Ranged**  dagger +4 (1d4/19–20)  
 **Oracle Spells Known** (CL 4th; concentration +8)  
 2nd (4/day)—*enthrall* (DC 17), *gentle repose*, *inflict moderate wounds* (DC 16)  
-1st (7/day)—*cause fear* (DC 15), *command* (DC 16), *doom* (DC 15), *inflict light wounds* (DC 15), *memory lapse*<sup>APG</sup> (DC 18)  
+1st (7/day)—*cause fear* (DC 15), *command* (DC 16), *doom* (DC 15), *inflict light wounds* (DC 15), *memory lapse* (DC 18)  
 0 (at will)—*bleed* (DC 14), *detect magic*, *guidance*, *light*, *read magic*, *virtue*  
-**Mystery** time<sup>UM</sup>
+**Mystery** time
 
 **Statistics**
 

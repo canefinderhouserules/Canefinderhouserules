@@ -30,11 +30,11 @@ At will—*feather fall*
 
 **Str** 24, **Dex** 16, **Con** 17, **Int** 12, **Wis** 15, **Cha** 16  
 **Base Atk** +10; **CMB** +17; **CMD** 30  
-**Feats** [Dazzling Display](../../rules/feats/dazzling-display.md), [Deadly Aim](../../rules/feats/deadly-aim.md), [Mounted Archery](../../rules/feats/mounted-archery.md), [Mounted Combat](../../rules/feats/mounted-combat.md), [Outflank<sup>APG</sup>](../../rules/feats/outflank.md), [Power Attack](../../rules/feats/power-attack.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), [Skaveling Companion](../../rules/feats/skaveling-companion.md)  
+**Feats** [Dazzling Display](../../rules/feats/dazzling-display.md), [Deadly Aim](../../rules/feats/deadly-aim.md), [Mounted Archery](../../rules/feats/mounted-archery.md), [Mounted Combat](../../rules/feats/mounted-combat.md), [Outflank](../../rules/feats/outflank.md), [Power Attack](../../rules/feats/power-attack.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), [Skaveling Companion](../../rules/feats/skaveling-companion.md)  
 **Skills** Climb +11, Handle Animal +16, Intimidate +11, Knowledge (dungeoneering) +5, Knowledge (planes) +5, Knowledge (religion) +5, Perception +15, Ride +15, Sense Motive +6, Stealth +11, Survival +11  
 **Languages** Aklo, Orvian, Undercommon  
 **SQ** daemonic pact, expert trainer +3, mount (skaveling), order of the cockatrice  
-**Combat Gear**  *potion of cat’s grace*; **Other Gear** *+2 studded leather, buckler*, *+1 composite shortbow* (+7 Str) with 40 arrows, *+1 rhoka sword*<sup>UE</sup>, mwk glaive, *amulet of natural armor +1*, *cloak of resistance +1*
+**Combat Gear**  *potion of cat’s grace*; **Other Gear** *+2 studded leather, buckler*, *+1 composite shortbow* (+7 Str) with 40 arrows, *+1 rhoka sword*, mwk glaive, *amulet of natural armor +1*, *cloak of resistance +1*
 
 **Ecology**
 

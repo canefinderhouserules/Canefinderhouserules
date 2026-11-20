@@ -26,7 +26,7 @@ N Diminutive vermin (swarm)
 
 **Str** 1, **Dex** 19, **Con** 8, **Int** —, **Wis** 10, **Cha** 2  
 **Base Atk** +6; **CMB** —; **CMD** —  
-**Feats** [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Climb +12, Perception +4; **Racial Modifiers** +4 Perception
 
 **Ecology**

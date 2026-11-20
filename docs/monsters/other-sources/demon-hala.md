@@ -31,7 +31,7 @@ At will—*alter winds* (DC 13)
 
 **Str** 16, **Dex** 19, **Con** 14, **Int** 12, **Wis** 11, **Cha** 15  
 **Base Atk** +5; **CMB** +8; **CMD** 22  
-**Feats** Flyby Attack, Hover, [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md), Wingover  
+**Feats** Flyby Attack, Hover, [Weapon Finesse](../../rules/feats/weapon-finesse.md), Wingover  
 **Skills** Acrobatics +12, Escape Artist +12, Fly +20, Intimidate +10, Knowledge (planes) +9, Perception +8, Stealth +12  
 **Languages** Abyssal, Celestial, Draconic, telepathy 100 ft.
 

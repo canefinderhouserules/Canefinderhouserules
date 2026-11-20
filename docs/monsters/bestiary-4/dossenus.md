@@ -25,7 +25,7 @@ N Small aberration
 
 **Str** 12, **Dex** 11, **Con** 14, **Int** 3, **Wis** 10, **Cha** 5  
 **Base Atk** +1; **CMB** +1; **CMD** 11 (15 vs. trip)  
-**Feats** [Improved Critical<sup>B</sup> (bite)](../../rules/feats/improved-critical.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md), [Weapon Specialization<sup>B</sup> (bite)](../../rules/feats/weapon-specialization.md)  
+**Feats** [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md), [Weapon Specialization (bite)](../../rules/feats/weapon-specialization.md)  
 **Skills** Climb +17, Perception +5; **Racial Modifiers** +8 Climb  
 **Languages** Aklo
 

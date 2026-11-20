@@ -29,7 +29,7 @@ At will—*create water*, *detect thoughts* (DC 15), *invisibility*, *plane shif
 
 **Str** 16, **Dex** 18, **Con** 17, **Int** 15, **Wis** 15, **Cha** 16  
 **Base Atk** +8; **CMB** +11 (+15 grapple); **CMD** 25 (can't be tripped)  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), Hover, [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Eschew Materials](../../rules/feats/eschew-materials.md), Hover, [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Bluff +14, Diplomacy +14, Fly +19, Knowledge (geography) +13, Knowledge (local) +13, Perception +15, Sense Motive +15, Survival +13  
 **Languages** Celestial, Common, Draconic; telepathy 100 ft.  
 **SQ** gift of the sea

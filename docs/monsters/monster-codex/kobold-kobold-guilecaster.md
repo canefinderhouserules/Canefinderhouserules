@@ -24,10 +24,10 @@ LE Small humanoid (reptilian)
 6/day—trap rune (DC 16)  
 **Sorcerer Spells Known** (CL 6th; concentration +9)  
 3rd (4/day)—*lightning bolt* (DC 16)  
-2nd (6/day)—*create pit*<sup>APG</sup>, *mirror image*, *scorching ray*  
+2nd (6/day)—*create pit*, *mirror image*, *scorching ray*  
 1st (7/day)—*alarm*, *charm person* (DC 14), *mage armor*, *magic missile*, *ray of enfeeblement* (DC 14)  
-0 (at will)—*arcane mark*, *daze*, *detect magic*, *open/close*, *prestidigitation* (DC 13), *resistance*, *spark*<sup>APG</sup>  
-**Bloodline** *kobold*<sup>ARG</sup>
+0 (at will)—*arcane mark*, *daze*, *detect magic*, *open/close*, *prestidigitation* (DC 13), *resistance*, *spark*  
+**Bloodline** *kobold*
 
 **Statistics**
 

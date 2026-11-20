@@ -26,7 +26,7 @@ N Gargantuan vermin (aquatic)
 
 **Str** 37, **Dex** 28, **Con** 27, **Int** —, **Wis** 17, **Cha** 2  
 **Base Atk** +11; **CMB** +28; **CMD** 47 (can't be tripped)  
-**Feats** [Improved Critical<sup>B</sup> (bite)](../../rules/feats/improved-critical.md)  
+**Feats** [Improved Critical (bite)](../../rules/feats/improved-critical.md)  
 **Skills** Swim +21  
 **SQ** compression
 

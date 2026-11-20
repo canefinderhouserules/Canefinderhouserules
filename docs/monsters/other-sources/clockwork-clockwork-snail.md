@@ -26,7 +26,7 @@ N Large construct (clockwork)
 
 **Str** 24, **Dex** 17, **Con** -, **Int** -, **Wis** 11, **Cha** 1  
 **Base Atk** +13; **CMB** +21; **CMD** 36 (can’t be tripped)  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md), Two- Weapon Fighting<sup>B</sup>  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Two- Weapon Fighting  
 **Skills** Climb +23  
 **SQ** swift reactions, undersized weapons, winding
 

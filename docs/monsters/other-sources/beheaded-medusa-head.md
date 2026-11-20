@@ -24,7 +24,7 @@ NE Small undead
 
 **Str** 14, **Dex** 12, **Con** &mdash;, **Int** &mdash;, **Wis** 11, **Cha** 15  
 **Base Atk** +3; **CMB** +4; **CMD** 15 (can't be tripped)  
-**Feats** Flyby Attack<sup>B</sup>  
+**Feats** Flyby Attack  
 **Languages** Common
 
 **Ecology**

@@ -22,7 +22,7 @@ NE Large humanoid (giant)
 **Melee** *+1 greatclub* +21/+16/+11 (2d8+14)  
 **Ranged**  longbow +10/+5/+0 (2d6/×3)  
 **Space** 10 ft., **Reach** 10 ft.  
-**Special Attacks** destructive +2, rage (20 rounds/day), rage powers (smasher<sup>APG</sup>, strength surge +4)
+**Special Attacks** destructive +2, rage (20 rounds/day), rage powers (smasher, strength surge +4)
 
 **Tactics**
 

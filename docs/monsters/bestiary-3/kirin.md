@@ -35,7 +35,7 @@ At will—*gaseous form*, *gust of wind*
 
 **Str** 20, **Dex** 23, **Con** 18, **Int** 18, **Wis** 21, **Cha** 23  
 **Base Atk** +9; **CMB** +15; **CMD** 31 (35 vs. trip)  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), Flyby Attack, Hover, [Iron Will](../../rules/feats/iron-will.md), [Weapon Focus (gore)](../../rules/feats/weapon-focus.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Eschew Materials](../../rules/feats/eschew-materials.md), Flyby Attack, Hover, [Iron Will](../../rules/feats/iron-will.md), [Weapon Focus (gore)](../../rules/feats/weapon-focus.md)  
 **Skills** Diplomacy +15, Fly +20, Knowledge (history) +13, Perception +17, Perform (sing) +15, Sense Motive +14  
 **Languages** Abyssal, Auran, Celestial, Common, Draconic; telepathy 100 ft.
 

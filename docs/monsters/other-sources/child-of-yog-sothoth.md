@@ -37,7 +37,7 @@ CE Medium aberration (augmented humanoid)
 
 **Str** 14, **Dex** 13, **Con** 20, **Int** 20, **Wis** 10, **Cha** 6  
 **Base Atk** +3; **CMB** +5; **CMD** 20  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Deceitful](../../rules/feats/deceitful.md), [Defensive Combat Training](../../rules/feats/defensive-combat-training.md), [Extend Spell](../../rules/feats/extend-spell.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Deceitful](../../rules/feats/deceitful.md), [Defensive Combat Training](../../rules/feats/defensive-combat-training.md), [Extend Spell](../../rules/feats/extend-spell.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Bluff +7, Disguise +7 (+15 when disguised as human), Intimidate +5, Knowledge (nature) +15, Knowledge (planes) +15, Knowledge (religion) +15, Perception +7, Spellcraft +19; **Racial Modifiers** +8 Disguise (when disguised as human), +4 Knowledge (arcana), +4 Spellcraft  
 **Languages** Aklo, Common, Elder Thing, Mi-go  
 **SQ** arcane bond (*+1 dagger*), conceal features, magic savant
@@ -45,5 +45,5 @@ CE Medium aberration (augmented humanoid)
 **Ecology**
 
 **Environment** any  
-**Organization** solitary or family (1 child of Yog-Sothoth and 1 spawn of Yog-Sothoth<sup>B4</sup>)  
+**Organization** solitary or family (1 child of Yog-Sothoth and 1 spawn of Yog-Sothoth)  
 **Treasure** NPC gear (*+1 dagger*, spell component pouch, spellbook, other treasure)

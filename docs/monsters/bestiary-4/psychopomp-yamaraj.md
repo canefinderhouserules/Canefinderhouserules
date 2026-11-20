@@ -24,7 +24,7 @@ N Huge outsider (extraplanar, psychopomp)
 **Special Attacks** breath weapon (60-ft. cone, 20d6 cold, Reflex DC 30 half, usable every 1d4 rounds; or beetles), poison  
 **Spell-Like Abilities** (CL 20th; concentration +30)  
 Constant—*detect thoughts* (DC 22), *mage armor*, *true seeing*  
-At will—*greater dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *reincarnate*, *rest eternal*<sup>APG</sup>, *scrying*, *share language*<sup>APG</sup>, *telekinesis* (DC 25), *tongues*  
+At will—*greater dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *reincarnate*, *rest eternal*, *scrying*, *share language*, *telekinesis* (DC 25), *tongues*  
 3/day—*circle of death* (DC 26), *forcecage* (DC 27), *miracle* (DC 29) (see final judgment), quickened *lightning bolt* (DC 23), *undeath to death* (DC 26)  
 1/day—*soul bind*, summon (level 9, any one CR 19 or lower psychopomp 100%), *wail of the banshee* (DC 29)
 

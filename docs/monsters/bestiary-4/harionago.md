@@ -22,7 +22,7 @@ NE Medium undead
 **Space** 5 ft., **Reach** 5 ft. (10 ft. with hair barbs)  
 **Special Attacks** bleed (5), infectious laughter, paralysis (1d4+1 rounds, DC 23)  
 **Spell-Like Abilities** (CL 14th; concentration +20)  
-3/day—*feather fall*, *levitate*, *ray of enfeeblement* (DC 17), *unnatural lust*<sup>UM</sup> (DC 18)  
+3/day—*feather fall*, *levitate*, *ray of enfeeblement* (DC 17), *unnatural lust* (DC 18)  
 1/day—*charm monster* (DC 19), *vampiric touch* (DC 19)
 
 **Statistics**

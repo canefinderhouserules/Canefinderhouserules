@@ -27,7 +27,7 @@ N Large vermin
 
 **Str** 15, **Dex** 13, **Con** 22, **Int** —, **Wis** 13, **Cha** 2  
 **Base Atk** +2; **CMB** +5; **CMD** 16 (24 vs. trip)  
-**Feats** [Diehard<sup>B</sup>](../../rules/feats/diehard.md), [Endurance<sup>B</sup>](../../rules/feats/endurance.md)  
+**Feats** [Diehard](../../rules/feats/diehard.md), [Endurance](../../rules/feats/endurance.md)  
 **Skills** Climb +10, Fly –5, Perception +5, Stealth +1; **Racial Modifiers** +4 Perception, +4 Stealth  
 **SQ** hold breath
 

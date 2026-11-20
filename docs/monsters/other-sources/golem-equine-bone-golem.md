@@ -27,7 +27,7 @@ N Large construct
 
 **Str** 22, **Dex** 15, **Con** ., **Int** ., **Wis** 10, **Cha** 1  
 **Base Atk** +16; **CMB** +23; **CMD** 35 (39 vs. trip)  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md)
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md)
 
 **Special Abilities**
 

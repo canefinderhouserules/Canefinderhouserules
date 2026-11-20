@@ -26,7 +26,7 @@ N Medium outsider (aether, elemental, extraplanar)
 
 **Str** 14, **Dex** 19, **Con** 16, **Int** 4, **Wis** 11, **Cha** 11  
 **Base Atk** +4; **CMB** +6; **CMD** 23  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md)  
 **Skills** Acrobatics +9, Fly +13, Perception +7, Stealth +11  
 **SQ** telekinetic invisibility
 

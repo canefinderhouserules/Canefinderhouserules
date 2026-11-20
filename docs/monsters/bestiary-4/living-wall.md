@@ -26,7 +26,7 @@ N Large construct
 
 **Str** 18, **Dex** 3, **Con** —, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +3; **CMB** +8 (+10 bull rush, +12 grapple); **CMD** 14 (16 vs. bull rush)  
-**Feats** [Improved Bull Rush<sup>B</sup>](../../rules/feats/improved-bull-rush.md)  
+**Feats** [Improved Bull Rush](../../rules/feats/improved-bull-rush.md)  
 **SQ** fleshy link
 
 **Ecology**

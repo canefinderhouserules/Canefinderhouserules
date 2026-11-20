@@ -24,8 +24,8 @@ N Tiny magical beast
 **Spell-Like Abilities** (CL 3rd; concentration +5; save DCs are Wisdom-based)  
 Constant—*detect alignment*  
 At will—*comprehend languages*  
-3/day—*confess*<sup>APG</sup> (DC 14), *zone of truth* (DC 14)  
-1/day—*follow aura*<sup>APG</sup>, *seek thoughts*<sup>APG</sup> (DC 15)
+3/day—*confess* (DC 14), *zone of truth* (DC 14)  
+1/day—*follow aura*, *seek thoughts* (DC 15)
 
 **Statistics**
 

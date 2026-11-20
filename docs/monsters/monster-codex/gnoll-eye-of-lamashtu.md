@@ -24,8 +24,8 @@ CE Medium humanoid (gnoll)
 **Spell-Like Abilities** (CL 4th; concentration +7)  
 6/day—copycat (4 rounds), strength surge (+2)  
 **Cleric Spells Prepared** (CL 4th; concentration +7)  
-2nd—*death knell* (DC 15), *dread bolt*<sup>UM</sup> (DC 15), *hold person* (DC 15), *invisibility*<sup>D</sup>  
-1st—*bane* (DC 14), *doom* (DC 14), *enlarge person*<sup>D</sup> (DC 14), *entropic shield*, *ray of sickening*<sup>UM</sup> (DC 14)  
+2nd—*death knell* (DC 15), *dread bolt* (DC 15), *hold person* (DC 15), *invisibility*<sup>D</sup>  
+1st—*bane* (DC 14), *doom* (DC 14), *enlarge person*<sup>D</sup> (DC 14), *entropic shield*, *ray of sickening* (DC 14)  
 0 (at will)—*bleed* (DC 13), *guidance*, *resistance*, *stabilize*  
 **D** domain spell; **Domains** Strength, Trickery
 

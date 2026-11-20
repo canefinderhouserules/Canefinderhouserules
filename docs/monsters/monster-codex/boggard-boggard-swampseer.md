@@ -22,9 +22,9 @@ NE Medium humanoid (boggard)
 **Special Attacks** icicle (1d6+1 cold damage, 5/day), terrifying croak (DC 14)  
 **Druid Spells Prepared** (CL 3rd; concentration +5)  
 2nd—*bull’s strength*, *burst of nettles*<sup>D</sup>, *summon swarm*  
-1st—*entangle* (DC 13), *hydraulic push*<sup>APG</sup>, *longstrider*, *shillelagh*  
+1st—*entangle* (DC 13), *hydraulic push*, *longstrider*, *shillelagh*  
 0 (at will)—*flare* (DC 12), *guidance*, *mending*, *resistance*  
-**D** domain spell; **Domain** Swamp<sup>UM</sup>
+**D** domain spell; **Domain** Swamp
 
 **Statistics**
 

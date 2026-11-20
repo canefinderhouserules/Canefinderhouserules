@@ -23,8 +23,8 @@ NE Large outsider (daemon, evil, extraplanar)
 **Special Attacks** biting locusts, distraction (DC 25; biting locusts attack only)  
 **Spell-Like Abilities** (CL 14th; concentration +19)  
 Constant—*detect good*, *detect magic*, *see invisibility*  
-At will—*feast of ashes*<sup>APG</sup> (DC 17), *greater teleport* (self plus 50 lbs. of objects only), *putrefy food and drink*<sup>APG</sup>  
-3/day—*sirocco*<sup>APG</sup> (DC 21), *summon swarm*  
+At will—*feast of ashes* (DC 17), *greater teleport* (self plus 50 lbs. of objects only), *putrefy food and drink*  
+3/day—*sirocco* (DC 21), *summon swarm*  
 1/day—*horrid wilting* (DC 23)
 
 **Statistics**

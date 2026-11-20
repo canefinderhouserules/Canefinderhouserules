@@ -28,7 +28,7 @@ LN Large monstrous humanoid (cold)
 
 **Str** 24, **Dex** 14, **Con** 17, **Int** 9, **Wis** 16, **Cha** 8  
 **Base Atk** +9; **CMB** +19; **CMD** 33  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect Arrows](../../rules/feats/deflect-arrows.md), [Feral Combat Training<sup>UC</sup>](../../rules/feats/feral-combat-training.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Critical (claw)](../../rules/feats/improved-critical.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Power Attack](../../rules/feats/power-attack.md), [Stunning Fist](../../rules/feats/stunning-fist.md), [Weapon Focus (claw)](../../rules/feats/weapon-focus.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect Arrows](../../rules/feats/deflect-arrows.md), [Feral Combat Training](../../rules/feats/feral-combat-training.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Critical (claw)](../../rules/feats/improved-critical.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Power Attack](../../rules/feats/power-attack.md), [Stunning Fist](../../rules/feats/stunning-fist.md), [Weapon Focus (claw)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +10 (+23 when jumping), Climb +24, Intimidate +8, Perception +12, Stealth +10 (+18 in snow), Survival +11; **Racial Modifiers** +13 Acrobatics when jumping, +4 Stealth (+12 in snow)  
 **Languages** Aklo  
 **SQ** fast movement, high jump, ki pool (5 points, magic), maneuver training, purity of body, slow fall 20 ft.  

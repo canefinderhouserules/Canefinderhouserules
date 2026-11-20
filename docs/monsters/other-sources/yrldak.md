@@ -31,7 +31,7 @@ At will—*bestow curse* (DC 18), *divination*, *greater dispel magic*, *wind w
 
 **Str** 25, **Dex** 12, **Con** 26, **Int** 17, **Wis** 18, **Cha** 21  
 **Base Atk** +6; **CMB** +14; **CMD** 30  
-**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Diehard<sup>B</sup>](../../rules/feats/diehard.md), Great Fortitude, [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Diehard](../../rules/feats/diehard.md), Great Fortitude, [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **Skills** Bluff +12, Craft (cloth) +10, Heal +6, Intimidate +17, Knowledge (all) +11, Perception +19, Perform (oratory) +12, Sense Motive +19, Use Magic Device +16  
 **Languages** Common, Giant, Sylvan; tongues  
 **SQ** change shape (humanoid; *alter self* or *giant form II*), sister seeking  

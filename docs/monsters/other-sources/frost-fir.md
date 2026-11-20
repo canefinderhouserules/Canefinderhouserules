@@ -26,7 +26,7 @@ NE Medium plant (cold)
 
 **Str** 15, **Dex** 10, **Con** 16, **Int** 11, **Wis** 12, **Cha** 9  
 **Base Atk** +1; **CMB** +3 (+5 disarm, grapple and steal); **CMD** 13  
-**Feats** [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Intimidate)<sup>B</sup>](../../rules/feats/skill-focus.md)  
+**Feats** [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Intimidate)](../../rules/feats/skill-focus.md)  
 **Skills** Intimidate +4, Perception +5, Stealth +6 (+12 in forests); **Racial Modifiers** +2 Stealth (+6 in forests)  
 **Languages** Sylvan, Treant  
 **SQ** freeze

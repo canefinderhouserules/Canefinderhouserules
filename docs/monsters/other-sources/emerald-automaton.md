@@ -27,7 +27,7 @@ N Medium construct
 
 **Str** 20, **Dex** 13, **Con** —, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +5; **CMB** +10 (+12 sunder); **CMD** 21 (23 vs. sunder)  
-**Feats** [Improved Sunder<sup>B</sup>](../../rules/feats/improved-sunder.md), [Power Attack<sup>B</sup>](../../rules/feats/power-attack.md)  
+**Feats** [Improved Sunder](../../rules/feats/improved-sunder.md), [Power Attack](../../rules/feats/power-attack.md)  
 **SQ** proficient
 
 **Ecology**

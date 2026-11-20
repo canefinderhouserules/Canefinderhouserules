@@ -27,7 +27,7 @@ LN Medium humanoid (human)
 
 **Str** 16, **Dex** 14, **Con** 14, **Int** 13, **Wis** 10, **Cha** 8  
 **Base Atk** +6; **CMB** +9 (+13 trip); **CMD** 21 (23 vs. trip)  
-**Feats** [Bodyguard<sup>APG</sup>](../../rules/feats/bodyguard.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Exotic Weapon Proficiency (khopesh)](../../rules/feats/exotic-weapon-proficiency.md), [Greater Trip](../../rules/feats/greater-trip.md), [Improved Trip](../../rules/feats/improved-trip.md), In Harm’s Way<sup>APG</sup>, [Iron Will](../../rules/feats/iron-will.md)  
+**Feats** [Bodyguard](../../rules/feats/bodyguard.md), [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Exotic Weapon Proficiency (khopesh)](../../rules/feats/exotic-weapon-proficiency.md), [Greater Trip](../../rules/feats/greater-trip.md), [Improved Trip](../../rules/feats/improved-trip.md), In Harm’s Way, [Iron Will](../../rules/feats/iron-will.md)  
 **Skills** Heal +6, Intimidate +8 (+10 vs. Osirians), Knowledge (local) +7, Perception +6, Sense Motive +6; **Racial Modifiers** +2 Intimidate vs. Osirians  
 **Languages** Common, Dwarven, Osiriani  
 **SQ** armor training 1, the Constant

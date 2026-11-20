@@ -29,22 +29,22 @@ LE Large humanoid (fire, giant)
 7th (5/day)—*blasphemy* (DC 23), *destruction* (DC 23), *mass inflict serious wounds* (DC 23), *vision* (DC 23)  
 6th (7/day)—*blade barrier*, *circle of death* (DC 22), *harm* (DC 22), *mass bull's strength*, *mass inflict moderate wounds* (DC 22)  
 5th (7/day)—*dispel good* (DC 21), *greater command* (DC 21), *insect plague* (DC 21), *mass inflict light wounds* (DC 21), *righteous might*, *slay living* (DC 21)  
-4th (7/day)—*blessing of fervor*<sup>APG</sup>, *greater magic weapon*, *ice storm* (DC 20), *imbue with spell ability*, *inflict critical wounds* (DC 20), *unholy blight* (DC 20)  
+4th (7/day)—*blessing of fervor*, *greater magic weapon*, *ice storm* (DC 20), *imbue with spell ability*, *inflict critical wounds* (DC 20), *unholy blight* (DC 20)  
 3rd (7/day)—*dispel magic*, *inflict serious wounds* (DC 19), *invisibility purge*, *magic circle against good*, *stone shape*, *explosive runes*  
-2nd (8/day)—*bear's endurance*, *darkness*, *death knell* (DC 18), *inflict moderate wounds*, *oracle's burden*<sup>APG</sup> (DC 18), *share language*<sup>APG</sup>, *summon swarm*  
+2nd (8/day)—*bear's endurance*, *darkness*, *death knell* (DC 18), *inflict moderate wounds*, *oracle's burden* (DC 18), *share language*, *summon swarm*  
 1st (8/day)—*bane* (DC 17), *cause fear* (DC 17), *deathwatch*, *doom* (DC 17), *inflict light wounds* (DC 17), *obscuring mist*, *shield of faith*  
-0 (at will)—*bleed* (DC 16), *create water*, *detect magic*, *detect poison*, *purify food and drink*, *guidance*, *read magic*, *resistance*, *spark*<sup>APG</sup>  
+0 (at will)—*bleed* (DC 16), *create water*, *detect magic*, *detect poison*, *purify food and drink*, *guidance*, *read magic*, *resistance*, *spark*  
 **Mystery** apocalypse
 
 **Statistics**
 
 **Str** 31, **Dex** 15, **Con** 23, **Int** 10, **Wis** 16, **Cha** 22  
 **Base Atk** +23; **CMB** +34 (+36 overrun, +36 sunder); **CMD** 47 (49 vs. overrun, 49 vs. sunder)  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Combat Casting](../../rules/feats/combat-casting.md), [Critical Focus](../../rules/feats/critical-focus.md), [Empower Spell](../../rules/feats/empower-spell.md), [Extra Revelation<sup>APG</sup>](../../rules/feats/extra-revelation.md), [Great Cleave](../../rules/feats/great-cleave.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), [Martial Weapon Proficiency (flail)](../../rules/feats/martial-weapon-proficiency.md), [Maximize Spell](../../rules/feats/maximize-spell.md), [Power Attack](../../rules/feats/power-attack.md), [Quicken Spell](../../rules/feats/quicken-spell.md), [Selective Spell<sup>APG</sup>](../../rules/feats/selective-spell.md), [Weapon Focus (flail)](../../rules/feats/weapon-focus.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Combat Casting](../../rules/feats/combat-casting.md), [Critical Focus](../../rules/feats/critical-focus.md), [Empower Spell](../../rules/feats/empower-spell.md), [Extra Revelation](../../rules/feats/extra-revelation.md), [Great Cleave](../../rules/feats/great-cleave.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), [Martial Weapon Proficiency (flail)](../../rules/feats/martial-weapon-proficiency.md), [Maximize Spell](../../rules/feats/maximize-spell.md), [Power Attack](../../rules/feats/power-attack.md), [Quicken Spell](../../rules/feats/quicken-spell.md), [Selective Spell](../../rules/feats/selective-spell.md), [Weapon Focus (flail)](../../rules/feats/weapon-focus.md)  
 **Skills** Climb +19, Craft (armor) +8, Heal +21, Intimidate +17, Perception +32, Spellcraft +34  
 **Languages** Common, Giant; *tongues*  
 **SQ** oracle’s curse (*tongues*), revelations (doomsayer [30 ft., swift action], erosion touch [16d6, 5/day], near death, pass the torch [4/day, up to 8 rounds], power of the fallen [6/day], spell blast)  
-**Combat Gear**  *potions of cure serious wounds* (3), *scroll of mass bear’s endurance*, *scroll of wall of stone*, *wand of bestow curse* (15 charges); **Other Gear** *+3 unrighteous*<sup>UE</sup> *adamantine breastplate*, *+2 light steel shield*, *+2 conductive*<sup>UE</sup> *flail*, *belt of physical might +2* (Str, Dex), *headband of alluring charisma +4*, *ring of protection +1*, spell component pouch, 495 gp
+**Combat Gear**  *potions of cure serious wounds* (3), *scroll of mass bear’s endurance*, *scroll of wall of stone*, *wand of bestow curse* (15 charges); **Other Gear** *+3 unrighteous* *adamantine breastplate*, *+2 light steel shield*, *+2 conductive* *flail*, *belt of physical might +2* (Str, Dex), *headband of alluring charisma +4*, *ring of protection +1*, spell component pouch, 495 gp
 
 **Ecology**
 

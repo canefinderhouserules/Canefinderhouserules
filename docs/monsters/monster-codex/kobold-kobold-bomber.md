@@ -23,7 +23,7 @@ LE Small humanoid (reptilian)
 **Ranged**  sling +5 (1d3–1)  
 **Special Attacks** bomb 6/day (1d6+2 fire, DC 13), bomb trap  
 **Alchemist Extracts Prepared** (CL 2nd)  
-1st—*abjuring step*<sup>UC</sup>, *endure elements*, *shield*
+1st—*abjuring step*, *endure elements*, *shield*
 
 **Tactics**
 
@@ -33,7 +33,7 @@ LE Small humanoid (reptilian)
 
 **Str** 8, **Dex** 16, **Con** 8, **Int** 15, **Wis** 13, **Cha** 8  
 **Base Atk** +1; **CMB** –1; **CMD** 12  
-**Feats** [Brew Potion](../../rules/feats/brew-potion.md), [Extra Bombs<sup>APG</sup>](../../rules/feats/extra-bombs.md), [Throw Anything](../../rules/feats/throw-anything.md)  
+**Feats** [Brew Potion](../../rules/feats/brew-potion.md), [Extra Bombs](../../rules/feats/extra-bombs.md), [Throw Anything](../../rules/feats/throw-anything.md)  
 **Skills** Acrobatics +3, Craft (trapmaking) +9, Disable Device +6, Escape Artist +3, Knowledge (engineering) +4, Perception +3, Profession (miner) +3, Stealth +10; **Racial Modifiers** +2 Craft (trapmaking), +2 Perception, +2 Profession (miner)  
 **Languages** Common, Draconic, Gnome, Goblin  
 **SQ** alchemy (alchemy crafting +2, identify potions), crafty, mutagen (+4/–2, +2 natural, 20 minutes), poison use  

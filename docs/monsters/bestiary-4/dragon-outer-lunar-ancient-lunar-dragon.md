@@ -23,23 +23,23 @@ CN Gargantuan dragon
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** bewildering breath, breath weapon (120-ft. line, 20d8 cold, DC 29), crush, moonsilver, tail sweep  
 **Spell-Like Abilities** (CL 24th; concentration +31)  
-At will—*dancing lights*, *life bubble*<sup>APG</sup>, *moonstruck*<sup>APG</sup>, *scrying*  
-3/day—quickened *moonstruck*<sup>APG</sup>  
+At will—*dancing lights*, *life bubble*, *moonstruck*, *scrying*  
+3/day—quickened *moonstruck*  
 **Sorcerer Spells Known** (CL 15th; concentration +22)  
 7th (5/day)—*greater teleport*, *waves of exhaustion*  
-6th (7/day)—*cold ice strike*<sup>UM</sup> (DC 23), *greater dispel magic*, *true seeing*  
+6th (7/day)—*cold ice strike* (DC 23), *greater dispel magic*, *true seeing*  
 5th (7/day)—*dominate person* (DC 22), *feeblemind* (DC 22), *fire snake* (DC 22), *mage’s private sanctum*  
 4th (7/day)—*charm monster* (DC 21), *fire shield*, *greater invisibility*, *lesser globe of invulnerability*  
 3rd (8/day)—*haste*, *heroism*, *tongues*, *vampiric touch*  
 2nd (8/day)—*bear’s endurance*, *detect thoughts* (DC 19), *hypnotic pattern* (DC 19), *minor image* (DC 19), *mirror image*  
-1st (8/day)—*comprehend languages*, *mage armor*, *protection from evil*, *shocking grasp*, *vanish*<sup>APG</sup>  
+1st (8/day)—*comprehend languages*, *mage armor*, *protection from evil*, *shocking grasp*, *vanish*  
 0 (at will)—*detect magic*, *light*, *read magic*, 4 more
 
 **Statistics**
 
 **Str** 35, **Dex** 7, **Con** 24, **Int** 24, **Wis** 26, **Cha** 25  
 **Base Atk** +24; **CMB** +40; **CMD** 48 (52 vs. trip)  
-**Feats** [Arcane Strike](../../rules/feats/arcane-strike.md), [Combat Casting](../../rules/feats/combat-casting.md), [Dazing Assault<sup>APG</sup>](../../rules/feats/dazing-assault.md), Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Vital Strike](../../rules/feats/improved-vital-strike.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (*moonstruck*<sup>APG</sup>), [Toughness](../../rules/feats/toughness.md), [Vital Strike](../../rules/feats/vital-strike.md), Wingover  
+**Feats** [Arcane Strike](../../rules/feats/arcane-strike.md), [Combat Casting](../../rules/feats/combat-casting.md), [Dazing Assault](../../rules/feats/dazing-assault.md), Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Vital Strike](../../rules/feats/improved-vital-strike.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (*moonstruck*), [Toughness](../../rules/feats/toughness.md), [Vital Strike](../../rules/feats/vital-strike.md), Wingover  
 **Skills** Bluff +34, Diplomacy +34, Fly +11, Intimidate +34, Knowledge (arcana, geography, history, local, nature, planes) +30, Perception +35, Sense Motive +35, Spellcraft +34, Use Magic Device +34  
 **Languages** Aklo, Aquan, Auran, Common, Draconic, Ignan, Terran  
 **SQ** absolute cold, no breath, starflight

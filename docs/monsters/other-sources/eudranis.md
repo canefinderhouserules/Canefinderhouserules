@@ -26,7 +26,7 @@ CE Medium monstrous humanoid
 7/day—touch of chaos, vision of madness (+/–2)  
 **Cleric Spells Prepared** (CL 4th; concentration +8)  
 2nd—*align weapon*<sup>D</sup> (chaos only), *hold person* (DC 16), *resist energy*, *spiritual weapon*  
-1st—*cure light wounds*, *divine favor*, *murderous command*<sup>UM</sup> (DC 15), *protection from law*<sup>D</sup>, *shield of faith*  
+1st—*cure light wounds*, *divine favor*, *murderous command* (DC 15), *protection from law*<sup>D</sup>, *shield of faith*  
 0 (at will)—*bleed* (DC 14), *create water*, *detect magic*, *purify food and drink* (DC 14)  
 **D** Domain spell; **Domains** Chaos, Madness
 

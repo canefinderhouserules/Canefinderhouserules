@@ -25,7 +25,7 @@ N Medium ooze
 
 **Str** 26, **Dex** 24, **Con** 25, **Int** —, **Wis** 16, **Cha** 1  
 **Base Atk** +9; **CMB** +17; **CMD** 34  
-**Feats** [Great Fortitude<sup>B</sup>](../../rules/feats/great-fortitude.md), [Iron Will<sup>B</sup>](../../rules/feats/iron-will.md)  
+**Feats** [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md)  
 **Skills** Climb +16, Swim +16  
 **SQ** compression, merge
 

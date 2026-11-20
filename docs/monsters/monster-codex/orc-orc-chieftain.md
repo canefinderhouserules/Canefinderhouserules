@@ -28,7 +28,7 @@ CE Medium humanoid (orc)
 
 **Str** 18, **Dex** 16, **Con** 14, **Int** 8, **Wis** 6, **Cha** 10  
 **Base Atk** +10; **CMB** +14; **CMD** 27  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Cleaving Finish<sup>UC</sup>](../../rules/feats/cleaving-finish.md), [Grudge Fighter<sup>ARG</sup>](../../rules/feats/grudge-fighter.md), [Improved Critical (orc double axe)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Orc Weapon Expertise<sup>ARG</sup> (killer)](../../rules/feats/orc-weapon-expertise.md), [Power Attack](../../rules/feats/power-attack.md), [Toughness](../../rules/feats/toughness.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Weapon Focus (orc double axe)](../../rules/feats/weapon-focus.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Cleaving Finish](../../rules/feats/cleaving-finish.md), [Grudge Fighter](../../rules/feats/grudge-fighter.md), [Improved Critical (orc double axe)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Orc Weapon Expertise (killer)](../../rules/feats/orc-weapon-expertise.md), [Power Attack](../../rules/feats/power-attack.md), [Toughness](../../rules/feats/toughness.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Weapon Focus (orc double axe)](../../rules/feats/weapon-focus.md)  
 **Skills** Intimidate +12, Perception +3  
 **Languages** Common, Orc  
 **SQ** armor training 2, weapon familiarity  

@@ -25,7 +25,7 @@ N Small vermin (aquatic)
 
 **Str** 8, **Dex** 13, **Con** 10, **Int** &mdash;, **Wis** 13, **Cha** 2  
 **Base Atk** +0; **CMB** -2; **CMD** 9  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md)  
 **Skills** Swim +9 (uses Dexterity on Climb and Swim checks)  
 **SQ** amphibious
 

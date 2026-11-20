@@ -27,7 +27,7 @@ CN Medium outsider (incorporeal, native)
 
 **Str** —, **Dex** 14, **Con** 12, **Int** 5, **Wis** 11, **Cha** 14  
 **Base Atk** +2; **CMB** +6; **CMD** 18  
-**Feats** [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Disguise +7, Perception +5, Stealth +14; **Racial Modifiers** +4 Stealth  
 **Languages** Common (can’t speak)  
 **SQ** assume visage, ephemeral existence

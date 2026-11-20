@@ -21,8 +21,8 @@ CE Medium monstrous humanoid
 **Melee** bite +13 (1d6+4 plus poison), 2 claws +13 (1d4+4/19–20 plus poison)  
 **Special Attacks** infectious dance, poison  
 **Spell-Like Abilities** (CL 12th; concentration +17)  
-At will—*murderous command*<sup>UM</sup> (DC 16), *polypurpose panacea*<sup>UM</sup>, *rage*  
-3/day—*bull’s strength*, *charm monster* (DC 19), *mad hallucination*<sup>UM</sup> (DC 17), *vampiric touch*
+At will—*murderous command* (DC 16), *polypurpose panacea*, *rage*  
+3/day—*bull’s strength*, *charm monster* (DC 19), *mad hallucination* (DC 17), *vampiric touch*
 
 **Statistics**
 

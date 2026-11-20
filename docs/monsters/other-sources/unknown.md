@@ -22,7 +22,7 @@ NE Medium fey (augmented humanoid)
 **Melee** 2 claws +10 (1d6-1)  
 **Special Attacks** bold stare (allure, disorientation), hypnotic stare (–3), manifold tricks (3), mental potency (+2), mesmerist tricks 12/day (astounding avoidance, fearsome guise, mesmeric mirror, misdirection, spectral smoke, vanish arrow), painful stare (+5 or +3d6+5), psyche erosion (DC 22), victimize  
 **Spell-Like Abilities** (CL 10th; concentration +17)  
-At will—*blur* (self only), *ghost sound* (DC 17), *ventriloquism* (DC 18), *vocal alteration<sup>UM</sup>* (self only)  
+At will—*blur* (self only), *ghost sound* (DC 17), *ventriloquism* (DC 18), *vocal alteration* (self only)  
 **Mesmerist Spells Known** (CL 10th; concentration +17)  
 4th (2/day)—*dominate person* (DC 22), *enervation*  
 3rd (4/day)—*confusion* (DC 21), *dispel magic*, *nondetection*,*scrying* (DC 20)  
@@ -34,7 +34,7 @@ At will—*blur* (self only), *ghost sound* (DC 17), *ventriloquism* (DC 18), *v
 
 **Str** 8, **Dex** 16, **Con** 18, **Int** 12, **Wis** 12, **Cha** 24  
 **Base Atk** +7; **CMB** +6; **CMD** 26  
-**Feats** [Conceal Spell<sup>UI</sup>](../../rules/feats/conceal-spell.md), [Deceitful](../../rules/feats/deceitful.md), [Improved Conceal Spell<sup>UI</sup>](../../rules/feats/improved-conceal-spell.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Spell Focus (enchantment)](../../rules/feats/spell-focus.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Conceal Spell](../../rules/feats/conceal-spell.md), [Deceitful](../../rules/feats/deceitful.md), [Improved Conceal Spell](../../rules/feats/improved-conceal-spell.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Spell Focus (enchantment)](../../rules/feats/spell-focus.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Bluff +29, Disguise +24, Escape Artist +16, Perception +14, Sense Motive +14, Sleight of Hand +16, Stealth +22, Survival +11  
 **Languages** Aklo, Common, Draconic (can speak only with ventriloquism)  
 **SQ** assume likeness (DC 22), consummate liar +5, dream movements, hallucinatory camouflage (DC 22), touch treatment 10/day (greater)

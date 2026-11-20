@@ -30,7 +30,7 @@ CE Medium undead
 
 **Str** 18, **Dex** 14, **Con** —, **Int** 11, **Wis** 13, **Cha** 17  
 **Base Atk** +8; **CMB** +12; **CMD** 24  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Furious Focus<sup>UC</sup>](../../rules/feats/furious-focus.md), [Great Cleave](../../rules/feats/great-cleave.md), [Improved Critical (greatsword)](../../rules/feats/improved-critical.md), [Lunge](../../rules/feats/lunge.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Furious Focus](../../rules/feats/furious-focus.md), [Great Cleave](../../rules/feats/great-cleave.md), [Improved Critical (greatsword)](../../rules/feats/improved-critical.md), [Lunge](../../rules/feats/lunge.md), [Power Attack](../../rules/feats/power-attack.md)  
 **Skills** Climb +18, Intimidate +16, Knowledge (religion) +7, Perception +15, Stealth +20; **Racial Modifiers** +8 Stealth  
 **Languages** Common  
 **Gear** greatsword, javelin

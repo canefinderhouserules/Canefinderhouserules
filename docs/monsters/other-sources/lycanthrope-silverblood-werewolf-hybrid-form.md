@@ -27,7 +27,7 @@ CE Medium humanoid (human, shapechanger)
 
 **Str** 20, **Dex** 15, **Con** 17, **Int** 12, **Wis** 12, **Cha** 6  
 **Base Atk** +4; **CMB** +9; **CMD** 21  
-**Feats** [Aspect of the Beast<sup>APG</sup> (claws)](../../rules/feats/aspect-of-the-beast.md), [Endurance](../../rules/feats/endurance.md), [Power Attack](../../rules/feats/power-attack.md), [Rending Claws<sup>APG</sup>](../../rules/feats/rending-claws.md), [Weapon Focus (claws)](../../rules/feats/weapon-focus.md)  
+**Feats** [Aspect of the Beast (claws)](../../rules/feats/aspect-of-the-beast.md), [Endurance](../../rules/feats/endurance.md), [Power Attack](../../rules/feats/power-attack.md), [Rending Claws](../../rules/feats/rending-claws.md), [Weapon Focus (claws)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +5, Climb +11, Disable Device +10, Handle Animal +2, Intimidate +5, Knowledge (nature) +5, Perception +8 (+10 to locate traps), Profession (trapper) +5, Stealth +8, Survival +8, Swim +8  
 **Languages** Common, Sylvan  
 **SQ** change shape (human, hybrid, and wolf; *polymorph*), favored terrain (forest +2), hunterfs bond (companions), lycanthropic empathy (wolves and dire wolves), track +2, trapfinding +2, wild empathy +3
@@ -36,4 +36,4 @@ CE Medium humanoid (human, shapechanger)
 
 **Environment** Any land  
 **Organization** solitary, pair, pack (2–4), or warband (2–6 silverblood werewolves, 2–8 werewolves, and 10–20 hobgoblins)  
-**Treasure** NPC gear (mwk chain shirt, mwk buckler, mwk bardiche, mwk composite longbow [+4 Str] with 20 arrows, *cloak of resistance +1*, backpack, bear traps<sup>APG</sup> [2], masterwork thieves’ tools, other treasure)
+**Treasure** NPC gear (mwk chain shirt, mwk buckler, mwk bardiche, mwk composite longbow [+4 Str] with 20 arrows, *cloak of resistance +1*, backpack, bear traps [2], masterwork thieves’ tools, other treasure)

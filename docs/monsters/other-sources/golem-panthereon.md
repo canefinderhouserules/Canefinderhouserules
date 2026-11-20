@@ -28,7 +28,7 @@ Constant—*true seeing*
 
 **Str** 24, **Dex** 9, **Con** —, **Int** —, **Wis** 15, **Cha** 1  
 **Base Atk** +16; **CMB** +24; **CMD** 33  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md)
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md)
 
 **Ecology**
 

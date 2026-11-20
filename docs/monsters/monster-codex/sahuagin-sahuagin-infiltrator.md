@@ -36,7 +36,7 @@ LE Medium monstrous humanoid (aquatic)
 **Skills** Acrobatics +14, Bluff +11, Climb +9, Disable Device +16, Disguise +11, Intimidate +11, Knowledge (local) +8, Linguistics +8, Perception +13, Ride +7, Sense Motive +13, Stealth +19, Swim +13  
 **Languages** Aquan, Common, Elven, Giant, Goblin; speak with sharks  
 **SQ** rogue talents (bleeding attack +3, combat trick, fast stealth), trapfinding +3  
-**Combat Gear**  *potion of cure moderate wounds*, *potion of invisibility*; **Other Gear** mwk studded leather, mwk daggers (2), daggers (4), *cloak of resistance +1*, *stalker’s mask*<sup>UE</sup>, masterwork thieves’ tools, 13 gp
+**Combat Gear**  *potion of cure moderate wounds*, *potion of invisibility*; **Other Gear** mwk studded leather, mwk daggers (2), daggers (4), *cloak of resistance +1*, *stalker’s mask*, masterwork thieves’ tools, 13 gp
 
 **Ecology**
 

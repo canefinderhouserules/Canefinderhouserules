@@ -28,7 +28,7 @@ CE Medium humanoid (orc)
 
 **Str** 19, **Dex** 10, **Con** 14, **Int** 6, **Wis** 10, **Cha** 12  
 **Base Atk** +7; **CMB** +11; **CMD** 21  
-**Feats** [Animal Affinity](../../rules/feats/animal-affinity.md), [Beast Rider<sup>ARG</sup> (gorthek)](../../rules/feats/beast-rider.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Horde Charge<sup>ARG</sup>](../../rules/feats/horde-charge.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Quick Draw](../../rules/feats/quick-draw.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Animal Affinity](../../rules/feats/animal-affinity.md), [Beast Rider (gorthek)](../../rules/feats/beast-rider.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Horde Charge](../../rules/feats/horde-charge.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Quick Draw](../../rules/feats/quick-draw.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Handle Animal +9, Intimidate +13, Perception +6, Ride +6  
 **Languages** Common, Orc  
 **SQ** expert trainer +3, mount (gorthek, see page 172), order of the cockatrice (braggart), tactician (2/day, 6 rounds, standard action), weapon familiarity  

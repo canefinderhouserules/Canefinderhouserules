@@ -23,9 +23,9 @@ NE Large aberration
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** drain memory, quivering palm (1/day, DC 25), stunning fist (4/day, DC 25)  
 **Spell-Like Abilities** (CL 15th; concentration +24)  
-At will—*clairvoyance/clairaudience*, *share memory*<sup>UM</sup>  
+At will—*clairvoyance/clairaudience*, *share memory*  
 5/day—*divination*  
-3/day—*cold ice strike*<sup>UM</sup>, *discordant blast*<sup>APG</sup>, *sonic thrust*<sup>UM</sup>
+3/day—*cold ice strike*, *discordant blast*, *sonic thrust*
 
 **Statistics**
 

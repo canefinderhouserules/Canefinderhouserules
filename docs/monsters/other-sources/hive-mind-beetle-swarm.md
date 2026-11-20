@@ -23,10 +23,10 @@ LN Diminutive magical beast (swarm)
 **Space** 10 ft., **Reach** 0 ft.  
 **Special Attacks** distraction (DC 24)  
 **Spell-Like Abilities** (CL 14th; concentration +11)  
-Constant—*thought echo*<sup>OA</sup>  
+Constant—*thought echo*  
 At will—*shocking grasp*  
 **Psychic Magic** (CL 14th, concentration +16)  
-15 PE—*explode head*<sup>OA</sup> (5 PE, DC 18), *greater synaptic pulse*<sup>OA</sup> (5 PE, DC 18), *lightning bolt* (3 PE, DC 19), *mental barrier III*<sup>OA</sup> (4 PE), *mind probe*<sup>OA</sup> (4 PE, DC 16), *mind thrust IV*<sup>OA</sup> (4 PE, DC 16), *synapse overload*<sup>OA</sup> (5 PE, DC 17), *synaptic scramble*<sup>OA</sup> (4 PE, DC 17), *thought shield IV*<sup>OA</sup> (5 PE)
+15 PE—*explode head* (5 PE, DC 18), *greater synaptic pulse* (5 PE, DC 18), *lightning bolt* (3 PE, DC 19), *mental barrier III* (4 PE), *mind probe* (4 PE, DC 16), *mind thrust IV* (4 PE, DC 16), *synapse overload* (5 PE, DC 17), *synaptic scramble* (4 PE, DC 17), *thought shield IV* (5 PE)
 
 **Statistics**
 

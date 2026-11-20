@@ -31,7 +31,7 @@ CE Large aberration
 
 **Str** 24, **Dex** 16, **Con** 23, **Int** 19, **Wis** 18, **Cha** 17  
 **Base Atk** +7; **CMB** +15; **CMD** 35 (cannot be tripped)  
-**Feats** [Arcane Strike](../../rules/feats/arcane-strike.md), [Extend Spell](../../rules/feats/extend-spell.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Arcane Strike](../../rules/feats/arcane-strike.md), [Extend Spell](../../rules/feats/extend-spell.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Power Attack](../../rules/feats/power-attack.md)  
 **Skills** Fly +15, Knowledge (arcana, dungeoneering, and planes) +23, Perception +17, Sense Motive +17, Spellcraft +17, Stealth +12, Use Magic Device +16  
 **Languages** Abyssal, Aklo, Common, Draconic, Protean, Undercommon; telepathy (100 feet)  
 **SQ** brain collection, strange knowledge

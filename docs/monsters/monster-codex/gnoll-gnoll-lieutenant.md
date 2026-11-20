@@ -31,11 +31,11 @@ CE Medium humanoid (gnoll)
 
 **Str** 20, **Dex** 12, **Con** 15, **Int** 6, **Wis** 10, **Cha** 12  
 **Base Atk** +6; **CMB** +11; **CMD** 22  
-**Feats** [Dazzling Display](../../rules/feats/dazzling-display.md), [Exotic Weapon Proficiency (whip)](../../rules/feats/exotic-weapon-proficiency.md), [Improved Whip Mastery<sup>UC</sup>](../../rules/feats/improved-whip-mastery.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (whip)](../../rules/feats/weapon-focus.md), [Whip Mastery<sup>UC</sup>](../../rules/feats/whip-mastery.md)  
+**Feats** [Dazzling Display](../../rules/feats/dazzling-display.md), [Exotic Weapon Proficiency (whip)](../../rules/feats/exotic-weapon-proficiency.md), [Improved Whip Mastery](../../rules/feats/improved-whip-mastery.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (whip)](../../rules/feats/weapon-focus.md), [Whip Mastery](../../rules/feats/whip-mastery.md)  
 **Skills** Intimidate +16  
 **Languages** Gnoll  
 **SQ** armor training 1  
-**Combat Gear**  *potions of cure light wounds* (2), *potion of cure moderate wounds*, alchemist’s fire (3), thunderstones (2); **Other Gear** mwk splint mail, mwk light steel shield, *+1 scorpion whip*<sup>UE</sup>, mwk javelin, *cloak of resistance +1*, 15 gp
+**Combat Gear**  *potions of cure light wounds* (2), *potion of cure moderate wounds*, alchemist’s fire (3), thunderstones (2); **Other Gear** mwk splint mail, mwk light steel shield, *+1 scorpion whip*, mwk javelin, *cloak of resistance +1*, 15 gp
 
 **Ecology**
 

@@ -24,20 +24,20 @@ NG Medium humanoid (human)
 **Spell-Like Abilities** (CL 6th)  
 Constant—*protection from evil*  
 **Wizard Spells Prepared** (CL 11th; concentration +16)  
-6th—*summon monster VI*<sup>†</sup>  
+6th—*summon monster VI*  
 5th—*break enchantment*, *dismissal* (DC 20), *dominate person* (DC 20)  
 4th—*ice storm*, *reincarnate*, *shout* (DC 19), *solid fog*  
-3rd—*cure moderate wounds*, *daylight*, *dispel magic*, *magic circle against evil*<sup>†</sup>, *remove disease* (DC 18)  
+3rd—*cure moderate wounds*, *daylight*, *dispel magic*, *magic circle against evil*, *remove disease* (DC 18)  
 2nd—*acid arrow*, *flame blade*, *resist energy*, *scorching ray*, *warp wood*  
 1st—*mage armor*, *magic missile* (2), *ray of enfeeblement* (DC 16), *shillelagh* (2)  
 0 (at will)—*detect magic*, *light*, *mage hand*, *read magic*  
-<sup>†</sup> If cast as a good spell, this spell is cast at +1 caster level and lasts an additional 6 rounds.
+ If cast as a good spell, this spell is cast at +1 caster level and lasts an additional 6 rounds.
 
 **Statistics**
 
 **Str** 8, **Dex** 12, **Con** 14, **Int** 20, **Wis** 14, **Cha** 10  
 **Base Atk** +5; **CMB** +4; **CMD** 16  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Empower Spell](../../rules/feats/empower-spell.md), [Greater Spell Penetration](../../rules/feats/greater-spell-penetration.md), [Iron Will](../../rules/feats/iron-will.md), [Scholar<sup>ISWG</sup>](../../rules/feats/scholar.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Spell Mastery (*baleful polymorph](../../rules/feats/spell-mastery.md)*, *dispel magic*, *resist energy*, *summon monster VI*), [Spell Penetration](../../rules/feats/spell-penetration.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Empower Spell](../../rules/feats/empower-spell.md), [Greater Spell Penetration](../../rules/feats/greater-spell-penetration.md), [Iron Will](../../rules/feats/iron-will.md), [Scholar](../../rules/feats/scholar.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Spell Mastery (*baleful polymorph](../../rules/feats/spell-mastery.md)*, *dispel magic*, *resist energy*, *summon monster VI*), [Spell Penetration](../../rules/feats/spell-penetration.md)  
 **Skills** Diplomacy +14, Fly +15, Heal +16, Knowledge (arcana) +23, Knowledge (history) +19, Knowledge (nature) +23, Knowledge (religion) +19, Spellcraft +19  
 **Languages** Abyssal, Celestial, Common, Draconic, Infernal, Osiriani, Polyglot  
 **SQ** arcane bond (amulet), aura, halcyon magic*, immediate spell mastery* (1/day), intoned recollection*, lasting goodness, spontaneous spell mastery* (1/day), superior spell mastery*, virtuous spells  

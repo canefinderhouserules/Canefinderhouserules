@@ -30,8 +30,8 @@ LE Medium humanoid (dwarf)
 
 **Str** 16, **Dex** 14, **Con** 16, **Int** 8, **Wis** 14, **Cha** 6  
 **Base Atk** +9; **CMB** +12 (+14 overrun); **CMD** 24 (28 vs. bull rush, 26 vs. overrun, 28 vs. trip)  
-**Feats** [Charge Through<sup>APG</sup>](../../rules/feats/charge-through.md), [Cleave](../../rules/feats/cleave.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Mounted Combat](../../rules/feats/mounted-combat.md), [Outflank<sup>APG</sup>](../../rules/feats/outflank.md), [Power Attack](../../rules/feats/power-attack.md), [Precise Strike<sup>APG</sup>](../../rules/feats/precise-strike.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md)  
+**Feats** [Charge Through](../../rules/feats/charge-through.md), [Cleave](../../rules/feats/cleave.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Mounted Combat](../../rules/feats/mounted-combat.md), [Outflank](../../rules/feats/outflank.md), [Power Attack](../../rules/feats/power-attack.md), [Precise Strike](../../rules/feats/precise-strike.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md)  
 **Skills** Handle Animal +10, Intimidate +10, Perception +6, Ride +11, Sense Motive +2 (+6 when opposing a Bluff check), Stealth +8; **Racial Modifiers** +4 Stealth  
 **Languages** Common, Dwarven, Undercommon  
 **SQ** mount (giant spider), mounted mastery, order of the sword  
-**Combat Gear**  *potion of cure serious wounds*; **Other Gear** *+2 agile breastplate*<sup>UE</sup>, *+1 lance*, mwk bardiche<sup>UE</sup>, mwk cestus<sup>UE</sup>, sling with 10 bullets, *cloak of resistance +1*, simple banners (2), 420 gp
+**Combat Gear**  *potion of cure serious wounds*; **Other Gear** *+2 agile breastplate*, *+1 lance*, mwk bardiche, mwk cestus, sling with 10 bullets, *cloak of resistance +1*, simple banners (2), 420 gp

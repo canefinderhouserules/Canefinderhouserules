@@ -219,7 +219,8 @@ function toMarkdown(html) {
     const m = text.match(/^(\*?)([\s\S]*?)(\*?)$/);
     return m[1] + '[' + m[2] + '](' + href + ')' + m[3];
   });
-  h = h.replace(/\[\[SUP\]\]([\s\S]*?)\[\[\/SUP\]\]/g, (_, t) => t.trim() ? '<sup>' + t.trim() + '</sup>' : '');
+  // keep the mythic "M" and domain "D" marks; book abbreviations (APG, UM, OA, B2...) are citations and go
+  h = h.replace(/\[\[SUP\]\]([\s\S]*?)\[\[\/SUP\]\]/g, (_, t) => /^(M|D|S)$/.test(t.trim()) ? '<sup>' + t.trim() + '</sup>' : '');
   h = h.replace(/([a-z])M\b(?=[*\],;)\s]|$)/gm, '$1<sup>M</sup>'); // mythic mark typed as a plain letter: "divine favorM"
   h = h.replace(/[ \t]+\n/g, m => (m.endsWith('  \n') ? '  \n' : '\n')).replace(/\n{3,}/g, '\n\n');
   return numberConditions(h).trim();

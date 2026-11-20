@@ -25,7 +25,7 @@ N Medium outsider (air, elemental, extraplanar)
 
 **Str** 14, **Dex** 19, **Con** 12, **Int** 4, **Wis** 11, **Cha** 11  
 **Base Atk** +4; **CMB** +6; **CMD** 21  
-**Feats** [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Weapon Finesse <sup>B</sup>  
+**Feats** [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Weapon Finesse  
 **Skills** Acrobatics +11, Escape Artist +9, Fly +12, Knowledge (planes) +2, Perception +7
 
 **Ecology**

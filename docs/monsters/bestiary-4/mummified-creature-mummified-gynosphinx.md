@@ -33,7 +33,7 @@ Constant—*comprehend languages*, *detect magic*, *read magic*, *see invisibili
 
 **Str** 26, **Dex** 13, **Con** —, **Int** 16, **Wis** 19, **Cha** 19  
 **Base Atk** +12; **CMB** +21; **CMD** 32 (36 vs. trip)  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Casting](../../rules/feats/combat-casting.md), Hover, [Improved Critical (claw)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Improved Natural Attack<sup>B</sup> (claw), [Iron Will](../../rules/feats/iron-will.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Casting](../../rules/feats/combat-casting.md), Hover, [Improved Critical (claw)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Improved Natural Attack (claw), [Iron Will](../../rules/feats/iron-will.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Bluff +12, Diplomacy +12, Fly +2, Intimidate +12, Knowledge (history) +5, Knowledge (religion) +5, Perception +21, Sense Motive +18, Spellcraft +11, Stealth +12; **Racial Modifiers** +4 Stealth  
 **Languages** Common, Draconic, Sphinx; *comprehend languages*
 

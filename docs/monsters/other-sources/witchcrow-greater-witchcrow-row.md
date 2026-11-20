@@ -19,17 +19,17 @@ CE Small magical beast
 
 **Speed** 20 ft., fly 60 ft. (good)  
 **Melee** 2 talons +7 (1d6+1)  
-**Special Attacks** hexes<sup>APG</sup> (cackle, evil eye [–2, 6 rounds], misfortune [1 round])  
+**Special Attacks** hexes (cackle, evil eye [–2, 6 rounds], misfortune [1 round])  
 **Spell-Like Abilities** (CL 5th; concentration +8; save DCs are Intelligence-based)  
 Constant—*detect magic*, *speak with animals* (birds only)  
-3/day—*perceive cues*<sup>APG</sup>, *vanish*<sup>APG</sup>, *ventriloquism* (DC 14)  
-1/day—*ill omen*<sup>APG</sup>, *mirror image*
+3/day—*perceive cues*, *vanish*, *ventriloquism* (DC 14)  
+1/day—*ill omen*, *mirror image*
 
 **Statistics**
 
 **Str** 12, **Dex** 17, **Con** 12, **Int** 17, **Wis** 16, **Cha** 13  
 **Base Atk** +5; **CMB** +5 (+7 steal); **CMD** 19 (21 vs. steal)  
-**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Dodge](../../rules/feats/dodge.md), Flyby Attack<sup>B</sup>, [Improved Steal](../../rules/feats/improved-steal.md)  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Dodge](../../rules/feats/dodge.md), Flyby Attack, [Improved Steal](../../rules/feats/improved-steal.md)  
 **Skills** Bluff +5, Fly +15, Knowledge (arcana) +6, Perception +9, Sense Motive +6, Sleight of Hand +12, Spellcraft +6, Stealth +15; **Racial Modifiers** +8 Sleight of Hand  
 **Languages** Abyssal, Aklo, Auran, Common; speak with animals (birds only)  
 **SQ** apportation

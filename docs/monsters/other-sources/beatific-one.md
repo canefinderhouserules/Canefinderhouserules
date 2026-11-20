@@ -28,7 +28,7 @@ At will — *disguise self*, *feather fall*, *see invisibility*, *ventriloquism*
 
 **Str** 22, **Dex** 24, **Con** 16, **Int** 16, **Wis** 24, **Cha** 19  
 **Base Atk** +11; **Grapple** +21  
-**Feats** [Deflect Arrows<sup>B</sup>](../../rules/feats/deflect-arrows.md), [Dodge](../../rules/feats/dodge.md), [Improved Disarm<sup>B</sup>](../../rules/feats/improved-disarm.md), [Improved Grapple<sup>B</sup>](../../rules/feats/improved-grapple.md), [Mobility](../../rules/feats/mobility.md), [Snatch Arrows](../../rules/feats/snatch-arrows.md), [Spring Attack](../../rules/feats/spring-attack.md)  
+**Feats** [Deflect Arrows](../../rules/feats/deflect-arrows.md), [Dodge](../../rules/feats/dodge.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Grapple](../../rules/feats/improved-grapple.md), [Mobility](../../rules/feats/mobility.md), [Snatch Arrows](../../rules/feats/snatch-arrows.md), [Spring Attack](../../rules/feats/spring-attack.md)  
 **Skills** Appraise +17, Balance +23, Climb +20, Concentration +17, Escape Artist +21, Hide +14, Jump +22, Knowledge (the planes) +10, Listen +14, Move Silently +21, Perform (dance) +11, Spot +21, Tumble +23  
 **Languages** Celestial, Common, Infernal, Far Eastern; telepathy 100 ft.  
 **SQ** monk qualities, *summon asura*

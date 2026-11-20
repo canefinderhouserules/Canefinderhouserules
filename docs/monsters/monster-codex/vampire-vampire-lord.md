@@ -23,11 +23,11 @@ NE Medium undead (augmented humanoid, elf, human)
 **Melee** *+1 frost longsword* +20/+15 (1d8+11/17–20 plus 2d6), slam +13 (1d4+8 plus energy drain)  
 **Special Attacks** blood drain, children of the night, create spawn, dominate (DC 22), energy drain (2 levels, DC 22), greater spell combat, improved spell combat, spell combat (–2 attack, +2 concentration, double bonus), spellstrike  
 **Magus Spells Prepared** (CL 14th; concentration +18)  
-5th—*baleful polymorph* (DC 19), *monstrous physique III*<sup>UM</sup>  
+5th—*baleful polymorph* (DC 19), *monstrous physique III*  
 4th—*fire shield*, *greater invisibility*, *ice storm*, *shout* (DC 18), *stoneskin*  
-3rd—*cloak of winds*<sup>APG</sup>, *dispel magic*, *fireball* (DC 17), *haste*, *slow* (DC 17)  
-2nd—*darkness*, *frigid touch*<sup>UM</sup>, *mirror image*, *scorching ray* (2), *web* (DC 16)  
-1st—*expeditious retreat*, *frostbite*<sup>UM</sup>, *shield*, *shocking grasp* (2), *true strike*  
+3rd—*cloak of winds*, *dispel magic*, *fireball* (DC 17), *haste*, *slow* (DC 17)  
+2nd—*darkness*, *frigid touch*, *mirror image*, *scorching ray* (2), *web* (DC 16)  
+1st—*expeditious retreat*, *frostbite*, *shield*, *shocking grasp* (2), *true strike*  
 0 (at will)—*arcane mark*, *dancing lights*, *detect magic*, *ghost sound* (DC 14), *ray of frost*
 
 **Tactics**
@@ -39,10 +39,10 @@ NE Medium undead (augmented humanoid, elf, human)
 
 **Str** 26, **Dex** 14, **Con** —, **Int** 18, **Wis** 15, **Cha** 20  
 **Base Atk** +10; **CMB** +18; **CMD** 32  
-**Feats** [Alertness<sup>B</sup>](../../rules/feats/alertness.md), [Combat Casting](../../rules/feats/combat-casting.md), [Critical Focus](../../rules/feats/critical-focus.md), [Disruptive](../../rules/feats/disruptive.md), [Dodge<sup>B</sup>](../../rules/feats/dodge.md), [Flanking Foil<sup>UC</sup>](../../rules/feats/flanking-foil.md), [Improved Critical (longsword)](../../rules/feats/improved-critical.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), SpellbreakerB, ToughnessB, [Weapon Focus (longsword)](../../rules/feats/weapon-focus.md), [Weapon Specialization (longsword)](../../rules/feats/weapon-specialization.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Combat Casting](../../rules/feats/combat-casting.md), [Critical Focus](../../rules/feats/critical-focus.md), [Disruptive](../../rules/feats/disruptive.md), [Dodge](../../rules/feats/dodge.md), [Flanking Foil](../../rules/feats/flanking-foil.md), [Improved Critical (longsword)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), SpellbreakerB, ToughnessB, [Weapon Focus (longsword)](../../rules/feats/weapon-focus.md), [Weapon Specialization (longsword)](../../rules/feats/weapon-specialization.md)  
 **Skills** Diplomacy +12, Intimidate +22, Knowledge (arcana) +21, Knowledge (dungeoneering) +21, Knowledge (local) +11, Knowledge (nobility) +11, Perception +35, Sense Motive +12, Spellcraft +21, Use Magic Device +15; **Racial Modifiers** +8 Bluff, +8 Perception, +8 Sense Motive, +8 Stealth  
 **Languages** Common, Dwarven, Elven, Giant, Sylvan, Undercommon  
-**SQ** arcane pool (11 points, +4), change shape (dire bat or wolf, *beast shape II*), elf blood, fighter training (fighter level 7), gaseous form, heavy armor proficiency, improved spell recall, knowledge pool, magus arcana (accurate strike<sup>UC</sup>, concentrate, spell shield, spellbreaker<sup>UC</sup>) medium armor proficiency, shadowless, spider climb  
+**SQ** arcane pool (11 points, +4), change shape (dire bat or wolf, *beast shape II*), elf blood, fighter training (fighter level 7), gaseous form, heavy armor proficiency, improved spell recall, knowledge pool, magus arcana (accurate strike, concentrate, spell shield, spellbreaker) medium armor proficiency, shadowless, spider climb  
 **Gear** *+1 breastplate*, *+1 frost longsword*, *amulet of natural armor +1*, *belt of physical might +2* (Str, Dex), *cloak of resistance +2*, *headband of alluring charisma +4*, *ring of protection +1*, granite and diamond dust (worth 500 gp), 835 gp
 
 **Ecology**

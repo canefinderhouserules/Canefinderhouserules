@@ -25,8 +25,8 @@ CE Large humanoid (cold, giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** combat style (two-weapon), favored enemy (giants +2, humans +4), rock throwing (120 ft.)  
 **Ranger Spells Prepared** (CL 6th; concentration +7)  
-2nd—*communal returning weapon*<sup>UC</sup>  
-1st—*call animal*<sup>APG</sup>, *charm animal* (DC 12), *lead blades*<sup>APG</sup>
+2nd—*communal returning weapon*  
+1st—*call animal*, *charm animal* (DC 12), *lead blades*
 
 **Tactics**
 
@@ -37,7 +37,7 @@ CE Large humanoid (cold, giant)
 
 **Str** 32, **Dex** 19, **Con** 27, **Int** 12, **Wis** 12, **Cha** 10  
 **Base Atk** +19; **CMB** +31; **CMD** 47  
-**Feats** [Double Slice](../../rules/feats/double-slice.md), [Dreadful Carnage<sup>APG</sup>](../../rules/feats/dreadful-carnage.md), [Endurance](../../rules/feats/endurance.md), [Furious Focus<sup>APG</sup>](../../rules/feats/furious-focus.md), [Greater Two-Weapon Fighting](../../rules/feats/greater-two-weapon-fighting.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), [Iron Will](../../rules/feats/iron-will.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Power Attack](../../rules/feats/power-attack.md), [Precise Shot](../../rules/feats/precise-shot.md), [Toughness](../../rules/feats/toughness.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Two-Weapon Rend](../../rules/feats/two-weapon-rend.md), [Weapon Focus (warhammer)](../../rules/feats/weapon-focus.md)  
+**Feats** [Double Slice](../../rules/feats/double-slice.md), [Dreadful Carnage](../../rules/feats/dreadful-carnage.md), [Endurance](../../rules/feats/endurance.md), [Furious Focus](../../rules/feats/furious-focus.md), [Greater Two-Weapon Fighting](../../rules/feats/greater-two-weapon-fighting.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), [Iron Will](../../rules/feats/iron-will.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Power Attack](../../rules/feats/power-attack.md), [Precise Shot](../../rules/feats/precise-shot.md), [Toughness](../../rules/feats/toughness.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Two-Weapon Rend](../../rules/feats/two-weapon-rend.md), [Weapon Focus (warhammer)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +8 (+12 when jumping), Climb +23, Diplomacy +5, Heal +9, Intimidate +23, Perception +24, Perform (sing) +5, Sense Motive +11, Stealth +17 (+21 in snow), Survival +14; **Racial Modifiers** +4 Acrobatics when jumping, +4 Stealth in snow  
 **Languages** Common, Giant  
 **SQ** favored terrain (cold +4, forest +2), hunter’s bond (companions), swift tracker, track +4, wild empathy +9, woodland stride  

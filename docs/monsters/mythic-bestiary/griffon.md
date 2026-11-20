@@ -26,7 +26,7 @@ N Large magical beast (mythic)
 
 **Str** 18, **Dex** 15, **Con** 16, **Int** 5, **Wis** 13, **Cha** 8  
 **Base Atk** +5; **CMB** +10 (+14 grapple); **CMD** 22 (26 vs. trip)  
-**Feats** Flyby Attack<sup>B</sup>, [Iron Will](../../rules/feats/iron-will.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Weapon Focus (talons)<sup>M</sup>](../../rules/feats/weapon-focus.md)  
+**Feats** Flyby Attack, [Iron Will](../../rules/feats/iron-will.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Weapon Focus (talons)<sup>M</sup>](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +10, Fly +6, Perception +12; **Racial Modifiers** +4 Acrobatics, +4 Perception  
 **Languages** Common (cannot speak)
 

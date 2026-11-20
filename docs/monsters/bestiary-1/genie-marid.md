@@ -32,7 +32,7 @@ At will—*create water*, *invisibility*, *plane shift* (willing targets to elem
 
 **Str** 23, **Dex** 19, **Con** 18, **Int** 14, **Wis** 15, **Cha** 16  
 **Base Atk** +12; **CMB** +19; **CMD** 34  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), Improved Natural Attack, [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Improved Natural Attack, [Power Attack](../../rules/feats/power-attack.md)  
 **Skills** Craft (any one) +17, Diplomacy +18, Knowledge (planes) +17, Perception +17, Sense Motive +17, Spellcraft +17, Stealth +15, Swim +29  
 **Languages** Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.  
 **SQ** change shape (water elemental, humanoid or giant, *alter self*, *elemental body III*, or *giant form I*)

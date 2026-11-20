@@ -24,7 +24,7 @@ LE Medium humanoid (goblinoid)
 **Alchemist Extracts Prepared** (CL 8th)  
 3rd—*fly*, *haste*  
 2nd—*barkskin*, *cat’s grace*, *false life*, *invisibility*, *resist energy*  
-1st—*bomber’s eye*<sup>APG</sup>, *expeditious retreat*, *shield*, *true strike* (2)
+1st—*bomber’s eye*, *expeditious retreat*, *shield*, *true strike* (2)
 
 **Tactics**
 
@@ -38,7 +38,7 @@ LE Medium humanoid (goblinoid)
 **Skills** Craft (alchemy) +15, Heal +7, Knowledge (arcana) +11, Knowledge (engineering) +8, Knowledge (nature) +11, Perception +16, Spellcraft +13, Use Magic Device +6  
 **Languages** Aklo, Common, Goblin, Sylvan  
 **SQ** alchemy (alchemy crafting +8, identify potions), alternate racial features, discoveries (concussive bomb [4d4+2 sonic plus deafness], fast bombs, precise bombs [2 squares], smoke bomb, stink bomb), mutagen (+4/–2, +2 natural, 80 minutes), swift alchemy  
-**Combat Gear**  *wand of cure light wounds* (40 charges), acid (3), alchemist’s fire (4), smokesticks (2), tanglefoot bags (2), unstable accelerant<sup>ARG</sup> (3); **Other Gear** *+2 leather armor*, bombchucker, mwk short sword, *eyes of the eagle*, 30 gp
+**Combat Gear**  *wand of cure light wounds* (40 charges), acid (3), alchemist’s fire (4), smokesticks (2), tanglefoot bags (2), unstable accelerant (3); **Other Gear** *+2 leather armor*, bombchucker, mwk short sword, *eyes of the eagle*, 30 gp
 
 **Ecology**
 

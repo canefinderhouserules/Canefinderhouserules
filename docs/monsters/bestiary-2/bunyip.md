@@ -24,7 +24,7 @@ N Medium magical beast (aquatic)
 
 **Str** 13, **Dex** 16, **Con** 13, **Int** 2, **Wis** 11, **Cha** 7  
 **Base Atk** +5; **CMB** +6; **CMD** 19  
-**Feats** [Improved Critical (bite)<sup>B</sup>](../../rules/feats/improved-critical.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md)  
+**Feats** [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md)  
 **Skills** Escape Artist +5, Perception +8, Stealth +10, Swim +9  
 **SQ** amphibious
 

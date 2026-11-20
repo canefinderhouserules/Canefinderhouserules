@@ -24,7 +24,7 @@ N Large animal
 
 **Str** 16, **Dex** 14, **Con** 17, **Int** 2, **Wis** 13, **Cha** 7  
 **Base Atk** +1; **CMB** +5; **CMD** 17 (21 vs. trip)  
-**Feats** [Endurance](../../rules/feats/endurance.md), [Run<sup>B</sup>](../../rules/feats/run.md)  
+**Feats** [Endurance](../../rules/feats/endurance.md), [Run](../../rules/feats/run.md)  
 **Skills** Perception +6  
 **SQ** docile
 

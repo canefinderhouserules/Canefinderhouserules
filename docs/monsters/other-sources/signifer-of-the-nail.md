@@ -8,7 +8,7 @@
 Human sorcerer 6/Hell Knight Signifer 1 (*Pathfinder Campaign Setting: Paths of Prestige* 28)  
 LE Medium humanoid (human)  
 **Init** +1; **Senses** Perception +1  
-**Aura** aura of law<sup>POP</sup>
+**Aura** aura of law
 
 **Defense**
 
@@ -43,7 +43,7 @@ LE Medium humanoid (human)
 **Feats** [Arcane Armor Training](../../rules/feats/arcane-armor-training.md), [Eschew Materials](../../rules/feats/eschew-materials.md), Light Armor Proficiency, Medium Armor Proficiency, [Spell Focus (evocation)](../../rules/feats/spell-focus.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Intimidate +9, Knowledge (planes) +4, Sense Motive +7, Spellcraft +7  
 **Languages** Common  
-**SQ** bloodline arcana (+2 DC for charm spells), signifer mask<sup>POP</sup>  
+**SQ** bloodline arcana (+2 DC for charm spells), signifer mask  
 **Combat Gear**  *potions of cure light wounds* (2), *scroll of fireball*, *scroll of invisibility*; **Other Gear** *+1 full plate*, *+1 halberd*, mwk light crossbow
 
 Citadel Vraid is a hostile place for virtually anyone but the Hell Knights who rule it. Since armigers make up the bulk of Citadel Vraid’s denizens, intruders often encounter these rookie Hell Knights before rousing the attention of higherups. Most armigers have up to 4 or 5 class levels in fighter or ranger, though some pupils have backgrounds as cavaliers or even rogues. Citadel Vraid’s Hell Knights and signifers are significantly more challenging than their greener associates, and possess at least 1 level in either the Hell Knight or Hell Knight Signifer prestige class (see *Pathfinder Campaign Setting: The known world World Guide* and *Pathfinder Campaign Setting: Paths of Prestige*, respectively). The following is an example of a typical Signifer of the Nail from Citadel Vraid.

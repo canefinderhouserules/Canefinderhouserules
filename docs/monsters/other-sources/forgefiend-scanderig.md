@@ -30,7 +30,7 @@ At will—*major image* (DC 15), *passwall*, *shatter* (DC 14), *stone shape*
 
 **Str** 24, **Dex** 14, **Con** 25, **Int** 15, **Wis** 12, **Cha** 15  
 **Base Atk** +11; **CMB** +19; **CMD** 31  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Greater Sunder<sup>B</sup>](../../rules/feats/greater-sunder.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Improved Sunder<sup>B</sup>](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), Quicken Spell-Like Ability (*produce flame*), [Vital Strike](../../rules/feats/vital-strike.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Greater Sunder](../../rules/feats/greater-sunder.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), Quicken Spell-Like Ability (*produce flame*), [Vital Strike](../../rules/feats/vital-strike.md)  
 **Skills** Acrobatics +16 (+12 when jumping), Climb +21, Craft (traps) +16, Disable Device +16, Knowledge (dungeoneering) +16, Perception +15, Sense Motive +15, Stealth +12  
 **Languages** Common, Dwarven, Infernal, Terran
 

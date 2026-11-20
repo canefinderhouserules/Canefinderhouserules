@@ -34,7 +34,7 @@ NG Medium humanoid (elf, human)
 
 **Str** 8, **Dex** 14, **Con** 12, **Int** 20, **Wis** 14, **Cha** 10  
 **Base Atk** +4; **CMB** +3; **CMD** 15  
-**Feats** [Craft Wand](../../rules/feats/craft-wand.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Cypher Magic<sup>ISWG</sup>](../../rules/feats/cypher-magic.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Magical Aptitude](../../rules/feats/magical-aptitude.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Skill Focus (Use Magic Device)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Craft Wand](../../rules/feats/craft-wand.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Cypher Magic](../../rules/feats/cypher-magic.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Magical Aptitude](../../rules/feats/magical-aptitude.md), [Scribe Scroll](../../rules/feats/scribe-scroll.md), [Skill Focus (Use Magic Device)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Climb +10, Disable Device +12, Fly +6, Knowledge (arcana, dungeoneering, geography, history, planes) +13, Linguistics +13, Perception +16, Spellcraft +19, Use Magic Device +17  
 **Languages** Abyssal, Aklo, Celestial, Common, Draconic, Elven, Giant, Goblin, Infernal, Rune Empire, Undercommon, Frontier  
 **SQ** arcane bond (*wand of magic missile*), elf blood  

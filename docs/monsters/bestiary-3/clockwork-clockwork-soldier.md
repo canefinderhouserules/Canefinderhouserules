@@ -26,7 +26,7 @@ N Medium construct (clockwork)
 
 **Str** 28, **Dex** 15, **Con** —, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +8; **CMB** +17 (+19 disarm); **CMD** 31 (33 vs. disarm)  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **SQ** efficient winding, proficient, standby, swift reactions
 
 **Ecology**

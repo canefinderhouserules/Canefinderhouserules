@@ -23,7 +23,7 @@ N Huge magical beast (aquatic)
 **Special Attacks** constrict (2d6+12), endless coils  
 **Spell-Like Abilities** (CL 14th; concentration +17)  
 Constant—*arcane sight*, *speak with animals*  
-At will—*control water*, *hydraulic torrent*<sup>APG</sup>, *rainbow pattern* (DC 17)  
+At will—*control water*, *hydraulic torrent*, *rainbow pattern* (DC 17)  
 1/day—*control weather*
 
 **Statistics**

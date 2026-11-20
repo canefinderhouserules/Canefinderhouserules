@@ -23,8 +23,8 @@ N Large aberration
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** constrict (1d6+5), engulf (DC 20, 1d6 acid and paralysis)  
 **Spell-Like Abilities** (CL 11th; concentration +13)  
-3/day—*mental block*<sup>OA</sup> (DC 14), *synesthesia*<sup>OA</sup> (DC 15)  
-1/day—*id insinuation IV*<sup>OA</sup> (DC 17)
+3/day—*mental block* (DC 14), *synesthesia* (DC 15)  
+1/day—*id insinuation IV* (DC 17)
 
 **Statistics**
 

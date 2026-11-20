@@ -35,7 +35,7 @@ LE Medium humanoid (goblinoid)
 **Skills** Diplomacy +18, Handle Animal +18, Intimidate +18, Knowledge (history) +17, Ride +9, Stealth –3  
 **Languages** Common, Goblin, Infernal  
 **SQ** mount (horse), mounted archer, order of the warrior (honor in all things 3/day, way of the samurai), weapon expertise (katana)  
-**Combat Gear**  *+1 flaming burst arrows* (8), *potion of cure serious wounds*; **Other Gear** *+2 iron lamellar*<sup>UE</sup>, *+1 heavy steel shield*, *+1 shock katana*<sup>UE</sup>, mwk composite shortbow (+3 Str) with 10 arrows, mwk naginata<sup>UE</sup>, *amulet of natural armor +1*, *cloak of resistance +2*, *ring of protection +1*, 201 gp
+**Combat Gear**  *+1 flaming burst arrows* (8), *potion of cure serious wounds*; **Other Gear** *+2 iron lamellar*, *+1 heavy steel shield*, *+1 shock katana*, mwk composite shortbow (+3 Str) with 10 arrows, mwk naginata, *amulet of natural armor +1*, *cloak of resistance +2*, *ring of protection +1*, 201 gp
 
 **Ecology**
 

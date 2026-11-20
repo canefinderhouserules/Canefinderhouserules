@@ -23,14 +23,14 @@ NE Medium outsider (evil, extraplanar, herald, shapechanger)
 **Special Attacks** bleed (2d6), poison, sudden strike  
 **Spell-Like Abilities** (CL 17th; concentration +19)  
 Constant—*see invisibility*  
-At will—*absorbing touch*<sup>APG</sup>, *alchemical allocation*<sup>APG</sup>, *charm person* (DC 13), *keen edge*, *poison* (DC 16), *true strike*  
+At will—*absorbing touch*, *alchemical allocation*, *charm person* (DC 13), *keen edge*, *poison* (DC 16), *true strike*  
 3/day—*false alibi* (DC 15), *greater teleport* (self plus 50 lbs. of objects only), *invisibility*, *modify memory* (DC 16), *suggestion* (DC 15), summon
 
 **Statistics**
 
 **Str** 16, **Dex** 35, **Con** 24, **Int** 13, **Wis** 15, **Cha** 14  
 **Base Atk** +17; **CMB** +20; **CMD** 43  
-**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect Arrows<sup>B</sup>](../../rules/feats/deflect-arrows.md), [Dodge](../../rules/feats/dodge.md), [Greater Feint<sup>B</sup>](../../rules/feats/greater-feint.md), [Improved Feint<sup>B</sup>](../../rules/feats/improved-feint.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Scorpion Style<sup>B</sup>](../../rules/feats/scorpion-style.md), [Spring Attack](../../rules/feats/spring-attack.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect Arrows](../../rules/feats/deflect-arrows.md), [Dodge](../../rules/feats/dodge.md), [Greater Feint](../../rules/feats/greater-feint.md), [Improved Feint](../../rules/feats/improved-feint.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Scorpion Style](../../rules/feats/scorpion-style.md), [Spring Attack](../../rules/feats/spring-attack.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Appraise +12, Bluff +22, Climb +11, Craft (alchemy) +13, Knowledge (arcana, nature) +10, Knowledge (local) +13, Knowledge (planes) +12, Knowledge (religion) +9, Perception +26, Sense Motive +13, Stealth +32; **Racial Modifiers** +8 Bluff, +4 Perception  
 **Languages** Abyssal, Celestial, Common, Infernal, Protean; telepathy 100 ft.  
 **SQ** change shape (Huge scorpion or scorpion-tailed human; *shapechange*), murderer’s reward

@@ -26,7 +26,7 @@ N Gargantuan construct
 
 **Str** 40, **Dex** 7, **Con** —, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +30; **CMB** +49; **CMD** 57  
-**Feats** [Whirlwind Attack<sup>B</sup>](../../rules/feats/whirlwind-attack.md)  
+**Feats** [Whirlwind Attack](../../rules/feats/whirlwind-attack.md)  
 **SQ** urban defender
 
 **Ecology**

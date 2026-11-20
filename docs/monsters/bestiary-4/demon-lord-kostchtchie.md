@@ -28,7 +28,7 @@ CE Huge outsider (chaotic, cold, demon, evil, extraplanar)
 Constant—*air walk*, *detect good*, *detect law*, *freedom of movement*, *true seeing*, *unholy aura* (DC 26)  
 At will—*astral projection*, *blasphemy** (DC 25), *cone of cold** (DC 23), *desecrate**, *enlarge person**, *greater dispel magic*, *greater teleport*, *telekinesis** (DC 23), *shapechange*, *unhallow*, *unholy blight** (DC 22)  
 3/day—*polar ray**, *power word stun**, *summon demons*, *symbol of stunning* (DC 25)  
-1/day—*mass icy prison*<sup>UM</sup> (DC 27), *polar midnight*<sup>UM</sup> (DC 27), *time stop**  
+1/day—*mass icy prison* (DC 27), *polar midnight* (DC 27), *time stop**  
 * Kostchtchie can use the mythic version of this ability in his realm.
 
 **Statistics**

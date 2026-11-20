@@ -24,15 +24,15 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Special Attacks** curse of living death, slowing gaze, sneak attack +3d6, swift cuts, sword mastery  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
 Constant—*airwalk*, *detect good*, *detect law*, *freedom of movement*, *true seeing*, *unholy aura* (DC 25)  
-At will—*greater dispel magic*, *greater teleport*, *phantasmal killer* (DC 21), *spiked pit*<sup>APG</sup> (DC 20), *telekinesis* (DC 22)  
-3/day—*acid pit*<sup>APG</sup> (DC 21), quickened *blade barrier* (DC 23), *harm* (DC 23), *hungry pit*<sup>APG</sup> (DC 22)  
+At will—*greater dispel magic*, *greater teleport*, *phantasmal killer* (DC 21), *spiked pit* (DC 20), *telekinesis* (DC 22)  
+3/day—*acid pit* (DC 21), quickened *blade barrier* (DC 23), *harm* (DC 23), *hungry pit* (DC 22)  
 1/day—*reverse gravity*, summon (level 9, any demon or combination of demons whose total combined CR is 20 or lower 100%), *time stop*, *weird* (DC 26)
 
 **Statistics**
 
 **Str** 29, **Dex** 32, **Con** 39, **Int** 18, **Wis** 23, **Cha** 24  
 **Base Atk** +27; **CMB** +36; **CMD** 61  
-**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Deadly Stroke](../../rules/feats/deadly-stroke.md), [Exotic Weapon Proficiency (bastard sword)<sup>B</sup>](../../rules/feats/exotic-weapon-proficiency.md), [Greater Feint](../../rules/feats/greater-feint.md), [Greater Weapon Focus (bastard sword)<sup>B</sup>](../../rules/feats/greater-weapon-focus.md), [Greater Weapon Specialization (bastard sword)<sup>B</sup>](../../rules/feats/greater-weapon-specialization.md), [Improved Critical (bastard sword](../../rules/feats/improved-critical.md), claw, talon), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Feint](../../rules/feats/improved-feint.md), [Power Attack](../../rules/feats/power-attack.md), [Quick Draw](../../rules/feats/quick-draw.md), Quicken Spell- Like Ability (*blade barrier*), [Shatter Defenses](../../rules/feats/shatter-defenses.md), [Weapon Focus (bastard sword)<sup>B</sup>](../../rules/feats/weapon-focus.md), [Weapon Specialization (bastard sword)<sup>B</sup>](../../rules/feats/weapon-specialization.md)  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Deadly Stroke](../../rules/feats/deadly-stroke.md), [Exotic Weapon Proficiency (bastard sword)](../../rules/feats/exotic-weapon-proficiency.md), [Greater Feint](../../rules/feats/greater-feint.md), [Greater Weapon Focus (bastard sword)](../../rules/feats/greater-weapon-focus.md), [Greater Weapon Specialization (bastard sword)](../../rules/feats/greater-weapon-specialization.md), [Improved Critical (bastard sword](../../rules/feats/improved-critical.md), claw, talon), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Feint](../../rules/feats/improved-feint.md), [Power Attack](../../rules/feats/power-attack.md), [Quick Draw](../../rules/feats/quick-draw.md), Quicken Spell- Like Ability (*blade barrier*), [Shatter Defenses](../../rules/feats/shatter-defenses.md), [Weapon Focus (bastard sword)](../../rules/feats/weapon-focus.md), [Weapon Specialization (bastard sword)](../../rules/feats/weapon-specialization.md)  
 **Skills** Acrobatics +41, Intimidate +37, Knowledge (history, local, religion) +31, Knowledge (nobility) +34, Perception +36, Sense Motive +36, Stealth +41, Use Magic Device +37  
 **Languages** Abyssal, Celestial, Common, Draconic; telepathy 300 ft.  
 **SQ** nascent demon lord traits

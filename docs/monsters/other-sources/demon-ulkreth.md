@@ -31,7 +31,7 @@ At will—*greater teleport* (self plus 50 lbs. of objects only), *shatter* (DC 
 
 **Str** 30, **Dex** 11, **Con** 26, **Int** 7, **Wis** 14, **Cha** 15  
 **Base Atk** +17; **CMB** +31 (+35 overrun, +35 sunder); **CMD** 43 (45 vs. overrun, 45 vs. sunder)  
-**Feats** [Charge Through<sup>APG</sup>](../../rules/feats/charge-through.md), [Greater Overrun](../../rules/feats/greater-overrun.md), [Greater Sunder](../../rules/feats/greater-sunder.md), [Improved Critical (slams)](../../rules/feats/improved-critical.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Power Attack](../../rules/feats/power-attack.md), [Sundering Strike<sup>APG</sup>](../../rules/feats/sundering-strike.md), [Weapon Focus (slams)](../../rules/feats/weapon-focus.md)  
+**Feats** [Charge Through](../../rules/feats/charge-through.md), [Greater Overrun](../../rules/feats/greater-overrun.md), [Greater Sunder](../../rules/feats/greater-sunder.md), [Improved Critical (slams)](../../rules/feats/improved-critical.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Power Attack](../../rules/feats/power-attack.md), [Sundering Strike](../../rules/feats/sundering-strike.md), [Weapon Focus (slams)](../../rules/feats/weapon-focus.md)  
 **Skills** Climb +28, Intimidate +22, Knowledge (engineering) +18, Perception +30, Swim +23; **Racial Modifiers** +8 Perception  
 **Languages** Abyssal, Celestial, Draconic
 

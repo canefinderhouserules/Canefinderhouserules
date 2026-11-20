@@ -25,7 +25,7 @@ CE Small humanoid (giant)
 
 **Str** 12, **Dex** 18, **Con** 17, **Int** 4, **Wis** 9, **Cha** 7  
 **Base Atk** +3; **CMB** +3 (+6 grapple); **CMD** 17 (20 vs. grapple)  
-**Feats** [Improved Grapple<sup>B</sup>](../../rules/feats/improved-grapple.md), [Iron Will](../../rules/feats/iron-will.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Improved Grapple](../../rules/feats/improved-grapple.md), [Iron Will](../../rules/feats/iron-will.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +5 (+13 when jumping), Climb +10, Perception +4; **Racial Modifiers** +8 Acrobatics when jumping  
 **SQ** cradling
 

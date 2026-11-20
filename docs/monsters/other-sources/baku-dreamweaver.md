@@ -21,16 +21,16 @@ N Medium magical beast
 **Melee** 2 claws +19 (2d8+4 plus mental siphon), gore +19 (1d8+4)  
 **Special Attacks** mental siphon  
 **Spell-Like Abilities** (CL 11th; concentration +19)  
-Constant—*ethereal fists*<sup>OA</sup>  
-At will—*dream council*<sup>OA</sup>, *invisibility*, *lullaby*, *sleep* (DC 21)  
+Constant—*ethereal fists*  
+At will—*dream council*, *invisibility*, *lullaby*, *sleep* (DC 21)  
 **Psychic Magic** (CL 18th; concentration +26)  
-30 PE—*deep slumber* (3 PE, DC 21), *dream scan*<sup>OA</sup> (5 PE, DC 23), *dream voyage*<sup>OA</sup> (9 PE), *incorporeal chains*<sup>OA</sup> (6 PE), *modify memory* (5 PE, DC 23)
+30 PE—*deep slumber* (3 PE, DC 21), *dream scan* (5 PE, DC 23), *dream voyage* (9 PE), *incorporeal chains* (6 PE), *modify memory* (5 PE, DC 23)
 
 **Statistics**
 
 **Str** 18, **Dex** 25, **Con** 18, **Int** 18, **Wis** 23, **Cha** 27  
 **Base Atk** +12; **CMB** +16; **CMD** 41  
-**Feats** [Alertness](../../rules/feats/alertness.md), Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lucid Dreamer<sup>OA</sup>](../../rules/feats/lucid-dreamer.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lucid Dreamer](../../rules/feats/lucid-dreamer.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Diplomacy +20, Fly +15, Knowledge (planes) +16, Perception +25, Sense Motive +22, Spellcraft +16, Stealth +22  
 **Languages** Aklo, Celestial, Common  
 **SQ** consume dream, dream shepherd, dream whispers, dreaming grace, oneiromancy
@@ -45,9 +45,9 @@ At will—*dream council*<sup>OA</sup>, *invisibility*, *lullaby*, *sleep* (DC 2
 
 **Consume Dream (Su)** A baku dreamweaver can consume the dreams of any sleeping creature within 100 feet, either preventing nightmares or causing fatigue and preventing all effects of rest, as per a normal baku’s dream eating ability. When it is within the Dimension of Dreams, it can use this ability on a creature whose lucid body is within 100 feet to cause that creature to instantly leave the Dimension of Dreams (removing its lucid body), with no saving throw.
 
-**Dream Shepherd (Su)** A dreamweaver can enter the Dimension of Dreams at any time and herd a dreamer across the dreamscape, traveling great distances in a short period, as per the *dream travel*<sup>OA</sup> spell. When the dreamweaver uses either this ability or its *dream voyage*<sup>OA</sup> psychic magic ability, reaching a destination dream takes 30 minutes instead of 1 hour for a creature on the same plane, and the baku dreamweaver gains a +5 bonus on any required Will saves.
+**Dream Shepherd (Su)** A dreamweaver can enter the Dimension of Dreams at any time and herd a dreamer across the dreamscape, traveling great distances in a short period, as per the *dream travel* spell. When the dreamweaver uses either this ability or its *dream voyage* psychic magic ability, reaching a destination dream takes 30 minutes instead of 1 hour for a creature on the same plane, and the baku dreamweaver gains a +5 bonus on any required Will saves.
 
-**Dream Whispers (Su)** A dreamweaver can manipulate the dreams of nearby creatures to cultivate particular dreams. When it encounters a dreaming creature, a dreamweaver can change that creature’s dreamscape in any way that the *greater create mindscape*<sup>OA</sup> spell can shape a mindscape. The dreamscape acts as an immersive and harmless mindscape, taking any form the baku dreamweaver desires.
+**Dream Whispers (Su)** A dreamweaver can manipulate the dreams of nearby creatures to cultivate particular dreams. When it encounters a dreaming creature, a dreamweaver can change that creature’s dreamscape in any way that the *greater create mindscape* spell can shape a mindscape. The dreamscape acts as an immersive and harmless mindscape, taking any form the baku dreamweaver desires.
 
 **Dreaming Grace (Su)** A baku dreamweaver has devoured so many insubstantial dreams and dream creatures that it gains a deflection bonus to its AC equal to its Charisma modifier and adds half its Charisma modifier to its Constitution modifier to determine its hit points and its bonuses on Fortitude saves and Constitution checks.
 

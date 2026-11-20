@@ -30,11 +30,11 @@ At will—*feather fall*
 
 **Str** 19, **Dex** 16, **Con** 15, **Int** 16, **Wis** 15, **Cha** 18  
 **Base Atk** +4; **CMB** +8; **CMD** 21  
-**Feats** [Slashing Grace<sup>ACG</sup>](../../rules/feats/slashing-grace.md), [Weapon Focus (rhoka sword)](../../rules/feats/weapon-focus.md)  
+**Feats** [Slashing Grace](../../rules/feats/slashing-grace.md), [Weapon Focus (rhoka sword)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +10, Bluff +11, Diplomacy +10, Intimidate +11, Knowledge (dungeoneering) +7, Knowledge (planes) +7, Perception +6, Profession (sailor) +9, Ride +7, Sense Motive +9, Swim +11  
 **Languages** Aklo, Dwarven, Infernal, Orvian, Undercommon  
 **SQ** daemonic pact, swashbuckler finesse  
-**Combat Gear**  *potion of cure light wounds* (3), *potion of cure moderate wounds*, *potion of jump*; **Other Gear** eel hide<sup>UE</sup> studded leather, mwk dagger, mwk rhoka sword<sup>UE</sup>
+**Combat Gear**  *potion of cure light wounds* (3), *potion of cure moderate wounds*, *potion of jump*; **Other Gear** eel hide studded leather, mwk dagger, mwk rhoka sword
 
 **Ecology**
 

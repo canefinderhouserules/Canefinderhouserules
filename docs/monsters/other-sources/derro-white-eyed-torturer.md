@@ -27,9 +27,9 @@ CE Small humanoid (derro)
 At will—*darkness*, *ghost sound* (DC 12)  
 1/day—*daze* (DC 12), *sound burst* (DC 14)  
 **Alchemist Extracts Prepared** (CL 11th)  
-4th—*discern lies* (DC 18), *stoneskin*, *universal formula*<sup>APG</sup>  
-3rd—*draconic reservoir*<sup>APG</sup>, *fly*, *gaseous form*, *haste*, *remove blindness/deafness*  
-2nd—*blur*, *cure moderate wounds*, *detect thoughts* (DC 16), *eagle’s splendor*, *vomit swarm*<sup>APG</sup>  
+4th—*discern lies* (DC 18), *stoneskin*, *universal formula*  
+3rd—*draconic reservoir*, *fly*, *gaseous form*, *haste*, *remove blindness/deafness*  
+2nd—*blur*, *cure moderate wounds*, *detect thoughts* (DC 16), *eagle’s splendor*, *vomit swarm*  
 1st—*cure light wounds*, *disguise self*, *enlarge person* (DC 15), *expeditious retreat*, *shield*, *true strike*
 
 **Statistics**
@@ -40,7 +40,7 @@ At will—*darkness*, *ghost sound* (DC 12)
 **Skills** Bluff +13, Craft (alchemy) +17, Disable Device +15, Heal +2, Knowledge (arcana) +12, Knowledge (nature) +18, Perception +11, Sense Motive +12, Sleight of Hand +15, Spellcraft +21, Stealth +16, Use Magic Device +11  
 **Languages** Abyssal, Aklo, Common, Dwarven, Goblin, Undercommon  
 **SQ** alchemy (alchemy crafting +11, identify potions), cruel anatomist, mutagen (+4/–2, +2 natural, 110 minutes), discoveries (infusion, monstrous graft [arm], monstrous graft [leg ×2], sleeper agent), madness, poison use, swift alchemy, swift poisoning, torturer’s eye, torturous transformation  
-**Combat Gear**  *potions of cure moderate wounds* (3), *potions of haste* (2), blue whinnis (4 doses), medium spider venom (10 doses); **Other Gear** *+2 chain shirt*, aklys<sup>UC</sup>, mwk repeating light crossbow with 20 bolts, *amulet of natural armor +1*, *goggles of minute seeing*, *headband of vast intelligence +2*, *ring of protection +1*, antitoxin (3), formula book (contains all prepared extracts, plus an additional four 1st-level, four 2nd-level, three 3rd-level, and two 4th-level extracts of the GM’s choice), healer’s kit, surgeon’s tools<sup>UE</sup>, veterinarian’s kit<sup>UE</sup>, granite and diamond dust (750 gp), powdered platinum (300 gp)
+**Combat Gear**  *potions of cure moderate wounds* (3), *potions of haste* (2), blue whinnis (4 doses), medium spider venom (10 doses); **Other Gear** *+2 chain shirt*, aklys, mwk repeating light crossbow with 20 bolts, *amulet of natural armor +1*, *goggles of minute seeing*, *headband of vast intelligence +2*, *ring of protection +1*, antitoxin (3), formula book (contains all prepared extracts, plus an additional four 1st-level, four 2nd-level, three 3rd-level, and two 4th-level extracts of the GM’s choice), healer’s kit, surgeon’s tools, veterinarian’s kit, granite and diamond dust (750 gp), powdered platinum (300 gp)
 
 **Ecology**
 

@@ -24,9 +24,9 @@ NE Medium humanoid (human)
 **Spell-Like Abilities** (CL 5th; concentration +7)  
 Constant—*endure elements* (cold temperatures only)  
 **Witch Spells Prepared** (CL 5th; concentration +9)  
-3rd—*nature’s exile*<sup>APG</sup> (DC 17), *sleet storm* (DC 18)  
-2nd—*hold person* (DC 16), *mirror image*, *unshakable chill*<sup>UM</sup> (DC 16)  
-1st—*chill touch* (DC 15), *frostbite*<sup>UM</sup>, *ice spears*<sup>ISM</sup> (DC 15), *sleep* (DC 15)  
+3rd—*nature’s exile* (DC 17), *sleet storm* (DC 18)  
+2nd—*hold person* (DC 16), *mirror image*, *unshakable chill* (DC 16)  
+1st—*chill touch* (DC 15), *frostbite*, *ice spears* (DC 15), *sleep* (DC 15)  
 0 (at will)—*daze* (DC 14), *detect magic*, *ray of frost*, *read magic*  
 **Patron** Trickery
 

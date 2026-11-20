@@ -24,7 +24,7 @@ CE Small aberration
 
 **Str** 14, **Dex** 15, **Con** 14, **Int** 9, **Wis** 12, **Cha** 13  
 **Base Atk** +1; **CMB** +2; **CMD** 14 (can’t be tripped)  
-**Feats** [Lunge<sup>B</sup>](../../rules/feats/lunge.md), [Skill Focus (Bluff)](../../rules/feats/skill-focus.md)  
+**Feats** [Lunge](../../rules/feats/lunge.md), [Skill Focus (Bluff)](../../rules/feats/skill-focus.md)  
 **Skills** Bluff +6, Intimidate +5, Knowledge (local) +3, Perception +5, Stealth +10  
 **Languages** Common, Goblin  
 **SQ** snake empathy +7

@@ -22,9 +22,9 @@ LE Medium fey (extraplanar)
 **Melee** *+1 longsword* +9/+6 (1d8+4/19–20)  
 **Special Attacks** bane, quickened spell strike, sneak attack +3d6  
 **Spell-Like Abilities** (CL 13th; concentration +18)  
-At will—*chill touch* (DC 16), *corrosive touch*<sup>UM</sup>  
-3/day—*frigid touch*<sup>UM</sup>, *shadow step*<sup>UM</sup>, *vanish*<sup>APG</sup>  
-1/day—*force punch*<sup>UM</sup> (DC 18), *greater invisibility*, *ray of exhaustion* (DC 18)
+At will—*chill touch* (DC 16), *corrosive touch*  
+3/day—*frigid touch*, *shadow step*, *vanish*  
+1/day—*force punch* (DC 18), *greater invisibility*, *ray of exhaustion* (DC 18)
 
 **Statistics**
 

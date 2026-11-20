@@ -22,7 +22,7 @@ NE Small fey (fire)
 **Melee** bite +8 (1d4+2), 2 claws +8 (1d3+2 plus burn)  
 **Special Attacks** burn (1d3, DC 14), molten flesh  
 **Spell-Like Abilities** (CL 3rd; concentration +3)  
-At will—*flare* (DC 10), *spark*<sup>APG</sup> (DC 10)  
+At will—*flare* (DC 10), *spark* (DC 10)  
 3/day—*pyrotechnics* (DC 12)
 
 **Statistics**

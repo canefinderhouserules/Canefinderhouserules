@@ -25,15 +25,15 @@ NE Medium humanoid (reptilian)
 **Hunter Spells Known** (CL 7th; concentration +8)  
 3rd (1/day)—*poison* (DC 14), *stone shape*, *summon nature’s ally III*  
 2nd (3/day)—*chill metal* (DC 13), *protection from energy*, *spider climb*, *summon nature’s ally II*, *summon swarm*  
-1st (5/day)—*entangle* (DC 12), *magic fang*, *obscuring mist*, *speak with animals*, *summon nature’s ally I*, *thorn javelin*<sup>ACG</sup>  
-0 (at will)—*create water*, *detect poison*, *guidance*, *purify food and drink* (DC 11), *resistance*, *spark*<sup>APG</sup> (DC 11)
+1st (5/day)—*entangle* (DC 12), *magic fang*, *obscuring mist*, *speak with animals*, *summon nature’s ally I*, *thorn javelin*  
+0 (at will)—*create water*, *detect poison*, *guidance*, *purify food and drink* (DC 11), *resistance*, *spark* (DC 11)
 
 **Statistics**
 
 **Str** 14, **Dex** 14, **Con** 18, **Int** 6, **Wis** 13, **Cha** 11  
 **Base Atk** +6; **CMB** +8; **CMD** 20  
-**Feats** [Exotic Weapon Proficiency (net)](../../rules/feats/exotic-weapon-proficiency.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Net Adept<sup>UC</sup>](../../rules/feats/net-adept.md), [Net Maneuvering<sup>UC</sup>](../../rules/feats/net-maneuvering.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Stealth Synergy<sup>UC</sup>](../../rules/feats/stealth-synergy.md)  
+**Feats** [Exotic Weapon Proficiency (net)](../../rules/feats/exotic-weapon-proficiency.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Net Adept](../../rules/feats/net-adept.md), [Net Maneuvering](../../rules/feats/net-maneuvering.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Stealth Synergy](../../rules/feats/stealth-synergy.md)  
 **Skills** Knowledge (dungeoneering) +4, Knowledge (geography, nature) +5, Perception +12, Stealth +14 (+18 in rocky areas), Survival +7; **Racial Modifiers** +4 Stealth, +4 Stealth in rocky areas  
 **Languages** Draconic  
 **SQ** animal focus (7 minutes/day), feral focus, nature training, summon pack, track +3, wild empathy +7, woodland stride  
-**Combat Gear**  *potion of cure moderate wounds* (2), *scroll of neutralize poison*; **Other Gear** *+1 bone*<sup>UE</sup> *scale mail*, mwk javelins (5), mwk net, aspect mask (snake)<sup>ACG</sup>
+**Combat Gear**  *potion of cure moderate wounds* (2), *scroll of neutralize poison*; **Other Gear** *+1 bone* *scale mail*, mwk javelins (5), mwk net, aspect mask (snake)

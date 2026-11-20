@@ -30,7 +30,7 @@ LN Medium humanoid (human)
 **Skills** Heal +4, Intimidate +9, Knowledge (local) +7, Knowledge (religion) +7, Perception +15, Sense Motive +9, Stealth +11, Survival +12  
 **Languages** Common, Osiriani  
 **SQ** favored terrain (desert +2), hunter’s bond (companions), hunter’s tricks 5/day (hateful attack, uncanny senses), track +3, wild empathy +6, woodland stride  
-**Combat Gear**  tanglefoot bag (2); **Other Gear** *+1 leather lamellar*<sup>UE</sup>, *+1 scimitar*, mwk longbow with 20 arrows, *cloak of resistance +1*, *elixir of truth*, *elixir of vision*, everburning torch, healer’s kit, mwk manacles, 39 gp
+**Combat Gear**  tanglefoot bag (2); **Other Gear** *+1 leather lamellar*, *+1 scimitar*, mwk longbow with 20 arrows, *cloak of resistance +1*, *elixir of truth*, *elixir of vision*, everburning torch, healer’s kit, mwk manacles, 39 gp
 
 The members of the godless kingdom’s elite Pure Legion are among the most vigilant and skilled police force in the region, dedicated to the sole purpose of keeping that nation free of the influence of gods and those who worship them. In the wake of the Oath Wars, which tore northern the southern continent apart as the churches of the god of magic, the god of murder and secrets, and the goddess of the sun fought for control of the region, the nation of the godless kingdom was founded upon the belief that all religions were a pox upon the world and that the worship of any divine force could bring about nothing but ill fortune. To stay true to this belief, for the last 21 centuries the Pure Legionnaires have worked ceaselessly to keep priests, lay worshipers, and religious paraphernalia out of their land.
 

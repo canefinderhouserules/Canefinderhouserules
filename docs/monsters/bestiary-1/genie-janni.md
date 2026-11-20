@@ -29,7 +29,7 @@ N Medium outsider (native)
 
 **Str** 16, **Dex** 15, **Con** 12, **Int** 14, **Wis** 15, **Cha** 13  
 **Base Atk** +6; **CMB** +9; **CMD** 22  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Mobility](../../rules/feats/mobility.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Mobility](../../rules/feats/mobility.md)  
 **Skills** Appraise +11, Craft (any one—usually weaponsmith) +11, Fly +14, Perception +11, Ride +6, Sense Motive +11, Spellcraft +11, Stealth +6  
 **Languages** Common, one elemental language (Aquan, Auran, Ignan, or Terran), one planar language (Abyssal, Celestial, or Infernal); telepathy 100 ft.  
 **SQ** elemental endurance

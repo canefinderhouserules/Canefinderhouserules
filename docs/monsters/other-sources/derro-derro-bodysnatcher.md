@@ -31,7 +31,7 @@ At will—*darkness*, *ghost sound* (DC 14)
 
 **Str** 15, **Dex** 18, **Con** 16, **Int** 10, **Wis** 9, **Cha** 18  
 **Base Atk** +7; **CMB** +8; **CMD** 22  
-**Feats** [Dazzling Display](../../rules/feats/dazzling-display.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Sap Adept<sup>UC</sup>](../../rules/feats/sap-adept.md), [Sap Master<sup>UC</sup>](../../rules/feats/sap-master.md), [Weapon Focus (sap)](../../rules/feats/weapon-focus.md)  
+**Feats** [Dazzling Display](../../rules/feats/dazzling-display.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Sap Adept](../../rules/feats/sap-adept.md), [Sap Master](../../rules/feats/sap-master.md), [Weapon Focus (sap)](../../rules/feats/weapon-focus.md)  
 **Skills** Bluff +14, Climb +11, Disable Device +16, Disguise +13, Intimidate +14, Knowledge (local) +7, Perception +11, Stealth +16, Use Magic Device +16  
 **Languages** Aklo, Undercommon  
 **SQ** madness, poison use, rogue talents (combat trick, surprise attack, weapon training), trapfinding +3  

@@ -24,7 +24,7 @@ CE Small outsider (chaotic, demon, evil, extraplanar)
 Constant—*speak with animals*  
 At will—*cause fear* (DC 12), *detect magic*, *ray of enfeeblement* (DC 12), *read magic*  
 3/day—*charm animal* (DC 12), *invisibility* (self only)  
-1/day—*rage*, *waters of Lamashtu*<sup>ISWG</sup>
+1/day—*rage*, *waters of Lamashtu*
 
 **Statistics**
 

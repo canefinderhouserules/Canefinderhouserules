@@ -24,7 +24,7 @@ CE Medium outsider (chaotic, demon, evil, extraplanar)
 **Special Attacks** command blood, frightful weapon prowess, painful cuts, sneak attack +5d6  
 **Spell-Like Abilities** (CL 28th; concentration +38)  
 Constant—*detect good*, *detect law*, *freedom of movement*, *true seeing*, *unholy aura*  
-At will—*astral projection*, *blasphemy* (DC 27), *blood biography*<sup>APG</sup> (DC 23), *desecrate*, *greater dispel magic*, *greater teleport*, *telekinesis* (DC 25), *shapechange*, *spiritual weapon*, *unhallow*, *unholy blight* (DC 24)  
+At will—*astral projection*, *blasphemy* (DC 27), *blood biography* (DC 23), *desecrate*, *greater dispel magic*, *greater teleport*, *telekinesis* (DC 25), *shapechange*, *spiritual weapon*, *unhallow*, *unholy blight* (DC 24)  
 3/day—*blade barrier* (DC 26), *mage’s sword*, *summon demons*, *symbol of pain* (DC 25)  
 1/day—*finger of death* (DC 27), *time stop*, *weird* (DC 29)
 

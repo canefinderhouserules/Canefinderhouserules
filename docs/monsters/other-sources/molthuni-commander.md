@@ -26,7 +26,7 @@ LN Medium humanoid (human)
 
 **Str** 16, **Dex** 12, **Con** 14, **Int** 10, **Wis** 10, **Cha** 13  
 **Base Atk** +6; **CMB** +9; **CMD** 20  
-**Feats** [Mounted Combat](../../rules/feats/mounted-combat.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), [Shield Wall<sup>APG</sup>](../../rules/feats/shield-wall.md), [Skill Focus (Ride)](../../rules/feats/skill-focus.md), [Spirited Charge](../../rules/feats/spirited-charge.md), [Trample](../../rules/feats/trample.md)  
+**Feats** [Mounted Combat](../../rules/feats/mounted-combat.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), [Shield Wall](../../rules/feats/shield-wall.md), [Skill Focus (Ride)](../../rules/feats/skill-focus.md), [Spirited Charge](../../rules/feats/spirited-charge.md), [Trample](../../rules/feats/trample.md)  
 **Skills** Diplomacy +11, Handle Animal +11, Intimidate +11, Knowledge (nobility) +10, Ride +9 (+15 when riding his bonded mount)  
 **Languages** Common  
 **SQ** expert trainer +2, mount (horse), order of the lion (lion’s call), tactician (2/day, 5 rounds, standard action)  

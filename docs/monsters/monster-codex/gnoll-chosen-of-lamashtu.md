@@ -28,9 +28,9 @@ CE Medium humanoid (gnoll)
 6th—*stoneskin*<sup>D</sup>, *summon monster VI*  
 5th—*breath of life*, *righteous might*<sup>D</sup>, *slay living* (DC 18)  
 4th—*confusion* (DC 17), *divine power*, *freedom of movement*, *unholy blight*<sup>D</sup> (DC 17)  
-3rd—*bestow curse* (DC 16), *blindness* (DC 16), *cure serious wounds*, *magic vestment*<sup>D</sup>, *vision of hell*<sup>UM</sup> (DC 16), *wind wall*  
-2nd—*aid*, *blinding ray*<sup>ARG</sup> (DC 15), *bull’s strength*<sup>D</sup>, *death knell* (DC 15), *hold person* (DC 15), *sound burst* (DC 15)  
-1st—*cause fear* (DC 14), *enlarge person* (DC 14), *entropic shield*, *forbid action*<sup>UM</sup> (DC 14), *murderous command*<sup>UM</sup> (DC 14), *protection from good*<sup>D</sup>  
+3rd—*bestow curse* (DC 16), *blindness* (DC 16), *cure serious wounds*, *magic vestment*<sup>D</sup>, *vision of hell* (DC 16), *wind wall*  
+2nd—*aid*, *blinding ray* (DC 15), *bull’s strength*<sup>D</sup>, *death knell* (DC 15), *hold person* (DC 15), *sound burst* (DC 15)  
+1st—*cause fear* (DC 14), *enlarge person* (DC 14), *entropic shield*, *forbid action* (DC 14), *murderous command* (DC 14), *protection from good*<sup>D</sup>  
 0 (at will)—*bleed* (DC 13), *detect magic*, *read magic*, *stabilize*  
 **D** domain spell; **Domains** Evil, Strength
 

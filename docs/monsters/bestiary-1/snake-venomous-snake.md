@@ -23,7 +23,7 @@ N Medium animal
 
 **Str** 8, **Dex** 13, **Con** 14, **Int** 1, **Wis** 13, **Cha** 2  
 **Base Atk** +1; **CMB** +0; **CMD** 11 (can’t be tripped)  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +9, Climb +9, Perception +9, Stealth +9, Swim +9; **Racial Modifiers** +4 Perception, +4 Stealth, +8 Acrobatics
 
 **Ecology**

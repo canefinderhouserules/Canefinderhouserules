@@ -29,7 +29,7 @@ At will — *entangle* (DC 18), *enthrall* (DC 19), *goodberry*, *mage hand*, *o
 
 **Str** &mdash;, **Dex** 23, **Con** &mdash;, **Int** 19, **Wis** 18, **Cha** 25  
 **Base Atk** +10; **CMB** +16; **CMD** 33 (can't be tripped)  
-**Feats** [Alertness](../../rules/feats/alertness.md), Flyby Attack, [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lunge](../../rules/feats/lunge.md), [Skill Focus (Perform [oratory])](../../rules/feats/skill-focus.md), [Step Up](../../rules/feats/step-up.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lunge](../../rules/feats/lunge.md), [Skill Focus (Perform [oratory])](../../rules/feats/skill-focus.md), [Step Up](../../rules/feats/step-up.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Appraise +21, Bluff +24, Craft (alchemy) +10, Diplomacy +15, Fly +18, Knowledge (dungeoneering) +10, Knowledge (geography) +15, Knowledge (history) +15, Knowledge (local) +15, Knowledge (nature) +15, Knowledge (religion) +10, Perception +21, Perform (oratory) +30, Sense Motive +24  
 **Languages** Common, Polyglot, Sylvan; *speak with animals*, speak with vermin  
 **SQ** unnatural aura

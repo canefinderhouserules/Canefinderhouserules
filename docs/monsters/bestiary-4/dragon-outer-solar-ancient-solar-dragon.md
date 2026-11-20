@@ -23,7 +23,7 @@ LN Gargantuan dragon (fire)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (120-ft. line, 20d10 fire, DC 29), channel life (10/day), channel radiation (DC 29), crush, primal fire, tail sweep  
 **Spell-Like Abilities** (CL 25th; concentration +32)  
-At will—*animate plants*, *blight*, *cup of dust*<sup>APG</sup>, *detect magic*, *major creation*, *searing light*  
+At will—*animate plants*, *blight*, *cup of dust*, *detect magic*, *major creation*, *searing light*  
 **Sorcerer Spells Known** (CL 15th; concentration +22)  
 7th (5/day)—*control weather*, *plane shift* (DC 24)  
 6th (7/day)—*chain lightning* (DC 23), *greater dispel magic*, *mislead*  
@@ -38,7 +38,7 @@ At will—*animate plants*, *blight*, *cup of dust*<sup>APG</sup>, *detect magic
 
 **Str** 36, **Dex** 11, **Con** 24, **Int** 23, **Wis** 20, **Cha** 25  
 **Base Atk** +25; **CMB** +42; **CMD** 52 (56 vs. trip)  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Maximize Spell](../../rules/feats/maximize-spell.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Quick Channel<sup>UM</sup>](../../rules/feats/quick-channel.md), [Quicken Spell](../../rules/feats/quicken-spell.md), [Selective Channeling](../../rules/feats/selective-channeling.md), [Silent Spell](../../rules/feats/silent-spell.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Spell Focus (enchantment)](../../rules/feats/spell-focus.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Maximize Spell](../../rules/feats/maximize-spell.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Quick Channel](../../rules/feats/quick-channel.md), [Quicken Spell](../../rules/feats/quicken-spell.md), [Selective Channeling](../../rules/feats/selective-channeling.md), [Silent Spell](../../rules/feats/silent-spell.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Spell Focus (enchantment)](../../rules/feats/spell-focus.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Diplomacy +35, Fly +14, Heal +31, Knowledge (arcana, geography, history, local, nature, planes, religion) +34, Linguistics +11, Perception +39, Sense Motive +33  
 **Languages** Auran, Celestial, Common, Draconic, Elven, Gnome, Ignan, Sylvan, Terran  
 **SQ** no breath, starflight

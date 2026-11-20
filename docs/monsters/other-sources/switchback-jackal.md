@@ -23,7 +23,7 @@ N Small animal
 
 **Str** 11, **Dex** 15, **Con** 16, **Int** 2, **Wis** 15, **Cha** 6  
 **Base Atk** +0; **CMB** –1; **CMD** 11 (15 vs. trip)  
-**Feats** [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Overwhelm<sup>B</sup>](../../rules/feats/overwhelm.md)  
+**Feats** [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Overwhelm](../../rules/feats/overwhelm.md)  
 **Skills** Stealth +5, Survival +3 (+7 to find food or water); **Racial Modifiers** +4 Survival to find food or water  
 **SQ** problem solver
 

@@ -22,8 +22,8 @@ CE Medium outsider (incorporeal, native)
 **Spell-Like Abilities** (CL 16th; concentration +22)  
 Constant—*true seeing*  
 At will—*darkness*  
-3/day—*bestow curse* (DC 20), *suffocation*<sup>APG</sup> (DC 21)  
-1/day—*mass pain strike*<sup>APG</sup> (DC 21), *waves of fatigue*
+3/day—*bestow curse* (DC 20), *suffocation* (DC 21)  
+1/day—*mass pain strike* (DC 21), *waves of fatigue*
 
 **Statistics**
 

@@ -5,7 +5,7 @@
 ## Great Elder Iuu (CR 15)
 
 **XP** 51,200  
-LE Large outsider (evil, giant, herald<sup>ISG</sup>, lawful)  
+LE Large outsider (evil, giant, herald, lawful)  
 **Init** +3; **Senses** darkvision 120 ft., low-light vision; Perception +21  
 **Aura** courage (20 ft.)
 

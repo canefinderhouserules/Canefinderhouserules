@@ -24,9 +24,9 @@ CE Large humanoid (cold, giant)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** favored enemy (animals +4, evil outsiders +2, humans +4), fight on, inspiring assault, marshal’s order (advance, decisive strike), menacing presence, mythic bond, mythic presence, press the advantage, rock throwing (120 ft.)  
 **Ranger Spells Prepared** (CL 9th; concentration +13)  
-3rd—*fickle winds*<sup>UM</sup>, *water walk*  
-2nd—*barkskin* (already cast), *versatile weapon*<sup>APG</sup>, *wind wall*  
-1st—*horn of pursuit*<sup>UM</sup>, *pass without trace*, *resist energy* (already cast)
+3rd—*fickle winds*, *water walk*  
+2nd—*barkskin* (already cast), *versatile weapon*, *wind wall*  
+1st—*horn of pursuit*, *pass without trace*, *resist energy* (already cast)
 
 **Statistics**
 
@@ -36,7 +36,7 @@ CE Large humanoid (cold, giant)
 **Skills** Intimidate +33, Knowledge (geography, nature) +13, Perception +33, Sense Motive +14, Stealth +25 (+29 in snow), Survival +33; **Racial Modifiers** +4 Stealth in snow  
 **Languages** Common, Giant, Hallit  
 **SQ** additional order, amazing initiative, camouflage, evasion, exceptional wealth, favored terrain (cold +4, mountain +2), hunter’s bond (companions), pierce the darkness, quarry, recuperation, swift tracker, track +6, wild empathy +16, woodland stride  
-**Combat Gear**  *boots of speed*, *+1 brilliant energy arrows* (10), *potions of cure serious wounds* (4), *+1 demon bane arrows* (10), *+1 dragon bane arrows* (10), *+1 flaming burst arrows* (10), *+1 human bane arrows* (20), *efficient quiver*, *glove of storing*, *greater horn of blasting*, *staff of journeys*<sup>UE</sup> (50 charges); **Other Gear** *+4 improved shadow mithral breastplate*, *+5 seeking composite longbow* (+14 Str) with 30 arrows, *Winter’s Heart* (see below), *amulet of natural armor +5*, *belt of physical perfection +6*, *cloak of resistance +5*, *greater bracers of archery*, *greater ring of fire resistance*, *headband of mental prowess +4* (Wis, Cha), *portable hole*, *ring of protection +5*, *stormlord’s helm*, spell component pouch, platinum and sapphire necklace (worth 12,500 gp), platinum symbol of Thremyr (worth 500 gp), sapphires (10, worth 5,000 gp each)
+**Combat Gear**  *boots of speed*, *+1 brilliant energy arrows* (10), *potions of cure serious wounds* (4), *+1 demon bane arrows* (10), *+1 dragon bane arrows* (10), *+1 flaming burst arrows* (10), *+1 human bane arrows* (20), *efficient quiver*, *glove of storing*, *greater horn of blasting*, *staff of journeys* (50 charges); **Other Gear** *+4 improved shadow mithral breastplate*, *+5 seeking composite longbow* (+14 Str) with 30 arrows, *Winter’s Heart* (see below), *amulet of natural armor +5*, *belt of physical perfection +6*, *cloak of resistance +5*, *greater bracers of archery*, *greater ring of fire resistance*, *headband of mental prowess +4* (Wis, Cha), *portable hole*, *ring of protection +5*, *stormlord’s helm*, spell component pouch, platinum and sapphire necklace (worth 12,500 gp), platinum symbol of Thremyr (worth 500 gp), sapphires (10, worth 5,000 gp each)
 
 **Special Abilities**
 

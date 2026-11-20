@@ -24,9 +24,9 @@ NE Medium monstrous humanoid
 At will—*disguise self* (DC 16, humanoid form only), *ventriloquism* (DC 16)  
 1/day—*blur*, *dominate person* (DC 20), *major image* (DC 18), *mirror image*, *suggestion* (DC 18)  
 **Oracle Spells Known** (CL 7th; concentration +12)  
-3rd (5/day)—*animate dead*, *bestow curse* (DC 18), *chain of perdition*<sup>UC</sup>, *inflict serious wounds*  
-2nd (7/day)—*dread bolt*<sup>UM</sup> (DC 17), *false life*, *hold person* (DC 17), *inflict moderate wounds*, *instrument of agony*<sup>UC</sup>  
-1st (8/day)—*cause fear* (DC 16), *cure light wounds*, *inflict light wounds*, *murderous command*<sup>UM</sup> (DC 16), *obscuring mist*, *ray of sickening*<sup>UM</sup> (DC 16), *shield of faith*  
+3rd (5/day)—*animate dead*, *bestow curse* (DC 18), *chain of perdition*, *inflict serious wounds*  
+2nd (7/day)—*dread bolt* (DC 17), *false life*, *hold person* (DC 17), *inflict moderate wounds*, *instrument of agony*  
+1st (8/day)—*cause fear* (DC 16), *cure light wounds*, *inflict light wounds*, *murderous command* (DC 16), *obscuring mist*, *ray of sickening* (DC 16), *shield of faith*  
 0 (at will)—*bleed* (DC 15), *detect magic*, *detect poison*, *guidance*, *light*, *resistance*, *stabilize*  
 **Mystery** bones
 

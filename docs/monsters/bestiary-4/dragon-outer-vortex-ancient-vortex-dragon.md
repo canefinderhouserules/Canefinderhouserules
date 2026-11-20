@@ -24,7 +24,7 @@ LN Gargantuan dragon (fire)
 **Space** 20 ft., **Reach** 15 ft. (20 ft. with bite)  
 **Special Attacks** breath weapon (60-ft. cone, 20d8 fire, DC 29), collapsing breath (DC 29), crush, fragmented strike, tail sweep  
 **Spell-Like Abilities** (CL 25th; concentration +32)  
-At will—*anticipate peril*<sup>UM</sup>, *dimension door*, *entropic shield*, *greater teleport*  
+At will—*anticipate peril*, *dimension door*, *entropic shield*, *greater teleport*  
 **Sorcerer Spells Known** (CL 15th; concentration +22)  
 7th (5/day)—*forcecage* (DC 24), *spell turning*  
 6th (7/day)—*forceful hand*, *shadow walk* (DC 23), *true seeing*  

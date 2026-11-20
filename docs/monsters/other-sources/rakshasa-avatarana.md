@@ -21,7 +21,7 @@ LE Medium outsider (native, rakshasa, shapechanger)
 **Melee** 4 claws +21 (1d6+6 plus grab)  
 **Special Attacks** corporeal possession, detect thoughts (DC 21)  
 **Psychic Magic** (CL 12th; concentration +16)  
-20 PE—*detect magic* (0 PE), *dimension door* (4 PE), *dispel magic* (3 PE), *displacement* (3 PE), *dominate person* (5 PE, DC 19), *ego whip III*<sup>OA</sup> (5 PE, DC 19), *expeditious retreat* (1 PE), *greater invisibility* (4 PE), *mage hand* (0 PE), *mind thrust V*<sup>OA</sup> (5 PE, DC 19), *misdirection* (2 PE, DC 16), *psychic crush I*<sup>OA</sup> (5 PE, DC 19), *ray of enfeeblement* (1 PE, DC 15), *see invisibility* (2 PE), *spider climb* (2 PE), *telekinesis* (5 PE, DC 19)
+20 PE—*detect magic* (0 PE), *dimension door* (4 PE), *dispel magic* (3 PE), *displacement* (3 PE), *dominate person* (5 PE, DC 19), *ego whip III* (5 PE, DC 19), *expeditious retreat* (1 PE), *greater invisibility* (4 PE), *mage hand* (0 PE), *mind thrust V* (5 PE, DC 19), *misdirection* (2 PE, DC 16), *psychic crush I* (5 PE, DC 19), *ray of enfeeblement* (1 PE, DC 15), *see invisibility* (2 PE), *spider climb* (2 PE), *telekinesis* (5 PE, DC 19)
 
 **Statistics**
 
@@ -40,6 +40,6 @@ LE Medium outsider (native, rakshasa, shapechanger)
 
 **Special Abilities**
 
-**Absolute Independence (Ex)** An avatarana is immune to all charm and compulsion spells and effects as well as *magic jar*, *possession*<sup>OA</sup>, and similar spells and abilities.
+**Absolute Independence (Ex)** An avatarana is immune to all charm and compulsion spells and effects as well as *magic jar*, *possession*, and similar spells and abilities.
 
-**Corporeal Possession (Su)** As a full-round action that provokes attacks of opportunity, an avatarana can meld its body into that of a pinned, helpless, or willing humanoid creature adjacent to it. Seeping in through the victim’s skin like mercury, the avatarana usurps control of the body as if it controlled the target via *greater possession*<sup>OA</sup>. When the avatarana leaves the possessed body, it reappears in a free space of its choice adjacent to the victim.
+**Corporeal Possession (Su)** As a full-round action that provokes attacks of opportunity, an avatarana can meld its body into that of a pinned, helpless, or willing humanoid creature adjacent to it. Seeping in through the victim’s skin like mercury, the avatarana usurps control of the body as if it controlled the target via *greater possession*. When the avatarana leaves the possessed body, it reappears in a free space of its choice adjacent to the victim.

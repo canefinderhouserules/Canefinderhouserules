@@ -29,7 +29,7 @@ At will—*invisibility* (self only), *plane shift* (willing targets to elementa
 
 **Str** 18, **Dex** 19, **Con** 14, **Int** 14, **Wis** 15, **Cha** 15  
 **Base Atk** +7; **CMB** +12; **CMD** 27  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Wind Stance](../../rules/feats/wind-stance.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Wind Stance](../../rules/feats/wind-stance.md)  
 **Skills** Appraise +12, Craft (any one) +12, Fly +20, Knowledge (planes) +12, Perception +12, Sense Motive +12, Spellcraft +12, Stealth +10  
 **Languages** Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.
 

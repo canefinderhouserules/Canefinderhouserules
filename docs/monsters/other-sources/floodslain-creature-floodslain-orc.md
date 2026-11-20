@@ -26,7 +26,7 @@ CE Medium undead (augmented humanoid)
 
 **Str** 25, **Dex** 6, **Con** —, **Int** 8, **Wis** 11, **Cha** 14  
 **Base Atk** +3; **CMB** +10; **CMD** 18  
-**Feats** [Bullying Blow<sup>ARG</sup>](../../rules/feats/bullying-blow.md), [Furious Focus](../../rules/feats/furious-focus.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Bullying Blow](../../rules/feats/bullying-blow.md), [Furious Focus](../../rules/feats/furious-focus.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Intimidate +14  
 **Languages** Common, Orc  
 **SQ** armor training 1, flash flood

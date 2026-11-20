@@ -23,18 +23,18 @@ CN Huge dragon
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** bewildering breath, breath weapon (100-ft. line, 12d8 cold, DC 23), crush, moonsilver  
 **Spell-Like Abilities** (CL 16th; concentration +21)  
-At will—*dancing lights*, *life bubble*<sup>APG</sup>, *moonstruck*<sup>APG</sup>  
+At will—*dancing lights*, *life bubble*, *moonstruck*  
 **Sorcerer Spells Known** (CL 7th; concentration +12)  
 3rd (3/day)—*haste*, *heroism*  
 2nd (5/day)—*blur*, *hypnotic pattern* (DC 17), *mirror image*  
-1st (7/day)—*comprehend languages*, *mage armor*, *protection from evil*, *shocking grasp*, *vanish*<sup>APG</sup>  
+1st (7/day)—*comprehend languages*, *mage armor*, *protection from evil*, *shocking grasp*, *vanish*  
 0 (at will)—*arcane mark*, *detect magic*, *light*, *mage hand*, *prestidigitation*, *read magic*, *resistance*
 
 **Statistics**
 
 **Str** 27, **Dex** 9, **Con** 20, **Int** 20, **Wis** 22, **Cha** 21  
 **Base Atk** +16; **CMB** +26; **CMD** 35 (39 vs. trip)  
-**Feats** [Arcane Strike](../../rules/feats/arcane-strike.md), [Dazing Assault<sup>APG</sup>](../../rules/feats/dazing-assault.md), Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Toughness](../../rules/feats/toughness.md), Wingover  
+**Feats** [Arcane Strike](../../rules/feats/arcane-strike.md), [Dazing Assault](../../rules/feats/dazing-assault.md), Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Toughness](../../rules/feats/toughness.md), Wingover  
 **Skills** Bluff +12, Diplomacy +24, Fly +10, Intimidate +24, Knowledge (arcana, geography, history, local, nature) +20, Perception +25, Sense Motive +25, Spellcraft +24, Use Magic Device +24  
 **Languages** Aklo, Aquan, Auran, Common, Draconic, Ignan  
 **SQ** no breath, starflight

@@ -27,7 +27,7 @@ N Large construct
 
 **Str** 19, **Dex** 21, **Con** —, **Int** —, **Wis** 23, **Cha** 16  
 **Base Atk** +7; **CMB** +12; **CMD** 27  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md)
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md)
 
 **Ecology**
 

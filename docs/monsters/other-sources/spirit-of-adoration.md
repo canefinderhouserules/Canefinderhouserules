@@ -29,7 +29,7 @@ At will—*calm emotions*, *good hope*
 
 **Str** 18, **Dex** 19, **Con** 20, **Int** 19, **Wis** 22, **Cha** 23  
 **Base Atk** +18; **CMB** +23; **CMD** 44  
-**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Dodge](../../rules/feats/dodge.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Improved Sunder<sup>B</sup>](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Step Up](../../rules/feats/step-up.md), [Weapon Focus (glaive)](../../rules/feats/weapon-focus.md), [Wind Stance](../../rules/feats/wind-stance.md)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Dodge](../../rules/feats/dodge.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Step Up](../../rules/feats/step-up.md), [Weapon Focus (glaive)](../../rules/feats/weapon-focus.md), [Wind Stance](../../rules/feats/wind-stance.md)  
 **Skills** Acrobatics +13 (+17 jump), Bluff +18, Diplomacy +18, Disguise +15, Fly +18, Handle Animal +15, Heal +15, Intimidate +18, Knowledge (religion) +13, Perception +33, Perform (dance) +27, Sense Motive +27, Spellcraft +22, Stealth +21, Use Magic Device +15  
 **Languages** Auran, Common, Celestial, Ignan, Shadowtongue  
 **SQ** bardic magic, change shape (Small or Medium humanoid, *alter self* ), inspiration, unearthly grace  

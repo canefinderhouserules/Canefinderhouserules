@@ -39,7 +39,7 @@ At will—*alter self*, *detect thoughts* (DC 18), *ethereal jaunt* (CL 18th), *
 
 **Str** 24, **Dex** 17, **Con** 22, **Int** 19, **Wis** 20, **Cha** 23  
 **Base Atk** +20; **CMB** +28 (+32 grapple); **CMD** 42 (can’t be tripped)  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Diehard](../../rules/feats/diehard.md), [Dodge](../../rules/feats/dodge.md), [Empower Spell](../../rules/feats/empower-spell.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), Flyby Attack, [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Improved Natural Attack (bite), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Diehard](../../rules/feats/diehard.md), [Dodge](../../rules/feats/dodge.md), [Empower Spell](../../rules/feats/empower-spell.md), [Eschew Materials](../../rules/feats/eschew-materials.md), Flyby Attack, [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Improved Natural Attack (bite), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **Skills** Acrobatics +26 (+22 when jumping), Bluff +19, Diplomacy +29, Fly +24, Knowledge (arcana) +14, Knowledge (planes) +17, Knowledge (religion) +17, Perception +32, Sense Motive +32, Spellcraft +27, Survival +25, Use Magic Device +26  
 **Languages** Celestial, Common, Draconic, Elven, Polyglot; telepathy 100 ft.
 

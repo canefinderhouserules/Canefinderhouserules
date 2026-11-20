@@ -26,7 +26,7 @@ N Medium construct (clockwork)
 
 **Str** 19, **Dex** 14, **Con** —, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +2; **CMB** +6; **CMD** 20  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **SQ** repair clockwork, swift reactions, winding
 
 **Ecology**

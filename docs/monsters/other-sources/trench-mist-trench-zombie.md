@@ -27,7 +27,7 @@ LE Medium undead (augmented human, human)
 
 **Str** 17, **Dex** 18, **Con** —, **Int** 10, **Wis**  12, **Cha** 8  
 **Base Atk** +6; **CMB** +9; **CMD** 24  
-**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Dodge](../../rules/feats/dodge.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), Point-Blank Shot, [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (rifle)](../../rules/feats/weapon-focus.md), [Weapon Specialization (rifle)](../../rules/feats/weapon-specialization.md)  
+**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Point-Blank Shot, [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (rifle)](../../rules/feats/weapon-focus.md), [Weapon Specialization (rifle)](../../rules/feats/weapon-specialization.md)  
 **Skills** Climb +15, Craft (firearms) +4, Knowledge (engineering) +4, Perception +7, Profession (soldier) +5, Ride +8, Stealth +10, Survival +5; **Racial Modifiers**  +8 Climb  
 **Languages** Russian  
 **SQ** symbiote  

@@ -24,15 +24,15 @@ N Gargantuan dragon (aquatic, mythic)
 **Special Attacks** agonizing venom, breath weapon (60-ft. cone, 2d4 Con damage from poison, Fortitude DC 33 half, usable every 1d4 rounds), constrict (2d8+21), fast swallow, lingering poisonous cloud, mythic power (10/day, surge +1d12), poison, swallow whole (6d6 bludgeoning damage plus poison, AC 25, 52 hp)  
 **Spell-Like Abilities** (CL 26th; concentration +33)  
 Constant—*detect magic*, *detect scrying*  
-At will—*discern location*, *false vision* (see aura of security), *fog cloud*, *greater dispel magic*, *locate object*, *major curse*<sup>UM</sup> (DC 22), *persuasive goad*<sup>UM</sup> (DC 18)  
-3/day—*geas/quest* (DC 23), *leashed shackles*<sup>UM</sup> (DC 21), *maze*, *plant growth*, *spell turning*, *wall of stone*, *wall of thorns*  
+At will—*discern location*, *false vision* (see aura of security), *fog cloud*, *greater dispel magic*, *locate object*, *major curse* (DC 22), *persuasive goad* (DC 18)  
+3/day—*geas/quest* (DC 23), *leashed shackles* (DC 21), *maze*, *plant growth*, *spell turning*, *wall of stone*, *wall of thorns*  
 1/day—*breath of life*, *dimensional lock*, *limited wish* (DC 24), *mage’s disjunction* (DC 26), *plane shift*, *word of recall*
 
 **Statistics**
 
 **Str** 38, **Dex** 13, **Con** 30, **Int** 15, **Wis** 24, **Cha** 25  
 **Base Atk** +26; **CMB** +44 (+48 grapple); **CMD** 51 (55 vs. grapple, can’t be tripped)  
-**Feats** [Blinding Critical](../../rules/feats/blinding-critical.md), [Cleave<sup>M</sup>](../../rules/feats/cleave.md), [Critical Focus<sup>M</sup>](../../rules/feats/critical-focus.md), [Death from Above<sup>UC</sup>](../../rules/feats/death-from-above.md), Flyby Attack, [Great Cleave](../../rules/feats/great-cleave.md), Hover, [Improved Initiative<sup>M</sup>](../../rules/feats/improved-initiative.md), [Iron Will<sup>M</sup>](../../rules/feats/iron-will.md), Multiattack, [Power Attack<sup>M</sup>](../../rules/feats/power-attack.md), [Staggering Critical](../../rules/feats/staggering-critical.md), [Stunning Critical](../../rules/feats/stunning-critical.md)  
+**Feats** [Blinding Critical](../../rules/feats/blinding-critical.md), [Cleave<sup>M</sup>](../../rules/feats/cleave.md), [Critical Focus<sup>M</sup>](../../rules/feats/critical-focus.md), [Death from Above](../../rules/feats/death-from-above.md), Flyby Attack, [Great Cleave](../../rules/feats/great-cleave.md), Hover, [Improved Initiative<sup>M</sup>](../../rules/feats/improved-initiative.md), [Iron Will<sup>M</sup>](../../rules/feats/iron-will.md), Multiattack, [Power Attack<sup>M</sup>](../../rules/feats/power-attack.md), [Staggering Critical](../../rules/feats/staggering-critical.md), [Stunning Critical](../../rules/feats/stunning-critical.md)  
 **Skills** Climb +38, Fly +11, Intimidate +36, Knowledge (geography) +26, Knowledge (local, religion) +18, Perception +44, Sense Motive +36, Spellcraft +18, Stealth +13, Survival +44, Swim +22, Use Magic Device +23; **Racial Modifiers** +8 Knowledge (geography), +8 Perception, +8 Stealth, +8 Survival  
 **Languages** Abyssal, Celestial, Common, Draconic, Infernal, Sylvan  
 **SQ** amphibious, heroic challenge, mythic immortality, recuperation, secret lair, vengeful seeker

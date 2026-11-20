@@ -41,7 +41,7 @@ LE Medium humanoid (human)
 
 **Str** 8, **Dex** 10, **Con** 18, **Int** 15, **Wis** 12, **Cha** 24  
 **Base Atk** +6; **CMB** +5; **CMD** 15  
-**Feats** [Arcane Shield<sup>APG</sup>](../../rules/feats/arcane-shield.md), [Augment Summoning](../../rules/feats/augment-summoning.md), [Combat Casting](../../rules/feats/combat-casting.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Empower Spell](../../rules/feats/empower-spell.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Spell Focus (conjuration)](../../rules/feats/spell-focus.md), [Spell Focus (enchantment)](../../rules/feats/spell-focus.md), [Superior Summoning<sup>APG</sup>](../../rules/feats/superior-summoning.md)  
+**Feats** [Arcane Shield](../../rules/feats/arcane-shield.md), [Augment Summoning](../../rules/feats/augment-summoning.md), [Combat Casting](../../rules/feats/combat-casting.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Empower Spell](../../rules/feats/empower-spell.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Spell Focus (conjuration)](../../rules/feats/spell-focus.md), [Spell Focus (enchantment)](../../rules/feats/spell-focus.md), [Superior Summoning](../../rules/feats/superior-summoning.md)  
 **Skills** Diplomacy +13, Intimidate +17, Knowledge (arcana) +18, Knowledge (planes) +18, Perception +14, Sense Motive +14  
 **Languages** Common, Draconic, Infernal  
 **SQ** bloodline arcana (change energy damage spells to cold)

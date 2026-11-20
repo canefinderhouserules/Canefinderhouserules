@@ -26,8 +26,8 @@ At will—*disguise self* (DC 15, humanoid form only), *ventriloquism* (DC 15)
 **Arcane School Spell-Like Abilities** (CL 4th; concentration +10)  
 9/day—*blinding ray*  
 **Illusionist Spells Prepared** (CL 4th; concentration +10)  
-2nd—*blindness/deafness* (DC 18), *detect thoughts* (DC 18), *illusion of calm*<sup>UC</sup> (DC 19), *invisibility*, *pernicious poison*<sup>UM</sup>  
-1st—*color spray* (2, DC 18), *hypnotism* (DC 18), *shield*, *silent image* (DC 18), *vanish*<sup>APG</sup>  
+2nd—*blindness/deafness* (DC 18), *detect thoughts* (DC 18), *illusion of calm* (DC 19), *invisibility*, *pernicious poison*  
+1st—*color spray* (2, DC 18), *hypnotism* (DC 18), *shield*, *silent image* (DC 18), *vanish*  
 0 (at will)—*dancing lights*, *detect magic*, *mage hand*, *read magic*  
 **Opposition Schools** conjuration, evocation
 

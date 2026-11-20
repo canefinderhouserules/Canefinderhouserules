@@ -27,7 +27,7 @@ LE Small humanoid (reptilian)
 
 **Str** 10, **Dex** 18, **Con** 10, **Int** 13, **Wis** 10, **Cha** 8  
 **Base Atk** +4; **CMB** +3 (+5 dirty trick); **CMD** 17 (19 vs. dirty trick)  
-**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Improved Dirty Trick<sup>APG</sup>](../../rules/feats/improved-dirty-trick.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (rapier)](../../rules/feats/weapon-focus.md), [Weapon Specialization (rapier)](../../rules/feats/weapon-specialization.md)  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (rapier)](../../rules/feats/weapon-focus.md), [Weapon Specialization (rapier)](../../rules/feats/weapon-specialization.md)  
 **Skills** Craft (trapmaking) +3, Intimidate +6, Knowledge (dungeoneering) +8, Perception +2, Profession (miner) +2, Stealth +13  
 **Languages** Common, Draconic  
 **SQ** armor training 1, crafty  

@@ -30,7 +30,7 @@ At will—*meld into stone*, *plane shift* (willing targets to elemental planes,
 
 **Str** 20, **Dex** 13, **Con** 19, **Int** 14, **Wis** 14, **Cha** 15  
 **Base Atk** +9; **CMB** +15; **CMD** 26  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (*glitterdust*)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (*glitterdust*)  
 **Skills** Appraise +14, Bluff +14, Climb +25, Craft (gemcutting) +14, Knowledge (engineering) +14, Perception +14, Sense Motive +14, Spellcraft +14  
 **Languages** Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.  
 **SQ** stone glide

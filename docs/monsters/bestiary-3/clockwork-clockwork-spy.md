@@ -26,7 +26,7 @@ N Tiny construct (clockwork)
 
 **Str** 10, **Dex** 13, **Con** —, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +1; **CMB** +0; **CMD** 12  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **Skills** Climb +3, Fly –3, Stealth +11; **Racial Modifiers** +2 Climb, +2 Stealth  
 **SQ** swift reactions, winding
 

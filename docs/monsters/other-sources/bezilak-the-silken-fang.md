@@ -35,5 +35,5 @@ At will—*chaos hammer* (DC 21), *confusion* (DC 21), *dispel magic*, *mirror i
 **Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Critical Focus](../../rules/feats/critical-focus.md), [Dodge](../../rules/feats/dodge.md), [Improved Critical (pincers)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Mobility](../../rules/feats/mobility.md), [Persuasive](../../rules/feats/persuasive.md), [Power Attack](../../rules/feats/power-attack.md), [Spring Attack](../../rules/feats/spring-attack.md), [Staggering Critical](../../rules/feats/staggering-critical.md)  
 **Skills** Bluff +30, Climb +19, Diplomacy +34, Disguise +30, Intimidate +34, Knowledge (arcana) +15, Knowledge (local) +15, Knowledge (nobility) +14, Knowledge (planes) +27, Knowledge (religion) +14, Perception +34, Sense Motive +26, Spellcraft +27, Stealth +28  
 **Languages** Abyssal, Celestial, Common, Draconic; telepathy 100 ft.  
-**SQ** rogue talents (bleeding attack +4, combat trick, honeyed words<sup>APG</sup>, surprise attack), trapfinding +4  
+**SQ** rogue talents (bleeding attack +4, combat trick, honeyed words, surprise attack), trapfinding +4  
 **Combat Gear**  *rod of withering*; **Other Gear** *ring of chameleon power*, *ring of freedom of movement*

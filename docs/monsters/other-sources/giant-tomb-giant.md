@@ -25,7 +25,7 @@ NE Large humanoid (giant)
 **Spell-Like Abilities** (CL 12th; concentration +14)  
 Constant—*deathwatch*  
 At will—*detect undead*  
-3/day—*make whole*, *sculpt corpse*<sup>APG</sup>  
+3/day—*make whole*, *sculpt corpse*  
 1/day—*animate dead*, *control undead* (DC 19)
 
 **Statistics**

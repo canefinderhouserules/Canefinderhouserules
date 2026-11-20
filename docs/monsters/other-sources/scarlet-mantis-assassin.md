@@ -27,7 +27,7 @@ LE Medium humanoid (elf, human)
 **Scarlet Mantis Assassin Spells Known** (CL 7th; concentration +9)  
 3rd (1)—*haste*, *keen edge*  
 2nd (4)—*bull’s strength*, *cat’s grace*, *invisibility*, *spider climb*  
-1st (5)—*disguise self*, *expeditious retreat*, *forced quiet*<sup>UM</sup> (DC 13), *jump*, *true strike*
+1st (5)—*disguise self*, *expeditious retreat*, *forced quiet* (DC 13), *jump*, *true strike*
 
 **Statistics**
 
@@ -37,6 +37,6 @@ LE Medium humanoid (elf, human)
 **Skills** Acrobatics +25, Bluff +25, Disguise +19, Escape Artist +20, Intimidate +19, Perception +22, Sense Motive +1, Sleight of Hand +20, Stealth +25  
 **Languages** Common, Elven, Infernal  
 **SQ** elf blood, mantis form*, resurrection sense*, rogue talents (bleeding attack +7, combat trick, weapon training), sabre fighting 3, trapfinding +3  
-**Combat Gear**  *potions of cure moderate wounds* (3), *wand of see invisibility* (6 charges); **Other Gear** *+3 studded leather*, *+1 sawtooth sabres*<sup>UE</sup> (2), mwk hand crossbow with 10 bolts, *amulet of natural armor +1*, *belt of mighty constitution +2*, *boots of elvenkind*, *cloak of elvenkind*, *mask of the mantis*<sup>ISWG, *</sup>, *ring of protection +1*, 114 gp
+**Combat Gear**  *potions of cure moderate wounds* (3), *wand of see invisibility* (6 charges); **Other Gear** *+3 studded leather*, *+1 sawtooth sabres* (2), mwk hand crossbow with 10 bolts, *amulet of natural armor +1*, *belt of mighty constitution +2*, *boots of elvenkind*, *cloak of elvenkind*, *mask of the mantis*, *ring of protection +1*, 114 gp
 
 The assassins in the mysterious order known as the Scarlet Mantis stand at the pinnacle of their craft. Dedicated to the god the mantis god, Scarlet Mantis assassins conduct their business with the fervor and zealotry of religious fanatics. Though their organization is headquartered on Mediogalti Island, Scarlet Mantis assassins are feared throughout the region. Once the order has accepted a contract on a target, the assassins relent only once the victim is dead—in a most permanent fashion.

@@ -25,7 +25,7 @@ CN Small humanoid (wayang)
 **Arcane School Spell-Like Abilities** (CL 1st; concentration +4)  
 6/day—blinding ray  
 **Illusionist Spells Prepared** (CL 1st; concentration +4)  
-1st—*hypnotism* (DC 14), *silent image* (DC 14), *vanish*<sup>APG</sup>  
+1st—*hypnotism* (DC 14), *silent image* (DC 14), *vanish*  
 0 (at will)—*detect magic*, *ghost sound* (DC 13), *read magic*  
 **Opposition Schools** necromancy, transmutation
 

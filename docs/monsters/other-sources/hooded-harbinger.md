@@ -32,7 +32,7 @@ At will—*detect good*, *detect law*
 
 **Str** 26, **Dex** 18, **Con** 21, **Int** 16, **Wis** 13, **Cha** 17  
 **Base Atk** +12; **CMB** +20; **CMD** 34  
-**Feats** [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Command Undead<sup>B</sup>](../../rules/feats/command-undead.md), [Critical Focus](../../rules/feats/critical-focus.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Critical (slam)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Command Undead](../../rules/feats/command-undead.md), [Critical Focus](../../rules/feats/critical-focus.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Critical (slam)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **Skills** Acrobatics +24, Climb +28, Escape Artist +24, Intimidate +31, Knowledge (religion) +27, Perception +21, Stealth +24; **Racial Modifiers** +4 Knowledge (religion), +8 Intimidate  
 **Languages** Aklo, Common; telepathy 100 ft., *tongues*  
 **SQ** terrible visage

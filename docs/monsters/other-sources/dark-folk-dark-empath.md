@@ -23,13 +23,13 @@ CN Small humanoid (dark folk)
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
 At will—*darkness*, *detect magic*  
 **Psychic Magic** (CL 3rd; concentration +5)  
-3 PE—*mind thrust I*<sup>OA</sup> (1 PE, DC 13), *paranoia*<sup>OA</sup> (1 PE, DC 13), *thought echo*<sup>OA</sup> (1 PE, DC 13)
+3 PE—*mind thrust I* (1 PE, DC 13), *paranoia* (1 PE, DC 13), *thought echo* (1 PE, DC 13)
 
 **Statistics**
 
 **Str** 9, **Dex** 19, **Con** 14, **Int** 10, **Wis** 14, **Cha** 15  
 **Base Atk** +2; **CMB** +0; **CMD** 15  
-**Feats** [Empath<sup>OA</sup>](../../rules/feats/empath.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Empath](../../rules/feats/empath.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Climb +7, Perception +9, Stealth +14; **Racial Modifiers** +4 Climb, +4 Perception, +4 Stealth  
 **Languages** Dark Folk, Undercommon  
 **SQ** poison use

@@ -23,17 +23,17 @@ CN Huge dragon (extraplanar)
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** breath weapon (100-ft. line, 20d6 fire, Reflex DC 27 half, usable every 1d4 rounds)  
 **Spell-Like Abilities** (CL 21st; concentration +29)  
-At will—*analyze aura*<sup>OA</sup>, *color spray* (DC 19), *glitterdust* (DC 20), *mirror image* (DC 19)  
+At will—*analyze aura*, *color spray* (DC 19), *glitterdust* (DC 20), *mirror image* (DC 19)  
 3/day—*invisibility* (DC 20), *major image* (DC 21), *rainbow pattern* (DC 22)  
 1/day—*phantasmal killer* (DC 22), *prismatic spray* (DC 25)  
 **Psychic Magic** (CL 21st; concentration +29)  
-20 PE—*aura alteration*<sup>OA</sup> (3 PE, DC 21), *emotive block*<sup>OA</sup> (3 PE, DC 21), *greater possession*<sup>OA</sup> (8 PE, DC 26), *id insinuation V*<sup>OA</sup> (6 PE, DC 24), *instigate psychic duel*<sup>OA</sup> (2 PE, DC 20), *mass synesthesia*<sup>OA</sup> (6 PE, DC 24), *psychic surgery*<sup>OA</sup> (5 PE, DC 25), *suggestion* (3 PE, DC 21), *synaptic scramble*<sup>OA</sup> (4 PE, DC 22)
+20 PE—*aura alteration* (3 PE, DC 21), *emotive block* (3 PE, DC 21), *greater possession* (8 PE, DC 26), *id insinuation V* (6 PE, DC 24), *instigate psychic duel* (2 PE, DC 20), *mass synesthesia* (6 PE, DC 24), *psychic surgery* (5 PE, DC 25), *suggestion* (3 PE, DC 21), *synaptic scramble* (4 PE, DC 22)
 
 **Statistics**
 
 **Str** 31, **Dex** 12, **Con** 25, **Int** 20, **Wis** 21, **Cha** 26  
 **Base Atk** +21; **CMB** +33; **CMD** 44  
-**Feats** [Deceitful](../../rules/feats/deceitful.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Vital Strike](../../rules/feats/improved-vital-strike.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Psychic Combatant<sup>OA</sup>](../../rules/feats/psychic-combatant.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md)  
+**Feats** [Deceitful](../../rules/feats/deceitful.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Vital Strike](../../rules/feats/improved-vital-strike.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), [Psychic Combatant](../../rules/feats/psychic-combatant.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md)  
 **Skills** Bluff +35, Climb +31, Diplomacy +22, Disguise +22, Fly +16, Intimidate +31, Knowledge (dungeoneering, history, nobility) +28, Perception +28, Sense Motive +28, Stealth +16, Survival +28  
 **Languages** Aklo, Auran, Common, Draconic, Elven, Terran  
 **SQ** dazzling presence, razor sharp

@@ -26,7 +26,7 @@ NE Medium humanoid (human)
 
 **Str** 18, **Dex** 13, **Con** 14, **Int** 8, **Wis** 12, **Cha** 10  
 **Base Atk** +4; **CMB** +8 (+9 trip); **CMD** 19 (20 vs. trip)  
-**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Enforcer<sup>APG</sup>](../../rules/feats/enforcer.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Enforcer](../../rules/feats/enforcer.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md)  
 **Skills** Acrobatics +7, Climb +7, Intimidate +11, Perception +5, Profession (woodcutter) +5, Ride +4, Sense Motive +5, Stealth +4, Swim +7  
 **Languages** Common  
 **SQ** brawler’s cunning, martial training

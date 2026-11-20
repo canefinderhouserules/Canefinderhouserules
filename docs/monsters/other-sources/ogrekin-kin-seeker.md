@@ -22,7 +22,7 @@ NE Medium humanoid (giant, orc)
 **Melee** mwk club +11 (1d6+6), unarmed strike +10 (1d8+6)  
 **Ranged**  bolas +7 (1d4+6) or mwk composite shortbow +8 (1d6+6/×3)  
 **Druid Spells Prepared** (CL 6th; concentration +7)  
-2nd (3/day)—*fog cloud*, *resist energy*, *warp wood*, *whip of spiders*<sup>ACG</sup>  
+2nd (3/day)—*fog cloud*, *resist energy*, *warp wood*, *whip of spiders*  
 1st (5/day)—*magic fang*, *pass without trace*, *produce flame*, *summon nature’s ally I*  
 0 (at will)—*create water*, *detect poison*, *guidance*, *know direction*, *resistance*, *virtue*
 
@@ -30,11 +30,11 @@ NE Medium humanoid (giant, orc)
 
 **Str** 22, **Dex** 16, **Con** 14, **Int** 9, **Wis** 12, **Cha** 4  
 **Base Atk** +4; **CMB** +10 (+12 grapple); **CMD** 23 (25 vs. grapple)  
-**Feats** [Distracting Charge<sup>ACG</sup>](../../rules/feats/distracting-charge.md), [Exotic Weapon Proficiency (bolas)](../../rules/feats/exotic-weapon-proficiency.md), [Improved Grapple](../../rules/feats/improved-grapple.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Power Attack](../../rules/feats/power-attack.md), [Precise Shot<sup>B</sup>](../../rules/feats/precise-shot.md)  
+**Feats** [Distracting Charge](../../rules/feats/distracting-charge.md), [Exotic Weapon Proficiency (bolas)](../../rules/feats/exotic-weapon-proficiency.md), [Improved Grapple](../../rules/feats/improved-grapple.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Power Attack](../../rules/feats/power-attack.md), [Precise Shot](../../rules/feats/precise-shot.md)  
 **Skills** Climb +9, Handle Animal +6, Heal +8, Intimidate +5, Knowledge (geography) +3, Knowledge (nature) +3, Perception +6, Stealth +9, Survival +8, Swim +10  
 **Languages** Giant, Orc  
 **SQ** animal companion (boar), animal focus (6 minutes/day), deformities (distractible, warty knuckles), hunter tactics, improved empathic link, nature training, track +3, weapon familiarity, wild empathy +3, woodland stride  
-**Combat Gear**  *potions of bear’s endurance* (2), *potions of cure moderate wounds* (2), *potions of longstrider* (2); **Other Gear** mwk studded leather, mwk heavy wooden shield, bolas (4), mwk club, mwk composite shortbow (+6 Str) with 28 arrows, animal call<sup>ACG</sup>, backpack, rope (50 feet), manacles, musk kit<sup>ACG</sup>, tracker’s snuff<sup>ACG</sup> (2 doses)
+**Combat Gear**  *potions of bear’s endurance* (2), *potions of cure moderate wounds* (2), *potions of longstrider* (2); **Other Gear** mwk studded leather, mwk heavy wooden shield, bolas (4), mwk club, mwk composite shortbow (+6 Str) with 28 arrows, animal call, backpack, rope (50 feet), manacles, musk kit, tracker’s snuff (2 doses)
 
 **Ecology**
 

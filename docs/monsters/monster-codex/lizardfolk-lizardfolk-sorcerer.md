@@ -22,12 +22,12 @@ CN Medium humanoid (reptilian)
 **Melee** 2 claws +10 (1d6+3 plus 1d6 acid), bite +5 (1d4+1)  
 **Special Attacks** breath weapon (60-foot line, 11d6 acid, DC 19, 1/day), claws (1d4+3 plus 1d6 acid, treated as magic weapons, 7 rounds/day)  
 **Sorcerer Spells Known** (CL 11th; concentration +15)  
-5th (4/day)—*acidic spray*<sup>UM</sup> (DC 19), *spell resistance*, *wall of stone* (DC 19)  
-4th (7/day)—*black tentacles*, *fear* (DC 18), *remove curse*, *vitriolic mist*<sup>UM</sup>  
+5th (4/day)—*acidic spray* (DC 19), *spell resistance*, *wall of stone* (DC 19)  
+4th (7/day)—*black tentacles*, *fear* (DC 18), *remove curse*, *vitriolic mist*  
 3rd (7/day)—*dispel magic*, *fly*, *haste*, *major image* (DC 17), *wind wall*  
-2nd (7/day)—*acid arrow*, *create pit*<sup>APG</sup> (DC 16), *darkvision*, *frigid touch*<sup>UM</sup>, *resist energy*, *web* (DC 16)  
-1st (7/day)—*corrosive touch*<sup>UM</sup>, *endure elements*, *grease* (DC 15), *mage armor*, *ray of enfeeblement* (DC 15), *shocking grasp*  
-0 (at will)—*acid splash*, *detect magic*, *detect poison*, *open/close*, *read magic*, *resistance*, *spark*<sup>APG</sup>, *mending*, *message*  
+2nd (7/day)—*acid arrow*, *create pit* (DC 16), *darkvision*, *frigid touch*, *resist energy*, *web* (DC 16)  
+1st (7/day)—*corrosive touch*, *endure elements*, *grease* (DC 15), *mage armor*, *ray of enfeeblement* (DC 15), *shocking grasp*  
+0 (at will)—*acid splash*, *detect magic*, *detect poison*, *open/close*, *read magic*, *resistance*, *spark*, *mending*, *message*  
 **Bloodline** draconic (black)
 
 **Tactics**
@@ -40,7 +40,7 @@ CN Medium humanoid (reptilian)
 
 **Str** 17, **Dex** 10, **Con** 15, **Int** 11, **Wis** 8, **Cha** 18  
 **Base Atk** +6; **CMB** +9; **CMD** 27  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Elemental Focus<sup>APG</sup> (acid)](../../rules/feats/elemental-focus.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), Lighting Reflexes, [Reach Spell<sup>APG</sup>](../../rules/feats/reach-spell.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (claw)](../../rules/feats/weapon-focus.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Elemental Focus (acid)](../../rules/feats/elemental-focus.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), Lighting Reflexes, [Reach Spell](../../rules/feats/reach-spell.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (claw)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +6, Climb +7, Intimidate +9, Knowledge (arcana) +5, Knowledge (nature) +3, Linguistics +1, Perception +4, Spellcraft +8, Swim +13, Use Magic Device +13; **Racial Modifiers** +4 Acrobatics  
 **Languages** Common, Draconic  
 **SQ** bloodline arcana (spells that deal acid damage deal +1 damage per die), hold breath  

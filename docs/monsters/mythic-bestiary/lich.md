@@ -29,7 +29,7 @@ LE Medium undead (augmented humanoid, human, mythic)
 7th—blasphemy<sup>D</sup> (DC 25), destruction (DC 27), ethereal jaunt  
 6th—antimagic field<sup>D</sup>, blade barrier<sup>M</sup> (DC 24), harm<sup>M</sup> (2, DC 26)  
 5th—dispel good<sup>D</sup>, flame strike<sup>M</sup> (DC 23), greater command (DC 23), slay living (2, DC 25)  
-4th—chaos hammer<sup>M</sup> (DC 22), freedom of movement, poison (DC 24), spell immunity, unholy blight<sup>D, M</sup> (2, DC 22)  
+4th—chaos hammer<sup>M</sup> (DC 22), freedom of movement, poison (DC 24), spell immunity, unholy blight (2, DC 22)  
 3rd—bestow curse (2, DC 23), contagion (DC 23)<sup>M</sup>, dispel magic<sup>D</sup>, invisibility purge, meld into stone, protection from energy  
 2nd—align weapon<sup>D</sup> (evil only), calm emotions (DC 20), darkness, desecrate, hold person (DC 20), resist energy, spiritual weapon<sup>M</sup>  
 1st—bane (DC 19), cause fear (DC 21), deathwatch, entropic shield, identify<sup>D</sup>, obscuring mist (2)  
@@ -40,7 +40,7 @@ LE Medium undead (augmented humanoid, human, mythic)
 
 **Str** 8, **Dex** 14, **Con** —, **Int** 15, **Wis** 26, **Cha** 20  
 **Base Atk** +9; **CMB** +8; **CMD** 22  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Extra Channel](../../rules/feats/extra-channel.md), [Improved Channel<sup>M</sup>](../../rules/feats/improved-channel.md), [Improved Initiative<sup>M</sup>](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), Mythic Spell Lore<sup>B</sup>, [Spell Focus (necromancy)<sup>M</sup>](../../rules/feats/spell-focus.md), [Toughness<sup>M</sup>](../../rules/feats/toughness.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Extra Channel](../../rules/feats/extra-channel.md), [Improved Channel<sup>M</sup>](../../rules/feats/improved-channel.md), [Improved Initiative<sup>M</sup>](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), Mythic Spell Lore, [Spell Focus (necromancy)<sup>M</sup>](../../rules/feats/spell-focus.md), [Toughness<sup>M</sup>](../../rules/feats/toughness.md)  
 **Skills** Heal +16, Intimidate +18, Knowledge (arcana, religion) +18, Perception +29, Sense Motive +27, Spellcraft +26, Stealth +9; **Racial Modifiers** +8 Perception, +8 Sense Motive, +8 Spellcraft, +8 Stealth  
 **Languages** Abyssal, Common  
 **SQ** mythic phylactery, rejuvenation

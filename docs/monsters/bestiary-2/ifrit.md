@@ -33,7 +33,7 @@ N Medium outsider (native)
 
 **Str** 10, **Dex** 16, **Con** 12, **Int** 13, **Wis** 6, **Cha** 17  
 **Base Atk** +0; **CMB** +0; **CMD** 13  
-**Feats** [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), [Martial Weapon Proficiency (scimitar)](../../rules/feats/martial-weapon-proficiency.md)  
+**Feats** [Eschew Materials](../../rules/feats/eschew-materials.md), [Martial Weapon Proficiency (scimitar)](../../rules/feats/martial-weapon-proficiency.md)  
 **Skills** Bluff +7, Knowledge (arcana) +5, Spellcraft +5  
 **Languages** Common, Gnome, Ignan  
 **SQ** bloodline arcana, fire affinity

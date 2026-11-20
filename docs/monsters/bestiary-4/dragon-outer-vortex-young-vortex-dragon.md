@@ -23,7 +23,7 @@ LN Large dragon (fire)
 **Space** 10 ft., **Reach** 5 ft. (10 ft. with bite)  
 **Special Attacks** breath weapon (40-ft. cone, 6d8 fire, DC 18)  
 **Spell-Like Abilities** (CL 11th; concentration +14)  
-At will—*anticipate peril*<sup>UM</sup>  
+At will—*anticipate peril*  
 **Sorcerer Spells Known** (CL 1st; concentration +4)  
 1st (4/day)—*feather fall*, *true strike*  
 0 (at will)—*arcane mark*, *detect magic*, *message*, *read magic*

@@ -21,42 +21,42 @@ CE Medium undead
 **Speed** 30 ft.  
 **Melee** bite +12 (1d6+1 plus disease and paralysis), 2 claws +12 (1d4+1 plus paralysis), *staff of power* +14/+9/+4 (1d6+3)  
 **Ranged**  ray +17 (by spell/19–20)  
-**Special Attacks** alter channel, the blood is the life<sup>UM</sup> (13/day), channel negative energy 15/day (DC 22, 3d6), death’s kiss (2 rounds, 14/day), disease, divine surge (inspired spell), eldritch breach, enduring blessing (1 minute/level), faith’s reach, lore keeper, mythic power (15/day, surge +1d8), paralysis (1d4+1 rounds, DC 21, elves are immune to this effect), spell synthesis  
+**Special Attacks** alter channel, the blood is the life (13/day), channel negative energy 15/day (DC 22, 3d6), death’s kiss (2 rounds, 14/day), disease, divine surge (inspired spell), eldritch breach, enduring blessing (1 minute/level), faith’s reach, lore keeper, mythic power (15/day, surge +1d8), paralysis (1d4+1 rounds, DC 21, elves are immune to this effect), spell synthesis  
 **Spell-Like Abilities** (CL 22nd)  
 2/day—*ghoul touch*  
-1/day—undead minion<sup>BOTD2</sup>  
+1/day—undead minion  
 **Cleric Spells Prepared** (CL 15th; concentration +26)  
 8th—*fire storm*<sup>M</sup> (DC 29), *mind blank*<sup>D</sup> (already cast), *unholy aura*  
 7th—*destruction*<sup>D</sup> (2, DC 29), empowered *flame strike* (2), *repulsion* (DC 28)  
 6th—*create undead*<sup>D</sup>, *greater dispel magic*, *harm*<sup>M</sup> (2, DC 29), *plague storm*, *word of recall*  
-5th—*plane shift*<sup>M</sup> (DC 26), *scrying* (DC 26), *slay living*<sup>D</sup> (3, DC 27), *steal power*<sup>MA</sup> (DC 28), *true seeing* (already cast)  
-4th—*aura of doom*, *blessing of fervor*<sup>APG</sup>, *dismissal* (DC 25), *divine power*, *enervation*<sup>D, M</sup> (2), *freedom of movement*  
-3rd—*bestow curse* (3, DC 25), *dispel magic*, *magic vestment* (already cast), *prayer*<sup>M</sup> (2), *seek thoughts*<sup>APG, D</sup>  
+5th—*plane shift*<sup>M</sup> (DC 26), *scrying* (DC 26), *slay living*<sup>D</sup> (3, DC 27), *steal power* (DC 28), *true seeing* (already cast)  
+4th—*aura of doom*, *blessing of fervor*, *dismissal* (DC 25), *divine power*, *enervation* (2), *freedom of movement*  
+3rd—*bestow curse* (3, DC 25), *dispel magic*, *magic vestment* (already cast), *prayer*<sup>M</sup> (2), *seek thoughts*  
 2nd—*darkness*<sup>M</sup>, *ghoul touch*<sup>D</sup> (DC 25), *remove paralysis*, *resist energy* (2), *silence*<sup>M</sup> (2, DC 23), *spiritual weapon*  
 1st—*comprehend languages*<sup>D</sup>, *divine favor*, *entropic shield*, *protection from good* (3), *shield of faith*<sup>M</sup> (2)  
 0 (at will)—*detect magic*, *guidance*, *light*, *mending*  
-**D** domain spell; **Domains** Death (Undead subdomain<sup>APG</sup>), Knowledge (Thought subdomain<sup>APG</sup>); **M** mythic spell
+**D** domain spell; **Domains** Death (Undead subdomain), Knowledge (Thought subdomain); **M** mythic spell
   
 **Sorcerer Spells Known** (CL 15th; concentration +25)  
 7th (5/day)—*finger of death*<sup>M</sup> (DC 29), *power word blind*, *prismatic spray*<sup>M</sup>  
-6th (8/day)—*contagious flame*<sup>APG</sup>, *contingency*<sup>M</sup>, *greater dispel magic*, *undeath to death* (DC 28)  
+6th (8/day)—*contagious flame*, *contingency*<sup>M</sup>, *greater dispel magic*, *undeath to death* (DC 28)  
 5th (8/day)—*cone of cold* (DC 25), *dominate person*<sup>M</sup> (DC 25), *mage's private sanctum*, *teleport*, *waves of fatigue*  
 4th (8/day)—*animate dead*, *bestow curse* (DC 26), *charm monster* (DC 24), *enervation*<sup>M</sup>, *fire shield*  
 3rd (8/day)—*fly*, *hold person* (DC 23), *magic circle against good*, *nondetection*, *vampiric touch*<sup>M</sup>  
 2nd (9/day, 8 remaining)—*command undead* (DC 23), *false life* (cast once), *mirror image*, *resist energy*, *scorching ray*, *spider climb*<sup>M</sup>  
 1st (9/day)—*chill touch* (DC 23), *expeditious retreat*, *feather fall*, *ray of enfeeblement* (DC 23), *silent image* (DC 21), *vanish*  
 0 (at will)—*acid splash*, *arcane mark*, *dancing lights*, *ghost sound* (DC 20), *mage hand*, *message*, *prestidigitation*, *read magic*, *tough of fatigue*  
-**Bloodline** undead (sanguine<sup>UM</sup>); **M** mythic spell
+**Bloodline** undead (sanguine); **M** mythic spell
 
 **Statistics**
 
 **Str** 13, **Dex** 21, **Con** —, **Int** 17, **Wis** 32, **Cha** 31  
 **Base Atk** +11; **CMB** +12; **CMD** 32  
-**Feats** [Accursed Critical<sup>UM</sup>](../../rules/feats/accursed-critical.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Demonic Obedience<sup>BOTD2</sup>](../../rules/feats/demonic-obedience.md), [Empower Spell](../../rules/feats/empower-spell.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Extra Channel](../../rules/feats/extra-channel.md), [Improved Critical (ray)](../../rules/feats/improved-critical.md), Mythic Spell Lore, [Spell Focus<sup>M</sup> (necromancy)](../../rules/feats/spell-focus.md), [Thanatopic Spell<sup>UM</sup>](../../rules/feats/thanatopic-spell.md), [Toughness<sup>M</sup>](../../rules/feats/toughness.md), [Weapon Focus (ray)](../../rules/feats/weapon-focus.md)  
+**Feats** [Accursed Critical](../../rules/feats/accursed-critical.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Demonic Obedience](../../rules/feats/demonic-obedience.md), [Empower Spell](../../rules/feats/empower-spell.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Extra Channel](../../rules/feats/extra-channel.md), [Improved Critical (ray)](../../rules/feats/improved-critical.md), Mythic Spell Lore, [Spell Focus<sup>M</sup> (necromancy)](../../rules/feats/spell-focus.md), [Thanatopic Spell](../../rules/feats/thanatopic-spell.md), [Toughness<sup>M</sup>](../../rules/feats/toughness.md), [Weapon Focus (ray)](../../rules/feats/weapon-focus.md)  
 **Skills** Intimidate +32, Knowledge (arcana, planes, religion) +28, Spellcraft +28, Use Magic Device +24  
 **Languages** Common  
 **SQ** amazing initiative, aura, bloodline arcana (+1 caster level with necromancy spells), combined spells (5th), exceptional wealth, ghoulish apotheosis (+4 Charisma), mythic spellcasting, recuperation  
-**Combat Gear**  *crown of conquest*<sup>UE</sup>, *extend metamagic rod*, *greater strand of prayer beads*, *ring of spell turning*, *scroll of tongues*, *staff of necromancy*, *staff of power*; **Other Gear** *+4 mithral buckler*, *amulet of natural armor +5*, *belt of incredible dexterity +6*, *cloak of resistance +5*, *darkskull* (*invisibility purge*), *deathwatch eyes*, *headband of mental prowess +6* (Wis, Cha), *ring of protection +5*, eye ointment (worth 250 gp), gold and platinum holy symbol (worth 1,000 gp)
+**Combat Gear**  *crown of conquest*, *extend metamagic rod*, *greater strand of prayer beads*, *ring of spell turning*, *scroll of tongues*, *staff of necromancy*, *staff of power*; **Other Gear** *+4 mithral buckler*, *amulet of natural armor +5*, *belt of incredible dexterity +6*, *cloak of resistance +5*, *darkskull* (*invisibility purge*), *deathwatch eyes*, *headband of mental prowess +6* (Wis, Cha), *ring of protection +5*, eye ointment (worth 250 gp), gold and platinum holy symbol (worth 1,000 gp)
 
 **Special Abilities**
 

@@ -24,7 +24,7 @@ N Small vermin
 
 **Str** 11, **Dex** 12, **Con** 19, **Int** —, **Wis** 11, **Cha** 2  
 **Base Atk** +0; **CMB** –1; **CMD** 10  
-**Feats** [Diehard<sup>B</sup>](../../rules/feats/diehard.md), [Endurance<sup>B</sup>](../../rules/feats/endurance.md)  
+**Feats** [Diehard](../../rules/feats/diehard.md), [Endurance](../../rules/feats/endurance.md)  
 **Skills** Climb +8, Fly –1, Perception +4, Stealth +9; **Racial Modifiers** +4 Perception, +4 Stealth  
 **SQ** hold breath
 

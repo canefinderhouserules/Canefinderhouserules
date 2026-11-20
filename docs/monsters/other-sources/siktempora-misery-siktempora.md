@@ -31,7 +31,7 @@ At will—temporal jaunt
 
 **Str** 22, **Dex** 19, **Con** 20, **Int** 15, **Wis** 21, **Cha** 18  
 **Base Atk** +16; **CMB** +23; **CMD** 43 (51 vs. trip)  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Improved Critical (claws)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Mobility](../../rules/feats/mobility.md), Quicken Spell-Like Ability (vanish), [Spring Attack](../../rules/feats/spring-attack.md), [Whirlwind Attack<sup>B</sup>](../../rules/feats/whirlwind-attack.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Improved Critical (claws)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Mobility](../../rules/feats/mobility.md), Quicken Spell-Like Ability (vanish), [Spring Attack](../../rules/feats/spring-attack.md), [Whirlwind Attack](../../rules/feats/whirlwind-attack.md)  
 **Skills** Acrobatics +23, Intimidate +23, Knowledge (arcana) +21, Knowledge (history) +21, Knowledge (planes) +21, Perception +24, Sense Motive +24, Stealth +19  
 **Languages** Aklo (cannot speak); telepathy 300 ft.  
 **SQ** miserable source

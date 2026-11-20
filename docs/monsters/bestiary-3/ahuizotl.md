@@ -25,7 +25,7 @@ NE Large magical beast (aquatic)
 
 **Str** 20, **Dex** 17, **Con** 17, **Int** 9, **Wis** 14, **Cha** 16  
 **Base Atk** +8; **CMB** +14 (+18 grapple); **CMD** 27 (31 vs. trip)  
-**Feats** [Blinding Critical<sup>B</sup>](../../rules/feats/blinding-critical.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Critical (claw)<sup>B</sup>](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Stand Still](../../rules/feats/stand-still.md)  
+**Feats** [Blinding Critical](../../rules/feats/blinding-critical.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Critical (claw)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Stand Still](../../rules/feats/stand-still.md)  
 **Skills** Bluff +9, Stealth +9, Swim +20; **Racial Modifiers** +6 Bluff  
 **Languages** Common  
 **SQ** amphibious, tenacious grapple, voice mimicry

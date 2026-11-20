@@ -26,7 +26,7 @@ N Huge outsider (earth, elemental, extraplanar)
 
 **Str** 28, **Dex** 8, **Con** 19, **Int** 6, **Wis** 11, **Cha** 11  
 **Base Atk** +10; **CMB** +21; **CMD** 30  
-**Feats** Awesome Blow, [Cleave](../../rules/feats/cleave.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Improved Bull Rush<sup>B</sup>](../../rules/feats/improved-bull-rush.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** Awesome Blow, [Cleave](../../rules/feats/cleave.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Power Attack](../../rules/feats/power-attack.md)  
 **Skills** Appraise +6, Climb +18, Knowledge (dungeoneering) +4, Knowledge (planes) +7, Perception +13, Stealth +4
 
 **Ecology**

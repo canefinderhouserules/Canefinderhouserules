@@ -33,8 +33,8 @@ N Large monstrous humanoid
 **Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Mobility](../../rules/feats/mobility.md), Multiattack, [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Shot on the Run](../../rules/feats/shot-on-the-run.md), [Spring Attack](../../rules/feats/spring-attack.md)  
 **Skills** Acrobatics +22 (+30 when jumping), Bluff +9, Climb +20, Craft (alchemy) +16, Disable Device +15, Escape Artist +14, Heal +13, Knowledge (geography, history) +7, Knowledge (local) +15, Perception +25, Sense Motive +16, Stealth +26, Survival +24; **Racial Modifiers** +4 Climb, +4 Perception, +4 Stealth  
 **Languages** Common, Girtablilu, Gnoll, Kelish  
-**SQ** rogue talents (assault leader<sup>APG</sup>, lasting poison<sup>APG</sup>, survivalist<sup>APG</sup>, swift poison<sup>APG</sup>), scorpion empathy +18, trapfinding +4, undersized weapons  
-**Combat Gear**  *potions of cure serious wounds* (2), *potion of haste*, *potions of invisibility* (3), alchemist’s fire (2), antitoxin (3), smokesticks (5), thunderstones (3); **Other Gear** studded leather, *+1 spear*, *+1 composite shortbow* with 30 arrows, *amulet of natural armor +2*, *belt of incredible dexterity +2*, *elixirs of hiding* (2), portable alchemist’s lab<sup>UE</sup>, tindertwigs (10)
+**SQ** rogue talents (assault leader, lasting poison, survivalist, swift poison), scorpion empathy +18, trapfinding +4, undersized weapons  
+**Combat Gear**  *potions of cure serious wounds* (2), *potion of haste*, *potions of invisibility* (3), alchemist’s fire (2), antitoxin (3), smokesticks (5), thunderstones (3); **Other Gear** studded leather, *+1 spear*, *+1 composite shortbow* with 30 arrows, *amulet of natural armor +2*, *belt of incredible dexterity +2*, *elixirs of hiding* (2), portable alchemist’s lab, tindertwigs (10)
 
 **Ecology**
 

@@ -14,7 +14,7 @@ CN Large outsider (chaotic, extraplanar, herald)
 **AC** 30, touch 10, flat-footed 29 (+20 armor, +1 Dex, –1 size)  
 **hp** 261 (18d10+162); regeneration 5 (adamantine)  
 **Fort** +20, **Ref** +12, **Will** +8  
-**Defensive Abilities** fortification (75%)<sup>B4</sup>; **DR** 15/adamantine and law; **Immune** magic, poison; **Resist** cold 10, sonic 10
+**Defensive Abilities** fortification (75%); **DR** 15/adamantine and law; **Immune** magic, poison; **Resist** cold 10, sonic 10
 
 **Offense**
 

@@ -28,7 +28,7 @@ At will—*detect magic*, *ghost sound* (DC 12), *mage hand*, *silent image* (DC
 
 **Str** 15, **Dex** 14, **Con** 13, **Int** 6, **Wis** 13, **Cha** 14  
 **Base Atk** +4; **CMB** +5; **CMD** 17 (29 vs. trip)  
-**Feats** [Great Fortitude<sup>B</sup>](../../rules/feats/great-fortitude.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
+**Feats** [Great Fortitude](../../rules/feats/great-fortitude.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
 **Skills** Acrobatics +9, Climb +9, Perception +11, Stealth +13 (+15 in rocky areas); **Racial Modifiers** +2 Stealth in rocky areas  
 **Languages** Terran
 

@@ -30,7 +30,7 @@ At will—*dancing lights*, *prestidigitation*, *stabilize*
 
 **Str** 3, **Dex** 15, **Con** 12, **Int** 10, **Wis** 12, **Cha** 13  
 **Base Atk** +2; **CMB** +2; **CMD** 8 (12 vs. trip)  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +11, Climb +7, Fly +6, Knowledge (arcana) +5, Knowledge (planes) +5, Perception +10, Stealth +19; **Racial Modifiers** +4 Acrobatics, +4 Perception, +4 Stealth  
 **Languages** Celestial, Draconic, Infernal; *speak with animals*, truespeech  
 **SQ** cat’s luck, flight, lay on hands (1d6, 1/day, always as a 2nd-level paladin), spectral mist

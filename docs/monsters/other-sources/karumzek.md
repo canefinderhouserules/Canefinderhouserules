@@ -21,9 +21,9 @@ NE Medium outsider (evil, extraplanar, shapechanger)
 **Melee** bite +8 (1d8+3 plus poison)  
 **Special Attacks** poison, sneak attack +1d6, web (+7 ranged, DC 14, 5 hp)  
 **Spell-Like Abilities** (CL 6th; concentration +6)  
-Constant—*negate aroma*<sup>APG</sup>  
+Constant—*negate aroma*  
 At will—*bleed*, *prestidigitation*, *stabilize*  
-3/day—*alchemical allocation*<sup>APG</sup>, *death knell* (DC 12), *invisibility* (self only), *obscuring mist*, *vomit swarm*<sup>APG</sup> (spiders only)
+3/day—*alchemical allocation*, *death knell* (DC 12), *invisibility* (self only), *obscuring mist*, *vomit swarm* (spiders only)
 
 **Statistics**
 
@@ -32,7 +32,7 @@ At will—*bleed*, *prestidigitation*, *stabilize*
 **Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md)  
 **Skills** Climb +10, Craft (alchemy) +7, Knowledge (nature) +7, Knowledge (religion) +7, Perception +9, Stealth +14; **Racial Modifiers** +4 Stealth  
 **Languages** Abyssal, Infernal, Undercommon  
-**SQ** change shape (Diminutive spider; *vermin shape II*<sup>UM</sup>), deft limbs
+**SQ** change shape (Diminutive spider; *vermin shape II*), deft limbs
 
 **Ecology**
 

@@ -23,16 +23,16 @@ NG Large outsider (agathion, extraplanar, good)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** channel positive energy, coruscating charge, pounce, rend (2 claws, 3d6+12), sacred slasher, twin talons  
 **Spell-Like Abilities** (CL 20th; concentration +27)  
-Constant—*cloak of winds*<sup>APG</sup>, *discern lies*, *freedom of movement*, *magic circle against evil*, *mind blank*, *see invisibility*, *speak with animals*, *true seeing*  
-At will—*aid*, *daylight*, *dimension door*, *dispel evil* (DC 22), *displacement* (self only), *greater command* (DC 22), *greater dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *hold monster* (DC 22), *magic missile*, *remove fear*, *river of wind*<sup>APG</sup> (DC 21), *wind wall*  
-3/day—*break enchantment*, *control winds*, *divine power*, *eagle aerie*<sup>UM</sup>, quickened empowered *chain lightning* (DC 23), *holy aura* (DC 25), *holy word* (DC 24), *miracle*, *plane shift* (DC 24), *spell turning*  
-1/day—*control weather*, *mass heal*, *overwhelming presence*<sup>UM</sup> (DC 26), summon (level 8, 1d4+1 advanced avorals 100%), *sunburst* (DC 25), *whirlwind* (DC 25)
+Constant—*cloak of winds*, *discern lies*, *freedom of movement*, *magic circle against evil*, *mind blank*, *see invisibility*, *speak with animals*, *true seeing*  
+At will—*aid*, *daylight*, *dimension door*, *dispel evil* (DC 22), *displacement* (self only), *greater command* (DC 22), *greater dispel magic*, *greater teleport* (self plus 50 lbs. of objects only), *hold monster* (DC 22), *magic missile*, *remove fear*, *river of wind* (DC 21), *wind wall*  
+3/day—*break enchantment*, *control winds*, *divine power*, *eagle aerie*, quickened empowered *chain lightning* (DC 23), *holy aura* (DC 25), *holy word* (DC 24), *miracle*, *plane shift* (DC 24), *spell turning*  
+1/day—*control weather*, *mass heal*, *overwhelming presence* (DC 26), summon (level 8, 1d4+1 advanced avorals 100%), *sunburst* (DC 25), *whirlwind* (DC 25)
 
 **Statistics**
 
 **Str** 26, **Dex** 36, **Con** 35, **Int** 19, **Wis** 23, **Cha** 24  
 **Base Atk** +27; **CMB** +36; **CMD** 59  
-**Feats** [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Dimensional Agility<sup>APG</sup>](../../rules/feats/dimensional-agility.md), [Dimensional Assault<sup>APG</sup>](../../rules/feats/dimensional-assault.md), [Dimensional Dervish<sup>APG</sup>](../../rules/feats/dimensional-dervish.md), [Critical Focus](../../rules/feats/critical-focus.md), Empower Spell-Like Ability (*chain lightning*), Flyby Attack, Multiattack, [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (chain lightning), [Staggering Critical](../../rules/feats/staggering-critical.md), [Stunning Critical](../../rules/feats/stunning-critical.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (claws)](../../rules/feats/weapon-focus.md)  
+**Feats** [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Dimensional Agility](../../rules/feats/dimensional-agility.md), [Dimensional Assault](../../rules/feats/dimensional-assault.md), [Dimensional Dervish](../../rules/feats/dimensional-dervish.md), [Critical Focus](../../rules/feats/critical-focus.md), Empower Spell-Like Ability (*chain lightning*), Flyby Attack, Multiattack, [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (chain lightning), [Staggering Critical](../../rules/feats/staggering-critical.md), [Stunning Critical](../../rules/feats/stunning-critical.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Weapon Focus (claws)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +40, Bluff +20, Diplomacy +30, Fly +45, Handle Animal +30, Intimidate +30, Knowledge (history, local, nobility, planes) +10, Perception +44, Perform (oratory) +10, Sense Motive +36, Spellcraft +10, Stealth +38, Use Magic Device +34; **Racial Modifiers** +8 Perception  
 **Languages** Celestial, Common, Draconic, Infernal; *speak with animals*; *truespeech*  
 **SQ** benevolent mercy, lay on hands (10d6, 10/day, as a 20th-level paladin)

@@ -23,7 +23,7 @@ N Small animal
 
 **Str** 8, **Dex** 15, **Con** 12, **Int** 1, **Wis** 13, **Cha** 2  
 **Base Atk** +1; **CMB** +2; **CMD** 11 (can’t be tripped)  
-**Feats** [Agile Maneuvers](../../rules/feats/agile-maneuvers.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Agile Maneuvers](../../rules/feats/agile-maneuvers.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Climb +7, Perception +9, Stealth +14, Swim +7; **Racial Modifiers** +4 Perception, +4 Stealth  
 **SQ** hold breath
 

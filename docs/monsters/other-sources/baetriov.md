@@ -29,7 +29,7 @@ At will—*bleed* (DC 14), *blood biography* (DC 16), *bloodhound*, *pain strike
 
 **Str** 16, **Dex** 19, **Con** —, **Int** 17, **Wis** 14, **Cha** 18  
 **Base Atk** +9; **CMB** +12; **CMD** 26  
-**Feats** Ability Focus (*pain strike*), [Dazzling Display](../../rules/feats/dazzling-display.md), [Deceitful<sup>B</sup>](../../rules/feats/deceitful.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Persuasive<sup>B</sup>](../../rules/feats/persuasive.md), [Shatter Defenses](../../rules/feats/shatter-defenses.md), [Weapon Focus (dagger](../../rules/feats/weapon-focus.md), slam)  
+**Feats** Ability Focus (*pain strike*), [Dazzling Display](../../rules/feats/dazzling-display.md), [Deceitful](../../rules/feats/deceitful.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Persuasive](../../rules/feats/persuasive.md), [Shatter Defenses](../../rules/feats/shatter-defenses.md), [Weapon Focus (dagger](../../rules/feats/weapon-focus.md), slam)  
 **Skills** Bluff +18, Craft (alchemy) +13, Diplomacy +18, Disguise +14 (+24 when appearing to be alive), Intimidate +21, Knowledge (arcana, nobility) +11, Perception +15, Sense Motive +15, Stealth +13  
 **Languages** Common, Elven, Infernal, Jistkan  
 **SQ** blood well, bloody bath

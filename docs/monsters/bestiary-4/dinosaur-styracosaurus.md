@@ -26,7 +26,7 @@ N Large animal
 
 **Str** 22, **Dex** 13, **Con** 17, **Int** 2, **Wis** 12, **Cha** 7  
 **Base Atk** +5; **CMB** +12; **CMD** 23 (27 vs. trip)  
-**Feats** [Combat Reflexes<sup>B</sup>](../../rules/feats/combat-reflexes.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (gore)](../../rules/feats/weapon-focus.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (gore)](../../rules/feats/weapon-focus.md)  
 **Skills** Perception +11
 
 **Ecology**

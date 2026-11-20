@@ -27,16 +27,16 @@ CE Medium humanoid (elf)
 1/day—*dancing lights*, *darkness*, *faerie fire*  
 **Sorcerer Spells Known** (CL 4th; concentration +7, spell failure chance 25%)  
 2nd (4/day)—*alter self*  
-1st (7/day)—*grease*, *ray of enfeeblement* (DC 14), *true strike*, *vanish*<sup>APG</sup> (DC 14)  
+1st (7/day)—*grease*, *ray of enfeeblement* (DC 14), *true strike*, *vanish* (DC 14)  
 0 (at will)—*acid splash*, *arcane mark*, *daze* (DC 13), *message*, *open/close* (DC 13), *read magic*  
-**Bloodline** Accursed<sup>UM</sup>
+**Bloodline** Accursed
 
 **Statistics**
 
 **Str** 10, **Dex** 16, **Con** 14, **Int** 8, **Wis** 10, **Cha** 16  
 **Base Atk** +6; **CMB** +6; **CMD** 20  
-**Feats** [Eschew Materials](../../rules/feats/eschew-materials.md), [Extra Panache<sup>ACG</sup>](../../rules/feats/extra-panache.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Focus (punching dagger)](../../rules/feats/weapon-focus.md), [Weapon Specialization (punching dagger)](../../rules/feats/weapon-specialization.md)  
+**Feats** [Eschew Materials](../../rules/feats/eschew-materials.md), [Extra Panache](../../rules/feats/extra-panache.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Focus (punching dagger)](../../rules/feats/weapon-focus.md), [Weapon Specialization (punching dagger)](../../rules/feats/weapon-specialization.md)  
 **Skills** Acrobatics +9, Climb +6, Disguise +4, Escape Artist +7, Intimidate +7, Perception +7, Sense Motive +4, Spellcraft +3, Stealth +4, Survival +2; **Racial Modifiers** +2 Perception  
 **Languages** Elven, Undercommon  
-**SQ** dare (out for blood<sup>ACG</sup>), horrific visage, poison use, swashbuckler finesse, wretched endurance  
+**SQ** dare (out for blood), horrific visage, poison use, swashbuckler finesse, wretched endurance  
 **Combat Gear**  *potions of cure moderate wounds* (2), *scroll of fly*, *wand of animate rope* (50 charges), drow poison (5 doses); **Other Gear** *+1 mithral chain shirt*, mwk buckler, *+1 punching dagger*, daggers (6), *cloak of resistance +1*, 13 pp

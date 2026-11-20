@@ -25,7 +25,7 @@ N Huge construct
 
 **Str** 25, **Dex** 13, **Con** —, **Int** —, **Wis** 10, **Cha** 1  
 **Base Atk** +15; **CMB** +24; **CMD** 35  
-**Feats** [Combat Reflexes<sup>B</sup>](../../rules/feats/combat-reflexes.md)
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md)
 
 **Ecology**
 

@@ -24,7 +24,7 @@ N Small magical beast
 **Special Attacks** blacklight, light ray  
 **Spell-Like Abilities** (CL 7th; concentration +10)  
 Constant—*see invisibility*  
-1/day—*dancing lights*, *dust of twilight*<sup>APG</sup> (DC 15), *light*
+1/day—*dancing lights*, *dust of twilight* (DC 15), *light*
 
 **Statistics**
 

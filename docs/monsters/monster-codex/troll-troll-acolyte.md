@@ -24,8 +24,8 @@ CE Large humanoid (giant)
 **Spell-Like Abilities** (CL 2nd; concentration +3)  
 4/day—storm burst (1d6+1 nonlethal)  
 **Cleric Spells Prepared** (CL 2nd; concentration +3)  
-1st—*bless*, *divine favor*, *obscuring mist*<sup>D</sup>, *sun metal*<sup>UC</sup>  
-0 (at will)—*bleed* (DC 11), *detect magic*, *resistance*, *spark*<sup>APG</sup>  
+1st—*bless*, *divine favor*, *obscuring mist*<sup>D</sup>, *sun metal*  
+0 (at will)—*bleed* (DC 11), *detect magic*, *resistance*, *spark*  
 **D** domain spell; **Domains** Destruction, Weather
 
 **Tactics**

@@ -33,7 +33,7 @@ At will—*chill metal* (DC 16), *heat metal* (DC 16)
 
 **Str** 24, **Dex** 23, **Con** 20, **Int** 13, **Wis** 20, **Cha** 19  
 **Base Atk** +15; **CMB** +23 (+27 disarm, +27 steal); **CMD** 39 (41 vs. disarm, 41 vs. steal)  
-**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), Flyby Attack, [Greater Disarm](../../rules/feats/greater-disarm.md), [Greater Steal<sup>APG</sup>](../../rules/feats/greater-steal.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Steal<sup>APG</sup>](../../rules/feats/improved-steal.md), [Quick Steal<sup>UC</sup>](../../rules/feats/quick-steal.md)  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), Flyby Attack, [Greater Disarm](../../rules/feats/greater-disarm.md), [Greater Steal](../../rules/feats/greater-steal.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Steal](../../rules/feats/improved-steal.md), [Quick Steal](../../rules/feats/quick-steal.md)  
 **Skills** Diplomacy +16, Disable Device +16, Fly +16, Intimidate +16, Knowledge (engineering) +15, Knowledge (planes) +10, Perception +18, Sense Motive +16, Sleight of Hand +20, Survival +14, Use Magic Device +14  
 **Languages** truespeech
 

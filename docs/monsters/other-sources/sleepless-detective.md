@@ -23,20 +23,20 @@ N Medium humanoid (human)
 **Special Attacks** bomb 9/day (3d6+4 fire, DC 16), sneak attack +2d6  
 **Spell-Like Abilities** (CL 5th)  
 At will—*detect magic*  
-3/day—*blood biography*<sup>APG</sup>, *residual tracking*<sup>APG</sup>  
+3/day—*blood biography*, *residual tracking*  
 **Alchemist Extracts Prepared** (CL 5th)  
-2nd—*detect thoughts* (DC 16), *invisibility*, *perceive cues*<sup>APG</sup>  
+2nd—*detect thoughts* (DC 16), *invisibility*, *perceive cues*  
 1st—*comprehend languages*, *cure light wounds*, *detect secret doors*, *disguise self*, *expeditious retreat*
 
 **Statistics**
 
 **Str** 10, **Dex** 13, **Con** 8, **Int** 19, **Wis** 14, **Cha** 12  
 **Base Atk** +6; **CMB** +6; **CMD** 17  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Brew Potion](../../rules/feats/brew-potion.md), [Deft Hands](../../rules/feats/deft-hands.md), [Extra Discovery<sup>APG</sup>](../../rules/feats/extra-discovery.md), [Iron Will](../../rules/feats/iron-will.md), [Persuasive](../../rules/feats/persuasive.md), [Throw Anything](../../rules/feats/throw-anything.md), [Toughness](../../rules/feats/toughness.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Brew Potion](../../rules/feats/brew-potion.md), [Deft Hands](../../rules/feats/deft-hands.md), [Extra Discovery](../../rules/feats/extra-discovery.md), [Iron Will](../../rules/feats/iron-will.md), [Persuasive](../../rules/feats/persuasive.md), [Throw Anything](../../rules/feats/throw-anything.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Bluff +5, Climb +0, Craft (alchemy) +17, Diplomacy +18 (+22 to gather information), Disable Device +17, Disguise +10, Heal +10, Intimidate +8, Knowledge (arcana) +10, Knowledge (local) +17, Knowledge (nature) +10, Perception +23, Sense Motive +23, Sleight of Hand +10, Spellcraft +11, Swim +4  
 **Languages** Common, Hallit, Skald, Frontier  
-**SQ** alchemy (alchemy crafting +5, identify potions), canny sleuth, discoveries (extend potion 4/day, precise bombs [4 squares], tanglefoot bomb<sup>UM</sup>), eye for detail, follow clues, forensic thaumaturgy*, mutagen (+4/–2, +2 natural, 50 minutes), poison use, swift alchemy  
-**Combat Gear**  *dust of appearance*, *elixir of truth*, *feather token* (bird), *potion of jump*, *potion of see invisibility*, *potion of spider climb*, *wand of owl’s wisdom* (8 charges), acid (3), smokesticks (2), sunrods (2), tanglefoot bag, tindertwigs (5); **Other Gear** *+1 chain shirt*, daggers (2), mwk dagger, *cloak of resistance +1*, *ring of swimming*, alchemy crafting kit<sup>UE</sup>, formula book (contains all prepared extracts as well as the following: 2nd—*see invisibility*
+**SQ** alchemy (alchemy crafting +5, identify potions), canny sleuth, discoveries (extend potion 4/day, precise bombs [4 squares], tanglefoot bomb), eye for detail, follow clues, forensic thaumaturgy*, mutagen (+4/–2, +2 natural, 50 minutes), poison use, swift alchemy  
+**Combat Gear**  *dust of appearance*, *elixir of truth*, *feather token* (bird), *potion of jump*, *potion of see invisibility*, *potion of spider climb*, *wand of owl’s wisdom* (8 charges), acid (3), smokesticks (2), sunrods (2), tanglefoot bag, tindertwigs (5); **Other Gear** *+1 chain shirt*, daggers (2), mwk dagger, *cloak of resistance +1*, *ring of swimming*, alchemy crafting kit, formula book (contains all prepared extracts as well as the following: 2nd—*see invisibility*
 
 **Special Abilities**
 

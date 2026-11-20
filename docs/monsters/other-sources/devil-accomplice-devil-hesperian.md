@@ -22,7 +22,7 @@ LE Medium outsider (devil, evil, extraplanar, lawful, shapechanger)
 **Spell-Like Abilities** (CL 6th; concentration +8)  
 Constant—*detect good*  
 At will—*guidance*, *hypnotism* (DC 13), *light*, *message*, *prestidigitation*, *read magic*  
-3/day—*beguiling gift*<sup>APG</sup> (DC 13), *burning hands* (DC 13), *darkness*, *daylight*, *greater teleport* (self plus 50 lbs. of objects only)  
+3/day—*beguiling gift* (DC 13), *burning hands* (DC 13), *darkness*, *daylight*, *greater teleport* (self plus 50 lbs. of objects only)  
 1/day—*charm person* (DC 13), *eagle’s splendor*, *suggestion* (DC 15)
 
 **Statistics**

@@ -26,7 +26,7 @@ N Large plant
 
 **Str** 18, **Dex** 13, **Con** 17, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +5; **CMB** +10; **CMD** 21 (can’t be tripped)  
-**Feats** [Improved Overrun<sup>B</sup>](../../rules/feats/improved-overrun.md)
+**Feats** [Improved Overrun](../../rules/feats/improved-overrun.md)
 
 **Ecology**
 

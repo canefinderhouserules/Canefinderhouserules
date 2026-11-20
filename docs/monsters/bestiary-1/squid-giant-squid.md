@@ -26,7 +26,7 @@ N Huge animal (aquatic)
 
 **Str** 25, **Dex** 17, **Con** 19, **Int** 2, **Wis** 12, **Cha** 2  
 **Base Atk** +9; **CMB** +18 (+22 grapple); **CMD** 31  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Critical (tentacle)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack<sup>B</sup>, [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Critical (tentacle)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
 **Skills** Perception +22, Swim +15
 
 **Ecology**

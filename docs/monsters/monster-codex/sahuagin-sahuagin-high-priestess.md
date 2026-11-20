@@ -25,8 +25,8 @@ LE Large monstrous humanoid (aquatic)
 **Cleric Spells Prepared** (CL 7th; concentration +12)  
 4th—*dimension door*<sup>D</sup>, *gift of the deep*, *unholy blight* (DC 19)  
  3rd—*air breathing*, *fly*<sup>D</sup>, *prayer*, *summon monster III*  
- 2nd—*bear’s endurance*, *cure moderate wounds*, *dread bolt*<sup>UM</sup> (DC 17), *hold person* (DC 17), *shatter*<sup>D</sup> (DC 17)  
- 1st—*command* (DC 16), *cure light wounds* (2), *divine favor*, *murderous command*<sup>UM</sup> (DC 16), *sanctuary*, *true strike*<sup>D</sup>  
+ 2nd—*bear’s endurance*, *cure moderate wounds*, *dread bolt* (DC 17), *hold person* (DC 17), *shatter*<sup>D</sup> (DC 17)  
+ 1st—*command* (DC 16), *cure light wounds* (2), *divine favor*, *murderous command* (DC 16), *sanctuary*, *true strike*<sup>D</sup>  
  0 (at will)—*bleed* (DC 15), *detect magic*, *guidance*, *read magic*  
  **D** domain spell; **Domains** Destruction, Travel
 
@@ -38,7 +38,7 @@ LE Large monstrous humanoid (aquatic)
 **Skills** Intimidate +12, Knowledge (religion) +14, Perception +12, Sense Motive +17, Spellcraft +14, Swim +10  
 **Languages** Aquan, Common, Elven, Infernal; speak with sharks  
 **SQ** agile feet (8/day)  
-**Combat Gear**  *scroll of cure critical wounds*; **Other Gear** *+1 breastplate*, *+1 spear*, mwk underwater heavy crossbow<sup>UE</sup> with 20 bolts, *headband of inspired wisdom +2*, gold unholy symbol (worth 250 gp), 796 gp
+**Combat Gear**  *scroll of cure critical wounds*; **Other Gear** *+1 breastplate*, *+1 spear*, mwk underwater heavy crossbow with 20 bolts, *headband of inspired wisdom +2*, gold unholy symbol (worth 250 gp), 796 gp
 
 **Ecology**
 

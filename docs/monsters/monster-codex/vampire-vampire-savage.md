@@ -21,7 +21,7 @@ CE Medium undead (augmented humanoid, human, orc)
 
 **Speed** 40 ft.  
 **Melee** *+1 greataxe* +20/+15 (1d12+16/×3), bite +14 (1d4+5 plus energy drain), slam +15 (1d4+5 plus energy drain)  
-**Special Attacks** blood drain, children of the night, create spawn, dominate (DC 20), energy drain (2 levels, DC 20), rage (24 rounds/day), rage powers (animal fury, bleeding blow<sup>UC</sup>, no escape, powerful blow +3)
+**Special Attacks** blood drain, children of the night, create spawn, dominate (DC 20), energy drain (2 levels, DC 20), rage (24 rounds/day), rage powers (animal fury, bleeding blow, no escape, powerful blow +3)
 
 **Tactics**
 
@@ -33,7 +33,7 @@ CE Medium undead (augmented humanoid, human, orc)
 
 **Str** 30, **Dex** 18, **Con** —, **Int** 10, **Wis** 14, **Cha** 22  
 **Base Atk** +9; **CMB** +19 (+23 bull rush); **CMD** 33 (35 vs. bull rush)  
-**Feats** [Alertness<sup>B</sup>](../../rules/feats/alertness.md), [Cleave](../../rules/feats/cleave.md), [Dodge<sup>B</sup>](../../rules/feats/dodge.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Weapon Focus (slam)](../../rules/feats/weapon-focus.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Cleave](../../rules/feats/cleave.md), [Dodge](../../rules/feats/dodge.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (slam)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +16 (+20 when jumping), Intimidate +20, Knowledge (nature) +12, Perception +24, Sense Motive +12; **Racial Modifiers** +8 Bluff, +8 Perception, +8 Sense Motive, +8 Stealth  
 **Languages** Common, Orc  
 **SQ** change shape (dire bat or wolf, *beast shape II*), fast movement, gaseous form, orc blood, shadowless, spider climb  

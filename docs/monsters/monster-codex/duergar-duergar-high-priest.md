@@ -49,7 +49,7 @@ At will—charming smile (13 rounds/day, DC 16), master’s illusion (13 rounds/
 
 **Str** 13, **Dex** 10, **Con** 14, **Int** 8, **Wis** 20, **Cha** 12  
 **Base Atk** +9; **CMB** +10; **CMD** 21 (25 vs. bull rush or trip)  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Gray Dwarf Magic (*ironskin*)](../../rules/feats/gray-dwarf-magic.md), [Giant Steps<sup>ARG</sup>](../../rules/feats/giant-steps.md), [Innate Flexibility](../../rules/feats/innate-flexibility.md), [Tough as Iron](../../rules/feats/tough-as-iron.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (heavy mace)](../../rules/feats/weapon-focus.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Gray Dwarf Magic (*ironskin*)](../../rules/feats/gray-dwarf-magic.md), [Giant Steps](../../rules/feats/giant-steps.md), [Innate Flexibility](../../rules/feats/innate-flexibility.md), [Tough as Iron](../../rules/feats/tough-as-iron.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (heavy mace)](../../rules/feats/weapon-focus.md)  
 **Skills** Knowledge (religion) +8, Perception +18, Spellcraft +9  
 **Languages** Common, Dwarven, Undercommon  
 **SQ** slow and steady, stability  

@@ -29,8 +29,8 @@ N Large monstrous humanoid
 5th—*baleful polymorph* (DC 20), *commune with nature*<sup>D</sup>, *cure critical wounds*, *stoneskin*  
 4th—*dispel magic*, *freedom of movement*, *giant vermin*, *rusting grasp*<sup>D</sup>, *scrying* (DC 19)  
 3rd—*cure moderate wounds*, *greater magic fang*, *meld into stone*<sup>D</sup>, *protection from energy*, *stone shape*  
-2nd—*barkskin*, *bear’s strength*, *lesser restoration*, *owl’s wisdom*, *spider climb*, *stone call*<sup>D, APG</sup>  
-1st—*cure light wounds*, *expeditious excavation*<sup>APG</sup>, *longstrider*, *magic fang*, *magic stone*<sup>D</sup>, *pass without trace*, *speak with animals*  
+2nd—*barkskin*, *bear’s strength*, *lesser restoration*, *owl’s wisdom*, *spider climb*, *stone call*  
+1st—*cure light wounds*, *expeditious excavation*, *longstrider*, *magic fang*, *magic stone*<sup>D</sup>, *pass without trace*, *speak with animals*  
 0 (at will)—*create water*, *guidance*, *mending*, *read magic*  
 **D** Domain spell; **Domain** Ruins
 

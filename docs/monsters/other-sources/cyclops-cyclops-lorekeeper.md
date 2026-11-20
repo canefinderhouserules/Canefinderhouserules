@@ -26,8 +26,8 @@ NE Large humanoid (giant)
 **Arcanist Spells Prepared** (CL 11th; concentration +16)  
 5th—*teleport*, *wall of force*  
 4th—*enervation*, *greater invisibility*, *scrying* (DC 19)  
-3rd—*air geyser*<sup>ACG</sup> (DC 18), *arcane sight*, *dispel magic*, *lightning bolt* (DC 18)  
-2nd—*aggressive thundercloud*<sup>ACG</sup> (DC 17), *blindness/deafness* (DC 17), *locate object*, *resist energy*, *scorching ray*  
+3rd—*air geyser* (DC 18), *arcane sight*, *dispel magic*, *lightning bolt* (DC 18)  
+2nd—*aggressive thundercloud* (DC 17), *blindness/deafness* (DC 17), *locate object*, *resist energy*, *scorching ray*  
 1st—*comprehend languages*, *mage armor*, *magic missile*, *ray of enfeeblement* (DC 16), *shield*  
 0 (at will)—*acid splash*, *arcane mark*, *daze* (DC 15), *detect magic*, *detect poison*, *ghost sound* (DC 15), *light*, *mage hand*, *read magic*
 

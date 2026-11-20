@@ -31,7 +31,7 @@ At will—*detect magic*, *detect thoughts* (DC 16), *hydraulic torrent*, *proje
 
 **Str** 20, **Dex** 18, **Con** 23, **Int** 17, **Wis** 18, **Cha** 19  
 **Base Atk** +9; **CMB** +15 (+17 sunder); **CMD** 29 (31 vs. sunder)  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (*hydraulic torrent*)<sup>B</sup>  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (*hydraulic torrent*)  
 **Skills** Craft (stonemasonry) +13, Knowledge (arcana) +16, Knowledge (dungeoneering) +11, Knowledge (engineering) +13, Knowledge (history) +13, Knowledge (nature) +13, Stealth +11, Swim +26, Use Magic Device +12  
 **Languages** Aboleth, Aklo, Aquan, Undercommon; telepathy 100 ft.
 

@@ -25,7 +25,7 @@ N Medium vermin
 
 **Str** 9, **Dex** 15, **Con** 12, **Int** —, **Wis** 10, **Cha** 2  
 **Base Atk** +0; **CMB** –1; **CMD** 11 (can’t be tripped)  
-**Feats** [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Climb +10, Perception +4, Stealth +10; **Racial Modifiers** +4 Perception, +8 Stealth
 
 **Ecology**

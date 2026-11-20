@@ -29,7 +29,7 @@ At will—*greater teleport* (self plus 50 lbs. of objects only), *telekinesis* 
 
 **Str** 23, **Dex** 17, **Con** 25, **Int** 14, **Wis** 16, **Cha** 16  
 **Base Atk** +9; **CMB** +16; **CMD** 29  
-**Feats** [Cleave<sup>M</sup>](../../rules/feats/cleave.md), [Combat Reflexes<sup>M</sup>](../../rules/feats/combat-reflexes.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Stand Still<sup>B</sup>](../../rules/feats/stand-still.md)  
+**Feats** [Cleave<sup>M</sup>](../../rules/feats/cleave.md), [Combat Reflexes<sup>M</sup>](../../rules/feats/combat-reflexes.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Stand Still](../../rules/feats/stand-still.md)  
 **Skills** Fly +13, Intimidate +15, Knowledge (planes) +14, Perception +23, Sense Motive +15, Spellcraft +14, Stealth +11, Survival +15; **Racial Modifiers** +8 Perception  
 **Languages** Abyssal, Celestial, Common; telepathy 100 ft.
 

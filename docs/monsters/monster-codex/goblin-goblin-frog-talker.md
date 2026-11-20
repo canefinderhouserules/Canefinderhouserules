@@ -20,10 +20,10 @@ NE Small humanoid (goblinoid)
 **Speed** 30 ft.  
 **Melee** dagger +2 (1d3–2/19–20)  
 **Ranged**  javelin +7 (1d4–2)  
-**Special Attacks** hexes (evil eye [–2, 6 rounds], misfortune [1 round], mud witch, poison steep, swamp hag<sup>UM</sup>)  
+**Special Attacks** hexes (evil eye [–2, 6 rounds], misfortune [1 round], mud witch, poison steep, swamp hag)  
 **Witch Spells Prepared** (CL 6th; concentration +9)  
-3rd—*blink*, *lightning bolt* (DC 16), *spit venom*<sup>UM</sup> (DC 16)  
-2nd—*feast of ashes*<sup>APG</sup> (DC 15), *frost fall*<sup>UC</sup> (DC 15), *invisibility*, *vomit swarm*<sup>APG</sup>  
+3rd—*blink*, *lightning bolt* (DC 16), *spit venom* (DC 16)  
+2nd—*feast of ashes* (DC 15), *frost fall* (DC 15), *invisibility*, *vomit swarm*  
 1st—*command* (DC 14), *mage armor*, *obscuring mist*, *sleep* (DC 14)  
 0 (at will)—*dancing lights*, *daze* (DC 13), *detect magic*, *touch of fatigue* (DC 13)  
 **Patron** deception
@@ -42,7 +42,7 @@ NE Small humanoid (goblinoid)
 **Skills** Craft (alchemy) +9, Intimidate +8, Perception +7, Ride +7, Spellcraft +12, Stealth +17, Swim +1; **Racial Modifiers** +4 Ride, +4 Stealth  
 **Languages** Common, Giant, Goblin, Orc  
 **SQ** witch’s familiar (frog)  
-**Combat Gear**  *potion of air bubble*<sup>UC</sup>, *potions of alter self* (2), *potions of cure moderate wounds* (3), *potion of fly*, *potions of ghostly disguise* (2), *potion of hex ward*, alchemist’s fire (2), antitoxin (2), smokesticks (2), tanglefoot bags (2); **Other Gear** dagger, javelin, *cloak of resistance +1*, *ring of protection +1*, delicious poisoned food (1 lb.), 79 gp
+**Combat Gear**  *potion of air bubble*, *potions of alter self* (2), *potions of cure moderate wounds* (3), *potion of fly*, *potions of ghostly disguise* (2), *potion of hex ward*, alchemist’s fire (2), antitoxin (2), smokesticks (2), tanglefoot bags (2); **Other Gear** dagger, javelin, *cloak of resistance +1*, *ring of protection +1*, delicious poisoned food (1 lb.), 79 gp
 
 **Ecology**
 

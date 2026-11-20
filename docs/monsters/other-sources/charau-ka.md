@@ -25,7 +25,7 @@ CE Small humanoid (charau-ka)
 
 **Str** 15, **Dex** 13, **Con** 14, **Int** 8, **Wis** 12, **Cha** 11  
 **Base Atk** +2; **CMB** +3; **CMD** 14  
-**Feats** [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Throw Anything<sup>B</sup>](../../rules/feats/throw-anything.md)  
+**Feats** [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Throw Anything](../../rules/feats/throw-anything.md)  
 **Skills** Climb +14, Fly +0, Perception +2, Stealth +10; **Racial Modifiers** +4 Stealth  
 **Languages** Abyssal, Polyglot
 

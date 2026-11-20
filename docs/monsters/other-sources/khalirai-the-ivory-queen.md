@@ -42,7 +42,7 @@ CG Medium fey
 
 **Str** 8, **Dex** 24, **Con** 18, **Int** 18, **Wis** 20, **Cha** 30  
 **Base Atk** +10; **CMB** +17; **CMD** 37  
-**Feats** [Agile Maneuvers](../../rules/feats/agile-maneuvers.md), [Combat Casting](../../rules/feats/combat-casting.md), [Command Undead](../../rules/feats/command-undead.md), [Dodge](../../rules/feats/dodge.md), [Extra Revelation<sup>APG</sup>](../../rules/feats/extra-revelation.md), [Improved Channel](../../rules/feats/improved-channel.md), Skill Focus (Heal), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Agile Maneuvers](../../rules/feats/agile-maneuvers.md), [Combat Casting](../../rules/feats/combat-casting.md), [Command Undead](../../rules/feats/command-undead.md), [Dodge](../../rules/feats/dodge.md), [Extra Revelation](../../rules/feats/extra-revelation.md), [Improved Channel](../../rules/feats/improved-channel.md), Skill Focus (Heal), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Climb +7, Diplomacy +29, Escape Artist +26, Handle Animal +26, Heal +30, Knowledge (nature) +23, Perception +24, Sense Motive +24, Stealth +26, Swim +18  
 **Languages** Aklo, Celestial, Common, Elven, Polyglot, Sylvan  
 **SQ** inspiration, oracle’s curse (clouded vision), revelations (armor of bones, near death, undead servitude, voice of the grave), unearthly grace, wild empathy +24  

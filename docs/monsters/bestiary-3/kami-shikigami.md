@@ -30,7 +30,7 @@ At will—*invisibility* (self only), *statue* (self only)
 
 **Str** 8, **Dex** 13, **Con** 12, **Int** 11, **Wis** 17, **Cha** 14  
 **Base Atk** +3; **CMB** +2; **CMD** 11  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Catch Off-Guard<sup>B</sup>](../../rules/feats/catch-off-guard.md), [Iron Will](../../rules/feats/iron-will.md), [Throw Anything<sup>B</sup>](../../rules/feats/throw-anything.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Catch Off-Guard](../../rules/feats/catch-off-guard.md), [Iron Will](../../rules/feats/iron-will.md), [Throw Anything](../../rules/feats/throw-anything.md)  
 **Skills** Heal +9, Knowledge (nature) +6, Perception +11, Sense Motive +11, Stealth +15, Survival +9  
 **Languages** Common  
 **SQ** improvised weapon mastery, merge with ward, ward (minor works of civilization)

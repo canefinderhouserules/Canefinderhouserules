@@ -25,7 +25,7 @@ N Large animal
 
 **Str** 17, **Dex** 14, **Con** 17, **Int** 2, **Wis** 13, **Cha** 10  
 **Base Atk** +2; **CMB** +6; **CMD** 18 (22 vs. trip)  
-**Feats** [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Run<sup>B</sup>](../../rules/feats/run.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md)  
+**Feats** [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Run](../../rules/feats/run.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md)  
 **Skills** Intimidate +4, Perception +5, Stealth +5  
 **SQ** docile, smoke resistance
 

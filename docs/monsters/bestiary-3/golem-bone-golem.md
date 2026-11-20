@@ -26,7 +26,7 @@ N Large construct
 
 **Str** 18, **Dex** 15, **Con** —, **Int** —, **Wis** 10, **Cha** 1  
 **Base Atk** +11; **CMB** +16 (+20 disarm or grapple); **CMD** 28  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md)
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md)
 
 **Ecology**
 

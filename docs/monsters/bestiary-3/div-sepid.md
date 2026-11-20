@@ -30,7 +30,7 @@ At will—*comprehend languages*, *deeper darkness*, *greater teleport* (self pl
 
 **Str** 25, **Dex** 20, **Con** 27, **Int** 19, **Wis** 19, **Cha** 22  
 **Base Atk** +15; **CMB** +23; **CMD** 38  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect Arrows<sup>B</sup>](../../rules/feats/deflect-arrows.md), [Improved Critical (falchion)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (falchion)](../../rules/feats/weapon-focus.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect Arrows](../../rules/feats/deflect-arrows.md), [Improved Critical (falchion)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (falchion)](../../rules/feats/weapon-focus.md)  
 **Skills** Bluff +24, Fly +15, Intimidate +24, Knowledge (arcana) +19, Knowledge (planes) +22, Knowledge (religion) +15, Perception +22, Sense Motive +20, Spellcraft +22, Stealth +19, Use Magic Device +24  
 **Languages** Abyssal, Celestial, Common, Draconic, Infernal; telepathy 100 ft.  
 **SQ** deflect rays

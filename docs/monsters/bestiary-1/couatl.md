@@ -34,7 +34,7 @@ At will—*detect thoughts* (DC 15), *ethereal jaunt* (CL 16th), *invisibility*,
 
 **Str** 20, **Dex** 16, **Con** 20, **Int** 17, **Wis** 19, **Cha** 17  
 **Base Atk** +12; **CMB** +18 (+22 grapple); **CMD** 32 (can’t be tripped)  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Dodge](../../rules/feats/dodge.md), [Empower Spell](../../rules/feats/empower-spell.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Dodge](../../rules/feats/dodge.md), [Empower Spell](../../rules/feats/empower-spell.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **Skills** Acrobatics +18, Bluff +9, Diplomacy +18, Fly +20, Knowledge (arcana) +9, Knowledge (religion) +12, Perception +23, Sense Motive +15, Spellcraft +15, Survival +16, Use Magic Device +18  
 **Languages** Celestial, Common, Draconic; telepathy 100 ft.
 

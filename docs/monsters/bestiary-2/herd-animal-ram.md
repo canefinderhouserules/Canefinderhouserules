@@ -24,7 +24,7 @@ N Medium animal
 
 **Str** 14, **Dex** 15, **Con** 13, **Int** 2, **Wis** 14, **Cha** 7  
 **Base Atk** +1; **CMB** +3; **CMD** 15 (19 vs. trip)  
-**Feats** [Improved Bull Rush<sup>B</sup>](../../rules/feats/improved-bull-rush.md), [Skill Focus (Acrobatics)](../../rules/feats/skill-focus.md)  
+**Feats** [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Skill Focus (Acrobatics)](../../rules/feats/skill-focus.md)  
 **Skills** Acrobatics +13 (+17 jump), Perception +6; **Racial Modifiers** +4 Acrobatics
 
 **Ecology**

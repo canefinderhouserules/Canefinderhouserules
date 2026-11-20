@@ -26,10 +26,10 @@ LE Small humanoid (reptilian)
 6/day—*copycat* (8 rounds), *touch of law*  
 At will—master’s illusion (8 rounds/day)  
 **Cleric Spells Prepared** (CL 8th; concentration +11)  
-4th—*aura of doom*<sup>UM</sup> (DC 17), *confusion*<sup>D</sup> (DC 17), *cure critical wounds*  
+4th—*aura of doom* (DC 17), *confusion*<sup>D</sup> (DC 17), *cure critical wounds*  
 3rd—*animate dead*, *blindness/deafness* (DC 16), *deeper darkness*, *magic circle against chaos*<sup>D</sup>, *summon monster III*  
-2nd—*death knell* (DC 15), *hold person* (DC 15), *invisibility*<sup>D</sup>, *lesser animate dead*<sup>UM</sup>, *protective penumbra*<sup>UM</sup>  
-1st—*bane* (DC 14), *bless*, *disguise self*<sup>D</sup>, *moment of greatness*<sup>UC</sup>, *obscuring mist*, *sanctuary* (DC 14)  
+2nd—*death knell* (DC 15), *hold person* (DC 15), *invisibility*<sup>D</sup>, *lesser animate dead*, *protective penumbra*  
+1st—*bane* (DC 14), *bless*, *disguise self*<sup>D</sup>, *moment of greatness*, *obscuring mist*, *sanctuary* (DC 14)  
 0 (at will)—*bleed* (DC 13), *detect magic*, *guidance*, *mending*  
 **D** domain spell; **Domains** Law, Trickery
 

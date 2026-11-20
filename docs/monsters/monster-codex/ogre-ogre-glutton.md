@@ -35,7 +35,7 @@ CE Large humanoid (giant)
 **Skills** Perception +14, Survival +6  
 **Languages** Giant  
 **SQ** fast movement  
-**Combat Gear**  *potions of cure moderate wounds* (3), *potion of neutralize poison*, *shirt of immolation*<sup>UE</sup>; **Other Gear** *+1 chain shirt*, *+1 greataxe*, *belt of incredible dexterity +2*, *campfire bead*<sup>UE</sup>, *cloak of resistance +1*, *ring of protection +1*, 60 gp
+**Combat Gear**  *potions of cure moderate wounds* (3), *potion of neutralize poison*, *shirt of immolation*; **Other Gear** *+1 chain shirt*, *+1 greataxe*, *belt of incredible dexterity +2*, *campfire bead*, *cloak of resistance +1*, *ring of protection +1*, 60 gp
 
 **Ecology**
 

@@ -27,7 +27,7 @@ N Medium construct (clockwork)
 
 **Str** 20, **Dex** 16, **Con** —, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +9; **CMB** +14; **CMD** 29  
-**Feats** [Deadly Aim<sup>B</sup>](../../rules/feats/deadly-aim.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md), [Point-Blank Shot<sup>B</sup>](../../rules/feats/point-blank-shot.md), [Precise Shot<sup>B</sup>](../../rules/feats/precise-shot.md)  
+**Feats** [Deadly Aim](../../rules/feats/deadly-aim.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md)  
 **SQ** difficult to create, integrated clockwork pistol, swift reactions, winding
 
 **Ecology**

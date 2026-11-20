@@ -24,9 +24,9 @@ CG Huge magical beast
 **Special Attacks** glowsap, rake (4 claws +10, 1d6+3)  
 **Spell-Like Abilities** (CL 12th; concentration +16)  
 Constant—*entropic shield*  
-At will—*dancing lights*, *restful sleep*<sup>APG</sup>  
-3/day—*deep slumber* (DC 17), *dream*, *wandering star motes*<sup>APG</sup> (DC 18)  
-1/day—*cloak of dreams*<sup>APG</sup> (DC 20)
+At will—*dancing lights*, *restful sleep*  
+3/day—*deep slumber* (DC 17), *dream*, *wandering star motes* (DC 18)  
+1/day—*cloak of dreams* (DC 20)
 
 **Statistics**
 

@@ -31,7 +31,7 @@ At will—*produce flame*
 
 **Str** 26, **Dex** 29, **Con** 18, **Int** 12, **Wis** 13, **Cha** 11  
 **Base Atk** +16; **CMB** +26; **CMD** 47  
-**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Reflexes<sup>M</sup>](../../rules/feats/combat-reflexes.md), [Dodge<sup>M</sup>](../../rules/feats/dodge.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Iron Will<sup>M</sup>](../../rules/feats/iron-will.md), [Lightning Stance](../../rules/feats/lightning-stance.md), [Mobility](../../rules/feats/mobility.md), [Spring Attack](../../rules/feats/spring-attack.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md), [Wind Stance](../../rules/feats/wind-stance.md)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Reflexes<sup>M</sup>](../../rules/feats/combat-reflexes.md), [Dodge<sup>M</sup>](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will<sup>M</sup>](../../rules/feats/iron-will.md), [Lightning Stance](../../rules/feats/lightning-stance.md), [Mobility](../../rules/feats/mobility.md), [Spring Attack](../../rules/feats/spring-attack.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), [Wind Stance](../../rules/feats/wind-stance.md)  
 **Skills** Acrobatics +28 (+40 when jumping), Climb +27, Escape Artist +28, Intimidate +19, Knowledge (planes) +20, Perception +20, Sense Motive +20  
 **Languages** Ignan
 

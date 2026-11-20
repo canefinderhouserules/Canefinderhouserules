@@ -27,7 +27,7 @@ N Large construct
 
 **Str** 30, **Dex** 24, **Con** —, **Int** —, **Wis** 15, **Cha** 2  
 **Base Atk** +20; **CMB** +31; **CMD** 48  
-**Feats** [Improved Critical (cannon)<sup>B</sup>](../../rules/feats/improved-critical.md)  
+**Feats** [Improved Critical (cannon)](../../rules/feats/improved-critical.md)  
 **SQ** alloyed, blasting critical, gun training
 
 **Ecology**

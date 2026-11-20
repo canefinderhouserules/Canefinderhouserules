@@ -28,7 +28,7 @@ N Medium magical beast (shapechanger)
 
 **Str** 11, **Dex** 17, **Con** 14, **Int** 14, **Wis** 13, **Cha** 16  
 **Base Atk** +5; **CMB** +5; **CMD** 18  
-**Feats** [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Eschew Materials](../../rules/feats/eschew-materials.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +9 (+17 jump), Climb +14, Escape Artist +8, Knowledge (arcana) +7, Perception +9, Stealth +9; **Racial Modifiers** +2 Acrobatics, +2 Perception  
 **Languages** Common, Sylvan  
 **SQ** change shape (humanoid; *alter self*)

@@ -33,7 +33,7 @@ LE Medium humanoid (dwarf)
 **Feats** [Dodge](../../rules/feats/dodge.md), [Gray Dwarf Magic (*ironskin*)](../../rules/feats/gray-dwarf-magic.md), [Extra Ki](../../rules/feats/extra-ki.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Innate Flexibility (2)](../../rules/feats/innate-flexibility.md), [Mobility](../../rules/feats/mobility.md), [Spring Attack](../../rules/feats/spring-attack.md), [Stunning Fist](../../rules/feats/stunning-fist.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +20 (+32 when jumping), Escape Artist +20, Perception +17, Stealth +20  
 **Languages** Common, Dwarven, Undercommon  
-**SQ** born in darkness<sup>ARG</sup>, earth glide<sup>ARG</sup>, fade from sight<sup>ARG</sup>, fast movement, gray heart<sup>ARG</sup>, ki pool (10 points, cold iron, lawful, magic), maneuver training, slow and steady, stability  
+**SQ** born in darkness, earth glide, fade from sight, fast movement, gray heart, ki pool (10 points, cold iron, lawful, magic), maneuver training, slow and steady, stability  
 **Combat Gear**  *potion of cure serious wounds*; **Other Gear** *+2 shuriken* (10), *amulet of natural armor +1*, *belt of incredible dexterity +2*, *bracers of armor +3*, *cloak of resistance +1*, *ring of protection +1*, 588 gp
 
 **Ecology**

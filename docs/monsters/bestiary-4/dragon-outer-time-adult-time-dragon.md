@@ -24,7 +24,7 @@ N Huge dragon
 **Special Attacks** breath weapon (50-ft. cone, 12d10 electricity, DC 26), crush  
 **Spell-Like Abilities** (CL 19th; concentration +23)  
 Constant—*detect magic*  
-At will—*clairaudience/clairvoyance*, *share memory*<sup>UM</sup>  
+At will—*clairaudience/clairvoyance*, *share memory*  
 **Sorcerer Spells Known** (CL 7th; concentration +11)  
 3rd (5/day)—*dispel magic*, *slow* (DC 17)  
 2nd (7/day)—*arcane lock*, *blur*, *detect thoughts* (DC 16)  

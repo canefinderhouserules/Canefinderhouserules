@@ -30,7 +30,7 @@ At will—*prestidigitation*
 
 **Str** 3, **Dex** 13, **Con** 12, **Int** 10, **Wis** 11, **Cha** 6  
 **Base Atk** +0; **CMB** –1; **CMD** 5  
-**Feats** [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Climb +13, Fly +1, Perception +4, Sleight of Hand +5, Stealth +16, Swim +5  
 **Languages** Undercommon  
 **SQ** gremlin lice

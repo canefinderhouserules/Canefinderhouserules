@@ -29,7 +29,7 @@ At will—*stone shape*
 
 **Str** 34, **Dex** 8, **Con** 21, **Int** 12, **Wis** 13, **Cha** 11  
 **Base Atk** +16; **CMB** +30 (+34 bull rush or overrun, +32 sunder); **CMD** 41 (43 vs. bull rush, overrun, or sunder)  
-**Feats** Awesome Blow, [Cleave<sup>M</sup>](../../rules/feats/cleave.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Greater Overrun](../../rules/feats/greater-overrun.md), [Improved Bull Rush<sup>B</sup>](../../rules/feats/improved-bull-rush.md), [Improved Critical (slam)<sup>M</sup>](../../rules/feats/improved-critical.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Power Attack<sup>M</sup>](../../rules/feats/power-attack.md)  
+**Feats** Awesome Blow, [Cleave<sup>M</sup>](../../rules/feats/cleave.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Greater Overrun](../../rules/feats/greater-overrun.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (slam)<sup>M</sup>](../../rules/feats/improved-critical.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Power Attack<sup>M</sup>](../../rules/feats/power-attack.md)  
 **Skills** Appraise +20, Climb +31, Knowledge (dungeoneering) +20, Knowledge (planes) +20, Perception +20, Sense Motive +20, Stealth +10  
 **Languages** Terran  
 **SQ** powerful blows (slam)

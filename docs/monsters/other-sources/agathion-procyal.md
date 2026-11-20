@@ -23,13 +23,13 @@ NG Medium outsider (agathion, extraplanar, good)
 Constant—*speak with animals*  
 At will—*calm emotions* (DC 15), *magic aura* (DC 14), *suggestion* (DC 16)  
 3/day—*charm monster* (DC 17), *dispel magic*, *dimension door* (self plus 50 lbs. of objects only), *heroism*, *invisibility*, *shadow conjuration* (DC 17)  
-1/day—*blood biography*<sup>APG</sup>(DC 16), *dominate person* (DC 18), *spiritual ally*<sup>APG</sup>
+1/day—*blood biography*(DC 16), *dominate person* (DC 18), *spiritual ally*
 
 **Statistics**
 
 **Str** 13, **Dex** 15, **Con** 18, **Int** 18, **Wis** 16, **Cha** 17  
-**Base Atk** +10; **CMB** +11 (+15 dirty trick<sup>APG</sup>); **CMD** 23 (25 vs. dirty trick<sup>APG</sup>)  
-**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Deceitful](../../rules/feats/deceitful.md), [Greater Dirty Trick<sup>APG</sup>](../../rules/feats/greater-dirty-trick.md), [Improved Dirty Trick<sup>APG</sup>](../../rules/feats/improved-dirty-trick.md), [Spell Penetration](../../rules/feats/spell-penetration.md)  
+**Base Atk** +10; **CMB** +11 (+15 dirty trick); **CMD** 23 (25 vs. dirty trick)  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Deceitful](../../rules/feats/deceitful.md), [Greater Dirty Trick](../../rules/feats/greater-dirty-trick.md), [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), [Spell Penetration](../../rules/feats/spell-penetration.md)  
 **Skills** Bluff +20, Diplomacy +16, Disguise +20, Knowledge (local) +14, Knowledge (planes) +17, Perception +16, Perform (act) +16, Sense Motive +16, Sleight of Hand +15, Stealth +15  
 **Languages** Celestial, Common, Draconic, Halfling; *speak with animals*, truespeech  
 **SQ** fabricated forgery, imitator

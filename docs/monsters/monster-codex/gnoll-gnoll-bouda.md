@@ -23,11 +23,11 @@ CE Medium humanoid (gnoll)
 **Witch Spells Prepared** (CL 12th; concentration +16)  
 6th—*mass suggestion* (DC 21), *slay living* (DC 20)  
 5th—*baleful polymorph* (DC 19), *cloudkill* (DC 19), *waves of fatigue*  
-4th—*cape of wasps*<sup>UM</sup>, *crushing despair* (DC 19), *cure serious wounds*, *dimension door*  
-3rd—*bestow curse* (DC 17), *countless eyes*<sup>UM</sup>, *dispel magic*, *stinking cloud* (DC 17), *vampiric touch*  
-2nd—*blindness/deafness* (DC 16), *burning gaze*<sup>APG</sup> (DC 16), *glitterdust* (DC 16), *see invisibility*, *touch of idiocy*  
-1st—*beguiling gift*<sup>APG</sup> (DC 16), *bungle*<sup>UM</sup> (DC 16), *burning hands* (DC 15), *mage armor*, *ray of enfeeblement* (DC 15)  
-0 (at will)—*bleed* (DC 14), *detect magic*, *putrefy food and drink*<sup>APG</sup>, *touch of fatigue* (DC 14)  
+4th—*cape of wasps*, *crushing despair* (DC 19), *cure serious wounds*, *dimension door*  
+3rd—*bestow curse* (DC 17), *countless eyes*, *dispel magic*, *stinking cloud* (DC 17), *vampiric touch*  
+2nd—*blindness/deafness* (DC 16), *burning gaze* (DC 16), *glitterdust* (DC 16), *see invisibility*, *touch of idiocy*  
+1st—*beguiling gift* (DC 16), *bungle* (DC 16), *burning hands* (DC 15), *mage armor*, *ray of enfeeblement* (DC 15)  
+0 (at will)—*bleed* (DC 14), *detect magic*, *putrefy food and drink*, *touch of fatigue* (DC 14)  
 **Patron** trickery
 
 **Tactics**

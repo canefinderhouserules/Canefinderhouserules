@@ -25,7 +25,7 @@ CN Medium outsider (extraplanar)
 
 **Str** 16, **Dex** 19, **Con** 14, **Int** 7, **Wis** 10, **Cha** 11  
 **Base Atk** +10; **CMB** +13; **CMD** 27 (can’t be tripped)  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), Multiattack<sup>B</sup>, [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), Multiattack, [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Bluff +13, Climb +11, Fly +16, Knowledge (planes) +6, Perception +13, Sense Motive +8, Stealth +12  
 **Languages** Common  
 **SQ** evolution points (bite, climb, energy attacks, flight [2], gore, improved evasion, improved natural armor [2], reach [bite], tail, tail slap)

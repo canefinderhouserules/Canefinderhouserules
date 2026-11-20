@@ -24,7 +24,7 @@ N Large animal
 
 **Str** 18, **Dex** 14, **Con** 17, **Int** 2, **Wis** 11, **Cha** 3  
 **Base Atk** +3; **CMB** +8; **CMD** 20 (32 vs. trip)  
-**Feats** [Endurance<sup>B</sup>](../../rules/feats/endurance.md), [Run](../../rules/feats/run.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
+**Feats** [Endurance](../../rules/feats/endurance.md), [Run](../../rules/feats/run.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
 **Skills** Climb +8, Perception +9
 
 **Ecology**

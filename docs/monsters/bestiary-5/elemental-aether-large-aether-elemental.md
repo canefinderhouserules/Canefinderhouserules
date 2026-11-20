@@ -27,7 +27,7 @@ N Large outsider (aether, elemental, extraplanar)
 
 **Str** 16, **Dex** 25, **Con** 18, **Int** 6, **Wis** 11, **Cha** 11  
 **Base Atk** +8; **CMB** +12; **CMD** 33  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md)  
 **Skills** Acrobatics +18, Fly +20, Perception +11, Stealth +14  
 **SQ** telekinetic invisibility
 

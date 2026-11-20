@@ -36,7 +36,7 @@ CE Large humanoid (goblinoid)
 **Feats** [Hurtful](../../rules/feats/hurtful.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Pile On](../../rules/feats/pile-on.md), [Power Attack](../../rules/feats/power-attack.md)  
 **Skills** Intimidate +23, Perception +14, Stealth +10, Survival +10  
 **SQ** fast movement, stalker  
-**Gear** *+1 breastplate*, *+1 falchion*, mwk javelins (2), *cloak of fangs*<sup>UE</sup>, 373 gp
+**Gear** *+1 breastplate*, *+1 falchion*, mwk javelins (2), *cloak of fangs*, 373 gp
 
 **Ecology**
 

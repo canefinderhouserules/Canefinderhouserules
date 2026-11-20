@@ -26,7 +26,7 @@ N Huge outsider (air, elemental, extraplanar)
 
 **Str** 28, **Dex** 33, **Con** 18, **Int** 10, **Wis** 11, **Cha** 11  
 **Base Atk** +16; **CMB** +27; **CMD** 49  
-**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Cleave](../../rules/feats/cleave.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), Flyby Attack, [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Cleave](../../rules/feats/cleave.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), Flyby Attack, [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +30, Escape Artist +30, Fly +34, Knowledge (planes) +19, Perception +19, Stealth +22
 
 **Ecology**

@@ -28,7 +28,7 @@ N Gargantuan construct (clockwork)
 
 **Str** 45, **Dex** 20, **Con** —, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +28; **CMB** +49; **CMD** 66  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **SQ** swift reactions, winding
 
 **Ecology**

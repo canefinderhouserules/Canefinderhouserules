@@ -26,7 +26,7 @@ N Tiny vermin
 
 **Str** 2, **Dex** 14, **Con** 10, **Int** &mdash;, **Wis** 11, **Cha** 2  
 **Base Atk** +0; **CMB** +0; **CMD** 6  
-**Feats** [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Fly +10, Stealth +12; **Racial Modifiers** +4 Stealth
 
 **Ecology**

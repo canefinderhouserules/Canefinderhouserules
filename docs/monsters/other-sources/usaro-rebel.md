@@ -22,7 +22,7 @@ NE Small humanoid (charau-ka)
 **Ranged**  rock +9 (1d4+5/19–20)  
 **Special Attacks** shrieking frenzy*, thrown-weapon mastery*, wild shape 1/day, wooden fist (+2, 6 rounds/day)  
 **Druid Spells Prepared** (CL 5th; concentration +8)  
-3rd—*mad monkeys*<sup>UM</sup>, *plant growth*<sup>D</sup>, *speak with plants*  
+3rd—*mad monkeys*, *plant growth*<sup>D</sup>, *speak with plants*  
 2nd— *barkskin*<sup>D</sup>, *bull’s strength*, *flaming sphere* (DC 15), *warp wood*  
 1st—*cure light wounds*, *entangle*<sup>D</sup> (DC 14), *faerie fire*, *magic stone*, *longstrider*  
 0 (at will)—*create water*, *detect poison*, *guidance*, *purify food and drink*  

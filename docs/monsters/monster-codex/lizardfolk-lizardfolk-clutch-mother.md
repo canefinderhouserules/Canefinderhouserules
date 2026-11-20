@@ -26,7 +26,7 @@ N Medium humanoid (reptilian)
 6th—*antimagic field*<sup>D</sup>, *mass cure light wounds*, *wall of stone* (DC 21)  
 5th—*baleful polymorph* (DC 20), *commune with nature*, *death ward*, *spell resistance*<sup>D</sup>, *wall of thorns*  
 4th—*cure serious wounds*, *dispel magic*, *freedom of movement*, *scrying* (DC 19), *spell immunity*<sup>D</sup>  
-3rd—*call lightning* (DC 18), *cure moderate wounds* (2), *protection from energy*<sup>D</sup>, *spit venom*<sup>UM</sup> (DC 18)  
+3rd—*call lightning* (DC 18), *cure moderate wounds* (2), *protection from energy*<sup>D</sup>, *spit venom* (DC 18)  
 2nd—*animal messenger*, *barkskin*, *delay poison*, *lesser restoration* (2), *shield other*<sup>D</sup>  
 1st—*calm animals* (DC 16), *cure light wounds* (2), *entangle* (DC 16), *sanctuary*<sup>D</sup> (DC 16), *shillelagh*, *speak with animals*  
 0 (at will)—*create water*, *detect poison*, *guidance*, *mending*  
@@ -40,7 +40,7 @@ N Medium humanoid (reptilian)
 
 **Str** 10, **Dex** 11, **Con** 12, **Int** 12, **Wis** 20, **Cha** 15  
 **Base Atk** +10; **CMB** +10; **CMD** 21  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Brew Potion](../../rules/feats/brew-potion.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Natural Spell](../../rules/feats/natural-spell.md), [Skill Focus (Diplomacy)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md), [Wild Speech<sup>UM</sup>](../../rules/feats/wild-speech.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Brew Potion](../../rules/feats/brew-potion.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Natural Spell](../../rules/feats/natural-spell.md), [Skill Focus (Diplomacy)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md), [Wild Speech](../../rules/feats/wild-speech.md)  
 **Skills** Acrobatics +2, Diplomacy +23, Handle Animal +11, Heal +14, Knowledge (nature) +13, Linguistics +2, Perception +22, Perform (oratory) +15, Sense Motive +27, Spellcraft +11, Survival +16, Swim +15; **Racial Modifiers** +4 Acrobatics  
 **Languages** Common, Draconic, Druidic, Sylvan  
 **SQ** ancient ways, hold breath, nature bond (Protection domain), nature sense, patience of nature  

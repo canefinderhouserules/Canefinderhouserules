@@ -28,10 +28,10 @@ NE Medium undead (human)
 
 **Str** 17, **Dex** 14, **Con** —, **Int** 8, **Wis** 12, **Cha** 15  
 **Base Atk** +1; **CMB** +4; **CMD** 16  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Perception)<sup>B</sup>](../../rules/feats/skill-focus.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md)  
 **Skills** Acrobatics +13, Climb +6, Intimidate +10, Knowledge (local) +4, Perception +9, Sense Motive +6, Sleight of Hand +5, Stealth +13  
 **Languages** Common, Halfling  
-**SQ** gaseous form, rogue talents (strong impression<sup>APG</sup>), shadowless, spider climb, trapfinding +1
+**SQ** gaseous form, rogue talents (strong impression), shadowless, spider climb, trapfinding +1
 
 **Ecology**
 

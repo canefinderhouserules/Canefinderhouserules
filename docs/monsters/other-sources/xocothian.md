@@ -21,9 +21,9 @@ N Large outsider (air, extraplanar, water)
 **Melee** bite +7 (1d8+2), 2 wings +2 (1d6+1)  
 **Space** 10 ft., **Reach** 5 ft.  
 **Spell-Like Abilities** (CL 6th; concentration +6)  
-At will—*alter winds*<sup>APG</sup>, *know direction*, *shocking grasp*  
+At will—*alter winds*, *know direction*, *shocking grasp*  
 3/day—*chill metal* (DC 13), *cure light wounds*, *faerie fire*, *obscuring mist*  
-1/day—*dimension door* (self plus 50 lbs. of objects only), *hydraulic torrent*<sup>APG</sup> (DC 13)
+1/day—*dimension door* (self plus 50 lbs. of objects only), *hydraulic torrent* (DC 13)
 
 **Statistics**
 

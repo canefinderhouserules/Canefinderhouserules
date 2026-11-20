@@ -22,8 +22,8 @@ NE Large outsider (aquatic, daemon, evil, extraplanar)
 **Space** 10 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** extending jaw, gnaw, powerful bite, pull (bite, 10 ft.), stygian bite (Will DC 15)  
 **Spell-Like Abilities** (CL 9th; concentration +9)  
-At will—*healing thief*<sup>UC</sup> (DC 13)  
-3/day—*aqueous orb*<sup>APG</sup> (DC 13), *hydraulic torrent*<sup>APG</sup>  
+At will—*healing thief* (DC 13)  
+3/day—*aqueous orb* (DC 13), *hydraulic torrent*  
 1/day—*confusion* (DC 14), summon (level 3, 1 cordulegaster, 50%)
 
 **Statistics**

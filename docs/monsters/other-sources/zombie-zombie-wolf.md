@@ -26,7 +26,7 @@ NE Medium undead
 
 **Str** 15, **Dex** 17, **Con** &mdash;, **Int** &mdash;, **Wis** 10, **Cha** 10  
 **Base Atk** +2; **CMB** +4; **CMD** 17 (21 vs. trip)  
-**Feats** [Toughness<sup>B</sup>](../../rules/feats/toughness.md)
+**Feats** [Toughness](../../rules/feats/toughness.md)
 
 **Ecology**
 

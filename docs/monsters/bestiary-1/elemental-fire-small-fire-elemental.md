@@ -26,7 +26,7 @@ N Small outsider (elemental, extraplanar, fire)
 
 **Str** 10, **Dex** 13, **Con** 10, **Int** 4, **Wis** 11, **Cha** 11  
 **Base Atk** +2; **CMB** +1; **CMD** 13  
-**Feats** [Dodge](../../rules/feats/dodge.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +5, Climb +4, Escape Artist +5, Intimidate +4, Knowledge (planes) +1, Perception +4
 
 **Ecology**

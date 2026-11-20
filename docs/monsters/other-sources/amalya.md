@@ -39,5 +39,5 @@ At will—*entangle* (DC 16), *tree shape*, *wood shape* (1 lb. only)
 **Feats** [Great Fortitude](../../rules/feats/great-fortitude.md), [Self-Sufficient](../../rules/feats/self-sufficient.md), [Stealthy](../../rules/feats/stealthy.md), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Climb +9, Craft (wood) +19, Escape Artist +19, Handle Animal +14, Heal +6, Knowledge (nature) +12, Perception +13, Stealth +19, Survival +17; **Racial Modifiers** +6 Craft (wood)  
 **Languages** Abyssal, Common, Druidic, Elven, Sylvan; *speak with plants*  
-**SQ** enlarge<sup>APG</sup> (7/day), nature bond (Plant domain [Growth subdomain<sup>APG</sup>]), nature sense, trackless step, tree meld, wild empathy +14, woodcraft, woodland stride  
+**SQ** enlarge (7/day), nature bond (Plant domain [Growth subdomain]), nature sense, trackless step, tree meld, wild empathy +14, woodcraft, woodland stride  
 **Combat Gear**  *potions of cure moderate wounds* (2), *potion of remove curse*, *scrolls of resist energy* (2), *wand of calm animals* (24 charges); **Other Gear** club, dagger, mwk longbow with 20 arrows, *ring of protection +1*, pinecone amulet (divine focus), wooden art objects worth 600 gp, 35 gp

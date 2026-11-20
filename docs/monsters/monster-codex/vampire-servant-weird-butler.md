@@ -22,7 +22,7 @@ CE Small humanoid (halfling)
 **Ranged**  dagger +7 (1d3–2/19–20)  
 **Oracle Spells Known** (CL 5th; concentration +9)  
 2nd (5/day)—*desecrate*, *false life*, *hold person* (DC 16), *inflict moderate wounds* (DC 16)  
-1st (7/day)—*cause fear* (DC 15), *compel hostility*<sup>UC</sup> (DC 15), *cure light wounds*, *inflict light wounds* (DC 15), *obscuring mist*, *shield of faith*  
+1st (7/day)—*cause fear* (DC 15), *compel hostility* (DC 15), *cure light wounds*, *inflict light wounds* (DC 15), *obscuring mist*, *shield of faith*  
 0 (at will)—*bleed* (DC 14), *detect magic*, *mending*, *resistance*, *stabilize*, *virtue*  
 **Mystery** bones
 
@@ -30,11 +30,11 @@ CE Small humanoid (halfling)
 
 **Str** 6, **Dex** 16, **Con** 12, **Int** 13, **Wis** 10, **Cha** 18  
 **Base Atk** +3; **CMB** +0; **CMD** 13  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lucky Halfling<sup>APG</sup>](../../rules/feats/lucky-halfling.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lucky Halfling](../../rules/feats/lucky-halfling.md)  
 **Skills** Acrobatics +4, Bluff +12, Climb –1, Diplomacy +12, Intimidate +12, Knowledge (local) +6, Knowledge (religion) +9, Perception +7  
 **Languages** Abyssal, Common, Halfling  
 **SQ** oracle’s curse (clouded vision), revelations (bleeding wounds, death’s touch)  
-**Combat Gear**  *potion of invisibility*, *scrolls of dread bolt* (2), *scroll of helping hand*, *scroll of hide from undead*, *scroll of lesser animate dead*, *scroll of protective penumbra*<sup>UM</sup>, *scroll of silence*, *scroll of status*, unholy water (4); **Other Gear** *+1 chain shirt*, dagger, mwk dagger, spell component pouch, sunrods (2), silver dust (worth 50 gp), 92 gp
+**Combat Gear**  *potion of invisibility*, *scrolls of dread bolt* (2), *scroll of helping hand*, *scroll of hide from undead*, *scroll of lesser animate dead*, *scroll of protective penumbra*, *scroll of silence*, *scroll of status*, unholy water (4); **Other Gear** *+1 chain shirt*, dagger, mwk dagger, spell component pouch, sunrods (2), silver dust (worth 50 gp), 92 gp
 
 **Ecology**
 

@@ -25,7 +25,7 @@ LN Medium humanoid (human, orc)
 
 **Str** 15, **Dex** 13, **Con** 14, **Int** 8, **Wis** 12, **Cha** 12  
 **Base Atk** +3; **CMB** +5; **CMD** 16  
-**Feats** [Furious Focus<sup>APG</sup>](../../rules/feats/furious-focus.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (glaive)](../../rules/feats/weapon-focus.md)  
+**Feats** [Furious Focus](../../rules/feats/furious-focus.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (glaive)](../../rules/feats/weapon-focus.md)  
 **Skills** Intimidate +10, Knowledge (planes) +1, Sense Motive +3;  
 **Languages** Common, Orc  
 **SQ** armor training 1, orc blood, weapon familiarity  

@@ -26,9 +26,9 @@ CE Medium undead
 5th (3/day)—*flame strike* (DC 19), *mass inflict light wounds*, *stoneskin*  
 4th (6/day)—*divine power*, *inflict critical wounds*, *summon monster IV*, *wall of stone* (DC 18)  
 3rd (7/day)—*animate dead*, *blindness/deafness* (DC 17), *dispel magic*, *inflict serious wounds*, *meld into stone*  
-2nd (7/day)—*darkness*, *desecrate*, *hold person* (DC 16), *inflict moderate wounds*, *spiritual weapon*, *stone call*<sup>APG</sup>  
-1st (7/day)—*command* (DC 15), *entropic shield*, *inflict light wounds*, *liberating command*<sup>UC</sup>, *magic stone*, *obscuring mist*, *shield of faith*  
-0 (at will)—*bleed* (DC 14), *create water*, *detect magic*, *detect poison*, *guidance*, *mending*, *read magic*, *resistance*, *spark*<sup>APG</sup>  
+2nd (7/day)—*darkness*, *desecrate*, *hold person* (DC 16), *inflict moderate wounds*, *spiritual weapon*, *stone call*  
+1st (7/day)—*command* (DC 15), *entropic shield*, *inflict light wounds*, *liberating command*, *magic stone*, *obscuring mist*, *shield of faith*  
+0 (at will)—*bleed* (DC 14), *create water*, *detect magic*, *detect poison*, *guidance*, *mending*, *read magic*, *resistance*, *spark*  
 **Mystery** stone
 
 **Tactics**

@@ -25,7 +25,7 @@ CN Small monstrous humanoid (aquatic)
 
 **Str** 16, **Dex** 15, **Con** 19, **Int** 11, **Wis** 12, **Cha** 8  
 **Base Atk** +9; **CMB** +11 (+19 bull rush and trip); **CMD** 23  
-**Feats** [Combat Expertise<sup>B</sup>](../../rules/feats/combat-expertise.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Trip](../../rules/feats/improved-trip.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (claw)](../../rules/feats/weapon-focus.md)  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Trip](../../rules/feats/improved-trip.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (claw)](../../rules/feats/weapon-focus.md)  
 **Skills** Intimidate +6, Knowledge (religion) +4, Perception +13, Stealth +18, Survival +10, Swim +18  
 **Languages** Aklo, Undercommon  
 **SQ** amphibious, cold vigor, overwhelming

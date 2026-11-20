@@ -26,7 +26,7 @@ N Gargantuan vermin (aquatic)
 
 **Str** 34, **Dex** 10, **Con** 24, **Int** &mdash;, **Wis** 13, **Cha** 2  
 **Base Atk** +12; **CMB** +28; **CMD** 38  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md)  
 **Skills** Swim +20  
 **SQ** amphibious
 

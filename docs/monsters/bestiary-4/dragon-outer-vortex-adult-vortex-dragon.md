@@ -24,7 +24,7 @@ LN Huge dragon (fire)
 **Space** 15 ft., **Reach** 10 ft. (15 ft. with bite)  
 **Special Attacks** breath weapon (50-ft. cone, 12d8 fire, DC 23), crush, fragmented strike  
 **Spell-Like Abilities** (CL 17th; concentration +22)  
-At will—*anticipate peril*<sup>UM</sup>, *entropic shield*  
+At will—*anticipate peril*, *entropic shield*  
 **Sorcerer Spells Known** (CL 7th; concentration +12)  
 3rd (5/day)—*displacement*, *protection from energy*  
 2nd (7/day)—*mirror image*, *resist energy*, *scorching ray*  

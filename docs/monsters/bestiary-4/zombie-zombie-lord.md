@@ -26,7 +26,7 @@ LE Medium undead
 
 **Str** 17, **Dex** 16, **Con** —, **Int** 12, **Wis** 15, **Cha** 10  
 **Base Atk** +3; **CMB** +7; **CMD** 22  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect Arrows](../../rules/feats/deflect-arrows.md), [Dodge](../../rules/feats/dodge.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Nimble Moves](../../rules/feats/nimble-moves.md), [Power Attack](../../rules/feats/power-attack.md), [Step Up](../../rules/feats/step-up.md), [Stunning Fist](../../rules/feats/stunning-fist.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect Arrows](../../rules/feats/deflect-arrows.md), [Dodge](../../rules/feats/dodge.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Nimble Moves](../../rules/feats/nimble-moves.md), [Power Attack](../../rules/feats/power-attack.md), [Step Up](../../rules/feats/step-up.md), [Stunning Fist](../../rules/feats/stunning-fist.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Acrobatics +11, Climb +11, Intimidate +8, Knowledge (religion) +6, Perception +10, Sense Motive +8, Stealth +11  
 **Languages** Abyssal, Common  
 **SQ** fast movement, maneuver training

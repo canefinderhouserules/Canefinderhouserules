@@ -27,7 +27,7 @@ N Huge construct (clockwork)
 
 **Str** 34, **Dex** 19, **Con** —, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +25; **CMB** +39; **CMD** 55 (59 vs. trip)  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **Skills** Fly +8, Perception +8, Swim +20; **Racial Modifiers** +8 Fly, +8 Perception  
 **SQ** difficult to create, efficient winding, swift reactions
 

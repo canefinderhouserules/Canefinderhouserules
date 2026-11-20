@@ -25,7 +25,7 @@ N Medium vermin (aquatic)
 
 **Str** 10, **Dex** 11, **Con** 12, **Int** &mdash;, **Wis** 13, **Cha** 2  
 **Base Atk** +1; **CMB** +1; **CMD** 11  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md)  
 **Skills** Swim +8  
 **SQ** amphibious
 

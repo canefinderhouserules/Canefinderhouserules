@@ -26,7 +26,7 @@ CE Large monstrous humanoid
 
 **Str** 31, **Dex** 15, **Con** 18, **Int** 7, **Wis** 12, **Cha** 6  
 **Base Atk** +12; **CMB** +23 (+27 grapple); **CMD** 35  
-**Feats** [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lunge](../../rules/feats/lunge.md), [Mobility<sup>B</sup>](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md)  
+**Feats** [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lunge](../../rules/feats/lunge.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md)  
 **Skills** Acrobatics +3 (+11 when jumping), Climb +18, Perception +15, Stealth +17, Survival +6; **Racial Modifiers** +8 Acrobatics (when jumping)  
 **Languages** Giant
 

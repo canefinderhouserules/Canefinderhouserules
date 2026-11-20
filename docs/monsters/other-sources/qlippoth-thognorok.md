@@ -21,8 +21,8 @@ CE Medium outsider (aquatic, chaotic, evil, extraplanar, qlippoth)
 **Melee** 3 bites +7 (1d6+1 plus poison)  
 **Special Attacks** acid web (+4 ranged, DC 16, 5 hp), horrific appearance, poison  
 **Spell-Like Abilities** (CL 5th; concentration +6)  
-3/day—*acid arrow*, *protection from law*, *vomit swarm*<sup>APG</sup>  
-1/day—*excruciating deformation*<sup>UM</sup> (DC 14)
+3/day—*acid arrow*, *protection from law*, *vomit swarm*  
+1/day—*excruciating deformation* (DC 14)
 
 **Statistics**
 

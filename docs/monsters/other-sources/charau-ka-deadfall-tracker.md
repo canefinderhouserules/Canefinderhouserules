@@ -26,11 +26,11 @@ CE Small humanoid
 
 **Str** 19, **Dex** 18, **Con** 14, **Int** 10, **Wis** 14, **Cha** 9  
 **Base Atk** +6; **CMB** +9; **CMD** 24  
-**Feats** [Dodge](../../rules/feats/dodge.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Throw Anything<sup>B</sup>](../../rules/feats/throw-anything.md)  
+**Feats** [Dodge](../../rules/feats/dodge.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Throw Anything](../../rules/feats/throw-anything.md)  
 **Skills** Acrobatics +13, Climb +17, Craft (traps) +8, Knowledge (geography) +5, Knowledge (local) +5, Perception +10, Stealth +17, Survival +11; **Racial Modifiers** +4 Stealth  
 **Languages** Abyssal, Polyglot  
 **SQ** shrieking frenzy, slayer talents (bleeding attack +1, slowing strike), thrown-weapon mastery, track +2  
-**Combat Gear**  *potion of cure light wounds* (2), *potion of hide from animals*, caltrops (4), giant wasp poison (4 doses), tanglefoot bags (2); **Other Gear** mwk leather armor, *+1 light wooden shield*, mwk composite shortbow (Str +4) with 40 arrows, mwk scimitar, *cloak of resistance +1*, bear trap<sup>UE</sup>, hemp rope (100 ft.), surgeon’s tools<sup>UE</sup>
+**Combat Gear**  *potion of cure light wounds* (2), *potion of hide from animals*, caltrops (4), giant wasp poison (4 doses), tanglefoot bags (2); **Other Gear** mwk leather armor, *+1 light wooden shield*, mwk composite shortbow (Str +4) with 40 arrows, mwk scimitar, *cloak of resistance +1*, bear trap, hemp rope (100 ft.), surgeon’s tools
 
 **Ecology**
 

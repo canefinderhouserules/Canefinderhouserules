@@ -22,7 +22,7 @@ CE Medium humanoid (reptilian)
 **Ranged**  spear +7 (1d8+4/×3)  
 **Special Attacks** psychogenic secretions  
 **Psychic Magic** (CL 6th; concentration +7)  
-5 PE—*mindlink*<sup>OA</sup> (1 PE, DC 12), *silent image* (1 PE, DC 12), *suggestion* (2 PE, DC 13)
+5 PE—*mindlink* (1 PE, DC 12), *silent image* (1 PE, DC 12), *suggestion* (2 PE, DC 13)
 
 **Statistics**
 

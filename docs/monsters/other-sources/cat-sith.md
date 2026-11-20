@@ -23,7 +23,7 @@ CN Tiny magical beast
 **Spell-Like Abilities** (CL 3rd; concentration +5)  
 Constant—*see invisibility*  
 3/day—*ghost sound*, *hypnotism*, *magic aura*  
-1/week—*rest eternal*<sup>APG</sup>
+1/week—*rest eternal*
 
 **Statistics**
 

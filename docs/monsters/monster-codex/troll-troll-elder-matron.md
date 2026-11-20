@@ -20,12 +20,12 @@ CE Large humanoid (giant)
 **Speed** 30 ft.  
 **Melee** bite +12 (1d8+4), 2 claws +12 (1d6+4)  
 **Space** 10 ft., **Reach** 10 ft.  
-**Special Attacks** hexes (agony [10 rounds], cackle, evil eye [–4, 6 rounds], misfortune [2 rounds], slumber [10 rounds], water lung<sup>UM</sup>), rend (2 claws, 1d6+7)  
+**Special Attacks** hexes (agony [10 rounds], cackle, evil eye [–4, 6 rounds], misfortune [2 rounds], slumber [10 rounds], water lung), rend (2 claws, 1d6+7)  
 **Witch Spells Prepared** (CL 10th; concentration +13)  
-5th—*flame strike* (DC 20), *mass pain strike*<sup>APG</sup> (DC 18)  
+5th—*flame strike* (DC 20), *mass pain strike* (DC 18)  
 4th—*confusion* (DC 17), *enervation*, *wall of ice* (DC 17)  
-3rd—*fireball* (2, DC 18), *ray of exhaustion* (DC 16), *screech*<sup>APG</sup> (DC 16)  
-2nd—*bull’s strength*, *burning gaze*<sup>APG</sup> (DC 17), *enthrall* (DC 15), *flaming sphere* (DC 17), *touch of idiocy*  
+3rd—*fireball* (2, DC 18), *ray of exhaustion* (DC 16), *screech* (DC 16)  
+2nd—*bull’s strength*, *burning gaze* (DC 17), *enthrall* (DC 15), *flaming sphere* (DC 17), *touch of idiocy*  
 1st—*burning hands* (DC 16), *cause fear* (DC 14), ray of enfeeblement (DC 14), *reduce person* (DC 14)  
 0 (at will)—*bleed* (DC 13), *detect magic*, *purify food and drink*, *touch of fatigue* (DC 13)  
 **Patron** elements
@@ -38,7 +38,7 @@ CE Large humanoid (giant)
 
 **Str** 19, **Dex** 14, **Con** 27, **Int** 16, **Wis** 11, **Cha** 8  
 **Base Atk** +9; **CMB** +14; **CMD** 26  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Elemental Focus<sup>APG</sup> (fire)](../../rules/feats/elemental-focus.md), [Greater Elemental Focus<sup>APG</sup> (fire)](../../rules/feats/greater-elemental-focus.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [Split Hex](../../rules/feats/split-hex.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), [Elemental Focus (fire)](../../rules/feats/elemental-focus.md), [Greater Elemental Focus (fire)](../../rules/feats/greater-elemental-focus.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), [Split Hex](../../rules/feats/split-hex.md)  
 **Skills** Bluff +7, Intimidate +14, Knowledge (arcana) +14, Knowledge (nature) +11, Perception +16, Sense Motive +8, Spellcraft +11, Stealth +8, Survival +8, Swim +9  
 **Languages** Abyssal, Giant, Goblin, Orc  
 **SQ** witch’s familiar (bat)  

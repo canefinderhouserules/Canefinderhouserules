@@ -27,7 +27,7 @@ NE Medium undead
 
 **Str** 16, **Dex** 11, **Con** —, **Int** 5, **Wis** 13, **Cha** 14  
 **Base Atk** +3; **CMB** +6 (+8 drag); **CMD** 16 (18 vs. drag)  
-**Feats** [Improved Drag<sup>B</sup>](../../rules/feats/improved-drag.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Improved Drag](../../rules/feats/improved-drag.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Power Attack](../../rules/feats/power-attack.md)  
 **Skills** Perception +6, Stealth +5  
 **Languages** Common (can’t speak)
 

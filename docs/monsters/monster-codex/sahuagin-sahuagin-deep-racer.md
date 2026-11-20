@@ -31,11 +31,11 @@ LE Medium monstrous humanoid (aquatic)
 
 **Str** 17, **Dex** 17, **Con** 18, **Int** 14, **Wis** 15, **Cha** 6  
 **Base Atk** +4; **CMB** +7; **CMD** 20 (can’t be tripped)  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Power Attack](../../rules/feats/power-attack.md), [Pushing Assault<sup>APG</sup>](../../rules/feats/pushing-assault.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Power Attack](../../rules/feats/power-attack.md), [Pushing Assault](../../rules/feats/pushing-assault.md)  
 **Skills** Handle Animal +5, Knowledge (geography) +9, Knowledge (nature) +9, Perception +9, Stealth +10, Survival +9, Swim +18  
 **Languages** Aquan, Common; speak with sharks  
 **SQ** track +1, wild empathy +0  
-**Combat Gear**  *potion of cure light wounds*; **Other Gear** mwk longspear, mwk underwater heavy crossbow<sup>UE</sup> with 20 bolts, *hand of the mage*, agate earring worth 25 gp, pearls (7, worth 100 gp each), 18 gp
+**Combat Gear**  *potion of cure light wounds*; **Other Gear** mwk longspear, mwk underwater heavy crossbow with 20 bolts, *hand of the mage*, agate earring worth 25 gp, pearls (7, worth 100 gp each), 18 gp
 
 **Ecology**
 

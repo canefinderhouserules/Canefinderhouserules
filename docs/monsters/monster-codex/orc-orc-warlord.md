@@ -32,7 +32,7 @@ CE Medium humanoid (orc)
 
 **Str** 23, **Dex** 14, **Con** 18, **Int** 8, **Wis** 6, **Cha** 10  
 **Base Atk** +7; **CMB** +13; **CMD** 24  
-**Feats** [Ferocious Action<sup>ARG</sup>](../../rules/feats/ferocious-action.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Quick Draw](../../rules/feats/quick-draw.md), [Resolute Rager<sup>ARG</sup>](../../rules/feats/resolute-rager.md)  
+**Feats** [Ferocious Action](../../rules/feats/ferocious-action.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Quick Draw](../../rules/feats/quick-draw.md), [Resolute Rager](../../rules/feats/resolute-rager.md)  
 **Skills** Intimidate +16, Perception +8, Sense Motive +5  
 **Languages** Common, Orc  
 **SQ** fast movement, weapon familiarity  

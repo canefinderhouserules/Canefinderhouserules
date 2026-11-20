@@ -31,11 +31,11 @@ NE Medium humanoid (goblinoid)
 
 **Str** 18, **Dex** 16, **Con** 14, **Int** 10, **Wis** 12, **Cha** 6  
 **Base Atk** +10; **CMB** +14 (+16 trip); **CMD** 27  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Greater Trip](../../rules/feats/greater-trip.md), [Greater Weapon Focus (horsechopper<sup>UE</sup>)](../../rules/feats/greater-weapon-focus.md), [Improved Critical (horsechopper)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), [Step Up](../../rules/feats/step-up.md), [Tripping Strike<sup>APG</sup>](../../rules/feats/tripping-strike.md), [Weapon Focus (horsechopper)](../../rules/feats/weapon-focus.md), [Weapon Specialization (horsechopper)](../../rules/feats/weapon-specialization.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Greater Trip](../../rules/feats/greater-trip.md), [Greater Weapon Focus (horsechopper)](../../rules/feats/greater-weapon-focus.md), [Improved Critical (horsechopper)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), [Step Up](../../rules/feats/step-up.md), [Tripping Strike](../../rules/feats/tripping-strike.md), [Weapon Focus (horsechopper)](../../rules/feats/weapon-focus.md), [Weapon Specialization (horsechopper)](../../rules/feats/weapon-specialization.md)  
 **Skills** Intimidate +6, Perception +11, Ride +4, Stealth +9; **Racial Modifiers** +4 Ride, +4 Stealth  
 **Languages** Goblin  
 **SQ** armor training 2  
-**Combat Gear**  *potions of cure light wounds* (3), *potion of fly*, *potion of invisibility*; **Other Gear** mwk full plate, *+1 horsechopper*, composite longbow with 20 arrows, *campfire bead*<sup>UE</sup>, *cloak of fangs*<sup>UE</sup>, *necklace of fireballs* (type I), 2,119 gp
+**Combat Gear**  *potions of cure light wounds* (3), *potion of fly*, *potion of invisibility*; **Other Gear** mwk full plate, *+1 horsechopper*, composite longbow with 20 arrows, *campfire bead*, *cloak of fangs*, *necklace of fireballs* (type I), 2,119 gp
 
 **Ecology**
 

@@ -22,7 +22,7 @@ LE Medium humanoid (goblinoid)
 **Ranged**  longbow +7 (1d8/×3)  
 **Special Attacks** combat style (two-weapon), favored enemy (elves +2, humans +4)  
 **Ranger Spells Prepared** (CL 2nd; concentration +3)  
-1st—*lead blades*<sup>APG</sup>, *longstrider*
+1st—*lead blades*, *longstrider*
 
 **Statistics**
 

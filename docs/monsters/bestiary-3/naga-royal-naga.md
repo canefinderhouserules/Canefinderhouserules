@@ -33,7 +33,7 @@ Constant—*see invisibility*
 
 **Str** 23, **Dex** 17, **Con** 21, **Int** 18, **Wis** 22, **Cha** 19  
 **Base Atk** +10; **CMB** +18 (+22 grapple); **CMD** 31 (can’t be tripped)  
-**Feats** [Alertness](../../rules/feats/alertness.md), [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Eschew Materials<sup>B</sup>](../../rules/feats/eschew-materials.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Stand Still](../../rules/feats/stand-still.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Casting](../../rules/feats/combat-casting.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Eschew Materials](../../rules/feats/eschew-materials.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Stand Still](../../rules/feats/stand-still.md)  
 **Skills** Acrobatics +20 (+24 when jumping), Bluff +18, Diplomacy +18, Knowledge (arcana) +18, Knowledge (history) +11, Knowledge (nobility) +11, Perception +27, Sense Motive +24, Stealth +12  
 **Languages** Celestial, Common, Infernal  
 **SQ** change shape (five humanoid shapes; *alter self*)

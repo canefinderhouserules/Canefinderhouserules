@@ -26,7 +26,7 @@ CE Large undead (augmented animal)
 
 **Str** 30, **Dex** 8, **Con** —, **Int** 2, **Wis** 15, **Cha** 14  
 **Base Atk** +6; **CMB** +17; **CMD** 26 (30 vs. trip)  
-**Feats** [Diehard](../../rules/feats/diehard.md), [Endurance](../../rules/feats/endurance.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Power Attack](../../rules/feats/power-attack.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Diehard](../../rules/feats/diehard.md), [Endurance](../../rules/feats/endurance.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Overrun](../../rules/feats/improved-overrun.md), [Power Attack](../../rules/feats/power-attack.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Perception +14, Swim +18  
 **SQ** flash flood
 

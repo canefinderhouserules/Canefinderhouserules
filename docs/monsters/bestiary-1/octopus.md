@@ -24,7 +24,7 @@ N Small animal (aquatic)
 
 **Str** 12, **Dex** 17, **Con** 14, **Int** 2, **Wis** 13, **Cha** 3  
 **Base Atk** +1; **CMB** +1 (+5 grapple); **CMD** 14 (can’t be tripped)  
-**Feats** Multiattack<sup>B</sup>, [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** Multiattack, [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Escape Artist +13, Stealth +20, Swim +9; **Racial Modifiers** +8 Stealth, +10 Escape Artist
 
 **Ecology**

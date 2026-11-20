@@ -26,5 +26,5 @@ NE Large undead
 
 **Str** 20, **Dex** 20, **Con** &mdash;, **Int** &mdash;, **Wis** 10, **Cha** 10  
 **Base Atk** +1; **CMB** +7; **CMD** 22 (26 vs. trip)  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md)  
 **Gear** broken chain shirt barding

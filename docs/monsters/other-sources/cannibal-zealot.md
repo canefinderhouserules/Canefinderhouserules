@@ -22,20 +22,20 @@ NE Medium humanoid (human)
 **Melee** mwk light flail +10/+5 (1d8+3) or spear +9/+4 (1d8+4/×3)  
 **Special Attacks** judgment 2/day, rage (14 rounds/day), rage power (animal fury)  
 **Spell-Like Abilities** (CL 7th; concentration +7)  
-1/day—*decompose corpse*<sup>UM</sup>  
+1/day—*decompose corpse*  
 **Inquisitor Spell-Like Abilities** (CL 4th; concentration +7)  
 At will—*detect alignment*  
 **Inquisitor Spells Known** (CL 4th; concentration +7)  
-2nd (2/day)—*hold person* (DC 15), *weapon of awe*<sup>APG</sup> (DC 15)  
-1st (4/day)—*command* (DC 14), *cure light wounds*, *shield of faith*, *wrath*<sup>APG</sup>  
+2nd (2/day)—*hold person* (DC 15), *weapon of awe* (DC 15)  
+1st (4/day)—*command* (DC 14), *cure light wounds*, *shield of faith*, *wrath*  
 0 (at will)—*bleed* (DC 13), *create water*, *daze* (DC 13), *guidance*, *light*, *stabilize*  
-**Inquisition** Anger<sup>UM</sup>
+**Inquisition** Anger
 
 **Statistics**
 
 **Str** 16, **Dex** 13, **Con** 12, **Int** 8, **Wis** 16, **Cha** 10  
 **Base Atk** +6; **CMB** +9; **CMD** 21  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Dodge](../../rules/feats/dodge.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Polytheistic Blessing (Sar-Gorog pantheon; see the sidebar on page 63)](../../rules/feats/polytheistic-blessing.md), [Power Attack](../../rules/feats/power-attack.md), [Precise Strike<sup>APG</sup>](../../rules/feats/precise-strike.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Dodge](../../rules/feats/dodge.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Polytheistic Blessing (Sar-Gorog pantheon; see the sidebar on page 63)](../../rules/feats/polytheistic-blessing.md), [Power Attack](../../rules/feats/power-attack.md), [Precise Strike](../../rules/feats/precise-strike.md)  
 **Skills** Craft (traps) +5, Heal +9, Intimidate +15, Knowledge (nature) +5, Perception +9, Sense Motive +11, Stealth +9, Survival +13  
 **Languages** Polyglot  
 **SQ** hateful retort, monster lore +3, solo tactics, stern gaze +2, track +2  

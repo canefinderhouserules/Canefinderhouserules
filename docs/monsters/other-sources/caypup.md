@@ -28,7 +28,7 @@ CG Small outsider (native)
 
 **Str** 15, **Dex** 11, **Con** 14, **Int** 6, **Wis** 9, **Cha** 12  
 **Base Atk** +3; **CMB** +4; **CMD** 14  
-**Feats** [Dimensional Agility<sup>UC</sup>](../../rules/feats/dimensional-agility.md), [Improved Initiative](../../rules/feats/improved-initiative.md)  
+**Feats** [Dimensional Agility](../../rules/feats/dimensional-agility.md), [Improved Initiative](../../rules/feats/improved-initiative.md)  
 **Skills** Acrobatics +6, Intimidate +7, Perception +5, Sense Motive +5  
 **Languages** Celestial (can’t speak)
 

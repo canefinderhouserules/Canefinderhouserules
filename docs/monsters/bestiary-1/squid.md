@@ -24,7 +24,7 @@ N Medium animal (aquatic)
 
 **Str** 15, **Dex** 15, **Con** 11, **Int** 2, **Wis** 12, **Cha** 2  
 **Base Atk** +2; **CMB** +4 (+8 grapple); **CMD** 16  
-**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack<sup>B</sup>  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack  
 **Skills** Perception +7, Swim +10
 
 **Ecology**

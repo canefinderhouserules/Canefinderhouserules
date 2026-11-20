@@ -27,7 +27,7 @@ Constant—*air walk*
 
 **Str** 16, **Dex** 11, **Con** —, **Int** —, **Wis** 10, **Cha** 12  
 **Base Atk** +0; **CMB** +3; **CMD** 13  
-**Feats** [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Toughness](../../rules/feats/toughness.md)  
 **SQ** phase lurch
 
 **Ecology**

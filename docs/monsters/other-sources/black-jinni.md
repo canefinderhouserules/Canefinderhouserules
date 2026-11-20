@@ -26,7 +26,7 @@ Always CE Large outsider (chaotic, evil, extraplanar)
 
 **Str** 26, **Dex** 22, **Con** 22, **Int** 12, **Wis** 15, **Cha** 17  
 **Base Atk** +16; **Grapple** +28  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Improved Critical (claw)](../../rules/feats/improved-critical.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), [Spring Attack](../../rules/feats/spring-attack.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Improved Critical (claw)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Mobility](../../rules/feats/mobility.md), [Power Attack](../../rules/feats/power-attack.md), [Spring Attack](../../rules/feats/spring-attack.md)  
 **Skills** Concentration +25, Hide +21 (+29 in storms or clouds), Intimidate +22, Knowledge (religion) +20, Listen +21, Move Silently +25, Search +20, Spot +21, Tumble +25  
 **Languages** Aquan, Auran, Common, Ignan, Terran  
 **SQ** aligned weapons, stormwalk

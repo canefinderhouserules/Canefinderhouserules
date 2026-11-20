@@ -22,8 +22,8 @@ NG Medium outsider (angel, extraplanar, good)
 **Special Attacks** bardic performance 16 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +2), ghostly arms  
 **Spell-Like Abilities** (CL 5th; concentration +7)  
 At will—*summon instrument*  
-3/day—*calm emotions*, *lesser confusion* (DC 13), *remove fear*, *saving finale*<sup>APG</sup>  
-1/day—*eagle’s splendor*, *gallant inspiration*<sup>APG</sup>, *ghostbane dirge*<sup>APG</sup> (DC 14), *invisibility* (self only)
+3/day—*calm emotions*, *lesser confusion* (DC 13), *remove fear*, *saving finale*  
+1/day—*eagle’s splendor*, *gallant inspiration*, *ghostbane dirge* (DC 14), *invisibility* (self only)
 
 **Statistics**
 

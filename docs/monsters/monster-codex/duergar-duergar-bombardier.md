@@ -26,7 +26,7 @@ LE Medium humanoid (dwarf)
 **Spell-Like Abilities** (CL 2nd; concentration –1)  
 1/day—*invisibility* (self only), *ironskin*  
 **Alchemist Extracts Prepared** (CL 2nd)  
-1st—*bomber’s eye*<sup>APG</sup>, *shield*, *true strike*
+1st—*bomber’s eye*, *shield*, *true strike*
 
 **Tactics**
 
@@ -38,11 +38,11 @@ LE Medium humanoid (dwarf)
 
 **Str** 12, **Dex** 16, **Con** 15, **Int** 15, **Wis** 10, **Cha** 4  
 **Base Atk** +1; **CMB** +2; **CMD** 16 (20 vs. bull rush or trip)  
-**Feats** [Brew Potion](../../rules/feats/brew-potion.md), [Extra Bombs<sup>APG</sup>](../../rules/feats/extra-bombs.md), [Throw Anything](../../rules/feats/throw-anything.md)  
+**Feats** [Brew Potion](../../rules/feats/brew-potion.md), [Extra Bombs](../../rules/feats/extra-bombs.md), [Throw Anything](../../rules/feats/throw-anything.md)  
 **Skills** Craft (alchemy) +7, Disable Device +8, Heal +4, Knowledge (arcana) +7, Perception +6, Survival +4  
 **Languages** Aklo, Common, Draconic, Dwarven, Undercommon  
 **SQ** alchemy (alchemy crafting +2, identify potions), discovery (acid bomb), ironskinned, mutagen (+4/–2, +2 natural, 20 minutes), poison use, slow and steady, stability  
-**Combat Gear**  *potions of cure light wounds* (2), *potions of detect secret doors* (2), *potions of expeditious retreat* (2), *potions of negate aroma*<sup>APG</sup> (2), acid (6), alchemist’s fire (6), smokesticks (6), tanglefoot bags (6), thunderstones (6); **Other Gear** leather armor, light crossbow with 10 bolts, light mace, dust of tracelessness, tindertwigs (6), formula book, 2 gp
+**Combat Gear**  *potions of cure light wounds* (2), *potions of detect secret doors* (2), *potions of expeditious retreat* (2), *potions of negate aroma* (2), acid (6), alchemist’s fire (6), smokesticks (6), tanglefoot bags (6), thunderstones (6); **Other Gear** leather armor, light crossbow with 10 bolts, light mace, dust of tracelessness, tindertwigs (6), formula book, 2 gp
 
 **Ecology**
 

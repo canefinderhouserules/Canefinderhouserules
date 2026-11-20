@@ -23,7 +23,7 @@ LE Medium monstrous humanoid (aquatic)
 **Ranged**  mwk underwater heavy crossbow +9 (1d10/19–20)  
 **Special Attacks** blood frenzy, combat style (natural weapon), favored enemy (elves +2)  
 **Ranger Spells Prepared** (CL 1st; concentration +2)  
-1st—*hunter’s howl*<sup>APG</sup> (DC 12)
+1st—*hunter’s howl* (DC 12)
 
 **Tactics**
 
@@ -38,7 +38,7 @@ LE Medium monstrous humanoid (aquatic)
 **Skills** Climb +9, Handle Animal +10, Intimidate +10, Knowledge (nature) +10, Perception +10, Stealth +11, Survival +10, Swim +17  
 **Languages** Aquan, Common; speak with sharks  
 **SQ** favored terrain (water +2), hunter’s bond (companions), track +2, wild empathy +5  
-**Combat Gear**  *potion of cure moderate wounds*, *potion of greater magic fang*, *scrolls of barkskin* (2), *+1 elf-bane bolts* (4); **Other Gear** *+1 studded leather*, mwk underwater heavy crossbow<sup>UE</sup> with 20 bolts, *cloak of resistance +1*, bronze-and-agate pendant worth 50 gp, 9 gp
+**Combat Gear**  *potion of cure moderate wounds*, *potion of greater magic fang*, *scrolls of barkskin* (2), *+1 elf-bane bolts* (4); **Other Gear** *+1 studded leather*, mwk underwater heavy crossbow with 20 bolts, *cloak of resistance +1*, bronze-and-agate pendant worth 50 gp, 9 gp
 
 **Ecology**
 

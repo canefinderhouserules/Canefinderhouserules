@@ -25,7 +25,7 @@ N Medium outsider (earth, elemental, extraplanar)
 
 **Str** 20, **Dex** 8, **Con** 17, **Int** 4, **Wis** 11, **Cha** 11  
 **Base Atk** +4; **CMB** +9; **CMD** 18  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Improved Bull Rush<sup>B</sup>](../../rules/feats/improved-bull-rush.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Power Attack](../../rules/feats/power-attack.md)  
 **Skills** Appraise +1, Climb +10, Knowledge (dungeoneering) +2, Knowledge (planes) +2, Perception +7, Stealth +3
 
 **Ecology**

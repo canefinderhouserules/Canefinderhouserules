@@ -30,7 +30,7 @@ CE Small humanoid (charau-ka)
 
 **Str** 15, **Dex** 15, **Con** 12, **Int** 12, **Wis** 14, **Cha** 16  
 **Base Atk** +6; **CMB** +7; **CMD** 19  
-**Feats** [Extra Performance](../../rules/feats/extra-performance.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Skill Focus (Perform [oratory])](../../rules/feats/skill-focus.md), [Skill Focus (Perform [act])](../../rules/feats/skill-focus.md), [Spellsong<sup>UM</sup>](../../rules/feats/spellsong.md), [Throw Anything<sup>B</sup>](../../rules/feats/throw-anything.md)  
+**Feats** [Extra Performance](../../rules/feats/extra-performance.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Skill Focus (Perform [oratory])](../../rules/feats/skill-focus.md), [Skill Focus (Perform [act])](../../rules/feats/skill-focus.md), [Spellsong](../../rules/feats/spellsong.md), [Throw Anything](../../rules/feats/throw-anything.md)  
 **Skills** Acrobatics +11, Appraise +5, Climb +14, Intimidate +8, Knowledge (geography) +8, Knowledge (history) +8, Knowledge (local) +8, Linguistics +6, Perception +10, Perform (act) +17, Perform (dance) +10, Perform (oratory) +17, Sleight of Hand +7, Spellcraft +8, Stealth +13, Use Magic Device +7; **Racial Modifiers** +4 Stealth  
 **Languages** Abyssal, Common, Kelish, Polyglot, Vanaran  
 **SQ** bardic knowledge +3, lore master 1/day, versatile performance (oratory, act)  

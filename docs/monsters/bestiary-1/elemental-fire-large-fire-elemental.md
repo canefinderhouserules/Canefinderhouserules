@@ -27,7 +27,7 @@ N Large outsider (elemental, extraplanar, fire)
 
 **Str** 14, **Dex** 21, **Con** 14, **Int** 6, **Wis** 11, **Cha** 11  
 **Base Atk** +8; **CMB** +11; **CMD** 27  
-**Feats** [Dodge](../../rules/feats/dodge.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Spring Attack](../../rules/feats/spring-attack.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Spring Attack](../../rules/feats/spring-attack.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +14, Climb +9, Escape Artist +12, Intimidate +9, Knowledge (planes) +5, Perception +11
 
 **Ecology**

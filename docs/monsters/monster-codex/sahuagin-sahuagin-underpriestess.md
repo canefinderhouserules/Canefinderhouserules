@@ -37,7 +37,7 @@ LE Medium monstrous humanoid (aquatic)
 **Feats** [Brew Potion](../../rules/feats/brew-potion.md), [Combat Casting](../../rules/feats/combat-casting.md), [Toughness](../../rules/feats/toughness.md)  
 **Skills** Handle Animal +3, Knowledge (religion) +11, Perception +13, Ride +4, Sense Motive +13, Spellcraft +11, Swim +16  
 **Languages** Aklo, Aquan, Common; speak with sharks  
-**Combat Gear**  *potion of lesser restoration*, *wand of cure moderate wounds* (11 charges); **Other Gear** *+1 studded leather*, dagger, mwk trident, mwk underwater heavy crossbow<sup>UE</sup> with 10 bolts, gold unholy symbol (worth 100 gp), 317 gp
+**Combat Gear**  *potion of lesser restoration*, *wand of cure moderate wounds* (11 charges); **Other Gear** *+1 studded leather*, dagger, mwk trident, mwk underwater heavy crossbow with 10 bolts, gold unholy symbol (worth 100 gp), 317 gp
 
 **Ecology**
 

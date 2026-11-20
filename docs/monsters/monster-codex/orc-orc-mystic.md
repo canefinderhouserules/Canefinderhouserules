@@ -27,7 +27,7 @@ CE Medium humanoid (orc)
 4/day—copycat (3 rounds), touch of evil (1 rounds)  
 **Cleric Spells Prepared** (CL 3rd; concentration +4)  
 2nd—*bull’s strength*, *invisibility*<sup>D</sup>  
-1st—*bane* (DC 12), *magic weapon*, *murderous command*<sup>UM</sup> (DC 12), *protection from good*<sup>D</sup>  
+1st—*bane* (DC 12), *magic weapon*, *murderous command* (DC 12), *protection from good*<sup>D</sup>  
 0 (at will)—*bleed* (DC 11), *detect magic*, *guidance*, *read magic*  
 **D** domain spell; **Domains** Evil, Trickery
 

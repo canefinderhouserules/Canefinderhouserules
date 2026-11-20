@@ -24,14 +24,14 @@ LE Huge outsider (evil, native)
 **Special Attacks** breath weapon (30-ft. cone, 14d6 fire damage, Reflex DC 29 half, usable every 1d4 rounds), devour soul, powerful jaw, swallow whole (3d6+13 bludgeoning plus 4d6 fire plus wasting curse, AC 20, 29 hp), wasting curse  
 **Spell-Like Abilities** (CL 14th; concentration +23)  
 Constant—*detect evil*, *detect good*, *detect chaos*, *true seeing*  
-3/day—quickened *ear-piercing scream*<sup>UM</sup> (DC 20)  
+3/day—quickened *ear-piercing scream* (DC 20)  
 1/day—*dominate monster*
 
 **Statistics**
 
 **Str** 36, **Dex** 22, **Con** 29, **Int** 11, **Wis** 24, **Cha** 29  
 **Base Atk** +20; **CMB** +35 (+37 bull rush); **CMD** 51 (53 vs. bull rush, 55 vs. trip)  
-**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Critical Focus](../../rules/feats/critical-focus.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Lunge](../../rules/feats/lunge.md), [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability<sup>B</sup> (ear-piercing scream), [Staggering Critical](../../rules/feats/staggering-critical.md)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Critical Focus](../../rules/feats/critical-focus.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Lunge](../../rules/feats/lunge.md), [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (ear-piercing scream), [Staggering Critical](../../rules/feats/staggering-critical.md)  
 **Skills** Climb +24, Intimidate +30, Knowledge (planes) +20, Knowledge (religion) +20, Perception +30, Sense Motive +30, Stealth +21  
 **Languages** Celestial, Infernal; telepathy 100 ft.
 

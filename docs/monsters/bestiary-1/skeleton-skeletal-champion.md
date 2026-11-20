@@ -25,7 +25,7 @@ NE Medium undead
 
 **Str** 17, **Dex** 13, **Con** —, **Int** 9, **Wis** 10, **Cha** 12  
 **Base Atk** +2; **CMB** +5; **CMD** 16  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (longsword)](../../rules/feats/weapon-focus.md)  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Power Attack](../../rules/feats/power-attack.md), [Weapon Focus (longsword)](../../rules/feats/weapon-focus.md)  
 **Skills** Intimidate +7, Perception +6, Stealth –1
 
 **Ecology**

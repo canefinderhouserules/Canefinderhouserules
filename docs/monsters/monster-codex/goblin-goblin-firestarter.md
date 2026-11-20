@@ -34,8 +34,8 @@ NE Small humanoid (goblinoid)
 **Feats** [Dodge](../../rules/feats/dodge.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +13, Climb +8, Disable Device +13, Escape Artist +13, Perception +9, Sleight of Hand +13, Stealth +17, Swim +8  
 **Languages** Goblin  
-**SQ** rogue talents (finesse rogue, surprise attack), trapfinding +2, weapon familiarity<sup>ARG</sup>  
-**Combat Gear**  *+1 flaming arrows* (5), *goblin skull bomb*<sup>UE</sup>, *potion of cure moderate wounds*, *potion of jump*, alchemist’s fire (4), smokesticks (2), thunderstones (2); **Other Gear** mwk studded leather, mwk dogslicers<sup>UE</sup> (2), shortbow with 20 arrows, tindertwigs (4), 64 gp
+**SQ** rogue talents (finesse rogue, surprise attack), trapfinding +2, weapon familiarity  
+**Combat Gear**  *+1 flaming arrows* (5), *goblin skull bomb*, *potion of cure moderate wounds*, *potion of jump*, alchemist’s fire (4), smokesticks (2), thunderstones (2); **Other Gear** mwk studded leather, mwk dogslicers (2), shortbow with 20 arrows, tindertwigs (4), 64 gp
 
 **Ecology**
 

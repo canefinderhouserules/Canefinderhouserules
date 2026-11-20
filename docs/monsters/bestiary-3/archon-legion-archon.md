@@ -31,7 +31,7 @@ At will—*aid*, *continual flame*, *greater teleport* (self plus 50 lbs. of obj
 
 **Str** 16, **Dex** 12, **Con** 19, **Int** 10, **Wis** 15, **Cha** 17  
 **Base Atk** +8; **CMB** +11; **CMD** 22  
-**Feats** [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (greatsword)<sup>B</sup>](../../rules/feats/improved-critical.md), [Power Attack](../../rules/feats/power-attack.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (greatsword)](../../rules/feats/weapon-focus.md), [Whirlwind Attack<sup>B</sup>](../../rules/feats/whirlwind-attack.md)  
+**Feats** [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (greatsword)](../../rules/feats/improved-critical.md), [Power Attack](../../rules/feats/power-attack.md), [Vital Strike](../../rules/feats/vital-strike.md), [Weapon Focus (greatsword)](../../rules/feats/weapon-focus.md), [Whirlwind Attack](../../rules/feats/whirlwind-attack.md)  
 **Skills** Diplomacy +14, Fly +12, Intimidate +14, Knowledge (religion) +11, Perception +13, Sense Motive +9, Survival +9  
 **Languages** Celestial, Draconic, Infernal; truespeech  
 **SQ** second skin

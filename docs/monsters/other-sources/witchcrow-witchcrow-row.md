@@ -22,14 +22,14 @@ CE Tiny magical beast
 **Space** 2-1/2 ft., **Reach** 5 ft.  
 **Spell-Like Abilities** (CL 3rd; concentration +4; save DCs are Intelligence-based)  
 Constant—*detect magic*, *speak with animals* (birds only)  
-3/day—*perceive cues*<sup>APG</sup>, *vanish*<sup>APG</sup>, *ventriloquism* (DC 12)  
-1/day—*ill omen*<sup>APG</sup>, *mirror image*
+3/day—*perceive cues*, *vanish*, *ventriloquism* (DC 12)  
+1/day—*ill omen*, *mirror image*
 
 **Statistics**
 
 **Str** 8, **Dex** 15, **Con** 8, **Int** 13, **Wis** 12, **Cha** 11  
 **Base Atk** +3; **CMB** +3 (+5 steal); **CMD** 12 (14 vs. steal)  
-**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), Flyby Attack<sup>B</sup>, [Improved Steal](../../rules/feats/improved-steal.md)  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), Flyby Attack, [Improved Steal](../../rules/feats/improved-steal.md)  
 **Skills** Fly +15, Knowledge (arcana) +2, Perception +6, Sleight of Hand +11, Spellcraft +3, Stealth +14; **Racial Modifiers** +8 Sleight of Hand  
 **Languages** Aklo, Common; *speak with animals* (birds only)
 

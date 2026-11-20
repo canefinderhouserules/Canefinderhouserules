@@ -25,7 +25,7 @@ N Small outsider (earth, elemental, extraplanar)
 
 **Str** 16, **Dex** 8, **Con** 13, **Int** 4, **Wis** 11, **Cha** 11  
 **Base Atk** +2; **CMB** +4; **CMD** 13  
-**Feats** [Improved Bull Rush<sup>B</sup>](../../rules/feats/improved-bull-rush.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Power Attack](../../rules/feats/power-attack.md)  
 **Skills** Appraise +1, Climb +7, Knowledge (dungeoneering) +1, Knowledge (planes) +1, Perception +4, Stealth +7
 
 **Ecology**

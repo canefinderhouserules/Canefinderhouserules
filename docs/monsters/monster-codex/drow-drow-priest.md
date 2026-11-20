@@ -29,9 +29,9 @@ At will—*dancing lights*, *deeper darkness*, *faerie fire*, *feather fall*, *l
 **Domain Spell-Like Abilities** (CL 5th; concentration +9)  
 7/day—touch of evil (2 rounds)  
 **Cleric Spells Prepared** (CL 5th; concentration +9)  
-3rd—*chain of perdition*<sup>UC</sup>, *dispel magic*<sup>D</sup>, *protection from energy*  
-2nd—*align weapon*<sup>D</sup> (evil only), *dread bolt*<sup>UM</sup> (DC 16), *hold person* (DC 16), *spiritual weapon*  
-1st—*cure light wounds*, *entropic shield*, *murderous command*<sup>UM</sup> (DC 15), *protection from good*<sup>D</sup>, *shield of faith*  
+3rd—*chain of perdition*, *dispel magic*<sup>D</sup>, *protection from energy*  
+2nd—*align weapon*<sup>D</sup> (evil only), *dread bolt* (DC 16), *hold person* (DC 16), *spiritual weapon*  
+1st—*cure light wounds*, *entropic shield*, *murderous command* (DC 15), *protection from good*<sup>D</sup>, *shield of faith*  
 0 (at will)—*bleed* (DC 14), *detect magic*, *detect poison*, *read magic*  
 **D** domain spell; **Domains** Evil, Magic
 

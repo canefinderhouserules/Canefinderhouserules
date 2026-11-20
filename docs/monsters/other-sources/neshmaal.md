@@ -25,7 +25,7 @@ CE Large outsider (extraplanar, incorporeal)
 **Special Attacks** energy drain (1 level, DC 23), kiss of the void  
 **Spell-Like Abilities** (CL 14th; concentration +21)  
 Constant—*endure elements*  
-3/day—*confusion* (DC 21), *control summoned creature*<sup>UM</sup> (DC 21)  
+3/day—*confusion* (DC 21), *control summoned creature* (DC 21)  
 1/day—*dominate person* (DC 22)
 
 **Statistics**

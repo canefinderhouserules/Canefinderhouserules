@@ -48,12 +48,12 @@ CE Medium undead (incorporeal)
 
  *Aether*: *Dispel magic*, *calm emotions* (DC 14).  
  *Alcohol*: *Hideous laughter* (DC 14), *suggestion* (DC 15).  
- *Dwarven Fire Ale*: *Fire breath*<sup>APG</sup> (DC 14), *protection from energy*.  
- *Elven Absinthe*: *Eagle’s splendor*, *reckless infatuation*<sup>UM</sup> (DC 15).  
+ *Dwarven Fire Ale*: *Fire breath* (DC 14), *protection from energy*.  
+ *Elven Absinthe*: *Eagle’s splendor*, *reckless infatuation* (DC 15).  
  *Flayleaf*: *Hold person* (DC 15), *slow* (DC 15).  
  *Opium*: *Ray of exhaustion* (DC 15), *touch of idiocy*.  
- *Pesh*: *Displacement*, *mad hallucination*<sup>UM</sup> (DC 14).  
- *Scour*: *Cat’s grace*, *vision of hell*<sup>UM</sup> (DC 15).  
+ *Pesh*: *Displacement*, *mad hallucination* (DC 14).  
+ *Scour*: *Cat’s grace*, *vision of hell* (DC 15).  
  *Shiver*: *Daze monster* (DC 14), *deep slumber* (DC 15).  
  *Zerk*: *Blur*, *haste*.
 

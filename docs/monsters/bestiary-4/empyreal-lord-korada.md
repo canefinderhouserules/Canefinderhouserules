@@ -25,7 +25,7 @@ NG Large outsider (agathion, extraplanar, good)
 **Spell-Like Abilities** (CL 20th; concentration +34)  
 Constant—*detect evil*, *detect thoughts*, *foresight**, *sanctuary** (DC 25), *water walk*  
 At will—*augury*, *bless**, *calm animals* (DC 25), *calm emotions* (DC 26), *cure serious wounds**, *greater teleport*, *mirror image**  
-3/day—*divination*, *mad monkeys*<sup>UM</sup>, quickened *mirror image**, *neutralize poison*, *true seeing*, *wall of force**  
+3/day—*divination*, *mad monkeys*, quickened *mirror image**, *neutralize poison*, *true seeing*, *wall of force**  
 1/day—*antimagic field*, *moment of prescience*  
 * Korada can use the mythic version of this ability in his realm.
 
@@ -33,7 +33,7 @@ At will—*augury*, *bless**, *calm animals* (DC 25), *calm emotions* (DC 26), *
 
 **Str** 26, **Dex** 30, **Con** 33, **Int** 25, **Wis** 35, **Cha** 38  
 **Base Atk** +32; **CMB** +41 (+43 disarm or grapple, +45 trip); **CMD** 84 (86 vs. disarm, grapple, or trip)  
-**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Greater Trip](../../rules/feats/greater-trip.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Grapple](../../rules/feats/improved-grapple.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Trip](../../rules/feats/improved-trip.md), [Improved Unarmed Strike<sup>B</sup>](../../rules/feats/improved-unarmed-strike.md), [Lunge](../../rules/feats/lunge.md), [Mobility](../../rules/feats/mobility.md), Quicken Spell-Like Ability (*mirror image*), [Scorpion Style](../../rules/feats/scorpion-style.md), [Snatch Arrows](../../rules/feats/snatch-arrows.md), [Spring Attack](../../rules/feats/spring-attack.md), [Step Up](../../rules/feats/step-up.md), [Stunning Fist<sup>B</sup>](../../rules/feats/stunning-fist.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Combat Expertise](../../rules/feats/combat-expertise.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Dodge](../../rules/feats/dodge.md), [Greater Trip](../../rules/feats/greater-trip.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Grapple](../../rules/feats/improved-grapple.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Trip](../../rules/feats/improved-trip.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Lunge](../../rules/feats/lunge.md), [Mobility](../../rules/feats/mobility.md), Quicken Spell-Like Ability (*mirror image*), [Scorpion Style](../../rules/feats/scorpion-style.md), [Snatch Arrows](../../rules/feats/snatch-arrows.md), [Spring Attack](../../rules/feats/spring-attack.md), [Step Up](../../rules/feats/step-up.md), [Stunning Fist](../../rules/feats/stunning-fist.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +44 (+68 when jumping), Bluff +32, Climb +50, Diplomacy +45, Disguise +32, Escape Artist +26, Fly +8, Heal +27, Knowledge (arcana, geography, history, nature) +23, Knowledge (local) +22, Knowledge (planes, religion) +41, Perception +46, Sense Motive +46, Spellcraft +22, Stealth +40; **Racial Modifiers** +24 Acrobatics when jumping  
 **Languages** Celestial, Infernal; *speak with animals*, *truespeech*  
 **SQ** abundant step, change shape (avoral or any humanoid, *shapechange*), combat style master, empyreal lord traits, ki pool (22 points; adamantine, epic, good, lawful, magic, mythic, silver), lay on hands (15d6, 29/day), seed of life, tranquil master
@@ -46,7 +46,7 @@ At will—*augury*, *bless**, *calm animals* (DC 25), *calm emotions* (DC 26), *
 
 **Special Abilities**
 
-**Combat Style Master (Ex)** Korada can attack with unarmed strikes and perform flurry of blows as a 20th-level monk. Like a monk, he adds his Wisdom bonus to his AC and CMD. As a swift action, Korada may enter the basic stance of any combat style feat (such as Crane Style<sup>UC</sup>, Monkey Style<sup>UC</sup>, and so on) as if he had the first feat in the feat path for that combat style. By expending 2 points of ki, he may use any two feats from his current combat style’s feat path for the next minute; if he changes his stance, the previous stance’s feats become unavailable but he may use feats from the new stance.
+**Combat Style Master (Ex)** Korada can attack with unarmed strikes and perform flurry of blows as a 20th-level monk. Like a monk, he adds his Wisdom bonus to his AC and CMD. As a swift action, Korada may enter the basic stance of any combat style feat (such as Crane Style, Monkey Style, and so on) as if he had the first feat in the feat path for that combat style. By expending 2 points of ki, he may use any two feats from his current combat style’s feat path for the next minute; if he changes his stance, the previous stance’s feats become unavailable but he may use feats from the new stance.
 
 **Primal Aura (Su)** Korada’s primal aura radiates calm and tranquility, automatically suppressing any non-mythic charm or compulsion effect on any creature within its area. Any creature in his aura (including him) can deal nonlethal damage with weapons without taking the –4 penalty on attack rolls for doing so.
 

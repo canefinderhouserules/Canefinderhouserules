@@ -5,7 +5,7 @@
 ## Changeling (CR 1/2)
 
 **XP** 200  
-Female changeling witch<sup>APG</sup> 1  
+Female changeling witch 1  
 LN Medium humanoid (changeling)  
 **Init** –1; **Senses** darkvision 60 ft.; Perception +2
 

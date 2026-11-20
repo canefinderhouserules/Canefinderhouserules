@@ -27,7 +27,7 @@ LE Small humanoid (reptilian)
 
 **Str** 12, **Dex** 12, **Con** 12, **Int** 12, **Wis** 13, **Cha** 8  
 **Base Atk** +7; **CMB** +7; **CMD** 18  
-**Feats** [Draconic Aspect<sup>ARG</sup> (blue)](../../rules/feats/draconic-aspect.md), [Draconic Breath<sup>ARG</sup>](../../rules/feats/draconic-breath.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Mounted Combat](../../rules/feats/mounted-combat.md), [Shield Wall<sup>APG</sup>](../../rules/feats/shield-wall.md), [Weapon Focus (lance)](../../rules/feats/weapon-focus.md)  
+**Feats** [Draconic Aspect (blue)](../../rules/feats/draconic-aspect.md), [Draconic Breath](../../rules/feats/draconic-breath.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Mounted Combat](../../rules/feats/mounted-combat.md), [Shield Wall](../../rules/feats/shield-wall.md), [Weapon Focus (lance)](../../rules/feats/weapon-focus.md)  
 **Skills** Craft (trapmaking) +3, Handle Animal +9, Perception +13, Profession (miner) +3, Ride +5, Stealth +9, Swim +5  
 **Languages** Common, Draconic  
 **SQ** crafty, expert trainer +3, mount (cave salamander), order of the dragon (aid allies), tactician (2/day, 6 rounds, standard action)  

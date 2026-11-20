@@ -30,7 +30,7 @@ Constant—*detect magic*, *floating disk*, *mage armor*, *resist energy* (one a
 
 **Str** 16, **Dex** 15, **Con** 17, **Int** 18, **Wis** 13, **Cha** 20  
 **Base Atk** +8; **CMB** +11 (+15 grapple); **CMD** 23  
-**Feats** [Deflect Arrows<sup>B</sup>](../../rules/feats/deflect-arrows.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Persuasive](../../rules/feats/persuasive.md)  
+**Feats** [Deflect Arrows](../../rules/feats/deflect-arrows.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Persuasive](../../rules/feats/persuasive.md)  
 **Skills** Appraise +12, Bluff +13, Diplomacy +11, Intimidate +18, Knowledge (arcana) +12, Knowledge (geography) +12, Knowledge (planes) +12, Perception +8, Sense Motive +5, Use Magic Device +9  
 **Languages** Common, Draconic, one or more planar languages; *tongues*
 

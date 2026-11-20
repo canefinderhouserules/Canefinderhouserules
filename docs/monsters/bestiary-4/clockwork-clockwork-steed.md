@@ -27,7 +27,7 @@ N Large construct (clockwork)
 
 **Str** 24, **Dex** 13, **Con** —, **Int** —, **Wis** 10, **Cha** 1  
 **Base Atk** +8; **CMB** +16; **CMD** 29 (33 vs. trip)  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Lightning Reflexes<sup>B</sup>](../../rules/feats/lightning-reflexes.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)  
 **SQ** difficult to create, swift reactions, winding
 
 **Ecology**

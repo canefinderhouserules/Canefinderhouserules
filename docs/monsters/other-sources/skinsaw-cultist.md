@@ -24,7 +24,7 @@ NE Medium humanoid (human)
 6/day—bleeding touch (1 rounds)  
 **Cleric Spells Prepared** (CL 3rd; concentration +6)  
 2nd—*invisibility*<sup>D</sup>, *mirror image*, *undetectable alignment*  
-1st—*disguise self*<sup>D</sup>, *murderous command*<sup>UM</sup> (DC 15), *protection from good*, *shield of faith*  
+1st—*disguise self*<sup>D</sup>, *murderous command* (DC 15), *protection from good*, *shield of faith*  
 0 (at will)—*bleed* (DC 13), *detect magic*, *guidance*, *resistance*  
 **D** Domain spell; **Domains** Death, Deception
 
@@ -36,7 +36,7 @@ NE Medium humanoid (human)
 **Skills** Bluff +3, Disguise +4, Spellcraft +3, Stealth +5  
 **Languages** Common  
 **SQ** aura  
-**Combat Gear**  *oil of magic weapon*, *potions of cure light wounds* (2), *scroll of death knell*, *scroll of owl’s wisdom*; **Other Gear** *+1 leather armor*, mwk war razor<sup>ISWG</sup>, leather skinsaw mask (unholy symbol), 30 gp
+**Combat Gear**  *oil of magic weapon*, *potions of cure light wounds* (2), *scroll of death knell*, *scroll of owl’s wisdom*; **Other Gear** *+1 leather armor*, mwk war razor, leather skinsaw mask (unholy symbol), 30 gp
 
 Skinsaw cultists are insane murderers performing what they consider unholy sacrifices to their god the god of murder and secrets. This splinter cult of serial killers originated in the Infernal Empire city of Vyre, but has since spread throughout the known world. Any place the god of murder and secrets’s dark followers are found, one could expect at least one who follows the aspect of Father Skinsaw.
 

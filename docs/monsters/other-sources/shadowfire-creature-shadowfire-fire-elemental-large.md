@@ -22,7 +22,7 @@ N Large outsider (elemental, extraplanar, fire)
 **Space** 10 ft., **Reach** 10 ft.  
 **Special Attacks** burn (1d8 fire, DC 16), shadow touch (1d6 negative energy)  
 **Spell-Like Abilities** (CL 8; concentration +10)  
-1/day—*shadow step*<sup>UM</sup>
+1/day—*shadow step*
 
 **Statistics**
 

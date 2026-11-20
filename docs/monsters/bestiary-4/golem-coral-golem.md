@@ -26,7 +26,7 @@ N Large construct
 
 **Str** 24, **Dex** 11, **Con** —, **Int** —, **Wis** 11, **Cha** 1  
 **Base Atk** +12; **CMB** +20; **CMD** 30  
-**Feats** [Improved Critical<sup>B</sup> (claw)](../../rules/feats/improved-critical.md)  
+**Feats** [Improved Critical (claw)](../../rules/feats/improved-critical.md)  
 **SQ** aquatic reconstruction, powerful blows (slam)
 
 **Ecology**

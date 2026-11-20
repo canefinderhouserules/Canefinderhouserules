@@ -28,7 +28,7 @@ N Medium humanoid (mythic, udaeus)
 
 **Str** 17, **Dex** 13, **Con** 16, **Int** 10, **Wis** 12, **Cha** 9  
 **Base Atk** +3; **CMB** +6; **CMD** 17  
-**Feats** [Endurance<sup>B</sup>](../../rules/feats/endurance.md), [Weapon Focus<sup>M</sup> (shortspear)](../../rules/feats/weapon-focus.md), [Weapon Specialization (shortspear)](../../rules/feats/weapon-specialization.md)  
+**Feats** [Endurance](../../rules/feats/endurance.md), [Weapon Focus<sup>M</sup> (shortspear)](../../rules/feats/weapon-focus.md), [Weapon Specialization (shortspear)](../../rules/feats/weapon-specialization.md)  
 **Skills** Intimidate +3, Perception +5  
 **Languages** Celestial, Common  
 **SQ** armor and weapon training, fighter training

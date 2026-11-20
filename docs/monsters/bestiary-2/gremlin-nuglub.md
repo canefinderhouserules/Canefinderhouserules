@@ -27,7 +27,7 @@ At will—*prestidigitation*
 
 **Str** 13, **Dex** 18, **Con** 15, **Int** 8, **Wis** 9, **Cha** 12  
 **Base Atk** +1; **CMB** +1 (+5 grapple and trip); **CMD** 15  
-**Feats** [Step Up](../../rules/feats/step-up.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Weapon Focus (claw)](../../rules/feats/weapon-focus.md)  
+**Feats** [Step Up](../../rules/feats/step-up.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (claw)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +10, Climb +9, Craft (traps) +9, Intimidate +8, Perception +9, Stealth +14; **Racial Modifiers** +4 Craft (traps), +4 Intimidate, +4 Perception  
 **Languages** Undercommon  
 **SQ** kneecapper

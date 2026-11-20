@@ -37,7 +37,7 @@ CE Medium humanoid (elf)
 **Feats** [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Weapon Focus (short sword)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +15, Climb +10, Disable Device +13, Knowledge (dungeoneering) +9, Knowledge (geography) +2, Knowledge (local) +7, Linguistics +5, Perception +14, Sense Motive +9, Stealth +15, Survival +7, Swim +9  
 **Languages** Common, Dwarven, Elven, Undercommon  
-**SQ** poison use, rogue talents (bleeding attack +4, fast stealth, sniper’s eye<sup>APG</sup>, surprise attack)  
+**SQ** poison use, rogue talents (bleeding attack +4, fast stealth, sniper’s eye, surprise attack)  
 **Combat Gear**  *+1 flaming arrows* (4), *+1 frost arrows* (4), *+1 shock arrows* (4), *potion of cat’s grace*, *potion of cure moderate wounds*, *potion of invisibility*, drow poison (4); **Other Gear** *+1 studded leather*, *+1 composite shortbow* with 20 arrows, mwk short sword, *ring of protection +1*, 136 gp
 
 **Ecology**

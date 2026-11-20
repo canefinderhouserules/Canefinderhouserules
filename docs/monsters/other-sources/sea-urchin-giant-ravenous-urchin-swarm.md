@@ -26,7 +26,7 @@ NE Tiny vermin (aquatic, swarm)
 
 **Str** 1, **Dex** 13, **Con** 10, **Int** —, **Wis** 13, **Cha** 9  
 **Base Atk** +3; **CMB** +2; **CMD** 7 (can’t be tripped)  
-**Feats** [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Acrobatics +9, Swim +3; **Racial Modifiers** Acrobatics +8  
 **SQ** amphibious
 

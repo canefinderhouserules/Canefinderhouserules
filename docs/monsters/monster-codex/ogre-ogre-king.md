@@ -26,9 +26,9 @@ CE Large humanoid (giant)
 5th (5/day)—*breath of life*, *mass inflict light wounds*, *righteous might*, *wall of stone* (DC 18)  
 4th (6/day)—*air walk*, *cure critical wounds*, *greater magic weapon*, *inflict critical wounds*, *wall of fire*  
 3rd (7/day)—*cure serious wounds*, *dispel magic*, *inflict serious wounds*, *magic vestment*, *prayer*  
-2nd (7/day)—*aid*, *bull’s strength*, *cure moderate wounds*, *fog cloud*, *grace*<sup>APG</sup>, *inflict moderate wounds*, *resist energy*  
+2nd (7/day)—*aid*, *bull’s strength*, *cure moderate wounds*, *fog cloud*, *grace*, *inflict moderate wounds*, *resist energy*  
 1st (7/day)—*cure light wounds*, *divine favor*, *enlarge person* (DC 14), *entropic shield*, *inflict light wounds*, *obscuring mist*, *protection from good*  
-0 (at will)—*bleed* (DC 13), *create water*, *detect magic*, *guidance*, *mending*, *purify food and drink*, *spark*<sup>APG</sup>, *stabilize*, *virtue*  
+0 (at will)—*bleed* (DC 13), *create water*, *detect magic*, *guidance*, *mending*, *purify food and drink*, *spark*, *stabilize*, *virtue*  
 **Mystery** battle
 
 **Tactics**

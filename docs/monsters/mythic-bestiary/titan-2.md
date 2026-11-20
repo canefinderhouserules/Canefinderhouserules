@@ -26,7 +26,7 @@ CE Colossal outsider (chaotic, evil, extraplanar, mythic)
 Constant—*air walk*, *mind blank*, *true seeing*  
 At will—*break enchantment*, *divination*, *greater dispel magic*, *sending*  
 3/day—*disintegrate* (DC 24), *greater scrying* (DC 25), *heal*, *mass suggestion* (DC 24)  
-1/day—*cursed earth*<sup>UM</sup>, *greater planar ally*, *mage’s disjunction* (DC 27), *spell turning*, *wish*
+1/day—*cursed earth*, *greater planar ally*, *mage’s disjunction* (DC 27), *spell turning*, *wish*
 
 **Statistics**
 

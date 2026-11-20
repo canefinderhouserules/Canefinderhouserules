@@ -32,7 +32,7 @@ At will—*crushing despair* (DC 21), *detect magic*, *dispel magic*, *eyebite* 
 
 **Str** 30, **Dex** 17, **Con** 32, **Int** 15, **Wis** 24, **Cha** 25  
 **Base Atk** +23; **CMB** +37 (+41 grapple); **CMD** 50  
-**Feats** [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Blind-Fight](../../rules/feats/blind-fight.md), [Cleave](../../rules/feats/cleave.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Critical Focus](../../rules/feats/critical-focus.md), [Dazing Assault<sup>APG</sup>](../../rules/feats/dazing-assault.md), [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Improved Critical (slam)](../../rules/feats/improved-critical.md), [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (*mind fog*), [Vital Strike](../../rules/feats/vital-strike.md)  
+**Feats** [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Blind-Fight](../../rules/feats/blind-fight.md), [Cleave](../../rules/feats/cleave.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Critical Focus](../../rules/feats/critical-focus.md), [Dazing Assault](../../rules/feats/dazing-assault.md), [Improved Critical (bite)](../../rules/feats/improved-critical.md), [Improved Critical (slam)](../../rules/feats/improved-critical.md), [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), Quicken Spell-Like Ability (*mind fog*), [Vital Strike](../../rules/feats/vital-strike.md)  
 **Skills** Bluff +33, Climb +28, Diplomacy +25, Intimidate +33, Knowledge (planes) +28, Knowledge (religion) +21, Perception +33, Sense Motive +33, Spellcraft +25  
 **Languages** Abyssal, Aklo, Common; telepathy 300 ft.
 

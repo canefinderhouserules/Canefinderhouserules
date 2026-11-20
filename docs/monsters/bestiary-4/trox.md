@@ -30,7 +30,7 @@ CN Large monstrous humanoid
 
 **Str** 25, **Dex** 13, **Con** 18, **Int** 8, **Wis** 10, **Cha** 6  
 **Base Atk** +1; **CMB** +9 (+11 grapple); **CMD** 18 (20 vs. grapple)  
-**Feats** [Improved Grapple<sup>B</sup>](../../rules/feats/improved-grapple.md), [Power Attack](../../rules/feats/power-attack.md)  
+**Feats** [Improved Grapple](../../rules/feats/improved-grapple.md), [Power Attack](../../rules/feats/power-attack.md)  
 **Skills** Climb +11, Intimidate +2, Survival +4  
 **Languages** Terran  
 **SQ** fast movement, grabbing appendages

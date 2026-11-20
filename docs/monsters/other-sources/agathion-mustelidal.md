@@ -23,8 +23,8 @@ NG Medium outsider (agathion, extraplanar, good)
 **Special Attacks** reckless bravura  
 **Spell-Like Abilities** (CL 18th; concentration +20)  
 Constant—*speak with animals*  
-At will—*soften earth and stone*, *thunderstomp*<sup>ACG</sup>  
-3/day—*meld into stone*, *stone call*<sup>APG</sup>, *stone shape*  
+At will—*soften earth and stone*, *thunderstomp*  
+3/day—*meld into stone*, *stone call*, *stone shape*  
 1/day—*summon monster V* (Large earth elemental only)
 
 **Statistics**

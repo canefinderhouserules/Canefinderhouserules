@@ -25,7 +25,7 @@ N Medium construct
 
 **Str** 15, **Dex** 12, **Con** —, **Int** —, **Wis** 10, **Cha** 10  
 **Base Atk** +1; **CMB** +3; **CMD** 14  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md)  
 **SQ** freeze (wax sculpture)
 
 **Ecology**

@@ -29,7 +29,7 @@ At will—*charm person* (DC 16), *dancing lights*, *ghost sound* (DC 15), *slee
 
 **Str** 18, **Dex** 15, **Con** 19, **Int** 12, **Wis** 14, **Cha** 21  
 **Base Atk** +4; **CMB** +8; **CMD** 21  
-**Feats** [Dodge](../../rules/feats/dodge.md), [Mobility](../../rules/feats/mobility.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
+**Feats** [Dodge](../../rules/feats/dodge.md), [Mobility](../../rules/feats/mobility.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Bluff +16, Diplomacy +16, Disguise +10, Intimidate +10, Knowledge (nature) +12, Perception +20, Perform (wind) +20, Stealth +19, Survival +7; **Racial Modifiers** +2 Knowledge (nature), +6 Perception, +4 Perform (wind), +6 Stealth  
 **Languages** Common, Sylvan  
 **SQ** Cyth-V’sug’s unity, tainted blood

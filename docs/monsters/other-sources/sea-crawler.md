@@ -24,7 +24,7 @@ N Medium animal
 
 **Str** 11, **Dex** 15, **Con** 13, **Int** 2, **Wis** 12, **Cha** 6  
 **Base Atk** +1; **CMB** +1; **CMD** 13  
-**Feats** Multiattack, [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** Multiattack, [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Climb +8, Perception +6, Swim +8  
 **SQ** regrowth
 

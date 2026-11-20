@@ -27,7 +27,7 @@ N Large monstrous humanoid
 
 **Str** 20, **Dex** 16, **Con** 22, **Int** 9, **Wis** 16, **Cha** 12  
 **Base Atk** +15; **CMB** +21; **CMD** 35 (39 vs. trip)  
-**Feats** [Acrobatic Steps](../../rules/feats/acrobatic-steps.md), [Cavalry Formation<sup>UC</sup>](../../rules/feats/cavalry-formation.md), [Dazzling Display<sup>B</sup>](../../rules/feats/dazzling-display.md), [Lookout<sup>APG</sup>](../../rules/feats/lookout.md), [Nimble Moves](../../rules/feats/nimble-moves.md), [Power Attack](../../rules/feats/power-attack.md), [Quick Draw](../../rules/feats/quick-draw.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), [Spirited Charge](../../rules/feats/spirited-charge.md), [Weapon Focus (lance)](../../rules/feats/weapon-focus.md), [Weapon Focus (hooves)](../../rules/feats/weapon-focus.md)  
+**Feats** [Acrobatic Steps](../../rules/feats/acrobatic-steps.md), [Cavalry Formation](../../rules/feats/cavalry-formation.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Lookout](../../rules/feats/lookout.md), [Nimble Moves](../../rules/feats/nimble-moves.md), [Power Attack](../../rules/feats/power-attack.md), [Quick Draw](../../rules/feats/quick-draw.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), [Spirited Charge](../../rules/feats/spirited-charge.md), [Weapon Focus (lance)](../../rules/feats/weapon-focus.md), [Weapon Focus (hooves)](../../rules/feats/weapon-focus.md)  
 **Skills** Acrobatics +13 (+25 when jumping), Bluff +10, Intimidate +13, Knowledge (nature) +3, Perception +10, Sense Motive +11, Survival +11  
 **Languages** Common, Elven, Sylvan  
 **SQ** courser, greater tactician (3/day, 8 rounds, swift action), natural mount, order of the cockatrice (braggart, steal glory), undersized weapons  

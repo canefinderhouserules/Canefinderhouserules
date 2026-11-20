@@ -26,7 +26,7 @@ CE Large outsider (chaotic, evil, extraplanar)
 
 **Str** 33, **Dex** 19, **Con** 30, **Int** 17, **Wis** 26, **Cha** 14  
 **Base Atk** +15; **CMB** +27 (+31 bull rush); **CMD** 41 (43 vs. bull rush)  
-**Feats** Awesome Blow, [Cleave](../../rules/feats/cleave.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (greataxe)](../../rules/feats/improved-critical.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md), [Quick Bull Rush<sup>UC</sup>](../../rules/feats/quick-bull-rush.md)  
+**Feats** Awesome Blow, [Cleave](../../rules/feats/cleave.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Critical (greataxe)](../../rules/feats/improved-critical.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md), [Quick Bull Rush](../../rules/feats/quick-bull-rush.md)  
 **Skills** Climb +24, Craft (armor) +21, Craft (weapons) +21, Heal +18, Intimidate +31, Knowledge (engineering) +21, Knowledge (planes) +21, Perception +26, Sense Motive +26, Survival +21  
 **Languages** Abyssal, Common, Giant  
 **SQ** compression

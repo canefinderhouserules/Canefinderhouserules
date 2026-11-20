@@ -23,10 +23,10 @@ N Huge outsider (extraplanar, mythic)
 **Special Attacks** breath weapon (60-ft. cone, 20d8 electricity, Reflex DC 32 half, usable every 1d4 rounds), constrict (2d8+10), mythic magic, mythic power (6/day, surge +1d8)  
 **Spell-Like Abilities** (CL 23rd; concentration +30)  
 Constant—*deathwatch*, *mind blank*, *speak with animals*  
-At will—*baleful polymorph* (DC 22), *charm monster* (DC 21), *etherealness*, *rest eternal*<sup>APG</sup>, *shapechange*, *stone shape*, *greater teleport* (self plus 50 lbs. of objects only)  
-5/day—*control weather*, *greater dispel magic*, *greater polymorph*, *heal*, *plane shift* (DC 24), *terraform*<sup>MA</sup>  
+At will—*baleful polymorph* (DC 22), *charm monster* (DC 21), *etherealness*, *rest eternal*, *shapechange*, *stone shape*, *greater teleport* (self plus 50 lbs. of objects only)  
+5/day—*control weather*, *greater dispel magic*, *greater polymorph*, *heal*, *plane shift* (DC 24), *terraform*  
 3/day—*circle of death* (DC 23), *disintegrate* (DC 23), *power word stun*  
-1/day—*create demiplane*<sup>UM</sup>, *mage’s disjunction*
+1/day—*create demiplane*, *mage’s disjunction*
 
 **Statistics**
 

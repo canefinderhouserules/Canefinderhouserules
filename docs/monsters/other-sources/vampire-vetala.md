@@ -32,7 +32,7 @@ NE Medium undead (augmented humanoid, human)
 
 **Str** 18, **Dex** 15, **Con** —, **Int** 16, **Wis** 12, **Cha** 22  
 **Base Atk** +3; **CMB** +7; **CMD** 20  
-**Feats** [Alertness<sup>B</sup>](../../rules/feats/alertness.md), [Blind-Fight<sup>B</sup>](../../rules/feats/blind-fight.md), [Combat Casting](../../rules/feats/combat-casting.md), [Deceitful<sup>B</sup>](../../rules/feats/deceitful.md), [Dodge](../../rules/feats/dodge.md), [Extra Revelation](../../rules/feats/extra-revelation.md), [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md), [Mobility](../../rules/feats/mobility.md), [Skill Focus (Disguise)<sup>B</sup>](../../rules/feats/skill-focus.md)  
+**Feats** [Alertness](../../rules/feats/alertness.md), [Blind-Fight](../../rules/feats/blind-fight.md), [Combat Casting](../../rules/feats/combat-casting.md), [Deceitful](../../rules/feats/deceitful.md), [Dodge](../../rules/feats/dodge.md), [Extra Revelation](../../rules/feats/extra-revelation.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Mobility](../../rules/feats/mobility.md), [Skill Focus (Disguise)](../../rules/feats/skill-focus.md)  
 **Skills** Bluff +16, Climb +10, Diplomacy +14, Disguise +27, Knowledge (religion) +11, Perception +16, Sense Motive +19, Spellcraft +11, Stealth +16; **Racial Modifiers** +8 Disguise, +8 Perception, +8 Sense Motive, +8 Stealth  
 **Languages** Common, Infernal, Far Eastern  
 **SQ** oracle’s curse (haunted), revelations (death’s touch, undead servitude, voice of the grave)

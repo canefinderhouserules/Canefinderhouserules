@@ -30,7 +30,7 @@ LE Medium humanoid (dwarf)
 
 **Str** 16, **Dex** 14, **Con** 16, **Int** 8, **Wis** 14, **Cha** 6  
 **Base Atk** +11; **CMB** +14; **CMD** 29 (33 vs. bull rush, 33 vs. trip)  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Diehard](../../rules/feats/diehard.md), [Dodge](../../rules/feats/dodge.md), [Endurance](../../rules/feats/endurance.md), [Exotic Weapon Proficiency (bastard sword)](../../rules/feats/exotic-weapon-proficiency.md), [Quick Draw](../../rules/feats/quick-draw.md), [Stalwart<sup>UC</sup>](../../rules/feats/stalwart.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (bastard sword)](../../rules/feats/weapon-focus.md), [Weapon Specialization (bastard sword)](../../rules/feats/weapon-specialization.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Diehard](../../rules/feats/diehard.md), [Dodge](../../rules/feats/dodge.md), [Endurance](../../rules/feats/endurance.md), [Exotic Weapon Proficiency (bastard sword)](../../rules/feats/exotic-weapon-proficiency.md), [Quick Draw](../../rules/feats/quick-draw.md), [Stalwart](../../rules/feats/stalwart.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (bastard sword)](../../rules/feats/weapon-focus.md), [Weapon Specialization (bastard sword)](../../rules/feats/weapon-specialization.md)  
 **Skills** Intimidate +7, Perception +10, Stealth +2; **Racial Modifiers** +4 Stealth  
 **Languages** Common, Dwarven, Undercommon  
 **SQ** armor training 2, defensive powers (bulwark, halting blow), defensive stance  

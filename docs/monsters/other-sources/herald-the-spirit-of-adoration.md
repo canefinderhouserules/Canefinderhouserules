@@ -30,7 +30,7 @@ At will—*calm emotions* (DC 18), *good hope*, *cure moderate wounds*, *telepor
 
 **Str** 18, **Dex** 19, **Con** 22, **Int** 19, **Wis** 22, **Cha** 23  
 **Base Atk** +16; **CMB** +21 (+23 sunder); **CMD** 42 (44 vs. sunder)  
-**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Dodge](../../rules/feats/dodge.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Improved Sunder<sup>B</sup>](../../rules/feats/improved-sunder.md), [Iron Will<sup>B</sup>](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Step Up](../../rules/feats/step-up.md), [Weapon Focus (glaive)](../../rules/feats/weapon-focus.md), [Wind Stance](../../rules/feats/wind-stance.md)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Dodge](../../rules/feats/dodge.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Iron Will](../../rules/feats/iron-will.md), [Mobility](../../rules/feats/mobility.md), [Skill Focus (Perception)](../../rules/feats/skill-focus.md), [Step Up](../../rules/feats/step-up.md), [Weapon Focus (glaive)](../../rules/feats/weapon-focus.md), [Wind Stance](../../rules/feats/wind-stance.md)  
 **Skills** Acrobatics +12, Bluff +17, Diplomacy +17, Disguise +14, Fly +17, Handle Animal +14, Heal +14, Intimidate +17, Knowledge (religion) +12, Perception +31, Perform (dance) +22, Sense Motive +25, Spellcraft +20, Stealth +19, Use Magic Device +14  
 **Languages** Auran, Celestial, Common, Ignan, Shadowtongue  
 **SQ** inspiration, unearthly grace, change shape (Small or Medium humanoid; *alter self*)

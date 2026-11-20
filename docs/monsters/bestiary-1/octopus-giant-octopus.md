@@ -26,7 +26,7 @@ N Large animal (aquatic)
 
 **Str** 20, **Dex** 15, **Con** 17, **Int** 2, **Wis** 12, **Cha** 3  
 **Base Atk** +9; **CMB** +15 (+19 grapple); **CMD** 27 (can’t be tripped)  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack<sup>B</sup>, [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Stealthy](../../rules/feats/stealthy.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Multiattack, [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Stealthy](../../rules/feats/stealthy.md)  
 **Skills** Escape Artist +18, Perception +8, Stealth +18, Swim +13; **Racial Modifiers** +10 Escape Artist, +8 Stealth
 
 **Ecology**

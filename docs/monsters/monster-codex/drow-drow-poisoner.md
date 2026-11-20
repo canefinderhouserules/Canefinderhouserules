@@ -26,10 +26,10 @@ CE Medium humanoid (elf)
 **Spell-Like Abilities** (CL 12th; concentration +12)  
 1/day—*dancing lights*, *darkness*, *faerie fire*  
 **Alchemist Extracts Prepared**(CL 12th)  
-4th—*cure critical wounds*, *fluid form*<sup>APG</sup>, *greater false life*<sup>UM</sup>, *greater invisibility*  
-3rd—*countless eyes*<sup>UM</sup>, *displacement*, *eruptive pustules*<sup>UM</sup> (DC 18), *haste*, *protection from energy*  
-2nd—*alchemical allocation*<sup>APG</sup>, *resist energy* (2), *see invisibility*, *touch injection*<sup>UC</sup>, *vomit swarm*<sup>APG</sup>  
-1st—*anticipate peril*<sup>UM</sup> (DC 16), *bomber’s eye*<sup>APG</sup>, *negate aroma*, *polypurpose panacea*<sup>UM</sup> (DC 16), *shield*, *true strike* (2)
+4th—*cure critical wounds*, *fluid form*, *greater false life*, *greater invisibility*  
+3rd—*countless eyes*, *displacement*, *eruptive pustules* (DC 18), *haste*, *protection from energy*  
+2nd—*alchemical allocation*, *resist energy* (2), *see invisibility*, *touch injection*, *vomit swarm*  
+1st—*anticipate peril* (DC 16), *bomber’s eye*, *negate aroma*, *polypurpose panacea* (DC 16), *shield*, *true strike* (2)
 
 **Tactics**
 
@@ -43,8 +43,8 @@ CE Medium humanoid (elf)
 **Feats** [Brew Potion](../../rules/feats/brew-potion.md), [Extra Bombs](../../rules/feats/extra-bombs.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), [Quick Draw](../../rules/feats/quick-draw.md), [Rapid Shot](../../rules/feats/rapid-shot.md), [Throw Anything](../../rules/feats/throw-anything.md)  
 **Skills** Craft (alchemy) +20, Disable Device +19, Fly +13, Heal +9, Knowledge (arcana) +20, Knowledge (nature) +14, Perception +17, Spellcraft +20, Stealth +16, Survival +9, Use Magic Device +15  
 **Languages** Elven, Undercommon  
-**SQ** alchemy (alchemy crafting +12, identify potions), discoveries (explosive bomb, fast bombs, poison bomb [12 rounds/level], smoke bomb, strafe bomb, wings<sup>UM</sup>), mutagen (+4/–2, +2 natural, 120 minutes), poison use, swift alchemy, swift poisoning  
-**Combat Gear**  *potions of cure serious wounds* (2), *potion of gaseous form*, *potion of ghostly disguise*<sup>UM</sup>, *potion of invisibility*, deathblade, dragon bile, drow poison (4), purple worm poison; **Other Gear** *+2 chain shirt*, mwk hand crossbow with 20 bolts, mwk rapier, *amulet of natural armor +1*, *belt of incredible dexterity +2*, *cloak of resistance +1*, *headband of vast intelligence +2*, *ring of protection +1*, 170 gp
+**SQ** alchemy (alchemy crafting +12, identify potions), discoveries (explosive bomb, fast bombs, poison bomb [12 rounds/level], smoke bomb, strafe bomb, wings), mutagen (+4/–2, +2 natural, 120 minutes), poison use, swift alchemy, swift poisoning  
+**Combat Gear**  *potions of cure serious wounds* (2), *potion of gaseous form*, *potion of ghostly disguise*, *potion of invisibility*, deathblade, dragon bile, drow poison (4), purple worm poison; **Other Gear** *+2 chain shirt*, mwk hand crossbow with 20 bolts, mwk rapier, *amulet of natural armor +1*, *belt of incredible dexterity +2*, *cloak of resistance +1*, *headband of vast intelligence +2*, *ring of protection +1*, 170 gp
 
 **Ecology**
 

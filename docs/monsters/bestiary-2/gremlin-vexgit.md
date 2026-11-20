@@ -29,7 +29,7 @@ At will—*prestidigitation*
 
 **Str** 6, **Dex** 13, **Con** 14, **Int** 12, **Wis** 13, **Cha** 11  
 **Base Atk** +0; **CMB** –1; **CMD** 7  
-**Feats** [Skill Focus (Disable Device)](../../rules/feats/skill-focus.md), [Toughness<sup>B</sup>](../../rules/feats/toughness.md), [Weapon Finesse<sup>B</sup>](../../rules/feats/weapon-finesse.md)  
+**Feats** [Skill Focus (Disable Device)](../../rules/feats/skill-focus.md), [Toughness](../../rules/feats/toughness.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md)  
 **Skills** Appraise +2, Climb +13, Craft (traps) +5, Disable Device +9, Knowledge (engineering) +2, Perception +5, Stealth +13 (+17 in metal or stony areas, +9 when moving); **Racial Modifiers** +4 Disable Device, +4 Stealth in metal or stony areas, –4 Stealth when moving  
 **Languages** Undercommon
 

@@ -25,7 +25,7 @@ LE Medium humanoid (goblinoid)
 6/day—battle rage (+4), touch of law  
 **Cleric Spells Prepared** (CL 9th; concentration +12)  
 5th—*flame strike*<sup>D</sup> (DC 18), *righteous might*  
-4th—*blessing of fervor*<sup>APG</sup>, *cure critical wounds*, *divine power*<sup>D</sup>  
+4th—*blessing of fervor*, *cure critical wounds*, *divine power*<sup>D</sup>  
 3rd—*blindness/deafness* (DC 16), *cure serious wounds*, *dispel magic*, *magic circle against chaos*<sup>D</sup>, *prayer*  
 2nd—*aid*, *bear’s endurance*, *death knell* (DC 15), *lesser restoration*, *sound burst* (DC 15), *spiritual weapon*<sup>D</sup>  
 1st—*bless*, *entropic shield*, *magic weapon*<sup>D</sup>, *remove fear* (2), *shield of faith*  

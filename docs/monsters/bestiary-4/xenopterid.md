@@ -25,7 +25,7 @@ N Medium vermin
 
 **Str** 20, **Dex** 17, **Con** 19, **Int** —, **Wis** 12, **Cha** 7  
 **Base Atk** +8; **CMB** +13 (+17 grapple); **CMD** 26 (34 vs. trip)  
-**Feats** [Improved Critical<sup>B</sup> (claw)](../../rules/feats/improved-critical.md)  
+**Feats** [Improved Critical (claw)](../../rules/feats/improved-critical.md)  
 **Skills** Climb +13, Disguise +6 (+14 when disguised as a humanoid), Fly –5, Stealth +11; **Racial Modifiers** +8 Disguise (+16 when disguised as a humanoid), +8 Stealth  
 **SQ** entangling slime
 

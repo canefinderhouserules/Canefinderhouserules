@@ -24,7 +24,7 @@ NE Medium undead
 
 **Str** 15, **Dex** 14, **Con** —, **Int** —, **Wis** 10, **Cha** 10  
 **Base Atk** +0; **CMB** +2; **CMD** 14  
-**Feats** [Improved Initiative<sup>B</sup>](../../rules/feats/improved-initiative.md)  
+**Feats** [Improved Initiative](../../rules/feats/improved-initiative.md)  
 **Gear** broken chain shirt, broken scimitar
 
 **Ecology**

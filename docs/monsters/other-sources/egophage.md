@@ -22,10 +22,10 @@ CE Small aberration
 **Melee** 8 claws +18 (1d4+2 plus attach [once per round if two or more claws hit the same creature])  
 **Special Attacks** body thief  
 **Spell-Like Abilities** (CL 10th)  
-Constant—*analyze aura*<sup>OA</sup>  
+Constant—*analyze aura*  
 At will—*invisibility*, *reduce size* (as *reduce person* but self only and affects aberrations)  
 **Psychic Magic** (CL 10th, concentration +14)  
-24 PE—*anticipate thoughts*<sup>OA</sup> (2 PE, DC 16), *ego whip IV*<sup>OA</sup> (6 PE, DC 20), *globe of invulnerability* (4 PE), *id insinuation III*<sup>OA</sup> (4 PE, DC 17)
+24 PE—*anticipate thoughts* (2 PE, DC 16), *ego whip IV* (6 PE, DC 20), *globe of invulnerability* (4 PE), *id insinuation III* (4 PE, DC 17)
 
 **Statistics**
 
@@ -43,6 +43,6 @@ At will—*invisibility*, *reduce size* (as *reduce person* but self only and af
 
 **Special Abilities**
 
-**Body Thief (Su)** As a full-round action that provokes attacks of opportunity, an egophage can attempt to psychically force its way into a helpless, dead, or grappled creature. If successful, it attempts a psychically channeled coup de grace that inflicts 16d4+16 points of damage. If the victim is slain (or already dead), the egophage usurps control of the body as per *greater possession*<sup>OA</sup> cast on a living body, with an unlimited duration. A host body may not have been dead for longer than 1 day for this ability to function, and even successfully inhabited bodies decay to uselessness in 7 days (unless this time is extended via a *gentle repose* spell). As long as the egophage occupies the body, it knows and can speak any language known by the victim, and also knows basic information about the victim’s identity and personality, though it has none of the victim’s specific memories or knowledge. Once possessed, the host regains its full hit points—despite the fact that it’s technically a corpse, it appears, detects, and acts as a living creature of its type. Damage done to a host does not harm the egophage, and if the host body is slain, the egophage emerges and is dazed for 1 round. *Raise dead* cannot restore a victim of body theft, but *resurrection* or more powerful magic can.
+**Body Thief (Su)** As a full-round action that provokes attacks of opportunity, an egophage can attempt to psychically force its way into a helpless, dead, or grappled creature. If successful, it attempts a psychically channeled coup de grace that inflicts 16d4+16 points of damage. If the victim is slain (or already dead), the egophage usurps control of the body as per *greater possession* cast on a living body, with an unlimited duration. A host body may not have been dead for longer than 1 day for this ability to function, and even successfully inhabited bodies decay to uselessness in 7 days (unless this time is extended via a *gentle repose* spell). As long as the egophage occupies the body, it knows and can speak any language known by the victim, and also knows basic information about the victim’s identity and personality, though it has none of the victim’s specific memories or knowledge. Once possessed, the host regains its full hit points—despite the fact that it’s technically a corpse, it appears, detects, and acts as a living creature of its type. Damage done to a host does not harm the egophage, and if the host body is slain, the egophage emerges and is dazed for 1 round. *Raise dead* cannot restore a victim of body theft, but *resurrection* or more powerful magic can.
 
 **Vulnerable to Protection from Evil (Ex)** An egophage is treated as a summoned creature for the purpose of determining how it is affected by a *protection from evil* spell.

@@ -24,7 +24,7 @@ CE Medium humanoid (reptilian)
 **Special Attacks** claws (1d6, 6 rounds/day)  
 **Sorcerer Spells Known** (CL 4th; concentration +7)  
 2nd (4/day)—*acid arrow*  
-1st (7/day)—*cause fear* (DC 15), *corrosive touch*<sup>UM</sup>, *ray of enfeeblement* (DC 15), *summon monster I*  
+1st (7/day)—*cause fear* (DC 15), *corrosive touch*, *ray of enfeeblement* (DC 15), *summon monster I*  
 0 (at will)—*acid splash*, *daze* (DC 13), *detect magic*, *ghost sound* (DC 13), *mage hand*, *mending*  
 **Bloodline** Abyssal
 

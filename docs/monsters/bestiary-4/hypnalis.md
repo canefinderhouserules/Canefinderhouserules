@@ -24,7 +24,7 @@ N Medium outsider (extraplanar)
 
 **Str** 22, **Dex** 15, **Con** 16, **Int** 7, **Wis** 13, **Cha** 10  
 **Base Atk** +7; **CMB** +13 (+17 grapple); **CMD** 25 (can’t be tripped)  
-**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Shadow Strike<sup>APG</sup>](../../rules/feats/shadow-strike.md)  
+**Feats** [Blind-Fight](../../rules/feats/blind-fight.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Skill Focus (Stealth)](../../rules/feats/skill-focus.md), [Shadow Strike](../../rules/feats/shadow-strike.md)  
 **Skills** Bluff +10, Fly +10, Perception +11, Sense Motive +10, Stealth +15  
 **Languages** Aklo  
 **SQ** ghost touch fangs, phasing

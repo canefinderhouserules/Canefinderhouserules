@@ -35,7 +35,7 @@ CE Small humanoid (charau-ka)
 
 **Str** 13, **Dex** 15, **Con** 16, **Int** 8, **Wis** 16, **Cha** 16  
 **Base Atk** +5; **CMB** +5; **CMD** 18  
-**Feats** [Combat Casting](../../rules/feats/combat-casting.md), Improved Natural Armor, [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Selective Channeling](../../rules/feats/selective-channeling.md), [Throw Anything<sup>B</sup>](../../rules/feats/throw-anything.md)  
+**Feats** [Combat Casting](../../rules/feats/combat-casting.md), Improved Natural Armor, [Point-Blank Shot](../../rules/feats/point-blank-shot.md), [Selective Channeling](../../rules/feats/selective-channeling.md), [Throw Anything](../../rules/feats/throw-anything.md)  
 **Skills** Climb +11, Knowledge (religion) +4, Perception +4, Spellcraft +6, Stealth +8; **Racial Modifiers** +4 Stealth  
 **Languages** Abyssal, Polyglot  
 **Combat Gear**  *scroll of cure moderate wounds*, *scrolls of invisibility* (2); **Other Gear** *+1 hide armor*, *+1 spear*, *ring of protection +1*, ivory holy symbol worth 30 gp, mwk manacles

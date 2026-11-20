@@ -26,7 +26,7 @@ NE Huge undead
 
 **Str** 41, **Dex** 12, **Con** &mdash;, **Int** &mdash;, **Wis** 10, **Cha** 10  
 **Base Atk** +17; **CMB** +34; **CMD** 45  
-**Feats** [Toughness<sup>B</sup>](../../rules/feats/toughness.md)  
+**Feats** [Toughness](../../rules/feats/toughness.md)  
 **Skills** Swim +19  
 **SQ** staggered  
 **Gear** breastplate, masterwork broken greatsword

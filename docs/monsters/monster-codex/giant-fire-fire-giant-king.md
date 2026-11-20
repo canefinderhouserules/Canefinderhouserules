@@ -23,10 +23,10 @@ LE Large humanoid (fire, giant)
 **Melee** *+1 brilliant energy greatsword* +36/+31/+26/+21 (3d6+22/17–20) or 2 slams +34 (1d8+14)  
 **Ranged**  rock +19 (1d8+21 plus 1d6 fire)  
 **Space** 10 ft., **Reach** 10 ft.  
-**Special Attacks** combat style (two-handed weapon<sup>APG</sup>), favored enemy (animals +2, dragons +4, dwarves +4), heated rock, rock throwing (120 ft.)  
+**Special Attacks** combat style (two-handed weapon), favored enemy (animals +2, dragons +4, dwarves +4), heated rock, rock throwing (120 ft.)  
 **Ranger Spells Prepared** (CL 7th; concentration +11)  
 3rd—*cure moderate wounds*  
-2nd—*aspect of the bear*<sup>APG</sup>, *spike growth* (DC 16)  
+2nd—*aspect of the bear*, *spike growth* (DC 16)  
 1st—*entangle* (DC 15), *longstrider*, *resist energy*
 
 **Tactics**

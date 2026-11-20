@@ -28,11 +28,11 @@ CE Large humanoid (giant)
 
 **Str** 25, **Dex** 12, **Con** 18, **Int** 6, **Wis** 12, **Cha** 5  
 **Base Atk** +8; **CMB** +16; **CMD** 28  
-**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), [Step Up](../../rules/feats/step-up.md), [Vicious Stomp<sup>UC</sup>](../../rules/feats/vicious-stomp.md), [Weapon Focus (ogre hook)](../../rules/feats/weapon-focus.md), [Weapon Specialization (ogre hook)](../../rules/feats/weapon-specialization.md)  
+**Feats** [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Iron Will](../../rules/feats/iron-will.md), [Power Attack](../../rules/feats/power-attack.md), [Step Up](../../rules/feats/step-up.md), [Vicious Stomp](../../rules/feats/vicious-stomp.md), [Weapon Focus (ogre hook)](../../rules/feats/weapon-focus.md), [Weapon Specialization (ogre hook)](../../rules/feats/weapon-specialization.md)  
 **Skills** Perception +9, Profession (cook) +5  
 **Languages** Giant  
 **SQ** armor training 1  
-**Combat Gear**  *potions of cure light wounds* (3), *potion of cure moderate wounds*; **Other Gear** *+1 brawling*<sup>UE</sup> *chain shirt*, *+1 ogre hook*<sup>UE</sup>, javelins (3), *cloak of resistance +1*, *ring of protection +1*, 23 gp
+**Combat Gear**  *potions of cure light wounds* (3), *potion of cure moderate wounds*; **Other Gear** *+1 brawling* *chain shirt*, *+1 ogre hook*, javelins (3), *cloak of resistance +1*, *ring of protection +1*, 23 gp
 
 **Ecology**
 
