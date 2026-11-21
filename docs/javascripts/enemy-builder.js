@@ -674,7 +674,7 @@
       });
       var rank = function (l) { var t = l.label.toLowerCase(); return l.sla ? (/constant/.test(t) ? 0 : /will/.test(t) ? 1 : 100 - (parseInt(t, 10) || 0)) : -l.lvl; };
       order.sort(function (a, b) { return rank(a) - rank(b); });
-      return { title: (c.c.cls && !sla ? c.c.cls.replace(/^./, function (x) { return x.toUpperCase(); }) + ' ' : '') + (c.c.title || kindLabel(c.c.kind)), cl: c.cl, concentration: c.conc,
+      return { title: c.c.title || (c.c.cls && !sla ? c.c.cls.replace(/^./, function (x) { return x.toUpperCase(); }) + ' ' : '') + kindLabel(c.c.kind), cl: c.cl, concentration: c.conc,
         levels: order.map(function (l) { return { label: l.label, spells: groups[l.label] }; }) };
     });
     if (!m.spells.length) delete m.spells;
@@ -943,6 +943,17 @@
     S.sq = [S.sq, 'elemental focus (' + prim + ')' + (exp ? ', expanded element (' + exp + ')' : '')].filter(Boolean).join(', ');
   }
   // a kineticist lives on Con, then Dex for its blasts
+  // a random kinetic shinobi: its kinetic blast only as a jutsu weapon in hand (physical jutsu: 1d4 + Cha against AC;
+  // elemental jutsu: 1d4 against touch AC, sneak attack in d4s), Dex to hit with Weapon Finesse, Cha for damage and DCs
+  function randomShinobi() {
+    ['Dex', 'Cha', 'Con', 'Wis', 'Str', 'Int'].forEach(function (a, i) { S.abil[a] = [18, 16, 14, 12, 10, 8][i]; });
+    var lv = (S.classes[0] || {}).lvl || 1;
+    S.abil.Dex += 2 * Math.floor(lv / 4);
+    var phys = pick(['earth', 'water', 'aether', 'wood', 'metal']), energy = pick(['fire', 'electricity', 'cold']);
+    S.weapons = [{ n: 'physical jutsu (' + phys + ')', mode: 'melee', d: '1d4', t: 20, x: 2, cat: 'light', finesse: true, dmgAbil: 'Cha', opt: 1, innate: true, rider: 'kinetic blast' },
+      { n: 'elemental jutsu (' + energy + ')', mode: 'melee', d: '1d4', t: 20, x: 2, cat: 'light', finesse: true, dmgAbil: 'none', opt: 2, innate: true, rider: energy + ', against touch AC, sneak attack in d4s' }];
+    S.armor = bestArmor('light'); S.shield = '';
+  }
   function setAbilKin() {
     var b = [18, 16, 12, 10, 10, 8], o = ['Con', 'Dex', 'Wis', 'Str', 'Int', 'Cha'];
     o.forEach(function (a, i) { S.abil[a] = b[i]; });
@@ -1138,10 +1149,17 @@
   // a feat the wiki has (and not one merged into another, such as Precise Shot into Point-Blank Shot)
   function featOk(n) { var f = featData(n); return !!f && !f.gone; }
   // random spells for a caster block: a few of each level up to top, the ones with rolls (damage, healing) first
+  // a spell's level on a list; the omdura's list is the cleric's (up to 6th) and the inquisitor's, at the lower level
+  function listLevel(s, listKey) {
+    var L = s.l || {};
+    if (listKey !== 'omdura') return L[listKey];
+    var c = L.cleric != null && L.cleric <= 6 ? L.cleric : null, q = L.inquisitor != null ? L.inquisitor : null;
+    return c == null ? q : q == null ? c : Math.min(c, q);
+  }
   function randomSpells(listKey, top, perLevel, uses) {
     var out = [];
     for (var l = 0; l <= top; l++) {
-      var pool = Object.keys(SPELLS).map(function (u) { return SPELLS[u]; }).filter(function (s) { return s.l && s.l[listKey] === l; });
+      var pool = Object.keys(SPELLS).map(function (u) { return SPELLS[u]; }).filter(function (s) { return listLevel(s, listKey) === l; });
       var rolls = shuffle(pool.filter(function (s) { return DATA.rolls[s.u]; })), rest = shuffle(pool.filter(function (s) { return !DATA.rolls[s.u]; }));
       var n = l === 0 ? 2 : perLevel, chosen = rolls.slice(0, Math.ceil(n / 2)).concat(rest).slice(0, n);
       if (chosen.length < n) chosen = chosen.concat(rolls.slice(Math.ceil(n / 2), Math.ceil(n / 2) + n - chosen.length));
@@ -1183,7 +1201,7 @@
     };
     var groupOf = function (w) { return 'Weapon Focus (' + (weaponGroups(w)[0] || w.n) + ')'; };
     // two weapons: Two-Weapon Fighting, Double Slice and what follows
-    if ((concept === 'warrior' || concept === 'skirmisher' || concept === 'sw-warrior') && melee.length && bab >= 1 && !/gunslinger|shifter|alchemist|kineticist/.test(((S.classes || [])[0] || {}).s || ''))
+    if ((concept === 'warrior' || concept === 'skirmisher' || concept === 'sw-warrior') && melee.length && bab >= 1 && !/gunslinger|shifter|alchemist|kineticist|kinetic-shinobi|deadeye-hexer|omdura|medium/.test(((S.classes || [])[0] || {}).s || ''))
       out.push({ label: 'two-weapon fighter', setup: function () {
         var saber = SWM && S.weapons.some(function (w) { return /lightsaber/i.test(w.n); });
         var main = saber ? makeAttack(pick(SWD.weapons.filter(function (w) { return !w.blaster && w.c !== 'two-handed'; })).n)
@@ -1250,9 +1268,9 @@
   // the classes a random humanoid can have, by concept: the rogue and the monk are their unchained versions (better in
   // almost every way); the barbarian stays the core one, with the unchained stances among its rage powers
   var RANDOM_CLS = { warrior: ['fighter', 'barbarian', 'ranger', 'slayer', 'cavalier', 'bloodrager', 'antipaladin', 'warpriest', 'brawler', 'unchained-monk',
-      'paladin', 'samurai', 'legendary-fighter', 'shifter', 'monk'],
+      'paladin', 'samurai', 'legendary-fighter', 'shifter', 'monk', 'omdura', 'medium'],
     skirmisher: ['unchained-rogue', 'ranger', 'slayer', 'investigator', 'swashbuckler', 'ninja', 'unchained-monk', 'vigilante', 'gunslinger',
-      'legendary-swashbuckler', 'legendary-investigator', 'legendary-gunslinger'],
+      'legendary-swashbuckler', 'legendary-investigator', 'legendary-gunslinger', 'deadeye-hexer', 'kinetic-shinobi'],
     caster: ['wizard', 'sorcerer', 'cleric', 'druid', 'witch', 'oracle', 'bard', 'magus', 'inquisitor', 'arcanist', 'shaman', 'psychic', 'skald',
       'mesmerist', 'occultist', 'spiritualist', 'hunter', 'legendary-magus', 'legendary-cleric', 'kineticist', 'alchemist'] };
   // the concept of a class picked in the form: its list above, else a caster if it has a spell list, else a warrior
@@ -1643,11 +1661,20 @@
         if (chance(0.5)) { S.weapons.push(makeAttack(firstWeapon(['Rapier', 'Short sword', 'Kukri', 'Scimitar'], ['light', 'one-handed']))); S.weapons.push(makeAttack(firstWeapon(['Shortbow', 'Light crossbow', 'Composite shortbow'], ['ranged']))); }
         else { S.weapons.push(makeAttack(firstWeapon(['Shortbow', 'Longbow', 'Composite longbow', 'Light crossbow'], ['ranged']))); S.weapons.push(makeAttack(firstWeapon(['Short sword', 'Dagger', 'Rapier'], ['light']))); }
         S.weapons.forEach(function (w) { if (/^(melee|off)$/.test(w.mode)) w.finesse = true; });
-        if (/gunslinger/.test(clsSlug || '')) S.weapons = [makeAttack(firstWeapon(['Pistol', 'Musket', 'Pistol, double-barreled', 'Rifle'], ['ranged']))].concat(S.weapons.filter(function (w) { return !/^(ranged|thrown)$/.test(w.mode); }));
+        if (/gunslinger|deadeye-hexer/.test(clsSlug || '')) S.weapons = [makeAttack(firstWeapon(['Pistol', 'Musket', 'Pistol, double-barreled', 'Rifle'], ['ranged']))].concat(S.weapons.filter(function (w) { return !/^(ranged|thrown)$/.test(w.mode); }));
         S.armor = bestArmor('light');
       } else {
         S.weapons.push(makeAttack(S.type === 'humanoid' ? firstWeapon(['Quarterstaff', 'Dagger', 'Light mace'], ['one-handed', 'light']) : pick(['claw', 'slam', 'bite'])));
         if (!/^nat/.test(S.weapons[0].mode) && S.weapons[0].mode === 'melee' && /quarterstaff/.test(S.weapons[0].n)) S.weapons[0].mode = 'two';
+      }
+      // the omdura and the medium only know simple weapons (and the omdura medium armor and shields)
+      if (/^(omdura|medium)$/.test(clsSlug || '')) {
+        var two = chance(0.4);
+        S.weapons = [makeAttack(two ? firstWeapon(['Longspear', 'Quarterstaff'], ['two-handed']) : firstWeapon(['Heavy mace', 'Morningstar', 'Spear'], ['one-handed'])),
+          makeAttack(firstWeapon(['Heavy crossbow', 'Light crossbow', 'Javelin'], ['ranged']))];
+        if (/quarterstaff|spear/.test(S.weapons[0].n) && two) S.weapons[0].mode = 'two';
+        S.armor = bestArmor(clsSlug === 'omdura' ? 'medium' : 'light');
+        S.shield = clsSlug === 'omdura' && !two && armorData('Shield, heavy wooden') ? 'Shield, heavy wooden' : '';
       }
       typeKey = clsSlug ? concept : S.type;
       if (S.type !== 'humanoid') S.senses = S.type === 'animal' ? 'low-light vision, scent' : S.type === 'fey' || S.type === 'plant' ? 'low-light vision' : S.type === 'ooze' ? 'blindsight 60 ft.' : 'darkvision 60 ft.';
@@ -1661,6 +1688,7 @@
       else if (S.type === 'outsider' && big >= 5) S.defense = 'DR ' + (big >= 12 ? 10 : 5) + '/' + pick(['good', 'evil', 'cold iron', 'magic']) + '; Resist fire 10' + (big >= 8 ? '; SR ' + (big + 11) : '');
       else if (S.type === 'aberration' && big >= 7) S.defense = 'SR ' + (big + 11);
       if (clsSlug === 'kineticist') randomKineticist(S.classes[0].lvl);
+      else if (clsSlug === 'kinetic-shinobi') randomShinobi();
       else if (clsSlug === 'alchemist') randomAlchemist(S.classes[0].lvl, T);
       else if (clsSlug === 'shifter') randomShifter(S.classes[0].lvl);
       // spells: spell-like abilities for monsters, spells for a classed caster
@@ -1686,15 +1714,20 @@
     // (4-level casters from 4th level at caster level -3, 6-level casters from 1st), instead of the class's "Spells" text
     if (!SWM && classed && !S.casters.length && S.classes[0]) {
       var cs = S.classes[0].s.replace(/^(legendary|unchained)-/, ''), cL = S.classes[0].lvl || 1;
-      if (CLASSES.indexOf(cs) >= 0 && !/^(alchemist|investigator|kineticist|shifter)$/.test(cs)) {
-        var four = /^(ranger|paladin|antipaladin|bloodrager)$/.test(cs), sixC = /^(bard|magus|inquisitor|skald|warpriest|hunter|mesmerist|occultist|spiritualist|summoner|medium)$/.test(cs);
+      var cList = { 'deadeye-hexer': 'witch' }[cs] || cs; // the deadeye hexer casts from the witch's list
+      if ((CLASSES.indexOf(cList) >= 0 || cList === 'omdura') && !/^(alchemist|investigator|kineticist|shifter|kinetic-shinobi)$/.test(cs)) {
+        // the medium is a 4-level caster at its full level, with knacks (cantrips)
+        var four = /^(ranger|paladin|antipaladin|bloodrager|medium)$/.test(cs), sixC = /^(bard|magus|inquisitor|skald|warpriest|hunter|mesmerist|occultist|spiritualist|summoner|omdura|deadeye-hexer)$/.test(cs);
         var cTop = four ? (cL >= 13 ? 4 : cL >= 10 ? 3 : cL >= 7 ? 2 : cL >= 4 ? 1 : 0) : sixC ? Math.min(6, Math.floor((cL + 2) / 3)) : Math.min(9, Math.ceil(cL / 2));
         if (cTop) {
-          var cKind = /^(bloodrager|bard|skald|inquisitor|hunter|mesmerist|occultist|spiritualist|summoner|medium|sorcerer|oracle|psychic)$/.test(cs) ? 'Spells Known' : 'Spells Prepared';
-          var cSp = randomSpells(cs, cTop, 2, cKind === 'Spells Prepared' ? function () { return 1; } : function () { return ''; });
-          if (four) cSp = cSp.filter(function (x) { return x.lvl > 0; });
-          var cAbil = /^(magus|occultist|wizard|witch|arcanist|psychic)$/.test(cs) ? 'Int' : /^(ranger|warpriest|inquisitor|hunter|cleric|druid|shaman|spiritualist)$/.test(cs) ? 'Wis' : 'Cha';
-          if (cSp.length) S.casters.push({ kind: cKind, cls: cs, cl: four ? Math.max(1, cL - 3) : cL, abil: cAbil, spells: cSp });
+          var cKind = /^(bloodrager|bard|skald|inquisitor|hunter|mesmerist|occultist|spiritualist|summoner|medium|sorcerer|oracle|psychic|omdura)$/.test(cs) ? 'Spells Known' : 'Spells Prepared';
+          var cSp = randomSpells(cList, cTop, 2, cKind === 'Spells Prepared' ? function () { return 1; } : function () { return ''; });
+          if (four && cs !== 'medium') cSp = cSp.filter(function (x) { return x.lvl > 0; });
+          var cAbil = /^(magus|occultist|wizard|witch|arcanist|psychic|deadeye-hexer)$/.test(cs) ? 'Int' : /^(ranger|warpriest|inquisitor|hunter|cleric|druid|shaman|spiritualist)$/.test(cs) ? 'Wis' : 'Cha';
+          // a fighter's casting score is low; give it at least 14 so the DCs and bonus spells make sense
+          if (S.abil[cAbil] < 14) S.abil[cAbil] = 14;
+          if (cSp.length) S.casters.push({ kind: cKind, cls: cList, cl: four && cs !== 'medium' ? Math.max(1, cL - 3) : cL, abil: cAbil, spells: cSp,
+            title: cList !== cs ? CLASS_BY[S.classes[0].s].n + ' ' + kindLabel(cKind) : undefined });
         }
       }
     }
@@ -1820,7 +1853,7 @@
       if (S.armorEnh) gear.push('+' + S.armorEnh + ' ' + S.armor.toLowerCase());
       else if (S.armor) gear.push(S.armor.toLowerCase());
       if (S.shield) gear.push((S.shieldEnh ? '+' + S.shieldEnh + ' ' : '') + S.shield.toLowerCase());
-      S.weapons.filter(function (w) { return !/^nat/.test(w.mode); }).forEach(function (w) { gear.push((w.enh ? '+' + w.enh + ' ' : '') + w.n); });
+      S.weapons.filter(function (w) { return !/^nat/.test(w.mode) && !w.single && !w.fixed && !w.innate; }).forEach(function (w) { gear.push((w.enh ? '+' + w.enh + ' ' : '') + w.n); });
       if (S.deflection) gear.push('ring of protection +' + S.deflection);
       if (S.natural) gear.push('amulet of natural armor +' + S.natural);
       if (res && !SWM) gear.push('cloak of resistance +' + res);
