@@ -541,6 +541,12 @@
     // "Weapon Focus (longsword)" still works by the weapon's name
     var wfGroups = wf.map(groupKey);
     if (wfGroups.indexOf('ray') >= 0) { D.rangedTouch += 1; autoNote('Weapon Focus (' + wf[wfGroups.indexOf('ray')] + ')', '+1 BAB with rays'); }
+    // styles: Dragon Style (1-1/2 Str on the first unarmed strike; Dragon Ferocity, double on the first and 1-1/2 on the
+    // rest), with Ascetic Style a monk weapon counts as an unarmed strike for them; Ascetic Strike gives that weapon the
+    // unarmed damage of a monk 4 levels lower; the master of many styles adds +1 attack per active style from 8th (max 3)
+    var dragon = has('Dragon Style'), fero = has('Dragon Ferocity'), asceticStrike = has('Ascetic Strike');
+    var moms = cls.filter(function (c) { return (c.arch || []).indexOf('Master of Many Styles') >= 0; })[0];
+    var fuse = moms && moms.lvl >= 8 ? Math.min(3, feats.filter(function (f) { return / Style$/i.test(f); }).length) : 0;
     D.attacks = S.weapons.map(function (w) {
       var a = { row: w }, nat = /^nat/.test(w.mode), ranged = w.mode === 'ranged' || w.mode === 'thrown';
       var n = String(w.n || 'attack').trim().toLowerCase();
@@ -569,15 +575,33 @@
       var spec = (hits(ws, n) + hits(gws, n)) * 2;
       if (spec) autoNote('Weapon Specialization (' + n + ')', '+2 damage with ' + n);
       var wd = weaponData(w.n), gun = ranged && FX.gunDex && (wd ? wd.p === 'blaster' || /firearm/i.test(wd.c + ' ' + (wd.ty || '')) : /blaster|pistol|rifle|musket/.test(n));
+      var unarmedLike = !ranged && (n === 'unarmed strike' || !!w.ascetic);
+      var firstExtra = 0;
+      if (dragon && unarmedLike && M.Str > 0) {
+        var two = w.mode === 'two';
+        if (fero) { strD += Math.floor(M.Str / 2); firstExtra = two ? 0 : Math.floor(M.Str / 2); }
+        else firstExtra = two ? 0 : Math.floor(M.Str / 2);
+        autoNote('Dragon Style', '1-1/2 Str on the first ' + (w.ascetic ? n : 'unarmed strike') + ' each round' + (firstExtra ? ' (+' + firstExtra + ')' : ''));
+        if (fero) autoNote('Dragon Ferocity', 'double Str on the first attack, 1-1/2 on the rest; crits and Stunning Fist shake');
+      }
+      if (fuse && unarmedLike) { a.atk += fuse; autoNote('Master of Many Styles', '+' + fuse + ' attack with ' + fuse + ' styles fused'); }
       a.dmgMod = strD + enh + spec + (w.dmgMisc || 0) + (nat ? 0 : FX.wDmg) + (gun ? M.Dex : 0);
+      a.firstExtra = firstExtra;
       // Improved Natural Attack (a monster feat): that natural attack's damage as if one size larger
       var ina = nat && hits(featArg('Improved Natural Attack'), n);
       if (ina) autoNote('Improved Natural Attack (' + n + ')', n + ' damage one size larger');
       // (a kinetic blast's dice do not change with size)
-      a.dice = w.single || w.fixed ? w.d || '1d6' : sizeDice(FX.unarmed && /^unarmed strike$/.test(n) ? FX.unarmed : w.d || '1d4', ina ? SIZE_ORDER[Math.min(SIZE_ORDER.length - 1, SIZE_ORDER.indexOf(S.size) + 1)] : S.size);
+      var baseD = FX.unarmed && /^unarmed strike$/.test(n) ? FX.unarmed : w.d || '1d4';
+      if (asceticStrike && w.ascetic && hd > 4) {
+        var asD = UNARMED[Math.min(20, hd - 4) - 1];
+        if (diceAvg(asD) > diceAvg(baseD)) { baseD = asD; autoNote('Ascetic Strike', n + ' deals ' + asD + ' (a monk ' + (hd - 4) + ' levels\' unarmed strike)'); }
+      }
+      a.dice = w.single || w.fixed ? w.d || '1d6' : sizeDice(baseD, ina ? SIZE_ORDER[Math.min(SIZE_ORDER.length - 1, SIZE_ORDER.indexOf(S.size) + 1)] : S.size);
+      // a Vital Strike row: the weapon's dice rolled 3, 4 or 5 times, one attack
+      if (w.vital > 1) a.dice = a.dice.replace(/^(\d+)d/, function (_, k) { return (+k * w.vital) + 'd'; });
       a.threat = w.t || 20; a.mult = w.x || 2;
       if (hits(ic, n)) { a.threat = 21 - (21 - a.threat) * 2; autoNote('Improved Critical (' + n + ')', 'threat ' + a.threat + '–20'); }
-      a.name = (enh ? '+' + enh + ' ' : mw ? 'mwk ' : '') + n;
+      a.name = (enh ? '+' + enh + ' ' : mw ? 'mwk ' : '') + n + (w.vital > 1 ? ' (' + (w.vital === 5 ? 'Greater ' : w.vital === 4 ? 'Improved ' : '') + 'Vital Strike)' : '');
       a.nat = nat; a.ranged = ranged; a.light = light;
       return a;
     });
@@ -601,11 +625,12 @@
           if (a.nat && hasWeapon && a.row.mode === 'nat1') atk -= multi ? 2 : 5;
           var bonuses = [atk];
           if (a.row.mode === 'off') { if (itwf) { bonuses.push(atk - 5); if (a.bab >= 11) bonuses.push(atk - 10); autoNote('Improved Two-Weapon Fighting', 'more off-hand attacks'); } }
-          else if (!a.nat && !a.row.single) for (var k = 1; k <= 3 && a.bab - 5 * k >= 1; k++) bonuses.push(atk - 5 * k);
+          else if (!a.nat && !a.row.single && !a.row.vital) for (var k = 1; k <= 3 && a.bab - 5 * k >= 1; k++) bonuses.push(atk - 5 * k);
           if (kind === 'ranged' && rapid && !a.nat && !a.row.single) { bonuses = [bonuses[0] - 2].concat(bonuses.map(function (b) { return b - 2; })); autoNote('Rapid Shot', 'an extra ranged attack, –2 on all'); }
-          var dmgMod = a.dmgMod + (a.nat && hasWeapon && a.row.mode === 'nat1' && M.Str > 0 ? Math.floor(M.Str / 2) - M.Str : 0);
+          var dmgMod = a.dmgMod + (a.row.vital ? a.firstExtra : 0) + (a.nat && hasWeapon && a.row.mode === 'nat1' && M.Str > 0 ? Math.floor(M.Str / 2) - M.Str : 0);
           return { name: a.name, count: a.nat ? Math.max(1, a.row.count || 1) : 1, bonuses: bonuses, touch: false, kind: kind === 'ranged' ? 'Ranged' : 'Melee',
-            dice: a.dice, mod: dmgMod, threat: a.threat, mult: a.mult, rider: a.row.rider || '' };
+            dice: a.dice, mod: dmgMod, threat: a.threat, mult: a.mult,
+            rider: [a.row.rider || '', a.firstExtra && !a.row.vital ? '+' + a.firstExtra + ' damage on the first attack (Dragon Style)' : ''].filter(Boolean).join(', ') };
         }));
       });
     });
@@ -975,6 +1000,8 @@
     // and the sin specialist wizard (docs/magic/variant-magic.md)
     if (c.s === 'witch' && chance(0.45)) { c.arch = ['White-Haired Witch']; c.whw = true; return; }
     if (c.s === 'wizard' && chance(0.3)) { c.sin = pick(Object.keys(SINS)); return; }
+    // the master of many styles (monk-archetypes.md): bonus style feats without their prerequisites, fused stances
+    if (c.s === 'monk' && chance(0.4)) { c.arch = ['Master of Many Styles']; c.moms = true; return; }
     var A = ARCH[c.s], list = STRONG_ARCH[c.s];
     if (!list || !A || A === 'loading' || (c.s !== 'monk' && !chance(0.5))) return;
     var have = list.filter(function (n) { return A.archetypes.some(function (a) { return a.name === n; }); });
@@ -1024,6 +1051,12 @@
         }
         S.sq = [S.sq, 'sin specialist (' + c.sin + ': ' + sin[0] + '; prohibited ' + sin.slice(1).join(' and ') + ')'].filter(Boolean).join(', ');
         S.special.push({ name: 'Sin Magic', type: 'Su', text: capFirst(c.sin) + ' (' + sin[0] + '): two extra slots of each spell level it can cast, both for the same ' + sin[0] + ' spell (prepared twice more); it can never prepare ' + sin.slice(1).join(' or ') + ' spells.' });
+      }
+      // master of many styles: a bonus style feat at 1st, 2nd and every 4 levels (6th, 10th...), taken with the feats
+      if (c.moms) {
+        S.bonusFeats = (S.bonusFeats || 0) + [1, 2, 6, 10, 14, 18].filter(function (l) { return l <= L; }).length;
+        S.special.push({ name: 'Fuse Style', type: 'Ex', text: 'It can have the stances of ' + (L >= 20 ? 'five' : L >= 15 ? 'four' : L >= 8 ? 'three' : 'two') + ' style feats active at once' +
+          (L >= 8 ? ', entering up to three as a swift action, and gains +1 on attack rolls per active style' : '') + '. Its bonus style feats ignore their prerequisites.' });
       }
       // the oathbound paladin's oath
       if (c.oath && DATA.oaths && DATA.oaths[c.oath]) {
@@ -1130,6 +1163,7 @@
   function makeAttack(name, mode) {
     var w = { n: name.toLowerCase(), mode: 'melee', d: '1d4', t: 20, x: 2, opt: 1 }, d = weaponData(name), nat = NATURAL[name.toLowerCase()];
     if (d) { w.n = d.n.toLowerCase(); w.d = d.d; w.t = d.t; w.x = d.x; w.cat = d.c; w.mode = d.c === 'ranged' ? 'ranged' : d.c === 'two-handed' ? 'two' : 'melee'; w.strDmg = d.p !== 'blaster' && (/sling|throw|composite/i.test(d.n) || (d.c === 'ranged' && !/bow|crossbow|gun|pistol|musket|rifle|firearm/i.test(d.n))); }
+    else if (name.toLowerCase() === 'unarmed strike') { w.d = nat[0]; w.cat = 'light'; } // a light weapon, with iteratives (and an amulet of mighty fists)
     else if (nat) { w.d = nat[0]; w.cat = 'natural'; w.mode = nat[1] ? 'nat2' : 'nat1'; }
     if (mode) w.mode = mode;
     return w;
@@ -1201,7 +1235,20 @@
     };
     var groupOf = function (w) { return 'Weapon Focus (' + (weaponGroups(w)[0] || w.n) + ')'; };
     // two weapons: Two-Weapon Fighting, Double Slice and what follows
-    if ((concept === 'warrior' || concept === 'skirmisher' || concept === 'sw-warrior') && melee.length && bab >= 1 && !/gunslinger|shifter|alchemist|kineticist|kinetic-shinobi|deadeye-hexer|omdura|medium/.test(((S.classes || [])[0] || {}).s || ''))
+    var cls0 = ((S.classes || [])[0] || {}).s || '', moms = ((S.classes || [])[0] || {}).moms;
+    // fighting styles of weapons, not of fists, kinetic blasts, bombs or claws
+    var armed = !/gunslinger|shifter|alchemist|kineticist|kinetic-shinobi|deadeye-hexer|omdura|medium|monk|brawler/.test(cls0);
+    // the base attack bonus for combat feats' prerequisites: Weapon Focus's +1 (the wiki's: +1 BAB with its group, which
+    // counts for offensive feats) and a legendary fighter's Feat Aptitude (+1/3 its level from 3rd, so Vital Strike at 4th)
+    var lfL = lvl('legendary-fighter'), eff = bab + 1 + (lfL >= 3 ? Math.min(5, Math.floor(lfL / 3)) : 0);
+    var swapMain = function (names, cats) {
+      var w = makeAttack(firstWeapon(names, cats));
+      S.weapons = [w].concat(S.weapons.filter(function (x) { return /^(ranged|thrown)$/.test(x.mode); }).map(function (x) { x.opt = 2; return x; }));
+      if (w.mode === 'two') S.shield = '';
+      return w;
+    };
+    var mainMelee = function () { return S.weapons.filter(function (w) { return /^(melee|two)$/.test(w.mode); })[0] || S.weapons[0]; };
+    if ((concept === 'warrior' || concept === 'skirmisher' || concept === 'sw-warrior') && melee.length && bab >= 1 && armed)
       out.push({ label: 'two-weapon fighter', setup: function () {
         var saber = SWM && S.weapons.some(function (w) { return /lightsaber/i.test(w.n); });
         var main = saber ? makeAttack(pick(SWD.weapons.filter(function (w) { return !w.blaster && w.c !== 'two-handed'; })).n)
@@ -1224,7 +1271,7 @@
     // a fighter's weapon
     if (lvl('fighter') >= 4 && (melee[0] || ranged[0]))
       out.push({ label: 'weapon master', feats: function () {
-        var w = melee[0] || ranged[0], f = lvl('fighter');
+        var w = (S.weapons.some(function (x) { return /^(melee|two)$/.test(x.mode); }) ? mainMelee() : null) || ranged[0], f = lvl('fighter');
         return [groupOf(w), 'Weapon Specialization (' + w.n + ')', f >= 8 ? 'Greater Weapon Focus (' + w.n + ')' : '', bab >= 8 ? 'Improved Critical (' + w.n + ')' : '', f >= 12 ? 'Greater Weapon Specialization (' + w.n + ')' : ''];
       } });
     // bows, crossbows and blasters
@@ -1239,6 +1286,69 @@
         var count = nats.reduce(function (t, w) { return t + (w.count || 1); }, 0);
         return ['Weapon Focus (natural)', bab >= 4 ? 'Improved Natural Attack (' + nats[0].n + ')' : '', count >= 3 ? 'Multiattack' : '', S.abil.Con >= 13 ? 'Improved Natural Armor' : '',
           bab >= 6 ? 'Vital Strike' : '', 'Furious Focus', bab >= 11 ? 'Improved Vital Strike' : '', S.specialAttacks ? 'Ability Focus (breath weapon)' : ''];
+      } });
+    var warriorish = concept === 'warrior' || concept === 'brute';
+    // one huge blow: a big two-handed weapon, Vital Strike and Devastating Strike (a legendary fighter has it from 4th);
+    // the stat block gets a Vital Strike attack
+    if (warriorish && armed && melee.length && eff >= 6)
+      out.push({ label: 'vital striker', prio: lfL >= 4 && chance(0.6), setup: function () {
+        var m = mainMelee();
+        if (m.mode !== 'two' && chance(0.75)) swapMain(['Earth breaker', 'Greatsword', 'Greataxe', 'Bardiche'], ['two-handed']);
+      }, feats: function () {
+        return [groupOf(mainMelee()), 'Vital Strike', mainMelee().mode === 'two' ? 'Furious Focus' : '', eff >= 9 ? 'Devastating Strike' : '', eff >= 11 ? 'Improved Vital Strike' : '',
+          eff >= 13 ? 'Improved Devastating Strike' : '', eff >= 16 ? 'Greater Vital Strike' : ''];
+      } });
+    // a reach weapon that holds the line: Combat Reflexes, Stand Still, Lunge and Step Up
+    if (warriorish && armed && melee.length && eff >= 6)
+      out.push({ label: 'lockdown', setup: function () {
+        var w = swapMain(['Glaive', 'Longspear', 'Ranseur', 'Hammer, lucerne', 'Bec de corbin'], ['two-handed']);
+        w.rider = [w.rider, 'reach 10 ft.'].filter(Boolean).join(', ');
+        S.abil.Dex = Math.max(S.abil.Dex, 13);
+      }, feats: function () {
+        var f = lvl('fighter') + lfL;
+        return [groupOf(mainMelee()), 'Combat Reflexes', 'Stand Still', 'Lunge', 'Step Up', 'Following Step', f >= 6 ? 'Disruptive' : '', f >= 10 ? 'Spellbreaker' : ''];
+      } });
+    // a tripper: a guisarme or a whip, Improved and Greater Trip, and attacks of opportunity on the fallen
+    if (warriorish && armed && melee.length && bab >= 1)
+      out.push({ label: 'tripper', setup: function () {
+        var w = swapMain(['Guisarme', 'Guisarme', 'Flail, heavy'], ['two-handed', 'one-handed']);
+        w.rider = [w.rider, /guisarme/.test(w.n) ? 'reach 10 ft., trip' : 'trip'].filter(Boolean).join(', ');
+      }, feats: function () {
+        return [groupOf(mainMelee()), 'Improved Trip', 'Combat Reflexes', eff >= 6 ? 'Deft Maneuvers' : '', eff >= 6 ? 'Greater Trip' : '', eff >= 6 ? 'Felling Smash' : '', eff >= 6 ? 'Lunge' : ''];
+      } });
+    // sword and board: a spiked shield as the off-hand weapon, Improved Shield Bash, Shield Slam and Shield Master
+    if (concept === 'warrior' && armed && melee.length && bab >= 1 && armorData('Shield, heavy steel'))
+      out.push({ label: 'shield bash', setup: function () {
+        var m = swapMain(['Longsword', 'Battleaxe', 'Flail', 'Warhammer', 'Heavy mace'], ['one-handed']);
+        var off = makeAttack(firstWeapon(['Spiked shield, heavy', 'Shield, heavy'], ['one-handed']), 'off');
+        off.innate = true; // the shield it carries (in Gear once, as its shield)
+        S.weapons.splice(1, 0, off);
+        S.shield = 'Shield, heavy steel'; S.abil.Dex = Math.max(S.abil.Dex, bab >= 6 ? 15 : 14);
+        if (m.mode !== 'melee') m.mode = 'melee';
+      }, feats: function () {
+        return ['Two-Weapon Fighting', 'Improved Shield Bash', groupOf(mainMelee()), 'Double Slice', eff >= 6 ? 'Shield Slam' : '', bab >= 6 ? 'Improved Two-Weapon Fighting' : '',
+          eff >= 11 ? 'Shield Master' : '', eff >= 11 ? 'Bashing Finish' : ''];
+      } });
+    // the dragon's fist: Dragon Style (1-1/2 Str on the first blow), Dragon Ferocity and Dragon Roar; a master of many
+    // styles adds Ascetic Style so a strong monk weapon (a nine-ring broadsword, a tri-point sword) counts as a fist, and
+    // fuses two more styles
+    if (/^(monk|unchained-monk|brawler)$/.test(cls0))
+      out.push({ label: 'dragon fist', prio: !!moms || chance(0.6), setup: function () {
+        S.abil.Str = Math.max(S.abil.Str, 15); ranks('Acrobatics', hd);
+        if (moms || (hd >= 5 && chance(0.4))) {
+          var w = makeAttack(firstWeapon(['Broadsword, nine ring', 'Sword, tri-point double-edged', 'Sansetsukon'].concat(cls0 === 'brawler' ? [] : ['Sword, temple']), ['one-handed', 'two-handed']));
+          w.ascetic = true;
+          // a core monk is not proficient with them (an unchained monk is, with any monk weapon; a brawler with martial ones)
+          // the table lets it learn that proficiency with experience, without spending a feat
+          if (cls0 === 'monk') S.sq = [S.sq, 'proficient with the ' + w.n + ' (learned with experience)'].filter(Boolean).join(', ');
+          if (/tri-point/.test(w.n)) w.rider = 'reach 10 ft.';
+          S.weapons = [w].concat(S.weapons.filter(function (x) { return x.n === 'unarmed strike' || /^(ranged|thrown)$/.test(x.mode); }).map(function (x) { x.opt = 2; return x; }));
+        }
+      }, feats: function () {
+        var w = S.weapons[0], asc = !!w.ascetic, other = pick(['Tiger Style', 'Snake Style', 'Crane Style', 'Panther Style', 'Pummeling Style']);
+        return [asc ?'Weapon Focus (monk)' : groupOf(w), 'Dragon Style', asc ? 'Ascetic Style' : '', moms ? other : '', cls0 === 'brawler' ? 'Stunning Fist' : '',
+          hd >= 5 ? 'Dragon Ferocity' : '', asc && hd >= 5 ? 'Ascetic Form' : '', asc && hd >= 7 ? 'Ascetic Strike' : '', hd >= 8 ? 'Dragon Roar' : '',
+          moms && hd >= 6 ? pick(['Tiger Claws', 'Snake Sidewind', 'Crane Wing', 'Pummeling Charge']) : '', bab >= 8 ? 'Elemental Fist' : ''];
       } });
     // casters: the biggest area spell with Spell Focus and Spell Specialization, or a crippling spell with Greater Spell Focus
     var cast = S.casters[0];
@@ -1263,6 +1373,23 @@
       } });
     }
     return out;
+  }
+  // the builds that choose the enemy's weapons
+  var SWAPS = /^(two-weapon fighter|vital striker|lockdown|tripper|shield bash|dragon fist)$/;
+  // an enemy with Vital Strike gets its own attack for it: its main weapon (or first natural attack), one blow, the dice
+  // rolled 3 times (4 with Improved, 5 with Greater) and Devastating Strike's +2 per extra roll (+6 at most)
+  function vitalRow() {
+    var lower = (S.feats || []).map(function (f) { return f.toLowerCase(); });
+    var mult = lower.indexOf('greater vital strike') >= 0 ? 5 : lower.indexOf('improved vital strike') >= 0 ? 4 : lower.indexOf('vital strike') >= 0 ? 3 : 0;
+    if (!mult) return;
+    var w = S.weapons.filter(function (x) { return /^(melee|two)$/.test(x.mode) && !x.single && !x.fixed && !x.vital; })[0] || S.weapons.filter(function (x) { return x.mode === 'nat1'; })[0];
+    if (!w) return;
+    var v = clone(w), opts = S.weapons.map(function (x) { return x.opt || 1; });
+    v.vital = mult; v.count = 1; v.mode = w.mode === 'nat1' ? 'melee' : w.mode; v.innate = true;
+    if (/^nat/.test(w.mode)) { v.mode = 'melee'; v.cat = 'natural'; }
+    v.opt = Math.max.apply(null, opts) + 1;
+    if (lower.indexOf('devastating strike') >= 0) v.dmgMisc = (v.dmgMisc || 0) + Math.min(6, 2 * (mult - 1));
+    S.weapons.push(v);
   }
   var RAND_FORCE = null, RAND_LAST = null;
   // the classes a random humanoid can have, by concept: the rogue and the monk are their unchained versions (better in
@@ -1667,6 +1794,15 @@
         S.weapons.push(makeAttack(S.type === 'humanoid' ? firstWeapon(['Quarterstaff', 'Dagger', 'Light mace'], ['one-handed', 'light']) : pick(['claw', 'slam', 'bite'])));
         if (!/^nat/.test(S.weapons[0].mode) && S.weapons[0].mode === 'melee' && /quarterstaff/.test(S.weapons[0].n)) S.weapons[0].mode = 'two';
       }
+      // monks fight unarmored with their fists (and sometimes a monk weapon); a brawler with fists in light armor
+      if (/^(monk|unchained-monk|brawler)$/.test(clsSlug || '')) {
+        S.weapons = [makeAttack('unarmed strike')];
+        var mw = chance(0.5) && makeAttack(firstWeapon(['Kama', 'Nunchaku', 'Siangham', 'Sword, temple', 'Quarterstaff'], ['light', 'one-handed']));
+        if (mw) { if (/quarterstaff/.test(mw.n)) mw.mode = 'two'; mw.opt = 2; S.weapons.push(mw); }
+        var sh = makeAttack(firstWeapon(['Shuriken', 'Javelin'], ['ranged'])); sh.mode = 'thrown'; sh.opt = 2; S.weapons.push(sh);
+        S.shield = ''; S.armor = clsSlug === 'brawler' ? bestArmor('light') : '';
+        if (clsSlug !== 'brawler') { S.abil.Wis = Math.max(S.abil.Wis, 14); S.abil.Dex = Math.max(S.abil.Dex, 14); }
+      }
       // the omdura and the medium only know simple weapons (and the omdura medium armor and shields)
       if (/^(omdura|medium)$/.test(clsSlug || '')) {
         var two = chance(0.4);
@@ -1698,7 +1834,7 @@
         if (abil !== 'Cha') { var t2 = S.abil[abil]; S.abil[abil] = S.abil.Cha; S.abil.Cha = t2; }
         var clv = clsSlug ? S.classes[0].lvl : Math.max(1, Math.round(big * 1.2));
         // 6-level casters (bard, magus, inquisitor) get spells more slowly
-        var six = /^(bard|magus|inquisitor|skald|mesmerist|occultist|spiritualist|hunter|legendary-magus)$/.test(clsSlug) || !!S.classes[0].whw;
+        var six = /^(bard|magus|inquisitor|skald|mesmerist|occultist|spiritualist|hunter|legendary-magus)$/.test(clsSlug) || !!(S.classes[0] || {}).whw;
         var top = Math.max(clsSlug ? 0 : 1, six ? Math.min(6, Math.floor((clv + 2) / 3)) : Math.min(9, clsSlug && /sorcerer|oracle|psychic/.test(clsSlug) ? Math.floor(clv / 2) : Math.ceil(clv / 2)));
         var kind = !clsSlug ? 'Spell-Like Abilities' : /sorcerer|oracle|bard|inquisitor|skald|mesmerist|psychic|spiritualist|occultist|hunter|summoner|medium/.test(clsSlug) ? 'Spells Known' : 'Spells Prepared';
         if (/magus/.test(clsSlug || '')) { S.weapons = [makeAttack(firstWeapon(['Scimitar', 'Longsword', 'Rapier'], ['one-handed']))]; S.armor = bestArmor('light'); }
@@ -1751,7 +1887,13 @@
     // feats an element needs (Naruto), then bonus feats a class gives by name (the White-Haired Witch's Hex Strike), go in first
     ((S.sw && S.sw.needFeats) || []).forEach(function (n) { if (F.indexOf(n) < 0) F.push(n); });
     if ((S.classes || []).some(function (c) { return c.whw && c.lvl >= 5; }) && featOk('Hex Strike')) addF('Hex Strike');
-    var builds = shuffle(randomBuilds(concept, D0, sk)).slice(0, D0.featSlots >= 6 ? 2 : 1);
+    // (a build its class is known for goes first; two builds that each pick the weapons do not go together)
+    var builds = [], allB = shuffle(randomBuilds(concept, D0, sk));
+    allB.filter(function (b) { return b.prio; }).concat(allB.filter(function (b) { return !b.prio; })).forEach(function (b) {
+      if (builds.length >= (D0.featSlots >= 6 ? 2 : 1)) return;
+      if (SWAPS.test(b.label) && builds.some(function (x) { return SWAPS.test(x.label); })) return;
+      builds.push(b);
+    });
     builds.forEach(function (b) { if (b.setup) b.setup(); });
     builds.forEach(function (b) { b.feats().filter(function (n) { return n && featOk(n.replace(/\s*\(.*$/, '')); }).forEach(addF); });
     var mainW = S.weapons[0], wfOf = function (w) { var g = weaponGroups(w); return 'Weapon Focus (' + (g[0] || w.n) + ')'; };
@@ -1777,6 +1919,7 @@
     if (featOk('Skill Focus')) sk.forEach(function (n) { addF('Skill Focus (' + n.toLowerCase() + ')'); });
     S.feats = F;
     tuneToCR(T, cr, classed);
+    vitalRow();
     if (!SWM && !classed) monsterAbilities(cr);
     if ((S.classes || []).some(function (c) { return c.s === 'barbarian'; })) randomRagePowers();
     if (tierN) randomMythic(tierN, concept);
@@ -1802,20 +1945,60 @@
     if (over > 2 && S.armor) { var ak = (armorData(S.armor) || {}).k; S.armor = over > 5 || ak === 'light' ? '' : bestArmor(ak === 'heavy' ? 'medium' : 'light'); }
     D = compute();
     // AC: magic armor, a ring of protection, then natural armor (or an amulet)
-    var gap = T.ac - D.ac;
-    if (gap > 0 && S.armor) { S.armorEnh = Math.min(gap, 5, Math.floor(big / 3)); gap -= S.armorEnh; }
-    if (gap > 0 && S.shield) { S.shieldEnh = Math.min(gap, 5, Math.floor(big / 4)); gap -= S.shieldEnh; }
-    if (gap > 0 && classed) { S.deflection = Math.min(gap, 5, Math.floor(big / 4)); gap -= S.deflection; }
-    if (gap > 0) { S.natural = classed ? Math.min(gap, 5, Math.floor(big / 4)) : gap; gap -= S.natural; }
+    var gap = T.ac - D.ac, want = { armor: 0, shield: 0, ring: 0, amulet: 0, weapon: 0, cloak: 0 };
+    if (gap > 0 && S.armor) { want.armor = Math.min(gap, 5, Math.floor(big / 3)); gap -= want.armor; }
+    if (gap > 0 && S.shield) { want.shield = Math.min(gap, 5, Math.floor(big / 4)); gap -= want.shield; }
+    if (gap > 0 && classed) { want.ring = Math.min(gap, 5, Math.floor(big / 4)); gap -= want.ring; }
+    if (gap > 0) { want.amulet = classed ? Math.min(gap, 5, Math.floor(big / 4)) : gap; gap -= want.amulet; }
     // attack: magic weapons, then a racial (or a buff's) bonus
+    a = top(D);
+    if (a != null && a < T.atk) want.weapon = Math.min(T.atk - a, 5, Math.floor(big / 3));
+    // saves: a cloak of resistance
+    ['Fort', 'Ref', 'Will'].forEach(function (k) {
+      var ws = D.saves[k] >= (T.good + T.poor) / 2 ? T.good : T.poor, d = ws - D.saves[k];
+      if (d > 0) want.cloak = Math.max(want.cloak, classed ? Math.min(d, Math.max(1, Math.ceil(big / 3))) : d);
+    });
+    // the weapons it fights with (its first attack option's), and whether they are its fists (an amulet of mighty fists)
+    var magicOk = function (w) { return !/^nat/.test(w.mode) && !w.single && !w.fixed && !w.dmgAbil && !w.innate; };
+    var firstOpt = S.weapons.filter(function (w) { return magicOk(w) && (w.opt || 1) === 1 && !/^(ranged|thrown)$/.test(w.mode); });
+    if (!firstOpt.length) firstOpt = S.weapons.filter(function (w) { return magicOk(w) && (w.opt || 1) === 1; });
+    var fists = firstOpt.some(function (w) { return w.n === 'unarmed strike'; }), blades = firstOpt.filter(function (w) { return w.n !== 'unarmed strike'; }).length;
+    var got = { armor: 0, shield: 0, ring: 0, amulet: 0, weapon: 0, cloak: 0 }, gold = Infinity, potions = [];
+    if (!classed) { got = want; got.ring = 0; }
+    else {
+      // a classed enemy buys its items with at most 300 gp per level: a +1 item when it can (even if its numbers are
+      // already there), more only for the CR's numbers; martials buy their weapon first, casters their armor and cloak
+      var lv = Math.max(1, (S.classes || []).reduce(function (t, c) { return t + (c.lvl || 0); }, 0));
+      gold = 300 * lv;
+      if (big >= 3) { if (S.armor) want.armor = Math.max(1, want.armor); if (firstOpt.length) want.weapon = Math.max(1, want.weapon); want.cloak = Math.max(1, want.cloak); if (S.shield) want.shield = Math.max(1, want.shield); }
+      if (fists) want.amulet = 0; // one amulet: mighty fists
+      var price = { weapon: function (e) { return 2000 * e * e * blades + (fists ? 4000 * e * e : 0); }, armor: function (e) { return 1000 * e * e; }, shield: function (e) { return 1000 * e * e; },
+        cloak: function (e) { return 1000 * e * e; }, ring: function (e) { return 2000 * e * e; }, amulet: function (e) { return 2000 * e * e; } };
+      var order = S.casters.length && !/^(melee|two)$/.test((firstOpt[0] || {}).mode || '') ? ['armor', 'cloak', 'ring', 'weapon', 'shield', 'amulet'] : ['weapon', 'armor', 'cloak', 'shield', 'ring', 'amulet'];
+      for (var more = true; more;) {
+        more = false;
+        order.forEach(function (k) {
+          if (got[k] >= want[k]) return;
+          var c = price[k](got[k] + 1) - price[k](got[k]);
+          if (c <= gold) { gold -= c; got[k]++; more = true; }
+        });
+      }
+      // no magic weapon yet: masterwork ones
+      if (!got.weapon) firstOpt.forEach(function (w) { if (w.n !== 'unarmed strike' && gold >= 300) { w.mwk = true; gold -= 300; } });
+      // what is left: healing potions
+      if (!SWM) {
+        if (gold >= 750 && big >= 7) { potions.push('potion of cure serious wounds'); gold -= 750; }
+        var nm = Math.min(2, Math.floor(gold / 300)); if (nm) { potions.push(nm + ' potion' + (nm > 1 ? 's' : '') + ' of cure moderate wounds'); gold -= 300 * nm; }
+        var nl = Math.min(3, Math.floor(gold / 50)); if (nl) { potions.push(nl + ' potion' + (nl > 1 ? 's' : '') + ' of cure light wounds'); gold -= 50 * nl; }
+      }
+    }
+    S.armorEnh = got.armor; S.shieldEnh = got.shield; S.deflection = got.ring; S.natural = got.amulet;
+    if (got.weapon) (classed ? firstOpt : S.weapons.filter(magicOk)).forEach(function (w) { w.enh = got.weapon; });
     D = compute();
     a = top(D);
     if (a != null && a < T.atk) {
-      var enh = Math.min(T.atk - a, 5, Math.floor(big / 3));
-      S.weapons.forEach(function (w) { if (!/^nat/.test(w.mode) && !w.single && !w.fixed && !w.dmgAbil) w.enh = enh; });
-      D = compute(); a = top(D);
       var rest = T.atk - a;
-      if (rest > 0) S.weapons.forEach(function (w) { w.misc = (w.misc || 0) + (classed ? Math.ceil(rest / 2) : rest); });
+      S.weapons.forEach(function (w) { w.misc = (w.misc || 0) + (classed ? Math.ceil(rest / 2) : rest); });
     }
     // damage: the average of the first full attack
     D = compute();
@@ -1839,10 +2022,11 @@
     }
     // saves: a cloak of resistance, or racial bonuses
     D = compute();
-    var res = 0;
+    var res = got.cloak;
     ['Fort', 'Ref', 'Will'].forEach(function (k) {
-      var want = D.saves[k] >= (T.good + T.poor) / 2 ? T.good : T.poor, d = want - D.saves[k];
-      if (d > 0) { var v = classed ? Math.min(d, Math.max(1, Math.ceil(big / 3))) : d; S.saveMisc[k] = v; res = Math.max(res, v); }
+      if (classed) { S.saveMisc[k] = res; return; } // the cloak's bonus, on all three
+      var ws = D.saves[k] >= (T.good + T.poor) / 2 ? T.good : T.poor, d = ws - D.saves[k];
+      if (d > 0) S.saveMisc[k] = d;
     });
     // hit points
     D = compute();
@@ -1853,10 +2037,14 @@
       if (S.armorEnh) gear.push('+' + S.armorEnh + ' ' + S.armor.toLowerCase());
       else if (S.armor) gear.push(S.armor.toLowerCase());
       if (S.shield) gear.push((S.shieldEnh ? '+' + S.shieldEnh + ' ' : '') + S.shield.toLowerCase());
-      S.weapons.filter(function (w) { return !/^nat/.test(w.mode) && !w.single && !w.fixed && !w.innate; }).forEach(function (w) { gear.push((w.enh ? '+' + w.enh + ' ' : '') + w.n); });
+      S.weapons.filter(function (w) { return !/^nat/.test(w.mode) && !w.single && !w.fixed && !w.innate && w.n !== 'unarmed strike'; })
+        .forEach(function (w) { gear.push((w.enh ? '+' + w.enh + ' ' : w.mwk ? 'masterwork ' : '') + w.n); });
+      if (fists && got.weapon) gear.push('amulet of mighty fists +' + got.weapon);
       if (S.deflection) gear.push('ring of protection +' + S.deflection);
       if (S.natural) gear.push('amulet of natural armor +' + S.natural);
       if (res && !SWM) gear.push('cloak of resistance +' + res);
+      gear = gear.concat(potions);
+      if (gold >= 1 && gold < Infinity && !SWM) gear.push(Math.floor(gold) + ' gp');
       S.gear = gear.join(', ');
       if (wEnh && SWM) S.gear = S.gear.replace(/\+(\d) (?=\S*(?:lightsaber|rifle|pistol))/gi, 'mod +$1 ');
     }
