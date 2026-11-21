@@ -1328,6 +1328,8 @@
     if (POWER_EXCL.test(n)) return false;
     if (f.kind === 'force') {
       if (FORCE_ALIAS[u]) return !(f.dark ? /^(cure|heal|heroism|calm)/.test(u) : /^(inflict|harm|enervation|vampiric|circle-of-death|power-word-kill|crushing)/.test(u) || /lightning|shock|chain-lightning/.test(u));
+      // a damage spell of another energy becomes a Force one: a push (bludgeoning) or, for the dark side, lightning
+      if (energyDamage(s) && !/good|evil|lawful|chaotic/.test(desc) && !(f.dark && /electricity/.test(desc))) return 'convert';
       if (ELEMENT_WORDS.test(n) || /fire|cold|acid|water|earth|air|sonic|good|evil|lawful|chaotic|light\b/.test(desc)) return false;
       if (/enchantment|divination/.test(sch)) return true;
       if (/abjuration/.test(sch)) return !/magic circle|planar|dismissal|banish/i.test(n);
@@ -1363,7 +1365,7 @@
     return false;
   }
   function powerName(s, f, fit) {
-    if (f.kind === 'force') return FORCE_ALIAS[s.u] || '';
+    if (f.kind === 'force') return FORCE_ALIAS[s.u] || (fit === 'convert' ? 'Force ' + titleCase(s.n) : '');
     if (f.kind === 'tech') return TECH_ALIAS[s.u] || '';
     if (f.kind === 'jutsu') return (/^(element|convert):/.test(fit) ? fit.split(':')[1] + ' Style' : fit === 'genjutsu' ? 'Genjutsu' : 'Ninjutsu') + ': ' + titleCase(s.n);
     return '';
@@ -1389,7 +1391,7 @@
       if (elemental) elem++;
       if (as) seen[as] = 1;
       // the energy it deals now, when it was a spell of another one
-      var conv = /^convert/.test(p.fit) ? (f.kind === 'jutsu' ? ELEMENT_ENERGY[p.fit.split(':')[1]] : HERO_ENERGY[f.theme]) : '';
+      var conv = /^convert/.test(p.fit) ? (f.kind === 'jutsu' ? ELEMENT_ENERGY[p.fit.split(':')[1]] : f.kind === 'force' ? (f.dark && chance(0.6) ? 'electricity' : 'bludgeoning') : HERO_ENERGY[f.theme]) : '';
       out.push({ n: p.s.n, u: p.s.u, lvl: L, uses: '', as: as || undefined, conv: conv || undefined });
     });
     return out;
