@@ -684,7 +684,8 @@
       m.special.push({ name: 'Mythic Power', type: 'Su', text: (2 + MT) + '/day. Mythic tier ' + MT + ' (Unbound Path): its mythic abilities spend uses of it.' });
       S.mythic.picks.filter(function (p) { return p.kind === 'ability'; }).forEach(function (p) { m.special.push({ name: p.n, type: p.type || '', text: p.text || '' }); });
     }
-    D.features.filter(function (x) { return x.on; }).forEach(function (x) {
+    // the class's "Spells" feature is only how its casting works: the spell block shows the spells themselves
+    D.features.filter(function (x) { return x.on && !(m.spells && /^(spells|spellcasting|cantrips|orisons)$/.test(x.base)); }).forEach(function (x) {
       var nm = x.label || x.name, b = { name: nm, type: x.type, text: x.text || nm };
       var dice = nm.match(/\b\d+d\d+(?:[+-]\d+)?/);
       if (dice) b.rolls = [[nm.replace(/\s*\+?\d+d\d+.*$/, '') || 'roll', dice[0]]];
@@ -1679,6 +1680,22 @@
         // the casting ability so the highest spell's DC is about the CR's primary DC
         S.abil[abil] = Math.max(12, Math.min(40, 10 + 2 * (T.dc - 10 - top) + 1));
         S.casters.push({ kind: kind, cls: list, cl: clv, abil: abil, spells: sp });
+      }
+    }
+    // a fighting enemy of a spellcasting class (ranger, paladin, bloodrager, warpriest...): its own spells, at its pace
+    // (4-level casters from 4th level at caster level -3, 6-level casters from 1st), instead of the class's "Spells" text
+    if (!SWM && classed && !S.casters.length && S.classes[0]) {
+      var cs = S.classes[0].s.replace(/^(legendary|unchained)-/, ''), cL = S.classes[0].lvl || 1;
+      if (CLASSES.indexOf(cs) >= 0 && !/^(alchemist|investigator|kineticist|shifter)$/.test(cs)) {
+        var four = /^(ranger|paladin|antipaladin|bloodrager)$/.test(cs), sixC = /^(bard|magus|inquisitor|skald|warpriest|hunter|mesmerist|occultist|spiritualist|summoner|medium)$/.test(cs);
+        var cTop = four ? (cL >= 13 ? 4 : cL >= 10 ? 3 : cL >= 7 ? 2 : cL >= 4 ? 1 : 0) : sixC ? Math.min(6, Math.floor((cL + 2) / 3)) : Math.min(9, Math.ceil(cL / 2));
+        if (cTop) {
+          var cKind = /^(bloodrager|bard|skald|inquisitor|hunter|mesmerist|occultist|spiritualist|summoner|medium|sorcerer|oracle|psychic)$/.test(cs) ? 'Spells Known' : 'Spells Prepared';
+          var cSp = randomSpells(cs, cTop, 2, cKind === 'Spells Prepared' ? function () { return 1; } : function () { return ''; });
+          if (four) cSp = cSp.filter(function (x) { return x.lvl > 0; });
+          var cAbil = /^(magus|occultist|wizard|witch|arcanist|psychic)$/.test(cs) ? 'Int' : /^(ranger|warpriest|inquisitor|hunter|cleric|druid|shaman|spiritualist)$/.test(cs) ? 'Wis' : 'Cha';
+          if (cSp.length) S.casters.push({ kind: cKind, cls: cs, cl: four ? Math.max(1, cL - 3) : cL, abil: cAbil, spells: cSp });
+        }
       }
     }
     if (!SWM) archetypeExtras();
