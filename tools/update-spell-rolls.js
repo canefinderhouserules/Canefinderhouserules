@@ -10,7 +10,7 @@ const { spellRoll } = require('./spell-rolls.js');
 const MON = path.join(__dirname, '..', 'docs', 'monsters');
 const dec = s => s.replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
 const enc = s => s.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-const FIELDS = ['damage', 'damageLabel', 'heal', 'touch', 'melee', 'rays', 'effect', 'duration'];
+const FIELDS = ['damage', 'damageLabel', 'heal', 'touch', 'melee', 'rays', 'effect', 'duration', 'buff'];
 const mod = n => Math.floor((n - 10) / 2);
 
 function update(m) {

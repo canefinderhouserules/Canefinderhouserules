@@ -16,6 +16,8 @@ Open the character's **Bio & Info** tab and keep the window beside the map: the 
 **Select the creature's token before clicking a button.** The buttons read the sheet of the selected token, so the character's name does not matter and a renamed or duplicated character keeps working. With no token selected, Roll20 shows a warning and rolls the base numbers, without buffs or conditions. To tie the buttons to one character instead, so they work without selecting a token, type its exact Roll20 name in the panel's **Character name** box before copying (leave out parentheses, which break Roll20 references).
 ## What the buttons do
 
+Each button posts a card like the ones the Pathfinder sheet's own rolls post, under the creature's name. On an attack, if the d20 threatens a critical hit, the card also shows the confirmation roll and the critical damage.
+
 - **Attacks**: each attack rolls the attack, damage and any rider, a critical confirmation and critical damage. Creatures with several attacks also get **Full attack**, which rolls every attack, including each of "2 claws" and each iterative attack.
 - **Init** rolls initiative and adds the selected token to the turn order.
 - **Saves and checks** roll the listed bonus.
@@ -27,7 +29,9 @@ Open the character's **Bio & Info** tab and keep the window beside the map: the 
 
 The rolls add the totals of the character's blank sheet. Those totals are 0 until a buff or condition changes them, so whatever you set on the sheet is added to the buttons:
 
-- Open the character sheet, click **Buffs**, click **+**, give it a name and write its modifiers, then tick it. Examples: Power Attack as `-1 to melee; +2 to melee damage`; Haste as `+1 to attack; +1 dodge to AC`; Bless as `+1 morale to attack`; `+2 to saves`; `+4 to stealth`. Separate modifiers with `;`.
+- Open the character sheet, click **Buffs**, click **+**, give it a name and write its modifiers, then tick it. Examples: Power Attack as `-1 to melee; +2 to melee damage`; Haste as `+1 to attack; +1 dodge to AC`; Bless as `+1 morale to attack`; `+2 to saves`; `+4 to stealth`. Separate modifiers with `;` or put one per line.
+- The **Buffs** row of the stat block has the creature's own buffs ready to copy: rage, bloodrage, inspired rage, inspire courage, smite, mutagen, Power Attack, Deadly Aim, Combat Expertise and its buff spells (shield of faith, haste, bull's strength...), worked out at its level and caster level. Copy one, paste it into a new Buff's modifiers and tick it.
+- Ability changes count too: `+4 to str` adds +2 to melee attacks, +2 to damage (+3 with a two-handed weapon, +1 with a secondary natural attack), +2 to CMB and to Strength skills; `+4 to con` adds +2 to Fortitude; `+4 to dex` adds +2 to ranged attacks, Reflex and initiative.
 - Tick a **Condition** (shaken, sickened and so on) and its penalties apply to the attack, save, check and initiative buttons.
 
 Buffs belong to the character, not the token: every token of the same character shares them. To buff one creature of a group, duplicate the character in the Journal and link that creature's token to the copy: the copied Bio & Info keeps working, since the buttons read the selected token.

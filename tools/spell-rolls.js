@@ -5,6 +5,7 @@
 //   damage, damageLabel  dice rolled as damage          heal    dice rolled as healing
 //   touch, rays          ranged touch attack per ray    melee   melee touch attack
 //   effect               text; dice in it become rolls  duration  the spell's duration at that CL
+//   buff                 lines for the sheet's Buffs box (BUFF below)
 'use strict';
 const fs = require('fs');
 const path = require('path');
@@ -181,6 +182,59 @@ const T = {
   'spell-turning': { effect: () => '[[1d4+6]] spell levels turned' },
 };
 
+// Buff spells: their effect in the words of the Pathfinder by Roll20 sheet's Buffs box ("+4 enhancement to str", one per
+// line), at the CL, to copy into the caster's sheet. Tested targets: str..cha, attack, melee, ranged, damage, melee
+// damage, ranged damage, cmb, cmd, AC (dodge, deflection, natural, armor, shield...), saves, fort, ref, will, skills,
+// init, speed, hp, temp hp. Effects with conditions (only against evil, only fear) are left to the spell's text.
+const ability = (k, n, type) => cl => ['+' + n + ' ' + type + ' to ' + k];
+const BUFF = {
+  'bless': () => ['+1 morale to attack'],
+  'prayer': () => ['+1 luck to attack', '+1 luck to damage', '+1 luck to saves', '+1 luck to skills'],
+  'heroism': () => ['+2 morale to attack', '+2 morale to saves', '+2 morale to skills'],
+  'heroism-greater': cl => ['+4 morale to attack', '+4 morale to saves', '+4 morale to skills', '+' + min(cl, 20) + ' to temp hp'],
+  'good-hope': () => ['+2 morale to attack', '+2 morale to damage', '+2 morale to saves', '+2 morale to skills'],
+  'aid': () => ['+1 morale to attack'],
+  'divine-favor': cl => { const n = max(1, min(fl(cl / 3), 3)); return ['+' + n + ' luck to attack', '+' + n + ' luck to damage']; },
+  'divine-power': cl => { const n = max(1, min(fl(cl / 3), 6)); return ['+' + n + ' luck to attack', '+' + n + ' luck to damage', '+' + cl + ' to temp hp']; },
+  'shield-of-faith': cl => ['+' + min(2 + fl(cl / 6), 5) + ' deflection to AC'],
+  'barkskin': cl => ['+' + min(2 + max(0, fl((cl - 3) / 3)), 5) + ' natural to AC'],
+  'magic-vestment': cl => ['+' + every(4, 5)(cl) + ' enhancement to AC'],
+  'magic-weapon': () => ['+1 enhancement to attack', '+1 enhancement to damage'],
+  'magic-weapon-greater': cl => ['+' + every(4, 5)(cl) + ' enhancement to attack', '+' + every(4, 5)(cl) + ' enhancement to damage'],
+  'magic-fang': () => ['+1 enhancement to melee', '+1 enhancement to melee damage'],
+  'magic-fang-greater': cl => ['+' + every(4, 5)(cl) + ' enhancement to melee', '+' + every(4, 5)(cl) + ' enhancement to melee damage'],
+  'shield': () => ['+3 shield to AC'],
+  'mage-armor': () => ['+4 armor to AC'],
+  'haste': () => ['+1 to attack', '+1 dodge to AC', '+1 dodge to ref', '+30 enhancement to speed'],
+  'rage': () => ['+2 morale to str', '+2 morale to con', '+1 morale to will', '-2 to AC'],
+  'bulls-strength': ability('str', 4, 'enhancement'), 'bulls-strength-mass': ability('str', 4, 'enhancement'),
+  'cats-grace': ability('dex', 4, 'enhancement'), 'cats-grace-mass': ability('dex', 4, 'enhancement'),
+  'bears-endurance': ability('con', 4, 'enhancement'), 'bears-endurance-mass': ability('con', 4, 'enhancement'),
+  'foxs-cunning': ability('int', 4, 'enhancement'), 'owls-wisdom': ability('wis', 4, 'enhancement'),
+  'eagles-splendor': ability('cha', 4, 'enhancement'),
+  'enlarge-person': () => ['+2 size to str', '-2 size to dex', '-1 size to attack', '-1 size to AC'],
+  'reduce-person': () => ['-2 size to str', '+2 size to dex', '+1 size to attack', '+1 size to AC'],
+  'righteous-might': () => ['+4 size to str', '+4 size to con', '-2 size to dex', '+2 natural to AC', '-1 size to attack', '-1 size to AC'],
+  'unholy-aura': () => ['+4 deflection to AC', '+4 resistance to saves'],
+  'holy-aura': () => ['+4 deflection to AC', '+4 resistance to saves'],
+  'shield-other': () => ['+1 deflection to AC', '+1 resistance to saves'],
+  'foresight': () => ['+2 insight to AC', '+2 insight to ref'],
+  'resistance': () => ['+1 resistance to saves'],
+  'true-strike': () => ['+20 insight to attack'],
+  'longstrider': () => ['+10 enhancement to speed'],
+  'expeditious-retreat': () => ['+30 enhancement to speed'],
+  'spider-climb': () => ['+8 racial to climb'],
+};
+for (const k of ['protection-from-evil', 'protection-from-good', 'protection-from-law', 'protection-from-chaos',
+  'magic-circle-against-evil', 'magic-circle-against-good', 'magic-circle-against-law', 'magic-circle-against-chaos'])
+  BUFF[k] = () => ['+2 deflection to AC', '+2 resistance to saves'];
+// buff spells the damage table above does not list yet
+T['heroism-greater'] = T['heroism-greater'] || { effect: cl => '+4 morale on attacks, saves and skill checks, immune to fear, ' + min(cl, 20) + ' temporary hp' };
+for (const [k, a] of [['foxs-cunning', 'Intelligence'], ['owls-wisdom', 'Wisdom'], ['bulls-strength-mass', 'Strength'], ['cats-grace-mass', 'Dexterity'], ['bears-endurance-mass', 'Constitution']])
+  T[k] = T[k] || { effect: () => '+4 enhancement to ' + a };
+for (const k of ['protection-from-law', 'protection-from-chaos', 'magic-circle-against-law', 'magic-circle-against-chaos'])
+  T[k] = T[k] || { effect: () => '+2 deflection to AC and +2 resistance on saves against ' + (/law/.test(k) ? 'lawful' : 'chaotic') + ' creatures' + (/circle/.test(k) ? ', 10-ft. radius' : '') };
+
 // "1 min./level (D)" at CL 7 -> "7 min. (D)"; "1 round + 1 round per three levels" -> worked out too
 const NUMS = { two: 2, three: 3, four: 4, five: 5, six: 6 };
 const durationCache = {};
@@ -221,6 +275,7 @@ function spellRoll(s, slug, cl) {
     const e = r.effect && r.effect(cl);
     if (e) s.effect = e;
   }
+  if (BUFF[slug]) s.buff = BUFF[slug](cl);
   const d = durationAt(slug, cl);
   if (d) s.duration = d;
   // metamagic on the stat block line: maximized = top of every die, empowered = half again
