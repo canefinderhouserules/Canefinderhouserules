@@ -254,7 +254,7 @@
     if (!barbL && !unchL && !bloodL && /(^|[^a-z])rage\b/.test(text.replace(/bloodrage|raging song|rage powers?/g, ''))) barbL = HD;
     if (unchL) {
       var u = unchL >= 20 ? 4 : unchL >= 11 ? 3 : 2;
-      add('Rage', ['+' + u + ' morale to melee', '+' + u + ' morale to melee damage', '+' + u + ' morale to will', '-2 to AC', '+' + u * HD + ' to temp hp']);
+      add('Rage', ['+' + u + ' morale to melee', '+' + u + ' morale to melee damage', '+' + u + ' morale to will', '-2 to AC', '+' + u * HD + ' to hp']);
     }
     [['Rage', barbL], ['Bloodrage', bloodL]].forEach(function (r) {
       if (!r[1]) return;
