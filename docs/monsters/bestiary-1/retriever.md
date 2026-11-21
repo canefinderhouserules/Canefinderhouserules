@@ -18,7 +18,7 @@ CE Huge construct (extraplanar)
 **Offense**
 
 **Speed** 50 ft.  
-**Melee** bite +20 (1d8+6 plus grab), 4 claws +19 (2d6+6/19–20)  
+**Melee** bite +20 (1d8+6 plus grab), 4 claws +20 (2d6+6/19–20)  
 **Space** 15 ft., **Reach** 15 ft.  
 **Special Attacks** eye rays (+16 ranged touch)  
 **Spell-Like Abilities** (CL 20th)  
@@ -28,8 +28,8 @@ At will—*[discern location](../../magic/spells/discern-location.md)*
 
 **Str** 22, **Dex** 16, **Con** —, **Int** 3, **Wis** 11, **Cha** 1  
 **Base Atk** +15; **CMB** +23 (+27 grapple); **CMD** 36 (40 vs. trip)  
-**Feats** [Cleave](../../rules/feats/cleave.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Critical (claw)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (bite)](../../rules/feats/weapon-focus.md); [Power Attack](../../rules/feats/power-attack.md) (no feat needed)  
-*House rules: Power Attack needs no feat; in their place: Weapon Focus (bite).*  
+**Feats** [Cleave](../../rules/feats/cleave.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Critical (claw)](../../rules/feats/improved-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Toughness](../../rules/feats/toughness.md), [Weapon Focus (naturals)](../../rules/feats/weapon-focus.md); [Power Attack](../../rules/feats/power-attack.md) (no feat needed)  
+*House rules: Power Attack needs no feat; in their place: Weapon Focus (Naturals).*  
 **Skills** Perception +15  
 **Languages** Abyssal (cannot speak)  
 **SQ** relentless
