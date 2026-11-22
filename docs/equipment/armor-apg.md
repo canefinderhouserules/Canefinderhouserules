@@ -15,8 +15,8 @@ These armors follow the same rules as the armors presented in the Pathfinder RPG
 | *Heavy armor* | | | | | | | | |
 | Agile half-plate | 850 gp | +8 | +0 | –7 | 40% | 20 ft.² | 15 ft.² | 55 lbs. |
 | *Shields* | | | | | | | | |
-| Quickdraw shield, light wooden | 53 gp | +1 | — | –2 | 5% | — | — | 6 lbs. |
-| Quickdraw shield, light steel | 59 gp | +1 | — | –2 | 5% | — | — | 7 lbs. |
+| Quickdraw shield, light wooden | 53 gp | +2 | — | –2 | 5% | — | — | 6 lbs. |
+| Quickdraw shield, light steel | 59 gp | +2 | — | –2 | 5% | — | — | 7 lbs. |
 
 Weight figures are for armor sized to fit Medium characters. Armor fitted for Small characters weighs half as much, and armor fitted for Large characters weighs twice as much.
 

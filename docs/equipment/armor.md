@@ -2,6 +2,9 @@
 
 For most, armor is the simplest way to protect oneselfin a world of rampant threats and dangers. Many characters can wear only the simplest of armors, and only some can use shields. To wear heavier armor effectively, a character can select the Armor Proficiency feats, but most classes are automatically proficient with the armors that work best for them.
 
+!!! warning "House rules (shields)"
+    Shields are stronger at this table than in the book: light shields (and the klar, madu and dwarven war-shield) give +2, heavy wooden shields and snarlshields +3, heavy steel shields +4 and tower shields +5; the buckler stays at +1. Heavy steel shields also have a –3 armor check penalty and 20% arcane spell failure. Both tables on this page use these values, and so does the [enemy builder](../tools/enemy-builder.md). Spiked shields use the values of the shield they are built on.
+
 ## All Armor and Shields
 
 Every armor and shield of the wiki in one table. Click a name to read its description, which may be on another page.
@@ -61,22 +64,23 @@ Every armor and shield of the wiki in one table. Click a name to read its descri
 | [Stoneplate](arms-and-armor-ue.md#stoneplate) | 1,800 gp | +9 | +1 | –6 | 35% | 15 ft.¹ | 10 ft.¹ | 75 lbs. |
 | [Hell knight plate](gear-ag.md#hell-knight-plate) | 2,000 gp | +9 | +1 | –5 | 35% | 20 ft.² | 15 ft.² | 50 lbs. |
 | **Shields** | | | | | | | | |
-| [Shield, light wooden](#armor-descriptions) | 3 gp | +1 | — | –1 | 5% | — | — | 5 lbs. |
+| [Shield, light wooden](#armor-descriptions) | 3 gp | +2 | — | –1 | 5% | — | — | 5 lbs. |
 | [Buckler](#armor-descriptions) | 5 gp | +1 | — | –1 | 5% | — | — | 5 lbs. |
-| [Shield, light steel](#armor-descriptions) | 9 gp | +1 | — | –1 | 5% | — | — | 6 lbs. |
-| [Spiked light shield](arms-and-armor-ue.md#spiked-light-shield) | as light shield +10 gp | +1 | — | –1 | 5% | — | — | +5 lbs. |
-| [Klar](weapons-martial.md) | 12 gp | +1 | — | –1 | 5% | — | — | 6 lbs. |
-| [Madu, leather](gladiator-weapons.md) | 30 gp | +1 | — | –2 | 5% | — | — | 5 lbs. |
-| [Madu, steel](gladiator-weapons.md) | 40 gp | +1 | — | –2 | 5% | — | — | 6 lbs. |
-| [War-shield, dwarven](armor-aa2.md#war-shield-dwarven) | 50 gp | +1 | — | –1 | 20% | — | — | 8 lbs. |
-| [Quickdraw shield, light wooden](armor-apg.md#armor-descriptions) | 53 gp | +1 | — | –2 | 5% | — | — | 6 lbs. |
-| [Quickdraw shield, light steel](armor-apg.md#armor-descriptions) | 59 gp | +1 | — | –2 | 5% | — | — | 7 lbs. |
-| [Shield, heavy wooden](#armor-descriptions) | 7 gp | +2 | — | –2 | 15% | — | — | 10 lbs. |
-| [Spiked heavy shield](arms-and-armor-ue.md#spiked-heavy-shield) | as heavy shield +10 gp | +2 | — | –2 | 15% | — | — | +5 lbs. |
-| [Shield, heavy steel](#armor-descriptions) | 20 gp | +2 | — | –2 | 15% | — | — | 15 lbs. |
-| [Snarlshield, wooden](armor-aa2.md) | 37 gp | +2 | — | –3 | 15% | — | — | 15 lbs. |
-| [Snarlshield, steel](armor-aa2.md) | 50 gp | +2 | — | –3 | 15% | — | — | 20 lbs. |
-| [Shield, tower](#armor-descriptions) | 30 gp | +4³ | +2 | –10 | 50% | — | — | 45 lbs. |
+| [Shield, light steel](#armor-descriptions) | 9 gp | +2 | — | –1 | 5% | — | — | 6 lbs. |
+| [Spiked light shield](arms-and-armor-ue.md#spiked-light-shield) | as light shield +10 gp | +2 | — | –1 | 5% | — | — | +5 lbs. |
+| [Klar](weapons-martial.md) | 12 gp | +2 | — | –1 | 5% | — | — | 6 lbs. |
+| [Madu, leather](gladiator-weapons.md) | 30 gp | +2 | — | –2 | 5% | — | — | 5 lbs. |
+| [Madu, steel](gladiator-weapons.md) | 40 gp | +2 | — | –2 | 5% | — | — | 6 lbs. |
+| [War-shield, dwarven](armor-aa2.md#war-shield-dwarven) | 50 gp | +2 | — | –1 | 20% | — | — | 8 lbs. |
+| [Quickdraw shield, light wooden](armor-apg.md#armor-descriptions) | 53 gp | +2 | — | –2 | 5% | — | — | 6 lbs. |
+| [Quickdraw shield, light steel](armor-apg.md#armor-descriptions) | 59 gp | +2 | — | –2 | 5% | — | — | 7 lbs. |
+| [Shield, heavy wooden](#armor-descriptions) | 7 gp | +3 | — | –2 | 15% | — | — | 10 lbs. |
+| [Spiked heavy shield, wooden](arms-and-armor-ue.md#spiked-heavy-shield) | as heavy wooden shield +10 gp | +3 | — | –2 | 15% | — | — | +5 lbs. |
+| [Spiked heavy shield, steel](arms-and-armor-ue.md#spiked-heavy-shield) | as heavy steel shield +10 gp | +4 | — | –3 | 20% | — | — | +5 lbs. |
+| [Shield, heavy steel](#armor-descriptions) | 20 gp | +4 | — | –3 | 20% | — | — | 15 lbs. |
+| [Snarlshield, wooden](armor-aa2.md) | 37 gp | +3 | — | –3 | 15% | — | — | 15 lbs. |
+| [Snarlshield, steel](armor-aa2.md) | 50 gp | +3 | — | –3 | 15% | — | — | 20 lbs. |
+| [Shield, tower](#armor-descriptions) | 30 gp | +5³ | +2 | –10 | 50% | — | — | 45 lbs. |
 | **Extras** | | | | | | | | |
 | [Gauntlet, locked](#armor-descriptions) | 8 gp | — | — | special | n/a⁴ | — | — | +5 lbs. |
 | [Shield spikes](#armor-descriptions) | +10 gp | — | — | — | — | — | — | +5 lbs. |
@@ -146,7 +150,7 @@ Any special benefits or accessories to the types of armor found on Table 6–6 a
 
 **Gauntlet, Locked**: This armored gauntlet has small chains and braces that allow the wearer to attach a weapon to the gauntlet so that it cannot be dropped easily.
 
-**Table 6–6: Armor and Shields**
+**Table 6–6: Armor and Shields** *(shield rows use the house-rule values above)*
 
 | Armor | Cost | Armor/Shield Bonus | Maximum Dex Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed (30 ft.) | Speed (20 ft.) | Weight¹ |
 |---|---|---|---|---|---|---|---|---|
@@ -167,11 +171,11 @@ Any special benefits or accessories to the types of armor found on Table 6–6 a
 | Full plate | 1,500 gp | +9 | +1 | –6 | 35% | 20 ft.² | 15 ft.² | 50 lbs. |
 | **Shields** |  |  |  |  |  |  |  |  |
 | Buckler | 5 gp | +1 | — | –1 | 5% | — | — | 5 lbs. |
-| Shield, light wooden | 3 gp | +1 | — | –1 | 5% | — | — | 5 lbs. |
-| Shield, light steel | 9 gp | +1 | — | –1 | 5% | — | — | 6 lbs. |
-| Shield, heavy wooden | 7 gp | +2 | — | –2 | 15% | — | — | 10 lbs. |
-| Shield, heavy steel | 20 gp | +2 | — | –2 | 15% | — | — | 15 lbs. |
-| Shield, tower | 30 gp | +4³ | +2 | –10 | 50% | — | — | 45 lbs. |
+| Shield, light wooden | 3 gp | +2 | — | –1 | 5% | — | — | 5 lbs. |
+| Shield, light steel | 9 gp | +2 | — | –1 | 5% | — | — | 6 lbs. |
+| Shield, heavy wooden | 7 gp | +3 | — | –2 | 15% | — | — | 10 lbs. |
+| Shield, heavy steel | 20 gp | +4 | — | –3 | 20% | — | — | 15 lbs. |
+| Shield, tower | 30 gp | +5³ | +2 | –10 | 50% | — | — | 45 lbs. |
 | **Extras** |  |  |  |  |  |  |  |  |
 | Armor spikes | +50 gp | — | — | — | — | — | — | +10 lbs. |
 | Gauntlet, locked | 8 gp | — | — | special | n/a⁴ | — | — | +5 lbs. |

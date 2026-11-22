@@ -14,9 +14,9 @@
 | *Heavy armor* | | | | | | | | |
 | Fortress plate | 2,100 gp | +8 | +0 | –7 | 40% | 20 ft. | 15 ft. | 75 lbs. |
 | *Shields* | | | | | | | | |
-| Snarlshield, steel | 50 gp | +2 | — | –3 | 15% | — | — | 20 lbs. |
-| Snarlshield, wooden | 37 gp | +2 | — | –3 | 15% | — | — | 15 lbs. |
-| War-shield, dwarven | 50 gp | +1 | — | –1 | 20% | — | — | 8 lbs. |
+| Snarlshield, steel | 50 gp | +3 | — | –3 | 15% | — | — | 20 lbs. |
+| Snarlshield, wooden | 37 gp | +3 | — | –3 | 15% | — | — | 15 lbs. |
+| War-shield, dwarven | 50 gp | +2 | — | –1 | 20% | — | — | 8 lbs. |
 
 ### Arctic Coat
 
