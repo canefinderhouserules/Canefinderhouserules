@@ -74,7 +74,7 @@ The following are the class features of the arcanist.
 
 ### Weapon and Armor Proficiencies
 
-Arcanists are proficient with all [simple weapons](../../equipment/weapons-simple.md). They are not proficient with any type of armor or shield. Armor interferes with an arcanist's gestures, which can cause her spells with somatic components to fail (see Arcane Spells and Armor in the Core Rulebook).
+Arcanists are proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons). They are not proficient with any type of armor or shield. Armor interferes with an arcanist's gestures, which can cause her spells with somatic components to fail (see Arcane Spells and Armor in the Core Rulebook).
 
 ### Spells
 

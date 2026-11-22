@@ -55,7 +55,7 @@ All of the following are class features of the duelist prestige class.
 
 #### Weapon and Armor Proficiency
 
-The duelist is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md). Duelists are proficient with [light armor](../../equipment/armor.md) but not with [shields](../../equipment/armor.md).
+The duelist is proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons). Duelists are proficient with [light armor](../../equipment/armor.md) but not with [shields](../../equipment/armor.md).
 
 #### Canny Defense (Ex)
 

@@ -1,6 +1,6 @@
 # Gladiator Weapons
 
-Weapons from *Ultimate Combat* favored by arena fighters. The weapon statistics are in the weapon tables ([Martial Weapons](weapons-martial.md) and [Exotic Weapons](weapons-exotic.md)); the rules for [Performance Combat](../rules/combat/performance-combat.md) are in the combat rules.
+Weapons from *Ultimate Combat* favored by arena fighters. The weapon statistics are in the weapon tables ([Martial Weapons](weapons.md#martial-weapons) and [Exotic Weapons](weapons.md#exotic-weapons)); the rules for [Performance Combat](../rules/combat/performance-combat.md) are in the combat rules.
 
 Almost every culture features warriors who fight for sport and entertainment. While only the most decadent or evil cultures enjoy all-out blood sports in which the combatants fight to the death for the pleasure of the crowd, even the most benign societies enjoy the spectacle of armed conflict. These conflicts often require specialized weapons and training to get the most out of such performance combat.
 

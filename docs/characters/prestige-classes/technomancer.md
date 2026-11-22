@@ -41,7 +41,7 @@ The following are class features of the technomancer prestige class.
 
 #### Weapon and Armor Proficiency
 
-A technomancer gains proficiency with all [firearms](../../equipment/weapons-firearms.md).
+A technomancer gains proficiency with all [firearms](../../equipment/weapons.md#firearms).
 
 #### Recondition (Su)
 

@@ -122,7 +122,7 @@ Harm—Creatures are sickened until the end of your next turn, plus a number of 
 
 Cloistered clerics typically live in a temple and rarely interact with the outside world. They are bookish and well learned in the lore of the faith, paying less attention to its magical and martial aspects. A cloistered cleric has the following class features.
 
-**Weapon and Armor Proficiency**: Cloistered clerics are proficient with [light armor](../../equipment/armor.md) and with the following weapons: [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [heavy mace](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [light mace](../../equipment/weapons-simple.md#simple-light-melee-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), and [sling](../../equipment/weapons-simple.md#simple-ranged-weapons). They are not proficient with [shields](../../equipment/armor.md).
+**Weapon and Armor Proficiency**: Cloistered clerics are proficient with [light armor](../../equipment/armor.md) and with the following weapons: [club](../../equipment/weapons/club.md), [heavy mace](../../equipment/weapons/mace-heavy.md), [light mace](../../equipment/weapons/mace-light.md), [quarterstaff](../../equipment/weapons/quarterstaff.md), and [sling](../../equipment/weapons/sling.md). They are not proficient with [shields](../../equipment/armor.md).
 
 **Class Skills**: The cloistered cleric’s class skills are Appraise (Int), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (all) (Int), Linguistics (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int).
 
@@ -178,7 +178,7 @@ A cleric cannot take the undead lord archetype unless her deity’s portfolio in
 
 Eschewing physical armor for protection via the strength of his faith, an ecclesitheurge focuses on the miracles his deity bestows and the breadth of that deity's dominion.
 
-**Weapon and Armor Proficiency**: An ecclesitheurge is proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [heavy crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons), [light crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons), and [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), but he's not proficient with any type of armor or shield. This replaces the cleric's weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: An ecclesitheurge is proficient with the [club](../../equipment/weapons/club.md), [dagger](../../equipment/weapons/dagger.md), [heavy crossbow](../../equipment/weapons.md#simple-ranged-weapons), [light crossbow](../../equipment/weapons.md#simple-ranged-weapons), and [quarterstaff](../../equipment/weapons/quarterstaff.md), but he's not proficient with any type of armor or shield. This replaces the cleric's weapon and armor proficiencies.
 
 **Ecclesitheurge's Vow**: At 1st level, an ecclesitheurge makes a vow to his deity to be protected solely by his faith, not by armor or shields. An ecclesitheurge who wears prohibited armor or uses a prohibited shield is unable to use his blessing of the faithful ability, use cleric domain powers, or cast [cleric spells](cleric.md#spells).
 
@@ -501,7 +501,7 @@ This ability replaces one of the cleric's two 1st-level domain powers (her choic
 
 Crusade-minded clerics flock to the borders of lands overrun by demonic forces, drawn by glory, plunder, or the desire to slay fiends. There they learn battlefield tactics and the weaknesses of demons, then strike out to make a name for themselves.
 
-**Weapon and Armor Proficiency**: A crusader priest is proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)), and the favored weapon of her deity.
+**Weapon and Armor Proficiency**: A crusader priest is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)), and the favored weapon of her deity.
 
 **Diminished Spellcasting**: A crusader priest chooses only one domain from her deity's list of domains rather than the normal two domains. In all other respects, this works like and replaces the standard cleric domain ability.
 
@@ -726,7 +726,7 @@ Level 11: Greater dispel magic (30-foot burst; targets only illusion spells, pol
 
 People of high and low character flock to the crusader land for glory, plunder, or the desire to slay demons from the demonic rift. Crusade-minded clerics of the goddess of valor, the god of battle, and other churches come to the crusader land, learn battlefield tactics and the weaknesses of demons, and strike out to make a name for themselves. A crusader priest has the following class features.
 
-**Weapon and Armor Proficiency**: A crusader priest is proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)), and the favored weapon of her deity.
+**Weapon and Armor Proficiency**: A crusader priest is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)), and the favored weapon of her deity.
 
 **Diminished Spellcasting**: A crusader priest chooses only one domain from her deity’s list of domains rather than the normal two domains. In all other respects, this works like and replaces the standard cleric domain ability.
 
@@ -754,7 +754,7 @@ This ability alters [aura](cleric.md#aura-ex).
 
 People of high and low character flock to the crusader land for glory, plunder, or the desire to slay demons from the demonic rift. Crusade-minded clerics of the goddess of valor, the god of battle, and other churches come to the crusader land, learn battlefield tactics and the weaknesses of demons, and strike out to make a name for themselves. A crusader priest has the following class features.
 
-**Weapon and Armor Proficiency**: A crusader priest is proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)), and the favored weapon of her deity.
+**Weapon and Armor Proficiency**: A crusader priest is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)), and the favored weapon of her deity.
 
 **Diminished Spellcasting**: A crusader priest chooses only one domain from her deity’s list of domains rather than the normal two domains. In all other respects, this works like and replaces the standard cleric domain ability.
 

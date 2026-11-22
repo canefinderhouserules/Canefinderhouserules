@@ -412,7 +412,7 @@ Homunculus Companion Base Statistics A homunculus companion has the following fe
 
 **Telepathic Link (Su)**: A homunculus can’t initially speak, but shares a telepathic link with its creator. It knows what its master knows and can convey to him everything it sees and hears, out to a range of 1,500 feet.
 
-**Weapon and Armor Proficiency (Ex)**: A homunculus is proficient with [simple weapons](../../equipment/weapons-simple.md), but not armor or [shields](../../equipment/armor.md).
+**Weapon and Armor Proficiency (Ex)**: A homunculus is proficient with [simple weapons](../../equipment/weapons.md#simple-weapons), but not armor or [shields](../../equipment/armor.md).
 
 **Evasion (Ex)**: At 3rd level, if a homunculus is subjected to an attack that normally allows a Reflex save for half damage, it takes no damage if it succeeds at its saving throw.
 
@@ -1210,7 +1210,7 @@ Able to distill spectral horrors into alchemical reagents, the eccentric techniq
 
 Simple alchemists may dabble in explosives, but for the rare gun chemist, a firearm's barrel is his crucible.
 
-**Weapon and Armor Proficiency**: Gun chemists are proficient with all [simple weapons](../../equipment/weapons-simple.md), [firearms](../../equipment/weapons-firearms.md), and [light armor](../../equipment/armor.md). This replaces the gun chemist’s weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: Gun chemists are proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), [firearms](../../equipment/weapons.md#firearms), and [light armor](../../equipment/armor.md). This replaces the gun chemist’s weapon and armor proficiencies.
 
 **Alchemical Ordnance (Su)**: A gun chemist is adept at using his know-how to infuse his ammunition with volatile chemicals and his own magical reserves. When loading a firearm, he can infuse the ammunition as a free action. The compounds are unstable, and if not fired within a number of rounds equal to the gun chemist's Intelligence modifier (though no sooner than the end of his next turn), the alchemical ordnance becomes inert and loses its additional effects; he can still fire the firearm as normal. Each day, the gun chemist can infuse a number of pieces of alchemical ordnance equal to his class level + his Intelligence modifier, and he can fire no more than one piece per round. Alchemical ordnance deals damage as normal, plus an amount of fire damage equal to 1d6 + the gun chemist's Intelligence modifier. The damage of the gun chemist's alchemical ordnance increases by 1d6 points at every odd-numbered class level (this bonus damage is not multiplied on a critical hit or by using feats such as Vital Strike). The explosive nature of alchemical ordnance causes the attack (both the firearm's base damage and the alchemical ordnance's additional damage) to deal full damage to swarms of any size. If the gun chemist uses alchemical ordnance to make a scattering shot with a weapon with the scatter quality, each creature in the area instead takes additional fire damage equal to the alchemical ordnance's minimum damage (so if the alchemical ordnance would deal 2d6+4 points of fire damage normally, it deals only 6 points of fire damage with a scattering shot).
 

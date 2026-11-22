@@ -74,7 +74,7 @@ The following are the class features of the mesmerist.
 
 ### Weapon and Armor Proficiency
 
-A mesmerist is proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [hand crossbow](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [sword cane](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons). He is proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
+A mesmerist is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), plus the [hand crossbow](../../equipment/weapons/crossbow-hand.md), [sap](../../equipment/weapons/sap.md), [sword cane](../../equipment/weapons/sword-cane.md), and [whip](../../equipment/weapons/whip.md). He is proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
 
 ### Spells
 

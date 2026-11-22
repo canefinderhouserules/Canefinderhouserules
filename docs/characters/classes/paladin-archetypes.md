@@ -418,7 +418,7 @@ Her mount gains the celestial template at 8th level. At 12th level, her mount sp
 
 Not all paladins are knights in shining armor. Holy guns roam the world searching for evil. And where they find it, they put it down.
 
-**Weapon and Armor Proficiency**: Holy guns are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [firearms](../../equipment/weapons-firearms.md), and [light armor](../../equipment/armor.md).
+**Weapon and Armor Proficiency**: Holy guns are proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), [firearms](../../equipment/weapons.md#firearms), and [light armor](../../equipment/armor.md).
 
 **Have Gun**: At 1st level, the holy gun gains the [Amateur Gunslinger](../../rules/feats/amateur-gunslinger.md) feat and Gunsmithing as a bonus feat. She also gains a battered gun identical to the one gained by the gunslinger. This ability replaces [detect evil](paladin.md#detect-evil-sp).
 
@@ -949,7 +949,7 @@ While most paladins stride brazenly forth to battle evil in gleaming armor, fait
 
 *Paladin archetype.* Although no less a beacon of hope and justice than other paladins, virtuous bravos rely on their wit and grace rather than might and strong armor.
 
-**Weapon and Armor Proficiency**: Virtuous bravos aren't proficient with [heavy armor](../../equipment/armor.md) or [shields](../../equipment/armor.md) (except for [bucklers](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3)). This ability alters the paladin's armor proficiency.
+**Weapon and Armor Proficiency**: Virtuous bravos aren't proficient with [heavy armor](../../equipment/armor.md) or [shields](../../equipment/armor.md) (except for [bucklers](../../equipment/armor.md#all-armor-and-shields)). This ability alters the paladin's armor proficiency.
 
 **Bravo's Finesse (Ex)**: A virtuous bravo can use her Dexterity modifier instead of her Strength modifier on attack rolls with light or one-handed piercing melee weapons (though if she carries a shield, she applies its armor check penalty to such attack rolls), and she can use her Charisma score in place of her Intelligence score to meet prerequisites of combat feats. This ability counts as having the [Weapon Finesse](../../rules/feats/weapon-finesse.md) feat for the purpose of meeting feat prerequisites.
 

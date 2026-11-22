@@ -47,7 +47,7 @@ The following are the class features of the samurai.
 
 ### Weapon and Armor Proficiency
 
-Samurai are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), plus the [katana](../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons) and [wakizashi](../../equipment/weapons-eastern.md#exotic-light-melee-weapons). Samurai are proficient with all types of armor (heavy, light, and medium) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+Samurai are proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), plus the [katana](../../equipment/weapons/katana.md) and [wakizashi](../../equipment/weapons/wakizashi.md). Samurai are proficient with all types of armor (heavy, light, and medium) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 ### Challenge (Ex)
 
@@ -219,7 +219,7 @@ The ironbound sword's fighting style, focused on incapacitating opponents rather
 
 While some martial arts traditions focus on the strength of the body, most schools of combat and self-defense know the importance of using weapons as well. Brawling blademaster samurai use weapon strikes and unarmed attacks in equal measure—foes expecting to defend themselves against a dagger or a sword are often caught off guard by a brawling blademaster's brutal kicks or punches.
 
-**Weapon and Armor Proficiency**: Brawling blademasters are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), plus the [katana](../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons) and [wakizashi](../../equipment/weapons-eastern.md#exotic-light-melee-weapons). Brawling blademasters are proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md). This alters the samurai's weapon and armor proficiency.
+**Weapon and Armor Proficiency**: Brawling blademasters are proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), plus the [katana](../../equipment/weapons/katana.md) and [wakizashi](../../equipment/weapons/wakizashi.md). Brawling blademasters are proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md). This alters the samurai's weapon and armor proficiency.
 
 **Empty Hand (Ex)**: A brawling blademaster gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. She uses her samurai level as her monk level for determining the amount of damage she deals with an unarmed strike. These levels stack with monk levels to determine the brawling blademaster's unarmed strike damage. This replaces mount.
 

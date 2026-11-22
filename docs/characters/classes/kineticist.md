@@ -47,7 +47,7 @@ The following are the class features of the kineticist.
 
 ### Weapon and Armor Proficiency
 
-Kineticists are proficient with all [simple weapons](../../equipment/weapons-simple.md) and [light armor](../../equipment/armor.md), but not [shields](../../equipment/armor.md).
+Kineticists are proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons) and [light armor](../../equipment/armor.md), but not [shields](../../equipment/armor.md).
 
 ### Elemental Focus (Su)
 

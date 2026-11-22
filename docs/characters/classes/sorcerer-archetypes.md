@@ -246,7 +246,7 @@ As slaves of capricious oni lords, your ancestors were forced to yield to their 
 
 **Bonus Spells**: [*ray of enfeeblement*](../../magic/spells/ray-of-enfeeblement.md) (3rd), [*invisibility*](../../magic/spells/invisibility.md) (5th), [*fly*](../../magic/spells/fly.md) (7th), [*charm monster*](../../magic/spells/charm-monster.md) (9th), [*cone of cold*](../../magic/spells/cone-of-cold.md) (11th), [*greater dispel magic*](../../magic/spells/dispel-magic-greater.md) (13th), [*waves of exhaustion*](../../magic/spells/waves-of-exhaustion.md) (15th), [*trap the soul*](../../magic/spells/trap-the-soul.md) (17th), [*dominate monster*](../../magic/spells/dominate-monster.md) (19th).
 
-**Bonus Feats**: Combat Expertise, [Combat Reflexes](../../rules/feats/combat-reflexes.md), Enforcer, [Fast Healer](../../rules/feats/fast-healer.md), Improved Initiative, Iron Will, Power Attack, Skill Focus (Intimidate), Exotic Weapon Proficiency ([katana](../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons)).
+**Bonus Feats**: Combat Expertise, [Combat Reflexes](../../rules/feats/combat-reflexes.md), Enforcer, [Fast Healer](../../rules/feats/fast-healer.md), Improved Initiative, Iron Will, Power Attack, Skill Focus (Intimidate), Exotic Weapon Proficiency ([katana](../../equipment/weapons/katana.md)).
 
 **Bloodline Arcana**: Whenever you cast a spell of the charm or compulsion subschool, you gain a bonus on [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md), and Intimidate skill checks equal to the level of the spell for 1d4 rounds.
 

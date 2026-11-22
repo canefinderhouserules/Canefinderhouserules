@@ -43,7 +43,7 @@ The following are class features of the rogue.
 
 ### Weapon and Armor Proficiency
 
-Rogues are proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [hand crossbow](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), and [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons). They are proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
+Rogues are proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), plus the [hand crossbow](../../equipment/weapons/crossbow-hand.md), [rapier](../../equipment/weapons/rapier.md), [sap](../../equipment/weapons/sap.md), [shortbow](../../equipment/weapons/shortbow.md), and [short sword](../../equipment/weapons/sword-short.md). They are proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
 
 ### Sneak Attack
 

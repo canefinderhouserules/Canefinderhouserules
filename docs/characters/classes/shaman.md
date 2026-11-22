@@ -49,7 +49,7 @@ The following are the class features of the shaman.
 
 ### Weapon and Armor Proficiencies
 
-A shaman is proficient with all [simple weapons](../../equipment/weapons-simple.md), and with light and [medium armor](../../equipment/armor.md).
+A shaman is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), and with light and [medium armor](../../equipment/armor.md).
 
 ### Spells
 

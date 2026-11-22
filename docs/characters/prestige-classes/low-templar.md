@@ -43,7 +43,7 @@ The following are all class features of the low templar prestige class.
 
 #### Weapon and Armor Proficiency
 
-A low templar is proficient with all [simple weapons](../../equipment/weapons-simple.md) and all [martial weapons](../../equipment/weapons-martial.md). He is proficient with all forms of armor and [shields](../../equipment/armor.md).
+A low templar is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons) and all [martial weapons](../../equipment/weapons.md#martial-weapons). He is proficient with all forms of armor and [shields](../../equipment/armor.md).
 
 #### Crusader (Ex)
 

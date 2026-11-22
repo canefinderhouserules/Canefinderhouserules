@@ -47,7 +47,7 @@ The following are class features of the stalwart defender prestige class.
 
 #### Weapon and Armor Proficiency
 
-A stalwart defender is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), all types of armor, and [shields](../../equipment/armor.md) (including [tower shields](../../equipment/armor.md)).
+A stalwart defender is proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), all types of armor, and [shields](../../equipment/armor.md) (including [tower shields](../../equipment/armor.md)).
 
 #### AC Bonus (Ex)
 

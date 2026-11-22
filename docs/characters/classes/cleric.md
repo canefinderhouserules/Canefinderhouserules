@@ -49,7 +49,7 @@ The following are class features of the cleric.
 
 ### Weapon and Armor Proficiency
 
-Clerics are proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). Clerics are also proficient with the favored weapon of their deity.
+Clerics are proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). Clerics are also proficient with the favored weapon of their deity.
 
 ### Aura (Ex)
 
@@ -111,7 +111,7 @@ A cleric’s bonus language options include Celestial, Abyssal, and Infernal (th
 
 ## Ex-Clerics
 
-A cleric who grossly violates the code of conduct required by her god loses all spells and class features, except for armor and shield proficiencies and proficiency with [simple weapons](../../equipment/weapons-simple.md). She cannot thereafter gain levels as a cleric of that god until she atones for her deeds (see the [*atonement*](../../magic/spells/atonement.md) spell description).
+A cleric who grossly violates the code of conduct required by her god loses all spells and class features, except for armor and shield proficiencies and proficiency with [simple weapons](../../equipment/weapons.md#simple-weapons). She cannot thereafter gain levels as a cleric of that god until she atones for her deeds (see the [*atonement*](../../magic/spells/atonement.md) spell description).
 
 ## Domains
 

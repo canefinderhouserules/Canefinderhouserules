@@ -106,7 +106,7 @@ Arms that have hands can be used to wield weapons, if the eidolon is proficient.
 
 Whenever the eidolon makes a successful bite attack of the selected type, it can attempt a free combat maneuver check. If successful, the target is knocked [prone](../../rules/appendices/conditions.md#prone). If the check fails, the eidolon is not tripped in return. This ability only works on creatures of a size equal to or smaller than the eidolon. The eidolon must possess the bite evolution to select this evolution.
 
-**Weapon Training (Ex)**: An eidolon learns to use a weapon, gaining [Simple Weapon Proficiency](../../rules/feats/simple-weapon-proficiency.md) as a bonus feat. If 2 additional evolution points are spent, it gains proficiency with all [martial weapons](../../equipment/weapons-martial.md) as well.
+**Weapon Training (Ex)**: An eidolon learns to use a weapon, gaining [Simple Weapon Proficiency](../../rules/feats/simple-weapon-proficiency.md) as a bonus feat. If 2 additional evolution points are spent, it gains proficiency with all [martial weapons](../../equipment/weapons.md#martial-weapons) as well.
 
 ## 3-Point Evolutions
 

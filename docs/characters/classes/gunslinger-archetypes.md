@@ -26,7 +26,7 @@ Every four levels thereafter (8th, 12th, and 16th), the bonus increases by 1, to
 
 Pistols and other one-handed firearms are often easy to conceal and faster to load than other firearms, and do sufficient damage for most situations. But some gunslingers want a little more firepower and range. These are the musket masters; the best of these gunslingers can reload a musket with dazzling speed, potentially putting even their pistol-wielding brethren to shame.
 
-**Weapon Proficiency**: Instead of proficiency with all [firearms](../../equipment/weapons-firearms.md), a [musket](../../equipment/weapons-firearms.md) master only gains proficiency with [two-handed firearms](../../equipment/weapons-firearms.md). She must take the Exotic Weapon Proficiency (firearms) feat to gain proficiency with [one-handed firearms](../../equipment/weapons-firearms.md) and firearm siege engines.
+**Weapon Proficiency**: Instead of proficiency with all [firearms](../../equipment/weapons.md#firearms), a [musket](../../equipment/weapons/musket.md) master only gains proficiency with [two-handed firearms](../../equipment/weapons.md#firearms). She must take the Exotic Weapon Proficiency (firearms) feat to gain proficiency with [one-handed firearms](../../equipment/weapons.md#firearms) and firearm siege engines.
 
 **Gunsmith**: A musket master must take a musket when she chooses a battered firearm at 1st level.
 
@@ -62,9 +62,9 @@ She can use this ability as a free action. This ability replaces gun training 1.
 
 ## Pistolero
 
-While most gunslingers have favorite [firearms](../../equipment/weapons-firearms.md), there are those rare ones who choose to specialize in [one-handed firearms](../../equipment/weapons-firearms.md) exclusively. These gunslingers are called pistoleros. While they lack the flexibility of being able to pick up any kind of firearm and use it with reasonable proficiency, they are crackerjack shots with [pistols](../../equipment/weapons-firearms.md) and similar firearms. Their skill and aim with these firearms at close range is second to none, and they rarely misfire with these weapons.
+While most gunslingers have favorite [firearms](../../equipment/weapons.md#firearms), there are those rare ones who choose to specialize in [one-handed firearms](../../equipment/weapons.md#firearms) exclusively. These gunslingers are called pistoleros. While they lack the flexibility of being able to pick up any kind of firearm and use it with reasonable proficiency, they are crackerjack shots with [pistols](../../equipment/weapons/pistol.md) and similar firearms. Their skill and aim with these firearms at close range is second to none, and they rarely misfire with these weapons.
 
-**Weapon Proficiency**: Instead of proficiency with all [firearms](../../equipment/weapons-firearms.md), a pistolero only gains proficiency with [one-handed firearms](../../equipment/weapons-firearms.md). She must take Exotic Weapon Proficiency (firearms) to gain proficiency with [two-handed firearms](../../equipment/weapons-firearms.md) and firearm siege engines.
+**Weapon Proficiency**: Instead of proficiency with all [firearms](../../equipment/weapons.md#firearms), a pistolero only gains proficiency with [one-handed firearms](../../equipment/weapons.md#firearms). She must take Exotic Weapon Proficiency (firearms) to gain proficiency with [two-handed firearms](../../equipment/weapons.md#firearms) and firearm siege engines.
 
 **Gunsmith**: A pistolero must take a pistol when she chooses a battered firearm at 1st level.
 

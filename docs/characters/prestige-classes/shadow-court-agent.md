@@ -47,7 +47,7 @@ The following are class features of the shadow court agent prestige class.
 
 #### Weapon and Armor Proficiency
 
-A Shadow Court agent gains proficiency with the [spiked chain](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons).
+A Shadow Court agent gains proficiency with the [spiked chain](../../equipment/weapons/chain-spiked.md).
 
 #### Blessings of Darkness
 

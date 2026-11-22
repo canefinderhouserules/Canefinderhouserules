@@ -49,7 +49,7 @@ The following are class features of the nomad horse rider prestige class.
 
 #### Weapon and Armor Proficiency
 
-A nomad horse rider is proficient with [simple weapons](../../equipment/weapons-simple.md), [martial weapons](../../equipment/weapons-martial.md), and all forms of armor and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+A nomad horse rider is proficient with [simple weapons](../../equipment/weapons.md#simple-weapons), [martial weapons](../../equipment/weapons.md#martial-weapons), and all forms of armor and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 #### Camaraderie (Ex)
 

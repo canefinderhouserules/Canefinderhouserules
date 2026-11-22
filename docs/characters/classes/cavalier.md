@@ -47,7 +47,7 @@ The following are the class features of the cavalier.
 
 ### Weapon and Armor Proficiency
 
-Cavaliers are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), with all types of armor (heavy, light, and medium) and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+Cavaliers are proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), with all types of armor (heavy, light, and medium) and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 ### Challenge (Ex)
 

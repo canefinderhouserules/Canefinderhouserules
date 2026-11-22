@@ -74,7 +74,7 @@ The following are the class features of the hunter.
 
 ### Weapon and Armor Proficiency
 
-A hunter is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) and with [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+A hunter is proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons) and with [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 ### Spells
 

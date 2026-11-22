@@ -51,7 +51,7 @@ The following are the class features of the brawler.
 
 ### Weapon and Armor Proficiency
 
-A brawler is proficient with all [simple weapons](../../equipment/weapons-simple.md) plus the [handaxe](../../equipment/weapons-martial.md#martial-light-melee-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), and weapons from the close fighter weapon group. She is proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
+A brawler is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons) plus the [handaxe](../../equipment/weapons/handaxe.md), [short sword](../../equipment/weapons/sword-short.md), and weapons from the close fighter weapon group. She is proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
 
 ### Brawler's Cunning (Ex)
 

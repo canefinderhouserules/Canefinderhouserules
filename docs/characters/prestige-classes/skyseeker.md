@@ -43,7 +43,7 @@ The following are class features of the skyseeker prestige class.
 
 #### Weapon and Armor Proficiency
 
-A skyseeker is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (including [tower shields](../../equipment/armor.md)).
+A skyseeker is proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (including [tower shields](../../equipment/armor.md)).
 
 #### Ancestral Weapon (Su)
 

@@ -74,7 +74,7 @@ The following are the class features of the bloodrager.
 
 ### Weapon and Armor Proficiency
 
-Bloodragers are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). A bloodrager can cast bloodrager spells while wearing light armor or medium armor without incurring the normal arcane spell failure chance. This does not affect the arcane spell failure chance for arcane spells received from other classes. Like other arcane spellcasters, a bloodrager wearing [heavy armor](../../equipment/armor.md) or wielding a shield incurs a chance of arcane spell failure if the spell in question has somatic components.
+Bloodragers are proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). A bloodrager can cast bloodrager spells while wearing light armor or medium armor without incurring the normal arcane spell failure chance. This does not affect the arcane spell failure chance for arcane spells received from other classes. Like other arcane spellcasters, a bloodrager wearing [heavy armor](../../equipment/armor.md) or wielding a shield incurs a chance of arcane spell failure if the spell in question has somatic components.
 
 ### Bloodline
 

@@ -72,7 +72,7 @@ The following are the class features of the medium.
 
 ### Weapon and Armor Proficiency
 
-Mediums are proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), and [medium armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
+Mediums are proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), [light armor](../../equipment/armor.md), and [medium armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
 
 ### Spells
 
@@ -319,7 +319,7 @@ Seance Boon: Choose a seance boon from any of the other legends to benefit from.
 
     **Taboos**: Choose one: you are superstitious about arcane spellcasting, so you must not be the willing target of arcane spells or abilities and you must attempt a Will saving throw against even harmless arcane spells and abilities; you may not make an attack with any weapon except a specific manufactured weapon (such as “my father’s +2 falchion”) that you choose when you take the taboo, and you may not choose unarmed strike for this taboo; you must accept any challenge to prove your prowess in battle, including challenges to single combat—if you or an ally breaks the rules of the challenge, you break this taboo.
 
-    **Champion’s Prowess (Lesser, Su)**: You gain proficiency in all [martial weapons](../../equipment/weapons-martial.md) and in one exotic weapon of your choice, which you choose each time you channel a champion spirit.
+    **Champion’s Prowess (Lesser, Su)**: You gain proficiency in all [martial weapons](../../equipment/weapons.md#martial-weapons) and in one exotic weapon of your choice, which you choose each time you channel a champion spirit.
 
     Sudden Attack (Intermediate, Su):
 

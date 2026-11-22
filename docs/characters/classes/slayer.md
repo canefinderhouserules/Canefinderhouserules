@@ -49,7 +49,7 @@ The following are the class features of the slayer.
 
 ### Weapon and Armor Proficiency
 
-A slayer is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), as well as with [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+A slayer is proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), as well as with [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 ### Studied Target (Ex)
 

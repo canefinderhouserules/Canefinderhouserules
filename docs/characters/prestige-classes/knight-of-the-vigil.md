@@ -29,7 +29,7 @@ To qualify to become a knight of the vigil, a character must fulfill all of the 
 
 **Skills**: Knowledge (religion) 5 ranks.
 
-**Weapon Proficiency**: Must be proficient with the [longsword](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons).
+**Weapon Proficiency**: Must be proficient with the [longsword](../../equipment/weapons/longsword.md).
 
 ### Class Skills
 

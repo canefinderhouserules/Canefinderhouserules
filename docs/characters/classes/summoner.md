@@ -72,7 +72,7 @@ The following are the class features of the summoner.
 
 ### Weapon and Armor Proficiency
 
-Summoners are proficient with all [simple weapons](../../equipment/weapons-simple.md). Summoners are also proficient with [light armor](../../equipment/armor.md). A summoner can cast summoner spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a summoner wearing medium or [heavy armor](../../equipment/armor.md), or using a shield, incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass summoner still incurs the normal arcane spell failure chance for arcane spells received from other classes.
+Summoners are proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons). Summoners are also proficient with [light armor](../../equipment/armor.md). A summoner can cast summoner spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a summoner wearing medium or [heavy armor](../../equipment/armor.md), or using a shield, incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass summoner still incurs the normal arcane spell failure chance for arcane spells received from other classes.
 
 ### Spells
 

@@ -68,7 +68,7 @@ Every armor and shield of the wiki in one table. Click a name to read its descri
 | [Buckler](#armor-descriptions) | 5 gp | +1 | — | –1 | 5% | — | — | 5 lbs. |
 | [Shield, light steel](#armor-descriptions) | 9 gp | +2 | — | –1 | 5% | — | — | 6 lbs. |
 | [Spiked light shield](arms-and-armor-ue.md#spiked-light-shield) | as light shield +10 gp | +2 | — | –1 | 5% | — | — | +5 lbs. |
-| [Klar](weapons-martial.md) | 12 gp | +2 | — | –1 | 5% | — | — | 6 lbs. |
+| [Klar](weapons/klar.md) | 12 gp | +2 | — | –1 | 5% | — | — | 6 lbs. |
 | [Madu, leather](gladiator-weapons.md) | 30 gp | +2 | — | –2 | 5% | — | — | 5 lbs. |
 | [Madu, steel](gladiator-weapons.md) | 40 gp | +2 | — | –2 | 5% | — | — | 6 lbs. |
 | [War-shield, dwarven](armor-aa2.md#war-shield-dwarven) | 50 gp | +2 | — | –1 | 20% | — | — | 8 lbs. |

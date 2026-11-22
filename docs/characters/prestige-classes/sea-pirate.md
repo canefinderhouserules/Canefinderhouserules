@@ -39,7 +39,7 @@ The following are class features of the sea pirate prestige class.
 
 #### Weapon and Armor Proficiency
 
-A sea pirate gains proficiency with the [cutlass](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [hook hand](../../equipment/weapons-simple.md#simple-light-melee-weapons), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons). She gains no armor proficiency.
+A sea pirate gains proficiency with the [cutlass](../../equipment/weapons/cutlass.md), [hook hand](../../equipment/weapons/hook-hand.md), [rapier](../../equipment/weapons/rapier.md), and [short sword](../../equipment/weapons/sword-short.md). She gains no armor proficiency.
 
 #### Sneak Attack (Ex)
 

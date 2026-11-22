@@ -172,7 +172,7 @@ When in animal form, the skald is treated as able to speak normally for the purp
 
 These fierce drummers are equally adept at tapping out a driving rhythm and rapping enemies upside the head with the same massive clubs they use to beat the crude hide-covered drums they carry into battle.
 
-**Weapon Proficiency**: A war drummer is proficient with all [simple weapons](../../equipment/weapons-simple.md) and the [greatclub](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons).
+**Weapon Proficiency**: A war drummer is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons) and the [greatclub](../../equipment/weapons/greatclub.md).
 
 **Fearsome Mien (Ex)**: A war drummer adds 1/2 his class level (minimum 1) to all Intimidate and [Bluff](../../rules/skills/bluff.md) skill checks. This ability replaces [bardic knowledge](skald.md#bardic-knowledge-ex).
 

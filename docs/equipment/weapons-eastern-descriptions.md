@@ -1,6 +1,6 @@
 # Eastern Weapon Descriptions
 
-The weapons themselves are listed in [Eastern Weapons](weapons-eastern.md). The special qualities and descriptions below come from *Ultimate Combat*. The statistics are in the weapon tables.
+The weapons themselves are listed in [Eastern Weapons](weapons.md#eastern-weapons). The special qualities and descriptions below come from *Ultimate Combat*. The statistics are in the weapon tables.
 
 ## New Special Qualities
 

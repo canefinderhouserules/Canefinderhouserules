@@ -69,7 +69,7 @@ The following are class features of the inquisitor.
 
 ### Weapon and Armor Proficiency
 
-An inquisitor is proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [hand crossbow](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [longbow](../../equipment/weapons-martial.md#martial-ranged-weapons), repeating crossbow, [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), and the favored weapon of her deity. She is also proficient with [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+An inquisitor is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), plus the [hand crossbow](../../equipment/weapons/crossbow-hand.md), [longbow](../../equipment/weapons/longbow.md), repeating crossbow, [shortbow](../../equipment/weapons/shortbow.md), and the favored weapon of her deity. She is also proficient with [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 ### Spells
 

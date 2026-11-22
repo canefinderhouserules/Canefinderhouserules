@@ -26,7 +26,7 @@ Each oracle must choose from among the following mysteries. Unless otherwise not
 
 **Resiliency (Ex)**: You are not disabled and you do not gain the [staggered](../../rules/appendices/conditions.md#staggered) condition if you are reduced to exactly 0 hit points. At 7th level, you gain Diehard as a bonus feat. At 11th level, you do not lose a hit point when you take a standard action (1 AP) while disabled. You do not need to meet the prerequisite to receive the Diehard feat.
 
-**Skill at Arms (Ex)**: You gain proficiency in all [martial weapons](../../equipment/weapons-martial.md) and [heavy armor](../../equipment/armor.md).
+**Skill at Arms (Ex)**: You gain proficiency in all [martial weapons](../../equipment/weapons.md#martial-weapons) and [heavy armor](../../equipment/armor.md).
 
 **Surprising Charge (Ex)**: Once per day, you can move up to your speed as an immediate action (1 AP of your next turn). You can use this ability one additional time per day at 7th level and 15th level.
 

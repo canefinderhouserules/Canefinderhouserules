@@ -43,7 +43,7 @@ The following abilities are class features of the pain taster prestige class.
 
 #### Weapon and Armor Proficiency
 
-A pain taster is proficient with all [simple weapons](../../equipment/weapons-simple.md), [martial weapons](../../equipment/weapons-martial.md), and [whips](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons). A pain taster gains no armor or shield proficiencies.
+A pain taster is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), [martial weapons](../../equipment/weapons.md#martial-weapons), and [whips](../../equipment/weapons/whip.md). A pain taster gains no armor or shield proficiencies.
 
 #### Disciple of Pain (Su)
 

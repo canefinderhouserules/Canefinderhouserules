@@ -72,7 +72,7 @@ The following are the class features of the spiritualist.
 
 ### Weapon and Armor Proficiency
 
-A spiritualist is proficient with all [simple weapons](../../equipment/weapons-simple.md), [kukris](../../equipment/weapons-martial.md#martial-light-melee-weapons), [saps](../../equipment/weapons-martial.md#martial-light-melee-weapons), and [scythes](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), as well as with [light armor](../../equipment/armor.md).
+A spiritualist is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), [kukris](../../equipment/weapons/kukri.md), [saps](../../equipment/weapons/sap.md), and [scythes](../../equipment/weapons/scythe.md), as well as with [light armor](../../equipment/armor.md).
 
 ### Spells
 

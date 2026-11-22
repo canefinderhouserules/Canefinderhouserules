@@ -49,7 +49,7 @@ The following are class features of the gunslinger.
 
 ### Weapon and Armor Proficiency
 
-Gunslingers are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), and with all [firearms](../../equipment/weapons-firearms.md). They are proficient with all [light armor](../../equipment/armor.md).
+Gunslingers are proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), and with all [firearms](../../equipment/weapons.md#firearms). They are proficient with all [light armor](../../equipment/armor.md).
 
 ### Gunsmith
 
@@ -99,7 +99,7 @@ At 3rd level, as long as the gunslinger has at least 1 grit point, she gains the
 
 #### Pistol-Whip (Ex)
 
-At 3rd level, the gunslinger can make a surprise melee attack with the butt or handle of her firearm as a standard action (1 AP). When she does, she is considered to be proficient with the firearm as a melee weapon and gains a bonus on the attack and damage rolls equal to the enhancement bonus of the firearm. The damage dealt by the pistol-whip is of the bludgeoning type, and is determined by the size of the firearm. [One-handed firearms](../../equipment/weapons-firearms.md) deal 1d6 points of damage (1d4 if wielded by Small creatures) and [two-handed firearms](../../equipment/weapons-firearms.md) deal 1d10 points of damage (1d8 if wielded by Small creatures). Regardless of the gunslinger’s size, the critical multiplier of this attack is 20/×2. If the attack hits, the gunslinger can make a combat maneuver check to knock the target prone as a free action. Performing this deed costs 1 grit point.
+At 3rd level, the gunslinger can make a surprise melee attack with the butt or handle of her firearm as a standard action (1 AP). When she does, she is considered to be proficient with the firearm as a melee weapon and gains a bonus on the attack and damage rolls equal to the enhancement bonus of the firearm. The damage dealt by the pistol-whip is of the bludgeoning type, and is determined by the size of the firearm. [One-handed firearms](../../equipment/weapons.md#firearms) deal 1d6 points of damage (1d4 if wielded by Small creatures) and [two-handed firearms](../../equipment/weapons.md#firearms) deal 1d10 points of damage (1d8 if wielded by Small creatures). Regardless of the gunslinger’s size, the critical multiplier of this attack is 20/×2. If the attack hits, the gunslinger can make a combat maneuver check to knock the target prone as a free action. Performing this deed costs 1 grit point.
 
 #### Utility Shot (Ex)
 

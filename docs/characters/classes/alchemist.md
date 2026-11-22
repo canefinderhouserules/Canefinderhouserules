@@ -45,7 +45,7 @@ The following are class features of the alchemist.
 
 ### Weapon and Armor Proficiency
 
-Alchemists are proficient with all [simple weapons](../../equipment/weapons-simple.md) and bombs. They are also proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
+Alchemists are proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons) and bombs. They are also proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
 
 ### Alchemy (Su)
 

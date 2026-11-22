@@ -45,7 +45,7 @@ The following are the class features of the rogue.
 
 ### Weapon and Armor Proficiencies
 
-Rogues are proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [blade boot](../../equipment/weapons-martial.md#martial-light-melee-weapons), [hand crossbow](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), [sword cane](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [switchblade knife](../../equipment/weapons-martial.md#martial-light-melee-weapons). They are proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
+Rogues are proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), plus the [blade boot](../../equipment/weapons/blade-boot.md), [hand crossbow](../../equipment/weapons/crossbow-hand.md), [rapier](../../equipment/weapons/rapier.md), [sap](../../equipment/weapons/sap.md), [short sword](../../equipment/weapons/sword-short.md), [shortbow](../../equipment/weapons/shortbow.md), [sword cane](../../equipment/weapons/sword-cane.md), and [switchblade knife](../../equipment/weapons/knife-switchblade.md). They are proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
 
 ### Sneak Attack
 

@@ -45,7 +45,7 @@ The following are the class features of the magus.
 
 ### Weapon and Armor Proficiency
 
-A magus is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md). A magus is also proficient with [light armor](../../equipment/armor.md). He can cast magus spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a magus wearing [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), or a shield incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass magus still incurs the normal arcane spell failure chance for arcane spells received from other classes.
+A magus is proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons). A magus is also proficient with [light armor](../../equipment/armor.md). He can cast magus spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a magus wearing [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), or a shield incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass magus still incurs the normal arcane spell failure chance for arcane spells received from other classes.
 
 ### Spells
 

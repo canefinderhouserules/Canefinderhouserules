@@ -165,7 +165,7 @@ At 6th level, a beastborn shifter can use bestial transformation to change into 
 
 *The battlefield is alive with the sound of explosives, and none are louder than the roar of firearms. Already a master of explosives, black powder researchers take things a step further with their study of firearms. Intrigued and excited by the potential of these unique weapons, black powder researchers live for the moment of explosions, never satisfied until something blows up.*
 
-**Weapon and Armor proficiencies:** Black powder researchers are proficient with all [simple weapons](../../../equipment/weapons-simple.md) and [firearms](../../../equipment/weapons-firearms.md). They are also proficient with [light armor](../../../equipment/armor.md) and [bucklers](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3).
+**Weapon and Armor proficiencies:** Black powder researchers are proficient with all [simple weapons](../../../equipment/weapons.md#simple-weapons) and [firearms](../../../equipment/weapons.md#firearms). They are also proficient with [light armor](../../../equipment/armor.md) and [bucklers](../../../equipment/armor.md#all-armor-and-shields).
 
 *This alters the alchemist’s weapon and armor proficiencies.*
 
@@ -285,11 +285,11 @@ Alternate class features are small, modular archetypes. They swap out a single c
 
 The following options can be taken in place of the legendary alchemist’s normal weapon and armor proficiencies:
 
-**Weapon and Armor Proficiencies**: Alchemists are proficient with all [simple weapons](../../../equipment/weapons-simple.md), bows, and weapons with 'alchemical' in their name. They are also proficient with [light armor](../../../equipment/armor.md) and [bucklers](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3).
+**Weapon and Armor Proficiencies**: Alchemists are proficient with all [simple weapons](../../../equipment/weapons.md#simple-weapons), bows, and weapons with 'alchemical' in their name. They are also proficient with [light armor](../../../equipment/armor.md) and [bucklers](../../../equipment/armor.md#all-armor-and-shields).
 
-**Weapon and Armor Proficiencies** Alchemists are proficient with all simple and [martial weapons](../../../equipment/weapons-martial.md). They are also proficient with [light armor](../../../equipment/armor.md), [medium armor](../../../equipment/armor.md), [bucklers](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3), and [light shields](../../../equipment/weapons-martial.md#martial-light-melee-weapons).
+**Weapon and Armor Proficiencies** Alchemists are proficient with all simple and [martial weapons](../../../equipment/weapons.md#martial-weapons). They are also proficient with [light armor](../../../equipment/armor.md), [medium armor](../../../equipment/armor.md), [bucklers](../../../equipment/armor.md#all-armor-and-shields), and [light shields](../../../equipment/weapons/shield-light.md).
 
-**Weapon and Armor Proficiencies** Alchemists are proficient with all [simple weapons](../../../equipment/weapons-simple.md), crossbows, and weapons with 'alchemical' in their name. They are not proficient in any armor or [shields](../../../equipment/armor.md). In addition, they gain the following class feature:
+**Weapon and Armor Proficiencies** Alchemists are proficient with all [simple weapons](../../../equipment/weapons.md#simple-weapons), crossbows, and weapons with 'alchemical' in their name. They are not proficient in any armor or [shields](../../../equipment/armor.md). In addition, they gain the following class feature:
 
 **AC Bonus (Ex)** When unarmored and unencumbered, the alchemist adds their Intelligence bonus (if any) to their AC and their CMD. In addition, an alchemist gains a +1 bonus to AC and CMD at 4th level. This bonus increases by 1 for every four alchemist levels thereafter, up to a maximum of +5 at 20th level. These bonuses to AC apply even against touch attacks or when the alchemist is [flat-footed](../../../rules/appendices/conditions.md#flat-footed). They lose these bonuses when they are immobilized or [helpless](../../../rules/appendices/conditions.md#helpless), when they wear any armor, when they carry a shield, or when they carry a medium or heavy load.
 
@@ -337,7 +337,7 @@ These alternative class features can be taken in place of alchemical fusion.
 
 *The combination of raw power and scientific discovery is a rare one, but martial analysts manage to mix both into the sweetest of sciences. Unorthodox competitors, martial analysts know that the only thing that they can rely upon is their fist, doing their best to make their attacks as explosive as possible.*
 
-**Weapon and Armor proficiency:** Martial analysts are proficient with all [simple weapons](../../../equipment/weapons-simple.md) and [light armor](../../../equipment/armor.md) but not [shields](../../../equipment/armor.md).
+**Weapon and Armor proficiency:** Martial analysts are proficient with all [simple weapons](../../../equipment/weapons.md#simple-weapons) and [light armor](../../../equipment/armor.md) but not [shields](../../../equipment/armor.md).
 
 *This alters the [alchemist’s weapon and armor proficiency](../alchemist.md#weapon-and-armor-proficiency).*
 

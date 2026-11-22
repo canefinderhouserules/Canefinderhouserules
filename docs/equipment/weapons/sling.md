@@ -1,0 +1,19 @@
+# Sling
+
+*[Simple Ranged](../weapons.md#simple-ranged-weapons)*
+
+| Category | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
+|---|---|---|---|---|---|---|---|---|
+| [Simple Ranged](../weapons.md#simple-ranged-weapons) | — | 1d3 | 1d4 | x2 | 50 ft. | — | B | Light flail, Strength. |
+
+**Properties:** [Light flail](../special-weapon-properties/index.md#light-flail), Strength.
+
+## Description
+
+A sling is little more than a leather cup attached to a pair of strings. Your Strength modifier applies to damage rolls when you use a sling, just as it does for thrown weapons. You can fire, but not load, a sling with one hand. Loading a sling is a move action (1 AP) that requires two hands and provokes attacks of opportunity.
+
+You can hurl ordinary stones with a sling, but stones are not as dense or as round as bullets. Thus, such an attack deals damage as if the weapon were designed for a creature one size category smaller than you and you take a –1 penalty on attack rolls.
+
+*From [Core Weapons](../core-weapons.md).*
+
+[← All weapons](../weapons.md)

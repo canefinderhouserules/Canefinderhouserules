@@ -26,7 +26,7 @@ To qualify to become a spherewalker, a character must fulfill all of the followi
 
 **Skills**: 5 ranks in any two of the following skills: [Climb](../../rules/skills/climb.md), [Knowledge](../../rules/skills/knowledge.md) (geography), Knowledge (nature), Knowledge (religion), [Perform](../../rules/skills/perform.md), [Ride](../../rules/skills/ride.md), [Survival](../../rules/skills/survival.md), or [Swim](../../rules/skills/swim.md).
 
-**Feats**: Martial Weapon Proficiency ([starknife](../../equipment/weapons-martial.md#martial-light-melee-weapons)), one survivor feat ([Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), or [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)), one explorer feat (Acrobatic, Agile, Athletic, Endurance, Run, or Self-Sufficient).
+**Feats**: Martial Weapon Proficiency ([starknife](../../equipment/weapons/starknife.md)), one survivor feat ([Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), or [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)), one explorer feat (Acrobatic, Agile, Athletic, Endurance, Run, or Self-Sufficient).
 
 **Special**: A spherewalker-to-be must have journeyed far in his lifetime, visiting two locations sacred to the goddess that are at least 200 miles apart.
 

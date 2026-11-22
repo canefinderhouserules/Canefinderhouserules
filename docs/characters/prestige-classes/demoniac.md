@@ -61,7 +61,7 @@ The following are class features of this prestige class.
 
 #### Weapon and Armor Proficiency
 
-A demoniac gains proficiency with all [simple weapons](../../equipment/weapons-simple.md) and with her demonic patron’s favored weapon.
+A demoniac gains proficiency with all [simple weapons](../../equipment/weapons.md#simple-weapons) and with her demonic patron’s favored weapon.
 
 #### Spells per Day/Spells Known
 

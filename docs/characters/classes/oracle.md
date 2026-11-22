@@ -72,7 +72,7 @@ The following are the class features of the oracle.
 
 ### Weapon and Armor Proficiency
 
-Oracles are proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). Some oracle revelations grant additional proficiencies.
+Oracles are proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). Some oracle revelations grant additional proficiencies.
 
 ### Spells
 

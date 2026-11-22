@@ -49,7 +49,7 @@ The following are the class features of the investigator.
 
 ### Weapon and Armor Proficiency
 
-Investigators are proficient with [simple weapons](../../equipment/weapons-simple.md), plus the [hand crossbow](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), and sword caneuE. They are proficient in [light armors](../../equipment/armor.md), but not [shields](../../equipment/armor.md).
+Investigators are proficient with [simple weapons](../../equipment/weapons.md#simple-weapons), plus the [hand crossbow](../../equipment/weapons/crossbow-hand.md), [rapier](../../equipment/weapons/rapier.md), [sap](../../equipment/weapons/sap.md), [shortbow](../../equipment/weapons/shortbow.md), [short sword](../../equipment/weapons/sword-short.md), and sword caneuE. They are proficient in [light armors](../../equipment/armor.md), but not [shields](../../equipment/armor.md).
 
 ### Alchemy (Su)
 

@@ -51,7 +51,7 @@ The following are class features of the holy vindicator prestige class.
 
 #### Weapon and Armor Proficiency
 
-A vindicator is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) and all armor and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+A vindicator is proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons) and all armor and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 #### Spells per Day
 

@@ -293,7 +293,7 @@ Normally, the bond a spiritualist shares with his phantom persists for the durat
 
 A small selection of spiritualists are connected to spirits of combat and warfare, and manifest a weapon instead of a phantom. These spiritualists are known as phantom blades and fight with ectoplasmic weapons.
 
-**Weapon and Armor Proficiency**: A phantom blade is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md). She is also proficient with light and [medium armor](../../equipment/armor.md). This ability alters the [spiritualist's weapon and armor proficiency](spiritualist.md#weapon-and-armor-proficiency).
+**Weapon and Armor Proficiency**: A phantom blade is proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons). She is also proficient with light and [medium armor](../../equipment/armor.md). This ability alters the [spiritualist's weapon and armor proficiency](spiritualist.md#weapon-and-armor-proficiency).
 
 **Phantom Weapon**: A phantom blade begins play with an ectoplasmic sentient weapon known as a phantom weapon whose weapon type is chosen by the phantom blade. The weapon type must be one with which the phantom blade is proficient. A phantom weapon functions similarly to the black blade of the bladebound magus archetype except as noted on the Phantom Weapon Progression table and in the descriptions below. A phantom blade with this class feature can't have a phantom of any kind, even from another class. This replaces [phantom](spiritualist.md#phantom), [phantom recall](spiritualist.md#phantom-recall-su), [spiritual bond](spiritualist.md#spiritual-bond-su), and [dual bond](spiritualist.md#dual-bond-su).
 

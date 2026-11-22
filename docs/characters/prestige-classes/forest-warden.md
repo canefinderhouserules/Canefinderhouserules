@@ -55,7 +55,7 @@ All of the following are class features of the forest warden prestige class.
 
 #### Weapon and Armor Proficiency
 
-Forest wardens are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), and [light armor](../../equipment/armor.md) and [bucklers](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3).
+Forest wardens are proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), and [light armor](../../equipment/armor.md) and [bucklers](../../equipment/armor.md#all-armor-and-shields).
 
 #### Forest Magic (Sp)
 

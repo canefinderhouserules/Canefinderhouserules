@@ -47,7 +47,7 @@ The following are class features of the hearth warden prestige class.
 
 #### Weapon and Armor Proficiency
 
-A hearth warden is proficient with all [simple weapons](../../equipment/weapons-simple.md), [longbows](../../equipment/weapons-martial.md#martial-ranged-weapons), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+A hearth warden is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), [longbows](../../equipment/weapons/longbow.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 #### Spells per Day
 

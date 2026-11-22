@@ -168,7 +168,7 @@ At 11th level, as long as a mouser has at least 1 panache point, when she charge
 
 Musketeers are brave (or foolish) swashbucklers who wield firearms with reckless abandon on the battlefield. Favored by swaths of organizations and kingdoms, a musketeer’s daring nature makes him ideal for the high-risk, high-reward gamble of brandishing firearms.
 
-Weapon and Armor Proficiency: At 1st level, a musketeer gains proficiency with all [simple weapons](../../../equipment/weapons-simple.md) and [martial weapons](../../../equipment/weapons-martial.md), as well as [two-handed firearms](../../../equipment/weapons-firearms.md). This replaces the swashbuckler’s weapon proficiency.
+Weapon and Armor Proficiency: At 1st level, a musketeer gains proficiency with all [simple weapons](../../../equipment/weapons.md#simple-weapons) and [martial weapons](../../../equipment/weapons.md#martial-weapons), as well as [two-handed firearms](../../../equipment/weapons.md#firearms). This replaces the swashbuckler’s weapon proficiency.
 
 **Deeds**
 
@@ -202,7 +202,7 @@ While some swashbucklers fight for queen and country, and others for coin, glory
 
 **Weapon and Armor Proficiency**
 
-A mysterious avenger loses her proficiency with [bucklers](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3), but gains proficiency in the [whip](../../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons) exotic weapon. This ability alters the [swashbuckler’s weapon and armor proficiency](../swashbuckler.md#weapon-and-armor-proficiency).
+A mysterious avenger loses her proficiency with [bucklers](../../../equipment/armor.md#all-armor-and-shields), but gains proficiency in the [whip](../../../equipment/weapons/whip.md) exotic weapon. This ability alters the [swashbuckler’s weapon and armor proficiency](../swashbuckler.md#weapon-and-armor-proficiency).
 
 **Avenger Weapon Training (Ex)**
 
@@ -222,7 +222,7 @@ At 11th level, these bonuses increase to +8 and she becomes immune to all scryin
 
 While some swashbucklers take pride in their ability to wear down an opponent with great skill at arms and clever positioning, a picaroon relies on her firearms to get in close and hit hard.
 
-Weapon and Armor Proficiency: At 1st level, a picaroon gains proficiency with all [simple weapons](../../../equipment/weapons-simple.md) and [martial weapons](../../../equipment/weapons-martial.md), as well as [one-handed firearms](../../../equipment/weapons-firearms.md). This replaces the swashbuckler’s weapon proficiency.
+Weapon and Armor Proficiency: At 1st level, a picaroon gains proficiency with all [simple weapons](../../../equipment/weapons.md#simple-weapons) and [martial weapons](../../../equipment/weapons.md#martial-weapons), as well as [one-handed firearms](../../../equipment/weapons.md#firearms). This replaces the swashbuckler’s weapon proficiency.
 
 **Deeds**
 
@@ -270,7 +270,7 @@ Though no less a braggart compared to other swashbucklers, a rapscallion forgoes
 
 **Weapon and Armor Proficiency**
 
-A rapscallion is proficient with all [simple weapons](../../../equipment/weapons-simple.md), plus the [cutlass](../../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [hand crossbow](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [rapier](../../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [sap](../../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../../equipment/weapons-martial.md#martial-ranged-weapons), and [short sword](../../../equipment/weapons-martial.md#martial-light-melee-weapons). She is proficient with [light armor](../../../equipment/armor.md), but not with [shields](../../../equipment/armor.md). This ability replaces the swashbuckler’s weapon and armor proficiencies.
+A rapscallion is proficient with all [simple weapons](../../../equipment/weapons.md#simple-weapons), plus the [cutlass](../../../equipment/weapons/cutlass.md), [hand crossbow](../../../equipment/weapons/crossbow-hand.md), [rapier](../../../equipment/weapons/rapier.md), [sap](../../../equipment/weapons/sap.md), [shortbow](../../../equipment/weapons/shortbow.md), and [short sword](../../../equipment/weapons/sword-short.md). She is proficient with [light armor](../../../equipment/armor.md), but not with [shields](../../../equipment/armor.md). This ability replaces the swashbuckler’s weapon and armor proficiencies.
 
 **Panache (Ex)**
 

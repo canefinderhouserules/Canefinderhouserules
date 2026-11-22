@@ -21,7 +21,8 @@ function crit(s) {
 }
 const weapons = [];
 // (the eastern table says the proficiency in each header: "(Martial – Eastern) Light Melee Weapons")
-for (const [file, fixed] of [['weapons-simple.md', 'simple'], ['weapons-martial.md', 'martial'], ['weapons-exotic.md', 'exotic'], ['weapons-eastern.md', null]]) {
+// all the weapon tables are in equipment/weapons.md; the proficiency is read from each table's header
+for (const [file, fixed] of [['weapons.md', null]]) {
   let prof = fixed;
   let cat = null;
   for (const line of read('equipment/' + file).split('\n')) {
@@ -42,7 +43,7 @@ for (const [file, fixed] of [['weapons-simple.md', 'simple'], ['weapons-martial.
 // firearms: "| **(Early) One-Handed Firearms** | Cost | Dmg (S) | Dmg (M) | Critical | Range | Misfire | Capacity | Weight | Type | Special |"
 {
   let on = false;
-  for (const line of read('equipment/weapons-firearms.md').split('\n')) {
+  for (const line of read('equipment/weapons.md').split('\n')) {
     if (!line.startsWith('|')) { on = false; continue; }
     if (/Firearms\**\s*\|\s*\**Cost/.test(line)) { on = true; continue; }
     const c = cells(line);
@@ -80,9 +81,12 @@ for (const [file, head] of [['characters/classes/fighter-archetypes.md', 'Expand
   }
 }
 // a weapon description that names its group: "**Double Spear (Spears Group)**:"
-for (const f of ['weapons-simple.md', 'weapons-martial.md', 'weapons-exotic.md'])
-  for (const m of read('equipment/' + f).matchAll(/\*\*([^*(]{2,40}) \(([^)]{2,40}) Groups?\)\*\*/g))
-    m[2].split(/,\s*|\s+and\s+/).forEach(g => { const k = wkey(m[1]); (GROUPS[k] = GROUPS[k] || new Set()).add(groupName(g.trim().replace(/^Blades, (\w+)$/, 'Blades, $1').replace(/^(Heavy|Light) Blades$/, 'Blades, $1'))); });
+for (const f of fs.readdirSync(path.join(DOCS, 'equipment', 'weapons')).filter(x => x.endsWith('.md'))) {
+  // each weapon's page: "# Double spear" ... "**Weapon group:** Spears"
+  const page = read('equipment/weapons/' + f), nm = (page.match(/^# (.+)$/m) || [])[1];
+  for (const m of page.matchAll(/^\*\*Weapon group:\*\* (.+)$/gm))
+    m[1].split(/,\s*|\s+and\s+/).forEach(g => { const k = wkey(nm); (GROUPS[k] = GROUPS[k] || new Set()).add(groupName(g.trim().replace(/^Blades, (\w+)$/, 'Blades, $1').replace(/^(Heavy|Light) Blades$/, 'Blades, $1'))); });
+}
 let grouped = 0;
 for (const w of weapons) {
   // the name as listed, then without a variant in parentheses, then without heavy/light

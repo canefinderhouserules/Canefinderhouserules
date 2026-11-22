@@ -53,7 +53,7 @@ The following are class features of the golden knight prestige class.
 
 #### Weapon and Armor Proficiency
 
-A golden knight gains proficiency with all simple and [martial weapons](../../equipment/weapons-martial.md) and with all forms of armor and [shields](../../equipment/armor.md).
+A golden knight gains proficiency with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons) and with all forms of armor and [shields](../../equipment/armor.md).
 
 #### Authoritative Command (Ex)
 

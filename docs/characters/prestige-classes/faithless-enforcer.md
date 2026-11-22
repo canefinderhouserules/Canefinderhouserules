@@ -43,7 +43,7 @@ The following are class features of the faithless enforcer prestige class.
 
 #### Weapon and Armor Proficiency
 
-A faithless enforcer is proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [falchion](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), [scimitar](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons). Faithless enforcers are proficient with all light and [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+A faithless enforcer is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), plus the [falchion](../../equipment/weapons/falchion.md), [scimitar](../../equipment/weapons/scimitar.md), and [shortbow](../../equipment/weapons/shortbow.md). Faithless enforcers are proficient with all light and [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 #### Aura Sense (Sp)
 

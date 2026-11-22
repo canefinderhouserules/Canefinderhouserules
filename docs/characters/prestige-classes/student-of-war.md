@@ -27,7 +27,7 @@ To qualify to become a student of war, a character must fulfill all of the follo
 
 **Feats**: [Combat Expertise](../../rules/feats/combat-expertise.md), Dodge, Skill Focus (any one [Knowledge](../../rules/skills/knowledge.md) skill).
 
-**Proficiency**: Must be proficient with two [martial weapons](../../equipment/weapons-martial.md).
+**Proficiency**: Must be proficient with two [martial weapons](../../equipment/weapons.md#martial-weapons).
 
 **Skills**: Knowledge (any two) 4 ranks in each.
 

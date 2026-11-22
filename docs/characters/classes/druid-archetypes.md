@@ -506,7 +506,7 @@ Season sages wander as the seasons change, turning the leaves and transforming n
 
 The aerie protector guards nature’s nests and lairs in the highest mountains, and she is only ever truly at ease when under vast expanses of open sky.
 
-**Weapon and Armor Proficiency**: Aerie protectors are proficient with [javelins](../../equipment/weapons-simple.md#simple-ranged-weapons) and [shortbows](../../equipment/weapons-martial.md#martial-ranged-weapons) but not with [scimitars](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) or [scythes](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons). Aerie protectors are not proficient with [medium armor](../../equipment/armor.md). This alters the [druid’s weapon and armor proficiency](druid.md#weapon-and-armor-proficiency).
+**Weapon and Armor Proficiency**: Aerie protectors are proficient with [javelins](../../equipment/weapons/javelin.md) and [shortbows](../../equipment/weapons/shortbow.md) but not with [scimitars](../../equipment/weapons/scimitar.md) or [scythes](../../equipment/weapons/scythe.md). Aerie protectors are not proficient with [medium armor](../../equipment/armor.md). This alters the [druid’s weapon and armor proficiency](druid.md#weapon-and-armor-proficiency).
 
 **Nature Bond**: If the aerie protector chooses an animal companion as her nature bond, she must choose an animal with a fly speed. She can use spells or other effects to alter her companion’s fly speed, but it must be able to fly on its own before it becomes her companion.
 
@@ -770,7 +770,7 @@ As you gain levels, your plant companion grows in power as well. It gains the sa
 
 Some youths, abandoned in the wilderness and then raised by animals, are so connected with their adoptive home and family that they become feral. Suspicious of civilized society, these foundlings often choose allegiance to the wild over their human forebears. A feral child has the following class features.
 
-**Weapon and Armor Proficiency**: A feral child loses proficiency with the [scimitar](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [scythe](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), and [sickle](../../equipment/weapons-simple.md#simple-light-melee-weapons) and with [shields](../../equipment/armor.md).
+**Weapon and Armor Proficiency**: A feral child loses proficiency with the [scimitar](../../equipment/weapons/scimitar.md), [scythe](../../equipment/weapons/scythe.md), and [sickle](../../equipment/weapons/sickle.md) and with [shields](../../equipment/armor.md).
 
 **Class Skills**: A feral child adds Acrobatics to her list of class skills and removes Fly and Profession from her list of class skills.
 
@@ -1085,7 +1085,7 @@ Additionally, at 7th level, a druid can create any herbal concoction in 1 minute
 Some druids come to worship the storm as an aspect of pure elemental fury in the world. Tempest druids seek not to venerate it, but to study and learn its mysteries so they can survive it, and use this knowledge to protect themselves and others in storm-wracked wilderness.
 
 **Alignment**: The beliefs held by tempest druids are inherently more chaotic than those held by most druids, and as a result, tempest druids must be chaotic neutral. This alters the druid’s alignment.
-**Armor and Weapon Proficiencies**: A tempest druid is proficient with the [trident](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons). This is in addition to the armor and weapon proficiencies of a normal druid. This alters the druid’s armor and weapon proficiencies.
+**Armor and Weapon Proficiencies**: A tempest druid is proficient with the [trident](../../equipment/weapons/trident.md). This is in addition to the armor and weapon proficiencies of a normal druid. This alters the druid’s armor and weapon proficiencies.
 
 **Spontaneous Domain Casting**: A tempest druid can channel stored spell energy into domain spells that she has not prepared ahead of time. She can "lose" a prepared spell in order to cast any domain spell of the same level or lower. This replaces the druid's normal ability to spontaneously cast summon spells.
 
@@ -1107,7 +1107,7 @@ Sunriders help their allies, be they fellow tribe members or fellow adventurers,
 
 **Class Skills**: A sunrider gains Knowledge (local) as a class skill, but does not gain Profession as a class skill. This alters the druid’s class skills.
 
-**Weapon and Armor Proficiencies**: A sunrider gains proficiency with the [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), but not with the [scythe](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), [sickle](../../equipment/weapons-simple.md#simple-light-melee-weapons), or [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons). This alters the druid’s weapon and armor proficiencies.
+**Weapon and Armor Proficiencies**: A sunrider gains proficiency with the [shortbow](../../equipment/weapons/shortbow.md), but not with the [scythe](../../equipment/weapons/scythe.md), [sickle](../../equipment/weapons/sickle.md), or [quarterstaff](../../equipment/weapons/quarterstaff.md). This alters the druid’s weapon and armor proficiencies.
 
 **Nature Bond (Ex)**: A sunrider must use this ability to bond with a horse or a pony as an animal companion; she cannot choose a different animal or choose a domain instead of an animal companion. This alters [nature bond](druid.md#nature-bond-ex).
 
@@ -1171,7 +1171,7 @@ This replaces [nature bond](druid.md#nature-bond-ex).
 
 Ancient guardians revere nature and draw power from its divine energies, but also protect the customs, histories, and lore of their tribe and race. They act as ambassadors and protectors of the old ways, nurturing their tribe's growth and holding back civilization's corruptive influence.
 
-**Ancient Arms**: An ancient guardian can't wield weapons made primarily of metal. She is proficient with only the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [dart](../../equipment/weapons-simple.md#simple-ranged-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [shortspear](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [sling](../../equipment/weapons-simple.md#simple-ranged-weapons), and [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons). She is also proficient with all natural attacks (claw, bite, and so forth) of any form she assumes with wild shape. Using a prohibited weapon renders her unable to cast druid spells or use any of her druid supernatural or spell-like class abilities while wielding the weapon and for 24 hours after ceasing to wield it. This alters the druid's normal weapon proficiencies.
+**Ancient Arms**: An ancient guardian can't wield weapons made primarily of metal. She is proficient with only the [club](../../equipment/weapons/club.md), [dart](../../equipment/weapons/dart.md), [quarterstaff](../../equipment/weapons/quarterstaff.md), [shortspear](../../equipment/weapons/shortspear.md), [sling](../../equipment/weapons/sling.md), and [spear](../../equipment/weapons/spear.md). She is also proficient with all natural attacks (claw, bite, and so forth) of any form she assumes with wild shape. Using a prohibited weapon renders her unable to cast druid spells or use any of her druid supernatural or spell-like class abilities while wielding the weapon and for 24 hours after ceasing to wield it. This alters the druid's normal weapon proficiencies.
 
 **Community Bond (Ex)**: At 1st level, an ancient guardian must choose the domain nature bond and select from the following domains: Community, Healing, Knowledge, Protection, or Repose. This ability alters [nature bond](druid.md#nature-bond-ex).
 
@@ -1315,7 +1315,7 @@ The survivor embodies the neutral aspect of the natural world and eschews druidi
 
 **Class Skills**: A survivor adds Stealth to her list of class skills.
 
-**Weapon Proficiencies**: In addition to the normal druid weapon proficiencies, a survivor is proficient with the [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons) and [longbow](../../equipment/weapons-martial.md#martial-ranged-weapons).
+**Weapon Proficiencies**: In addition to the normal druid weapon proficiencies, a survivor is proficient with the [shortbow](../../equipment/weapons/shortbow.md) and [longbow](../../equipment/weapons/longbow.md).
 
 **Diminished Spellcasting**: A survivor's number of spells per day for each spell level is one less than normal (for example, a 4th-level survivor can cast three cantrips, two 2nd-level spells, and one 1st-level spell per day). If this reduces the number of spells for a level to 0, she gains only the bonus spells for that level she would be entitled to based on her Wisdom score.
 

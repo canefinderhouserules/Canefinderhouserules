@@ -142,7 +142,7 @@ The life of adventure takes legendary gunslingers to all sorts of places, but so
 
 **Weapon and Armor Proficiencies**
 
-A black flag bandit is proficient with all light and one-handed swords but not [two-handed firearms](../../../equipment/weapons-firearms.md). This ability alters a legendary gunslinger’s normal weapon proficiencies.
+A black flag bandit is proficient with all light and one-handed swords but not [two-handed firearms](../../../equipment/weapons.md#firearms). This ability alters a legendary gunslinger’s normal weapon proficiencies.
 
 **Gunsmith (Ex)**
 
@@ -250,7 +250,7 @@ To most, the idea of a gunslinger who doesn’t wield a gun is unheard of, and y
 
 **Weapon and Armor Proficiencies**
 
-Crossbow killers are proficient with all crossbows, but not [firearms](../../../equipment/weapons-firearms.md). This replaces the gunslinger’s normal weapon and armor proficiencies.
+Crossbow killers are proficient with all crossbows, but not [firearms](../../../equipment/weapons.md#firearms). This replaces the gunslinger’s normal weapon and armor proficiencies.
 
 **Starting Crossbow**
 
@@ -388,7 +388,7 @@ The majority of gunslingers are agile warriors who dart around the battlefield i
 
 **Weapon and Armor Proficiencies**
 
-Living turrets are proficient in medium and [heavy armor](../../../equipment/armor.md), but not with [one-handed firearms](../../../equipment/weapons-firearms.md).
+Living turrets are proficient in medium and [heavy armor](../../../equipment/armor.md), but not with [one-handed firearms](../../../equipment/weapons.md#firearms).
 
 This replaces the legendary gunslinger’s normal weapon and armor proficiencies.
 
@@ -428,7 +428,7 @@ A muzzle roarer cannot be lawful or good-aligned, and must choose a patron deity
 
 **Weapon and Armor Proficiency**
 
-A muzzle roarer is proficient with all [simple weapons](../../../equipment/weapons-simple.md) and all [firearms](../../../equipment/weapons-firearms.md). Muzzle roarers often learn the down and dirty skills of back-alley knifing and barroom brawling, and may select one of the following as a bonus feat: [Catch Off-Guard](../../../rules/feats/catch-off-guard.md), [Improved Dirty Trick](../../../rules/feats/improved-dirty-trick.md), [Improved Sunder](../../../rules/feats/improved-sunder.md), Improved Unarmed Strike. The muzzle roarer need not meet prerequisites for this feat.
+A muzzle roarer is proficient with all [simple weapons](../../../equipment/weapons.md#simple-weapons) and all [firearms](../../../equipment/weapons.md#firearms). Muzzle roarers often learn the down and dirty skills of back-alley knifing and barroom brawling, and may select one of the following as a bonus feat: [Catch Off-Guard](../../../rules/feats/catch-off-guard.md), [Improved Dirty Trick](../../../rules/feats/improved-dirty-trick.md), [Improved Sunder](../../../rules/feats/improved-sunder.md), Improved Unarmed Strike. The muzzle roarer need not meet prerequisites for this feat.
 
 This alters weapon and armor proficiency.
 

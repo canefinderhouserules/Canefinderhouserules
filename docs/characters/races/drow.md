@@ -40,7 +40,7 @@ Cruel and cunning, drow are a dark reflection of the elven race. Also called dar
 
 **Light Blindness**: Abrupt exposure to bright light blinds drow for 1 round; on subsequent rounds, they are [dazzled](../../rules/appendices/conditions.md#dazzled) as long as they remain in the affected area.
 
-**Weapon Familiarity**: Drow are proficient with the [hand crossbow](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons).
+**Weapon Familiarity**: Drow are proficient with the [hand crossbow](../../equipment/weapons/crossbow-hand.md), [rapier](../../equipment/weapons/rapier.md), and [short sword](../../equipment/weapons/sword-short.md).
 
 **Languages**: Drow begin play speaking Elven and Undercommon. Drow with high Intelligence scores can choose from the following languages: Abyssal, Aklo, Aquan, Common, Draconic, Drow Sign Language, Gnome, or Goblin.
 

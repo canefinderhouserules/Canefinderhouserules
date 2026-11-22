@@ -1,6 +1,6 @@
 # Armory 2 Weapons and Modifications
 
-The following weapons are listed with their statistics in the weapon tables ([Simple](weapons-simple.md), [Martial](weapons-martial.md), [Exotic](weapons-exotic.md)). Their special rules are described here.
+The following weapons are listed with their statistics in the weapon tables ([Simple](weapons.md#simple-weapons), [Martial](weapons.md#martial-weapons), [Exotic](weapons.md#exotic-weapons)). Their special rules are described here.
 
 ## Weapon Descriptions
 

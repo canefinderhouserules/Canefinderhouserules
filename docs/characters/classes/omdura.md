@@ -49,7 +49,7 @@ The following are the class features of the omdura.
 
 ### Weapon and Armor Proficiency
 
-Omduras are proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). Omduras are also proficient with the favored weapon of their deity.
+Omduras are proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). Omduras are also proficient with the favored weapon of their deity.
 
 ### Aura (Ex)
 

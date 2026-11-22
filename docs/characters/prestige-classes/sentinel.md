@@ -57,7 +57,7 @@ The following are class features of the sentinel prestige class.
 
 #### Weapon and Armor Proficiency
 
-Sentinels are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), with all types of armor (heavy, medium, and light), and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+Sentinels are proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), with all types of armor (heavy, medium, and light), and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 #### Devotion (Ex)
 

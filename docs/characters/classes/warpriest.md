@@ -51,7 +51,7 @@ The following are the class features of the warpriest.
 
 ### Weapon and Armor Proficiencies
 
-A warpriest is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), as well as the favored weapon of his deity, and with all armor (heavy, light, and medium) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). If the warpriest worships a deity with unarmed strike as its favored weapon, the warpriest gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat.
+A warpriest is proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), as well as the favored weapon of his deity, and with all armor (heavy, light, and medium) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). If the warpriest worships a deity with unarmed strike as its favored weapon, the warpriest gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat.
 
 ### Spells
 

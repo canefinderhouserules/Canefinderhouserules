@@ -499,7 +499,7 @@ Skilled at manipulation and diversion, the deadly courtesan builds up those arou
 
 Pushed into a life of crime by the society around them, half-orcs gravitate toward criminal activities that suit them best. Half-orc rogues leave subtle tactics and finesse to halflings and elves, and rely on brute strength and thuggery when they go about making mischief. Skulking slayers have turned the use of raw strength and surprise into an art form. A skulking slayer has the following class features.
 
-**Weapon and Armor Proficiency**: The skulking slayer gains proficiency with [greatclubs](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons) and [whips](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons), but loses proficiency with [rapiers](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) and [hand crossbows](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1).
+**Weapon and Armor Proficiency**: The skulking slayer gains proficiency with [greatclubs](../../equipment/weapons/greatclub.md) and [whips](../../equipment/weapons/whip.md), but loses proficiency with [rapiers](../../equipment/weapons/rapier.md) and [hand crossbows](../../equipment/weapons/crossbow-hand.md).
 
 **Class Skills**: The skulking slayer does not gain Disable Device, [Linguistics](../../rules/skills/linguistics.md), and Sleight of Hand as class skills.
 
@@ -811,7 +811,7 @@ Freedom irrigators take on tasks that many other agents of a liberation network 
 
 A toxic talon is trained and deployed for one very specific purpose: to defeat foes with unusual and potent poisons. After adopting a profession to serve as a cover for his activities, a toxic talon spends resources and time combining easy-to-obtain materials into dangerous toxins. A toxic talon can use rare, complex, slow-release poisons to make a death look like it happened naturally, or use specific poisons to cast suspicion on rival organizations.
 
-**Forceful Breath (Ex)**: A toxic talon is proficient with [blowguns](../../equipment/weapons-simple.md#simple-ranged-weapons) instead of [hand crossbows](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1). He can use a blowgun without penalty while [prone](../../rules/appendices/conditions.md#prone). This alters the rogue’s weapon proficiencies.
+**Forceful Breath (Ex)**: A toxic talon is proficient with [blowguns](../../equipment/weapons/blowgun.md) instead of [hand crossbows](../../equipment/weapons/crossbow-hand.md). He can use a blowgun without penalty while [prone](../../rules/appendices/conditions.md#prone). This alters the rogue’s weapon proficiencies.
 
 **Poison Adept (Ex)**: A toxic talon is trained in the use of poison and cannot accidentally poison himself when applying poison to a projectile weapon. He can apply poison to a projectile as a move action (1 AP). This counts as the poison use ability for the purposes of qualifying for feats, prestige classes, and other options. This ability replaces [trapfinding](rogue.md#trapfinding).
 
@@ -903,7 +903,7 @@ Vexing dodgers take advantage of their smaller size to outmaneuver larger foes s
 
 Some combatants specialize in the study of certain weapons, but those without formal training often learn to survive a fight by making brilliant use of whatever is lying around.
 
-**Weapon Proficiency**: The makeshift scrapper is proficient with only [simple weapons](../../equipment/weapons-simple.md).
+**Weapon Proficiency**: The makeshift scrapper is proficient with only [simple weapons](../../equipment/weapons.md#simple-weapons).
 
 **Improvised Weapons (Ex)**: At 1st level, a makeshift scrapper gains Catch Off-Guard and [Throw Anything](../../rules/feats/throw-anything.md) as bonus feats. This ability replaces [trapfinding](rogue.md#trapfinding).
 
@@ -1059,7 +1059,7 @@ Deep in darkness, the snare setter constructs deadly traps and brutal mechanisms
 
 Cities that protect the secrets of gunpowder and control the sale of firearms create lucrative opportunities for those who can sneak the technology out. Gun smugglers are adept at procuring firearms and concealing their secret weapons.
 
-**Weapon Proficiency**: A gun smuggler is proficient with all [simple weapons](../../equipment/weapons-simple.md) and [one-handed firearms](../../equipment/weapons-firearms.md), plus the [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), and [sword cane](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons). This replaces the rogue's weapon proficiencies.
+**Weapon Proficiency**: A gun smuggler is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons) and [one-handed firearms](../../equipment/weapons.md#firearms), plus the [rapier](../../equipment/weapons/rapier.md), [sap](../../equipment/weapons/sap.md), [short sword](../../equipment/weapons/sword-short.md), and [sword cane](../../equipment/weapons/sword-cane.md). This replaces the rogue's weapon proficiencies.
 
 **Hidden Gun (Ex)**: A gun smuggler gains a bonus equal to half her rogue level on Sleight of Hand checks to conceal a one-handed firearm on her body. She increases the DCs of opponents' Perception checks to realize the true nature of disguised weapons (such as a sword cane) within 5 feet of her by an amount equal to her rogue level (maximum DC 25 plus her rogue level). This replaces [trapfinding](rogue.md#trapfinding).
 
@@ -1136,7 +1136,7 @@ This replaces the ninja trick gained at 2nd level.
 
 *Ninja archetype.* When a masked hierarchy needs to silence the voices of those heretics who question too loudly, these enforcers are the tools it employs.
 
-**Weapon and Armor Proficiency**: In addition to having the ninja's normal weapon and armor proficiencies, the masked enforcer is proficient with [bolas](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [saps](../../equipment/weapons-martial.md#martial-light-melee-weapons), and [whips](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons).
+**Weapon and Armor Proficiency**: In addition to having the ninja's normal weapon and armor proficiencies, the masked enforcer is proficient with [bolas](../../equipment/weapons/bola.md), [saps](../../equipment/weapons/sap.md), and [whips](../../equipment/weapons/whip.md).
 
 **Mask (Ex)**: A masked enforcer has a mask that is a symbol of his faith and the myriad powers invested in him. Abilities granted by this archetype other than undercover faith function only while the masked enforcer is wearing his mask. Putting on or removing this mask is a move action (1 AP).
 

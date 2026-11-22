@@ -272,7 +272,7 @@ A sensate perceives battle through senses beyond mortal ken, anticipating his op
 
 **Skills**: The sensate’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sense Motive (Wis), Survival (Wis), and Swim (Str). This replaces the fighter’s class skills.
 
-**Weapon and Armor Proficiency**: Sensates are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). This replaces the [fighter’s weapon and armor proficiency](fighter.md#weapon-and-armor-proficiency).
+**Weapon and Armor Proficiency**: Sensates are proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). This replaces the [fighter’s weapon and armor proficiency](fighter.md#weapon-and-armor-proficiency).
 
 **Guarded Senses (Su)**: At 2nd level, a sensate gains a +1 bonus on saves against sonic effects, figments, glamers, patterns, gaze attacks, and scent-based attacks. This bonus increases by 1 for every 4 levels the sensate possesses beyond 2nd.
 
@@ -639,7 +639,7 @@ Eldritch guardians are trained to detect and give warning about magic threats to
 
 **Familiar (Ex)**: At 1st level, an eldritch guardian gains a familiar, treating his fighter level as his effective wizard level for the purpose of this ability. This ability replaces the bonus feat gained at 1st level.
 
-**Share Training (Ex)**: At 2nd level, when the familiar can see and hear its master, it can use any combat feat possessed by the eldritch guardian. The familiar doesn’t have to meet the feat’s prerequisites, but at the GM’s discretion may be precluded from using certain combat feats due to its physical form. For example, an eldritch guardian’s pig familiar with access to Exotic Weapon Proficiency ([spiked chain](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons)) would not gain the ability to use spiked chains, since it doesn’t have any limbs capable of properly handling them. This ability replaces the bonus feat gained at 2nd level.
+**Share Training (Ex)**: At 2nd level, when the familiar can see and hear its master, it can use any combat feat possessed by the eldritch guardian. The familiar doesn’t have to meet the feat’s prerequisites, but at the GM’s discretion may be precluded from using certain combat feats due to its physical form. For example, an eldritch guardian’s pig familiar with access to Exotic Weapon Proficiency ([spiked chain](../../equipment/weapons/chain-spiked.md)) would not gain the ability to use spiked chains, since it doesn’t have any limbs capable of properly handling them. This ability replaces the bonus feat gained at 2nd level.
 
 **Steel Will (Ex)**: At 2nd level, the eldritch guardian gains a +1 bonus on Will saves against fear and mind-affecting effects. This bonus increases by 1 for every 4 levels beyond 2nd. This ability replaces [bravery](fighter.md#bravery-ex).
 
@@ -729,7 +729,7 @@ Elite mercenary soldiers are never a standing army, but gold buys loyalty, and t
 
 Not every zealot of a goddess of revenge can channel divine magic to track down those who deserve punishment. Like a bounty hunter following his own rules, a vengeful hunter tracks down elusive prey using his wits and delivers long-overdue retribution while easily ignoring his own injuries thanks to the joy he receives from a job well done.
 
-**Weapon and Armor Proficiency**: A vengeful hunter is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), plus the [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons). In addition, the hunter is proficient with light and [medium armor](../../equipment/armor.md) as well as [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). This replaces the normal fighter armor and weapon proficiencies.
+**Weapon and Armor Proficiency**: A vengeful hunter is proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), plus the [whip](../../equipment/weapons/whip.md). In addition, the hunter is proficient with light and [medium armor](../../equipment/armor.md) as well as [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). This replaces the normal fighter armor and weapon proficiencies.
 
 **Class Skills**: A vengeful hunter gains [Diplomacy](../../rules/skills/diplomacy.md), Knowledge (local), and Perception as class skills and loses Knowledge (dungeoneering) and Knowledge (engineering) as class skills.
 
@@ -749,7 +749,7 @@ Not every zealot of a goddess of revenge can channel divine magic to track down 
 
 Some academies develop a reputation for churning out fearsome duelists. At the end of each academic year, the students all gather together and duel one another with light blades. Each student duels one opponent after another until he is marked on the cheek by an adversary's blade. These dueling scars are recognized as marks of prowess. The style is one of fluid motion and precise thrusts.
 
-**Weapon and Armor Proficiency**: An academy duelist is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) and with all light and [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). This replaces the fighter's normal weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: An academy duelist is proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons) and with all light and [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). This replaces the fighter's normal weapon and armor proficiencies.
 
 **Duelist Stance (Ex)**: At 1st level, a academy duelist gains a +1 dodge bonus to AC as long as he is wearing no armor or light armor, wields a melee weapon in one hand, and his other hand is empty. This bonus increases by 1 for every 5 levels the duelist possesses to a maximum of +5 at 20th level. This ability replaces the fighter's 1st-level bonus feat.
 
@@ -767,7 +767,7 @@ Sword duelists are among the deadliest and most feared fighters. They have spent
 
 The following benefits apply only when a sword duelist defender is wielding a dueling sword and carrying nothing in his other hand. A sword duelist defender fights with his sword wielded with both hands only in moments of desperation.
 
-**Suggested Feats**: Although this archetype replaces some of the bonus feats that a fighter would normally have access to, sword duelist defenders still have several opportunities to gain feats. The following feats are the most thematically appropriate, but the archetype does not require any of them: Combat Expertise, [Dazzling Display](../../rules/feats/dazzling-display.md), [Duelist Mastery](../../rules/feats/duelist-mastery.md), Exotic Weapon Proficiency ([dueling sword](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Feint](../../rules/feats/improved-feint.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Lunge, [Quick Draw](../../rules/feats/quick-draw.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), Weapon Focus (dueling sword), Weapon Specialization (dueling sword).
+**Suggested Feats**: Although this archetype replaces some of the bonus feats that a fighter would normally have access to, sword duelist defenders still have several opportunities to gain feats. The following feats are the most thematically appropriate, but the archetype does not require any of them: Combat Expertise, [Dazzling Display](../../rules/feats/dazzling-display.md), [Duelist Mastery](../../rules/feats/duelist-mastery.md), Exotic Weapon Proficiency ([dueling sword](../../equipment/weapons/sword-dueling.md)), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Feint](../../rules/feats/improved-feint.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Lunge, [Quick Draw](../../rules/feats/quick-draw.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), Weapon Focus (dueling sword), Weapon Specialization (dueling sword).
 
 **Defensive Parry (Ex)**: At 3rd level, when a sword duelist defender makes a full attack with a dueling sword, he gains a +1 shield bonus to his AC against melee attacks until the beginning of his next turn. This bonus increases to +2 at 7th level, +3 at 11th level, and +4 at 15th level. This ability replaces [armor training](fighter.md#armor-training-ex).
 
@@ -904,7 +904,7 @@ The venomblade has learned to take full advantage of his toxic spittle, blinding
 
 The eldritch defender has trained in nearly forgotten arts of an ancient civilization, which combine martial prowess with elementary wizardry. Inspired by deities once worshiped long ago, eldritch defenders strive to understand the dangers of the world and overcome them with knowledge and strength of arms.
 
-**Weapon and Armor Proficiency**: An eldritch defender is not proficient with two-handed [martial weapons](../../equipment/weapons-martial.md) or [tower shields](../../equipment/armor.md). This alters the [fighter's weapon and armor proficiency](fighter.md#weapon-and-armor-proficiency).
+**Weapon and Armor Proficiency**: An eldritch defender is not proficient with two-handed [martial weapons](../../equipment/weapons.md#martial-weapons) or [tower shields](../../equipment/armor.md). This alters the [fighter's weapon and armor proficiency](fighter.md#weapon-and-armor-proficiency).
 
 **Eldritch Lore**: An eldritch defender gains 4 skill ranks + a number of skill ranks equal to her Intelligence modifier at each level, instead of the normal 2 skill ranks + her Intelligence modifier at each level. Furthermore, Knowledge (arcana, religion), Linguistics, and Spellcraft are all class skills for the eldritch defender. This alters the fighter's skills and replaces the bonus fighter combat feat gained at 1st level.
 
@@ -986,7 +986,7 @@ A steelbound fighter transfers the effects of his steelbound awakening to a new 
 
 Kobolds know there's strength in numbers, and they rarely send fewer than two kobolds out on patrol. This reliance on one another extends to combat tactics too: overwhelming numbers and tight quarters are the kobold fighter's friends. Scuttling between the legs of friend and foe alike, the swarm fighter is an unshakable combatant.
 
-**Weapon and Armor Proficiency**: A swarm fighter is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md). She is proficient with light and [medium armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
+**Weapon and Armor Proficiency**: A swarm fighter is proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons). She is proficient with light and [medium armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
 
 **Athletic Prowess (Ex)**: A swarm fighter adds Acrobatics and Climb to her class skills, and gains a bonus on checks with these skills equal to 1/2 her swarm fighter level.
 
@@ -1050,7 +1050,7 @@ A corsair is a pirate who focuses on shipboard combat, relying on strength of ar
 
 **Class Skills**: A spear fighter adds Acrobatics to his list of class skills and removes Ride as a class skill. This alters the fighter's class skills.
 
-**Armor Proficiency**: A [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons) fighter is not proficient with [heavy armor](../../equipment/armor.md) or [tower shields](../../equipment/armor.md). Instead, he gains Dodge as a bonus feat, even if he doesn't fulfill the prerequisites, but he can't use this feat while wearing heavy armor or using a shield. This alters the fighter's armor proficiencies.
+**Armor Proficiency**: A [spear](../../equipment/weapons/spear.md) fighter is not proficient with [heavy armor](../../equipment/armor.md) or [tower shields](../../equipment/armor.md). Instead, he gains Dodge as a bonus feat, even if he doesn't fulfill the prerequisites, but he can't use this feat while wearing heavy armor or using a shield. This alters the fighter's armor proficiencies.
 
 **Balanced Stride (Ex)**: At 2nd level, the spear fighter gains a +1 bonus on Acrobatics checks to avoid attacks of opportunity. This bonus increases by 1 for every 4 levels he has beyond 2nd. This replaces [bravery](fighter.md#bravery-ex).
 
@@ -1116,7 +1116,7 @@ In the desert lands, no enemy is as feared as the dervishes of the sun goddess. 
 
 The warriors of an old empire have perfected the art of fighting with the falcata and buckler in an art they call rondelero. They use their bucklers both to defend themselves and to launch unexpected strikes while chopping and hewing at their foes’ unprotected bodies and heads with their falcatas. Rondeleros wear any type of armor, but favor bucklers, and are comfortable using both hands for offense and defense.
 
-**Suggested Feats**: Exotic Weapon Proficiency ([falcata](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)), [Improved Shield Bash](../../rules/feats/improved-shield-bash.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), Power Attack, [Shield Slam](../../rules/feats/shield-slam.md), [Shield Master](../../rules/feats/shield-master.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), Weapon Focus (falcata), Weapon Specialization (falcata).
+**Suggested Feats**: Exotic Weapon Proficiency ([falcata](../../equipment/weapons/falcata.md)), [Improved Shield Bash](../../rules/feats/improved-shield-bash.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), Power Attack, [Shield Slam](../../rules/feats/shield-slam.md), [Shield Master](../../rules/feats/shield-master.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), Weapon Focus (falcata), Weapon Specialization (falcata).
 
 **Buckler Bash (Ex)**: At 2nd level, a rondelero can perform a shield bash with a buckler (use the same damage and critical modifier as for a light shield). This ability replaces [bravery](fighter.md#bravery-ex).
 

@@ -217,7 +217,7 @@ Embodiments of the untamable beauty and noble passion of Elysium, azata eidolons
 
 **Base Form**: Biped (limbs [arms], limbs [legs]) or serpentine (limbs [arms], tail, tail slap).
 
-**Base Evolutions**: At 1st level, azata eidolons gain the resistance (electricity) evolution and the 4-point weapon training evolution (proficiency in [martial weapons](../../equipment/weapons-martial.md)).
+**Base Evolutions**: At 1st level, azata eidolons gain the resistance (electricity) evolution and the 4-point weapon training evolution (proficiency in [martial weapons](../../equipment/weapons.md#martial-weapons)).
 
 At 4th level, azata eidolons gain cold resistance 10 and fire resistance 10.
 
@@ -497,7 +497,7 @@ Kami eidolons are spirits of nature bound to an unchained summoner. They seek to
 
 **Base Form**: Biped (limbs [arms], limbs [legs], slam).
 
-**Base Evolutions**: At 1st level, a kami eidolon gains the resistance (fire) evolution and the 4-point weapon training evolution (proficiency in [martial weapons](../../equipment/weapons-martial.md)).
+**Base Evolutions**: At 1st level, a kami eidolon gains the resistance (fire) evolution and the 4-point weapon training evolution (proficiency in [martial weapons](../../equipment/weapons.md#martial-weapons)).
 
 At 4th level, a kami eidolon gains acid resistance 10 and cold resistance 10.
 
@@ -649,7 +649,7 @@ The save DC is equal to 10 + 1/2 the eidolon’s Hit Dice + the eidolon’s Cons
 
 **Trip (Ex)**: The eidolon becomes adept at knocking foes to the ground with its bite, granting it a trip attack. Whenever the eidolon makes a successful bite attack, it can attempt a free combat maneuver check. If the eidolon succeeds at this check, the target is knocked [prone](../../rules/appendices/conditions.md#prone). If the eidolon fails, it is not tripped in return. This ability works only on creatures of a size category equal to or smaller than the eidolon. Requirements: Daemon, demon, devil, elemental, or protean subtype; bite evolution.
 
-**Weapon Training (Ex)**: The eidolon learns to use a weapon, gaining [Simple Weapon Proficiency](../../rules/feats/simple-weapon-proficiency.md) as a bonus feat. If 2 additional evolution points are spent, it gains proficiency with all [martial weapons](../../equipment/weapons-martial.md) as well.
+**Weapon Training (Ex)**: The eidolon learns to use a weapon, gaining [Simple Weapon Proficiency](../../rules/feats/simple-weapon-proficiency.md) as a bonus feat. If 2 additional evolution points are spent, it gains proficiency with all [martial weapons](../../equipment/weapons.md#martial-weapons) as well.
 
 ### 3-Point Evolutions
 

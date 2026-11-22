@@ -60,7 +60,7 @@ The following are the class features of the swashbuckler.
 
 #### Weapon and Armor Proficiency
 
-Swashbucklers are proficient with simple and [martial weapons](../../../equipment/weapons-martial.md), as well as [light armor](../../../equipment/armor.md) and [bucklers](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3).
+Swashbucklers are proficient with simple and [martial weapons](../../../equipment/weapons.md#martial-weapons), as well as [light armor](../../../equipment/armor.md) and [bucklers](../../../equipment/armor.md#all-armor-and-shields).
 
 #### Panache (Ex)
 
@@ -395,7 +395,7 @@ Accustomed to life on the high seas, a swashbuckler with the raider personage se
 
 **Personage Bonus**
 
-At 1st level, a raider swashbuckler gains Sea Legs as a bonus feat, ignoring the feat’s prerequisites. In addition, the swashbuckler may use her Charisma modifier instead of her Intelligence modifier on all [Profession](../../../rules/skills/profession.md) (sailor) checks and her Dexterity modifier instead of her Strength on all [Swim](../../../rules/skills/swim.md) checks. If she is proficient with [firearms](../../../equipment/weapons-firearms.md), the swashbuckler can regain panache from attacks made with firearms as if they belonged to the fighter weapon group that she selected with swashbuckler weapon training at 1st level.
+At 1st level, a raider swashbuckler gains Sea Legs as a bonus feat, ignoring the feat’s prerequisites. In addition, the swashbuckler may use her Charisma modifier instead of her Intelligence modifier on all [Profession](../../../rules/skills/profession.md) (sailor) checks and her Dexterity modifier instead of her Strength on all [Swim](../../../rules/skills/swim.md) checks. If she is proficient with [firearms](../../../equipment/weapons.md#firearms), the swashbuckler can regain panache from attacks made with firearms as if they belonged to the fighter weapon group that she selected with swashbuckler weapon training at 1st level.
 
 **Personage Abilities**: A swashbuckler with the raider personage gains the following abilities as she increases in level.
 

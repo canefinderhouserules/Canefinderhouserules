@@ -43,7 +43,7 @@ The following are the class features of the feysworn prestige class.
 
 #### Weapon and Armor Proficiency
 
-A feysworn gains proficiency with all [simple weapons](../../equipment/weapons-simple.md) and with her fey lord’s favored weapon. She gains no additional proficiency with armor or [shields](../../equipment/armor.md).
+A feysworn gains proficiency with all [simple weapons](../../equipment/weapons.md#simple-weapons) and with her fey lord’s favored weapon. She gains no additional proficiency with armor or [shields](../../equipment/armor.md).
 
 #### Spells per Day or Spells Known
 

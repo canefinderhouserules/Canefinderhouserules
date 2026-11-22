@@ -72,7 +72,7 @@ The following are the class features of the psychic.
 
 ### Weapon and Armor Proficiency
 
-A psychic is proficient with all [simple weapons](../../equipment/weapons-simple.md), but not with any type of armor or shield.
+A psychic is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), but not with any type of armor or shield.
 
 ### Spells
 

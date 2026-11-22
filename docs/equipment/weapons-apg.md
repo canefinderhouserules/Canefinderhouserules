@@ -2,60 +2,12 @@
 
 Adventurers are always on the look out for new or strange weapons to give them an advantage in combat.
 
-*Weapons marked in the table that say "see text" are described below. Weapon statistics follow the Core Rulebook rules.*
+*Weapons that say "see text" in the weapon tables are described below.*
 
 ## Weapon Table
 
-**Simple Weapons**
-
-| Weapon | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
-|---|---|---|---|---|---|---|---|---|
-| *Unarmed Attacks* |||||||||
-| Brass knuckles | 1 gp | 1d2 | 1d3 | ×2 | — | 1 lb. | B | monk, see text |
-| *Light Melee Weapons* |||||||||
-| Battle aspergillum | 5 gp | 1d4 | 1d6 | ×2 | — | 4 lbs. | B | see text |
-| Cestus | 5 gp | 1d3 | 1d4 | 19–20/×2 | — | 1 lb. | B or P | monk, see text |
-| Wooden stake | — | 1d3 | 1d4 | ×2 | 10 ft. | 1 lb. | P | — |
-| *Two-Handed Melee Weapons* |||||||||
-| Bayonet | 5 gp | 1d4 | 1d6 | ×2 | — | 1 lb. | P | — |
-| Boar spear | 5 gp | 1d6 | 1d8 | ×2 | — | 8 lbs. | P | brace, see text |
-
-**Martial Weapons**
-
-| Weapon | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
-|---|---|---|---|---|---|---|---|---|
-| *One-Handed Melee Weapons* |||||||||
-| Sword cane | 45 gp | 1d4 | 1d6 | ×2 | — | 4 lbs. | P | — |
-| *Two-Handed Melee Weapons* |||||||||
-| Bardiche | 13 gp | 1d8 | 1d10 | 19–20/×2 | — | 14 lbs. | S | brace, reach, see text |
-| Bec de corbin | 15 gp | 1d8 | 1d10 | ×3 | — | 12 lbs. | B or P | brace, reach, see text |
-| Bill | 11 gp | 1d6 | 1d8 | ×3 | — | 11 lbs. | S | brace, disarm, reach, see text |
-| Glaive-guisarme | 12 gp | 1d8 | 1d10 | ×3 | — | 10 lbs. | S | brace, reach, see text |
-| Lucerne hammer | 15 gp | 1d10 | 1d12 | ×2 | — | 12 lbs. | B or P | brace, reach, see text |
-| *Ranged Weapons* |||||||||
-| Arrow, blunt (20) | 2 gp | — | — | — | — | 3 lbs. | B | see text |
-| Arrow, flight (20) | 2 gp | — | — | — | see text | 3 lbs. | P | see text |
-| Arrow, smoke | 10 gp | — | — | — | — | — | P | see text |
-| Chakram | 1 gp | 1d6 | 1d8 | ×2 | 30 ft. | 1 lb. | S | — |
-| Pilum | 5 gp | 1d6 | 1d8 | ×2 | 20 ft. | 4 lbs. | P | see text |
-
-**Exotic Weapons**
-
-| Weapon | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
-|---|---|---|---|---|---|---|---|---|
-| *Light Melee Weapons* |||||||||
-| Swordbreaker dagger | 10 gp | 1d3 | 1d4 | ×2 | — | 3 lbs. | S | disarm, see text |
-| *One-Handed Melee Weapons* |||||||||
-| Falcata | 18 gp | 1d6 | 1d8 | 19–20/×3 | — | 4 lbs. | S | — |
-| Khopesh | 20 gp | 1d6 | 1d8 | 19–20/×2 | — | 8 lbs. | S | trip |
-| Temple sword | 30 gp | 1d6 | 1d8 | 19–20/×2 | — | 3 lbs. | S | monk, trip |
-| *Two-Handed Melee Weapons* |||||||||
-| Chain spear | 15 gp | 1d4/1d4 | 1d6/1d6 | ×2 | — | 13 lbs. | P and S | trip |
-| Mancatcher | 15 gp | 1 | 1d2 | — | — | 10 lbs. | P | reach, see text |
-| *Ranged Weapons* |||||||||
-| Boomerang | 3 gp | 1d4 | 1d6 | ×2 | 30 ft. | 3 lbs. | B | see text |
-| Double crossbow | 300 gp | 1d6 | 1d8 | 19–20/×2 | 80 ft. | 18 lbs. | P | — |
-| Lasso | 1 sp | — | — | — | — | 5 lbs. | — | see text |
+!!! warning "House rules"
+    The statistics of these weapons are in [Weapon Tables](weapons.md) with the house-rule values, and each weapon has its own page. They are not repeated here.
 
 ## Weapon Descriptions
 

@@ -49,7 +49,7 @@ The following are the class features of the swashbuckler.
 
 ### Weapon and Armor Proficiency
 
-Swashbucklers are proficient with simple and [martial weapons](../../equipment/weapons-martial.md), as well as [light armor](../../equipment/armor.md) and [bucklers](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3).
+Swashbucklers are proficient with simple and [martial weapons](../../equipment/weapons.md#martial-weapons), as well as [light armor](../../equipment/armor.md) and [bucklers](../../equipment/armor.md#all-armor-and-shields).
 
 ### Panache (Ex)
 

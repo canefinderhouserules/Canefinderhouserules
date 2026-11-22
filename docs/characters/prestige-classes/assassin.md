@@ -47,7 +47,7 @@ All of the following are class features of the assassin prestige class.
 
 #### Weapon and Armor Proficiency
 
-Assassins are proficient with the crossbow (hand, light, or heavy), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons) (any type), [dart](../../equipment/weapons-simple.md#simple-ranged-weapons), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons) (normal and composite), and [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons). Assassins are proficient with [light armor](../../equipment/armor.md) but not with [shields](../../equipment/armor.md).
+Assassins are proficient with the crossbow (hand, light, or heavy), [dagger](../../equipment/weapons/dagger.md) (any type), [dart](../../equipment/weapons/dart.md), [rapier](../../equipment/weapons/rapier.md), [sap](../../equipment/weapons/sap.md), [shortbow](../../equipment/weapons/shortbow.md) (normal and composite), and [short sword](../../equipment/weapons/sword-short.md). Assassins are proficient with [light armor](../../equipment/armor.md) but not with [shields](../../equipment/armor.md).
 
 #### Sneak Attack
 

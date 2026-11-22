@@ -53,7 +53,7 @@ The following are class features of the evangelist prestige class.
 
 #### Weapon and Armor Proficiency
 
-An evangelist is proficient with all [simple weapons](../../equipment/weapons-simple.md) and [light armor](../../equipment/armor.md). An evangelist also gains weapon proficiency with her chosen deity's favored weapon.
+An evangelist is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons) and [light armor](../../equipment/armor.md). An evangelist also gains weapon proficiency with her chosen deity's favored weapon.
 
 #### Devotion (Ex)
 

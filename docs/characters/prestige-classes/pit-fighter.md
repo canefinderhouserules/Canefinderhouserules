@@ -43,7 +43,7 @@ The following are class features of the pit fighter prestige class.
 
 #### Weapon and Armor Proficiency
 
-Pit fighters are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) with the performance quality, as well as with light and [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (excluding [tower shields](../../equipment/armor.md)).
+Pit fighters are proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons) with the performance quality, as well as with light and [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (excluding [tower shields](../../equipment/armor.md)).
 
 #### Poor Equipment (Ex)
 

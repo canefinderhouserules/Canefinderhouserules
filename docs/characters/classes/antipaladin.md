@@ -51,7 +51,7 @@ All of the following are class features of the antipaladin.
 
 ### Weapon and Armor Proficiency
 
-Antipaladins are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), with all types of armor (heavy, medium, and light), and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+Antipaladins are proficient with all simple and [martial weapons](../../equipment/weapons.md#martial-weapons), with all types of armor (heavy, medium, and light), and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 ### Aura of Evil (Ex)
 

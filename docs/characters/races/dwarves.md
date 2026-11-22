@@ -34,7 +34,7 @@ Dwarves are a stoic but stern race, ensconced in cities carved from the hearts o
 
 **Stonecunning**: Dwarves receive a +2 bonus on [Perception](../../rules/skills/perception.md) checks to potentially notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.
 
-**Weapon Familiarity**: Dwarves are proficient with [battleaxes](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [heavy picks](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [warhammers](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and treat any weapon with the word “dwarven” in its name as a martial weapon.
+**Weapon Familiarity**: Dwarves are proficient with [battleaxes](../../equipment/weapons/battleaxe.md), [heavy picks](../../equipment/weapons/pick-heavy.md), and [warhammers](../../equipment/weapons/warhammer.md), and treat any weapon with the word “dwarven” in its name as a martial weapon.
 
 **Languages**: Dwarves begin play speaking Common and Dwarven. Dwarves with high Intelligence scores can choose from the following: Giant, Gnome, Goblin, Orc, Terran, and Undercommon.
 

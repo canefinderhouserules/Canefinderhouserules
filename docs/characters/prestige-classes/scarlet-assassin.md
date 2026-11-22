@@ -41,7 +41,7 @@ The following are class features of the scarlet assassin prestige class.
 
 #### Weapon and Armor Proficiency
 
-A scarlet assassin is proficient with [simple weapons](../../equipment/weapons-simple.md), light [martial weapons](../../equipment/weapons-martial.md), and [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md). A scarlet assassin can cast scarlet assassin spells while wearing light armor without incurring the normal arcane spell failure.
+A scarlet assassin is proficient with [simple weapons](../../equipment/weapons.md#simple-weapons), light [martial weapons](../../equipment/weapons.md#martial-weapons), and [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md). A scarlet assassin can cast scarlet assassin spells while wearing light armor without incurring the normal arcane spell failure.
 
 #### Spells
 

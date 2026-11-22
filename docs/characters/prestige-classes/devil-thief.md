@@ -41,7 +41,7 @@ The following are class features of the devil thief prestige class.
 
 #### Weapon and Armor Proficiency
 
-A devil thief gains proficiency with [longswords](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons).
+A devil thief gains proficiency with [longswords](../../equipment/weapons/longsword.md).
 
 #### Classically Trained (Ex)
 

@@ -636,7 +636,7 @@ An oozeling cannot use her shifter shape to transform into a magical beast.
 
 While most shifters are trained in druidic traditions that allow them to tap into animalistic powers, others look instead to the simplest forms of life for inspiration. Known as oozemorphs, these shifters focus on the ooze—a form of life as simple in construction as it is dangerous in combat. While some shifters consider the oozemorph to be unsettling or even vile, these shifters merely embrace a stranger form of life than most. They are not inherently evil, yet they are often misunderstood by druidic circles and these circles’ shifter champions.
 
-**Weapon and Armor Proficiency**: An oozemorph is proficient with all [simple weapons](../../equipment/weapons-simple.md) and [light armor](../../equipment/armor.md). This replaces a shifter’s normal weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: An oozemorph is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons) and [light armor](../../equipment/armor.md). This replaces a shifter’s normal weapon and armor proficiencies.
 
 **Compression (Ex)**: An oozemorph gains compression as per the universal monster rule. This ability can be used regardless of the current form the oozemorph has taken.
 

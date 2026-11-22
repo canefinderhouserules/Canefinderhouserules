@@ -984,7 +984,7 @@ A composer of sonorous laments for the dead and elaborate requiems for those los
 
 In some cultures, the professional entertainer is a prestigious role. Specially trained entertainers called geisha are praised for their appearance and skill at conversation, music, dancing, singing, poetry, and calligraphy. A geisha provides social intimacy and status but not physical intimacy.
 
-**Weapon and Armor Proficiency**: Geisha are proficient in all [simple weapons](../../equipment/weapons-simple.md) and one monk weapon. Geisha are not proficient in any armor or shield; unlike bards, geisha are subject to arcane spell failure even when casting in [light armor](../../equipment/armor.md) or when using a shield. This replaces the normal bard armor and weapon proficiencies.
+**Weapon and Armor Proficiency**: Geisha are proficient in all [simple weapons](../../equipment/weapons.md#simple-weapons) and one monk weapon. Geisha are not proficient in any armor or shield; unlike bards, geisha are subject to arcane spell failure even when casting in [light armor](../../equipment/armor.md) or when using a shield. This replaces the normal bard armor and weapon proficiencies.
 
 **Tea Ceremony (Su)**: By spending 10 minutes preparing an elaborate tea ceremony, a geisha may affect her allies with inspire courage, inspire competence, inspire greatness, or inspire heroics. The ceremony’s effects last 10 minutes. The geisha must spend 4 rounds of bardic performance for each creature to be affected.
 
@@ -1319,7 +1319,7 @@ Not all bards inspire others with their performances.
 
 Dervish dancers enter a near-mystical trance that allows them to push their bodies beyond normal limits.
 
-**Weapon and Armor Proficiency**: Dervish dancers gain weapon proficiency with the [scimitar](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) and [kukri](../../equipment/weapons-martial.md#martial-light-melee-weapons). This ability replaces their proficiency with the [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) and [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons).
+**Weapon and Armor Proficiency**: Dervish dancers gain weapon proficiency with the [scimitar](../../equipment/weapons/scimitar.md) and [kukri](../../equipment/weapons/kukri.md). This ability replaces their proficiency with the [rapier](../../equipment/weapons/rapier.md) and [whip](../../equipment/weapons/whip.md).
 
 **Battle Dance**: A dervish dancer is trained in the use of the Perform skill, especially dance, to create magical effects on himself. This works like bardic performance, except the dervish dancer only affects himself, and does not need to be able to see or hear his own performance. Battle dancing is treated as bardic performance for the purposes of feats, abilities, effects, and the like that affect bardic performance, except that battle dancing does not benefit from the Lingering Performance feat or any other ability that allows a bardic performance to grant bonuses after it has ended. Battle dancing benefits apply only when the bard is wearing light or no armor. Like bardic performance, it cannot be maintained at the same time as other performance abilities.
 
@@ -1733,7 +1733,7 @@ Elaborate operas are staples of civilized society, and as with any kind of theat
 
 Worshipers of a deity of healing and the sun who come from regions where the stern, evil-smiting element of the faith is more common may become religious mystics who use a spinning dance as part of their worship. Many bards of such faiths hone their skills with dance and scimitar to become dervish dancers, but some tread a similar path focused more on magic and healing than swordplay. These are the healing dervishes.
 
-**Weapon and Armor Proficiency**: Healing dervishes gain weapon proficiency with the [scimitar](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons). This ability replaces their proficiency with the [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) and [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons).
+**Weapon and Armor Proficiency**: Healing dervishes gain weapon proficiency with the [scimitar](../../equipment/weapons/scimitar.md). This ability replaces their proficiency with the [rapier](../../equipment/weapons/rapier.md) and [whip](../../equipment/weapons/whip.md).
 
 **Deity**: A healing dervish must be a worshiper of a deity of healing and the sun. A dervish who abandons or betrays this faith reverts to a standard bard.
 
@@ -1901,7 +1901,7 @@ This ability alters [bardic performance](bard.md#bardic-performance) and replace
 
 Jugglers are masters of manipulating objects, most famously by keeping multiple objects in the air simultaneously. They often incorporate this talent into acting, comedy, or dance. Adventuring jugglers find their abilities translate well into the use of thrown weapons.
 
-**Weapon and Armor Proficiencies**: A juggler is proficient with all [simple weapons](../../equipment/weapons-simple.md), plus martial thrown weapons. This replaces his normal weapon proficiencies. A juggler is not proficient with [shields](../../equipment/armor.md).
+**Weapon and Armor Proficiencies**: A juggler is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), plus martial thrown weapons. This replaces his normal weapon proficiencies. A juggler is not proficient with [shields](../../equipment/armor.md).
 
 **Fast Reactions (Ex)**: At 1st level, a juggler gains [Deflect Arrows](../../rules/feats/deflect-arrows.md) as a bonus feat. At 5th level, he gains [Snatch Arrows](../../rules/feats/snatch-arrows.md) as a bonus feat. The juggler doesn't need to meet the prerequisites for these feats. The juggler can use the ability granted by these feats an additional time each round at 11th level (with a –5 penalty on his second attack roll) and at 17th level (with a –10 penalty on his third attack roll). This ability replaces [bardic knowledge](bard.md#bardic-knowledge-ex) and [lore master](bard.md#lore-master-ex).
 
@@ -1927,7 +1927,7 @@ Studied in venomous words as well as venomous blood, a disciple of the forked to
 
 Originating from the wooded wilds, longbow minstrels combine the elven traditions of archery, song, and spellcasting into a seamless harmony of dazzling magical effects. This archetype represents an amalgam of arcane advice on opposing spellcasters, and a strong preference for archery.
 
-**Weapon Proficiency**: A [longbow](../../equipment/weapons-martial.md#martial-ranged-weapons) minstrel is proficient with longbows, but not the [longsword](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), or [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons). This alters the bard's weapon proficiencies.
+**Weapon Proficiency**: A [longbow](../../equipment/weapons/longbow.md) minstrel is proficient with longbows, but not the [longsword](../../equipment/weapons/longsword.md), [rapier](../../equipment/weapons/rapier.md), or [whip](../../equipment/weapons/whip.md). This alters the bard's weapon proficiencies.
 
 **Diminished Spellcasting**: A longbow minstrel casts one fewer spell of each level than normal. If this reduces the number to 0, she can cast spells of that level only if her Charisma score allows bonus spells of that level. This alters the bard's spellcasting.
 
@@ -2045,7 +2045,7 @@ Beginning at 12th level, the hoaxer adds the following major hexes to the list o
 
 Dragon heralds are messengers and evangelists of true dragonkind. They carry the word of their dragon patrons far and wide, whether that's a message of peace or a declaration of war. A kobold whose scales already associate her with a revered dragon is often trained as her tribe's dragon herald.
 
-**Weapon and Armor Proficiency**: The dragon herald is proficient with [simple weapons](../../equipment/weapons-simple.md) and [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md). Like other bards, dragon heralds don't incur the normal arcane spell failure chance from wearing light armor.
+**Weapon and Armor Proficiency**: The dragon herald is proficient with [simple weapons](../../equipment/weapons.md#simple-weapons) and [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md). Like other bards, dragon heralds don't incur the normal arcane spell failure chance from wearing light armor.
 
 **Dragon Patron (Ex)**: A dragon herald must choose a particular true dragon species whose glory to extol. In most cases this is a dragon with whom the herald is familiar, but it could be a dragon deity, a long-dead dragon hero, or even an entire dragon lineage. The energy type associated with her dragon patron (as shown on the draconic bloodline table) determines the energy type used by several of her abilities. She must also designate a sacred space relevant to her dragon choice, usually the lair of a patron dragon or a shrine or holy place associated with a dragon type.
 
@@ -2154,7 +2154,7 @@ Once practiced by the dwarves during their ancient migration from the Underworld
 
 The lotus geisha of the eastern empires are renowned for their powers of seduction, and tales tell of lotus geisha disarming foes and bolstering allies.
 
-**Weapon Proficiency**: A lotus geisha is proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [butterfly sword](../../equipment/weapons-eastern.md#martial-light-melee-weapons), [fighting fan](../../equipment/weapons-eastern.md#exotic-light-melee-weapons), [iron brush](../../equipment/weapons-eastern.md#martial-light-melee-weapons), [sai](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), and [shuriken](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1). This replaces the normal bard weapon proficiencies.
+**Weapon Proficiency**: A lotus geisha is proficient with all [simple weapons](../../equipment/weapons.md#simple-weapons), plus the [butterfly sword](../../equipment/weapons.md#eastern-martial-light-melee-weapons), [fighting fan](../../equipment/weapons/fighting-fan.md), [iron brush](../../equipment/weapons/iron-brush.md), [sai](../../equipment/weapons/sai.md), [shortbow](../../equipment/weapons/shortbow.md), and [shuriken](../../equipment/weapons/shuriken.md). This replaces the normal bard weapon proficiencies.
 
 **Enrapturing Performance (Su)**: At 2nd level, a lotus geisha gains the ability to execute an enrapturing performance in addition to her bardic performance ability. An enrapturing performance is exactly like a bardic performance with the following exceptions.
 

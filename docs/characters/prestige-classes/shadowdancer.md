@@ -45,7 +45,7 @@ All of the following are features of the shadowdancer prestige class.
 
 #### Weapon and Armor Proficiency
 
-Shadowdancers are proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), crossbow (hand, light, or heavy), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons) (any type), [dart](../../equipment/weapons-simple.md#simple-ranged-weapons), mace, [morningstar](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons) (normal and composite), and [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons). Shadowdancers are proficient with [light armor](../../equipment/armor.md) but not with [shields](../../equipment/armor.md).
+Shadowdancers are proficient with the [club](../../equipment/weapons/club.md), crossbow (hand, light, or heavy), [dagger](../../equipment/weapons/dagger.md) (any type), [dart](../../equipment/weapons/dart.md), mace, [morningstar](../../equipment/weapons/morningstar.md), [quarterstaff](../../equipment/weapons/quarterstaff.md), [rapier](../../equipment/weapons/rapier.md), [sap](../../equipment/weapons/sap.md), [shortbow](../../equipment/weapons/shortbow.md) (normal and composite), and [short sword](../../equipment/weapons/sword-short.md). Shadowdancers are proficient with [light armor](../../equipment/armor.md) but not with [shields](../../equipment/armor.md).
 
 #### Hide in Plain Sight (Su)
 

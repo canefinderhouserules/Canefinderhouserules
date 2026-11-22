@@ -47,7 +47,7 @@ All of the following are class features of the mystery cultist prestige class.
 
 #### Weapon and Armor Proficiency
 
-A mystery cultist gains proficiency with all [simple weapons](../../equipment/weapons-simple.md) and with her celestial patron’s favored weapon. She gains no additional proficiency with armor or [shields](../../equipment/armor.md).
+A mystery cultist gains proficiency with all [simple weapons](../../equipment/weapons.md#simple-weapons) and with her celestial patron’s favored weapon. She gains no additional proficiency with armor or [shields](../../equipment/armor.md).
 
 #### Spells per Day/Spells Known
 
