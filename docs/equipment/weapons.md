@@ -536,6 +536,9 @@ Weapons that are not in the main tables above (primitive, setting and technologi
 | [Spear-thrower](weapons/spear-thrower.md) | 1 gp | — | — | — | — | 1 lb. | — | see text |
 | [Gauntlet](weapons/gauntlet.md) | 2 gp | 1d2 | 1d3 | ×2 | — | 1 lb. | B | Unarmed, Attached |
 | [Unarmed strike](weapons/unarmed-strike.md) | — | 1d2 | 1d3 | ×2 | — | — | B | Unarmed, nonlethal |
+| [Gnome flick-mace](weapons/gnome-flick-mace.md) | 54 gp | 1d10 | 1d12 | ×2 | — | 12 lbs. | — | reach |
+| [Khakkhara](weapons/khakkhara.md) | 7 gp | 1d6 | 1d8 | ×3 | — | 10 lbs. | — | monk |
+| [War flute](weapons/war-flute.md) | 16 gp | 1d6 | 1d8 | ×2 | — | 7 lbs. | — | distracting, performance |
 
 ### Additional Ammunition
 
