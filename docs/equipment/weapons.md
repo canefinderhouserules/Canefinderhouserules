@@ -1,4 +1,4 @@
-# Weapon Tables
+# Weapons
 
 Every weapon of this table in one page: simple, martial and exotic weapons, the Eastern weapons and firearms. Click a weapon's name to open its own page, with its statistics, its properties (linked to [Special Weapon Properties](special-weapon-properties/index.md)) and its description. Shields are in [Armor and Shields](armor.md); the Core Rulebook rules on weapons (categories, ammunition, masterwork) are in [Core Weapons](core-weapons.md).
 

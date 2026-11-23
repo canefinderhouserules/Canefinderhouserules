@@ -1,4 +1,4 @@
-# Armor
+# Armor and Shields
 
 For most, armor is the simplest way to protect oneselfin a world of rampant threats and dangers. Many characters can wear only the simplest of armors, and only some can use shields. To wear heavier armor effectively, a character can select the Armor Proficiency feats, but most classes are automatically proficient with the armors that work best for them.
 

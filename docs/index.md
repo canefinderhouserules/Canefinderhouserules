@@ -7,8 +7,7 @@ Use the tabs at the top (or the search box) to find what you need. Whenever a ru
 - **Rules:** basics, combat, skills, feats, and the optional rule systems (unchained, mythic, occult, horror, wilderness, campaign and downtime, intrigue, technology, race builder).
 - **Characters:** classes and archetypes, races, prestige classes, traits, companions and teamwork options.
 - **Magic:** spell lists and descriptions, domains, mythic spells, words of power.
-- **Equipment** and **Magic Items:** weapons, armor, gear, special materials, and magic items from every imported book.
-- **Gamemastering:** running the game, traps, environment, treasure generation.
+- **Equipment**, **Weapons**, **Armor and Shields** and **Magic Items:** weapons, armor, gear, special materials, and magic items from every imported book.
 - **Campaign Systems:** Star Wars, chakra, vampires, Dragon Age, stamina and other systems used in some campaigns.
 
 Only open game content is included. Setting-specific names (places, deities, organizations, characters) have been replaced by neutral ones, and creature entries are not included.

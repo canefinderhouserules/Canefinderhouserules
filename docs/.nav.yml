@@ -7,9 +7,10 @@ nav:
     - Prestige Classes: characters/prestige-classes
   - Magic: magic
   - Equipment: equipment
+  - Weapons: equipment/weapons.md
+  - Armor and Shields: equipment/armor.md
   - Magic Items: magic-items
   - Monsters: monsters
-  - Gamemastering: gamemastering
   - Campaign Systems: campaign-systems
   - Search Tools: tools
   - About: about.md
