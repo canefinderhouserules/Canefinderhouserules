@@ -43,6 +43,7 @@ extra_javascript:
   - javascripts/deep-search-link.js
   - javascripts/deep-search.js
   - javascripts/spell-search.js
+  - javascripts/item-search.js
   - javascripts/archetype-picker.js
   - javascripts/action-points.js
   - javascripts/condition-links.js

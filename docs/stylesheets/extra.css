@@ -41,6 +41,8 @@
 
 /* Spell Search page (javascripts/spell-search.js). */
 .ss-top { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; margin-bottom: .6rem; }
+.ss-price { font-size: .75rem; display: inline-flex; align-items: center; gap: .3rem; }
+.ss-price input { width: 6.5rem; padding: .3em .5em; border: 1px solid var(--md-default-fg-color--lighter); border-radius: .3em; background: transparent; color: inherit; }
 .ss-filters { display: flex; flex-wrap: wrap; gap: .4rem; align-items: flex-start; }
 .ss-filter { position: relative; font-size: .7rem; }
 .ss-filter summary { cursor: pointer; list-style: none; padding: .3em .8em; border: 1px solid var(--md-default-fg-color--lighter); border-radius: 1em; user-select: none; }

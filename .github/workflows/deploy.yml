@@ -20,6 +20,7 @@ jobs:
           python-version: '3.x'
       - run: pip install -r requirements.txt
       - run: node tools/build-spells.js
+      - run: node tools/build-items.js
       - run: node tools/build-archetypes.js
       - run: node tools/build-enemy-builder.js
       - run: node tools/build-starwars-builder.js
