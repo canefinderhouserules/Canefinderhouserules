@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|
 | [Simple Light Melee](../weapons.md#simple-light-melee-weapons) | — | 1d3 | 1d4 | x2 | 10 ft. | 1 lb. | P | Improvised. |
 
-**Properties:** Improvised.
+**Properties:** [Improvised](../special-weapon-properties/index.md#improvised).
 
 ## Description
 

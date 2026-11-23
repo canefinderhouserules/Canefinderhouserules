@@ -6,6 +6,6 @@
 |---|---|---|---|---|---|---|---|---|
 | [Martial Light Melee](../weapons.md#martial-light-melee-weapons) | 10 gp | 1d4 | 1d6 | 19-20/x2 | — | 2 lbs. | S | Tool. |
 
-**Properties:** Tool.
+**Properties:** [Tool](../special-weapon-properties/index.md#tool).
 
 [← All weapons](../weapons.md)

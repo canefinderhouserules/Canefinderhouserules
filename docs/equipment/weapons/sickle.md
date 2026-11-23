@@ -6,6 +6,6 @@
 |---|---|---|---|---|---|---|---|---|
 | [Simple Light Melee](../weapons.md#simple-light-melee-weapons) | 6 gp | 1d4 | 1d6 | x2 | — | 2 lbs. | S | trip, Disarm, Tool. |
 
-**Properties:** [trip](../special-weapon-properties/index.md#trip), [Disarm](../special-weapon-properties/index.md#disarm), Tool.
+**Properties:** [trip](../special-weapon-properties/index.md#trip), [Disarm](../special-weapon-properties/index.md#disarm), [Tool](../special-weapon-properties/index.md#tool).
 
 [← All weapons](../weapons.md)

@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|
 | [Eastern Martial Light Melee](../weapons.md#eastern-martial-light-melee-weapons) | 1 gp | 1d4 | 1d6 | ×2 | — | 1 lb. | B | blocking, monk, Improved Nonlethal, grapple-. |
 
-**Properties:** [blocking](../special-weapon-properties/index.md#blocking), [monk](../special-weapon-properties/index.md#monk), Improved [Nonlethal](../special-weapon-properties/index.md#nonlethal), [grapple-](../special-weapon-properties/index.md#grapple-minus).
+**Properties:** [blocking](../special-weapon-properties/index.md#blocking), [monk](../special-weapon-properties/index.md#monk), [Improved Nonlethal](../special-weapon-properties/index.md#improved-nonlethal), [grapple-](../special-weapon-properties/index.md#grapple-minus).
 
 ## Description
 

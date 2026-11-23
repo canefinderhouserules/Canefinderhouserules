@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|
 | [Martial Ranged](../weapons.md#martial-ranged-weapons) | 100 gp | 1d6 | 1d8 | 19-20/x2 | 110 ft. | 3 lbs. | P | Strength |
 
-**Properties:** Strength
+**Properties:** [Strength](../special-weapon-properties/index.md#strength)
 
 ## Description
 

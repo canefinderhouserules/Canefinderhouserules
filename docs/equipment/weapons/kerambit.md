@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|
 | [Eastern Martial Light Melee](../weapons.md#eastern-martial-light-melee-weapons) | 2 gp | 1d2 | 1d3 | 19-20/×3 | — | — | S | Hideable, Tool, Quick, Hurting. |
 
-**Properties:** [Hideable](../special-weapon-properties/index.md#hideable), Tool, [Quick](../special-weapon-properties/index.md#quick), Hurting.
+**Properties:** [Hideable](../special-weapon-properties/index.md#hideable), [Tool](../special-weapon-properties/index.md#tool), [Quick](../special-weapon-properties/index.md#quick), [Hurting](../special-weapon-properties/index.md#hurting).
 
 ## Description
 

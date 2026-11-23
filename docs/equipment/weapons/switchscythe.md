@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|
 | [Exotic Two Handed Melee](../weapons.md#exotic-two-handed-melee-weapons) | 18 gp | 1d6 | 2d4 | ×4 | — | 10 lbs. | P or S | trip, Tool, anti-shield, see text. |
 
-**Properties:** [trip](../special-weapon-properties/index.md#trip), Tool, [anti-shield](../special-weapon-properties/index.md#anti-shield), see text.
+**Properties:** [trip](../special-weapon-properties/index.md#trip), [Tool](../special-weapon-properties/index.md#tool), [anti-shield](../special-weapon-properties/index.md#anti-shield), see text.
 
 ## Description
 

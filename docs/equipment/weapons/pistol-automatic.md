@@ -6,6 +6,6 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | [Advanced One-Handed Firearms](../weapons.md#advanced-one-handed-firearms) | 4,000 gp | 1d4 | 1d6 | 19-20x2 | 100 ft. | 1 | 25 | 3 lbs. | B and P | Armor Pen 1. Automatic. Recoil 2. Light Weapon. |
 
-**Properties:** [Armor Pen](../special-weapon-properties/index.md#armor-pen-x) 1. [Automatic](../special-weapon-properties/index.md#automatic-weapon-quality). [Recoil](../special-weapon-properties/index.md#recoil-x) 2. Light Weapon.
+**Properties:** [Armor Pen](../special-weapon-properties/index.md#armor-pen-x) 1. [Automatic](../special-weapon-properties/index.md#automatic-weapon-quality). [Recoil](../special-weapon-properties/index.md#recoil-x) 2. [Light Weapon](../special-weapon-properties/index.md#light-weapon).
 
 [← All weapons](../weapons.md)

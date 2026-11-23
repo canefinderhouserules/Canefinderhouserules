@@ -6,6 +6,6 @@
 |---|---|---|---|---|---|---|---|---|
 | [Simple Light Melee](../weapons.md#simple-light-melee-weapons) | 2 gp | 1d3 | 1d4 | 19-20/x2 | 10 ft. | 1 lb. | P or S | Quick, Tool. |
 
-**Properties:** [Quick](../special-weapon-properties/index.md#quick), Tool.
+**Properties:** [Quick](../special-weapon-properties/index.md#quick), [Tool](../special-weapon-properties/index.md#tool).
 
 [← All weapons](../weapons.md)

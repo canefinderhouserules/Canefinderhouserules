@@ -9,8 +9,8 @@
 
 **Properties:**
 
-- Exotic Two Handed Melee: [disarm](../special-weapon-properties/index.md#disarm), [trip](../special-weapon-properties/index.md#trip), Finesse, [Heavy Flail](../special-weapon-properties/index.md#heavy-flail).
-- Eastern Exotic Two Handed Melee: [disarm](../special-weapon-properties/index.md#disarm), [trip](../special-weapon-properties/index.md#trip), Finesse, [Light Flail](../special-weapon-properties/index.md#light-flail).
+- Exotic Two Handed Melee: [disarm](../special-weapon-properties/index.md#disarm), [trip](../special-weapon-properties/index.md#trip), [Finesse](../special-weapon-properties/index.md#finesse), [Heavy Flail](../special-weapon-properties/index.md#heavy-flail).
+- Eastern Exotic Two Handed Melee: [disarm](../special-weapon-properties/index.md#disarm), [trip](../special-weapon-properties/index.md#trip), [Finesse](../special-weapon-properties/index.md#finesse), [Light Flail](../special-weapon-properties/index.md#light-flail).
 
 ## Description
 

@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|
 | [Eastern Martial Light Melee](../weapons.md#eastern-martial-light-melee-weapons) | 8 gp | 1d4 | 1d6 | ×2 | — | 1 lb. | B | disarm, monk, Improved Nonlethal, sunder (only against weapons). |
 
-**Properties:** [disarm](../special-weapon-properties/index.md#disarm), [monk](../special-weapon-properties/index.md#monk), Improved [Nonlethal](../special-weapon-properties/index.md#nonlethal), [sunder](../special-weapon-properties/index.md#sunder) (only against weapons).
+**Properties:** [disarm](../special-weapon-properties/index.md#disarm), [monk](../special-weapon-properties/index.md#monk), [Improved Nonlethal](../special-weapon-properties/index.md#improved-nonlethal), [sunder](../special-weapon-properties/index.md#sunder) (only against weapons).
 
 ## Description
 

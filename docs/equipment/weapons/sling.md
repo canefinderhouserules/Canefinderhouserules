@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|
 | [Simple Ranged](../weapons.md#simple-ranged-weapons) | — | 1d3 | 1d4 | x2 | 50 ft. | — | B | Light flail, Strength. |
 
-**Properties:** [Light flail](../special-weapon-properties/index.md#light-flail), Strength.
+**Properties:** [Light flail](../special-weapon-properties/index.md#light-flail), [Strength](../special-weapon-properties/index.md#strength).
 
 ## Description
 

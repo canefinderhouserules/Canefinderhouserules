@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|
 | [Exotic Ranged](../weapons.md#exotic-ranged-weapons) | 20 gp | 1d6 | 1d8 | 19-20/x3 | 80 ft. | 3 lbs. | B | Light flail, Strength. |
 
-**Properties:** [Light flail](../special-weapon-properties/index.md#light-flail), Strength.
+**Properties:** [Light flail](../special-weapon-properties/index.md#light-flail), [Strength](../special-weapon-properties/index.md#strength).
 
 ## Description
 

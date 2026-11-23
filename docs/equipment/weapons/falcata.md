@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|
 | [Exotic One Handed Melee](../weapons.md#exotic-one-handed-melee-weapons) | 18 gp | 1d6 | 1d8 | 19-20/x3 | — | 4 lbs. | S | Versatile, Coup, Finesse. |
 
-**Properties:** [Versatile](../special-weapon-properties/index.md#versatile), [Coup](../special-weapon-properties/index.md#coup), Finesse.
+**Properties:** [Versatile](../special-weapon-properties/index.md#versatile), [Coup](../special-weapon-properties/index.md#coup), [Finesse](../special-weapon-properties/index.md#finesse).
 
 ## Description
 

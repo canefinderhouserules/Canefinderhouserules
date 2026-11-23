@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|
 | [Simple Light Melee](../weapons.md#simple-light-melee-weapons) | 5 gp | 1d3 | 1d4 | 19-20/x2 | — | 1 lb. | B or P | monk, Unarmed, Attached. |
 
-**Properties:** [monk](../special-weapon-properties/index.md#monk), [Unarmed](../special-weapon-properties/index.md#unarmed), Attached.
+**Properties:** [monk](../special-weapon-properties/index.md#monk), [Unarmed](../special-weapon-properties/index.md#unarmed), [Attached](../special-weapon-properties/index.md#attached).
 
 ## Description
 

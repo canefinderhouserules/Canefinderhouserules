@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|
 | [Exotic Two Handed Melee](../weapons.md#exotic-two-handed-melee-weapons) | 80 gp | 1d8 | 1d10 | 18–20/x2 | — | 7 lbs. | S | Finesse. |
 
-**Properties:** Finesse.
+**Properties:** [Finesse](../special-weapon-properties/index.md#finesse).
 
 ## Description
 

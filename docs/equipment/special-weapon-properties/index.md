@@ -96,3 +96,21 @@
 <span id="double-barreled"></span>**Double-Barreled:** the two barrels can be fired independently as separate attacks, or both can be fired at once as a standard action (1 AP) (the attack action). A double shot that fires bullets is inaccurate, and takes a –2 penalty on both attacks. A double shot that fires bullets targets only a single creature. It doesn’t multiply Vital Strike, and it doesn’t applies sneak attack or any other type of precision damage more than once.
 
 <span id="long-range"></span>**Long Range:** –3 on attacks at 30 ft. or less.
+
+<span id="attached"></span>**Attached:** The weapon is fixed to your hand or arm. You cannot be disarmed of it, and a strike with it counts as an armed attack (as with the spiked gauntlet).
+
+<span id="finesse"></span>**Finesse:** You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with this weapon sized for you, even though it isn’t a light weapon.
+
+<span id="light-weapon"></span>**Light Weapon:** This weapon counts as a light weapon for all purposes (two-weapon fighting, Weapon Finesse, and so on), even if its category says otherwise.
+
+<span id="strength"></span>**Strength:** Your Strength modifier applies on damage rolls with this weapon, just as it does for thrown weapons. Bows and slings with a Strength rating can also be used with a lower Strength score, but then take the penalties described in their description.
+
+<span id="improvised"></span>**Improvised:** This is an item that was not made as a weapon. It is treated as an improvised weapon (–4 penalty on attack rolls) unless you are proficient with it; its description lists any special effect.
+
+<span id="tool"></span>**Tool:** *Definition pending:* this weapon doubles as a mundane tool (for harvesting, mining, cutting and similar tasks). The exact house rule has not been written yet.
+
+<span id="hurting"></span>**Hurting:** *Definition pending:* the exact house rule has not been written yet. See the description of each weapon with this property.
+
+<span id="improved-nonlethal"></span>**Improved Nonlethal:** *Definition pending:* an improved version of [Nonlethal](#nonlethal). The exact house rule has not been written yet.
+
+<span id="touch"></span>**Touch:** Attacks with this weapon resolve as touch attacks.

@@ -161,7 +161,7 @@ The Special column lists the weapon properties used at this table (see [Special 
 | [Glaive-guisarme](weapons/glaive-guisarme.md) | 12 gp | 1d8 | 1d10 | x3 | — | 10 lbs. | S | brace , reach , see text |
 | [Greataxe](weapons/greataxe.md) | 20 gp | 1d10 | 1d12 | 19-20/x3 | — | 12 lbs. | S | Sunder (shields only), Grapple-, Disarm-. |
 | [Greatclub](weapons/greatclub.md) | 5 gp | 1d8 | 1d10 | x2 | — | 8 lbs. | B | Anti-armor. |
-| [Greatsword](weapons/greatsword.md) | 50 gp | 1d10 | 2d6 | 19-20/x2 | — | 8 lbs. | S | Versatility. |
+| [Greatsword](weapons/greatsword.md) | 50 gp | 1d10 | 2d6 | 19-20/x2 | — | 8 lbs. | S | Versatile. |
 | [Guisarme](weapons/guisarme.md) | 9 gp | 1d6 | 2d4 | 19-20/x2 | — | 12 lbs. | S | Brace, reach, trip, anti-armor, Lunge Weapon. |
 | [Halberd](weapons/halberd.md) | 10 gp | 1d8 | 1d10 | 19-20/x2 | — | 12 lbs. | P or S | Anti-armor, brace, trip, Reach. |
 | [Hammer, lucerne](weapons/hammer-lucerne.md) | 15 gp | 1d10 | 1d12 | x2 | — | 12 lbs. | B or P | Anti-armor, brace, reach, Lunge Weapon, see text. |
@@ -510,6 +510,81 @@ Firearms follow the [Firearm Rules](firearm-rules.md), and use the special prope
 | [Sniper, Heavy](weapons/sniper-heavy.md) | 10.000 gp | 3d8 | 4d8 | x4 | 500 ft. | 1 | 1 | 45 lbs. | B and P | Armor Pen 6. Long Range. Slow-Firing. |
 | [Machine Gun](weapons/machine-gun.md) | 12.000 gp | 2d6 | 2d8 | 19-20x3 | 200 ft. | 1 | 100 | 60 lbs. | B and P | Armor Pen 4. Automatic. Recoil 2. |
 | [Machine Gun, Light](weapons/machine-gun-light.md) | 15.000 gp | 1d10 | 1d12 | x4 | 200 ft. | 1 | 60 | 45 lbs. | B and P | Armor Pen 3. Automatic. Recoil 1. |
+
+## Additional Weapons
+
+Weapons that are not in the main tables above (primitive, setting and technological weapons, and a few core items). They are listed here so each one has its own page.
+
+### Primitive Weapons
+
+| Weapon | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
+|---|---|---|---|---|---|---|---|---|
+| [Tepoztopilli](weapons/tepoztopilli.md) | 8 gp | 1d8 | 1d10 | 19–20/×2 | — | 8 lbs. | P or S | fragile, reach |
+| [Atlatl](weapons/atlatl.md) | 2 gp | 1d4 | 1d6 | ×2 | 50 ft. | 2 lbs. | P | — |
+| [Taiaha](weapons/taiaha.md) | 10 gp | 1d8/1d4 | 1d10/1d6 | ×2/×3 | — | 8 lbs. | B or P | double |
+| [Terbutje, great](weapons/terbutje-great.md) | 12 gp | 1d8 | 1d10 | 19–20/×2 | — | 4 lbs. | S | fragile |
+| [Wahaika](weapons/wahaika.md) | 3 gp | 1d4 | 1d6 | ×2 | 10 ft. | 3 lbs. | B | disarm |
+| [Mattock](weapons/mattock.md) | 12 gp | 1d6 | 2d4 | ×4 | — | 12 lbs. | P | fragile |
+| [Rhomphaia](weapons/rhomphaia.md) | 15 gp | 1d6 | 2d4 | ×3 | — | 10 lbs. | P or S | brace, fragile, reach |
+| [Kestros](weapons/kestros.md) | 1 gp | 1d6 | 1d8 | ×3 | 50 ft. | 1 lb. | P | — |
+
+### Other Weapons
+
+| Weapon | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
+|---|---|---|---|---|---|---|---|---|
+| [Repeating hand crossbow](weapons/repeating-hand-crossbow.md) | — | 1d3 | 1d4 | 19–20/×2 | 30 ft. | — | P | see text |
+| [Spear-thrower](weapons/spear-thrower.md) | 1 gp | — | — | — | — | 1 lb. | — | see text |
+| [Gauntlet](weapons/gauntlet.md) | 2 gp | 1d2 | 1d3 | ×2 | — | 1 lb. | B | Unarmed, Attached |
+| [Unarmed strike](weapons/unarmed-strike.md) | — | 1d2 | 1d3 | ×2 | — | — | B | Unarmed, nonlethal |
+
+### Additional Ammunition
+
+| Weapon | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
+|---|---|---|---|---|---|---|---|---|
+| [Arrows (20)](weapons/arrows-20.md) | 1 gp | — | — | — | — | 3 lbs. | — | — |
+| [Atlatl dart](weapons/atlatl-dart.md) | 1 gp | — | — | — | — | 2 lbs. | — | — |
+| [Kestros dart (10)](weapons/kestros-dart-10.md) | 5 gp | — | — | — | — | 5 lbs. | — | — |
+| [Repeating crossbow bolts (5)](weapons/repeating-crossbow-bolts-5.md) | 1 gp | — | — | — | — | 1 lb. | — | — |
+| [Smoke arrow](weapons/smoke-arrow.md) | 10 gp | — | — | — | — | — | P | see text |
+| [Arrow, blunt (20)](weapons/arrow-blunt-20.md) | 2 gp | — | — | — | — | 3 lbs. | B | see text |
+| [Arrow, flight (20)](weapons/arrow-flight-20.md) | 2 gp | — | — | — | see text | 3 lbs. | P | see text |
+
+### Technological Weapons
+
+Technological weapons use charges instead of ammunition, and the qualities Automatic, Semi-Automatic, Slow-Firing and Touch (see [Special Weapon Properties](special-weapon-properties/index.md)). Proficiency, construction and the rest of each weapon's data are on its own page; see also [Technological Weapons](technology-weapons.md).
+
+| Weapon | Cost | Dmg (S) | Dmg (M) | Critical | Range | Capacity | Usage | Weight | Type | Special |
+|---|---|---|---|---|---|---|---|---|---|---|
+| [Arc Pistol](weapons/arc-pistol.md) | 10,000 gp | 1d6 electricity | 1d8 electricity | ×2 | 50 ft. | 10 | 1 charge | 2 lbs. | one-handed ranged | semi-automatic, touch |
+| [Arc Rifle](weapons/arc-rifle.md) | 20,000 gp | 1d10 electricity | 2d6 electricity | ×2 | 150 ft. | 20 | 1 charge | 6 lbs. | two-handed ranged | automatic, touch |
+| [Atom Gun](weapons/atom-gun.md) | 144,000 gp | special (see text) | special (see text) | — | 40-ft. cone | — | — | 24 lbs. | two-handed ranged | scatter, slow-firing, touch |
+| [Autograpnel](weapons/autograpnel.md) | 4,000 gp | 1d6+6 piercing | 1d8+6 piercing | ×3 | 30 ft. | 20 | 1 charge | 10 lbs. | two-handed ranged | grapple, slow-firing |
+| [Chainsaw](weapons/chainsaw.md) | 2,700 gp | 1d12 slashing | 3d6 slashing | 18–20/×2 | — | 10 | 1 charge/hour | 10 lbs. | two-handed melee | deadly, distracting |
+| [Dart Gun](weapons/dart-gun.md) | 3,000 gp | 1d3 piercing | 1d4 piercing | ×2 | 30 ft. | 1 canister | 1 charge | 2 lbs. | one-handed ranged | — |
+| [Death Ray](weapons/death-ray.md) | 140,000 gp | special | special | — | 200 ft. | 1 canister | varies | 1 lb. | one-handed ranged | slow-firing, touch |
+| [EMP Pistol](weapons/emp-pistol.md) | 12,000 gp | 1d10 electricity | 2d6 electricity | ×2 | 50 ft. | 10 | 1 charge | 2 lbs. | one-handed ranged | semi-automatic, touch |
+| [EMP Rifle](weapons/emp-rifle.md) | 24,000 gp | 2d6 electricity | 3d6 electricity | ×2 | 150 ft. | 20 | 1 charge | 6 lbs. | two-handed ranged | automatic, touch |
+| [Flare Gun](weapons/flare-gun.md) | 300 gp | 1d6 fire | 1d8 fire | ×3 | 240 ft. | 1 | disposable | 1 lb. | one-handed ranged | slow-firing, touch |
+| [Gravity Pistol](weapons/gravity-pistol.md) | 95,000 gp | 1d6 force | 1d8 force | ×2 | 50 ft. | 10 | 1 charge | 2 lbs. | one-handed ranged | semi-automatic, touch |
+| [Gravity Rifle](weapons/gravity-rifle.md) | 165,000 gp | 1d10 force | 2d6 force | ×2 | 150 ft. | 20 | 1 charge | 6 lbs. | two-handed ranged | automatic, touch |
+| [Id Rifle](weapons/id-rifle.md) | 50,000 gp | special | special | ×2 | 50 ft. | 1 canister | 1 charge | 5 lbs. | two-handed ranged | slow-firing, touch |
+| [Laser Pistol](weapons/laser-pistol.md) | 10,000 gp | 1d6 fire | 1d8 fire | ×2 | 50 ft. | 10 | 1 charge | 2 lbs. | one-handed ranged | semi-automatic, touch |
+| [Laser Rifle](weapons/laser-rifle.md) | 20,000 gp | 1d10 fire | 2d6 fire | ×2 | 150 ft. | 20 | 1 charge | 6 lbs. | two-handed ranged | automatic, touch |
+| [Laser Torch](weapons/laser-torch.md) | 6,000 gp | 1d8 fire | 1d10 fire | ×3 | — | 10 | 1 charge | 4 lbs. | one-handed melee | touch |
+| [Mindrender](weapons/mindrender.md) | 56,000 gp | 1 negative level plus staggered | 1 negative level plus staggered | ×2 | 40 ft. | 1 canister | 2 charges | 2 lbs. | one-handed ranged | slow-firing, touch |
+| [Monowhip](weapons/monowhip.md) | 70,000 gp | 1d10 slashing | 2d6 slashing | 18–20/×3 | — | 10 | 1 charge/round | 1 lb. | light melee | performance, reach, touch |
+| [Nuclear Resonator](weapons/nuclear-resonator.md) | 90,000 gp | special (see text) | special (see text) | 18–20/×2 | 80 ft. | 20 | 5 charges | 11 lbs. | two-handed ranged | slow-firing, touch |
+| [Null Blade](weapons/null-blade.md) | 58,835 gp | 1d8 slashing | 1d10 slashing | 19–20/×2 | — | 10 | 1 charge/round | 4 lbs. | one-handed melee | — |
+| [Plasmathrower](weapons/plasmathrower.md) | 30,000 gp | 2d10 electricity and fire | 4d6 electricity and fire | 19–20/×2 | 60 ft. | 20 | 2 charges | 15 lbs. | two-handed ranged | automatic or slow-firing, scatter, touch |
+| [Rail Gun](weapons/rail-gun.md) | 30,000 gp | 3d8 bludgeoning and piercing | 3d10 bludgeoning and piercing | ×4 | 200 ft. | 10 | 1 charge | 14 lbs. | two-handed ranged | slow-firing, touch |
+| [Sonic Pistol](weapons/sonic-pistol.md) | 13,000 gp | 1d6 sonic | 1d8 sonic | ×2 | 50 ft. | 10 | 1 charge | 2 lbs. | one-handed ranged | semi-automatic, touch |
+| [Sonic Rifle](weapons/sonic-rifle.md) | 26,000 gp | 1d10 sonic | 2d6 sonic | ×2 | 150 ft. | 20 | 1 charge | 6 lbs. | two-handed ranged | automatic, touch |
+| [Stun Baton](weapons/stun-baton.md) | 5,000 gp | 1d6 electricity and 1d6 bludgeoning | 1d8 electricity and 1d6 bludgeoning | ×2 | — | 10 | 1 charge/round | 2 lbs. | light melee | touch |
+| [Stun Gun](weapons/stun-gun.md) | 3,000 gp | 1d6 nonlethal | 1d8 nonlethal | ×2 | 20 ft. | 10 | 1 charge | 3 lbs. | one-handed ranged | semi-automatic, touch |
+| [Vortex Gun](weapons/vortex-gun.md) | 182,000 gp | 8d6 force | 10d6 force | 19–20/×2 | 100-ft. cone | 30 | 10 charges | 15 lbs. | two-handed ranged | slow-firing, scatter, touch |
+| [X-Laser](weapons/x-laser.md) | 40,000 gp | 6d4 fire | 5d6 fire | ×4 | 200 ft. | 20 | 5 charges | 10 lbs. | two-handed ranged | touch |
+| [Zero Pistol](weapons/zero-pistol.md) | 10,000 gp | 1d6 cold | 1d8 cold | ×2 | 50 ft. | 10 | 1 charge | 2 lbs. | one-handed ranged | semi-automatic, touch |
+| [Zero Rifle](weapons/zero-rifle.md) | 20,000 gp | 1d10 cold | 2d6 cold | ×2 | 150 ft. | 20 | 1 charge | 6 lbs. | two-handed ranged | automatic, touch |
 
 1 Weight figures are for Medium weapons. A Small weapon weighs half as much, and a Large weapon weighs twice as much.
 

@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|
 | [Simple Light Melee](../weapons.md#simple-light-melee-weapons) | 5 gp | 1d4 | 1d6 | ×2 | — | 2 lbs. | B | monk, Improvised [1d3 fire], see text |
 
-**Properties:** [monk](../special-weapon-properties/index.md#monk), Improvised [1d3 fire], see text
+**Properties:** [monk](../special-weapon-properties/index.md#monk), [Improvised](../special-weapon-properties/index.md#improvised) [1d3 fire], see text
 
 ## Description
 

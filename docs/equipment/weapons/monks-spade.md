@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|
 | [Eastern Martial Two Handed Melee](../weapons.md#eastern-martial-two-handed-melee-weapons) | 20 gp | 1d4/1d4 | 1d6/1d6 | ×2 | — | 12 lbs. | B or P or S | Monk double, monk, Grapple Brace, Tool. |
 
-**Properties:** [Monk double](../special-weapon-properties/index.md#monk-double), [monk](../special-weapon-properties/index.md#monk), [Grapple](../special-weapon-properties/index.md#grapple) [Brace](../special-weapon-properties/index.md#brace), Tool.
+**Properties:** [Monk double](../special-weapon-properties/index.md#monk-double), [monk](../special-weapon-properties/index.md#monk), [Grapple](../special-weapon-properties/index.md#grapple) [Brace](../special-weapon-properties/index.md#brace), [Tool](../special-weapon-properties/index.md#tool).
 
 ## Description
 
