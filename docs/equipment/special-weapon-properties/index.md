@@ -107,10 +107,8 @@
 
 <span id="improvised"></span>**Improvised:** This is an item that was not made as a weapon. It is treated as an improvised weapon (–4 penalty on attack rolls) unless you are proficient with it; its description lists any special effect.
 
-<span id="tool"></span>**Tool:** *Definition pending:* this weapon doubles as a mundane tool (for harvesting, mining, cutting and similar tasks). The exact house rule has not been written yet.
+<span id="tool"></span>**Tool:** This weapon is also a working tool. It counts as the proper tool for a skill check that makes sense for it (a knife for anything that needs a sharp, maneuverable edge, a machete for cutting branches, a scythe or sickle for harvesting, a pickaxe for digging or mining), so you take no penalty for not having the right tool (normally –4).
 
-<span id="hurting"></span>**Hurting:** *Definition pending:* the exact house rule has not been written yet. See the description of each weapon with this property.
-
-<span id="improved-nonlethal"></span>**Improved Nonlethal:** *Definition pending:* an improved version of [Nonlethal](#nonlethal). The exact house rule has not been written yet.
+<span id="improved-nonlethal"></span>**Improved Nonlethal:** This weapon was designed to subdue. You take no penalty on attack rolls when you use it to deal [nonlethal](#nonlethal) damage (normally –4 for a lethal weapon).
 
 <span id="touch"></span>**Touch:** Attacks with this weapon resolve as touch attacks.

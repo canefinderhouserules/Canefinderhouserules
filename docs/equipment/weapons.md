@@ -355,7 +355,7 @@ The weapons of the Eastern list. Where a weapon is also in the main tables, its 
 | [Butterfly sword](weapons/butterfly-sword.md) | 20 gp | 1d3 | 1d4 | 19–20/×2 | — | 1 lb. | S | monk , Monk Double. |
 | [Iron brush](weapons/iron-brush.md) | 2 gp | 1d2 | 1d3 | ×2 | 10 ft. | — | P |  |
 | [Jutte](weapons/jutte.md) | 8 gp | 1d4 | 1d6 | ×2 | — | 1 lb. | B | disarm, monk, Improved Nonlethal, sunder (only against weapons). |
-| [Kerambit](weapons/kerambit.md) | 2 gp | 1d2 | 1d3 | 19-20/×3 | — | — | S | Hideable, Tool, Quick, Hurting. |
+| [Kerambit](weapons/kerambit.md) | 2 gp | 1d2 | 1d3 | 19-20/×3 | — | — | S | Hideable, Tool, Quick. |
 | [Kukri](weapons/kukri.md) | 8 gp | 1d3 | 1d4 | 18–20/x2 | — | 2 lbs. | S | — |
 | [Lungchuan tamo](weapons/lungchuan-tamo.md) | 5 gp | 1d3 | 1d4 | 19-20/×2 | 10 ft. | 1 lb. | P or S | monk, Hideable, Quick, Double. |
 | [Shang gou](weapons/shang-gou.md) | 6 gp | 1d4 | 1d6 | 19-20/×2 | — | 1 lb. | S | disarm, trip, monk, Monk Double, grapple-. |

@@ -4,9 +4,9 @@
 
 | Category | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
 |---|---|---|---|---|---|---|---|---|
-| [Eastern Martial Light Melee](../weapons.md#eastern-martial-light-melee-weapons) | 2 gp | 1d2 | 1d3 | 19-20/×3 | — | — | S | Hideable, Tool, Quick, Hurting. |
+| [Eastern Martial Light Melee](../weapons.md#eastern-martial-light-melee-weapons) | 2 gp | 1d2 | 1d3 | 19-20/×3 | — | — | S | Hideable, Tool, Quick. |
 
-**Properties:** [Hideable](../special-weapon-properties/index.md#hideable), [Tool](../special-weapon-properties/index.md#tool), [Quick](../special-weapon-properties/index.md#quick), [Hurting](../special-weapon-properties/index.md#hurting).
+**Properties:** [Hideable](../special-weapon-properties/index.md#hideable), [Tool](../special-weapon-properties/index.md#tool), [Quick](../special-weapon-properties/index.md#quick).
 
 ## Description
 
