@@ -114,7 +114,7 @@ Orcs have access to the following equipment.
 
 ## Magic Items
 
-- [Bonebreaker Gauntlets](../../magic-items/racial-items-arg.md#bonebreaker-gauntlets)
+- [Bonebreaker Gauntlets](../../magic-items/wondrous-items/hands.md#bonebreaker-gauntlets)
 
 ## Spells
 

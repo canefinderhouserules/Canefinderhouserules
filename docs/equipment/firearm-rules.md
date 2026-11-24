@@ -212,4 +212,4 @@ Bullet, Silver: This ammunition is specifically crafted from silver, and though 
 
 ## Firearm Magic Items
 
-Firearm magic items are on the [Firearm Magic Items](../magic-items/firearm-items.md) page.
+Firearm magic items are on the [Firearm Magic Items](../magic-items/index.md) page.

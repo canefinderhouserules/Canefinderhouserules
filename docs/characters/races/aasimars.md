@@ -131,9 +131,9 @@ Aasimars have access to the following equipment.
 
 ## Magic Items
 
-- [Celestial Shield](../../magic-items/racial-items-arg.md#celestial-shield)
-- [Elysian Shield](../../magic-items/racial-items-arg.md#elysian-shield)
-- [Halo of Menace](../../magic-items/racial-items-arg.md#halo-of-menace)
+- [Celestial Shield](../../magic-items/shields-specific.md#celestial-shield)
+- [Elysian Shield](../../magic-items/shields-specific.md#elysian-shield)
+- [Halo of Menace](../../magic-items/wondrous-items/head.md#halo-of-menace)
 
 ## Spells
 

@@ -78,7 +78,7 @@ These archetypes are typically only taken by nagaji, but members of other races,
 
 ## Magic Items
 
-- [Nagaji Scale Polish](../../magic-items/racial-items-arg.md#nagaji-scale-polish)
+- [Nagaji Scale Polish](../../magic-items/wondrous-items/slotless-n-r.md#nagaji-scale-polish)
 
 ## Spells
 

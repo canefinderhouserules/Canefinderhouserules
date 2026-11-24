@@ -132,9 +132,9 @@ Vine leshys have access to the following equipment.
 
 ## Magic Items
 
-- [Bottled Sunlight](../../magic-items/wondrous-items-uw.md#bottled-sunlight)
-- [Breezeblown Dandelion](../../magic-items/wondrous-items-uw.md#breezeblown-dandelion)
-- [Shrinking Berries](../../magic-items/wondrous-items-uw.md#shrinking-berries)
+- [Bottled Sunlight](../../magic-items/wondrous-items/slotless-a-b.md#bottled-sunlight)
+- [Breezeblown Dandelion](../../magic-items/wondrous-items/slotless-a-b.md#breezeblown-dandelion)
+- [Shrinking Berries](../../magic-items/wondrous-items/slotless-s-s.md#shrinking-berries)
 
 ## Spells
 

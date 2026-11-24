@@ -103,7 +103,7 @@ Gripplis have access to the following equipment.
 
 ## Magic Items
 
-- [Bubble Vault](../../magic-items/racial-items-arg.md#bubble-vault)
+- [Bubble Vault](../../magic-items/wondrous-items/slotless-a-b.md#bubble-vault)
 
 ## Discoveries
 

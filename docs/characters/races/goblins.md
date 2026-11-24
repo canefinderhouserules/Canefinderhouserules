@@ -141,7 +141,7 @@ The following items are just some of the pieces of equipment used by goblins.
 
 ## Magic Items
 
-- [Cloak of Fangs](../../magic-items/racial-items-arg.md#cloak-of-fangs)
+- [Cloak of Fangs](../../magic-items/wondrous-items/shoulders.md#cloak-of-fangs)
 
 ## Spells
 

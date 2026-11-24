@@ -111,7 +111,7 @@ Ifrits have access to the following equipment.
 
 ## Magic Items
 
-- [Cloak of Fiery Vanishing](../../magic-items/racial-items-arg.md#cloak-of-fiery-vanishing)
+- [Cloak of Fiery Vanishing](../../magic-items/wondrous-items/shoulders.md#cloak-of-fiery-vanishing)
 
 ## Spells
 

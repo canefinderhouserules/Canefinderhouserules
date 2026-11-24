@@ -135,10 +135,10 @@ Tengus have access to the following equipment.
 
 ## Magic Items
 
-- [Black Feather Fan](../../magic-items/racial-items-arg.md#black-feather-fan)
-- [Black Jade Raven (figurine of Wondrous Power)](../../magic-items/racial-items-arg.md#black-jade-raven-figurine-of-wondrous-power)
-- [Red Feather Fan](../../magic-items/racial-items-arg.md#red-feather-fan)
-- [Tengu Drinking Jug](../../magic-items/racial-items-arg.md#tengu-drinking-jug)
+- [Black Feather Fan](../../magic-items/wondrous-items/slotless-a-b.md#black-feather-fan)
+- [Black Jade Raven (figurine of Wondrous Power)](../../magic-items/wondrous-items/slotless-a-b.md#black-jade-raven-figurine-of-wondrous-power)
+- [Red Feather Fan](../../magic-items/wondrous-items/slotless-n-r.md#red-feather-fan)
+- [Tengu Drinking Jug](../../magic-items/wondrous-items/slotless-t-w.md#tengu-drinking-jug)
 
 ## Spells
 

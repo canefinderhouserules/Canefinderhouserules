@@ -189,10 +189,10 @@ Humans have access to the following equipment.
 
 ## Advanced Race Guide Magic Items
 
-- [Belt of Foraging](../../magic-items/racial-items-arg.md#belt-of-foraging)
-- [Crown of Conquest](../../magic-items/racial-items-arg.md#crown-of-conquest)
-- [Crown of Swords](../../magic-items/racial-items-arg.md#crown-of-swords)
-- [Rod of Steadfast Resolve](../../magic-items/racial-items-arg.md#rod-of-steadfast-resolve)
+- [Belt of Foraging](../../magic-items/wondrous-items/belts.md#belt-of-foraging)
+- [Crown of Conquest](../../magic-items/wondrous-items/head.md#crown-of-conquest)
+- [Crown of Swords](../../magic-items/wondrous-items/head.md#crown-of-swords)
+- [Rod of Steadfast Resolve](../../magic-items/wondrous-items/slotless-n-r.md#rod-of-steadfast-resolve)
 
 ## Advanced Race Guide Spells
 

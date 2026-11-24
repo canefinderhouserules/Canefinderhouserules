@@ -108,7 +108,7 @@ Sylphs have access to the following equipment.
 
 ## Magic Items
 
-- [Elixir of Forceful Exhalation](../../magic-items/racial-items-arg.md#elixir-of-forceful-exhalation)
+- [Elixir of Forceful Exhalation](../../magic-items/wondrous-items/slotless-e-g.md#elixir-of-forceful-exhalation)
 
 ## Spells
 

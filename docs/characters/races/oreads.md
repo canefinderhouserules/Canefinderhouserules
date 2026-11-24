@@ -136,9 +136,9 @@ Oreads have access to the following equipment.
 
 ## Magic Items
 
-- [Belt of Stoneskin](../../magic-items/racial-items-arg.md#belt-of-stoneskin)
-- [Earthbind Rod](../../magic-items/racial-items-arg.md#earthbind-rod)
-- [Mask of Stony Demeanor](../../magic-items/racial-items-arg.md#mask-of-stony-demeanor)
+- [Belt of Stoneskin](../../magic-items/wondrous-items/belts.md#belt-of-stoneskin)
+- [Earthbind Rod](../../magic-items/wondrous-items/slotless-e-g.md#earthbind-rod)
+- [Mask of Stony Demeanor](../../magic-items/wondrous-items/head.md#mask-of-stony-demeanor)
 
 ## Spells
 

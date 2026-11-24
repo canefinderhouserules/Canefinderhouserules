@@ -1,7 +1,7 @@
 # Aquatic Archetypes, Gear, Feats and Spells
 
 !!! note "Source"
-    Options from *Pathfinder Campaign Setting: Aquatic Adventures*, for use with the [Aquatic Rules](aquatic-rules.md). Deity-specific feats and setting-specific lore have been omitted. Magic items are in [Aquatic Items](../../magic-items/aquatic-items.md).
+    Options from *Pathfinder Campaign Setting: Aquatic Adventures*, for use with the [Aquatic Rules](aquatic-rules.md). Deity-specific feats and setting-specific lore have been omitted. Magic items are in [Aquatic Items](../../magic-items/index.md).
 
 ## Archetypes and Class Options
 

@@ -77,7 +77,7 @@ Strix have access to the following equipment.
 
 ## Magic Items
 
-- [Stonemist Cloak](../../magic-items/racial-items-arg.md#stonemist-cloak)
+- [Stonemist Cloak](../../magic-items/wondrous-items/shoulders.md#stonemist-cloak)
 
 ## Spells
 

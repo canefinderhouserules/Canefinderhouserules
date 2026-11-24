@@ -164,10 +164,10 @@ Small characters.
 
 ## Advanced Race Guide Magic Items
 
-- [Amazing Tools of Manufacture](../../magic-items/racial-items-arg.md#amazing-tools-of-manufacture)
-- [Boots of Escape](../../magic-items/racial-items-arg.md#boots-of-escape)
-- [Phantasmal Gem](../../magic-items/racial-items-arg.md#phantasmal-gem)
-- [Ring of Craft Magic](../../magic-items/racial-items-arg.md#ring-of-craft-magic)
+- [Amazing Tools of Manufacture](../../magic-items/wondrous-items/slotless-a-b.md#amazing-tools-of-manufacture)
+- [Boots of Escape](../../magic-items/wondrous-items/feet.md#boots-of-escape)
+- [Phantasmal Gem](../../magic-items/wondrous-items/slotless-n-r.md#phantasmal-gem)
+- [Ring of Craft Magic](../../magic-items/rings.md#ring-of-craft-magic)
 
 ## Advanced Race Guide Spells
 

@@ -183,8 +183,8 @@ Dwarves have access to the following equipment.
 
 ## Advanced Race Guide Magic Items
 
-- [Elixir of Darksight](../../magic-items/racial-items-arg.md#elixir-of-darksight)
-- [Rod of Dwarven Might](../../magic-items/racial-items-arg.md#rod-of-dwarven-might)
+- [Elixir of Darksight](../../magic-items/wondrous-items/slotless-e-g.md#elixir-of-darksight)
+- [Rod of Dwarven Might](../../magic-items/wondrous-items/slotless-n-r.md#rod-of-dwarven-might)
 
 ## Advanced Race Guide Spells
 

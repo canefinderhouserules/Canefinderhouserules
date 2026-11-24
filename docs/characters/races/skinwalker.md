@@ -251,7 +251,7 @@ Skinwalker race traits are listed in [Race Traits](../traits/race-traits.md#skin
 ## Spells and Items
 
 - Spells: [Accursed Glare](../../magic/spells/accursed-glare.md), [Share Skin](../../magic/spells/share-skin.md), [Share Skin, Greater](../../magic/spells/share-skin-greater.md).
-- Magic items: [Blood of the Moon Items](../../magic-items/blood-of-the-moon-items.md); gear: [Lycanthrope Gear](../../equipment/gear-bom.md).
+- Magic items: [Blood of the Moon Items](../../magic-items/index.md); gear: [Lycanthrope Gear](../../equipment/gear-bom.md).
 - Rules for lycanthropy: [Lycanthropy](../../rules/additional-rules/lycanthropy.md).
 
 ## More Alternate Racial Traits

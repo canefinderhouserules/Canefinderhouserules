@@ -156,15 +156,15 @@ Halflings have access to the following equipment.
 
 ## Advanced Race Guide Magic Items
 
-- [Book of Marvelous Recipes](../../magic-items/racial-items-arg.md#book-of-marvelous-recipes)
-- [Elusion Cloak](../../magic-items/companion-items.md#elusion-cloak)
-- [Escape Dust](../../magic-items/racial-items-arg.md#escape-dust)
-- [Festival Garment](../../magic-items/companion-items.md#festival-garment)
-- [Quickfingers Gloves](../../magic-items/racial-items-arg.md#quickfingers-gloves)
-- [Scatter Sling](../../magic-items/companion-items.md#scatter-sling)
-- [Solidsmoke Pipeweed](../../magic-items/racial-items-arg.md#solidsmoke-pipeweed)
-- [Symbol of Luck](../../magic-items/racial-items-arg.md#symbol-of-luck)
-- [Wanderlust Map](../../magic-items/companion-items.md#wanderlust-map)
+- [Book of Marvelous Recipes](../../magic-items/wondrous-items/slotless-a-b.md#book-of-marvelous-recipes)
+- [Elusion Cloak](../../magic-items/wondrous-items/shoulders.md#elusion-cloak)
+- [Escape Dust](../../magic-items/wondrous-items/slotless-e-g.md#escape-dust)
+- [Festival Garment](../../magic-items/wondrous-items/body.md#festival-garment)
+- [Quickfingers Gloves](../../magic-items/wondrous-items/hands.md#quickfingers-gloves)
+- [Scatter Sling](../../magic-items/wondrous-items/slotless-s-s.md#scatter-sling)
+- [Solidsmoke Pipeweed](../../magic-items/wondrous-items/slotless-s-s.md#solidsmoke-pipeweed)
+- [Symbol of Luck](../../magic-items/wondrous-items/slotless-s-s.md#symbol-of-luck)
+- [Wanderlust Map](../../magic-items/wondrous-items/slotless-t-w.md#wanderlust-map)
 
 ## Advanced Race Guide Spells
 

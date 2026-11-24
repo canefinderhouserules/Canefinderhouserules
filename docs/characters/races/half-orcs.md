@@ -166,9 +166,9 @@ Half-orcs have access to the following equipment.
 
 ## Advanced Race Guide Magic Items
 
-- [Cloak of Human Guise](../../magic-items/racial-items-arg.md#cloak-of-human-guise)
-- [Ring of Ferocious Action](../../magic-items/racial-items-arg.md#ring-of-ferocious-action)
-- [Swift Obsidian Greataxe](../../magic-items/racial-items-arg.md#swift-obsidian-greataxe)
+- [Cloak of Human Guise](../../magic-items/wondrous-items/shoulders.md#cloak-of-human-guise)
+- [Ring of Ferocious Action](../../magic-items/rings.md#ring-of-ferocious-action)
+- [Swift Obsidian Greataxe](../../magic-items/wondrous-items/slotless-s-s.md#swift-obsidian-greataxe)
 
 ## Advanced Race Guide Spells
 

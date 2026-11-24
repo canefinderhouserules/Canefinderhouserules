@@ -167,10 +167,10 @@ Gathlains have access to the following equipment.
 
 ## Magic Items
 
-- [Harness of Grabbing Vines](../../magic-items/wondrous-items-uw.md#harness-of-grabbing-vines)
-- [Harness of Hovering](../../magic-items/wondrous-items-uw.md#harness-of-hovering)
-- [Herald Seed](../../magic-items/wondrous-items-uw.md#herald-seed)
-- [Slippers of the Primordial Wilds](../../magic-items/wondrous-items-uw.md#slippers-of-the-primordial-wilds)
+- [Harness of Grabbing Vines](../../magic-items/wondrous-items/body.md#harness-of-grabbing-vines)
+- [Harness of Hovering](../../magic-items/wondrous-items/body.md#harness-of-hovering)
+- [Herald Seed](../../magic-items/wondrous-items/slotless-h-m.md#herald-seed)
+- [Slippers of the Primordial Wilds](../../magic-items/wondrous-items/feet.md#slippers-of-the-primordial-wilds)
 
 ## Spells
 

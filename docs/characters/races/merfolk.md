@@ -86,7 +86,7 @@ Merfolk have access to the following equipment.
 
 ## Magic Items
 
-- [Seafoam Shawl](../../magic-items/racial-items-arg.md#seafoam-shawl)
+- [Seafoam Shawl](../../magic-items/wondrous-items/shoulders.md#seafoam-shawl)
 
 ## Spells
 

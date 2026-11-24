@@ -98,45 +98,71 @@ function priceNumber(text) {
   return n;
 }
 
+const FILE_TYPE = {
+  'armor-specific': 'Armor', 'shields-specific': 'Shield', 'armor-special-abilities': 'Armor Special Ability', 'weapons-specific': 'Weapon',
+  'weapon-special-abilities': 'Weapon Special Ability', 'potions': 'Potion or Oil', 'rings': 'Ring', 'rods': 'Rod', 'staves': 'Staff',
+  'artifacts': 'Artifact', 'cursed-items': 'Cursed Item', 'intelligent-items': 'Intelligent Item', 'mundane-items': 'Mundane Item',
+};
+const SLOT_FILE = { belts: 'belt', body: 'body', chest: 'chest', eyes: 'eyes', feet: 'feet', hands: 'hands', head: 'head', headband: 'headband', neck: 'neck', shoulders: 'shoulders', wrists: 'wrists' };
+const ABILITY = /^\*([A-Za-z][A-Za-z ,\/-]*); CL (\d+\w\w);.*?(?:Price|Cost) ([^;.]*(?:\.\d+)?[^;.]*?)\.?\*$/;
+
+function typeOfFile(rel, slotRaw, h2) {
+  const b = path.basename(rel, '.md');
+  if (FILE_TYPE[b]) return { type: FILE_TYPE[b], sub: '' };
+  if (rel.startsWith('wondrous-items/')) return { type: 'Wondrous Item', sub: SLOT_FILE[b] || 'slotless' };
+  return classify(slotRaw, rel, h2);
+}
+
 const items = [];
 const files = walk(DIR).sort();
 for (const file of files) {
   const rel = path.relative(DIR, file).replace(/\\/g, '/');
   const lines = fs.readFileSync(file, 'utf8').split('\n');
   const used = new Map();
-  let title = '', h2 = '', h3 = '';
+  let title = '', h2 = '';
   const heads = [];
-  lines.forEach((l, i) => { const m = l.match(/^(#{1,4}) (.*?)\s*#*\s*$/); if (m) heads.push({ i, lvl: m[1].length, text: m[2].replace(/\r$/, '') }); });
+  let fence = false;
+  lines.forEach((l, i) => {
+    if (l.startsWith('```')) fence = !fence;
+    const m = fence ? null : l.match(/^(#{1,6}) (.*?)\s*#*\s*$/);
+    if (m) heads.push({ i, lvl: m[1].length, text: m[2].replace(/\r$/, '') });
+  });
   heads.forEach((h, k) => {
     const id = slugify(h.text) || 'section';
     const n = used.get(id) || 0; used.set(id, n + 1);
     h.id = n ? id + '_' + n : id;
-    if (h.lvl === 1) title = plain(h.text);
-    if (h.lvl === 2) { h2 = plain(h.text); }
-    if (h.lvl === 3) h3 = plain(h.text);
-    if (h.lvl < 3) return;
-    let end = lines.length;
-    for (let j = k + 1; j < heads.length; j++) if (heads[j].lvl <= h.lvl) { end = heads[j].i; break; }
-    const block = lines.slice(h.i + 1, end);
-    const head = block.filter(l => l.trim()).slice(0, 4).join('\n');
-    if (!/[*_]{1,2}(Aura|Slot|Price|CL)[*_]{1,2}/.test(head)) return;
+    h.next = k + 1 < heads.length ? heads[k + 1].i : lines.length;
+    const seg = lines.slice(h.i + 1, h.next);
+    const first = seg.filter(l => l.trim()).slice(0, 4).join('\n');
+    h.stat = h.lvl >= 2 && /[*_]{1,2}(Aura|Slot|Price|CL)[*_]{1,2}/.test(first);
+    if (!h.stat && h.lvl >= 2 && !/Descriptions?$/.test(h.text)) {
+      const ab = seg.map(l => l.trim()).find(l => ABILITY.test(l));
+      if (ab) { h.stat = true; h.abil = ab; }
+    }
+    if (h.lvl === 1 && !title) title = plain(h.text);
+  });
+  let cur2 = '';
+  heads.forEach((h) => {
+    if (h.lvl === 2 && !h.stat) cur2 = plain(h.text);
+    if (!h.stat) return;
+    const block = lines.slice(h.i + 1, h.next);
     const stat = block.filter(l => l.trim()).slice(0, 4).join(' ; ');
-    const slotRaw = field(stat, 'Slot');
-    const { type, sub } = classify(slotRaw, rel, h2);
-    const priceT = field(stat, 'Price');
-    const desc = block.filter(l => l.trim() && !/^\s*[*_]{1,2}(Aura|Slot|Price|CL|Weight|Construction|Requirements)/.test(l) && !/^#/.test(l))
+    let au = field(stat, 'Aura'), cl = field(stat, 'CL'), slotRaw = field(stat, 'Slot'), priceT = field(stat, 'Price');
+    if (h.abil) { const m = h.abil.match(ABILITY); au = m[1].trim(); cl = m[2]; priceT = m[3].trim(); }
+    const { type, sub } = typeOfFile(rel, slotRaw, cur2);
+    const t2 = h.abil && type === 'Wondrous Item' ? (/^armor/.test(path.basename(rel)) ? 'Armor Special Ability' : 'Weapon Special Ability') : type;
+    const tail = lines.slice(h.i + 1, h.next);
+    const srcLine = tail.map(l => l.trim()).reverse().find(l => /^\*Source: /.test(l));
+    const desc = block.filter(l => l.trim() && !/^\s*[*_]{1,2}(Aura|Slot|Price|CL|Weight|Construction|Requirements|Source)/.test(l) && !/^#/.test(l) && !ABILITY.test(l.trim()))
       .map(plain).find(l => l.length > 25) || '';
     const url = 'magic-items/' + rel.replace(/(^|\/)index\.md$/, '$1').replace(/\.md$/, '/');
     items.push({
-      n: plain(h.text), u: url, a: h.id, t: type, ...(sub ? { sl: sub } : {}),
-      ...(field(stat, 'Aura') ? { au: field(stat, 'Aura') } : {}),
-      ...(field(stat, 'CL') ? { cl: field(stat, 'CL') } : {}),
-      ...(slotRaw ? { slot: slotRaw } : {}),
-      ...(priceT ? { pt: priceT } : {}),
-      ...(priceNumber(priceT) != null ? { p: priceNumber(priceT) } : {}),
+      n: plain(h.text), u: url, a: h.id, t: t2, ...(sub && t2 === 'Wondrous Item' ? { sl: sub } : {}),
+      ...(au ? { au } : {}), ...(cl ? { cl } : {}), ...(slotRaw ? { slot: slotRaw } : {}),
+      ...(priceT ? { pt: priceT } : {}), ...(priceNumber(priceT) != null ? { p: priceNumber(priceT) } : {}),
       ...(field(stat, 'Weight') ? { w: field(stat, 'Weight') } : {}),
       x: desc.length > 220 ? desc.slice(0, 217) + '…' : desc,
-      b: title,
+      b: srcLine ? plain(srcLine).replace(/^Source:\s*/, '').replace(/\.$/, '') : title,
     });
   });
 }

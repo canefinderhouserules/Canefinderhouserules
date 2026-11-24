@@ -181,11 +181,11 @@ A heartstake bolt deals normal damage for the crossbow of its type.
 
 ## Magic Items
 
-- [Amulet of Channeled Life](../../magic-items/racial-items-arg.md#amulet-of-channeled-life)
-- [Lenses of Darkness](../../magic-items/racial-items-arg.md#lenses-of-darkness)
-- [Symbol of Unholy Command](../../magic-items/racial-items-arg.md#symbol-of-unholy-command)
-- [Necklace of Fangs](../../magic-items/companion-items.md#necklace-of-fangs)
-- [Stake of the Righteous](../../magic-items/companion-items.md#stake-of-the-righteous)
+- [Amulet of Channeled Life](../../magic-items/wondrous-items/neck.md#amulet-of-channeled-life)
+- [Lenses of Darkness](../../magic-items/wondrous-items/eyes.md#lenses-of-darkness)
+- [Symbol of Unholy Command](../../magic-items/wondrous-items/slotless-s-s.md#symbol-of-unholy-command)
+- [Necklace of Fangs](../../magic-items/wondrous-items/neck.md#necklace-of-fangs)
+- [Stake of the Righteous](../../magic-items/wondrous-items/slotless-s-s.md#stake-of-the-righteous)
 
 ## Spells
 

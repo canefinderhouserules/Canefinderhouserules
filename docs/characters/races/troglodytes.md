@@ -22,4 +22,4 @@ Troglodyte paragons are Large troglodytes with 7 Hit Dice. Their natural armor b
 
 ## Magic Items
 
-The cave dweller's greataxe and the stench spray amulet are described in [Monster Codex Items](../../magic-items/monster-codex-items.md).
+The cave dweller's greataxe and the stench spray amulet are described in [Monster Codex Items](../../magic-items/index.md).

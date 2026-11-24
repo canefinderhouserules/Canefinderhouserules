@@ -32,7 +32,7 @@ Players hoping to play lycanthropic characters should first discuss this with th
 
 ## Hiding Lycanthropy
 
-Most nights of the month an afflicted lycanthrope has little trouble hiding her curse. On nights when the moon is full, it behooves her to have a plan for stifling her bestial urges or at least concealing her identity while her alter ego rampages. The most reliable means of avoiding an accidental rampage is to stay hidden indoors, preferably with the windows boarded and the doors locked using a method beyond the manipulation of animal paws. A trusted friend may provide silver manacles and hold the key till dawn. Getting out of town may be in order, and joining an organization whose meetings follow the lunar cycle can disguise regular absences. Powerful magic items, such as the [amulet of the true form and moon clock](../../magic-items/blood-of-the-moon-items.md), may help prevent unwanted transformation.
+Most nights of the month an afflicted lycanthrope has little trouble hiding her curse. On nights when the moon is full, it behooves her to have a plan for stifling her bestial urges or at least concealing her identity while her alter ego rampages. The most reliable means of avoiding an accidental rampage is to stay hidden indoors, preferably with the windows boarded and the doors locked using a method beyond the manipulation of animal paws. A trusted friend may provide silver manacles and hold the key till dawn. Getting out of town may be in order, and joining an organization whose meetings follow the lunar cycle can disguise regular absences. Powerful magic items, such as the [amulet of the true form and moon clock](../../magic-items/index.md), may help prevent unwanted transformation.
 
 ## The Moon
 

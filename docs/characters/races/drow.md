@@ -176,9 +176,9 @@ Drow have access to the following equipment.
 
 ## Magic Items
 
-- [Gloom Blade](../../magic-items/racial-items-arg.md#gloom-blade)
-- [Living Garments](../../magic-items/racial-items-arg.md#living-garments)
-- [Rod of Shadows](../../magic-items/racial-items-arg.md#rod-of-shadows)
+- [Gloom Blade](../../magic-items/wondrous-items/slotless-e-g.md#gloom-blade)
+- [Living Garments](../../magic-items/wondrous-items/body.md#living-garments)
+- [Rod of Shadows](../../magic-items/wondrous-items/slotless-n-r.md#rod-of-shadows)
 
 ## Spells
 

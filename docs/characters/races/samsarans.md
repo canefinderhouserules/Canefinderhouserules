@@ -66,7 +66,7 @@ Samsarans have access to the following equipment.
 
 ## Magic Items
 
-- [Incense of Many Fates](../../magic-items/racial-items-arg.md#incense-of-many-fates)
+- [Incense of Many Fates](../../magic-items/wondrous-items/slotless-h-m.md#incense-of-many-fates)
 
 ## Spells
 

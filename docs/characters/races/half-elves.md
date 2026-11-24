@@ -150,13 +150,13 @@ Half-elves have access to the following equipment.
 
 ## Advanced Race Guide Magic Items
 
-- [Ancestral Clasp](../../magic-items/racial-items-arg.md#ancestral-clasp)
-- [Brooch of Blending](../../magic-items/racial-items-arg.md#brooch-of-blending)
-- [Cloak of the Diplomat](../../magic-items/racial-items-arg.md#cloak-of-the-diplomat)
-- [Purifying Pearl](../../magic-items/racial-items-arg.md#purifying-pearl)
-- [Ring of the Sophisticate](../../magic-items/racial-items-arg.md#ring-of-the-sophisticate)
-- [Seashell Diving Mask](../../magic-items/companion-items.md#seashell-diving-mask)
-- [Soothing Stole](../../magic-items/companion-items.md#soothing-stole)
+- [Ancestral Clasp](../../magic-items/wondrous-items/slotless-a-b.md#ancestral-clasp)
+- [Brooch of Blending](../../magic-items/wondrous-items/neck.md#brooch-of-blending)
+- [Cloak of the Diplomat](../../magic-items/wondrous-items/shoulders.md#cloak-of-the-diplomat)
+- [Purifying Pearl](../../magic-items/wondrous-items/slotless-n-r.md#purifying-pearl)
+- [Ring of the Sophisticate](../../magic-items/rings.md#ring-of-the-sophisticate)
+- [Seashell Diving Mask](../../magic-items/wondrous-items/head.md#seashell-diving-mask)
+- [Soothing Stole](../../magic-items/wondrous-items/shoulders.md#soothing-stole)
 
 ## Advanced Race Guide Spells
 

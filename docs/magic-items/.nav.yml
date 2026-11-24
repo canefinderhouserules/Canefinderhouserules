@@ -1,109 +1,66 @@
 nav:
   - index.md
+  - Creating Magic Items: creating-magic-items.md
   - Armor and Shields: armor.md
-  - Armor and Shields (APG): armor-apg.md
-  - Armor and Shields (ACG): armor-acg.md
-  - Armor and Shields (UW): armor-uw.md
-  - Armor and Shields (UE): armor-ue.md
-  - Armor and Shields (UI): armor-ui.md
-  - Armor and Shields (HA): armor-ha.md
-  - Armor and Shields (MA): armor-ma.md
-  - Specific Armors and Shields: armor-specific.md
+  - Specific Armor: armor-specific.md
+  - Specific Shields: shields-specific.md
+  - Armor and Shield Special Abilities: armor-special-abilities.md
   - Weapons: weapons.md
-  - Weapons (APG): weapons-apg.md
-  - Weapons (ACG): weapons-acg.md
-  - Weapons (UW): weapons-uw.md
-  - Weapons (UE): weapons-ue.md
-  - Weapons (UI): weapons-ui.md
-  - Weapons (HA): weapons-ha.md
-  - Weapons (MA): weapons-ma.md
-  - Firearm Magic Items (UC): firearm-items.md
   - Specific Weapons: weapons-specific.md
-  - Racial Items (ARG): racial-items-arg.md
-  - Racial Items (Regional Races): racial-items-isr.md
-  - Esoteric Implements: esoteric-implements.md
-  - Planar Items: planar-items.md
-  - Monster Codex Items: monster-codex-items.md
-  - Villain Codex Items: villain-codex-items.md
-  - Temple Items: temple-items.md
+  - Weapon Special Abilities: weapon-special-abilities.md
   - Potions and Oils: potions.md
   - Rings: rings.md
-  - Rings (APG): rings-apg.md
-  - Rings (ACG): rings-acg.md
-  - Rings (OA): rings-oa.md
-  - Rings (UE): rings-ue.md
-  - Rings (UI): rings-ui.md
-  - Rings (HA): rings-ha.md
-  - Rings (MA): rings-ma.md
   - Rods: rods.md
-  - Rods (APG): rods-apg.md
-  - Rods (ACG): rods-acg.md
-  - Rods (OA): rods-oa.md
-  - Rods (UE): rods-ue.md
-  - Rods (MA): rods-ma.md
   - Scrolls: scrolls.md
-  - Scrolls (OA): scrolls-oa.md
   - Staves: staves.md
-  - Staves (APG): staves-apg.md
-  - Staves (ACG): staves-acg.md
-  - Staves (OA): staves-oa.md
-  - Staves (UE): staves-ue.md
-  - Staves (HA): staves-ha.md
   - Wands: wands.md
   - Wondrous Items: wondrous-items
-  - Wondrous Items (APG): wondrous-items-apg.md
-  - Wondrous Items (ACG): wondrous-items-acg.md
-  - Advanced Class Origins Items: advanced-class-origins-items.md
-  - Dirty Tactics Items: dirty-tactics-items.md
-  - Blood of the Moon Items: blood-of-the-moon-items.md
-  - Animal Magic Items: animal-archive-items.md
-  - Familiar Magic Items: familiar-folio-items.md
-  - Good-Aligned Magic Items: champions-of-purity-items.md
-  - Shadow Piercings: shadow-piercings.md
-  - Improvised Weapon Items: armory-2-items.md
-  - Monster Hunter Items: monster-hunter-items.md
-  - Elemental Master Items: elemental-master-items.md
-  - Dungeoneer Items: dungeoneer-items.md
-  - Healer Items: healer-items.md
-  - Construct Items: construct-items.md
-  - Seafarer Items: seafarer-items.md
-  - Aquatic Items: aquatic-items.md
-  - Treasure Curses and Chests: treasure-curses-and-chests.md
-  - Lost Treasure Items: lost-treasure-items.md
-  - Artifacts and Legends: artifacts-al.md
-  - Knightly Order Items: knightly-order-items.md
-  - Explorer's Society Items: field-guide-items.md
-  - Weapon Master Items: weapon-master-items.md
-  - Armor Master Items: armor-master-items.md
-  - Street Items: street-items.md
-  - Regional Combat Items: regional-combat-items.md
-  - Adventurer’s Guide Items: adventurers-guide-items.md
-  - Espionage Items: espionage-items.md
-  - Intrigue Items: intrigue-items.md
-  - Wondrous Items (OA): wondrous-items-oa.md
-  - Wondrous Items (UW): wondrous-items-uw.md
-  - Wondrous Items (UI): wondrous-items-ui.md
-  - Wondrous Items (HA): wondrous-items-ha.md
-  - Wondrous Items (MA): wondrous-items-ma.md
-  - Wondrous Items (UE): wondrous-items-ue
-  - Magic Plants (UW): magic-plants.md
-  - Intelligent Items: intelligent-items.md
-  - Intelligent Items (UE): intelligent-items-ue.md
-  - Cursed Items: cursed-items.md
-  - Cursed Items (APG): cursed-items-apg.md
-  - Cursed Items (OA): cursed-items-oa.md
-  - Cursed Items (UE): cursed-items-ue.md
-  - Cursed Items (HA): cursed-items-ha.md
   - Artifacts: artifacts.md
-  - Artifacts (APG): artifacts-apg.md
-  - Artifacts (OA): artifacts-oa.md
-  - Artifacts (UE): artifacts-ue.md
-  - Artifacts (HA): artifacts-ha.md
-  - Artifacts (MA): artifacts-ma.md
-  - Creating Magic Items: creating-magic-items.md
-  - Player Companion Items: companion-items.md
-  - Patron Items: patron-items.md
-  - Adventure Items: adventure-items.md
-  - More Magic Items: more-items.md
-  - Legacy Items: legacy-items.md
-  - Equipment Sets: equipment-sets.md
+  - Cursed Items: cursed-items.md
+  - Intelligent Items: intelligent-items.md
+  - Mundane Items: mundane-items.md
+  - Item Tables and Rules by Book:
+      - Advanced Class Origins Items: advanced-class-origins-items.md
+      - Adventure Items: adventure-items.md
+      - Adventurer’s Guide Items: adventurers-guide-items.md
+      - Armor Master Items: armor-master-items.md
+      - Armor and Shields (ACG): armor-acg.md
+      - Armor and Shields (APG): armor-apg.md
+      - Armor and Shields (HA): armor-ha.md
+      - Armor and Shields (UE): armor-ue.md
+      - Armor and Shields (UW): armor-uw.md
+      - Artifacts (MA): artifacts-ma.md
+      - Artifacts and Legends: artifacts-al.md
+      - Dirty Tactics Items: dirty-tactics-items.md
+      - Elemental Master Items: elemental-master-items.md
+      - Equipment Sets: equipment-sets.md
+      - Explorer's Society Items: field-guide-items.md
+      - Intrigue Items: intrigue-items.md
+      - Legacy Items: legacy-items.md
+      - Magic Plants (UW): magic-plants.md
+      - Planar Items: planar-items.md
+      - Player Companion Items: companion-items.md
+      - Rings (ACG): rings-acg.md
+      - Rings (APG): rings-apg.md
+      - Rings (HA): rings-ha.md
+      - Rings (OA): rings-oa.md
+      - Rods (ACG): rods-acg.md
+      - Rods (APG): rods-apg.md
+      - Rods (OA): rods-oa.md
+      - Scrolls (OA): scrolls-oa.md
+      - Seafarer Items: seafarer-items.md
+      - Shadow Piercings: shadow-piercings.md
+      - Staves (ACG): staves-acg.md
+      - Staves (APG): staves-apg.md
+      - Staves (HA): staves-ha.md
+      - Staves (OA): staves-oa.md
+      - Treasure Curses and Chests: treasure-curses-and-chests.md
+      - Weapons (ACG): weapons-acg.md
+      - Weapons (APG): weapons-apg.md
+      - Weapons (HA): weapons-ha.md
+      - Weapons (UW): weapons-uw.md
+      - Wondrous Items (ACG): wondrous-items-acg.md
+      - Wondrous Items (APG): wondrous-items-apg.md
+      - Wondrous Items (HA): wondrous-items-ha.md
+      - Wondrous Items (OA): wondrous-items-oa.md
+      - Wondrous Items (UW): wondrous-items-uw.md

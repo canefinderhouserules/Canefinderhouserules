@@ -178,9 +178,9 @@ Wyroot can be used to construct any melee weapon made entirely of wood or a mele
 
 ## Advanced Race Guide Magic Items
 
-- [Bracers of Sworn Vengeance](../../magic-items/racial-items-arg.md#bracers-of-sworn-vengeance)
-- [Gauntlets of Skill At Arms](../../magic-items/racial-items-arg.md#gauntlets-of-skill-at-arms)
-- [Gloves of Elvenkind](../../magic-items/racial-items-arg.md#gloves-of-elvenkind)
+- [Bracers of Sworn Vengeance](../../magic-items/wondrous-items/wrists.md#bracers-of-sworn-vengeance)
+- [Gauntlets of Skill At Arms](../../magic-items/wondrous-items/wrists.md#gauntlets-of-skill-at-arms)
+- [Gloves of Elvenkind](../../magic-items/wondrous-items/hands.md#gloves-of-elvenkind)
 
 ## Advanced Race Guide Spells
 

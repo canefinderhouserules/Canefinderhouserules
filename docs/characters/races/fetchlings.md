@@ -159,9 +159,9 @@ The following alchemical items either boost the strange physiology of fetchlings
 
 ## Magic Items
 
-- [Amulet of Hidden Light](../../magic-items/racial-items-arg.md#amulet-of-hidden-light)
-- [Lambent Window](../../magic-items/racial-items-arg.md#lambent-window)
-- [Lantern of Dancing Shadows](../../magic-items/racial-items-arg.md#lantern-of-dancing-shadows)
+- [Amulet of Hidden Light](../../magic-items/wondrous-items/neck.md#amulet-of-hidden-light)
+- [Lambent Window](../../magic-items/wondrous-items/slotless-h-m.md#lambent-window)
+- [Lantern of Dancing Shadows](../../magic-items/wondrous-items/slotless-h-m.md#lantern-of-dancing-shadows)
 
 ## Spells
 

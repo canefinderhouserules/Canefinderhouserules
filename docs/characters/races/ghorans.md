@@ -104,7 +104,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 ## Magic Items
 
-- [Propagation Pod](../../magic-items/wondrous-items-uw.md#propagation-pod)
+- [Propagation Pod](../../magic-items/wondrous-items/slotless-n-r.md#propagation-pod)
 
 ## Spells
 

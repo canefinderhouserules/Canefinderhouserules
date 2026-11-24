@@ -110,7 +110,7 @@ Vanaras are known to use equipment crafted from the following material.
 
 ## Magic Items
 
-- [Meridian Belt](../../magic-items/racial-items-arg.md#meridian-belt)
+- [Meridian Belt](../../magic-items/wondrous-items/belts.md#meridian-belt)
 
 ## Spells
 

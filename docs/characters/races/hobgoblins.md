@@ -123,10 +123,10 @@ Fetters can also be fitted with barbs, but the wearer can avoid damage by not ta
 
 ## Magic Items
 
-- [Hobgoblin Battle Standard](../../magic-items/racial-items-arg.md#hobgoblin-battle-standard)
-- [Horseshoes of Crushing Blows](../../magic-items/racial-items-arg.md#horseshoes-of-crushing-blows)
-- [Shackles of Durance Vile](../../magic-items/racial-items-arg.md#shackles-of-durance-vile)
-- [Wound Paste](../../magic-items/racial-items-arg.md#wound-paste)
+- [Hobgoblin Battle Standard](../../magic-items/wondrous-items/slotless-h-m.md#hobgoblin-battle-standard)
+- [Horseshoes of Crushing Blows](../../magic-items/wondrous-items/feet.md#horseshoes-of-crushing-blows)
+- [Shackles of Durance Vile](../../magic-items/wondrous-items/wrists.md#shackles-of-durance-vile)
+- [Wound Paste](../../magic-items/wondrous-items/slotless-t-w.md#wound-paste)
 
 ## Spells
 

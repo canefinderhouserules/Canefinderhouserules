@@ -1,9 +1,21 @@
 nav:
   - index.md
-  - A–B: a-b.md
-  - C: c.md
-  - D–F: d-f.md
-  - G–H: g-h.md
-  - I–M: i-m.md
-  - N–R: n-r.md
-  - S–Z: s-z.md
+  - Belt: belts.md
+  - Body: body.md
+  - Chest: chest.md
+  - Eyes: eyes.md
+  - Feet: feet.md
+  - Hands: hands.md
+  - Head: head.md
+  - Headband: headband.md
+  - Neck: neck.md
+  - Shoulders: shoulders.md
+  - Wrists: wrists.md
+  - No Slot (A–B): slotless-a-b.md
+  - No Slot (C–D): slotless-c-d.md
+  - No Slot (E–G): slotless-e-g.md
+  - No Slot (H–M): slotless-h-m.md
+  - No Slot (N–R): slotless-n-r.md
+  - No Slot (S): slotless-s-s.md
+  - No Slot (T–W): slotless-t-w.md
+  - No Slot (X–Z): slotless-x-z.md

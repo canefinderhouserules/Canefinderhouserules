@@ -159,11 +159,11 @@ Ratfolk have access to the following equipment.
 
 ## Magic Items
 
-- [Cap of Human Guise](../../magic-items/racial-items-arg.md#cap-of-human-guise)
-- [Cloak of the Scuttling Rat](../../magic-items/racial-items-arg.md#cloak-of-the-scuttling-rat)
-- [Pipes of the Warren Guardian](../../magic-items/racial-items-arg.md#pipes-of-the-warren-guardian)
-- [Ring of Rat Fangs](../../magic-items/racial-items-arg.md#ring-of-rat-fangs)
-- [Ring of Swarming Stabs](../../magic-items/racial-items-arg.md#ring-of-swarming-stabs)
+- [Cap of Human Guise](../../magic-items/wondrous-items/head.md#cap-of-human-guise)
+- [Cloak of the Scuttling Rat](../../magic-items/wondrous-items/shoulders.md#cloak-of-the-scuttling-rat)
+- [Pipes of the Warren Guardian](../../magic-items/wondrous-items/slotless-n-r.md#pipes-of-the-warren-guardian)
+- [Ring of Rat Fangs](../../magic-items/rings.md#ring-of-rat-fangs)
+- [Ring of Swarming Stabs](../../magic-items/rings.md#ring-of-swarming-stabs)
 
 ## Spells
 

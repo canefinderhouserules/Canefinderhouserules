@@ -38,7 +38,7 @@ The following options are available to all boggards that have the listed favored
 
 ## Magic Items
 
-The boggard hat that drains Strength through a tongue attack and the venomsweat salve are described in [Monster Codex Items](../../magic-items/monster-codex-items.md).
+The boggard hat that drains Strength through a tongue attack and the venomsweat salve are described in [Monster Codex Items](../../magic-items/index.md).
 
 ## More Favored Class Options
 

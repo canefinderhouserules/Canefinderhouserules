@@ -124,9 +124,9 @@ Undines have access to the following equipment.
 
 ## Magic Items
 
-- [Shark Tooth Amulet](../../magic-items/racial-items-arg.md#shark-tooth-amulet)
-- [Shawl of Life-keeping](../../magic-items/racial-items-arg.md#shawl-of-life-keeping)
-- [Slippers of the Triton](../../magic-items/racial-items-arg.md#slippers-of-the-triton)
+- [Shark Tooth Amulet](../../magic-items/wondrous-items/neck.md#shark-tooth-amulet)
+- [Shawl of Life-keeping](../../magic-items/wondrous-items/shoulders.md#shawl-of-life-keeping)
+- [Slippers of the Triton](../../magic-items/wondrous-items/feet.md#slippers-of-the-triton)
 
 ## Spells
 

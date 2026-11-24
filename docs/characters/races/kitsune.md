@@ -103,7 +103,7 @@ These archetypes are typically only taken by kitsune, but members of other races
 
 ## Magic Items
 
-- [Kitsune Star Gem](../../magic-items/racial-items-arg.md#kitsune-star-gem)
+- [Kitsune Star Gem](../../magic-items/wondrous-items/slotless-h-m.md#kitsune-star-gem)
 
 ## Rogue Talents
 

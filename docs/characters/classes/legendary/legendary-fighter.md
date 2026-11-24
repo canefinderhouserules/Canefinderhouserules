@@ -194,11 +194,11 @@ Attacks made by the fighter with weapons he has selected with the Weapon Focus f
 
 Several magic items interact with the fighter’s class features.
 
-- [Band of the stalwart warrior](../../../magic-items/wondrous-items-ue/headband.md#band-of-the-stalwart-warrior): treats the fighter as four levels higher for the bravery class feature.
-- [Gloves of dueling](../../../magic-items/wondrous-items-apg.md#gloves-of-dueling): the fighter’s weapon training bonus increases by +2.
-- [Gloves of dueling, minor](../../../magic-items/wondrous-items-apg.md#gloves-of-dueling-minor): the fighter’s weapon training bonus increases by +1.
-- [Manual of war](../../../magic-items/wondrous-items-ue/slotless.md#manual-of-war): temporarily retrains a fighter bonus feat. If the fighter has the feat retraining class feature, it works with any of the fighter’s combat feats.
-- [Sash of the war champion](../../../magic-items/wondrous-items-apg.md#sash-of-the-war-champion): treats the fighter as four levels higher for the bravery and armor training class features.
+- [Band of the stalwart warrior](../../../magic-items/wondrous-items/headband.md#band-of-the-stalwart-warrior): treats the fighter as four levels higher for the bravery class feature.
+- [Gloves of dueling](../../../magic-items/wondrous-items/hands.md#gloves-of-dueling): the fighter’s weapon training bonus increases by +2.
+- [Gloves of dueling, minor](../../../magic-items/wondrous-items/hands.md#gloves-of-dueling-minor): the fighter’s weapon training bonus increases by +1.
+- [Manual of war](../../../magic-items/wondrous-items/slotless-h-m.md#manual-of-war): temporarily retrains a fighter bonus feat. If the fighter has the feat retraining class feature, it works with any of the fighter’s combat feats.
+- [Sash of the war champion](../../../magic-items/wondrous-items/chest.md#sash-of-the-war-champion): treats the fighter as four levels higher for the bravery and armor training class features.
 
 Increasing the fighter’s effective level for the armor training or bravery class features requires the bravery perseverance option or the appropriate advanced armor training options. If a fighter with the armor expertise option wears the sash of the war champion, his maximum Dex bonus increases by 1 and his armor check penalty decreases by 1. If he has the unhindered movement (medium) option, the sash grants him the unhindered movement (heavy) option.
 

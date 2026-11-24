@@ -72,7 +72,7 @@ Vishkanyas have access to the following equipment.
 
 ## Magic Items
 
-- [Corset of the Vishkanya](../../magic-items/racial-items-arg.md#corset-of-the-vishkanya)
+- [Corset of the Vishkanya](../../magic-items/wondrous-items/chest.md#corset-of-the-vishkanya)
 
 ## Spells
 

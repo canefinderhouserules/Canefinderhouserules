@@ -108,10 +108,10 @@ Wayangs have access to the following equipment.
 
 ## Magic Items
 
-- [Bag of Shadow Clouds](../../magic-items/racial-items-arg.md#bag-of-shadow-clouds)
-- [Mesmerizing Tattoo](../../magic-items/companion-items.md#mesmerizing-tattoo)
-- [Penumbra Tattoo](../../magic-items/companion-items.md#penumbra-tattoo)
-- [Swirling Smoke Tattoo](../../magic-items/companion-items.md#swirling-smoke-tattoo)
+- [Bag of Shadow Clouds](../../magic-items/wondrous-items/slotless-a-b.md#bag-of-shadow-clouds)
+- [Mesmerizing Tattoo](../../magic-items/wondrous-items/slotless-h-m.md#mesmerizing-tattoo)
+- [Penumbra Tattoo](../../magic-items/wondrous-items/slotless-n-r.md#penumbra-tattoo)
+- [Swirling Smoke Tattoo](../../magic-items/wondrous-items/slotless-s-s.md#swirling-smoke-tattoo)
 
 ## Spells
 

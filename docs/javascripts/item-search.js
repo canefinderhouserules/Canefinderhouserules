@@ -9,7 +9,7 @@
   var BASE = new URL(cfg.base.replace(/\/?$/, '/'), location.href);
   var PAGE_SIZE = 200;
   var TYPE_ORDER = ['Armor', 'Shield', 'Weapon', 'Armor Special Ability', 'Weapon Special Ability', 'Potion or Oil', 'Ring', 'Rod', 'Staff', 'Wand', 'Scroll',
-    'Wondrous Item', 'Artifact', 'Cursed Item', 'Intelligent Item'];
+    'Wondrous Item', 'Artifact', 'Cursed Item', 'Intelligent Item', 'Mundane Item'];
   var SCHOOLS = ['abjuration', 'conjuration', 'divination', 'enchantment', 'evocation', 'illusion', 'necromancy', 'transmutation', 'universal'];
   var STRENGTHS = ['faint', 'moderate', 'strong', 'overwhelming'];
 

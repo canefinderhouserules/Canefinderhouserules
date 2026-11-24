@@ -132,8 +132,8 @@ Tieflings have access to the following equipment.
 
 ## Magic Items
 
-- [Darksire Amulet](../../magic-items/racial-items-arg.md#darksire-amulet)
-- [Halo of Inner Calm](../../magic-items/racial-items-arg.md#halo-of-inner-calm)
+- [Darksire Amulet](../../magic-items/wondrous-items/neck.md#darksire-amulet)
+- [Halo of Inner Calm](../../magic-items/wondrous-items/head.md#halo-of-inner-calm)
 
 ## Spells
 
