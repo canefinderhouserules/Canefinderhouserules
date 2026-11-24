@@ -9,7 +9,9 @@
   var BASE = new URL(cfg.base.replace(/\/?$/, '/'), location.href);
   var PAGE_SIZE = 200;
   var TYPE_ORDER = ['Armor', 'Shield', 'Weapon', 'Armor Special Ability', 'Weapon Special Ability', 'Potion or Oil', 'Ring', 'Rod', 'Staff', 'Wand', 'Scroll',
-    'Wondrous Item', 'Artifact', 'Cursed Item', 'Intelligent Item', 'Mundane Item'];
+    'Wondrous Item', 'Artifact', 'Cursed Item', 'Intelligent Item',
+    'Weapon (mundane)', 'Armor (mundane)', 'Shield (mundane)', 'Adventuring Gear', 'Tools and Skill Kits', 'Clothing', 'Food, Drink and Lodging', 'Mounts, Animals and Barding',
+    'Transport', 'Services', 'Alchemical Items, Poisons and Drugs', 'Special Material', 'Technological Gear'];
   var SCHOOLS = ['abjuration', 'conjuration', 'divination', 'enchantment', 'evocation', 'illusion', 'necromancy', 'transmutation', 'universal'];
   var STRENGTHS = ['faint', 'moderate', 'strong', 'overwhelming'];
 
@@ -18,8 +20,8 @@
   function fold(s) { return String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[’']/g, ''); }
 
   var items = [];
-  var FILTERS = [['typ', 'Type'], ['slt', 'Slot'], ['sch', 'School'], ['str', 'Aura'], ['src', 'Book']];
-  var state = { text: '', typ: new Set(), slt: new Set(), sch: new Set(), str: new Set(), src: new Set(), min: '', max: '', sort: 'name', dir: 1, shown: PAGE_SIZE };
+  var FILTERS = [['knd', 'Kind'], ['typ', 'Type'], ['slt', 'Slot'], ['sch', 'School'], ['str', 'Aura'], ['src', 'Book']];
+  var state = { text: '', knd: new Set(), typ: new Set(), slt: new Set(), sch: new Set(), str: new Set(), src: new Set(), min: '', max: '', sort: 'name', dir: 1, shown: PAGE_SIZE };
 
   root.innerHTML = '<p class="ss-loading">Loading the items…</p>';
 
@@ -29,29 +31,31 @@
   }).then(function (data) {
     items = data.items;
     items.forEach(function (i) {
+      i.tt = i.m && /^(Weapon|Armor|Shield)$/.test(i.t) ? i.t + ' (mundane)' : i.t;
       i.key = fold(i.n + ' ' + (i.x || ''));
       i.nameKey = fold(i.n);
       var au = fold(i.au || '');
       i.schools = SCHOOLS.filter(function (s) { return au.indexOf(s) >= 0; });
       i.strengths = STRENGTHS.filter(function (s) { return au.indexOf(s) >= 0; });
-      i.slotKey = i.t === 'Wondrous Item' ? (i.sl || 'slotless') : '';
+      i.slotKey = !i.m && i.t === 'Wondrous Item' ? (i.sl || 'slotless') : '';
     });
     build();
   }).catch(function (e) { root.innerHTML = '<p>The item list could not load (' + esc(e.message) + ').</p>'; });
 
   function valuesOf(i, f) {
-    return f === 'typ' ? [i.t] : f === 'slt' ? (i.slotKey ? [i.slotKey] : []) : f === 'sch' ? i.schools : f === 'str' ? i.strengths : [i.b];
+    return f === 'knd' ? [i.m ? 'Mundane' : 'Magic'] : f === 'typ' ? [i.tt] : f === 'slt' ? (i.slotKey ? [i.slotKey] : []) : f === 'sch' ? i.schools : f === 'str' ? i.strengths : [i.b];
   }
 
   function values(f) {
     var count = new Map();
     items.forEach(function (i) { valuesOf(i, f).forEach(function (x) { count.set(x, (count.get(x) || 0) + 1); }); });
     var list = Array.from(count.keys());
-    if (f === 'typ') list.sort(function (a, b) { var x = TYPE_ORDER.indexOf(a), y = TYPE_ORDER.indexOf(b); return (x < 0 ? 99 : x) - (y < 0 ? 99 : y) || a.localeCompare(b); });
+    if (f === 'knd') list.sort().reverse();
+    else if (f === 'typ') list.sort(function (a, b) { var x = TYPE_ORDER.indexOf(a), y = TYPE_ORDER.indexOf(b); return (x < 0 ? 99 : x) - (y < 0 ? 99 : y) || a.localeCompare(b); });
     else if (f === 'sch') list.sort(function (a, b) { return SCHOOLS.indexOf(a) - SCHOOLS.indexOf(b); });
     else if (f === 'str') list.sort(function (a, b) { return STRENGTHS.indexOf(a) - STRENGTHS.indexOf(b); });
     else list.sort();
-    return list.map(function (x) { return [x, (f === 'src' || f === 'typ' ? x : cap(x)) + ' <span>' + count.get(x) + '</span>']; });
+    return list.map(function (x) { return [x, (f === 'src' || f === 'typ' || f === 'knd' ? x : cap(x)) + ' <span>' + count.get(x) + '</span>']; });
   }
 
   function build() {
@@ -127,7 +131,7 @@
     var list = items.filter(matches);
     list.sort(function (a, b) {
       var r = 0;
-      if (state.sort === 'type') r = TYPE_ORDER.indexOf(a.t) - TYPE_ORDER.indexOf(b.t) || (a.sl || '').localeCompare(b.sl || '');
+      if (state.sort === 'type') r = TYPE_ORDER.indexOf(a.tt) - TYPE_ORDER.indexOf(b.tt) || (a.sl || '').localeCompare(b.sl || '');
       else if (state.sort === 'price') r = (a.p == null ? 1e12 : a.p) - (b.p == null ? 1e12 : b.p);
       else if (state.sort === 'cl') r = clNum(a) - clNum(b);
       if (!r && state.text) r = (b.nameKey.indexOf(fold(state.text)) === 0) - (a.nameKey.indexOf(fold(state.text)) === 0);
@@ -135,7 +139,7 @@
     });
     var body = root.querySelector('tbody');
     body.innerHTML = list.slice(0, state.shown).map(function (i) {
-      var type = i.t + (i.slotKey ? ' (' + i.slotKey + ')' : '');
+      var type = i.tt + (i.slotKey ? ' (' + i.slotKey + ')' : '');
       return '<tr><td><a href="' + new URL(i.u + '#' + i.a, BASE) + '">' + esc(i.n) + '</a></td><td>' + esc(type) + '</td><td>' + esc(i.au || '') + '</td><td>' + esc(i.cl || '') +
         '</td><td>' + esc(i.pt || '') + '</td><td>' + esc(i.w || '') + '</td><td>' + esc(i.b) + '</td><td class="ss-desc">' + esc(i.x) + '</td></tr>';
     }).join('');
@@ -151,7 +155,7 @@
 
   function toUrl(push) {
     var url = new URL(location.href);
-    ['text', 'typ', 'slt', 'sch', 'str', 'src', 'min', 'max', 'sort'].forEach(function (k) { url.searchParams.delete(k); });
+    ['text', 'knd', 'typ', 'slt', 'sch', 'str', 'src', 'min', 'max', 'sort'].forEach(function (k) { url.searchParams.delete(k); });
     if (state.text) url.searchParams.set('text', state.text);
     FILTERS.forEach(function (f) { if (state[f[0]].size) url.searchParams.set(f[0], Array.from(state[f[0]]).join('|')); });
     if (state.min !== '') url.searchParams.set('min', state.min);
