@@ -2775,6 +2775,13 @@
       DATA.weapons = SWD.weapons.map(function (w) { return { n: w.n, p: w.blaster ? 'blaster' : 'lightsaber', c: w.c, d: w.d, t: w.t, x: w.x, r: w.r, ty: 'Energy', sp: w.sp }; }).concat(DATA.weapons);
       DATA.feats = SWD.forms.map(function (x) { return { n: x.n, u: null }; }).concat(DATA.feats);
       DATA.feats.push({ n: 'Extra Class Feature', u: MODE === 'starwars' ? 'campaign-systems/star-wars/' : 'campaign-systems/' + (MODE === 'chakra' ? 'chakra' : 'superheroes') + '/class-features-and-prices/' });
+      // the chakra system's own feats (class-features-and-prices), in the normal feat list in alphabetical order
+      if (MODE === 'chakra') {
+        ['Individual Blood Contract', 'Improved Chakra Control', 'Extra Elemental Affinity'].forEach(function (n) {
+          if (!featData(n)) DATA.feats.push({ n: n, u: 'campaign-systems/chakra/class-features-and-prices/' });
+        });
+        DATA.feats.sort(function (a, b) { return a.n.localeCompare(b.n); });
+      }
       SWD.powers.forEach(function (p) { FP_BY[p.n.toLowerCase()] = p; });
       Object.keys(SWD.lists).forEach(function (k) { SWD.lists[k].forEach(function (e) { SW_INFO[e[0] + '|' + e[1]] = { text: (SWD.texts || [])[e[5]] || '', feats: e[6] || null, prog: e[7] || null }; }); });
     }
