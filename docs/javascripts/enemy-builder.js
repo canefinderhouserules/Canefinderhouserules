@@ -505,7 +505,7 @@
     if (ii) autoNote('Improved Initiative', '+4 initiative');
     D.init = M.Dex + ii + (S.initMisc || 0);
     var finesse = has('Weapon Finesse') > 0 || FX.finesse; // the wiki's Weapon Finesse includes Agile Maneuvers
-    if (finesse) autoNote('Weapon Finesse', 'Dex to attack with light and finesse weapons and natural attacks, and to CMB');
+    if (finesse) autoNote('Weapon Finesse', 'Dex to attack and damage with light and finesse weapons and natural attacks, and to CMB');
     var cmbAb = finesse ? Math.max(M.Str, M.Dex) : M.Str;
     D.cmb = D.bab + cmbAb + sz.cmb;
     D.cmd = 10 + D.bab + M.Str + M.Dex + sz.cmb + dodge + (S.deflection || 0) + FX.cmd;
@@ -570,7 +570,13 @@
       if (w.mode === 'off' || w.mode === 'nat2') strD = M.Str > 0 ? Math.floor(M.Str / 2) : M.Str;
       if (w.mode === 'off' && dslice) { strD = M.Str; autoNote('Double Slice', 'full Str to off-hand damage'); }
       if (w.mode === 'ranged' && !w.strDmg) strD = Math.min(0, M.Str); // bows: a Str penalty, no bonus (composite: tick Str to damage)
-      if (w.dmgAbil) strD = M[w.dmgAbil] || 0;
+      // the wiki's Weapon Finesse also gives Dex to damage with the weapons it gives Dex to attack: once, never ×1-1/2,
+      // half in the off hand and on secondary natural attacks; two-handed and ranged attacks are as they are.
+      // A "Damage with" choice on the row overrides it (Str keeps the usual Str rules).
+      if (w.dmgAbil) { if (w.dmgAbil !== 'Str') strD = M[w.dmgAbil] || 0; }
+      else if (useDex && !ranged && w.mode !== 'two') {
+        strD = (w.mode === 'off' && !dslice) || w.mode === 'nat2' ? (M.Dex > 0 ? Math.floor(M.Dex / 2) : M.Dex) : M.Dex;
+      }
       if (w.single || w.fixed) strD = 0; // a kinetic blast or a bomb: its damage is its own (Con, Int), already in its damage misc
       var spec = (hits(ws, n) + hits(gws, n)) * 2;
       if (spec) autoNote('Weapon Specialization (' + n + ')', '+2 damage with ' + n);
@@ -2508,6 +2514,8 @@
             field('Critical', critBox),
             w.mode === 'ranged' ? field('Str to damage', check(function () { return w.strDmg; }, function (v) { w.strDmg = v; })) : null,
             /^(melee|off|two)$/.test(w.mode) ? field('Finesse', check(function () { return w.finesse; }, function (v) { w.finesse = v; }), 'Dex to attack') : null,
+            field('Damage with', select([['', 'Auto'], ['Str', 'Strength'], ['Dex', 'Dexterity'], ['Con', 'Constitution'], ['Int', 'Intelligence'], ['Wis', 'Wisdom'], ['Cha', 'Charisma'], ['none', 'None']],
+              function () { return w.dmgAbil || ''; }, function (v) { if (v) w.dmgAbil = v; else delete w.dmgAbil; }), 'Auto: Str, or Dex with Weapon Finesse'),
             field('Attack misc', numBox(function () { return w.misc || 0; }, function (v) { w.misc = v; }, { min: -20, max: 20 })),
             field('Damage misc', numBox(function () { return w.dmgMisc || 0; }, function (v) { w.dmgMisc = v; }, { min: -20, max: 40 })),
             field('Option', select([[1, '1'], [2, '2 (or)'], [3, '3 (or)']], function () { return w.opt || 1; }, function (v) { w.opt = +v; }), 'same number = full attack together'),
