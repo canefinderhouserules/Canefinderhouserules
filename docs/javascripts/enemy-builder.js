@@ -225,7 +225,7 @@
     if (d.sw) {
       var extra = 0;
       (c.picks || []).forEach(function (p) {
-        if (p.slot > L) return;
+        if (p.slot > L || (p.extra && p.extra > extraCount())) return;
         var info = SW_INFO[p.n + '|' + p.link] || {}, prestige = /prestige-classes\//.test(p.link || '');
         var fl = info.feats ? info.feats.filter(function (l) { return l <= L; }).length : 0;
         extra += fl;
@@ -2175,6 +2175,8 @@
   }
 
   // the class feature choices a Star Wars class gets: "Class Feature N" in its table; at 12th, 16th and 18th they are small
+  // each copy of the Extra Class Feature feat gives one more class feature choice (1 Common or 2 Weak)
+  function extraCount() { return (S.feats || []).filter(function (f) { return /^extra class feature\b/i.test(String(f).trim()); }).length; }
   function swSlots(d, L) {
     var out = [];
     d.special.slice(0, L).forEach(function (t, i) {
@@ -2233,7 +2235,7 @@
       if (c) {
         var slots = swSlots(d, c.lvl), by = swEntries(d.key);
         c.picks = c.picks || [];
-        var all = c.picks.filter(function (p) { return p.slot <= c.lvl; });
+        var all = c.picks.filter(function (p) { return p.slot <= c.lvl && !(p.extra && p.extra > extraCount()); });
         var iconic = all.filter(function (p) { return p.price === 'iconic'; }).length;
         var opLow = all.filter(function (p) { return p.price === 'op' && p.slot <= 10; }).length, opHigh = all.filter(function (p) { return p.price === 'op' && p.slot >= 11; }).length;
         var limits = [];
@@ -2241,7 +2243,7 @@
         if (opLow > 1) limits.push('only 1 OP chosen at levels 1–10');
         if (opHigh > 1) limits.push('only 1 OP chosen at levels 11–20');
         body.push(h('div', { class: 'eb-slots' }, slots.map(function (sl) {
-          var mine = c.picks.filter(function (p) { return p.slot === sl.lvl; });
+          var mine = c.picks.filter(function (p) { return p.slot === sl.lvl && !p.extra; });
           var pts = mine.reduce(function (t, p) { return t + PRICE_PTS[p.price]; }, 0), cap = sl.small ? 2 : 4;
           var big = mine.some(function (p) { return p.price === 'op' || p.price === 'iconic'; });
           var bad = pts > cap || (big && mine.length > 1) || (sl.small && big);
@@ -2273,13 +2275,38 @@
             })),
             pts < cap ? h('div', { class: 'eb-inline' }, priceSel, input) : null, msg);
         })));
+        var nExtra = extraCount();
+        for (var xi = 1; xi <= nExtra; xi++) (function (xi) {
+          var mineX = c.picks.filter(function (p) { return p.extra === xi; });
+          var ptsX = mineX.reduce(function (t, p) { return t + PRICE_PTS[p.price]; }, 0);
+          var msgX = h('small', { class: 'eb-over' });
+          var inputX = h('input', { type: 'text', class: 'eb-t eb-wide', placeholder: 'type to search the ' + d.n + ' list…' });
+          inputX.setAttribute('list', 'sw-list-common');
+          var priceX = h('select', { class: 'eb-s' }, [['common', 'Common'], ['weak', 'Weak']].map(function (o) { return h('option', { value: o[0], text: o[1] }); }));
+          priceX.addEventListener('change', function () { inputX.setAttribute('list', 'sw-list-' + priceX.value); inputX.focus(); });
+          var addX = function () {
+            var e = by[inputX.value]; if (!e) return;
+            if (e.price === 'op' || e.price === 'iconic') { msgX.textContent = 'Extra Class Feature gives only 1 Common or 2 Weak.'; return; }
+            c.picks.push({ slot: 1, extra: xi, n: e.n, link: e.link, price: e.price, lvl: e.lvl, text: e.text || '' });
+            inputX.value = ''; changed(); redraw();
+          };
+          inputX.addEventListener('input', function () { if (by[inputX.value]) addX(); });
+          inputX.addEventListener('change', addX);
+          body.push(h('div', { class: 'eb-slot' + (ptsX > 2 ? ' eb-bad' : '') },
+            h('div', { class: 'eb-slothead' }, h('b', { text: 'Extra Class Feature' + (nExtra > 1 ? ' ' + xi : '') }), ' · feat (1 Common or 2 Weak) · ', h('span', { class: ptsX > 2 ? 'eb-over' : '', text: ptsX + '/2 points' })),
+            h('div', { class: 'eb-chips' }, mineX.map(function (p) {
+              return h('span', { class: 'eb-chip eb-' + p.price }, h('a', { href: new URL(p.link, BASE).href, target: '_blank', text: p.n }), ' ', h('small', { text: PRICE_LABEL[p.price] }),
+                h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { c.picks.splice(c.picks.indexOf(p), 1); changed(); redraw(); } }));
+            })),
+            ptsX < 2 ? h('div', { class: 'eb-inline' }, priceX, inputX) : null, msgX));
+        })(xi);
         if (limits.length) body.push(h('p', { class: 'eb-over', text: 'Over the limit: ' + limits.join('; ') + '.' }));
         if (c.lvl >= 20) body.push(h('p', { class: 'eb-note', text: 'Capstone at 20th level: agree it with the GM and add it under Special abilities.' }));
         body.push(h('p', { class: 'eb-note', text: 'Each choice: 1 Iconic, 1 OP, 2 Common or 4 Weak (Iconic and OP are 4 points, Common 2, Weak 1). From 12th level, the choices at 12th, 16th and 18th are 1 Common or 2 Weak. At most 1 Iconic, 1 OP chosen at levels 1–10 and 1 OP chosen at 11–20. A feature can be taken at its own level or later. Filter by price, then type a name. Each feature brings its text from its page and grows with your level as in its class table (a prestige class feature, with your level less 3); the ones that change the numbers say how in color and are already in the stat block. Modes you turn on, such as rage, go in by hand.' }));
       }
       var box = h('div', null, body);
-      var sig = c ? c.lvl + c.s : '';
-      watch(box, function () { var c2 = (S.classes || []).filter(function (x) { return CLASS_BY[x.s] && CLASS_BY[x.s].sw; })[0]; if ((c2 ? c2.lvl + c2.s : '') !== sig) setTimeout(redrawAll, 0); });
+      var sig = c ? c.lvl + c.s + '|' + extraCount() : '';
+      watch(box, function () { var c2 = (S.classes || []).filter(function (x) { return CLASS_BY[x.s] && CLASS_BY[x.s].sw; })[0]; if ((c2 ? c2.lvl + c2.s + '|' + extraCount() : '') !== sig) setTimeout(redrawAll, 0); });
       return box;
     }), 'eb-classes');
   }
@@ -2682,6 +2709,7 @@
       });
       DATA.weapons = SWD.weapons.map(function (w) { return { n: w.n, p: w.blaster ? 'blaster' : 'lightsaber', c: w.c, d: w.d, t: w.t, x: w.x, r: w.r, ty: 'Energy', sp: w.sp }; }).concat(DATA.weapons);
       DATA.feats = SWD.forms.map(function (x) { return { n: x.n, u: null }; }).concat(DATA.feats);
+      DATA.feats.push({ n: 'Extra Class Feature', u: MODE === 'starwars' ? 'campaign-systems/star-wars/' : 'campaign-systems/' + (MODE === 'chakra' ? 'chakra' : 'superheroes') + '/class-features-and-prices/' });
       SWD.powers.forEach(function (p) { FP_BY[p.n.toLowerCase()] = p; });
       Object.keys(SWD.lists).forEach(function (k) { SWD.lists[k].forEach(function (e) { SW_INFO[e[0] + '|' + e[1]] = { text: (SWD.texts || [])[e[5]] || '', feats: e[6] || null, prog: e[7] || null }; }); });
     }
