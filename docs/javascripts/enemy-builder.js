@@ -204,7 +204,7 @@
   // ---------- race: its ability score modifiers go on top of the scores spread in the Ability scores card ----------
   function raceAdj(a) { return (S.race && S.race.adj && S.race.adj[a]) || 0; }
   function score(a) { return (S.abil[a] || 0) + raceAdj(a); }
-  function raceList() { return SWM ? [] : DATA.races || []; }
+  function raceList() { return DATA.races || []; }
   function raceData(n) { return raceList().filter(function (r) { return r.n === n; })[0] || null; }
   // a race's fixed modifiers, plus its "+2 to one ability score" on the one chosen
   function raceMods(r, any) {
@@ -1776,7 +1776,7 @@
       var race = null;
       if (S.type === 'humanoid') {
         S.good.Fort = true;
-        var hums = raceList().filter(function (x) { return x.type === 'humanoid'; });
+        var hums = SWM ? [] : raceList().filter(function (x) { return x.type === 'humanoid'; });
         if (hums.length) { race = pick(hums); applyRace(race.n); }
         else S.subtypes = pick(['human', 'human', 'orc', 'goblinoid', 'elf', 'dwarf', 'gnoll', 'halfling', 'gnome', 'kobold', 'lizardfolk', 'tiefling']);
       }
@@ -2422,7 +2422,7 @@
       if (x.any) p.unshift('+' + x.any.v + ' to ' + (x.any.from ? x.any.from.join('/') : 'one'));
       return p.join(', ');
     };
-    var opts = [['', '— none —']].concat(list.map(function (x) { return [x.n, x.n + ' (' + txt(x) + ')']; }), [['custom', 'Custom race']]);
+    var opts = [['custom', 'Custom race'], ['', '— none —']].concat(list.map(function (x) { return [x.n, x.n + ' (' + txt(x) + ')']; }));
     var row = [field('Race', select(opts, function () { return S.race ? S.race.n : ''; }, applyRace, redrawAll),
       r ? h('small', null, 'Sets size, speed, type and subtypes. ', h('a', { href: new URL(r.u, BASE).href, target: '_blank', text: 'Its other racial traits' })) :
         custom ? 'Size, speed and subtypes: in the Creature card' : 'Its ability modifiers add to the scores')];
