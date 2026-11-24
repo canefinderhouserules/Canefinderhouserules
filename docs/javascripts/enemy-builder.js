@@ -192,7 +192,7 @@
   function blank() {
     return { name: 'New Enemy', cr: '1', align: 'N', size: 'Medium', type: 'humanoid', subtypes: '', hd: 1, die: 8, bab: '3/4',
       good: { Fort: true, Ref: false, Will: false }, ranks: 2, bonusRanks: 0, bonusFeats: 0,
-      abil: { Str: 10, Dex: 10, Con: 10, Int: 10, Wis: 10, Cha: 10 }, skills: {}, feats: [],
+      abil: { Str: 10, Dex: 10, Con: 10, Int: 10, Wis: 10, Cha: 10 }, race: { n: '', adj: {} }, skills: {}, feats: [],
       armor: '', armorEnh: 0, shield: '', shieldEnh: 0, natural: 0, deflection: 0, dodge: 0, hpMisc: 0, maxHp: true, initMisc: 0,
       saveMisc: { Fort: 0, Ref: 0, Will: 0 }, speed: '30 ft.', senses: '', languages: 'Common', defense: '', aura: '', sq: '', gear: '',
       specialAttacks: '', weapons: [], casters: [], special: [], classes: [], sw: { karma: 0, force: false, abil: 'Wis' }, mythic: { tier: 0, picks: [] } };
@@ -201,6 +201,34 @@
   try { var saved = JSON.parse(localStorage.getItem(KEY)); if (saved) S = Object.assign(blank(), saved); } catch (e) {}
   function store() { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {} }
   function library() { try { return JSON.parse(localStorage.getItem(LIB)) || {}; } catch (e) { return {}; } }
+  // ---------- race: its ability score modifiers go on top of the scores spread in the Ability scores card ----------
+  function raceAdj(a) { return (S.race && S.race.adj && S.race.adj[a]) || 0; }
+  function score(a) { return (S.abil[a] || 0) + raceAdj(a); }
+  function raceList() { return SWM ? [] : DATA.races || []; }
+  function raceData(n) { return raceList().filter(function (r) { return r.n === n; })[0] || null; }
+  // a race's fixed modifiers, plus its "+2 to one ability score" on the one chosen
+  function raceMods(r, any) {
+    var adj = {}; Object.keys(r.adj || {}).forEach(function (k) { adj[k] = r.adj[k]; });
+    if (r.any && any) adj[any] = (adj[any] || 0) + r.any.v;
+    return adj;
+  }
+  // a type's racial hit die, BAB, skill ranks and good saves
+  function typeDefaults(t) {
+    var d = TYPES[t]; if (!d) return;
+    S.die = d.die; S.bab = d.bab; S.ranks = d.ranks;
+    S.good = { Fort: d.good.indexOf('Fort') >= 0, Ref: d.good.indexOf('Ref') >= 0, Will: d.good.indexOf('Will') >= 0 };
+    if (t === 'humanoid' && !d.good.length) S.good.Fort = true;
+  }
+  // a race from the list sets its modifiers, size, speed, type and subtypes (all still editable); custom keeps what is there
+  function applyRace(n) {
+    if (!n) { S.race = { n: '', adj: {} }; return; }
+    if (n === 'custom') { S.race = { n: 'custom', adj: S.race && S.race.n === 'custom' ? S.race.adj : {} }; return; }
+    var r = raceData(n); if (!r) return;
+    var any = r.any ? (r.any.from || ABIL)[0] : '';
+    S.race = { n: r.n, adj: raceMods(r, any), any: any };
+    S.size = r.size || 'Medium'; S.speed = r.speed || '30 ft.'; S.subtypes = r.sub || '';
+    if (r.type && TYPES[r.type] && r.type !== S.type) { S.type = r.type; typeDefaults(r.type); }
+  }
 
   var DATA = { weapons: [], armors: [], feats: [], rolls: {}, classes: [] }, SPELLS = {}, SPELL_BY_NAME = {}, CLASSES = [];
   var CLASS_BY = {}, ARCH = {}, lastD = null;
@@ -426,7 +454,7 @@
       f.list.forEach(function (x) { x.on = (c.off || []).indexOf(x.name) < 0; x.cls = c; D.features.push(x); });
     });
     var noCon = S.type === 'undead' || S.type === 'construct';
-    var M = {}; ABIL.forEach(function (a) { M[a] = mod(S.abil[a]); });
+    var M = {}; ABIL.forEach(function (a) { M[a] = mod(score(a)); });
     if (noCon) M.Con = 0;
     var FX = D.fx = featureFx(D, M);
     var feats = S.feats.filter(function (f) { return f && f.trim(); });
@@ -473,7 +501,7 @@
       var kar = sw.karma || 0, kabs = Math.abs(kar), K = { cl: 0, dc: 0, will: 0, cha: 0, intim: 0 };
       if (kar <= -10) { var tier = kabs >= 100 ? 3 : kabs >= 50 ? 2 : 1; K.cl = tier; K.dc = -tier; K.will = -tier; K.cha = -Math.floor(kabs / 10); K.intim = Math.floor(kabs / 10); }
       else if (kar >= 10) { K.will = kabs >= 100 ? 3 : kabs >= 50 ? 2 : 1; K.dc = kabs >= 100 ? 3 : kabs >= 50 ? 2 : kabs >= 30 ? 1 : 0; K.cha = Math.floor(kabs / 10); }
-      var stm = mod(S.abil[sw.abil] || 10);
+      var stm = mod(S.abil[sw.abil] ? score(sw.abil) : 10);
       D.sw = { force: forceS, fsDodge: fsDodge, karma: K, cls: swc ? CLASS_BY[swc.s] : null, lvl: swl,
         stamina: swc ? Math.max(0, (CLASS_BY[swc.s].stamina + stm) * swl) : 0, known: swc ? CLASS_BY[swc.s].powers[Math.min(swl, 20) - 1] : [] };
     }
@@ -643,7 +671,7 @@
     // spells
     var sf = featArg('Spell Focus'), gsf = featArg('Greater Spell Focus'), sspec = featArg('Spell Specialization');
     D.casters = S.casters.map(function (c) {
-      var am = mod(S.abil[c.abil] || 10), cl = Math.max(1, Math.min(20, (c.cl || 1) + (D.sw ? D.sw.karma.cl : 0)));
+      var am = mod(S.abil[c.abil] ? score(c.abil) : 10), cl = Math.max(1, Math.min(20, (c.cl || 1) + (D.sw ? D.sw.karma.cl : 0)));
       var out = { c: c, cl: cl, conc: cl + am, spells: [] };
       out.spells = c.spells.map(function (sp) {
         var info = SPELLS[sp.u] || {}, lvl = sp.lvl || 0;
@@ -722,7 +750,7 @@
       if (dice) b.rolls = [[nm.replace(/\s*\+?\d+d\d+.*$/, '') || 'roll', dice[0]]];
       m.special.push(b);
     });
-    m.abilities = ABIL.map(function (a) { return a + ' ' + ((a === 'Con' && (S.type === 'undead' || S.type === 'construct')) ? '—' : S.abil[a]); }).join(', ');
+    m.abilities = ABIL.map(function (a) { return a + ' ' + ((a === 'Con' && (S.type === 'undead' || S.type === 'construct')) ? '—' : score(a)); }).join(', ');
     m.combat = 'BAB ' + sgn(D.bab).replace('–', '-') + '; CMB ' + sgn(D.cmb).replace('–', '-') + '; CMD ' + D.cmd;
     m.checks = {};
     SKILLS.forEach(function (sk) { if (D.skills[sk[0]].shown) m.checks[sk[0]] = D.skills[sk[0]].total; });
@@ -931,7 +959,7 @@
         return false;
       });
     };
-    var con = mod(S.abil.Con), steps = Math.ceil(lvl / 2);
+    var con = mod(score('Con')), steps = Math.ceil(lvl / 2);
     var blast = function (t, comp) {
       var dice = comp ? 2 * steps : steps, physical = t.blast === 'physical';
       var w = { n: t.n.toLowerCase(), mode: 'ranged', d: dice + 'd6', t: 20, x: 2, cat: 'ranged', single: true, dmgMisc: physical ? dice + con : Math.floor(con / 2),
@@ -1112,7 +1140,7 @@
       for (var j = 0; j < pool.length; j++) { r -= ws[j]; if (r <= 0) { e = pool[j]; break; } }
       got.push(e);
     }
-    var int = mod(S.abil.Int), dice = Math.ceil(lvl / 2), fast = has('Fast bombs');
+    var int = mod(score('Int')), dice = Math.ceil(lvl / 2), fast = has('Fast bombs');
     var energy = got.filter(function (d) { return /^(acid|frost|shock|force|concussive) bomb$/i.test(d.n); }).map(function (d) { return d.n.split(' ')[0].toLowerCase(); });
     S.weapons = [{ n: 'bomb', mode: 'thrown', d: dice + (energy[0] === 'force' ? 'd4' : 'd6'), t: 20, x: 2, cat: 'ranged', fixed: true, single: !fast, dmgMisc: int,
       rider: (energy[0] === 'frost' ? 'cold' : energy[0] === 'shock' ? 'electricity' : energy[0] === 'concussive' ? 'sonic' : energy[0] || 'fire') + ', ranged touch, splash ' + (dice + int) + ', 20 ft.' }];
@@ -1744,10 +1772,17 @@
       S.type = RAND_FORCE || opts.cls ? opts.type || 'humanoid' : opts.type || pick(types);
       var td = TYPES[S.type]; S.die = td.die; S.bab = td.bab; S.ranks = td.ranks;
       S.good = { Fort: td.good.indexOf('Fort') >= 0, Ref: td.good.indexOf('Ref') >= 0, Will: td.good.indexOf('Will') >= 0 };
-      if (S.type === 'humanoid') { S.good.Fort = true; S.subtypes = pick(['human', 'human', 'orc', 'goblinoid', 'elf', 'dwarf', 'gnoll', 'halfling', 'gnome', 'kobold', 'lizardfolk', 'tiefling']); }
+      // a humanoid is of one of the wiki's humanoid races (its modifiers, size, speed and subtypes)
+      var race = null;
+      if (S.type === 'humanoid') {
+        S.good.Fort = true;
+        var hums = raceList().filter(function (x) { return x.type === 'humanoid'; });
+        if (hums.length) { race = pick(hums); applyRace(race.n); }
+        else S.subtypes = pick(['human', 'human', 'orc', 'goblinoid', 'elf', 'dwarf', 'gnoll', 'halfling', 'gnome', 'kobold', 'lizardfolk', 'tiefling']);
+      }
       // size by CR for the brutes
       if (concept === 'brute') S.size = cr < 1 ? pick(['Small', 'Medium']) : cr < 3 ? 'Medium' : cr < 5 ? pick(['Medium', 'Large']) : cr < 9 ? 'Large' : cr < 15 ? pick(['Large', 'Huge']) : pick(['Huge', 'Gargantuan']);
-      else if (chance(0.15) && S.type !== 'outsider') S.size = 'Small';
+      else if (!race && chance(0.15) && S.type !== 'outsider') S.size = 'Small';
       if (opts.size) S.size = opts.size;
       var SZ = SIZE_STR[S.size] || 0;
       if (concept === 'brute') setAbil(['Str', 'Con', 'Dex', 'Wis', 'Cha', 'Int'], [18, 16, 12, 12, 10, 6]);
@@ -1758,6 +1793,8 @@
       if (SZ < 0) S.abil.Dex -= SZ / 2; // smaller is quicker
       var mainA = concept === 'brute' || concept === 'warrior' ? 'Str' : concept === 'skirmisher' ? 'Dex' : 'Cha';
       grow(mainA, 2 * Math.floor(big / 4)); grow('Con', 2 * Math.floor(big / 6));
+      // a race's "+2 to one ability score" goes on its main ability
+      if (race && race.any) { var anyOk = race.any.from || ABIL; S.race.any = anyOk.indexOf(mainA) >= 0 ? mainA : anyOk[0]; S.race.adj = raceMods(race, S.race.any); }
       if (S.type === 'animal' || S.type === 'vermin' || S.type === 'ooze' || S.type === 'plant') S.abil.Int = S.type === 'animal' ? 2 : 1;
       if (S.type === 'ooze') { S.abil.Dex = 1; S.align = 'N'; }
       if (S.type === 'animal') { S.abil.Cha = Math.min(S.abil.Cha, 8); S.align = 'N'; }
@@ -1772,7 +1809,7 @@
         randomArchetype(S.classes[0]);
         randomDip(S.classes[0], concept);
       } else {
-        var conM = S.type === 'undead' ? mod(S.abil.Cha) : S.type === 'construct' ? 0 : mod(S.abil.Con);
+        var conM = S.type === 'undead' ? mod(score('Cha')) : S.type === 'construct' ? 0 : mod(score('Con'));
         var per = (S.maxHp ? S.die : (S.die + 1) / 2) + conM + (S.type === 'construct' ? 0 : 0);
         var extra = S.type === 'construct' ? (SIZES[S.size] || SIZES.Medium).construct : 0;
         S.hd = Math.max(1, Math.min(40, Math.round((T.hp - extra) / Math.max(2, per))));
@@ -1820,6 +1857,7 @@
       }
       typeKey = clsSlug ? concept : S.type;
       if (S.type !== 'humanoid') S.senses = S.type === 'animal' ? 'low-light vision, scent' : S.type === 'fey' || S.type === 'plant' ? 'low-light vision' : S.type === 'ooze' ? 'blindsight 60 ft.' : 'darkvision 60 ft.';
+      else if (race) S.senses = race.senses || '';
       else if (S.subtypes !== 'human') S.senses = 'darkvision 60 ft.';
       S.languages = S.type === 'animal' || S.type === 'vermin' || S.type === 'ooze' || S.type === 'plant' ? '' : S.type === 'outsider' ? pick(['Abyssal', 'Infernal', 'Celestial']) + ', Common' : S.type === 'construct' ? '' : 'Common';
       if (S.type === 'dragon') { var bdc = Math.max(1, Math.ceil(big / 2)); S.specialAttacks = 'breath weapon (' + (big >= 10 ? 60 : 30) + '-ft. cone, ' + bdc + 'd6 ' + pick(['fire', 'acid', 'cold', 'electricity']) + ', Reflex DC ' + T.dc + ' half, usable every 1d4 rounds)'; S.speed = '40 ft., fly ' + (big >= 10 ? 200 : 150) + ' ft. (poor)'; }
@@ -2155,13 +2193,7 @@
 
   function basics() {
     var types = Object.keys(TYPES);
-    var applyType = function (t) {
-      var d = TYPES[t]; if (!d) return;
-      S.die = d.die; S.bab = d.bab; S.ranks = d.ranks;
-      S.good = { Fort: d.good.indexOf('Fort') >= 0, Ref: d.good.indexOf('Ref') >= 0, Will: d.good.indexOf('Will') >= 0 };
-      if (t === 'humanoid' && !d.good.length) S.good.Fort = true;
-      redrawAll();
-    };
+    var applyType = function (t) { if (!TYPES[t]) return; typeDefaults(t); redrawAll(); };
     return card('Creature', h('div', { class: 'eb-grid' },
       field('Name', textBox(function () { return S.name; }, function (v) { S.name = v; }, { cls: 'eb-wide' })),
       field('CR', crBox(), h('span', { class: 'eb-xp' })),
@@ -2379,22 +2411,47 @@
     old.replaceWith(classesCard()); refresh();
     if (inOld) { var n = root.querySelector('.eb-classes .eb-n'); if (n) n.focus(); }
   }
+  // the race: one of the wiki's (its modifiers, size, speed, type and subtypes, all still editable), a custom one (its six
+  // modifiers; size, speed and subtypes are the Creature card's) or none. Its modifiers add to the scores below.
+  function raceRow() {
+    var list = raceList();
+    if (!list.length) return null;
+    var custom = S.race && S.race.n === 'custom', r = S.race && !custom ? raceData(S.race.n) : null;
+    var txt = function (x) {
+      var p = ABIL.filter(function (a) { return x.adj[a]; }).map(function (a) { return sgn(x.adj[a]) + ' ' + a; });
+      if (x.any) p.unshift('+' + x.any.v + ' to ' + (x.any.from ? x.any.from.join('/') : 'one'));
+      return p.join(', ');
+    };
+    var opts = [['', '— none —']].concat(list.map(function (x) { return [x.n, x.n + ' (' + txt(x) + ')']; }), [['custom', 'Custom race']]);
+    var row = [field('Race', select(opts, function () { return S.race ? S.race.n : ''; }, applyRace, redrawAll),
+      r ? h('small', null, 'Sets size, speed, type and subtypes. ', h('a', { href: new URL(r.u, BASE).href, target: '_blank', text: 'Its other racial traits' })) :
+        custom ? 'Size, speed and subtypes: in the Creature card' : 'Its ability modifiers add to the scores')];
+    if (r && r.any) row.push(field('+' + r.any.v + ' to', select(r.any.from || ABIL, function () { return S.race.any || ''; },
+      function (v) { S.race.any = v; S.race.adj = raceMods(r, v); })));
+    var boxes = custom ? h('div', { class: 'eb-abils' }, ABIL.map(function (a) {
+      return h('div', { class: 'eb-abil' }, h('b', { text: a }),
+        numBox(function () { return S.race.adj[a] || 0; }, function (v) { S.race.adj[a] = v; }, { min: -10, max: 10 }));
+    })) : null;
+    return h('div', null, h('div', { class: 'eb-grid' }, row), boxes);
+  }
   function abilities() {
     return card('Ability scores', slot(function () {
       var rows = ABIL.map(function (a) {
         var dead = a === 'Con' && (S.type === 'undead' || S.type === 'construct');
         return h('div', { class: 'eb-abil' + (dead ? ' eb-off' : '') }, h('b', { text: a }),
           numBox(function () { return S.abil[a]; }, function (v) { S.abil[a] = v; }, { min: 0, max: 60 }),
+          h('span', { class: 'eb-race', 'data-race': a }),
           h('span', { class: 'eb-mod', 'data-abil': a }));
       });
       var cost = h('p', { class: 'eb-note' });
       refreshers.push(function (D) {
-        root.querySelectorAll('[data-abil]').forEach(function (e) { var a = e.getAttribute('data-abil'); e.textContent = sgn(mod(S.abil[a])); });
+        root.querySelectorAll('[data-race]').forEach(function (e) { var a = e.getAttribute('data-race'), r = raceAdj(a); e.textContent = r ? sgn(r) + ' = ' + score(a) : ''; });
+        root.querySelectorAll('[data-abil]').forEach(function (e) { var a = e.getAttribute('data-abil'); e.textContent = sgn(mod(score(a))); });
         var total = 0, ok = true;
         ABIL.forEach(function (a) { var c = POINT_COST[S.abil[a]]; if (c == null) ok = false; else total += c; });
         cost.textContent = ok ? 'Point buy: ' + total + ' points (15 low fantasy · 20 standard · 25 high)' : 'Point buy: some scores are outside 7–18';
       });
-      return h('div', null, h('div', { class: 'eb-abils' }, rows), cost,
+      return h('div', null, raceRow(), h('div', { class: 'eb-abils' }, rows), cost,
         h('p', { class: 'eb-note', text: 'Click − / +, type the number, or click it and roll the mouse wheel while the pointer stays on it (Shift + wheel: 5 at a time); otherwise the wheel just scrolls the page.' }));
     }));
   }

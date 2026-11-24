@@ -28,6 +28,7 @@
 .md-typeset .eb-abil b { width: 2rem; }
 .md-typeset .eb-abil.eb-off { opacity: .45; }
 .md-typeset .eb-mod { font-weight: 700; min-width: 2rem; }
+.md-typeset .eb-race { font-size: .65rem; opacity: .75; white-space: nowrap; }
 .md-typeset .eb-note { font-size: .62rem; color: var(--md-default-fg-color--light); margin: .4rem 0 0; }
 .md-typeset .eb-out { font-size: .72rem; margin: .3rem 0; }
 .md-typeset .eb-calc { font-weight: 700; }
