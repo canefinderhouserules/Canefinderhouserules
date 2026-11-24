@@ -1,0 +1,11 @@
+# Local preview: `docker compose up`, then open http://localhost:8000
+# Regenerates the generated sections, serves the wiki and re-runs the generators when their pages change (tools/watch.js).
+# On Windows, prefer wiki.bat: it also pulls without getting stuck on regenerated files.
+services:
+  wiki:
+    build: .
+    init: true
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/wiki
