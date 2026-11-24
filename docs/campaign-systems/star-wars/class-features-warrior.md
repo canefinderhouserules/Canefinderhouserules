@@ -6,7 +6,7 @@ Full base attack bonus classes. Classes: Antipaladin, Arcane Archer, Barbarian, 
 
 ## Levels 1–8
 
-**Iconic:** [Free Fighting Style (Free-Style Fighter)](../../characters/classes/fighter-archetypes.md#free-style-fighter), [Shifter Shape](../../characters/classes/shifter.md#shifter-shape-su), [Sneak Attack (1d6 at 3rd level, +1d6 every 3 levels)](../../characters/classes/slayer.md#sneak-attack), [Spirit (Prowler at World’s End)](../../characters/classes/bloodrager-archetypes.md#prowler-at-worlds-end)
+**Iconic:** [Free Fighting Style (Free-Style Fighter)](../../characters/classes/fighter-archetypes.md#free-style-fighter "only: free-fighting-style-ex"), [Shifter Shape](../../characters/classes/shifter.md#shifter-shape-su), [Sneak Attack (1d6 at 3rd level, +1d6 every 3 levels)](../../characters/classes/slayer.md#sneak-attack), [Spirit (Prowler at World’s End)](../../characters/classes/bloodrager-archetypes.md#prowler-at-worlds-end)
 
 *Spirit (Prowler at World’s End)* gives only the Spirit ability: the medium's spirit and spirit surge as that archetype describes them (cheetah, leopard, lion and tiger; lesser power at 1st level, intermediate at 8th, greater at 16th; spirit surge never above 1d6). It does not give a bloodline (the destined bloodline or any other), bloodline powers or any other ability of the archetype.
 

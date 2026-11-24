@@ -20,6 +20,14 @@
   function sectionHtml(doc, id) {
     var h = doc && doc.getElementById(id);
     if (!h) return null;
+    // An id that is not a heading (an anchor inside a paragraph) previews just that paragraph.
+    if (!/^H[1-6]$/.test(h.tagName)) {
+      var block = h.closest('p, li');
+      if (!block) return null;
+      var one = block.cloneNode(true);
+      one.querySelectorAll('[id]').forEach(function (e) { e.removeAttribute('id'); });
+      return one.outerHTML;
+    }
     var level = /^H[1-6]$/.test(h.tagName) ? +h.tagName[1] : 7;
     var out = document.createElement('div');
     var title = h.cloneNode(true);
@@ -67,7 +75,9 @@
     var p = page === here ? Promise.resolve(document) : getDoc(page);
     p.then(function (doc) {
       if (current !== link) return;
-      var html = sectionHtml(doc, id);
+      var only = link.dataset.previewOnly;
+      var html = only ? sectionHtml(doc, only) : null;
+      if (!html) html = sectionHtml(doc, id);
       if (!html) return;
       // A link titled "also: a, b" previews those sections of the same page too (for features that only work together).
       var also = (link.dataset.previewAlso || '').split(',').map(function (s) { return s.trim(); }).filter(Boolean);
@@ -93,6 +103,9 @@
     // Move an "also: ..." title into a data attribute so the browser's own tooltip does not show it.
     var m = (a.getAttribute('title') || '').match(/^also:\s*(.+)$/);
     if (m) { a.dataset.previewAlso = m[1]; a.removeAttribute('title'); }
+    // A link titled "only: id" previews just the element with that id (one feature of a section that lists several).
+    var o = (a.getAttribute('title') || '').match(/^only:\s*(\S+)$/);
+    if (o) { a.dataset.previewOnly = o[1]; a.removeAttribute('title'); }
     return a;
   }
 
