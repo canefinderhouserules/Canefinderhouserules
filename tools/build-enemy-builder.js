@@ -345,8 +345,65 @@ const oaths = {};
   }
 }
 
+// ---- races (characters/races/*.md): each page's standard racial traits (before its alternate ones): the ability score
+// modifiers ("**+2 Constitution, +2 Wisdom, –2 Charisma**", "**+2 to One Ability Score**"), size, base speed, type and
+// subtypes ("Dwarves are humanoids with the dwarf subtype") and senses. The builder adds the modifiers on top of the scores.
+const races = [];
+{
+  const AB = { str: 'Str', dex: 'Dex', con: 'Con', int: 'Int', wis: 'Wis', cha: 'Cha' };
+  const ABW = '(?:Strength|Dexterity|Constitution|Intelligence|Wisdom|Charisma)';
+  // the core races say no type line: they are humanoids, with these subtypes
+  const SUBS = { dwarves: 'dwarf', elves: 'elf', 'aquatic-elves': 'aquatic, elf', 'drow-nobles': 'elf', gnomes: 'gnome', 'half-elves': 'elf, human',
+    'half-orcs': 'human, orc', halflings: 'halfling', humans: 'human', 'primitive-humans': 'human', 'monkey-goblins': 'goblinoid', 'deep-one-hybrid': 'deep one' };
+  const abilities = s => {
+    s = s.replace(/[–−]/g, '-').replace(/\+(\d+) to one [^,:.]*while [^,:.]*/gi, ''); // skinwalker: only while shapechanged
+    const adj = {}; let any = null, m;
+    if ((m = s.match(/\+(\d+) to one ability score/i))) { any = { v: +m[1] }; s = s.replace(m[0], ''); }
+    else if ((m = s.match(new RegExp('\\+(\\d+) to ((?:' + ABW + '(?:,\\s*(?:or\\s+)?|\\s+or\\s+)?){2,})', 'i')))) {
+      any = { v: +m[1], from: m[2].match(new RegExp(ABW, 'gi')).map(x => AB[x.slice(0, 3).toLowerCase()]) }; s = s.replace(m[0], '');
+    }
+    for (const x of s.matchAll(/([+-]\d+)\s+(Str|Dex|Con|Int|Wis|Cha)[a-z]*/gi)) adj[AB[x[2].toLowerCase()]] = (adj[AB[x[2].toLowerCase()]] || 0) + +x[1];
+    return { adj, any };
+  };
+  for (const f of fs.readdirSync(path.join(DOCS, 'characters', 'races')).filter(f => f.endsWith('.md') && f !== 'index.md').sort()) {
+    const text = read('characters/races/' + f).replace(/\r/g, ''), slug = f.replace(/\.md$/, '');
+    const n = ((text.match(/^# (.+)$/m) || [])[1] || '').trim();
+    const std = text.split(/^#{2,3} .*\b(?:Alternate|Favored|Variant|Heritages?)\b/mi)[0];
+    // the ability score line: a bold "+2 ..." or "Ability Score Modifiers: +2 ..."
+    let ab = null;
+    for (const m of std.matchAll(/^(?:- )?\*\*([^*\n]+?)\*\*[:.]?\s*([^\n]*)$/gm)) {
+      const b = m[1].replace(/[:.]$/, '').trim();
+      if (/^[+\-–−]\d/.test(b)) { ab = abilities(b); break; }
+      if (/^ability score/i.test(b)) { ab = abilities(m[2].split(/[.:](?:\s|$)/)[0]); break; }
+    }
+    if (!n || !ab || (!Object.keys(ab.adj).length && !ab.any)) continue;
+    const size = (std.match(/\b(?:are|is) (Fine|Diminutive|Tiny|Small|Medium|Large|Huge|Gargantuan) creatures?/) || [])[1] || 'Medium';
+    // "a base speed of 30 feet ... a fly speed of 60 feet (average)" on the same line
+    let speed = '30 ft.';
+    const sl = std.split('\n').find(l => /base (?:land )?speed of (?:only )?\d+ feet/i.test(l));
+    if (sl) {
+      speed = sl.match(/base (?:land )?speed of (?:only )?(\d+) feet/i)[1] + ' ft.';
+      for (const x of sl.matchAll(/(fly|swim|climb|burrow) speed of (\d+) feet(?: \((\w+)\))?/gi)) speed += ', ' + x[1].toLowerCase() + ' ' + x[2] + ' ft.' + (x[3] ? ' (' + x[3].toLowerCase() + ')' : '');
+    }
+    let type = 'humanoid', sub = SUBS[slug] || slug.replace(/-/g, ' ').replace(/ies$/, 'y').replace(/s$/, '');
+    const tm = std.match(/are (native )?(aberration|construct|fey|monstrous humanoid|humanoid|outsider|plant|undead)s? with the ([\w\s,-]+?) subtypes?\b/i);
+    if (tm) { type = tm[2].toLowerCase(); sub = (tm[1] ? ['native'] : []).concat(tm[3].split(/,\s*|\s+and\s+/).map(s => s.trim().toLowerCase())).filter((x, i, a) => x && a.indexOf(x) === i).join(', '); }
+    else {
+      // "Trox are monstrous humanoids.", "Ghorans have the plant type but..."
+      const t2 = std.match(/\b(?:are (?:native )?(aberration|construct|fey|monstrous humanoid|humanoid|outsider|plant|undead)s?[.,]|have the (aberration|construct|fey|monstrous humanoid|humanoid|outsider|plant|undead) type)/i);
+      if (t2) { type = (t2[1] || t2[2]).toLowerCase(); if (type !== 'humanoid' && !SUBS[slug]) sub = ''; }
+    }
+    const senses = [];
+    const dv = std.match(/^(?:- )?\*\*(Superior )?Darkvision\*\*[^\n]*?(\d+) feet/mi);
+    if (dv) senses.push('darkvision ' + dv[2] + ' ft.');
+    if (/^(?:- )?\*\*Low-Light Vision\*\*/mi.test(std)) senses.push('low-light vision');
+    races.push(Object.assign({ n, u: 'characters/races/' + slug + '/', adj: ab.adj, size, speed, type, sub, senses: senses.join(', ') }, ab.any ? { any: ab.any } : {}));
+  }
+}
+
 const out = path.join(DOCS, 'tools', 'enemy-builder-data.json');
-fs.writeFileSync(out, JSON.stringify({ weapons, armors, feats, rolls, classes, mythic, ragePowers, kineticist, alchemist, shifterAspects, oaths }));
+fs.writeFileSync(out, JSON.stringify({ weapons, armors, feats, rolls, classes, mythic, ragePowers, kineticist, alchemist, shifterAspects, oaths, races }));
+console.log('races:', races.length, '(' + races.filter(r => r.any).length + ' with a +2 of their choice)');
 console.log('oaths:', Object.keys(oaths).length, '(' + (oaths['Oath of Vengeance'] || []).map(o => o.n + ' ' + o.lvl).join(', ') + ')');
 console.log('alchemist:', alchemist.discoveries.length, 'discoveries; shifter:', shifterAspects.length, 'aspects');
 console.log('kineticist:', Object.keys(kineticist.talents).length, 'wild talents,', Object.keys(kineticist.elements).map(e => e + ' ' + kineticist.elements[e].length).join(', '));
