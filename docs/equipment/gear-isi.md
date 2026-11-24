@@ -53,62 +53,6 @@ Some triggered poisons have initial and secondary effects. The first time after 
 | Terror gas | Inhaled | 17 | Injury or fear | 1/min. for 4 min. | Shaken 10 min./1d2 Wis | 1 save | 150 gp |
 | Vessel between | Ingested | 20 | Sickened | 1/min. for 4 min. | 1d2 Con and Wis | 2 saves | 400 gp |
 
-### Assassin’s Breath
-
-**Price** 1,300 gp; **Weight** —
-
-**Type** inhaled; **Save** Fortitude DC 21; **Onset** injury; **Frequency** 1/minute for 6 minutes; **Effect** 1d4 bleed; see text; **Secondary Effect** 1d3 Constitution damage; **Cure** 2 saves
-
-This red toxin is made only by a guild of assassins to ensure a target’s death. Once an affected creature fails its saving throw against this poison’s initial effect, if the creature dies before this poison is cured or runs its course, any spellcaster who attempts to raise the creature from the dead must first attempt a concentration check (DC = 10 + the dead creature’s total Hit Dice).
-
-### Deathapple
-
-**Price** 200 gp; **Weight** 1/2 lb.
-
-**Type** ingested; **Save** Fortitude DC 23; **Onset** 1 minute; **Frequency** 1/minute for 2 minutes; **Effect** enter a deathlike trance for 1 minute; see below; **Secondary Effect** remain in this deathlike trance for 8 hours; **Cure** 1 save
-
-This poison is culled from specially bred thornapples, and is often administered on the skin of an apple itself. It is typically employed to fake the deaths of dissidents so their disappearances don’t attract attention. Creatures in the deathlike trance this poison causes are unconscious and can’t be woken by mundane means; a successful DC 25 Heal check is required to realize the victim is alive. The victim can be shaken from this trance with any magical healing (including [*lesser restoration*](../magic/spells/restoration-lesser.md), as appropriate).
-
-### Impersonator’s Illness
-
-**Price** 750 gp; **Weight** —
-
-**Type** contact; **Save** Fortitude DC 19; **Onset** eating food; **Frequency** 1/hour for 8 hours; **Effect** nauseated 1 for 1 hour and then sickened for 1 day; **Cure** 1 save
-
-This poison is used by covert agents to render targets too ill to work for a day—long enough to impersonate them.
-
-### Revenge Draught
-
-**Price** 500 gp; **Weight** —
-
-**Type** ingested; **Save** Fortitude DC 16; **Onset** consuming one or more alcoholic drinks; **Frequency** 1/minute for 6 minutes; **Effect** 1d2 Dexterity damage; **Cure** 2 saves
-
-This poison is traditionally brewed as part of revenge plots against traitorous lovers.
-
-### Silencing Venom
-
-**Price** 400 gp; **Weight** —
-
-**Type** injury; **Save** Fortitude DC 14; **Frequency** 1/round for 4 rounds; **Effect** unable to speak (even to cast spells) for 1 round; **Cure** 1 save
-
-This poison is typically used by cultists to silence those who might tell secrets they want kept.
-
-### Terror Gas
-
-**Price** 150 gp; **Weight** 1/2 lb.
-
-**Type** inhaled; **Save** Fortitude DC 17; **Onset** injury or affected by any fear condition or effect; **Frequency** 1/minute for 4 minutes; **Effect** shaken for 10 minutes (this can’t produce a more severe fear effect); **Secondary Effect** 1d2 Wisdom damage; **Cure** 1 save
-
-This poison is a favorite of guilds that hunt down and intimidate their enemies.
-
-### Vessel Between
-
-**Price** 400 gp; **Weight** —
-
-**Type** ingested; **Save** Fortitude DC 20; **Onset** sickened; **Frequency** 1/minute for 4 minutes; **Effect** 1d2 Constitution and Wisdom damage; **Cure** 2 saves
-
-Assassins speak of this poison as if it were a companion helping them bear their victims along the road from life to death.
-
 ## Building Materials
 
 Master architects use the following building materials to protect against thieves and spies as well as invaders.

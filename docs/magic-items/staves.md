@@ -14,383 +14,9 @@ This means that staves are far more potent in the hands of a powerful spellcaste
 
 Furthermore, a staff can hold a spell of any level, unlike a wand, which is limited to spells of 4th level or lower. The minimum caster level of a staff is 8th.
 
-**Table 15–16: Staves**
-
-| Medium | Major | Staff | Market Price |
-|---|---|---|---|
-| 01–15 | 01–03 | Charming | 17,600 gp |
-| 16–30 | 04–09 | Fire | 18,950 gp |
-| 31–40 | 10–11 | Swarming insects | 22,800 gp |
-| 41–55 | 12–13 | Size alteration | 26,150 gp |
-| 56–75 | 14–19 | Healing | 29,600 gp |
-| 76–90 | 20–24 | Frost | 41,400 gp |
-| 91–95 | 25–31 | Illumination | 51,500 gp |
-| 96–100 | 32–38 | Defense | 62,000 gp |
-| — | 39–45 | Abjuration | 82,000 gp |
-| — | 46–50 | Conjuration | 82,000 gp |
-| — | 51–55 | Divination | 82,000 gp |
-| — | 56–60 | Enchantment | 82,000 gp |
-| — | 61–65 | Evocation | 82,000 gp |
-| — | 66–70 | Illusion | 82,000 gp |
-| — | 71–75 | Necromancy | 82,000 gp |
-| — | 76–80 | Transmutation | 82,000 gp |
-| — | 81–85 | Earth and stone | 85,800 gp |
-| — | 86–90 | Woodlands | 100,400 gp |
-| — | 91–95 | Life | 109,400 gp |
-| — | 96–98 | Passage | 206,900 gp |
-| — | 99–100 | Power | 235,000 gp |
-
 Every entry below says which book it comes from. Use the [Item Search](../tools/item-search.md) to filter by price, caster level, aura and more.
 
 ## A
-
-### Animate Staff
-
-**Aura** moderate transmutation; **CL** 11th  
-**Slot** none; **Price** 49,800 gp; **Weight** 5 lbs.
-
-Created from a number of iron rods, copper gears, and silver screws, this staff constantly shifts and changes. The staff allows use of the following spells:
-
-- make whole (1 charge)
-- mending (1 charge)
-- animate objects (2 charges)
-
-In addition, once per day, the staff can become a Medium animated object with the metal special ability. It can remain in this form for up to 10 minutes. If destroyed while in this form, it reverts to being a staff, but it loses all of its charges and this ability cannot be used again until it is fully recharged.
-
-**Requirements** Craft Staff, [*animate objects*](../magic/spells/animate-objects.md), [*make whole*](../magic/spells/make-whole.md), [*mending*](../magic/spells/mending.md); **Cost** 24,900 gp
-
-*Source: Ultimate Equipment Staves.*
-
-### Archmage’s Staff
-
-**Aura** strong varies **CL** 15th
-
-**Slot** none; **Price** 240,000 gp; **Weight** 5 lbs.
-
-The Archmage’s staff is a variant staff of power that allows the wielder to cast a wide range of spells. [*Fireball*](../magic/spells/fireball.md) (heightened to 5th level; 1 charge)[*Flame arrow*](../magic/spells/flame-arrow.md) (1 charge)[*Invisibility*](../magic/spells/invisibility.md) (1 charge)[*Knock*](../magic/spells/knock.md) (1 charge)[*Nondetection*](../magic/spells/nondetection.md) (1 charge)Widened* fog cloud* (1 charge)[*Break enchantment*](../magic/spells/break-enchantment.md) (2 charges)[*Greater dispel magic*](../magic/spells/dispel-magic-greater.md) (2 charges)[*Repulsion*](../magic/spells/repulsion.md) (2 charges)[*Wall of force*](../magic/spells/wall-of-force.md) (in a 10-foot-diameter hemisphere around the caster only; 2 charges)* the Archmage’s Staff* is a* +2 quarterstaff* that grants its wielder a +2 luck bonus to AC and on saving throws. Like a* staff of power*, it can be intentionally broken by its wielder as a retributive strike. Doing so is a standard action (1 AP). All creatures and objects within 20 feet of the broken staff take 20 points of damage per charge, those within 40 feet take 15 points of damage per charge, and those within 60 feet take 10 points of damage per charge. Anyone affected who succeeds at a DC 17 Reflex save takes only half damage, though the wielder is always destroyed.
-
-The retributive strike destroys the staff, although it reforms on the anniversary of the Archmage’s death 10d10 years later somewhere on the Material Plane within 100 miles of one of the Archmage’s descendants.
-
-**Construction**
-
-**Requirements** Craft Magic Arms and Armor, Craft Staff, Heighten Spell, Widen Spell, [*break enchantment*](../magic/spells/break-enchantment.md),* fireball*,* flame arrow*,* greater dispel magic*,* invisibility*,* knock*,* nondetection*,* repulsion*,* wall of force*; **Cost** 120,000 gp
-
-*Source: Adventure Items.*
-
-## C
-
-### Cephalopod Staff
-
-**Aura** moderate conjuration; **CL** 11th  
-**Slot** none; **Price** 22,800 gp; **Weight** 4 lbs.
-
-This dark mahogany staff is carved in the shape of a squid’s tentacle and smells strongly of seawater. When grasped, the staff animates, writhing momentarily until it regains its rigid, wooden form. As a swift action (1 AP), the wielder can transform the staff into a long, flexible weapon that functions as a masterwork whip. The staff reverts to its normal form at the beginning of the wielder’s next turn.
-
-The staff allows the use of the following spells.
-
-- [*Summon monster II*](../magic/spells/summon-monster-ii.md) (octopus or squid only; 1 charge)
-- [*Black tentacles*](../magic/spells/black-tentacles.md) (3 charges)
-- [*Summon monster VI*](../magic/spells/summon-monster-vi.md) (giant octopus only; 5 charges)
-
-**Requirements** Craft Staff, [*black tentacles*](../magic/spells/black-tentacles.md), [*summon monster VI*](../magic/spells/summon-monster-vi.md); **Cost** 11,400 gp
-
-*Source: Horror Adventures Staves.*
-
-### Chaotic Staff
-
-**Aura** moderate evocation; **CL** 8th  
-**Slot** none; **Price** 29,600 gp; **Weight** 5 lbs.
-
-Made up from a number of different materials, including wood, metal, and possibly pieces of flesh, this staff seems to shift in shape and form over time. The staff allows use of the following spells:
-
-- align weapon (chaos only, 1 charge)
-- detect law (1 charge)
-- chaos hammer (2 charges)
-- magic circle against law (2 charges)
-
-**Requirements** Craft Staff, [*align weapon*](../magic/spells/align-weapon.md), [*chaos hammer*](../magic/spells/chaos-hammer.md), [*detect evil*](../magic/spells/detect-evil.md), [*magic circle against law*](../magic/spells/magic-circle-against-law.md); **Cost** 14,800 gp
-
-*Source: Ultimate Equipment Staves.*
-
-### Crook of the Deep Woods
-
-**Aura** moderate illusion **CL** 9th
-
-**Slot** none; **Price** 16,800 gp; **Weight** 4 lbs.
-
-This twisted and gnarled black oak staff draws upon the formless magic of the Shadow Plane to allow use of the following spells:
-- [*major image*](../magic/spells/major-image.md) (1 charge)
-- [*shadow conjuration*](../magic/spells/shadow-conjuration.md) (2 charges)
-- [*shadow evocation*](../magic/spells/shadow-evocation.md) (3 charges)
-
-In addition, the staff can further influence [*shadow conjuration*](../magic/spells/shadow-conjuration.md) and [*shadow evocation*](../magic/spells/shadow-evocation.md) spells, whether cast from the staff or the wielder’s daily allotment of spells, without increasing the spell’s level. By expending extra charges, the wielder can increase the shadowy substance used to form such spells by +10% per charge, up to a maximum of +50%. Using the staff for this purpose does not increase the casting time of these spells.
-
-**Construction**
-
-**Requirements** Craft Staff, [*major image*](../magic/spells/major-image.md), [*shadow conjuration*](../magic/spells/shadow-conjuration.md), [*shadow evocation*](../magic/spells/shadow-evocation.md); **Cost** 8,400 gp
-
-*Source: Adventure Items.*
-
-### Crook of Unseen Forces
-
-**Aura** strong conjuration and evocation **CL** 12th
-
-**Slot** none; **Price** 56,300 gp; **Weight** 5 lbs.
-
-This iron staff, silvered and inlaid with diamonds, curves at one end like a shepherd’s crook. It functions as a *+1/+1 quarterstaff* and grants an additional +2 bonus on dragAPG and repositionAPG combat maneuvers. However, its true power is to summon and command invisible forces, allowing the use of the following spells.
-- [*Spiritual weapon*](../magic/spells/spiritual-weapon.md) (1 charge)
-- *Spiritual ally*APG (2 charges)
-- [*Summon monster VI*](../magic/spells/summon-monster-vi.md) (3 charges, invisible stalker only)
-
-Both the [*spiritual weapon*](../magic/spells/spiritual-weapon.md) and [*spiritual ally*](../magic/spells/spiritual-ally.md) gain a +1 enhancement bonus to attack and damage, and any *spiritual weapon* or *spiritual ally* created by the crook is invisible as per [*greater invisibility*](../magic/spells/invisibility-greater.md), gaining the usual benefits when attacking creatures are unable to see it.
-
-The wielder of a *crook of unseen forces* can spend 1 or more charges as a standard action (1 AP) to create an invisible wave of force in a 30-foot line. This wave of force attempts a dragAPG, repositionAPG, or trip combat maneuver (wielder’s choice) against one creature in this line for each charge expended. This special combat maneuver check does not provoke attacks of opportunity and uses the better of the wielder’s Charisma, Intelligence, or Wisdom modifiers in place of his Strength modifier to his CMB.
-
-**Construction**
-
-**Requirements** Craft Magic Arms and Armor, Craft Staff, *spiritual ally*APG,* spiritual weapon*, [*summon monster VI*](../magic/spells/summon-monster-vi.md), [*telekinesis*](../magic/spells/telekinesis.md); **Cost** 28,300 gp
-
-*Source: Adventure Items.*
-
-## D
-
-### Doomsday Staff
-
-**Aura** strong varied **CL** 13th
-
-**Slot** none; **Price** 52,000 gp; **Weight** 5 lbs.
-
-This bulky staff is sacred to the cult of the god of oblivion, and its end bears the god’s holy symbol—a skull-faced moon. This staff allows the use of the following spells.
-- [*Bestow curse*](../magic/spells/bestow-curse.md) (1 charge)
-- [*Confusion*](../magic/spells/confusion.md) (1 charge)
-- [*Insect plague*](../magic/spells/insect-plague.md) (1 charge)
-- [*Control weather*](../magic/spells/control-weather.md) (2 charges)
-- [*Insanity*](../magic/spells/insanity.md) (2 charges)
-
-**Construction**
-
-**Requirements** Craft Staff, [*bestow curse*](../magic/spells/bestow-curse.md),* confusion*,* control weather*,* doom*,* insanity*,* insect plague*; **Cost** 26,000 gp
-
-*Source: Adventure Items.*
-
-### Dragon Staff
-
-**Aura** strong transmutation; **CL** 13th  
-**Slot** none; **Price** 81,000 gp; **Weight** 7 lbs.
-
-Made from a large dragon bone, wrapped in scales and topped with the fearsome image of a dragon, this staff radiates power. Each dragon staff is linked to one type of chromatic dragon: black, blue, green, red, or white. All the spells that can be cast using the staff are tied to that choice. If the wielder uses the staff to cast [*form of the dragon II*](../magic/spells/form-of-the-dragon-ii.md), she must assume the type linked to the staff. Any energy types chosen by spells from the staff must match the type as well (black and green are linked to acid, blue is linked to electricity, red is linked to fire, and white is linked to cold). The staff allows use of the following spells:
-
-- fly (1 charge)
-- protection from energy (1 charge)
-- dragon’s breath (2 charges)
-- form of the dragon II (4 charges)
-
-In addition to these powers, the wielder of the *dragon staff* also receives a +2 natural armor bonus to her AC and the ability to make a bite attack as a primary natural weapon. This bite deals 1d8 points of damage if the wielder is Medium. These bonuses are a polymorph effect and are replaced by those gained from casting [*form of the dragon II*](../magic/spells/form-of-the-dragon-ii.md), or other similar spells.
-
-**Requirements** Craft Staff, [*alter self*](../magic/spells/alter-self.md), [*dragon’s breath*](../magic/spells/dragons-breath.md), [*fly*](../magic/spells/fly.md), [*form of the dragon II*](../magic/spells/form-of-the-dragon-ii.md), [*protection from energy*](../magic/spells/protection-from-energy.md); **Cost** 40,500 gp
-
-*Source: Ultimate Equipment Staves.*
-
-## E
-
-### Ember Staff
-
-*Aura* moderate evocation; *CL* 8th; *Slot* none; *Price* 13,100 gp; *Weight* 3 lbs.
-
-The reddish brown bark of this charred manzanita branch shows only in patches. The staff is a mere 3 feet long and balanced for use as a masterwork club.
-
-When casting [*produce flame*](../magic/spells/produce-flame.md) from the staff, its wielder can choose to set the end of the staff alight instead of producing the flame in her hand. This does not damage the staff, and the spell's damage is added to any melee attacks made with the staff.
-
-- [*Produce flame*](../magic/spells/produce-flame.md) (1 charge)
-- [*Scorching ray*](../magic/spells/scorching-ray.md) (2 charges)
-- [*Fireball*](../magic/spells/fireball.md) (4 charges)
-
-*Construction* Craft Staff, [*fireball*](../magic/spells/fireball.md), [*produce flame*](../magic/spells/produce-flame.md), [*scorching ray*](../magic/spells/scorching-ray.md); Cost 6,700 gp.
-
-*Source: Advanced Class Guide Staves.*
-
-## G
-
-### Gravedigger's Spade
-
-*Aura* moderate conjuration and transmutation; *CL* 8th; *Slot* none; *Price* 12,150 gp; *Weight* 4 lbs.
-
-The sturdy, well-polished oaken shaft and the sharp blade attached to its tip allow this magical staff to be used as a masterwork shovel when not employed in spellcasting.
-
-- [*Expeditious excavation*](../magic/spells/expeditious-excavation.md) (1 charge)
-- [*Create pit*](../magic/spells/create-pit.md) (2 charges)
-- [*Spiked pit*](../magic/spells/spiked-pit.md) (5 charges)
-
-*Construction* Craft Staff, [*expeditious excavation*](../magic/spells/expeditious-excavation.md), [*create pit*](../magic/spells/create-pit.md), [*spiked pit*](../magic/spells/spiked-pit.md); Cost 6,100 gp.
-
-*Source: Advanced Class Guide Staves.*
-
-## H
-
-### Heretic’s Bane
-
-**Aura** moderate enchantment; **CL** 8th  
-**Slot** none; **Price** 32,000 gp; **Weight** 5 lbs.
-
-This sturdy wooden staff is crowned by a holy symbol, surrounded by wicked barbs of metal. The staff allows use of the following spells:
-
-- castigate (1 charge)
-- command (1 charge)
-- zone of truth (1 charge)
-- denounce (2 charges)
-
-**Requirements** Craft Staff, [*castigate*](../magic/spells/castigate.md), *command, denounce*, [*zone of truth*](../magic/spells/zone-of-truth.md); **Cost** 16,000 gp
-
-*Source: Ultimate Equipment Staves.*
-
-### Hermit’s Branch
-
-**Aura** strong abjuration, conjuration, and transmutation **CL** 15th
-
-**Slot** none; **Price** 72,750 gp; **Weight** 2 lbs.
-
-This staff is crafted out of interlocking woods, woven together and knotted with holly leaf and mistletoe, with a cloudy purple gem resting atop it. *hermit’s branch* allows the use of the following spells:
-- [*Changestaff*](../magic/spells/changestaff.md) (2 charges)
-- [*Quench*](../magic/spells/quench.md) (1 charge)
-- [*Repel metal or stone*](../magic/spells/repel-metal-or-stone.md) (4 charges)
-- [*Transmute metal to wood*](../magic/spells/transmute-metal-to-wood.md) (1 charge)
-- [*Tree stride*](../magic/spells/tree-stride.md) (1 charge)
-
-**Construction**
-
-**Requirements** Craft Staff, [*changestaff*](../magic/spells/changestaff.md),* quench*,* repel metal or stone*,* transmute metal to wood*,* tree stride*; **Cost** 36,375 gp
-
-*Source: Adventure Items.*
-
-### Holy Staff
-
-**Aura** moderate evocation; **CL** 8th  
-**Slot** none; **Price** 29,600 gp; **Weight** 5 lbs.
-
-This staff is made from polished birch, inlaid with ivory, and topped with a pristine white gemstone. The staff allows use of the following spells:
-
-- align weapon (good only, 1 charge)
-- detect evil (1 charge)
-- holy smite (2 charges)
-- magic circle against evil (2 charges)
-
-**Requirements** Craft Staff, [*align weapon*](../magic/spells/align-weapon.md), [*detect evil*](../magic/spells/detect-evil.md), [*holy smite*](../magic/spells/holy-smite.md), [*magic circle against evil*](../magic/spells/magic-circle-against-evil.md); **Cost** 14,800 gp
-
-*Source: Ultimate Equipment Staves.*
-
-### Hungering Staff
-
-**Aura** moderate conjuration; **CL** 9th  
-**Slot** none; **Price** 30,000 gp; **Weight** 4 lbs.
-
-A ring of curved fangs circles the tip of this 7-foot-long bone staff. When [*magic mouth*](../magic/spells/magic-mouth.md) is cast from the staff, the resulting illusory mouth is filled with countless needle-like fangs. After *magic mouth* is cast, one charge remains drained from the staff and can’t be recharged until the user dismisses the spell or until the spell discharges.
-
-When casting [*beast shape I*](../magic/spells/beast-shape-i.md) from the staff, the caster can choose only creatures with bite attacks, and the user’s bite attacks deal damage as if the assumed shape were two sizes larger.
-
-The staff allows the use of the following spells.
-
-- [*Magic mouth*](../magic/spells/magic-mouth.md) (1 charge)
-- [*Beast shape I*](../magic/spells/beast-shape-i.md) (see text; 2 charges)
-- [*Hungry pit*](../magic/spells/hungry-pit.md) (3 charges)
-
-**Requirements** Craft Staff, [*beast shape I*](../magic/spells/beast-shape-i.md), [*hungry pit*](../magic/spells/hungry-pit.md), [*magic mouth*](../magic/spells/magic-mouth.md); **Cost** 15,500 gp
-
-*Source: Horror Adventures Staves.*
-
-## L
-
-### Lawful Staff
-
-**Aura** moderate evocation; **CL** 8th  
-**Slot** none; **Price** 29,600 gp; **Weight** 5 lbs.
-
-This staff is crafted from a perfectly smooth triangular rod of silver, and its top is crowned with a golden sphere. The staff allows use of the following spells:
-
-- align weapon (lawful only, 1 charge)
-- detect chaos (1 charge)
-- magic circle against chaos (2 charges)
-- order’s wrath (2 charges)
-
-**Requirements** Craft Staff, [*align weapon*](../magic/spells/align-weapon.md), [*detect chaos*](../magic/spells/detect-chaos.md), [*magic circle against chaos*](../magic/spells/magic-circle-against-chaos.md), [*order’s wrath*](../magic/spells/orders-wrath.md); **Cost** 14,800 gp
-
-*Source: Ultimate Equipment Staves.*
-
-## M
-
-### Many-Eyed Staff
-
-**Aura** moderate divination; **CL** 9th  
-**Slot** none; **Price** 32,000 gp; **Weight** 5 lbs.
-
-Whenever the user is holding this wooden staff, 10 bulging eyes carved along the length of the staff animate, granting the user a +5 competence bonus on Perception checks as long as he is grasping the staff. As a move action (1 AP), the wielder can select a creature within 100 feet and see through its eyes with no saving throw. The creature selected must be either a spider summoned with the staff or a creature blinded by a [*blindness/deafness*](../magic/spells/blindness-deafness.md) spell cast from the staff (the wielder ignores the *blindness/deafness* effect). The connection lasts as long as the wielder and the target creature remain within 100 feet of each other, though the wielder can end it as a free action. The effect also ends if the target was a blinded creature and regains the ability to see. The wielder is blinded while maintaining this connection.
-
-The staff allows the use of the following spells.
-
-- [*Blindness/deafness*](../magic/spells/blindness-deafness.md) (blindness only; 1 charge)
-- [*Summon monster II*](../magic/spells/summon-monster-ii.md) (giant spider only; 1 charge)
-- [*Prying eyes*](../magic/spells/prying-eyes.md) (3 charges)
-
-**Requirements** Craft Staff, [*blindness/deafness*](../magic/spells/blindness-deafness.md), [*prying eyes*](../magic/spells/prying-eyes.md), [*summon monster II*](../magic/spells/summon-monster-ii.md); **Cost** 16,000 gp
-
-*Source: Horror Adventures Staves.*
-
-### Monstrification Staff
-
-*Aura* faint transmutation (polymorph); *CL* 5th; *Slot* none; *Price* 12,000 gp; *Weight* 4 lbs.
-
-The figures on this scrimshawed ivory staff slowly morph from one monstrous figure into another, and often grow to take up more space on the staff's surface. An alchemist or other character capable of creating extracts can pour an extract of [*enlarge person*](../magic/spells/enlarge-person.md) over this staff to restore 1 charge to the staff or pour an extract of [*monstrous physique I*](../magic/spells/monstrous-physique-i.md) over it to restore 3 charges.
-
-- [*Enlarge person*](../magic/spells/enlarge-person.md) (1 charge)
-- [*Monstrous physique I*](../magic/spells/monstrous-physique-i.md) (3 charges)
-
-*Construction* Craft Staff, [*enlarge person*](../magic/spells/enlarge-person.md), [*monstrous physique I*](../magic/spells/monstrous-physique-i.md), creator must be an alchemist; Cost 6,150 gp.
-
-*Source: Advanced Class Guide Staves.*
-
-### Musical Staff
-
-**Aura** moderate evocation; **CL** 8th  
-**Slot** none; **Price** 32,000 gp; **Weight** 5 lbs.
-
-This staff is made from high-quality wood and festooned with brass rods and keys, looking almost like an instrument. The staff allows use of the following spells:
-
-- ghost sound (1 charge)
-- piercing shriek (1 charge)
-- sculpt sound (2 charges)
-- wall of sound (2 charges)
-
-In addition, as a swift action (1 AP), the wielder of the *musical staff* can cause it to transform into a string or wind instrument. Any Perform skill checks made with the *musical staff* gain a +5 competence bonus. The staff can still be used to cast spells while it is an instrument, and it can revert back to a staff as a free action.
-
-**Requirements** Craft Staff, [*ghost sound*](../magic/spells/ghost-sound.md), [*piercing shriek*](../magic/spells/piercing-shriek.md), [*sculpt sound*](../magic/spells/sculpt-sound.md), [*wall of sound*](../magic/spells/wall-of-sound.md); **Cost** 16,000 gp
-
-*Source: Ultimate Equipment Staves.*
-
-## S
-
-### Spark Staff
-
-*Aura* moderate evocation; *CL* 8th; *Slot* none; *Price* 12,650 gp; *Weight* 2 lbs.
-
-Thin golden strands snake through this transparent shaft, seeming to flow from one brass end-cap to the other. Once per day when the wielder is damaged by an effect that deals at least 10 points of electricity damage, the staff regains 1 charge. This does not reduce the amount of damage the wielder takes from the effect.
-
-- [*Shocking grasp*](../magic/spells/shocking-grasp.md) (1 charge)
-- *Intensified shocking grasp* (2 charges)
-- [*Lightning bolt*](../magic/spells/lightning-bolt.md) (5 charges)
-
-*Construction* Craft Staff, Intensify Spell, [*shocking grasp*](../magic/spells/shocking-grasp.md), [*lightning bolt*](../magic/spells/lightning-bolt.md), [*scorching ray*](../magic/spells/scorching-ray.md); Cost 6,475 gp.
-
-*Source: Advanced Class Guide Staves.*
-
-### Spherewalker's Staff
-
-**Aura** moderate conjuration; **CL** 9th  
-**Slot** none; **Price** 43,400 gp; **Weight** 3 lbs.
-
-This slender darkwood staff is topped either with a star-shaped crystal or a butterfly-like silver head. Sacred to the faith of the goddess of travel, a spherewalker’s staff allows use of the following spells: ant haul (1 charge) water walk (1 charge) air walk (2 charges) dimension door (2 charges) freedom of movement (2 charges) plane shift (3 charges) When carried (even when stowed), a spherewalker’s staff increases the wielder’s base land speed by 10 feet.
-
-**Requirements** Craft Staff, air walk, ant haul, dimension door, freedom of movement, plane shift, water walk, creator must worship the goddess of travel; **Cost** 21,700 gp
-
-*Source: More Magic Items.*
 
 ### Staff of Abjuration
 
@@ -458,6 +84,39 @@ In addition, the staff allows the use of the following spells: clairaudience/cla
 
 *Source: More Magic Items.*
 
+### Animate Staff
+
+**Aura** moderate transmutation; **CL** 11th  
+**Slot** none; **Price** 49,800 gp; **Weight** 5 lbs.
+
+Created from a number of iron rods, copper gears, and silver screws, this staff constantly shifts and changes. The staff allows use of the following spells:
+
+- make whole (1 charge)
+- mending (1 charge)
+- animate objects (2 charges)
+
+In addition, once per day, the staff can become a Medium animated object with the metal special ability. It can remain in this form for up to 10 minutes. If destroyed while in this form, it reverts to being a staff, but it loses all of its charges and this ability cannot be used again until it is fully recharged.
+
+**Requirements** Craft Staff, [*animate objects*](../magic/spells/animate-objects.md), [*make whole*](../magic/spells/make-whole.md), [*mending*](../magic/spells/mending.md); **Cost** 24,900 gp
+
+*Source: Ultimate Equipment Staves.*
+
+### Archmage’s Staff
+
+**Aura** strong varies **CL** 15th
+
+**Slot** none; **Price** 240,000 gp; **Weight** 5 lbs.
+
+The Archmage’s staff is a variant staff of power that allows the wielder to cast a wide range of spells. [*Fireball*](../magic/spells/fireball.md) (heightened to 5th level; 1 charge)[*Flame arrow*](../magic/spells/flame-arrow.md) (1 charge)[*Invisibility*](../magic/spells/invisibility.md) (1 charge)[*Knock*](../magic/spells/knock.md) (1 charge)[*Nondetection*](../magic/spells/nondetection.md) (1 charge)Widened* fog cloud* (1 charge)[*Break enchantment*](../magic/spells/break-enchantment.md) (2 charges)[*Greater dispel magic*](../magic/spells/dispel-magic-greater.md) (2 charges)[*Repulsion*](../magic/spells/repulsion.md) (2 charges)[*Wall of force*](../magic/spells/wall-of-force.md) (in a 10-foot-diameter hemisphere around the caster only; 2 charges)* the Archmage’s Staff* is a* +2 quarterstaff* that grants its wielder a +2 luck bonus to AC and on saving throws. Like a* staff of power*, it can be intentionally broken by its wielder as a retributive strike. Doing so is a standard action (1 AP). All creatures and objects within 20 feet of the broken staff take 20 points of damage per charge, those within 40 feet take 15 points of damage per charge, and those within 60 feet take 10 points of damage per charge. Anyone affected who succeeds at a DC 17 Reflex save takes only half damage, though the wielder is always destroyed.
+
+The retributive strike destroys the staff, although it reforms on the anniversary of the Archmage’s death 10d10 years later somewhere on the Material Plane within 100 miles of one of the Archmage’s descendants.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, Craft Staff, Heighten Spell, Widen Spell, [*break enchantment*](../magic/spells/break-enchantment.md),* fireball*,* flame arrow*,* greater dispel magic*,* invisibility*,* knock*,* nondetection*,* repulsion*,* wall of force*; **Cost** 120,000 gp
+
+*Source: Adventure Items.*
+
 ### Staff of Aspects
 
 **Aura** moderate transmutation; **CL** 9th  
@@ -488,6 +147,45 @@ This stout ironbound staff functions as a *+1/+1 quarterstaff*. It allows the us
 **Requirements** Craft Staff, *forced quiet, interrogation, oppressive boredom*; **Cost** 11,800 gp
 
 *Source: Ultimate Equipment Staves.*
+
+### Staff of the Avenger
+
+**Aura** moderate evocation; **CL** 10th  
+**Slot** none; **Price** 37,310 gp; **Weight** 5 lbs.
+
+This shining golden staff is topped with a radiant gemstone that emits light like a torch. As a swift action (1 AP), the wielder of the staff can cause it to change into a *+2 lance*, although it retains its other abilities. It can be made to revert to its staff form as a free action. The staff allows use of the following spells:
+
+- bless weapon (1 charge, cast on the staff only)
+- shield other (1 charge)
+- discern lies (2 charges)
+- holy sword (4 charges, cast on the staff only)
+
+**Requirements** Craft Magic Arms and Armor, Craft Staff, [*bless weapon*](../magic/spells/bless-weapon.md), [*discern lies*](../magic/spells/discern-lies.md), [*holy sword*](../magic/spells/holy-sword.md), [*shield other*](../magic/spells/shield-other.md); **Cost** 18,810 gp
+
+*Source: Ultimate Equipment Staves.*
+
+## B
+
+### Staff of the Beast Walker
+
+**Aura** moderate transmutation **CL** 8th
+
+**Slot** none; **Price** 26,600 gp; **Weight** 5 lbs.
+
+This stout staff is made of wood and capped with steel. Elongated carvings of smiling beasts adorn its length. The *staff of the beast walker* functions as a *+1/+1 quarterstaff* and allows the use of the following spells.
+- [*Charm animal*](../magic/spells/charm-animal.md) (1 charge)
+- [*Longstrider*](../magic/spells/longstrider.md) (1 charge)
+- [*Monkey fish*](../magic/spells/monkey-fish.md) (1 charge)
+- [*Speak with animals*](../magic/spells/speak-with-animals.md) (1 charge)
+- [*Greater longstrider*](../magic/spells/longstrider-greater.md) (2 charges)
+
+If the staff’s wielder has the Fleet feat, castings of [*greater longstrider*](../magic/spells/longstrider-greater.md),* longstrider*, or* monkey fish* from the staff are automatically extended, as the Extend Spell feat. If the wielder has the Animal Affinity feat, then [*charm animal*](../magic/spells/charm-animal.md) or [*speak with animals*](../magic/spells/speak-with-animals.md) spells cast from the staff are automatically extended, as the Extend Spell feat. This does not increase the spells’ level or casting time.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, Craft Staff, [*charm animal*](../magic/spells/charm-animal.md),* greater longstrider*,* longstrider*,* monkey fish*,* speak with animals*; **Cost** 13,600 gp
+
+*Source: Adventure Items.*
 
 ### Staff of Belittling
 
@@ -536,6 +234,8 @@ The top of this rosewood shaft narrows and then expands again, bound by a number
 
 *Source: Advanced Player's Guide Staves.*
 
+## C
+
 ### Staff of Cackling Wrath
 
 **Aura** moderate varied; **CL** 8th  
@@ -554,6 +254,39 @@ The thorns embedded in this gnarled length of wood make it rather tricky for the
 **Requirements** Craft Staff, baleful polymorph, bestow curse, blindness/deafness, charm person, hold person, inflict moderate wounds, vampiric touch; **Cost** 11,800 gp
 
 *Source: Advanced Player's Guide Staves.*
+
+### Cephalopod Staff
+
+**Aura** moderate conjuration; **CL** 11th  
+**Slot** none; **Price** 22,800 gp; **Weight** 4 lbs.
+
+This dark mahogany staff is carved in the shape of a squid’s tentacle and smells strongly of seawater. When grasped, the staff animates, writhing momentarily until it regains its rigid, wooden form. As a swift action (1 AP), the wielder can transform the staff into a long, flexible weapon that functions as a masterwork whip. The staff reverts to its normal form at the beginning of the wielder’s next turn.
+
+The staff allows the use of the following spells.
+
+- [*Summon monster II*](../magic/spells/summon-monster-ii.md) (octopus or squid only; 1 charge)
+- [*Black tentacles*](../magic/spells/black-tentacles.md) (3 charges)
+- [*Summon monster VI*](../magic/spells/summon-monster-vi.md) (giant octopus only; 5 charges)
+
+**Requirements** Craft Staff, [*black tentacles*](../magic/spells/black-tentacles.md), [*summon monster VI*](../magic/spells/summon-monster-vi.md); **Cost** 11,400 gp
+
+*Source: Horror Adventures Staves.*
+
+### Chaotic Staff
+
+**Aura** moderate evocation; **CL** 8th  
+**Slot** none; **Price** 29,600 gp; **Weight** 5 lbs.
+
+Made up from a number of different materials, including wood, metal, and possibly pieces of flesh, this staff seems to shift in shape and form over time. The staff allows use of the following spells:
+
+- align weapon (chaos only, 1 charge)
+- detect law (1 charge)
+- chaos hammer (2 charges)
+- magic circle against law (2 charges)
+
+**Requirements** Craft Staff, [*align weapon*](../magic/spells/align-weapon.md), [*chaos hammer*](../magic/spells/chaos-hammer.md), [*detect evil*](../magic/spells/detect-evil.md), [*magic circle against law*](../magic/spells/magic-circle-against-law.md); **Cost** 14,800 gp
+
+*Source: Ultimate Equipment Staves.*
 
 ### Staff of Charming
 
@@ -609,6 +342,46 @@ This sturdy-looking hickory staff is capped with a figurine of an angel or other
 
 *Source: Ultimate Equipment Staves.*
 
+### Crook of the Deep Woods
+
+**Aura** moderate illusion **CL** 9th
+
+**Slot** none; **Price** 16,800 gp; **Weight** 4 lbs.
+
+This twisted and gnarled black oak staff draws upon the formless magic of the Shadow Plane to allow use of the following spells:
+- [*major image*](../magic/spells/major-image.md) (1 charge)
+- [*shadow conjuration*](../magic/spells/shadow-conjuration.md) (2 charges)
+- [*shadow evocation*](../magic/spells/shadow-evocation.md) (3 charges)
+
+In addition, the staff can further influence [*shadow conjuration*](../magic/spells/shadow-conjuration.md) and [*shadow evocation*](../magic/spells/shadow-evocation.md) spells, whether cast from the staff or the wielder’s daily allotment of spells, without increasing the spell’s level. By expending extra charges, the wielder can increase the shadowy substance used to form such spells by +10% per charge, up to a maximum of +50%. Using the staff for this purpose does not increase the casting time of these spells.
+
+**Construction**
+
+**Requirements** Craft Staff, [*major image*](../magic/spells/major-image.md), [*shadow conjuration*](../magic/spells/shadow-conjuration.md), [*shadow evocation*](../magic/spells/shadow-evocation.md); **Cost** 8,400 gp
+
+*Source: Adventure Items.*
+
+### Crook of Unseen Forces
+
+**Aura** strong conjuration and evocation **CL** 12th
+
+**Slot** none; **Price** 56,300 gp; **Weight** 5 lbs.
+
+This iron staff, silvered and inlaid with diamonds, curves at one end like a shepherd’s crook. It functions as a *+1/+1 quarterstaff* and grants an additional +2 bonus on dragAPG and repositionAPG combat maneuvers. However, its true power is to summon and command invisible forces, allowing the use of the following spells.
+- [*Spiritual weapon*](../magic/spells/spiritual-weapon.md) (1 charge)
+- *Spiritual ally*APG (2 charges)
+- [*Summon monster VI*](../magic/spells/summon-monster-vi.md) (3 charges, invisible stalker only)
+
+Both the [*spiritual weapon*](../magic/spells/spiritual-weapon.md) and [*spiritual ally*](../magic/spells/spiritual-ally.md) gain a +1 enhancement bonus to attack and damage, and any *spiritual weapon* or *spiritual ally* created by the crook is invisible as per [*greater invisibility*](../magic/spells/invisibility-greater.md), gaining the usual benefits when attacking creatures are unable to see it.
+
+The wielder of a *crook of unseen forces* can spend 1 or more charges as a standard action (1 AP) to create an invisible wave of force in a 30-foot line. This wave of force attempts a dragAPG, repositionAPG, or trip combat maneuver (wielder’s choice) against one creature in this line for each charge expended. This special combat maneuver check does not provoke attacks of opportunity and uses the better of the wielder’s Charisma, Intelligence, or Wisdom modifiers in place of his Strength modifier to his CMB.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, Craft Staff, *spiritual ally*APG,* spiritual weapon*, [*summon monster VI*](../magic/spells/summon-monster-vi.md), [*telekinesis*](../magic/spells/telekinesis.md); **Cost** 28,300 gp
+
+*Source: Adventure Items.*
+
 ### Staff of Curses
 
 **Aura** moderate transmutation; **CL** 9th  
@@ -627,6 +400,8 @@ In addition, the *staff of curses* is a *+1/+1 quarterstaff*, and whenever the w
 
 *Source: Ultimate Equipment Staves.*
 
+## D
+
 ### Staff of Dark Flame
 
 **Aura** moderate evocation and necromancy; **CL** 8th  
@@ -643,6 +418,27 @@ Made from bleached bones that have been fused together, the head of this staff b
 **Requirements** Craft Magic Arms and Armor, Craft Staff, [*animate dead*](../magic/spells/animate-dead.md), [*false life*](../magic/spells/false-life.md), [*fireball*](../magic/spells/fireball.md), [*ray of enfeeblement*](../magic/spells/ray-of-enfeeblement.md), [*scorching ray*](../magic/spells/scorching-ray.md); **Cost** 27,133 gp
 
 *Source: Ultimate Equipment Staves.*
+
+### Staff of the Dark Tapestry
+
+**Aura** moderate conjuration **CL** 9th
+
+**Slot** none; **Price** 43,500 gp; **Weight** 5 lbs.
+
+This staff, constructed of dark purple crystal, allows the use of the following spells:
+- [*confusion*](../magic/spells/confusion.md) (2 charges)
+- [*darkness*](../magic/spells/darkness.md) (1 charge)
+- [*fear*](../magic/spells/fear.md) (2 charges)
+- *irradiate*TG (1 charge)
+- *planetary adaptation*DW (2 charges)
+
+The staff may be used as a weapon, functioning as a *+1 impact quarterstaff*UE even when its charges are expended.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, Craft Staff, [*bull’s strength*](../magic/spells/bulls-strength.md),* confusion*,* darkness*,* fear*,* irradiate*,* planetary adaptation*; **Cost** 21,900 gp
+
+*Source: Adventure Items.*
 
 ### Staff of Defense
 
@@ -685,6 +481,45 @@ Made from a supple length of willow, often with a forked tip, this staff allows 
 **Requirements** Craft Staff, detect secret doors, locate creature, locate object, prying eyes, tongues, true seeing; **Cost** 41,000 gp
 
 *Source: Staves, Staff Descriptions.*
+
+### Doomsday Staff
+
+**Aura** strong varied **CL** 13th
+
+**Slot** none; **Price** 52,000 gp; **Weight** 5 lbs.
+
+This bulky staff is sacred to the cult of the god of oblivion, and its end bears the god’s holy symbol—a skull-faced moon. This staff allows the use of the following spells.
+- [*Bestow curse*](../magic/spells/bestow-curse.md) (1 charge)
+- [*Confusion*](../magic/spells/confusion.md) (1 charge)
+- [*Insect plague*](../magic/spells/insect-plague.md) (1 charge)
+- [*Control weather*](../magic/spells/control-weather.md) (2 charges)
+- [*Insanity*](../magic/spells/insanity.md) (2 charges)
+
+**Construction**
+
+**Requirements** Craft Staff, [*bestow curse*](../magic/spells/bestow-curse.md),* confusion*,* control weather*,* doom*,* insanity*,* insect plague*; **Cost** 26,000 gp
+
+*Source: Adventure Items.*
+
+### Dragon Staff
+
+**Aura** strong transmutation; **CL** 13th  
+**Slot** none; **Price** 81,000 gp; **Weight** 7 lbs.
+
+Made from a large dragon bone, wrapped in scales and topped with the fearsome image of a dragon, this staff radiates power. Each dragon staff is linked to one type of chromatic dragon: black, blue, green, red, or white. All the spells that can be cast using the staff are tied to that choice. If the wielder uses the staff to cast [*form of the dragon II*](../magic/spells/form-of-the-dragon-ii.md), she must assume the type linked to the staff. Any energy types chosen by spells from the staff must match the type as well (black and green are linked to acid, blue is linked to electricity, red is linked to fire, and white is linked to cold). The staff allows use of the following spells:
+
+- fly (1 charge)
+- protection from energy (1 charge)
+- dragon’s breath (2 charges)
+- form of the dragon II (4 charges)
+
+In addition to these powers, the wielder of the *dragon staff* also receives a +2 natural armor bonus to her AC and the ability to make a bite attack as a primary natural weapon. This bite deals 1d8 points of damage if the wielder is Medium. These bonuses are a polymorph effect and are replaced by those gained from casting [*form of the dragon II*](../magic/spells/form-of-the-dragon-ii.md), or other similar spells.
+
+**Requirements** Craft Staff, [*alter self*](../magic/spells/alter-self.md), [*dragon’s breath*](../magic/spells/dragons-breath.md), [*fly*](../magic/spells/fly.md), [*form of the dragon II*](../magic/spells/form-of-the-dragon-ii.md), [*protection from energy*](../magic/spells/protection-from-energy.md); **Cost** 40,500 gp
+
+*Source: Ultimate Equipment Staves.*
+
+## E
 
 ### Staff of Earth and Stone
 
@@ -731,6 +566,22 @@ This staff is made of shining silver, with a tip shaped like a lightning bolt. T
 
 *Source: Ultimate Equipment Staves.*
 
+### Ember Staff
+
+*Aura* moderate evocation; *CL* 8th; *Slot* none; *Price* 13,100 gp; *Weight* 3 lbs.
+
+The reddish brown bark of this charred manzanita branch shows only in patches. The staff is a mere 3 feet long and balanced for use as a masterwork club.
+
+When casting [*produce flame*](../magic/spells/produce-flame.md) from the staff, its wielder can choose to set the end of the staff alight instead of producing the flame in her hand. This does not damage the staff, and the spell's damage is added to any melee attacks made with the staff.
+
+- [*Produce flame*](../magic/spells/produce-flame.md) (1 charge)
+- [*Scorching ray*](../magic/spells/scorching-ray.md) (2 charges)
+- [*Fireball*](../magic/spells/fireball.md) (4 charges)
+
+*Construction* Craft Staff, [*fireball*](../magic/spells/fireball.md), [*produce flame*](../magic/spells/produce-flame.md), [*scorching ray*](../magic/spells/scorching-ray.md); Cost 6,700 gp.
+
+*Source: Advanced Class Guide Staves.*
+
 ### Staff of Enchantment
 
 **Aura** strong enchantment; **CL** 13th  
@@ -776,6 +627,8 @@ This smooth hickory or yew staff allows use of the following spells:
 **Requirements** Craft Staff, chain lightning, fireball, ice storm, magic missile, shatter, wall of force; **Cost** 41,000 gp
 
 *Source: Staves, Staff Descriptions.*
+
+## F
 
 ### Staff of Feast and Famine
 
@@ -828,6 +681,38 @@ Tipped on either end with a glistening diamond, this rune-covered staff allows u
 
 *Source: Staves, Staff Descriptions.*
 
+## G
+
+### Staff of the God of Magic
+
+**Aura** strong abjuration **CL** 13th
+
+**Slot** none; **Price** 131,550 gp; **Weight** 5 lbs.
+
+These staves are often made of darkwood and topped with the holy symbol of the god of magic, the eyes of which are made of rare gems that glow with magical energy. While the upper end of the staff (along with its symbol) always appears clean and pristine, the lower end of the staff’s shaft appears charred by fire and pitted by acid. This staff allows the use of the following spells:Arcane sight (1 charge)Channel the gift (1 charge)Fractions of heal and harm (1 charge)Spell gauge (1 charge)Prying eyes (2 charges)Spell scourge (3 charges)In addition, the wielder of the staff can store additional spells in the staff itself, similarly to a ring of spell storing. The staff of the god of magic can contain up to 5 levels of spells (arcane, divine, or psychic, or even a mix of all three). The wielder doesn’t need to spend charges to cast one of these stored spells from the staff, but must have levels in a class with that spell on its spell list.
+
+**Construction**
+
+**Requirements** Craft Staff, Heightened Spell, [*arcane sight*](../magic/spells/arcane-sight.md),* channel the gift* or* imbue with spell ability*,* fractions of heal and harm*,* prying eyes*,* spell gauge*,* spell scourge*; **Cost** 65,775 gp
+
+*Source: Adventure Items.*
+
+### Gravedigger's Spade
+
+*Aura* moderate conjuration and transmutation; *CL* 8th; *Slot* none; *Price* 12,150 gp; *Weight* 4 lbs.
+
+The sturdy, well-polished oaken shaft and the sharp blade attached to its tip allow this magical staff to be used as a masterwork shovel when not employed in spellcasting.
+
+- [*Expeditious excavation*](../magic/spells/expeditious-excavation.md) (1 charge)
+- [*Create pit*](../magic/spells/create-pit.md) (2 charges)
+- [*Spiked pit*](../magic/spells/spiked-pit.md) (5 charges)
+
+*Construction* Craft Staff, [*expeditious excavation*](../magic/spells/expeditious-excavation.md), [*create pit*](../magic/spells/create-pit.md), [*spiked pit*](../magic/spells/spiked-pit.md); Cost 6,100 gp.
+
+*Source: Advanced Class Guide Staves.*
+
+## H
+
 ### Staff of Healing
 
 **Aura** moderate conjuration; **CL** 8th  
@@ -864,6 +749,67 @@ Topped by a swirling cloudy stone and wrapped with black iron filigree, this sta
 
 *Source: Ultimate Equipment Staves.*
 
+### Heretic’s Bane
+
+**Aura** moderate enchantment; **CL** 8th  
+**Slot** none; **Price** 32,000 gp; **Weight** 5 lbs.
+
+This sturdy wooden staff is crowned by a holy symbol, surrounded by wicked barbs of metal. The staff allows use of the following spells:
+
+- castigate (1 charge)
+- command (1 charge)
+- zone of truth (1 charge)
+- denounce (2 charges)
+
+**Requirements** Craft Staff, [*castigate*](../magic/spells/castigate.md), *command, denounce*, [*zone of truth*](../magic/spells/zone-of-truth.md); **Cost** 16,000 gp
+
+*Source: Ultimate Equipment Staves.*
+
+### Hermit’s Branch
+
+**Aura** strong abjuration, conjuration, and transmutation **CL** 15th
+
+**Slot** none; **Price** 72,750 gp; **Weight** 2 lbs.
+
+This staff is crafted out of interlocking woods, woven together and knotted with holly leaf and mistletoe, with a cloudy purple gem resting atop it. *hermit’s branch* allows the use of the following spells:
+- [*Changestaff*](../magic/spells/changestaff.md) (2 charges)
+- [*Quench*](../magic/spells/quench.md) (1 charge)
+- [*Repel metal or stone*](../magic/spells/repel-metal-or-stone.md) (4 charges)
+- [*Transmute metal to wood*](../magic/spells/transmute-metal-to-wood.md) (1 charge)
+- [*Tree stride*](../magic/spells/tree-stride.md) (1 charge)
+
+**Construction**
+
+**Requirements** Craft Staff, [*changestaff*](../magic/spells/changestaff.md),* quench*,* repel metal or stone*,* transmute metal to wood*,* tree stride*; **Cost** 36,375 gp
+
+*Source: Adventure Items.*
+
+### Staff of the Hierophant
+
+**Aura** strong varies; **CL** 15th  
+**Slot** none; **Price** 220,000 gp; **Weight** 5 lbs.
+
+The *staff of the hierophant* is a powerful magic item with the ability to both heal and harm, which also gives its wielder a number of protections. The staff is crafted from platinum and topped with a glowing blue diamond. The staff allows the use of the following spells:
+
+- bless (1 charge)
+- cure moderate wounds (1 charge)
+- freedom of movement (1 charge)
+- hold person (heightened to 5th level, 1 charge)
+- prayer (1 charge)
+- searing light (1 charge)
+- cure critical wounds (2 charges)
+- flame strike (2 charges)
+- righteous might (2 charges)
+- true seeing (2 charges)
+
+The wielder of a staff of the hierophant gains a +2 luck bonus to AC and on saving throws. The staff is also a +2/+2 quarterstaff, and its wielder may use it to smite opponents. If 1 charge is expended (as a free action), the staff deals double damage (×3 on a critical hit) for 1 round.
+
+A *staff of the hierophant* can be used to restore the life of a dead creature by calling upon the wielder’s deity to take the staff as a blessing. This causes the staff to vanish, but restores life to any one dead creature as if casting [*true resurrection*](../magic/spells/true-resurrection.md). In addition, after using this effect, the wielder who triggered it receives a +2 luck bonus on all ability checks, attack rolls, saving throws, and skill checks for 1 day.
+
+**Requirements** Craft Magic Arms and Armor, Craft Staff, [*bless*](../magic/spells/bless.md), [*cure critical wounds*](../magic/spells/cure-critical-wounds.md), [*cure moderate wounds*](../magic/spells/cure-moderate-wounds.md), [*flame strike*](../magic/spells/flame-strike.md), [*freedom of movement*](../magic/spells/freedom-of-movement.md), heightened [*hold person*](../magic/spells/hold-person.md), [*prayer*](../magic/spells/prayer.md), [*righteous might*](../magic/spells/righteous-might.md), [*searing light*](../magic/spells/searing-light.md), [*true resurrection*](../magic/spells/true-resurrection.md), [*true seeing*](../magic/spells/true-seeing.md); **Cost** 110,000 gp
+
+*Source: Ultimate Equipment Staves.*
+
 ### Staff of Hoarding
 
 **Aura** moderate varied; **CL** 11th  
@@ -880,6 +826,41 @@ This gorgeous teak shaft has many gold and silver coins hammered into it. It all
 **Requirements** Craft Staff, identify, legend lore, locate object, magic aura, secret chest; **Cost** 15,008 gp
 
 *Source: Advanced Player's Guide Staves.*
+
+### Holy Staff
+
+**Aura** moderate evocation; **CL** 8th  
+**Slot** none; **Price** 29,600 gp; **Weight** 5 lbs.
+
+This staff is made from polished birch, inlaid with ivory, and topped with a pristine white gemstone. The staff allows use of the following spells:
+
+- align weapon (good only, 1 charge)
+- detect evil (1 charge)
+- holy smite (2 charges)
+- magic circle against evil (2 charges)
+
+**Requirements** Craft Staff, [*align weapon*](../magic/spells/align-weapon.md), [*detect evil*](../magic/spells/detect-evil.md), [*holy smite*](../magic/spells/holy-smite.md), [*magic circle against evil*](../magic/spells/magic-circle-against-evil.md); **Cost** 14,800 gp
+
+*Source: Ultimate Equipment Staves.*
+
+### Hungering Staff
+
+**Aura** moderate conjuration; **CL** 9th  
+**Slot** none; **Price** 30,000 gp; **Weight** 4 lbs.
+
+A ring of curved fangs circles the tip of this 7-foot-long bone staff. When [*magic mouth*](../magic/spells/magic-mouth.md) is cast from the staff, the resulting illusory mouth is filled with countless needle-like fangs. After *magic mouth* is cast, one charge remains drained from the staff and can’t be recharged until the user dismisses the spell or until the spell discharges.
+
+When casting [*beast shape I*](../magic/spells/beast-shape-i.md) from the staff, the caster can choose only creatures with bite attacks, and the user’s bite attacks deal damage as if the assumed shape were two sizes larger.
+
+The staff allows the use of the following spells.
+
+- [*Magic mouth*](../magic/spells/magic-mouth.md) (1 charge)
+- [*Beast shape I*](../magic/spells/beast-shape-i.md) (see text; 2 charges)
+- [*Hungry pit*](../magic/spells/hungry-pit.md) (3 charges)
+
+**Requirements** Craft Staff, [*beast shape I*](../magic/spells/beast-shape-i.md), [*hungry pit*](../magic/spells/hungry-pit.md), [*magic mouth*](../magic/spells/magic-mouth.md); **Cost** 15,500 gp
+
+*Source: Horror Adventures Staves.*
 
 ### Staff of Hungry Shadows
 
@@ -898,6 +879,8 @@ This staff is made of scorched and twisted wood and is set with a crystal sphere
 **Requirements** Craft Staff, [*darkness*](../magic/spells/darkness.md), [*enervation*](../magic/spells/enervation.md), [*planar binding*](../magic/spells/planar-binding.md), [*ray of enfeeblement*](../magic/spells/ray-of-enfeeblement.md), [*summon monster V*](../magic/spells/summon-monster-v.md), [*vampiric touch*](../magic/spells/vampiric-touch.md); **Cost** 34,650 gp
 
 *Source: Ultimate Equipment Staves.*
+
+## I
 
 ### Staff of Illumination
 
@@ -941,6 +924,8 @@ This staff is made from ebony or other dark wood and carved into an intricately 
 
 *Source: Staves, Staff Descriptions.*
 
+## J
+
 ### Staff of Journeys
 
 **Aura** moderate varied; **CL** 8th  
@@ -958,6 +943,24 @@ This walking stick, which still has dark gray bark along its entire length, bran
 
 *Source: Advanced Player's Guide Staves.*
 
+## L
+
+### Lawful Staff
+
+**Aura** moderate evocation; **CL** 8th  
+**Slot** none; **Price** 29,600 gp; **Weight** 5 lbs.
+
+This staff is crafted from a perfectly smooth triangular rod of silver, and its top is crowned with a golden sphere. The staff allows use of the following spells:
+
+- align weapon (lawful only, 1 charge)
+- detect chaos (1 charge)
+- magic circle against chaos (2 charges)
+- order’s wrath (2 charges)
+
+**Requirements** Craft Staff, [*align weapon*](../magic/spells/align-weapon.md), [*detect chaos*](../magic/spells/detect-chaos.md), [*magic circle against chaos*](../magic/spells/magic-circle-against-chaos.md), [*order’s wrath*](../magic/spells/orders-wrath.md); **Cost** 14,800 gp
+
+*Source: Ultimate Equipment Staves.*
+
 ### Staff of Life
 
 **Aura** moderate conjuration; **CL** 11th  
@@ -972,6 +975,8 @@ A staff of life is made of thick polished oak shod in gold and decorated with si
 **Requirements** Craft Staff, heal, raise dead; **Cost** 79,700 gp
 
 *Source: Staves, Staff Descriptions.*
+
+## M
 
 ### Staff of Many Rays
 
@@ -989,6 +994,40 @@ The elaborate swirls and delicate flecks of shining metal adorning the head of t
 **Requirements** Craft Staff, disintegrate, enervation, ray of enfeeblement, ray of exhaustion, scorching ray; **Cost** 26,400 gp
 
 *Source: Advanced Player's Guide Staves.*
+
+### Many-Eyed Staff
+
+**Aura** moderate divination; **CL** 9th  
+**Slot** none; **Price** 32,000 gp; **Weight** 5 lbs.
+
+Whenever the user is holding this wooden staff, 10 bulging eyes carved along the length of the staff animate, granting the user a +5 competence bonus on Perception checks as long as he is grasping the staff. As a move action (1 AP), the wielder can select a creature within 100 feet and see through its eyes with no saving throw. The creature selected must be either a spider summoned with the staff or a creature blinded by a [*blindness/deafness*](../magic/spells/blindness-deafness.md) spell cast from the staff (the wielder ignores the *blindness/deafness* effect). The connection lasts as long as the wielder and the target creature remain within 100 feet of each other, though the wielder can end it as a free action. The effect also ends if the target was a blinded creature and regains the ability to see. The wielder is blinded while maintaining this connection.
+
+The staff allows the use of the following spells.
+
+- [*Blindness/deafness*](../magic/spells/blindness-deafness.md) (blindness only; 1 charge)
+- [*Summon monster II*](../magic/spells/summon-monster-ii.md) (giant spider only; 1 charge)
+- [*Prying eyes*](../magic/spells/prying-eyes.md) (3 charges)
+
+**Requirements** Craft Staff, [*blindness/deafness*](../magic/spells/blindness-deafness.md), [*prying eyes*](../magic/spells/prying-eyes.md), [*summon monster II*](../magic/spells/summon-monster-ii.md); **Cost** 16,000 gp
+
+*Source: Horror Adventures Staves.*
+
+### Staff of the Master
+
+**Aura** moderate necromancy; **CL** 8th  
+**Slot** none; **Price** 30,000 gp; **Weight** 5 lbs.
+
+Often given as gifts to apprentices upon reaching the rank of master, these staves come in eight different varieties, one for each school of magic. This particular staff is for the school of necromancy. Aside from acting as a *+1/+1 quarterstaff*, this staff allows use of the following spells:
+
+- ray of enfeeblement (1 charge)
+- spectral hand (1 charge)
+- vampiric touch (2 charges)
+
+In addition, this staff can be used to cast spells using any metamagic feats known by the wielder without increasing the spell’s level. This consumes a number of charges equal to the number of spell levels increased by the feat. No more than one feat can be applied to a spell cast by the wielder in this way. Using the staff for this purpose does not increase the casting time of the spell.
+
+**Requirements** Craft Magic Arms and Armor, Craft Staff, *ray of enfeeblement, spectral hand*, [*vampiric touch*](../magic/spells/vampiric-touch.md); **Cost** 15,300 gp
+
+*Source: Ultimate Equipment Staves.*
 
 ### Staff of Minor Arcana
 
@@ -1020,6 +1059,39 @@ This staff is made of silver, with a shimmering sphere of mithral at either end.
 
 *Source: Ultimate Equipment Staves.*
 
+### Monstrification Staff
+
+*Aura* faint transmutation (polymorph); *CL* 5th; *Slot* none; *Price* 12,000 gp; *Weight* 4 lbs.
+
+The figures on this scrimshawed ivory staff slowly morph from one monstrous figure into another, and often grow to take up more space on the staff's surface. An alchemist or other character capable of creating extracts can pour an extract of [*enlarge person*](../magic/spells/enlarge-person.md) over this staff to restore 1 charge to the staff or pour an extract of [*monstrous physique I*](../magic/spells/monstrous-physique-i.md) over it to restore 3 charges.
+
+- [*Enlarge person*](../magic/spells/enlarge-person.md) (1 charge)
+- [*Monstrous physique I*](../magic/spells/monstrous-physique-i.md) (3 charges)
+
+*Construction* Craft Staff, [*enlarge person*](../magic/spells/enlarge-person.md), [*monstrous physique I*](../magic/spells/monstrous-physique-i.md), creator must be an alchemist; Cost 6,150 gp.
+
+*Source: Advanced Class Guide Staves.*
+
+### Musical Staff
+
+**Aura** moderate evocation; **CL** 8th  
+**Slot** none; **Price** 32,000 gp; **Weight** 5 lbs.
+
+This staff is made from high-quality wood and festooned with brass rods and keys, looking almost like an instrument. The staff allows use of the following spells:
+
+- ghost sound (1 charge)
+- piercing shriek (1 charge)
+- sculpt sound (2 charges)
+- wall of sound (2 charges)
+
+In addition, as a swift action (1 AP), the wielder of the *musical staff* can cause it to transform into a string or wind instrument. Any Perform skill checks made with the *musical staff* gain a +5 competence bonus. The staff can still be used to cast spells while it is an instrument, and it can revert back to a staff as a free action.
+
+**Requirements** Craft Staff, [*ghost sound*](../magic/spells/ghost-sound.md), [*piercing shriek*](../magic/spells/piercing-shriek.md), [*sculpt sound*](../magic/spells/sculpt-sound.md), [*wall of sound*](../magic/spells/wall-of-sound.md); **Cost** 16,000 gp
+
+*Source: Ultimate Equipment Staves.*
+
+## N
+
 ### Staff of Necromancy
 
 **Aura** strong necromancy; **CL** 13th  
@@ -1042,6 +1114,8 @@ This staff is made from ebony or other dark wood and carved with images of bones
 **Requirements** Craft Staff, cause fear, circle of death, enervation, ghoul touch, halt undead, waves of fatigue; **Cost** 41,000 gp
 
 *Source: Staves, Staff Descriptions.*
+
+## O
 
 ### Staff of Obstacles
 
@@ -1079,6 +1153,8 @@ This staff also allows the wielder to use [*mage hand*](../magic/spells/mage-han
 **Requirements** Craft Staff, *clenched fist, crushing hand, forceful hand, grasping hand, interposing hand*, [*mage hand*](../magic/spells/mage-hand.md); **Cost** 90,100 gp
 
 *Source: Ultimate Equipment Staves.*
+
+## P
 
 ### Staff of Passage
 
@@ -1120,6 +1196,23 @@ Soon after falling into the hands of a new owner, this piece of finely varnished
 
 *Source: Advanced Player's Guide Staves.*
 
+### Staff of the Planes
+
+**Aura** strong conjuration; **CL** 13th  
+**Slot** none; **Price** 63,960 gp; **Weight** 5 lbs.
+
+This obsidian staff twinkles as if reflecting the star-filled sky at night. The staff allows use of the following spells.
+
+- planar adaptation (1 charge)
+- planar binding (2 charges)
+- plane shift (5 charges)
+
+If the *staff of the planes* is fully charged, the wielder can deliberately snap the staff, causing it do shatter into thousands of pieces but opening a [*gate*](../magic/spells/gate.md) to a plane of the wielder’s choice. This can only be used for planar travel, and the connection lasts for 1 minute, without requiring the wielder’s concentration. If used in this way, the staff cannot be repaired or restored.
+
+**Requirements** Craft Staff, *planar adaptation, planar binding*, [*plane shift*](../magic/spells/plane-shift.md); **Cost** 31,980 gp
+
+*Source: Ultimate Equipment Staves.*
+
 ### Staff of Power
 
 **Aura** strong varied; **CL** 15th  
@@ -1156,6 +1249,33 @@ The character breaking the staff has a 50% chance of traveling to another plane 
 **Requirements** Craft Staff, Craft Magic Arms and Armor, cone of cold, continual flame, heightened fireball, globe of invulnerability, hold monster, levitate, heightened lightning bolt, magic missile, heightened ray of enfeeblement, wall of force; **Cost** 117,500 gp
 
 *Source: Staves, Staff Descriptions.*
+
+### Staff of the Prime Mover
+
+**Aura** moderate evocation **CL** 10th
+
+**Slot** none; **Price** 38,300 gp; **Weight** 2 lbs.
+
+This slender silver cane feels more unwieldy than its low weight might suggest, as if a hidden force fights its wielder for control. The staff functions as a *+1/+1 anchoring*UE* mithral quarterstaff*, and allows use of the following spells.
+- *Kinetic reverberation*UC (1 charge)
+- *Force hook charge*UM (2 charges)
+- *Force punch*UM (2 charges)
+
+As long as the staff’s *anchoring* special ability is in effect, these spells work differently when cast by the wielder, as noted below.
+
+[*Kinetic reverberation*](../magic/spells/kinetic-reverberation.md) not only damages an attacker’s weapon, but also pushes the attacker away. Immediately after the spell’s damage is dealt, as an immediate action (1 AP of your next turn), the wielder may attempt a bull rush combat maneuver against his attacker, using his opponent’s attack bonus as his combat maneuver bonus. This combat maneuver does not provoke attacks of opportunity and the wielder does not move with his opponent.
+
+[*Force hook charge*](../magic/spells/force-hook-charge.md) pulls the target to a square adjacent to the staff on a successful ranged touch attack, rather than pulling the staff and wielder toward the target. The spell’s target may resist this pull with a successful Fortitude save. This movement does not provoke attacks of opportunity.
+
+[*Force punch*](../magic/spells/force-punch.md) deals 1d6 points of force damage to its target per caster level (maximum 10d6) against an opponent that is affected by the staff’s *anchoring* special ability, rather than 1d4 points of force damage per caster level. An anchored opponent is not pushed away.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, Craft Staff, *force hook charge*UM,* force punch*UM,* kinetic reverberation*UC,* levitate*; **Cost** 20,300 gp
+
+*Source: Adventure Items.*
+
+## R
 
 ### Staff of Radiance
 
@@ -1204,6 +1324,23 @@ This iron-shod black wood staff allows use of the following spells:
 **Requirements** Craft Staff, align weapon, bane, cause fear, command, magic weapon; **Cost** 6,800 gp
 
 *Source: Advanced Player's Guide Staves.*
+
+## S
+
+### Staff of the Scout
+
+**Aura** moderate conjuration; **CL** 8th  
+**Slot** none; **Price** 9,600 gp; **Weight** 4 lbs.
+
+This staff is carefully crafted from the branches of a tree, still intertwined as they grew and crowned with living leaves. The staff allows use of the following spells:
+
+- know direction (1 charge)
+- pass without trace (1 charge)
+- summon nature’s ally I (2 charges)
+
+**Requirements** Craft Staff, [*know direction*](../magic/spells/know-direction.md), [*pass without trace*](../magic/spells/pass-without-trace.md), [*summon nature’s ally I*](../magic/spells/summon-natures-ally-i.md); **Cost** 4,800 gp
+
+*Source: Ultimate Equipment Staves.*
 
 ### Staff of Shrieking
 
@@ -1276,6 +1413,20 @@ This ominous staff allows use of the following spells:
 
 *Source: Advanced Player's Guide Staves.*
 
+### Spark Staff
+
+*Aura* moderate evocation; *CL* 8th; *Slot* none; *Price* 12,650 gp; *Weight* 2 lbs.
+
+Thin golden strands snake through this transparent shaft, seeming to flow from one brass end-cap to the other. Once per day when the wielder is damaged by an effect that deals at least 10 points of electricity damage, the staff regains 1 charge. This does not reduce the amount of damage the wielder takes from the effect.
+
+- [*Shocking grasp*](../magic/spells/shocking-grasp.md) (1 charge)
+- *Intensified shocking grasp* (2 charges)
+- [*Lightning bolt*](../magic/spells/lightning-bolt.md) (5 charges)
+
+*Construction* Craft Staff, Intensify Spell, [*shocking grasp*](../magic/spells/shocking-grasp.md), [*lightning bolt*](../magic/spells/lightning-bolt.md), [*scorching ray*](../magic/spells/scorching-ray.md); Cost 6,475 gp.
+
+*Source: Advanced Class Guide Staves.*
+
 ### Staff of Speaking
 
 **Aura** moderate enchantment; **CL** 9th  
@@ -1292,6 +1443,17 @@ When the wielder of this hollow wooden staff speaks or shouts, it reverberates w
 **Requirements** Craft Staff, *denounce, glibness, mass suggestion, suggestion, tongues*; **Cost** 19,800 gp
 
 *Source: Ultimate Equipment Staves.*
+
+### Spherewalker's Staff
+
+**Aura** moderate conjuration; **CL** 9th  
+**Slot** none; **Price** 43,400 gp; **Weight** 3 lbs.
+
+This slender darkwood staff is topped either with a star-shaped crystal or a butterfly-like silver head. Sacred to the faith of the goddess of travel, a spherewalker’s staff allows use of the following spells: ant haul (1 charge) water walk (1 charge) air walk (2 charges) dimension door (2 charges) freedom of movement (2 charges) plane shift (3 charges) When carried (even when stowed), a spherewalker’s staff increases the wielder’s base land speed by 10 feet.
+
+**Requirements** Craft Staff, air walk, ant haul, dimension door, freedom of movement, plane shift, water walk, creator must worship the goddess of travel; **Cost** 21,700 gp
+
+*Source: More Magic Items.*
 
 ### Staff of Spiders
 
@@ -1360,202 +1522,7 @@ Made of twisted darkwood covered with knots and nodules resembling crawling inse
 
 *Source: Staves, Staff Descriptions.*
 
-### Staff of the Avenger
-
-**Aura** moderate evocation; **CL** 10th  
-**Slot** none; **Price** 37,310 gp; **Weight** 5 lbs.
-
-This shining golden staff is topped with a radiant gemstone that emits light like a torch. As a swift action (1 AP), the wielder of the staff can cause it to change into a *+2 lance*, although it retains its other abilities. It can be made to revert to its staff form as a free action. The staff allows use of the following spells:
-
-- bless weapon (1 charge, cast on the staff only)
-- shield other (1 charge)
-- discern lies (2 charges)
-- holy sword (4 charges, cast on the staff only)
-
-**Requirements** Craft Magic Arms and Armor, Craft Staff, [*bless weapon*](../magic/spells/bless-weapon.md), [*discern lies*](../magic/spells/discern-lies.md), [*holy sword*](../magic/spells/holy-sword.md), [*shield other*](../magic/spells/shield-other.md); **Cost** 18,810 gp
-
-*Source: Ultimate Equipment Staves.*
-
-### Staff of the Beast Walker
-
-**Aura** moderate transmutation **CL** 8th
-
-**Slot** none; **Price** 26,600 gp; **Weight** 5 lbs.
-
-This stout staff is made of wood and capped with steel. Elongated carvings of smiling beasts adorn its length. The *staff of the beast walker* functions as a *+1/+1 quarterstaff* and allows the use of the following spells.
-- [*Charm animal*](../magic/spells/charm-animal.md) (1 charge)
-- [*Longstrider*](../magic/spells/longstrider.md) (1 charge)
-- [*Monkey fish*](../magic/spells/monkey-fish.md) (1 charge)
-- [*Speak with animals*](../magic/spells/speak-with-animals.md) (1 charge)
-- [*Greater longstrider*](../magic/spells/longstrider-greater.md) (2 charges)
-
-If the staff’s wielder has the Fleet feat, castings of [*greater longstrider*](../magic/spells/longstrider-greater.md),* longstrider*, or* monkey fish* from the staff are automatically extended, as the Extend Spell feat. If the wielder has the Animal Affinity feat, then [*charm animal*](../magic/spells/charm-animal.md) or [*speak with animals*](../magic/spells/speak-with-animals.md) spells cast from the staff are automatically extended, as the Extend Spell feat. This does not increase the spells’ level or casting time.
-
-**Construction**
-
-**Requirements** Craft Magic Arms and Armor, Craft Staff, [*charm animal*](../magic/spells/charm-animal.md),* greater longstrider*,* longstrider*,* monkey fish*,* speak with animals*; **Cost** 13,600 gp
-
-*Source: Adventure Items.*
-
-### Staff of the Dark Tapestry
-
-**Aura** moderate conjuration **CL** 9th
-
-**Slot** none; **Price** 43,500 gp; **Weight** 5 lbs.
-
-This staff, constructed of dark purple crystal, allows the use of the following spells:
-- [*confusion*](../magic/spells/confusion.md) (2 charges)
-- [*darkness*](../magic/spells/darkness.md) (1 charge)
-- [*fear*](../magic/spells/fear.md) (2 charges)
-- *irradiate*TG (1 charge)
-- *planetary adaptation*DW (2 charges)
-
-The staff may be used as a weapon, functioning as a *+1 impact quarterstaff*UE even when its charges are expended.
-
-**Construction**
-
-**Requirements** Craft Magic Arms and Armor, Craft Staff, [*bull’s strength*](../magic/spells/bulls-strength.md),* confusion*,* darkness*,* fear*,* irradiate*,* planetary adaptation*; **Cost** 21,900 gp
-
-*Source: Adventure Items.*
-
-### Staff of the God of Magic
-
-**Aura** strong abjuration **CL** 13th
-
-**Slot** none; **Price** 131,550 gp; **Weight** 5 lbs.
-
-These staves are often made of darkwood and topped with the holy symbol of the god of magic, the eyes of which are made of rare gems that glow with magical energy. While the upper end of the staff (along with its symbol) always appears clean and pristine, the lower end of the staff’s shaft appears charred by fire and pitted by acid. This staff allows the use of the following spells:Arcane sight (1 charge)Channel the gift (1 charge)Fractions of heal and harm (1 charge)Spell gauge (1 charge)Prying eyes (2 charges)Spell scourge (3 charges)In addition, the wielder of the staff can store additional spells in the staff itself, similarly to a ring of spell storing. The staff of the god of magic can contain up to 5 levels of spells (arcane, divine, or psychic, or even a mix of all three). The wielder doesn’t need to spend charges to cast one of these stored spells from the staff, but must have levels in a class with that spell on its spell list.
-
-**Construction**
-
-**Requirements** Craft Staff, Heightened Spell, [*arcane sight*](../magic/spells/arcane-sight.md),* channel the gift* or* imbue with spell ability*,* fractions of heal and harm*,* prying eyes*,* spell gauge*,* spell scourge*; **Cost** 65,775 gp
-
-*Source: Adventure Items.*
-
-### Staff of the Hierophant
-
-**Aura** strong varies; **CL** 15th  
-**Slot** none; **Price** 220,000 gp; **Weight** 5 lbs.
-
-The *staff of the hierophant* is a powerful magic item with the ability to both heal and harm, which also gives its wielder a number of protections. The staff is crafted from platinum and topped with a glowing blue diamond. The staff allows the use of the following spells:
-
-- bless (1 charge)
-- cure moderate wounds (1 charge)
-- freedom of movement (1 charge)
-- hold person (heightened to 5th level, 1 charge)
-- prayer (1 charge)
-- searing light (1 charge)
-- cure critical wounds (2 charges)
-- flame strike (2 charges)
-- righteous might (2 charges)
-- true seeing (2 charges)
-
-The wielder of a staff of the hierophant gains a +2 luck bonus to AC and on saving throws. The staff is also a +2/+2 quarterstaff, and its wielder may use it to smite opponents. If 1 charge is expended (as a free action), the staff deals double damage (×3 on a critical hit) for 1 round.
-
-A *staff of the hierophant* can be used to restore the life of a dead creature by calling upon the wielder’s deity to take the staff as a blessing. This causes the staff to vanish, but restores life to any one dead creature as if casting [*true resurrection*](../magic/spells/true-resurrection.md). In addition, after using this effect, the wielder who triggered it receives a +2 luck bonus on all ability checks, attack rolls, saving throws, and skill checks for 1 day.
-
-**Requirements** Craft Magic Arms and Armor, Craft Staff, [*bless*](../magic/spells/bless.md), [*cure critical wounds*](../magic/spells/cure-critical-wounds.md), [*cure moderate wounds*](../magic/spells/cure-moderate-wounds.md), [*flame strike*](../magic/spells/flame-strike.md), [*freedom of movement*](../magic/spells/freedom-of-movement.md), heightened [*hold person*](../magic/spells/hold-person.md), [*prayer*](../magic/spells/prayer.md), [*righteous might*](../magic/spells/righteous-might.md), [*searing light*](../magic/spells/searing-light.md), [*true resurrection*](../magic/spells/true-resurrection.md), [*true seeing*](../magic/spells/true-seeing.md); **Cost** 110,000 gp
-
-*Source: Ultimate Equipment Staves.*
-
-### Staff of the Master
-
-**Aura** moderate necromancy; **CL** 8th  
-**Slot** none; **Price** 30,000 gp; **Weight** 5 lbs.
-
-Often given as gifts to apprentices upon reaching the rank of master, these staves come in eight different varieties, one for each school of magic. This particular staff is for the school of necromancy. Aside from acting as a *+1/+1 quarterstaff*, this staff allows use of the following spells:
-
-- ray of enfeeblement (1 charge)
-- spectral hand (1 charge)
-- vampiric touch (2 charges)
-
-In addition, this staff can be used to cast spells using any metamagic feats known by the wielder without increasing the spell’s level. This consumes a number of charges equal to the number of spell levels increased by the feat. No more than one feat can be applied to a spell cast by the wielder in this way. Using the staff for this purpose does not increase the casting time of the spell.
-
-**Requirements** Craft Magic Arms and Armor, Craft Staff, *ray of enfeeblement, spectral hand*, [*vampiric touch*](../magic/spells/vampiric-touch.md); **Cost** 15,300 gp
-
-*Source: Ultimate Equipment Staves.*
-
-### Staff of the Planes
-
-**Aura** strong conjuration; **CL** 13th  
-**Slot** none; **Price** 63,960 gp; **Weight** 5 lbs.
-
-This obsidian staff twinkles as if reflecting the star-filled sky at night. The staff allows use of the following spells.
-
-- planar adaptation (1 charge)
-- planar binding (2 charges)
-- plane shift (5 charges)
-
-If the *staff of the planes* is fully charged, the wielder can deliberately snap the staff, causing it do shatter into thousands of pieces but opening a [*gate*](../magic/spells/gate.md) to a plane of the wielder’s choice. This can only be used for planar travel, and the connection lasts for 1 minute, without requiring the wielder’s concentration. If used in this way, the staff cannot be repaired or restored.
-
-**Requirements** Craft Staff, *planar adaptation, planar binding*, [*plane shift*](../magic/spells/plane-shift.md); **Cost** 31,980 gp
-
-*Source: Ultimate Equipment Staves.*
-
-### Staff of the Prime Mover
-
-**Aura** moderate evocation **CL** 10th
-
-**Slot** none; **Price** 38,300 gp; **Weight** 2 lbs.
-
-This slender silver cane feels more unwieldy than its low weight might suggest, as if a hidden force fights its wielder for control. The staff functions as a *+1/+1 anchoring*UE* mithral quarterstaff*, and allows use of the following spells.
-- *Kinetic reverberation*UC (1 charge)
-- *Force hook charge*UM (2 charges)
-- *Force punch*UM (2 charges)
-
-As long as the staff’s *anchoring* special ability is in effect, these spells work differently when cast by the wielder, as noted below.
-
-[*Kinetic reverberation*](../magic/spells/kinetic-reverberation.md) not only damages an attacker’s weapon, but also pushes the attacker away. Immediately after the spell’s damage is dealt, as an immediate action (1 AP of your next turn), the wielder may attempt a bull rush combat maneuver against his attacker, using his opponent’s attack bonus as his combat maneuver bonus. This combat maneuver does not provoke attacks of opportunity and the wielder does not move with his opponent.
-
-[*Force hook charge*](../magic/spells/force-hook-charge.md) pulls the target to a square adjacent to the staff on a successful ranged touch attack, rather than pulling the staff and wielder toward the target. The spell’s target may resist this pull with a successful Fortitude save. This movement does not provoke attacks of opportunity.
-
-[*Force punch*](../magic/spells/force-punch.md) deals 1d6 points of force damage to its target per caster level (maximum 10d6) against an opponent that is affected by the staff’s *anchoring* special ability, rather than 1d4 points of force damage per caster level. An anchored opponent is not pushed away.
-
-**Construction**
-
-**Requirements** Craft Magic Arms and Armor, Craft Staff, *force hook charge*UM,* force punch*UM,* kinetic reverberation*UC,* levitate*; **Cost** 20,300 gp
-
-*Source: Adventure Items.*
-
-### Staff of the Scout
-
-**Aura** moderate conjuration; **CL** 8th  
-**Slot** none; **Price** 9,600 gp; **Weight** 4 lbs.
-
-This staff is carefully crafted from the branches of a tree, still intertwined as they grew and crowned with living leaves. The staff allows use of the following spells:
-
-- know direction (1 charge)
-- pass without trace (1 charge)
-- summon nature’s ally I (2 charges)
-
-**Requirements** Craft Staff, [*know direction*](../magic/spells/know-direction.md), [*pass without trace*](../magic/spells/pass-without-trace.md), [*summon nature’s ally I*](../magic/spells/summon-natures-ally-i.md); **Cost** 4,800 gp
-
-*Source: Ultimate Equipment Staves.*
-
-### Staff of the Woodlands
-
-**Aura** strong varied; **CL** 13th  
-**Slot** none; **Price** 100,400 gp; **Weight** 5 lbs.
-
-Appearing to have grown naturally into its shape, this oak, ash, or yew staff allows use of the following spells:
-
-- Charm animal (1 charge)
-
-- Speak with animals (1 charge)
-
-- Barkskin (2 charges)
-
-- Summon nature’s ally VI (3 charges)
-
-- Wall of thorns (3 charges)
-
-- Animate plants (4 charges)
-
-The staff may be used as a weapon, functioning as a +2 quarterstaff. The staff of the woodlands also allows its wielder to cast pass without trace at will, with no charge cost. These two attributes continue to function after all the charges are expended.
-
-**Requirements** Craft Magic Arms and Armor, Craft Staff, animate plants, barkskin, charm animal, pass without trace, speak with animals, summon nature’s ally VI, wall of thorns; **Cost** 50,500 gp
-
-*Source: Staves, Staff Descriptions.*
+## T
 
 ### Staff of Toxins
 
@@ -1643,6 +1610,8 @@ This thin staff is made of stiff wood that has been wrapped in colorful bands of
 
 *Source: Ultimate Equipment Staves.*
 
+## U
+
 ### Staff of Understanding
 
 **Aura** moderate divination; **CL** 8th  
@@ -1657,44 +1626,6 @@ This polished maple or oak staff is inlaid with ivory strips along its length, a
 **Requirements** Craft Staff, *comprehend languages, detect thoughts, tongues*; **Cost** 8,000 gp
 
 *Source: Ultimate Equipment Staves.*
-
-### Staff of Vision
-
-**Aura** moderate divination; **CL** 11th  
-**Slot** none; **Price** 41,250 gp; **Weight** 5 lbs.
-
-A clear crystal lens is affixed to the top of this length of brass and scaled skin. The staff allows use of the following spells:
-
-- arcane eye (1 charge)
-- arcane sight (1 charge)
-- see invisibility (1 charge)
-- prying eyes (2 charges)
-- scrying (2 charges)
-- true seeing (3 charges)
-
-**Requirements** Craft Staff, arcane eye, arcane sight, prying eyes, see invisibility, scrying, true seeing; **Cost** 20,625 gp
-
-*Source: Advanced Player's Guide Staves.*
-
-### Staff of Weather
-
-**Aura** strong varied; **CL** 13th  
-**Slot** none; **Price** 44,200 gp; **Weight** 5 lbs.
-
-The carved surface of this solid oaken beam always depicts a scene with the opposite qualities of the current weather (wet on dry days, dry on wet days, and so on). It allows use of the following spells:
-
-- fog cloud (1 charge)
-- gust of wind (1 charge)
-- wind wall (1 charge)
-- ice storm (2 charges)
-- sleet storm (2 charges)
-- control weather (3 charges)
-
-**Requirements** Craft Staff, control weather, fog cloud, gust of wind, ice storm, sleet storm, wind wall; **Cost** 22,100 gp
-
-*Source: Advanced Player's Guide Staves.*
-
-## U
 
 ### Unholy Staff
 
@@ -1713,6 +1644,24 @@ This twisted iron staff bears ominous stains along its length, and ends in a bla
 *Source: Ultimate Equipment Staves.*
 
 ## V
+
+### Staff of Vision
+
+**Aura** moderate divination; **CL** 11th  
+**Slot** none; **Price** 41,250 gp; **Weight** 5 lbs.
+
+A clear crystal lens is affixed to the top of this length of brass and scaled skin. The staff allows use of the following spells:
+
+- arcane eye (1 charge)
+- arcane sight (1 charge)
+- see invisibility (1 charge)
+- prying eyes (2 charges)
+- scrying (2 charges)
+- true seeing (3 charges)
+
+**Requirements** Craft Staff, arcane eye, arcane sight, prying eyes, see invisibility, scrying, true seeing; **Cost** 20,625 gp
+
+*Source: Advanced Player's Guide Staves.*
 
 ### Vril Staff
 
@@ -1741,6 +1690,24 @@ In the hands of a kineticist, the staff functions differently. By spending 1 cha
 
 ## W
 
+### Staff of Weather
+
+**Aura** strong varied; **CL** 13th  
+**Slot** none; **Price** 44,200 gp; **Weight** 5 lbs.
+
+The carved surface of this solid oaken beam always depicts a scene with the opposite qualities of the current weather (wet on dry days, dry on wet days, and so on). It allows use of the following spells:
+
+- fog cloud (1 charge)
+- gust of wind (1 charge)
+- wind wall (1 charge)
+- ice storm (2 charges)
+- sleet storm (2 charges)
+- control weather (3 charges)
+
+**Requirements** Craft Staff, control weather, fog cloud, gust of wind, ice storm, sleet storm, wind wall; **Cost** 22,100 gp
+
+*Source: Advanced Player's Guide Staves.*
+
 ### Winter's Reach
 
 **Aura** strong evocation and transmutation; **CL** 19th  
@@ -1751,3 +1718,58 @@ This staff is made of a single icicle that tapers to a sharpened point at each e
 **Requirements** Craft Staff, cone of cold, dispel magic, freezing sphere, frostbite, ice body, ice storm, icy prison, wall of ice; **Cost** 114,000 gp
 
 *Source: More Magic Items.*
+
+### Staff of the Woodlands
+
+**Aura** strong varied; **CL** 13th  
+**Slot** none; **Price** 100,400 gp; **Weight** 5 lbs.
+
+Appearing to have grown naturally into its shape, this oak, ash, or yew staff allows use of the following spells:
+
+- Charm animal (1 charge)
+
+- Speak with animals (1 charge)
+
+- Barkskin (2 charges)
+
+- Summon nature’s ally VI (3 charges)
+
+- Wall of thorns (3 charges)
+
+- Animate plants (4 charges)
+
+The staff may be used as a weapon, functioning as a +2 quarterstaff. The staff of the woodlands also allows its wielder to cast pass without trace at will, with no charge cost. These two attributes continue to function after all the charges are expended.
+
+**Requirements** Craft Magic Arms and Armor, Craft Staff, animate plants, barkskin, charm animal, pass without trace, speak with animals, summon nature’s ally VI, wall of thorns; **Cost** 50,500 gp
+
+*Source: Staves, Staff Descriptions.*
+
+## Random Item Table
+
+The table used to generate random items of this type, with the price of each.
+
+**Table 15–16: Staves**
+
+| Medium | Major | Staff | Market Price |
+|---|---|---|---|
+| 01–15 | 01–03 | Charming | 17,600 gp |
+| 16–30 | 04–09 | Fire | 18,950 gp |
+| 31–40 | 10–11 | Swarming insects | 22,800 gp |
+| 41–55 | 12–13 | Size alteration | 26,150 gp |
+| 56–75 | 14–19 | Healing | 29,600 gp |
+| 76–90 | 20–24 | Frost | 41,400 gp |
+| 91–95 | 25–31 | Illumination | 51,500 gp |
+| 96–100 | 32–38 | Defense | 62,000 gp |
+| — | 39–45 | Abjuration | 82,000 gp |
+| — | 46–50 | Conjuration | 82,000 gp |
+| — | 51–55 | Divination | 82,000 gp |
+| — | 56–60 | Enchantment | 82,000 gp |
+| — | 61–65 | Evocation | 82,000 gp |
+| — | 66–70 | Illusion | 82,000 gp |
+| — | 71–75 | Necromancy | 82,000 gp |
+| — | 76–80 | Transmutation | 82,000 gp |
+| — | 81–85 | Earth and stone | 85,800 gp |
+| — | 86–90 | Woodlands | 100,400 gp |
+| — | 91–95 | Life | 109,400 gp |
+| — | 96–98 | Passage | 206,900 gp |
+| — | 99–100 | Power | 235,000 gp |

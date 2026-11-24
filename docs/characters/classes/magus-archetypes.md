@@ -686,7 +686,7 @@ The blending of martial prowess with elven magic has long been a staple of acade
 
 For some wandering nomads, their traditional dances pulse with the power of their ancestors. These dancers incorporate their kapenias—scarves embroidered with the history of the bearer’s clan—into their dances, weaving deadly whirling steps with the power of their ancestors.
 
-**Weapon and Armor Proficiency**: A kapenia dancer is proficient in [simple weapons](../../equipment/weapons.md#simple-weapons) and bladed scarves (see [Frontier Gear](../../equipment/gear-companions.md#frontier-gear)). Additionally, a kapenia dancer can wield a [bladed scarf](../../equipment/weapons/scarf-bladed.md) as a one-handed melee weapon. A kapenia dancer is not proficient with armor or [shields](../../equipment/armor.md) and suffers the normal arcane spell failure chance when casting [magus spells](magus.md#spells) while armored.
+**Weapon and Armor Proficiency**: A kapenia dancer is proficient in [simple weapons](../../equipment/weapons.md#simple-weapons) and bladed scarves (see [Bladed Scarf](../../equipment/goods/clothing.md#bladed-scarf)). Additionally, a kapenia dancer can wield a [bladed scarf](../../equipment/weapons/scarf-bladed.md) as a one-handed melee weapon. A kapenia dancer is not proficient with armor or [shields](../../equipment/armor.md) and suffers the normal arcane spell failure chance when casting [magus spells](magus.md#spells) while armored.
 
 **Diminished Spellcasting**: A kapenia dancer can cast one fewer spell of each level than normal. If this reduces the number to 0, he can cast spells of that level only if his Intelligence allows bonus spells of that level.
 

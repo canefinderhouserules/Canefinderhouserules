@@ -67,24 +67,6 @@ A vigil cap is built like a tinker’s cap, but with shades and wide-view mirror
 
 Each of the following equipment kits contains an array of useful items keyed to a specific situation or type of dungeon location. These kits complement the dungeoneering kit and spelunking kit found in Ultimate Equipment.
 
-### Breaker’s Kit
-
-**Price** 353 gp; **Weight** 40 lbs.
-
-This kit contains all manner of items useful for smashing down doors, creating diversions, and blowing things up. It includes a dose of alchemist’s glue, a flask of alchemist’s fire, a crowbar, a drill, a fuse grenade, a glass cutter, a jetcaster, a vial of phosphorescent gel, 4 pints of oil, a portable ram, a dose of rusting powder, 5 tindertwigs, and a wire.
-
-### Diver’s Kit
-
-**Price** 121 gp; **Weight** 38 lbs.
-
-This kit is ideal for adventurers who venture into sunken ruins or half-flooded temples, and includes an air bladder, a common buoy, 30 feet of chain, a fishing net, a glass bottle, a pound of soap, three sunrods, a waterproof bag, and a waterproof hooded lantern with 3 flasks of oil.
-
-### Trapper’s Kit
-
-**Price** 263 gp; **Weight** 90 lbs.
-
-This kit is particularly useful for dungeon explorers who specialize in trapping or taming whatever vile quarry they find. A trapper’s kit contains an average lock, a bear trap, a container of bone paste, a Small cage, a set of manacles, a bag of marbles, 50 feet of silk rope, two tanglefoot bags, 50 feet of twine, and a wire.
-
 ## Alchemical Dungeoneering Items
 
 The following alchemical tools and equipment can be used for a variety of purposes and effects, and are especially useful in the cramped and untamed quarters often found in dungeons.

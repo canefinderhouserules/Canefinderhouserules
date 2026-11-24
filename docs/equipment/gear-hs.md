@@ -54,30 +54,3 @@ Consulting a guide for information takes 1 minute. The GM attempts a Knowledge (
 **Associated Skill**: If a PC has ranks in the city guide's associated skill, she can attempt a skill check with that skill against the listed DC each time she consults the guide. If her check succeeds, the guide receives a +2 bonus on its next Knowledge check and the PC simply receives no information should the guide fail its next Knowledge check by 5 or more.
 
 **Skill Bonuses**: City guides can also grant bonuses on certain skill checks in specific situations even outside the city. A PC with ranks in the associated skill can consult a guide for 1 minute to gain the listed circumstance bonus the next time within 10 minutes she uses the skill for the purpose given in the guide's description. Gaining a new bonus from a guide ends any previous bonus from the guide.
-
-### A Grand Tour of the Port Metropolis
-
-**Price** 1,100 gp; **Knowledge (local)** +7; **Associated Skill** Profession (sailor) (DC 15)
-
-Written by a meticulous traveler who visited a great trade city from a distant continent, this guidebook is easiest to procure on that continent.
-
-- Identify a traveler's nationality or race (Knowledge [local] +2)
-- Sail around underwater obstacles (Profession [sailor] +2)
-
-### Poison in the Water
-
-**Price** 600 gp; **Knowledge (local)** +3; **Associated Skill** Bluff (DC 20)
-
-This guidebook details how to survive and profit in a lawless city of assassins and poisoners.
-
-- Identify or treat a poison (Heal or Knowledge [nature] +2)
-- Scare off someone openly trying to take something by force (Intimidate +2)
-
-### River of Ink and Silk
-
-**Price** 3,500 gp; **Knowledge (local)** +5; **Associated Skill** Perform (sing) (DC 25)
-
-This travelogue about a distant imperial capital was composed by a wandering skald who was impressed by the city's grandiose beauty and the fact that its highly formal social structure encompasses even criminals.
-
-- Recall information about foreign nobility (Knowledge [nobility] +2)
-- Recognize members, operations, or signs of a yakuza group (Knowledge [local] +2)

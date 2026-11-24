@@ -22,11 +22,11 @@ Every armor and shield of the wiki in one table. Click a name to read its descri
 | [Leather](#armor-descriptions) | 10 gp | +2 | +6 | 0 | 10% | 30 ft. | 20 ft. | 15 lbs. |
 | [Lamellar cuirass](armor-eastern.md) | 15 gp | +2 | +4 | 0 | 5% | 30 ft. | 20 ft. | 8 lbs. |
 | [Rosewood armor](../magic-items/adventure-items.md#rosewood-armor) | 50 gp | +2 | +6 | 0 | 10% | 30 ft. | 20 ft. | 15 lbs. |
-| [Hide shirt](gear-companions.md#hide-shirt) | 20 gp | +3 | +4 | –1 | 15% | 30 ft. | 20 ft. | 18 lbs. |
+| [Hide shirt](goods/adventuring-gear.md#hide-shirt) | 20 gp | +3 | +4 | –1 | 15% | 30 ft. | 20 ft. | 18 lbs. |
 | [Wooden](armor-apg.md#armor-descriptions) | 20 gp | +3 | +3 | –1 | 15% | 30 ft. | 20 ft. | 25 lbs. |
 | [Parade](arms-and-armor-ue.md#parade) | 25 gp | +3 | +5 | –1 | 15% | 30 ft. | 20 ft. | 20 lbs. |
 | [Studded leather](#armor-descriptions) | 25 gp | +3 | +5 | –1 | 15% | 30 ft. | 20 ft. | 20 lbs. |
-| [Hell knight leather](gear-ag.md#hell-knight-leather) | 30 gp | +3 | +5 | –1 | 15% | 30 ft. | 20 ft. | 25 lbs. |
+| [Hell knight leather](goods/adventuring-gear.md#hell-knight-leather) | 30 gp | +3 | +5 | –1 | 15% | 30 ft. | 20 ft. | 25 lbs. |
 | [Leaf armor](../magic-items/adventure-items.md#leaf-armor) | 500 gp | +3 | +5 | 0 | 15% | 30 ft. | 20 ft. | 20 lbs. |
 | [Spider-silk bodysuit](armor-aa2.md#spider-silk-bodysuit) | 850 gp | +3 | +6 | –1 | 10% | 30 ft. | 20 ft. | 4 lbs. |
 | [Lamellar, leather](armor-eastern.md) | 60 gp | +4 | +3 | –2 | 20% | 30 ft. | 20 ft. | 25 lbs. |
@@ -56,13 +56,13 @@ Every armor and shield of the wiki in one table. Click a name to read its descri
 | [Lamellar, stone](armor-eastern.md) | 500 gp | +8 | 0 | –7 | 40% | 20 ft. | 15 ft. | 45 lbs. |
 | [Half-plate](#armor-descriptions) | 600 gp | +8 | +0 | –7 | 40% | 20 ft.² | 15 ft.² | 50 lbs. |
 | [Agile half-plate](armor-apg.md#armor-descriptions) | 850 gp | +8 | +0 | –7 | 40% | 20 ft.² | 15 ft.² | 55 lbs. |
-| [Hell knight half-plate](gear-ag.md#hell-knight-half-plate) | 850 gp | +8 | +0 | –7 | 40% | 20 ft.² | 15 ft.² | 50 lbs. |
+| [Hell knight half-plate](goods/adventuring-gear.md#hell-knight-half-plate) | 850 gp | +8 | +0 | –7 | 40% | 20 ft.² | 15 ft.² | 50 lbs. |
 | [O-yoroi](armor-eastern.md) | 1,700 gp | +8 | +2 | –6 | 35% | 20 ft. | 15 ft. | 45 lbs. |
 | [Fortress plate](armor-aa2.md#fortress-plate) | 2,100 gp | +8 | +0 | –7 | 40% | 20 ft. | 15 ft. | 75 lbs. |
 | [Full plate](#armor-descriptions) | 1,500 gp | +9 | +1 | –6 | 35% | 20 ft.² | 15 ft.² | 50 lbs. |
-| [Scar soldier plate](gear-ag.md#scar-soldier-plate) | 1,500 gp | +9 | +1 | –6 | 35% | 20 ft.² | 15 ft.² | 50 lbs. |
+| [Scar soldier plate](goods/adventuring-gear.md#scar-soldier-plate) | 1,500 gp | +9 | +1 | –6 | 35% | 20 ft.² | 15 ft.² | 50 lbs. |
 | [Stoneplate](arms-and-armor-ue.md#stoneplate) | 1,800 gp | +9 | +1 | –6 | 35% | 15 ft.¹ | 10 ft.¹ | 75 lbs. |
-| [Hell knight plate](gear-ag.md#hell-knight-plate) | 2,000 gp | +9 | +1 | –5 | 35% | 20 ft.² | 15 ft.² | 50 lbs. |
+| [Hell knight plate](goods/adventuring-gear.md#hell-knight-plate) | 2,000 gp | +9 | +1 | –5 | 35% | 20 ft.² | 15 ft.² | 50 lbs. |
 | **Shields** | | | | | | | | |
 | [Shield, light wooden](#armor-descriptions) | 3 gp | +2 | — | –1 | 5% | — | — | 5 lbs. |
 | [Buckler](#armor-descriptions) | 5 gp | +1 | — | –1 | 5% | — | — | 5 lbs. |
@@ -86,7 +86,7 @@ Every armor and shield of the wiki in one table. Click a name to read its descri
 | [Shield spikes](#armor-descriptions) | +10 gp | — | — | — | — | — | — | +5 lbs. |
 | [Armor spikes](#armor-descriptions) | +50 gp | — | — | — | — | — | — | +10 lbs. |
 | [Throwing shield](gladiator-weapons.md) | +50 gp | — | — | — | — | — | — | — |
-| [Shield boss](gear-companions.md#shield-boss) | 30–120 gp | — | — | — | — | — | — | 10 lbs. |
+| [Shield boss](goods/adventuring-gear.md#shield-boss) | 30–120 gp | — | — | — | — | — | — | 10 lbs. |
 
 Medium armor costs 5 feet of speed (see Speed above). ² When running in heavy armor, you move only triple your speed, not quadruple.
 

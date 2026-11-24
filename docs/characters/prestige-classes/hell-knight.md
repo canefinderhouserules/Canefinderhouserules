@@ -89,7 +89,7 @@ At 2nd level, a hell knight can use [*discern lies*](../../magic/spells/discern-
 
 #### Hell Knight Armor (Ex)
 
-At 2nd level, a hell knight earns the right to wear [hell knight plate](../../equipment/gear-ag.md), which does not reduce his speed. While wearing this armor, the hell knight reduces its armor check penalty by 1 and increases the maximum Dexterity bonus allowed by 1. At 5th level, these adjustments increase to 2. At 8th level, these adjustments increase to 3.
+At 2nd level, a hell knight earns the right to wear [hell knight plate](../../equipment/goods/index.md), which does not reduce his speed. While wearing this armor, the hell knight reduces its armor check penalty by 1 and increases the maximum Dexterity bonus allowed by 1. At 5th level, these adjustments increase to 2. At 8th level, these adjustments increase to 3.
 
 #### Disciplines
 

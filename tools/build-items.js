@@ -177,7 +177,11 @@ const toMd = rel => 'equipment/' + rel.replace(/(^|\/)index\.md$/, '$1').replace
 
 const FILE_KIND = [[/^special-materials/, 'Special Material'], [/^purchasing-animals/, 'Mounts, Animals and Barding'], [/^more-poisons|^gear-cc|^gear-emh/, 'Alchemical Items, Poisons and Drugs'],
   [/^gear-aa\.md|^gear-ff|^gear-companions-animals/, 'Mounts, Animals and Barding'], [/^technolog/, 'Technological Gear'], [/^armor/, 'Armor']];
+const GOODS_TYPE = { 'adventuring-gear': 'Adventuring Gear', tools: 'Tools and Skill Kits', clothing: 'Clothing', 'food-and-drink': 'Food, Drink and Lodging', entertainment: 'Adventuring Gear',
+  'animals-and-transport': 'Mounts, Animals and Barding', services: 'Services', 'alchemical-remedies': 'Alchemical Items, Poisons and Drugs', 'alchemical-tools': 'Alchemical Items, Poisons and Drugs',
+  'alchemical-weapons': 'Alchemical Items, Poisons and Drugs', 'poisons-drugs-and-diseases': 'Alchemical Items, Poisons and Drugs' };
 function mundaneType(heading, rel, name, group, strict) {
+  if (/^goods\//.test(rel) && !strict) return GOODS_TYPE[path.basename(rel, '.md')] || 'Adventuring Gear';
   const g = (group || heading || '').toLowerCase();
   if (strict) { for (const [re] of FILE_KIND) if (re.test(rel)) return null; }
   if (/shield|buckler/i.test(name) && /armor|shield/.test(rel + ' ' + g)) return 'Shield';
@@ -204,6 +208,8 @@ function mundaneFiles(dir) {
 }
 const seen = new Set();
 const WEAPON_NAMES = new Set();
+const ENTRY_NAMES = new Set();
+const normName = n => { n = plain(n).toLowerCase().replace(/\s*\(.*?\)\s*/g, ' ').replace(/[’']/g, '').trim(); const m = n.match(/^([^,]+),\s*(.+)$/); return (m ? m[2] + ' ' + m[1] : n).replace(/[^a-z0-9]+/g, ' ').trim().replace(/s$/, ''); };
 const addM = o => { const k = o.u + '#' + o.a + '|' + o.n.toLowerCase(); if (seen.has(k)) return; seen.add(k); items.push(o); };
 
 // weapon pages
@@ -224,7 +230,7 @@ for (const f of fs.readdirSync(WP).filter(n => n.endsWith('.md'))) {
     x: desc.length > 220 ? desc.slice(0, 217) + '…' : desc, b: 'Weapons' });
 }
 
-for (const file of mundaneFiles(EQ).sort()) {
+for (const PASS of [1, 2]) for (const file of mundaneFiles(EQ).sort()) {
   const rel = path.relative(EQ, file).replace(/\\/g, '/');
   if (SKIP_EQ.has(rel) || /^technology-weapons/.test(rel)) continue;
   const lines = fs.readFileSync(file, 'utf8').split('\n');
@@ -242,20 +248,22 @@ for (const file of mundaneFiles(EQ).sort()) {
   const h2At = i => { let h = null; for (const x of heads) { if (x.i < i) { if (x.lvl >= 2 && x.lvl <= 3) h = x; } else break; } return h; };
   const byName = new Map(heads.filter(h => h.lvl >= 3).map(h => [h.text.toLowerCase(), h]));
   // 1) headed entries with a Price / Cost line
-  heads.forEach((h, k) => {
-    if (h.lvl < 3) return;
+  if (PASS === 1) heads.forEach((h, k) => {
+    if (h.lvl < 2) return;
     const end = k + 1 < heads.length ? heads[k + 1].i : lines.length;
     const first = lines.slice(h.i + 1, end).filter(l => l.trim()).slice(0, 3).join(' ; ');
     if (!/\*\*(Price|Cost)\*\*/.test(first) || /\*\*(Aura|CL|Slot)\*\*/.test(first)) return;
     const priceT = field(first, 'Price') || field(first, 'Cost');
     const parent = (() => { let g = null; for (const x of heads) { if (x.i < h.i && x.lvl < h.lvl && x.lvl >= 2) g = x; } return g; })();
     const desc = lines.slice(h.i + 1, end).filter(l => l.trim() && !/^\s*\*\*(Price|Cost|Weight|Type|Proficiency|Damage|Critical|Range|Capacity|Usage|Special|Construction|Requirements)/.test(l)).map(plain).find(l => l.length > 25) || '';
+    const srcL = lines.slice(h.i + 1, end).map(l => l.trim()).reverse().find(l => /^\*Source: /.test(l));
+    ENTRY_NAMES.add(normName(h.text));
     addM({ n: h.text, u: url, a: h.id, t: mundaneType(parent ? parent.text : '', rel, h.text, ''), m: 1,
       ...(priceT ? { pt: priceT, ...(priceNumber(priceT) != null ? { p: priceNumber(priceT) } : {}) } : {}),
-      ...(field(first, 'Weight') ? { w: field(first, 'Weight') } : {}), x: desc.length > 220 ? desc.slice(0, 217) + '…' : desc, b: title });
+      ...(field(first, 'Weight') ? { w: field(first, 'Weight') } : {}), x: desc.length > 220 ? desc.slice(0, 217) + '…' : desc, b: srcL ? plain(srcL).replace(/^Source:\s*/, '').replace(/\.$/, '') : title });
   });
-  // 2) table rows with a price column
-  for (let i = 0; i < lines.length; i++) {
+  // 2) table rows with a price column (skipped when the same item has its own entry)
+  if (PASS === 2) for (let i = 0; i < lines.length; i++) {
     if (!/^\|/.test(lines[i]) || !/^\|[\s:|-]+\|?\s*$/.test(lines[i + 1] || '')) continue;
     const hdr = cellsOf(lines[i]).map(x => plain(x).toLowerCase());
     const pi = hdr.findIndex(x => /^(price|cost|market price|item cost)/.test(x));
@@ -268,7 +276,7 @@ for (const file of mundaneFiles(EQ).sort()) {
       const name = plain(c[0]).replace(/[¹²³⁴⁵⁶⁷⁸⁹⁰†‡*]+$/, '').trim();
       const priceT = plain(c[pi] || '');
       if (name && c.slice(1).every(x => !plain(x) || /^[-—]+$/.test(plain(x)))) { if (mundaneType('', rel, '', name, true)) group = name; continue; }
-      if (/^\+/.test(priceT) || WEAPON_NAMES.has(name.toLowerCase()) || /^(brown|black|white|gray|grey|green|red|blue|orange|yellow|purple|pink|silver|gold|prismatic|average|good|poor|common|squalid|rich)$/i.test(name)) continue;
+      if (/^\+/.test(priceT) || ENTRY_NAMES.has(normName(name)) || WEAPON_NAMES.has(name.toLowerCase()) || /^(brown|black|white|gray|grey|green|red|blue|orange|yellow|purple|pink|silver|gold|prismatic|average|good|poor|common|squalid|rich)$/i.test(name)) continue;
       if (!name || !priceT || /^[-—]+$/.test(name) || /^(item|armor|shields?|weapon|cost|price|light|medium|heavy|simple|martial|exotic)\b.*\b(armor|weapons?|items?)?$/i.test(name) && !priceT.match(/\d/)) continue;
       if (!/\d/.test(priceT) && !/free|varies|see text/i.test(priceT)) continue;
       const own = byName.get(name.toLowerCase());

@@ -16,15 +16,6 @@ A creature must be able to swallow a potion or smear on an oil. Because of this,
 
 A character can carefully administer a potion to an unconscious creature as a full-round action (3 AP), trickling the liquid down the creature’s throat. Likewise, it takes a full-round action (3 AP) to apply an oil to an unconscious creature.
 
-**Table 15–12: Potions**
-
-| Minor | Medium | Major | Spell Level | Caster Level |
-|---|---|---|---|---|
-| 01–20 | — | — | 0 | 1st |
-| 21–60 | 01–20 | — | 1st | 1st |
-| 61–100 | 21–60 | 01–20 | 2nd | 3rd |
-| — | 61–100 | 21–100 | 3rd | 5th |
-
 **Potion Costs**
 
 | Spell Level | Cleric, Druid, Wizard | Sorcerer | Bard | Paladin, Ranger |
@@ -373,3 +364,16 @@ This rectangular glass flask with a gemstone for a cork contains a pale blue liq
 **Construction Requirements:** Craft Wondrous Item, [*blindness/deafness*](../magic/spells/blindness-deafness.md), [*deathwatch*](../magic/spells/deathwatch.md); **Cost** 750 gp
 
 *Source: Player Companion Items, Potions and Poisons Items.*
+
+## Random Item Table
+
+The table used to generate random items of this type, with the price of each.
+
+**Table 15–12: Potions**
+
+| Minor | Medium | Major | Spell Level | Caster Level |
+|---|---|---|---|---|
+| 01–20 | — | — | 0 | 1st |
+| 21–60 | 01–20 | — | 1st | 1st |
+| 61–100 | 21–60 | 01–20 | 2nd | 3rd |
+| — | 61–100 | 21–100 | 3rd | 5th |

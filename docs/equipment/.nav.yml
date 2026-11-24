@@ -11,8 +11,7 @@ nav:
   - goods-acg.md
   - goods-oa.md
   - goods-uw.md
-  - goods-more.md
-  - Goods and Services (UE): goods-ue
+  - Goods by Type: goods
   - weapons.md
   - weapons-eastern-descriptions.md
   - firearm-rules.md
@@ -35,7 +34,6 @@ nav:
   - Elemental Alchemical Items: gear-emh.md
   - Dungeoneering Gear: gear-dhh.md
   - Field Agent Gear: gear-psfg.md
-  - Gear (AG): gear-ag.md
   - Urban Gear: gear-hs.md
   - Intrigue Gear: gear-isi.md
   - Weapon Design: weapon-design.md

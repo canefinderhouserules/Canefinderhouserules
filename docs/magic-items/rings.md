@@ -10,521 +10,9 @@ A character can only effectively wear two magic rings. A third magic ring doesn�
 
 **Special Qualities**: Roll d%. A result of 01 indicates the ring is intelligent, 02–31 indicates that something (a design, inscription, or the like) provides a clue to its function, and 32–100 indicates no special qualities. Intelligent items have extra abilities and sometimes extraordinary powers and special purposes (see [Intelligent Items](intelligent-items.md)). Rings with charges can never be intelligent.
 
-**Table 15–13: Rings**
-
-| Minor | Medium | Major | Ring | Market Price |
-|---|---|---|---|---|
-| 01–18 | — | — | Protection +1 | 2,000 gp |
-| 19–28 | — | — | Feather falling | 2,200 gp |
-| 29–36 | — | — | Sustenance | 2,500 gp |
-| 37–44 | — | — | Climbing | 2,500 gp |
-| 45–52 | — | — | Jumping | 2,500 gp |
-| 53–60 | — | — | Swimming | 2,500 gp |
-| 61–70 | 01–05 | — | Counterspells | 4,000 gp |
-| 71–75 | 06–08 | — | Mind shielding | 8,000 gp |
-| 76–80 | 09–18 | — | Protection +2 | 8,000 gp |
-| 81–85 | 19–23 | — | Force shield | 8,500 gp |
-| 86–90 | 24–28 | — | Ram, the | 8,600 gp |
-| — | 29–34 | — | Climbing, improved | 10,000 gp |
-| — | 35–40 | — | Jumping, improved | 10,000 gp |
-| — | 41–46 | — | Swimming, improved | 10,000 gp |
-| 91–93 | 47–50 | — | Animal friendship | 10,800 gp |
-| 94–96 | 51–56 | 01–02 | Energy resistance, minor | 12,000 gp |
-| 97–98 | 57–61 | — | Chameleon power | 12,700 gp |
-| 99–100 | 62–66 | — | Water walking | 15,000 gp |
-| — | 67–71 | 03–07 | Protection +3 | 18,000 gp |
-| — | 72–76 | 08–10 | Spell storing, minor | 18,000 gp |
-| — | 77–81 | 11–15 | Invisibility | 20,000 gp |
-| — | 82–85 | 16–19 | Wizardry (I) | 20,000 gp |
-| — | 86–90 | 20–25 | Evasion | 25,000 gp |
-| — | 91–93 | 26–28 | X-ray vision | 25,000 gp |
-| — | 94–97 | 29–32 | Blinking | 27,000 gp |
-| — | 98–100 | 33–39 | Energy resistance, major | 28,000 gp |
-| — | — | 40–49 | Protection +4 | 32,000 gp |
-| — | — | 50–55 | Wizardry (II) | 40,000 gp |
-| — | — | 56–60 | Freedom of movement | 40,000 gp |
-| — | — | 61–63 | Energy resistance, greater | 44,000 gp |
-| — | — | 64–65 | Friend shield (pair) | 50,000 gp |
-| — | — | 66–70 | Protection +5 | 50,000 gp |
-| — | — | 71–74 | Shooting stars | 50,000 gp |
-| — | — | 75–79 | Spell storing | 50,000 gp |
-| — | — | 80–83 | Wizardry (III) | 70,000 gp |
-| — | — | 84–86 | Telekinesis | 75,000 gp |
-| — | — | 87–88 | Regeneration | 90,000 gp |
-| — | — | 89–91 | Spell turning | 100,000 gp |
-| — | — | 92–93 | Wizardry (IV) | 100,000 gp |
-| — | — | 94 | Three wishes | 120,000 gp |
-| — | — | 95 | Djinni calling | 125,000 gp |
-| — | — | 96 | Elemental command (Air) | 200,000 gp |
-| — | — | 97 | Elemental command (Earth) | 200,000 gp |
-| — | — | 98 | Elemental command (Fire) | 200,000 gp |
-| — | — | 99 | Elemental command (Water) | 200,000 gp |
-| — | — | 100 | Spell storing, major | 200,000 gp |
-
 Every entry below says which book it comes from. Use the [Item Search](../tools/item-search.md) to filter by price, caster level, aura and more.
 
-## B
-
-### Band of Efficacious Death
-
-**Slot** ring; **CL** 3rd; **Price** 9,250 gp; **Weight** —
-
-**Aura** faint necromancy
-
-This golden ring is set with a large, almost gaudy onyx that can open to reveal a hidden compartment with just enough room for a single dose of powdered poison. This ring provides a +2 competence bonus on Sleight of Hand checks to conceal this poison on the wearer's body. In addition, the ring contains four charges that recharge each day. When drawing a poison from the band of efficacious death, the wearer can tap the onyx up to four times to increase the frequency of the poison by 1 increment per tap. For example, if the poison's frequency were 1/round for 2 rounds, by touching the onyx once, the frequency would become 1/round for 3 rounds.
-
-**Construction Requirements:** Craft Wondrous Item, [*pernicious poison*](../magic/spells/pernicious-poison.md); **Cost** 4,625 gp
-
-*Source: Player Companion Items, Potions and Poisons Items.*
-
-### Band of Toxin Nullification
-
-**Slot** ring; **CL** 9th; **Price** 8,500 gp; **Weight** —
-
-**Aura** moderate necromancy
-
-This platinum band has a smoky quartz set neatly into it. Once per day, the wearer can speak a command word and place the quartz on her skin as a full-round action (3 AP) to siphon a single dose of poison from her body and into the quartz, rendering the poison inert. This effect can be used only after the wearer has been poisoned.
-
-**Construction Requirements:** Craft Wondrous Item, [*absorb toxicity*](../magic/spells/absorb-toxicity.md); **Cost** 4,250 gp
-
-*Source: Player Companion Items, Potions and Poisons Items.*
-
-### Band of Triumph
-
-**Aura** strong enchantment and evocation; **CL** 13th  
-**Slot** ring; **Price** 50,000 gp; **Weight** —
-
-This white-gold ring bears the relief image of a roaring lion. Once per day on command, the wearer can point the ring and mentally designate one or more creatures or objects in a 60-foot cone as enemies, after which the ring roars triumphantly. Selected targets in the area are affected by shout (Fortitude DC 20). All other objects in the area are unharmed, and all other creatures in the area receive the benefits of the inspire courage bardic performance as performed by a 7th-level bard for 3 rounds. When activating the ring, the wearer can expend 1 round of her bardic performance ability to use her own bard level to calculate the performance’s effect.
-
-In addition, the ring grants the wearer a +4 enhancement bonus to Charisma; treat this as a temporary ability bonus for the first 24 hours the ring is worn. Construction
-
-**Requirements** Forge Ring, eagle’s splendor, good hope, shout; **Cost** 25,000 gp
-
-*Source: Rings, Ring Descriptions.*
-
-### Bloodletting Thimble
-
-**Slot** ring; **CL** 3rd; **Price** 2,000 gp; **Weight** —
-
-**Aura** faint enchantment
-
-This platinum thimble, intricately crafted in the shape of an animal claw, is worn on one finger. A vampire wearer can use the thimble to inflict a tiny wound as part of the use of a blood drain, energy drain, or drain chi ability; use of the thimble in this way isn't an action. This wound deals no additional damage, but it turns the target's pain to pleasure. The target must succeed at a DC 14 Will save or become fascinated by the wearer and make no attempt to resist the draining on that round and the following 2 rounds. At the end of this time, the creature's senses return and it can react accordingly.
-
-**Construction Requirements:** Forge Ring, [*enthrall*](../magic/spells/enthrall.md); **Cost** 1,000 gp
-
-*Source: Monster Codex Items, Vampires.*
-
-## C
-
-### Cannibal Ring
-
-**Aura** strong transmutation; **CL** 16th  
-**Slot** ring; **Weight** —
-
-This simple and unadorned copper ring appears slightly tarnished, but seemingly wards off the effects of hunger or other sorts of deprivation; all tests reveal it to be a ring of sustenance. However, after wearing it for 7 days, its owner instead comes to suffer from almost constant hunger and thirst, which, if not sated, ultimately drives him mad enough to become a cannibal. The wearer must eat and drink a full day’s worth of food and water each hour to avoid making a starvation or thirst check. Once the wearer starts to take lethal damage instead of nonlethal damage due to failed checks, he begins to experience ever more powerful cravings for the flesh of intelligent creatures (any living creature with an Intelligence of 3 or higher).
-
-Once the wearer feasts in such a manner, he recovers all nonlethal damage sustained from hunger and thirst, though he continues to suffer lethal damage on failed starvation and thirst checks. The next time he is in a situation in which he could eat part of an intelligent being, he must make a DC 15 Will save or dine on the forbidden meat. If the wearer succumbs to this urge again, he recovers all lethal damage from failed starvation and thirst checks, and realizes cannibalism is the key to avoiding the increased hunger and thirst—on any day he eats at least one meal of flesh from an intelligent creature, he does not have to make hourly starvation and thirst checks, and recovers any accumulated damage from failing these checks. Once its curse activates, the ring cannot be removed until the curse is broken.
-
-**Base item** ring of sustenance
-
-*Source: Advanced Player's Guide Cursed Items.*
-
-### Chatter Ring
-
-**Aura** faint divination; **CL** 3rd  
-**Slot** ring; **Weight** —
-
-This ring appears as a normal [ring of eloquence](rings-acg.md), with four different languages (usually Common, Dwarven, Elven, and Gnome) etched around the inside of a silver band, and the wearer of a chatter ring gains the ability to speak the four languages inscribed in the ring. However, the difference between a chatter ring and a normal ring of eloquence quickly becomes apparent when the wearer speaks, as he becomes overwhelmingly talkative. The wearer takes a –2 penalty on Bluff, Diplomacy, Disguise, Perform (oratory), and Stealth checks. The ring can be removed only after the wearer benefits from a [*remove curse*](../magic/spells/remove-curse.md) spell or similar effect.
-
-**Intended Magic Item** *ring of eloquence*
-
-*Source: Player Companion Items, Antihero Cursed Items.*
-
-### Commander’s Signet
-
-**Aura** moderate abjuration and illusion **CL** 6th
-
-**Slot** ring; **Price** 14,500 gp; **Weight** —
-
-This ornate *ring of protection +2* is emblazoned with a winged eye, emblem of the old dead god in ruby and jet. The wearer of a *commander’s signet* projects an air of commanding authority that affects large groups; the wearer does not treat crowds as difficult terrain and gains a +5 competence bonus on Diplomacy or Intimidate checks to direct or influence crowds. The wearer can also cast [*magic mouth*](../magic/spells/magic-mouth.md) at will, but the message trigger must be “upon seeing a creature wearing the city watch’s badge”.
-
-**Construction**
-
-**Requirements** Forge Ring, [*eagle’s splendor*](../magic/spells/eagles-splendor.md),* magic mouth*,* shield of faith*; **Cost** 7,750 gp
-
-*Source: Adventure Items.*
-
-### Commander’s Signet
-
-**Aura** moderate abjuration and illusion; **CL** 6th  
-**Slot** ring; **Price** 14,500 gp; **Weight** —
-
-This ornate ring of protection +2 is emblazoned with a winged eye in ruby and jet. The wearer of a commander’s signet projects an air of commanding authority that affects large groups; the wearer does not treat crowds as difficult terrain and gains a +5 competence bonus on Diplomacy or Intimidate checks to direct or influence crowds. The wearer can also cast magic mouth at will, but the message trigger must be “upon seeing a creature wearing the Eye of the last god” (which triggers the magic mouth for any dottari in uniform). Construction
-
-**Requirements** Forge Ring, eagle's splendor, magic mouth, shield of faith; **Cost** 7,750 gp
-
-*Source: Rings, Ring Descriptions.*
-
-### Communique Rings
-
-**Aura** moderate transmutation; **CL** 6th  
-**Slot** ring; **Price** 6,000 gp; **Weight** —
-
-Created in pairs, these simple golden rings allow for short-range communication between the wearers. The listed price and cost are for both rings. As long as the wearers are within 1 mile of one another, they can communicate by whispering, causing the other ring to whisper the words to the recipient. Words spoken into or recited by a *communique ring* can be heard by nearby creatures if the wearer speaks too loudly. A *communique ring* transmits sound only while worn, and a wearer can remove the ring if she needs to be silent. Only magical silence or distance will block this communication, and wearers can speak through walls and other obstructions normally. The rings pick up only sound directly spoken into them by the wearer with the intent to transmit, not ambient sounds or the voices of other creatures.
-
-**Requirements** Forge Ring, [*message*](../magic/spells/message.md); **Cost** 3,000 gp
-
-*Source: Ultimate Intrigue Rings.*
-
-### Contract Rings
-
-**Slot** ring; **CL** 7th; **Price** 8,500 gp (pair); **Weight** —
-
-**Aura** moderate enchantment
-
-Contract rings are crafted in pairs (the price is for both rings), establishing a connection between the wearers. Each wearer must wear their ring for 24 hours before they begin to work. Contract rings grant a +10 competence bonus on Sense Motive checks made against the other wearer, and creatures wearing linked contract rings can understand each other's language.
-
-Once per day, contract rings can seal a contract. The two wearers join hands and willingly state what each is agreeing to. Once both agree, each wearer accepts a [*lesser geas*](../magic/spells/geas-lesser.md) (no save) to fulfill the terms of the contract. This function does not occur if either character is under a mind-affecting effect or threat that forces her agreement. This compulsion lasts 7 days, starting immediately. While the *lesser geas* remains in effect, neither wearer can remove her ring, and neither ring can establish another *lesser geas*. If either ring is destroyed, the effects of any active *lesser geas* remain for both creatures, but the surviving ring becomes nonfunctional once the *lesser geas* expires until the missing ring is repaired or replaced. If one wearer's *lesser geas* is broken, the other wearer's is removed.
-
-**Construction Requirements:** Forge Ring, [*detect thoughts*](../magic/spells/detect-thoughts.md), [*lesser geas*](../magic/spells/geas-lesser.md), [*share language*](../magic/spells/share-language.md); **Cost** 4,250 gp
-
-*Source: Player Companion Items, Allies and Hirelings.*
-
-## D
-
-### Dark Life Ring
-
-**Aura** faint necromancy **CL** 3rd
-
-**Slot** ring; **Price** 1,250 gp; **Weight** —
-
-Mortal blacksmiths residing in the undead-realm city of a grim city created the first *dark life rings*. Too often had these living unfortunates suffered collateral damage from the negative energy effects used daily in the streets of the undead-ruled city, so they forged these rings in hopes of mitigating at least some of the harm their unliving rulers carelessly inflicted upon them. Before the Blood Lords at their capital could punish the insolent smiths of a grim city, the* dark life rings* and their imitators made their way into the wider world.
-
-A *dark life ring* grants its wearer a +2 profane bonus on Will saving throws against channeled negative energy and inflict spells (any spell with “inflict” in its name). In addition, anytime the wearer takes damage from channeled negative energy or an inflict spell, she subtracts 5 from the damage taken (calculated after the wearer has rolled her Will save against the effect), to a minimum of 0 points of damage.
-
-**Construction**
-
-**Requirements** Forge Ring, [*death ward*](../magic/spells/death-ward.md); **Cost** 625 gp
-
-*Source: Adventure Items.*
-
-### Deadeye’s Spotter Ring
-
-**Aura** faint transmutation **CL** 5th
-
-**Slot** ring; **Price** 1,500 gp; **Weight** —
-
-This ring is carved from a single, thick antler and fashioned into the shape of a regal elk’s head. The wearer gains a +2 competence bonus on Perception and Survival checks. Once per day, the wearer can use [*animal messenger*](../magic/spells/animal-messenger.md).
-
-**Construction**
-
-**Requirements** Forge Ring, [*animal messenger*](../magic/spells/animal-messenger.md), creator must have 2 ranks in Perception and Survival; **Cost** 750 gp
-
-*Source: Adventure Items.*
-
-### Decoy Ring
-
-**Aura** moderate illusion; **CL** 11th  
-**Slot** ring; **Price** 12,000 gp; **Weight** —
-
-This ring is a thick loop of mirrorlike metal. Whenever the wearer of this ring takes the withdraw action or becomes helpless (including falling unconscious), it instantly makes her invisible for 3 rounds and creates four illusory duplicates that either run off in opposite directions or perform other plausible actions that could draw enemy attention away from her. The duplicates last for 3 rounds before disappearing, but they instantly pop out of existence if struck by an attack (AC 10) and can be disbelieved (Will DC 19). Allies of the wearer always know her true location and can freely provide aid or assistance to her.
-
-**Requirements** Forge Ring, [*mislead*](../magic/spells/mislead.md); **Cost** 6,000 gp
-
-*Source: Ultimate Equipment Rings.*
-
-### Dungeon Ring
-
-**Aura** moderate divination; **CL** 8th  
-**Slot** ring; **Price** 16,000 gp (jailer’s ring), 250 gp (prisoner’s ring); **Weight** —
-
-A jailer’s dungeon ring is worked gold, set with a carnelian. The ring is magically attuned to one or more iron prisoner’s dungeon rings. When the wearer of a jailer’s ring places a prisoner’s ring on a subject, the prisoner cannot remove the ring without the use of a remove curse, limited wish, miracle, or wish spell. The wearer of the jailer’s ring can also remove a linked prisoner’s ring at any time.
-
-The jailer is aware of any wearer of a linked prisoner’s ring like a constant status spell. Additionally, all wearers of linked prisoner’s rings count as familiar to the jailer for purposes of spells such as scrying and teleport.
-
-**Requirements** Forge Ring, scrying, status; **Cost** 8,000 gp (jailer’s ring), 125 gp (prisoner’s ring)
-
-*Source: Advanced Player's Guide Rings.*
-
-## E
-
-### Elemental Ring
-
-**Slot** ring; **CL** 15th; **Price** 30,000 gp; **Weight** 1 lb.
-
-**Aura** strong conjuration
-
-This ornate ring has a thick iron band covered in sigils of calling, and is set with a large glowing gemstone that appears to be an elemental gem. The ring serves as a gateway for a specific elder elemental (25% chance each for air, earth, fire, or water) that performs a narrow range of services when called. When activated with a command word, the elemental is called (as by [*greater planar ally*](../magic/spells/planar-ally-greater.md)) and demands to know what service it is to perform. It can only be commanded to protect a specific creature or object, attack a specific creature, damage a specific object, or answer questions about its home plane. The wearer of the ring is able to communicate with the elder elemental as if they shared a common language. The elder elemental serves for no more than 24 hours, after which it returns to its home plane and the ring becomes a valueless hunk of lead.
-
-**Construction Requirements:** Forge Ring, [*planar ally*](../magic/spells/planar-ally.md), [*planar binding*](../magic/spells/planar-binding.md); **Cost** 15,000 gp
-
-*Source: Player Companion Items, Planar Binding Items.*
-
-## F
-
-### Fool's Malady
-
-**Slot** ring; **CL** 3rd; **Price** 900 gp; **Weight** —
-
-**Aura** faint transmutation
-
-This simple lead ring is carved with a twisting face. When worn, the ring causes a wearer to develop a single deformity over the course of 1 minute. The exact malformation is determined when the ring is forged and can't be changed. It modifies the wearer's appearance rather than changing it entirely; those familiar with her normal appearance can easily recognize her in the modified form. Many of these rings mimic the symptoms of terrible diseases, while others mimic birth conditions, extensive scarring, or tattoos.
-
-If the creature wearing a *fool's malady* already has the deformity the ring mimics, the ring instead removes all visual traces of the condition. The ring does not remove any pain or penalties associated with the condition.
-
-**Construction Requirements:** Forge Ring, [*alter self*](../magic/spells/alter-self.md); **Cost** 450 gp
-
-*Source: Villain Codex Items, Carnival Troupe.*
-
-## G
-
-### Ghost Battling Ring
-
-**Aura** faint illusion, necromancy, and transmutation **CL** 5th
-
-**Slot** ring; **Price** 13,000 gp; **Weight** —
-
-This silver ring is engraved with a skull flanked by twin hourglasses. It functions as a *ring of the grasping grave*. In addition, the wearer can use* ghostly disguise* and* haste* each once per day.
-
-**Construction**
-
-**Requirements** Forge Ring, [*ghostly disguise*](../magic/spells/ghostly-disguise.md),* haste*,* sculpt corpse*; **Cost** 6,500 gp
-
-*Source: Adventure Items.*
-
-### Glorious Flame Ring
-
-**Aura** faint evocation **CL** 5th
-
-**Slot** ring; **Price** 5,400 gp; **Weight** —
-
-This richly colored, burnished brass ring appears to be crimson red, sunset orange, or golden yellow depending on how it is held. Clerics of the goddess of the sun and redemption prize *glorious flame rings* as facets through which they may channel their deity’s divine will. Once per day, the wearer may speak the ring’s command word to create a 5-foot-radius burst of flame centered on herself. This burst of flame deals 1d6 points of damage to any adjacent creatures (Reflex DC 14 halves), though the wearer is safe from this effect.
-
-If the wearer is capable of channeling positive energy, she may as a standard action (1 AP) expend one use of channeled energy to activate the ring’s burst of flame, even if she has already spoken the ring’s command word for the day. If the wearer also has the Selective Channeling feat, she may select a number of allies equal to her Charisma modifier to exclude from the burst of flame; these allies are not affected by the flame. This effect is otherwise identical to creating the ring’s burst of flame by speaking the command word.
-
-**Construction**
-
-**Requirements** Forge Ring, Selective Channeling, *elemental aura (fire)*, creator must be able to channel positive energy; **Cost** 2,700 gp
-
-*Source: Adventure Items.*
-
-### Gluttonous Feasting Ring
-
-**Aura** faint necromancy and transmutation **CL** 5th
-
-**Slot** ring; **Price** 5,000 gp; **Weight** —
-
-This ring is carved from the flat part of a human skull and inscribed along the edge with images of skeletons at a banquet. Any food the wearer eats or drinks is automatically cleansed as if by [*purify food and drink*](../magic/spells/purify-food-and-drink.md). Once per day after eating an extravagant meal (typically one worth at least 10 gp), the wearer gains the benefit of* false life*.
-
-**Construction**
-
-**Requirements** Forge Ring, [*false life*](../magic/spells/false-life.md),* purify food and drink*; **Cost** 2,500 gp
-
-*Source: Adventure Items.*
-
-### Guiding Ring of the Toil God
-
-**Aura** faint enchantment; **CL** 3rd  
-**Slot** ring; **Price** 2,600 gp; **Weight** —
-
-This gold ring is misshapen and uncomfortable to wear for long periods of time; inscribed on it is a crude symbol of a fire burning under an arch. Once per day, the wearer may use charm person. If the god of toil is the wearer’s patron deity, any time the wearer crafts a magic item, she may choose to pay half of the item’s construction cost instead of the full cost. The wearer spends time working on the item normally, but at the time of completion there is a 50% chance that the item turns out nonmagical and worthless. For example, if creating a magic bracer that normally costs 1,000 gp to craft, the wearer may craft it for only 500 gp, but there is a 50% chance the wearer’s shortcuts and cheap materials result in a valueless, nonfunctional item. Construction
-
-**Requirements** Craft Wondrous Item, charm person, fabricate; **Cost** 1,300 gp
-
-*Source: Rings, Ring Descriptions.*
-
-## H
-
-### Heavenly Aegis Ring
-
-**Aura** moderate evocation [good]; **CL** 10th  
-**Slot** ring; **Price** 16,000 gp; **Weight** —
-
-The surface of this silver ring never tarnishes, but when an evil creature is wearing it, its luster diminishes. Whenever the wearer takes the total defense action, he can activate the ring, creating a [*magic circle against evil*](../magic/spells/magic-circle-against-evil.md) effect centered on him. This effect lasts 10 rounds per day, though the rounds don’t need to be spent consecutively. Once activated, the effect expends rounds until the user ends it as a move action (1 AP) or the rounds run out.
-
-As a standard action (1 AP) while the magic circle is active, the wearer can release the protective circle’s energy as a violent blast. This functions as [*holy smite*](../magic/spells/holy-smite.md) centered on the wearer, but the wearer can exclude a 10-foot-radius area from the center of the affected area. Releasing the energy expends all the ring’s remaining rounds and can be done only if at least 5 rounds remain. The ring’s power renews each day at dawn.
-
-**Requirements** Forge Ring, [*holy smite*](../magic/spells/holy-smite.md), [*magic circle against evil*](../magic/spells/magic-circle-against-evil.md); **Cost** 8,000 gp
-
-*Source: Horror Adventures Rings.*
-
-### Holdout Ring
-
-*Aura* moderate transmutation; *Slot* ring; *Price* 11,000 gp; *Weight* —
-
-Made of aged bronze and steel, this ring looks like it should have a gem set in it, but instead has an empty circular hole. The hole in the ring holds a single firearm bullet; if one is placed inside (as a full-round action (3 AP)), it merges seamlessly into the ring. While a bullet is merged into the ring, the wielder can fire the bullet as though she were using a +1 *pistol* that can't misfire. Once the bullet has been fired from the ring, a new bullet can't be placed inside for 24 hours.
-
-Each holdout ring is created with two +1 ammunition special abilities and one +2 ammunition special ability. If the wearer has the grit class feature, she can expend grit (maximum 4 grit points) to imbue bullets merged with the gun with one or more of these abilities. Imbuing a bullet with a +1 special ability costs 1 grit point; imbuing one with a +2 special ability costs 2 grit points. Each ring's special abilities are established upon the item's creation and can't be changed. If a special ability has multiple versions, as does *bone*, the specific version must be set at that time (for example, *dragon bone*). A typical holdout ring has the *flaming*, *seeking*, and *shocking burst* special abilities.
-
-*Construction* *Requirements* Forge Ring, [*magic weapon*](../magic/spells/magic-weapon.md), [*telekinesis*](../magic/spells/telekinesis.md), creator must meet the requirements for the ammunition special abilities that can be imbued by the ring; *Cost* 5,500 gp
-
-*Source: Regional Combat Items, Rings, Rods, and Wondrous Items.*
-
-## I
-
-### Ironbound Ring
-
-*Aura* faint abjuration and enchantment; *CL* 5th; *Slot* ring; *Price* 8,000 gp (master’s ring), 500 gp (minion’s ring); *Weight* —
-
-While holding one or more minion’s ironbound rings, the wearer of a master’s ironbound ring can impart instructions of 50 words or fewer to each minion’s ironbound ring. The wearer of a minion’s ironbound ring can recall the instructions at will and is aware of any action that would cause him to act against those instructions. The DC of any skill check attempted to force the wearer to abandon, misinterpret, or consciously fail the instructions increases by 5, such as for Bluff checks to trick the wearer or Intimidate checks to interrogate him. The wearer gains a +3 resistance bonus on Will saves to resist spells and effects that would force him to act against the instructions, such as [*dominate person*](../magic/spells/dominate-person.md) and [*suggestion*](../magic/spells/suggestion.md).
-
-*Construction* *Requirements* Forge Ring, [*resistance*](../magic/spells/resistance.md), [*suggestion*](../magic/spells/suggestion.md); *Cost* 4,000 gp (master’s ring), 250 gp (minion’s ring)
-
-*Source: Adventurer’s Guide Items, Mercantile Consortium.*
-
-## K
-
-### Kyton Ring
-
-**Aura** moderate conjuration; **CL** 7th  
-**Slot** ring; **Price** 1,000 gp; **Weight** —
-
-This rusty iron ring looks like a twisted chain. On command, the ring can produce a rusty, clanky length of iron chain (hardness 10, 5 hp, break DC 26). The ring can create no more than 100 feet of chain in this way. This total length can be split among many uses, but must be spent in 10-foot increments. When the ring’s daily allotment of chain is renewed, any previously conjured chain rusts away. Once per day as a standard action (1 AP), the user can shoot a chain from the ring as though it were a grappling hook, except the range increment is 50 feet. Whatever length of chain she shoots out counts against ring’s daily allotment.
-
-**Requirements** Forge Ring, [*major creation*](../magic/spells/major-creation.md); **Cost** 500 gp
-
-*Source: Horror Adventures Rings.*
-
-## M
-
-### Magic-God Ring of Minor Spell Storing
-
-**Aura** moderate abjuration and transmutation [chaotic, evil, good, lawful] **CL** 5th
-
-**Slot** ring; **Price** 20,000 gp; **Weight** —
-
-This ring is made of several metals hammered together into a mottled pattern, with the god of magic’s holy symbol stamped on one end. It functions as a *ring of minor spell storing*, except domain spells from the god of magic’s domains count as 1 spell level lower (minimum 1st level) for the purpose of storing them in the ring.
-
-**Construction**
-
-**Requirements** Forge Ring, [*imbue with spell ability*](../magic/spells/imbue-with-spell-ability.md); **Cost** 10,000 gp
-
-*Source: Adventure Items.*
-
-### Maintenance Overseer's Ring
-
-**Aura** faint divination; **CL** 4th  
-**Slot** ring; **Price** 8,000 gp; **Weight** —
-
-This tarnished signet is marked as belonging to a specific city no smaller than a large town, though it functions in any settlement of at least that size. After spending 5 days in a settlement with the maintenance overseer’s ring equipped, its wearer learns a great deal about the schematics of any sewers, tunnels, basements, and passages beneath the settlement. This knowledge is not necessarily absolute, but allows the wearer to act as though trained in Knowledge (dungeoneering) when answering questions about the settlement’s underground with a +5 bonus on all such checks.
-
-A maintenance overseer’s ring also grants the wearer an automatic Perception check to notice secret doors within 10 feet in any area beneath street level of a city to which the ring is attuned. A wearer who already receives a Perception check to perceive a secret door (such as a dwarf using stonecunning) rolls her Perception check twice and takes the better result. Construction
-
-**Requirements** Forge Ring, create treasure map; **Cost** 4,000 gp
-
-*Source: Rings, Ring Descriptions.*
-
-### Maintenance Overseer’s Ring
-
-*Aura* faint divination; *CL* 4th; *Slot* ring; *Price* 8,000 gp; *Weight* —
-
-This tarnished signet is marked as belonging to a specific city no smaller than a large town, though it functions in any settlement of at least that size. After spending 5 days in a settlement with the maintenance overseer’s ring equipped, its wearer learns a great deal about the schematics of any sewers, tunnels, basements, and passages beneath the settlement. This knowledge is not necessarily absolute, but allows the wearer to act as though trained in Knowledge (dungeoneering) when answering questions about the settlement’s underground with a +5 bonus on all such checks.
-
-A maintenance overseer’s ring also grants the wearer an automatic Perception check to notice secret doors within 10 feet in any area beneath street level of a city to which the ring is attuned. A wearer who already receives a Perception check to perceive a secret door (such as a dwarf using stonecunning) rolls her Perception check twice and takes the better result.
-
-*Construction* *Requirements* Forge Ring, [*create treasure map*](../magic/spells/create-treasure-map.md); *Cost* 4,000 gp.
-
-*Source: Street Items.*
-
-## O
-
-### Ophidian Coil
-
-**Aura** faint transmutation **CL** 5th
-
-**Slot** ring; **Price** 15,000 gp; **Weight** —
-
-This small wooden ring resembles a serpent with tiny gemstone eyes coiling around the wearer’s finger. If worn for 24 hours, it causes its wearer to manifest many serpentine traits. The wearer’s skin develops a faint, diamond-shaped pattern, and the pupils of her eyes elongate. The wearer grows a pair of fangs, gaining a bite attack as a primary natural attack that deals 1d4 points of piercing damage for a Medium wearer or 1d3 points of damage for a Small wearer.
-
-Three times per day as a free action, the wearer of the ring may cause her fangs to drip with venom, making her bite attack poisonous for 1 round. The save DC of this poison is equal to 10 + 1/2 the wearer’s Hit Dice + the wearer’s Constitution modifier, but otherwise acts as black adder venom. If the wearer rolls a natural 1 on an attack with her poisonous bite, she is exposed to the poison.
-
-Once per day as a standard action (1 AP), the wearer may command her tongue to lengthen and become forked for 1 minute, gaining the scent special ability. While this ability is active, the wearer has a 20% chance of failure when casting any spell with a verbal component, as the tongue makes it difficult to speak.
-
-The ring makes its wearer more sensitive to cold. She takes a –2 penalty to saves against spells with the cold descriptor and the effects of cold weather. Additionally, if the wearer is successfully affected by a spell with the cold descriptor, she is slowed for 1 round.
-
-**Construction**
-
-**Requirements** Forge Ring, [*beast shape I*](../magic/spells/beast-shape-i.md), [*poison*](../magic/spells/poison.md); **Cost** 7,500 gp
-
-*Source: Adventure Items.*
-
-## P
-
-### Plague Prophet's Ring
-
-**Aura** strong divination and necromancy (evil); **CL** 20th; **Slot** ring; **Weight** —
-
-On donning the ring the wearer becomes the host of an infectious disease (the Mark of the Prophet) but is immune to its effects. Any creature that physically contacts the wearer (or one afflicted by the disease) must succeed at a Fortitude save or be infected. The disease deals 1d4 points of ability damage to the wearer's highest ability score (or her choice in case of a tie) on the victim. The save DC is 10 + the wearer's Hit Dice + her Charisma modifier. It can be cured as normal; creatures immune to disease are immune to it but gain none of the ring's abilities.
-
-Every infected creature becomes a potential host for the wearer's senses. The wearer always knows how many creatures are infected and can detect any one of them as a standard action (1 AP) as per [*status*](../magic/spells/status.md). By concentrating 1 minute she can see and hear through any infected individual's senses (as [*clairaudience/clairvoyance*](../magic/spells/clairaudience-clairvoyance.md)), remaining dimly aware of her surroundings, and can end it as an immediate action (1 AP of your next turn). She may do this any number of times per day. Once per day she can either cure any number of infected individuals within 300 feet or force them to make an additional save against the disease at a –5 penalty. Removing the ring or killing the wearer instantly cures all creatures afflicted by the disease.
-
-**Destruction** The ring shatters if the dread patron of pestilence it is bound to is slain. Alternatively, it is destroyed if a creature immune to disease wears it and casts [*remove disease*](../magic/spells/remove-disease.md) on at least one victim of every different disease known to the world.
-
-*Source: Artifacts and Legends.*
-
-### Planefarer's Band
-
-*Aura* moderate transmutation; *CL* 10th; *Slot* ring; *Price* 30,000 gp; *Weight* —
-
-Once per day, the wearer can attune this ring to one of the four Elemental Planes for 24 hours. While on that plane, the ring grants the wearer the benefits below. Once per day on command, the wearer can gain these benefits even when on a different plane, but the effects last only 10 minutes.
-
-- **Plane of Air**: A fly speed of 20 feet (average) and a +4 insight bonus on Wisdom checks to change the direction of gravity in an area with the subjective gravity planar trait.
-- **Plane of Earth**: Darkvision 60 feet, and the wearer can walk across rock, metal, and other earthen surfaces as if under [*spider climb*](../magic/spells/spider-climb.md).
-- **Plane of Fire**: Fire resistance 20, and the wearer can walk atop lava, bubbling tar, and other dangerously hot surfaces as if under [*water walk*](../magic/spells/water-walk.md).
-- **Plane of Water**: The wearer can breathe underwater and gains a swim speed of 40 feet.
-
-*Construction* Forge Ring, [*planar adaptation*](../magic/spells/planar-adaptation.md); Cost 15,000 gp.
-
-*Source: Planar Items.*
-
-### Planefarer's Band
-
-**Aura** moderate transmutation; **CL** 10th  
-**Slot** ring; **Price** 30,000 gp; **Weight** —
-
-Once per day, the wearer of this ring can attune it to one of the four Elemental Planes for 24 hours. While on that plane, the ring grants the wearer the corresponding benefits below. Once per day on command, the wearer can gain these benefits even when on a different plane, but the effects last only 10 minutes.
-
-Plane of Air: The wearer gains a fly speed of 20 feet (average) and gains a +4 insight bonus on Wisdom checks to change the direction of gravity in an area with the subjective gravity planar trait.
-
-Plane of Earth: The wearer gains darkvision with a range of 60 feet, and she can walk across rock, metal, and other earthen surfaces as if under the effects of spider climb.
-
-Plane of Fire: The wearer gains fire resistance 20 and is able to walk atop lava, bubbling tar, and other dangerously hot surfaces as if under the effects of water walk.
-
-Plane of Water: The wearer can breathe underwater and gains a swim speed of 40 feet. Construction
-
-**Requirements** Forge Ring, planar adaptation; **Cost** 15,000 gp
-
-*Source: Rings, Ring Descriptions.*
-
-### Profane Seal Signet
-
-**Aura** faint abjuration, enchantment, and universal **CL** 5th
-
-**Slot** ring; **Price** 3,000 gp; **Weight** —
-
-This ring is made of red gold with a single ruby cut into a pentagon shape. It functions as a *ring of protection +1*. In addition, the wearer may use* arcane mark* at will, but only on objects and willing creatures. Once per day, the wearer may use* wrath*.
-
-**Construction**
-
-**Requirements** Forge Ring, [*arcane mark*](../magic/spells/arcane-mark.md),* shield of faith*,* wrath*, creator must be at least 3rd level; **Cost** 1,500 gp
-
-*Source: Adventure Items.*
-
-## R
-
-### Red Hound Ring
-
-**Aura** faint abjuration, conjuration, and transmutation **CL** 5th
-
-**Slot** ring; **Price** 4,700 gp; **Weight** —
-
-This white gold ring is engraved with the images of a mastiff and a thundercloud. It functions as a *ring of protection +1*. In addition, once per day, the wearer may use* summon monster I* to summon a red mastiff (use statistics for a celestial dog). Additionally, once per day the wearer may use* beast shape I* to transform into a Small red mastiff.
-
-**Construction**
-
-**Requirements** Forge Ring, [*beast shape I*](../magic/spells/beast-shape-i.md),* shield of faith*,* summon monster I*, creator must be at least 3rd level; **Cost** 2,350 gp
-
-*Source: Adventure Items.*
+## A
 
 ### Ring of Adept Maneuvers
 
@@ -598,6 +86,8 @@ A dozen tiny gemstones line the outer edges of this golden ring. As long as one 
 
 *Source: Player Companion Items, Merchant Wearables.*
 
+## B
+
 ### Ring of Balanced Grip
 
 *Aura* moderate transmutation; *CL* 7th; *Slot* ring; *Price* 1,600 gp; *Weight* —
@@ -607,6 +97,53 @@ This sturdy ring allows the user to ignore the nonproficiency penalty for using 
 *Construction* Forge Ring, [*masterwork transformation*](../magic/spells/masterwork-transformation.md); Cost 800 gp.
 
 *Source: Improvised Weapon Magic Items.*
+
+### Band of Efficacious Death
+
+**Slot** ring; **CL** 3rd; **Price** 9,250 gp; **Weight** —
+
+**Aura** faint necromancy
+
+This golden ring is set with a large, almost gaudy onyx that can open to reveal a hidden compartment with just enough room for a single dose of powdered poison. This ring provides a +2 competence bonus on Sleight of Hand checks to conceal this poison on the wearer's body. In addition, the ring contains four charges that recharge each day. When drawing a poison from the band of efficacious death, the wearer can tap the onyx up to four times to increase the frequency of the poison by 1 increment per tap. For example, if the poison's frequency were 1/round for 2 rounds, by touching the onyx once, the frequency would become 1/round for 3 rounds.
+
+**Construction Requirements:** Craft Wondrous Item, [*pernicious poison*](../magic/spells/pernicious-poison.md); **Cost** 4,625 gp
+
+*Source: Player Companion Items, Potions and Poisons Items.*
+
+### Band of Toxin Nullification
+
+**Slot** ring; **CL** 9th; **Price** 8,500 gp; **Weight** —
+
+**Aura** moderate necromancy
+
+This platinum band has a smoky quartz set neatly into it. Once per day, the wearer can speak a command word and place the quartz on her skin as a full-round action (3 AP) to siphon a single dose of poison from her body and into the quartz, rendering the poison inert. This effect can be used only after the wearer has been poisoned.
+
+**Construction Requirements:** Craft Wondrous Item, [*absorb toxicity*](../magic/spells/absorb-toxicity.md); **Cost** 4,250 gp
+
+*Source: Player Companion Items, Potions and Poisons Items.*
+
+### Band of Triumph
+
+**Aura** strong enchantment and evocation; **CL** 13th  
+**Slot** ring; **Price** 50,000 gp; **Weight** —
+
+This white-gold ring bears the relief image of a roaring lion. Once per day on command, the wearer can point the ring and mentally designate one or more creatures or objects in a 60-foot cone as enemies, after which the ring roars triumphantly. Selected targets in the area are affected by shout (Fortitude DC 20). All other objects in the area are unharmed, and all other creatures in the area receive the benefits of the inspire courage bardic performance as performed by a 7th-level bard for 3 rounds. When activating the ring, the wearer can expend 1 round of her bardic performance ability to use her own bard level to calculate the performance’s effect.
+
+In addition, the ring grants the wearer a +4 enhancement bonus to Charisma; treat this as a temporary ability bonus for the first 24 hours the ring is worn. Construction
+
+**Requirements** Forge Ring, eagle’s splendor, good hope, shout; **Cost** 25,000 gp
+
+*Source: Rings, Ring Descriptions.*
+
+### Ring of the Beast
+
+*Aura* faint transmutation; *CL* 5th; *Slot* ring; *Price* 8,000 gp; *Weight* —
+
+Three types of rings of the beast exist; all three appear as yellowed bone carved in the shapes of wild beasts devouring their own tails. The type of beast depicted on each ring depends on the ring's nature, but could be a wolf (ring of the relentless beast), a rhinoceros (ring of the savage beast), or a tiger (ring of the swift beast). Once per day, a ring of the beast can be activated as a standard action (1 AP) to unleash the primal spirit hidden inside even the most peaceful creatures. When the ring is activated, the wearer gains a bonus to a single physical attribute and a penalty to a single mental attribute for 10 minutes, as determined by the type of ring. A ring of the relentless beast grants a +4 enhancement bonus to Constitution and a –2 penalty to Charisma. A ring of the savage beast grants a +4 enhancement bonus to Strength and a –2 penalty to Intelligence. A ring of the swift beast grants a +4 enhancement bonus to Dexterity and a –2 penalty to Wisdom. As long as the effects of this ring are active, the wearer also gains a +2 enhancement bonus to his natural armor bonus.
+
+*Construction* Forge Ring, [*barkskin*](../magic/spells/barkskin.md) and either [*bear's endurance*](../magic/spells/bears-endurance.md) (ring of the relentless beast), [*bull's strength*](../magic/spells/bulls-strength.md) (ring of the savage beast), or [*cat's grace*](../magic/spells/cats-grace.md) (ring of the swift beast); Cost 4,000 gp.
+
+*Source: Explorer's Society Items.*
 
 ### Ring of Blinking
 
@@ -635,6 +172,63 @@ If the devil linked to the ring is killed, the ring crumbles to dust. If wearer 
 
 *Source: Adventure Items.*
 
+### Bloodletting Thimble
+
+**Slot** ring; **CL** 3rd; **Price** 2,000 gp; **Weight** —
+
+**Aura** faint enchantment
+
+This platinum thimble, intricately crafted in the shape of an animal claw, is worn on one finger. A vampire wearer can use the thimble to inflict a tiny wound as part of the use of a blood drain, energy drain, or drain chi ability; use of the thimble in this way isn't an action. This wound deals no additional damage, but it turns the target's pain to pleasure. The target must succeed at a DC 14 Will save or become fascinated by the wearer and make no attempt to resist the draining on that round and the following 2 rounds. At the end of this time, the creature's senses return and it can react accordingly.
+
+**Construction Requirements:** Forge Ring, [*enthrall*](../magic/spells/enthrall.md); **Cost** 1,000 gp
+
+*Source: Monster Codex Items, Vampires.*
+
+## C
+
+### Ring of the Cacodaemon
+
+**Aura** moderate necromancy **CL** 8th
+
+**Slot** ring; **Price** 15,000 gp; **Weight** —
+
+Sculpted into the intricate form of a golden cacodaemon, this ring features a decorative wide-open mouth and can hold a soul gem braced between its horns. The ring allows its wearer to tap into the residual memories of the mangled soul it contains. Once per day, the wearer can interrogate the soul in the gem, as per [*speak with dead*](../magic/spells/speak-with-dead.md), except the soul answers telepathically. Once per day, the bearer can project the soul’s last tormented moments before it was consumed and bound, creating a cone of terror as per* fear*.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *fear, speak with dead*; **Cost** 7,500 gp
+
+*Source: Adventure Items.*
+
+### Ring Of The Cacodaemon
+
+**Aura** strong necromancy; **CL** 8th
+
+**Slot** ring; **Price** 15,000 gp; **Weight** —
+
+Sculpted into the intricate form of a golden cacodaemon, this ring’s wide-open mouth is designed to hold a *soul gem* created by a cacodaemon. The ring allows its wearer to tap into the residual memories of the mangled soul it encapsulates. Once per day, the wearer may interrogate the soul in the gem, similar to using* speak with dead*, except the soul answers telepathically.
+
+Once per day, the bearer can project the soul’s last tormented moments before it was consumed and bound, creating a cone of terror equivalent to a [*fear*](../magic/spells/fear.md) spell.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, [*fear*](../magic/spells/fear.md),* speak with dead*; **Cost** 7,500 gp.
+
+*Source: Adventure Items.*
+
+### Cannibal Ring
+
+**Aura** strong transmutation; **CL** 16th  
+**Slot** ring; **Weight** —
+
+This simple and unadorned copper ring appears slightly tarnished, but seemingly wards off the effects of hunger or other sorts of deprivation; all tests reveal it to be a ring of sustenance. However, after wearing it for 7 days, its owner instead comes to suffer from almost constant hunger and thirst, which, if not sated, ultimately drives him mad enough to become a cannibal. The wearer must eat and drink a full day’s worth of food and water each hour to avoid making a starvation or thirst check. Once the wearer starts to take lethal damage instead of nonlethal damage due to failed checks, he begins to experience ever more powerful cravings for the flesh of intelligent creatures (any living creature with an Intelligence of 3 or higher).
+
+Once the wearer feasts in such a manner, he recovers all nonlethal damage sustained from hunger and thirst, though he continues to suffer lethal damage on failed starvation and thirst checks. The next time he is in a situation in which he could eat part of an intelligent being, he must make a DC 15 Will save or dine on the forbidden meat. If the wearer succumbs to this urge again, he recovers all lethal damage from failed starvation and thirst checks, and realizes cannibalism is the key to avoiding the increased hunger and thirst—on any day he eats at least one meal of flesh from an intelligent creature, he does not have to make hourly starvation and thirst checks, and recovers any accumulated damage from failing these checks. Once its curse activates, the ring cannot be removed until the curse is broken.
+
+**Base item** ring of sustenance
+
+*Source: Advanced Player's Guide Cursed Items.*
+
 ### Ring of Chameleon Power
 
 **Aura** faint illusion; **CL** 3rd  
@@ -645,6 +239,41 @@ As a free action, the wearer of this ring can gain the ability to magically blen
 **Requirements** Forge Ring, disguise self, invisibility; **Cost** 6,350 gp
 
 *Source: Rings, Ring Descriptions.*
+
+### Chatter Ring
+
+**Aura** faint divination; **CL** 3rd  
+**Slot** ring; **Weight** —
+
+This ring appears as a normal [ring of eloquence](rings-acg.md), with four different languages (usually Common, Dwarven, Elven, and Gnome) etched around the inside of a silver band, and the wearer of a chatter ring gains the ability to speak the four languages inscribed in the ring. However, the difference between a chatter ring and a normal ring of eloquence quickly becomes apparent when the wearer speaks, as he becomes overwhelmingly talkative. The wearer takes a –2 penalty on Bluff, Diplomacy, Disguise, Perform (oratory), and Stealth checks. The ring can be removed only after the wearer benefits from a [*remove curse*](../magic/spells/remove-curse.md) spell or similar effect.
+
+**Intended Magic Item** *ring of eloquence*
+
+*Source: Player Companion Items, Antihero Cursed Items.*
+
+### Ring of the Clean Hands
+
+**Aura** strong transmutation **CL** 9th
+
+**Price** 18,000 gp; **Weight** —
+
+This delicate ring of forged bronze is formed into the shape of two hands, which do not quite touch as they meet at the top of the wearer’s finger. A *ring of the clean hands* grants use of [*telekinesis*](../magic/spells/telekinesis.md) as a standard action (1 AP) and has 10 charges. These charges return at the start of the next day.
+
+The ring’s charges can be expended to create the following effects:
+
+*Combat maneuver*: This effect costs 3 charges for each round it is active, but otherwise functions as described by the spell [*telekinesis*](../magic/spells/telekinesis.md). The force created by this effect has a +9 base attack bonus, and is considered to have Strength 20 and Dexterity 20.
+
+*Force lash*: This effect costs 3 charges, striking out as if with an invisible whip. One target within 60 feet must make a DC 17 Will save or be struck for 4d6 points of nonlethal damage. This attack does not affect targets with a +3 or higher natural armor bonus, or a +1 or higher armor bonus.
+
+*Sustained force*: This effect costs 1 charge for each round it is active, but otherwise functions as described by the spell [*telekinesis*](../magic/spells/telekinesis.md), making it capable of lifting 225 lbs.
+
+*Violent thrust*: This effect costs 5 charges, but otherwise functions as described by the spell [*telekinesis*](../magic/spells/telekinesis.md), allowing you to throw up to 9 creatures or objects up to 90 feet, with a total weight of 225 lbs. The attack roll has a +9 modifier. The Will save is DC 17.
+
+**Construction**
+
+**Requirements** Forge Ring, [*telekinesis*](../magic/spells/telekinesis.md); **Cost** 9,000 gp, 720 XP
+
+*Source: Adventure Items.*
 
 ### Ring of Climbing
 
@@ -677,6 +306,42 @@ This ring operates exactly like a ring of feather falling. However, it also make
 
 *Source: Cursed Items.*
 
+### Commander’s Signet
+
+**Aura** moderate abjuration and illusion **CL** 6th
+
+**Slot** ring; **Price** 14,500 gp; **Weight** —
+
+This ornate *ring of protection +2* is emblazoned with a winged eye, emblem of the old dead god in ruby and jet. The wearer of a *commander’s signet* projects an air of commanding authority that affects large groups; the wearer does not treat crowds as difficult terrain and gains a +5 competence bonus on Diplomacy or Intimidate checks to direct or influence crowds. The wearer can also cast [*magic mouth*](../magic/spells/magic-mouth.md) at will, but the message trigger must be “upon seeing a creature wearing the city watch’s badge”.
+
+**Construction**
+
+**Requirements** Forge Ring, [*eagle’s splendor*](../magic/spells/eagles-splendor.md),* magic mouth*,* shield of faith*; **Cost** 7,750 gp
+
+*Source: Adventure Items.*
+
+### Commander’s Signet
+
+**Aura** moderate abjuration and illusion; **CL** 6th  
+**Slot** ring; **Price** 14,500 gp; **Weight** —
+
+This ornate ring of protection +2 is emblazoned with a winged eye in ruby and jet. The wearer of a commander’s signet projects an air of commanding authority that affects large groups; the wearer does not treat crowds as difficult terrain and gains a +5 competence bonus on Diplomacy or Intimidate checks to direct or influence crowds. The wearer can also cast magic mouth at will, but the message trigger must be “upon seeing a creature wearing the Eye of the last god” (which triggers the magic mouth for any dottari in uniform). Construction
+
+**Requirements** Forge Ring, eagle's splendor, magic mouth, shield of faith; **Cost** 7,750 gp
+
+*Source: Rings, Ring Descriptions.*
+
+### Communique Rings
+
+**Aura** moderate transmutation; **CL** 6th  
+**Slot** ring; **Price** 6,000 gp; **Weight** —
+
+Created in pairs, these simple golden rings allow for short-range communication between the wearers. The listed price and cost are for both rings. As long as the wearers are within 1 mile of one another, they can communicate by whispering, causing the other ring to whisper the words to the recipient. Words spoken into or recited by a *communique ring* can be heard by nearby creatures if the wearer speaks too loudly. A *communique ring* transmits sound only while worn, and a wearer can remove the ring if she needs to be silent. Only magical silence or distance will block this communication, and wearers can speak through walls and other obstructions normally. The rings pick up only sound directly spoken into them by the wearer with the intent to transmit, not ambient sounds or the voices of other creatures.
+
+**Requirements** Forge Ring, [*message*](../magic/spells/message.md); **Cost** 3,000 gp
+
+*Source: Ultimate Intrigue Rings.*
+
 ### Ring of Continuation
 
 **Aura** moderate transmutation; **CL** 7th  
@@ -687,6 +352,20 @@ This band of braided copper wires throbs ever so slightly in harmony with its we
 **Requirements** Forge Ring, [*mnemonic enhancer*](../magic/spells/mnemonic-enhancer.md); **Cost** 28,000 gp
 
 *Source: Ultimate Equipment Rings.*
+
+### Contract Rings
+
+**Slot** ring; **CL** 7th; **Price** 8,500 gp (pair); **Weight** —
+
+**Aura** moderate enchantment
+
+Contract rings are crafted in pairs (the price is for both rings), establishing a connection between the wearers. Each wearer must wear their ring for 24 hours before they begin to work. Contract rings grant a +10 competence bonus on Sense Motive checks made against the other wearer, and creatures wearing linked contract rings can understand each other's language.
+
+Once per day, contract rings can seal a contract. The two wearers join hands and willingly state what each is agreeing to. Once both agree, each wearer accepts a [*lesser geas*](../magic/spells/geas-lesser.md) (no save) to fulfill the terms of the contract. This function does not occur if either character is under a mind-affecting effect or threat that forces her agreement. This compulsion lasts 7 days, starting immediately. While the *lesser geas* remains in effect, neither wearer can remove her ring, and neither ring can establish another *lesser geas*. If either ring is destroyed, the effects of any active *lesser geas* remain for both creatures, but the surviving ring becomes nonfunctional once the *lesser geas* expires until the missing ring is repaired or replaced. If one wearer's *lesser geas* is broken, the other wearer's is removed.
+
+**Construction Requirements:** Forge Ring, [*detect thoughts*](../magic/spells/detect-thoughts.md), [*lesser geas*](../magic/spells/geas-lesser.md), [*share language*](../magic/spells/share-language.md); **Cost** 4,250 gp
+
+*Source: Player Companion Items, Allies and Hirelings.*
 
 ### Ring of Counterspells
 
@@ -735,6 +414,49 @@ This simple copper ring is a boon to those who spend their lives healing others.
 
 *Source: Ultimate Equipment Rings.*
 
+## D
+
+### Dark Life Ring
+
+**Aura** faint necromancy **CL** 3rd
+
+**Slot** ring; **Price** 1,250 gp; **Weight** —
+
+Mortal blacksmiths residing in the undead-realm city of a grim city created the first *dark life rings*. Too often had these living unfortunates suffered collateral damage from the negative energy effects used daily in the streets of the undead-ruled city, so they forged these rings in hopes of mitigating at least some of the harm their unliving rulers carelessly inflicted upon them. Before the Blood Lords at their capital could punish the insolent smiths of a grim city, the* dark life rings* and their imitators made their way into the wider world.
+
+A *dark life ring* grants its wearer a +2 profane bonus on Will saving throws against channeled negative energy and inflict spells (any spell with “inflict” in its name). In addition, anytime the wearer takes damage from channeled negative energy or an inflict spell, she subtracts 5 from the damage taken (calculated after the wearer has rolled her Will save against the effect), to a minimum of 0 points of damage.
+
+**Construction**
+
+**Requirements** Forge Ring, [*death ward*](../magic/spells/death-ward.md); **Cost** 625 gp
+
+*Source: Adventure Items.*
+
+### Deadeye’s Spotter Ring
+
+**Aura** faint transmutation **CL** 5th
+
+**Slot** ring; **Price** 1,500 gp; **Weight** —
+
+This ring is carved from a single, thick antler and fashioned into the shape of a regal elk’s head. The wearer gains a +2 competence bonus on Perception and Survival checks. Once per day, the wearer can use [*animal messenger*](../magic/spells/animal-messenger.md).
+
+**Construction**
+
+**Requirements** Forge Ring, [*animal messenger*](../magic/spells/animal-messenger.md), creator must have 2 ranks in Perception and Survival; **Cost** 750 gp
+
+*Source: Adventure Items.*
+
+### Decoy Ring
+
+**Aura** moderate illusion; **CL** 11th  
+**Slot** ring; **Price** 12,000 gp; **Weight** —
+
+This ring is a thick loop of mirrorlike metal. Whenever the wearer of this ring takes the withdraw action or becomes helpless (including falling unconscious), it instantly makes her invisible for 3 rounds and creates four illusory duplicates that either run off in opposite directions or perform other plausible actions that could draw enemy attention away from her. The duplicates last for 3 rounds before disappearing, but they instantly pop out of existence if struck by an attack (AC 10) and can be disbelieved (Will DC 19). Allies of the wearer always know her true location and can freely provide aid or assistance to her.
+
+**Requirements** Forge Ring, [*mislead*](../magic/spells/mislead.md); **Cost** 6,000 gp
+
+*Source: Ultimate Equipment Rings.*
+
 ### Ring of Delayed Doom
 
 **Aura** moderate conjuration; **CL** 9th  
@@ -756,6 +478,34 @@ One of the many rings of fable, this “genie” ring is useful indeed. It serve
 **Requirements** Forge Ring, gate; **Cost** 62,500 gp
 
 *Source: Rings, Ring Descriptions.*
+
+### Dungeon Ring
+
+**Aura** moderate divination; **CL** 8th  
+**Slot** ring; **Price** 16,000 gp (jailer’s ring), 250 gp (prisoner’s ring); **Weight** —
+
+A jailer’s dungeon ring is worked gold, set with a carnelian. The ring is magically attuned to one or more iron prisoner’s dungeon rings. When the wearer of a jailer’s ring places a prisoner’s ring on a subject, the prisoner cannot remove the ring without the use of a remove curse, limited wish, miracle, or wish spell. The wearer of the jailer’s ring can also remove a linked prisoner’s ring at any time.
+
+The jailer is aware of any wearer of a linked prisoner’s ring like a constant status spell. Additionally, all wearers of linked prisoner’s rings count as familiar to the jailer for purposes of spells such as scrying and teleport.
+
+**Requirements** Forge Ring, scrying, status; **Cost** 8,000 gp (jailer’s ring), 125 gp (prisoner’s ring)
+
+*Source: Advanced Player's Guide Rings.*
+
+## E
+
+### Ring of the Ecclesiarch
+
+**Aura** faint enchantment; **CL** 5th  
+**Slot** ring; **Price** 28,500 gp; **Weight** —
+
+This ornate ring of sanctified silver is engraved with a golden signet that incorporates the holy symbol of the wearer’s deity after being worn for 24 hours. The ring can be used to seal parchments or to mark any surface as the [*arcane mark*](../magic/spells/arcane-mark.md) spell at will. The wearer is marked as a scholarly leader of the faith and gains a +5 competence bonus on Diplomacy and Knowledge (religion) checks. If the wearer has the Leadership feat, she may attract double the normal number of followers, and her followers’ zealous devotion grants them a +4 morale bonus on Will saves against enchantment spells and effects.
+
+Once per day, the wearer of the ring can use [*prayer*](../magic/spells/prayer.md) and *enter image**,* often using the latter power to speak and observe through portraits, statues, and even minted coinage bearing their likeness.
+
+**Requirements** Forge Ring, *arcane mark, enter image, enthrall, prayer*, creator must have 5 ranks of Diplomacy and Knowledge (religion) and the ability to cast divine spells; **Cost** 14,250 gp
+
+*Source: Ultimate Equipment Rings.*
 
 ### Ring of Ectoplasmic Invigoration
 
@@ -850,6 +600,18 @@ The spirit of an ancient elementalist still echoes within this silver ring, whic
 *Construction* Forge Ring, [*charm monster*](../magic/spells/charm-monster.md), [*resist energy*](../magic/spells/resist-energy.md); Cost 7,400 gp.
 
 *Source: Lost Treasure Items.*
+
+### Elemental Ring
+
+**Slot** ring; **CL** 15th; **Price** 30,000 gp; **Weight** 1 lb.
+
+**Aura** strong conjuration
+
+This ornate ring has a thick iron band covered in sigils of calling, and is set with a large glowing gemstone that appears to be an elemental gem. The ring serves as a gateway for a specific elder elemental (25% chance each for air, earth, fire, or water) that performs a narrow range of services when called. When activated with a command word, the elemental is called (as by [*greater planar ally*](../magic/spells/planar-ally-greater.md)) and demands to know what service it is to perform. It can only be commanded to protect a specific creature or object, attack a specific creature, damage a specific object, or answer questions about its home plane. The wearer of the ring is able to communicate with the elder elemental as if they shared a common language. The elder elemental serves for no more than 24 hours, after which it returns to its home plane and the ring becomes a valueless hunk of lead.
+
+**Construction Requirements:** Forge Ring, [*planar ally*](../magic/spells/planar-ally.md), [*planar binding*](../magic/spells/planar-binding.md); **Cost** 15,000 gp
+
+*Source: Player Companion Items, Planar Binding Items.*
 
 ### Ring of Eloquence
 
@@ -951,6 +713,20 @@ This ring continually grants the wearer the ability to avoid damage as if she ha
 
 *Source: Rings, Ring Descriptions.*
 
+## F
+
+### Ring of the Faithful Dead
+
+**Slot** ring; **CL** 3rd; **Price** 1,000 gp; **Weight** —
+
+**Aura** faint evocation
+
+This spiraling silver ring glows briefly when a living creature puts it on. If the wearer of a *ring of the faithful dead* is slain by a creature with the create spawn ability, the wearer does not rise as an undead creature, even if the ring is later removed. If a corpse is wearing a *ring of the faithful dead*, any attempts to create an undead creature from the corpse (such as via [*animate dead*](../magic/spells/animate-dead.md)) automatically fail, though simply removing the ring ends this protection.
+
+**Construction Requirements:** Forge Ring, [*sanctify corpse*](../magic/spells/sanctify-corpse.md); **Cost** 500 gp
+
+*Source: Temple Items, Grave Wardens.*
+
 ### Ring of Far Strike
 
 **Slot** ring; **CL** 8th; **Price** 6,000 gp; **Weight** —
@@ -1012,6 +788,20 @@ This ring of jagged steel gives the impression that it was salvaged from a suit 
 
 *Source: Ultimate Equipment Rings.*
 
+### Fool's Malady
+
+**Slot** ring; **CL** 3rd; **Price** 900 gp; **Weight** —
+
+**Aura** faint transmutation
+
+This simple lead ring is carved with a twisting face. When worn, the ring causes a wearer to develop a single deformity over the course of 1 minute. The exact malformation is determined when the ring is forged and can't be changed. It modifies the wearer's appearance rather than changing it entirely; those familiar with her normal appearance can easily recognize her in the modified form. Many of these rings mimic the symptoms of terrible diseases, while others mimic birth conditions, extensive scarring, or tattoos.
+
+If the creature wearing a *fool's malady* already has the deformity the ring mimics, the ring instead removes all visual traces of the condition. The ring does not remove any pain or penalties associated with the condition.
+
+**Construction Requirements:** Forge Ring, [*alter self*](../magic/spells/alter-self.md); **Cost** 450 gp
+
+*Source: Villain Codex Items, Carnival Troupe.*
+
 ### Ring of Force Shield
 
 **Aura** moderate evocation; **CL** 9th  
@@ -1033,6 +823,17 @@ This band negates any force spell or spell-like ability targeted at the wearer. 
 **Requirements** Forge Ring, Heighten Spell, magic missile; **Cost** 4,000 gp
 
 *Source: Advanced Player's Guide Rings.*
+
+### Ring of the Forge God
+
+**Aura** faint abjuration; **CL** 3rd  
+**Slot** ring; **Price** 1,200 gp; **Weight** —
+
+This simple golden ring has a large red gemstone set into it that sparkles with an inner fire. The wearer of the ring gains fire resistance 10 against the first fire attack that hits him that day. This protection renews itself every morning at dawn. In addition, the wearer receives a +1 resistance bonus on saves made against fire spells and effects. The ring must be worn for 24 hours to have any effect. Construction
+
+**Requirements** Forge Ring, resist energy; **Cost** 600 gp, 48 XP
+
+*Source: Rings, Ring Descriptions.*
 
 ### Ring of Freedom of Movement
 
@@ -1056,6 +857,75 @@ These curious rings always come in pairs. A friend shield ring without its mate 
 
 *Source: Rings, Ring Descriptions.*
 
+## G
+
+### Ghost Battling Ring
+
+**Aura** faint illusion, necromancy, and transmutation **CL** 5th
+
+**Slot** ring; **Price** 13,000 gp; **Weight** —
+
+This silver ring is engraved with a skull flanked by twin hourglasses. It functions as a *ring of the grasping grave*. In addition, the wearer can use* ghostly disguise* and* haste* each once per day.
+
+**Construction**
+
+**Requirements** Forge Ring, [*ghostly disguise*](../magic/spells/ghostly-disguise.md),* haste*,* sculpt corpse*; **Cost** 6,500 gp
+
+*Source: Adventure Items.*
+
+### Glorious Flame Ring
+
+**Aura** faint evocation **CL** 5th
+
+**Slot** ring; **Price** 5,400 gp; **Weight** —
+
+This richly colored, burnished brass ring appears to be crimson red, sunset orange, or golden yellow depending on how it is held. Clerics of the goddess of the sun and redemption prize *glorious flame rings* as facets through which they may channel their deity’s divine will. Once per day, the wearer may speak the ring’s command word to create a 5-foot-radius burst of flame centered on herself. This burst of flame deals 1d6 points of damage to any adjacent creatures (Reflex DC 14 halves), though the wearer is safe from this effect.
+
+If the wearer is capable of channeling positive energy, she may as a standard action (1 AP) expend one use of channeled energy to activate the ring’s burst of flame, even if she has already spoken the ring’s command word for the day. If the wearer also has the Selective Channeling feat, she may select a number of allies equal to her Charisma modifier to exclude from the burst of flame; these allies are not affected by the flame. This effect is otherwise identical to creating the ring’s burst of flame by speaking the command word.
+
+**Construction**
+
+**Requirements** Forge Ring, Selective Channeling, *elemental aura (fire)*, creator must be able to channel positive energy; **Cost** 2,700 gp
+
+*Source: Adventure Items.*
+
+### Gluttonous Feasting Ring
+
+**Aura** faint necromancy and transmutation **CL** 5th
+
+**Slot** ring; **Price** 5,000 gp; **Weight** —
+
+This ring is carved from the flat part of a human skull and inscribed along the edge with images of skeletons at a banquet. Any food the wearer eats or drinks is automatically cleansed as if by [*purify food and drink*](../magic/spells/purify-food-and-drink.md). Once per day after eating an extravagant meal (typically one worth at least 10 gp), the wearer gains the benefit of* false life*.
+
+**Construction**
+
+**Requirements** Forge Ring, [*false life*](../magic/spells/false-life.md),* purify food and drink*; **Cost** 2,500 gp
+
+*Source: Adventure Items.*
+
+### Ring of the Godless
+
+**Slot** ring; **CL** 5th; **Price** 8,000 gp (+1), 17,000 gp (+2), 27,000 gp (+3), 38,000 gp (+4), 50,000 gp (+5); **Weight** —
+
+**Aura** faint abjuration and divination
+
+These rings are said to have first been forged by a secular council of elders to help root out the hidden faithful and other practitioners of the divine. A *ring of the godless* grants a luck bonus (+1 to +5) on saving throws against divine spells. This bonus does not apply to spell-like or supernatural abilities unless they are class abilities of a divine spellcasting class, such as channel energy or domain powers, or unless they are used by a creature that has been called, created, or summoned by divine magic. The wearer's spell resistance (if any) increases by an amount equal to the ring's luck bonus, though this increase applies only against divine spells (and spell-like abilities as described above). A *ring of the godless* also allows the wearer to use [*detect magic*](../magic/spells/detect-magic.md) at will, though it detects only divine magic. In addition, the wearer can use a specialized form of [*arcane sight*](../magic/spells/arcane-sight.md) a number of times per day equal to the ring's luck bonus. This ability can be activated as a swift action (1 AP), its effect lasts until the end of the wearer's turn, and it detects only divine magic or divine spellcasting ability.
+
+**Construction Requirements:** Forge Ring, [*arcane sight*](../magic/spells/arcane-sight.md), [*detect magic*](../magic/spells/detect-magic.md), [*spell resistance*](../magic/spells/spell-resistance.md), creator cannot be a divine spellcaster, creator must be of a level at least three times higher than the bonus of the ring; **Cost** 4,000 gp (+1), 8,500 gp (+2), 13,500 gp (+3), 19,000 gp (+4), 25,000 gp (+5)
+
+*Source: Player Companion Items, Desert Items.*
+
+### Ring of the Grasping Grave
+
+**Aura** faint necromancy; **CL** 1st  
+**Slot** ring; **Price** 2,000 gp; **Weight** —
+
+The wearer of this ring can make a melee touch attack against an undead creature no more than one size category larger than himself, cutting off that creature from undying energy. The wearer never suffers any ill effects that might normally occur from coming into physical contact with an undead creature touched in this way. On a successful hit, the undead cannot be healed or aided by the effects of negative energy for 1d4 rounds. During this duration, positive energy affects the undead creature normally.
+
+**Requirements** Forge Ring, *sculpt corpse**; **Cost** 1,000 gp
+
+*Source: Ultimate Equipment Rings.*
+
 ### Ring of Grit Mastery
 
 **Aura** faint abjuration and evocation; **CL** 3rd  
@@ -1072,6 +942,72 @@ Any grit points stored in the ring disappear at the start of each day.
 **Requirements** Forge Ring, [*anticipate peril*](../magic/spells/anticipate-peril.md), [*bullet shield*](../magic/spells/bullet-shield.md), creator must have the grit class feature; **Cost** 3,420 gp
 
 *Source: Ultimate Equipment Rings.*
+
+### Guiding Ring of the Toil God
+
+**Aura** faint enchantment; **CL** 3rd  
+**Slot** ring; **Price** 2,600 gp; **Weight** —
+
+This gold ring is misshapen and uncomfortable to wear for long periods of time; inscribed on it is a crude symbol of a fire burning under an arch. Once per day, the wearer may use charm person. If the god of toil is the wearer’s patron deity, any time the wearer crafts a magic item, she may choose to pay half of the item’s construction cost instead of the full cost. The wearer spends time working on the item normally, but at the time of completion there is a 50% chance that the item turns out nonmagical and worthless. For example, if creating a magic bracer that normally costs 1,000 gp to craft, the wearer may craft it for only 500 gp, but there is a 50% chance the wearer’s shortcuts and cheap materials result in a valueless, nonfunctional item. Construction
+
+**Requirements** Craft Wondrous Item, charm person, fabricate; **Cost** 1,300 gp
+
+*Source: Rings, Ring Descriptions.*
+
+## H
+
+### Heavenly Aegis Ring
+
+**Aura** moderate evocation [good]; **CL** 10th  
+**Slot** ring; **Price** 16,000 gp; **Weight** —
+
+The surface of this silver ring never tarnishes, but when an evil creature is wearing it, its luster diminishes. Whenever the wearer takes the total defense action, he can activate the ring, creating a [*magic circle against evil*](../magic/spells/magic-circle-against-evil.md) effect centered on him. This effect lasts 10 rounds per day, though the rounds don’t need to be spent consecutively. Once activated, the effect expends rounds until the user ends it as a move action (1 AP) or the rounds run out.
+
+As a standard action (1 AP) while the magic circle is active, the wearer can release the protective circle’s energy as a violent blast. This functions as [*holy smite*](../magic/spells/holy-smite.md) centered on the wearer, but the wearer can exclude a 10-foot-radius area from the center of the affected area. Releasing the energy expends all the ring’s remaining rounds and can be done only if at least 5 rounds remain. The ring’s power renews each day at dawn.
+
+**Requirements** Forge Ring, [*holy smite*](../magic/spells/holy-smite.md), [*magic circle against evil*](../magic/spells/magic-circle-against-evil.md); **Cost** 8,000 gp
+
+*Source: Horror Adventures Rings.*
+
+### Ring of the Hidden Psyche
+
+**Aura** strong (no school); **CL** 18th  
+**Price** 160,000 gp; **Slot** ring; **Weight** —
+
+This ring resembles a ring of psychic mastery, but its flawless sapphire serves as a vessel for the wearer’s soul. It possesses all the abilities of a ring of psychic mastery in addition to the following effects.
+
+The wearer’s soul instantly enters the ring upon the wearer’s death, even if her body is utterly destroyed. This counts as an object possession spell, except that the possessing soul cannot animate the ring and must instead wait for someone to wear it. From inside the ring, she can attempt a greater possession on anyone who voluntarily wears the ring (Will DC 23 negates). A successful save against the greater possession effect renders the new wearer immune to further such attempts for 24 hours. Dispelling the object possession effect on the ring banishes the soul from the ring to its appropriate afterlife. Otherwise, a soul can remain in the ring indefinitely. While in the ring, the soul knows when a creature has put on the ring. The soul can’t otherwise sense the area around it or take actions other than attempting the greater possession effect.
+
+A ring of the hidden psyche resists attempts to discern its true nature. Detect magic reveals only the properties of a ring of psychic mastery, though identify or stronger magic can reveal the ring’s full powers if the caster succeeds at a DC 23 Will save.
+
+**Construction** Forge Ring, greater possession, magic aura, object possession, wish; **Cost** 80,000 gp
+
+*Source: Occult Adventures Rings.*
+
+### Holdout Ring
+
+*Aura* moderate transmutation; *Slot* ring; *Price* 11,000 gp; *Weight* —
+
+Made of aged bronze and steel, this ring looks like it should have a gem set in it, but instead has an empty circular hole. The hole in the ring holds a single firearm bullet; if one is placed inside (as a full-round action (3 AP)), it merges seamlessly into the ring. While a bullet is merged into the ring, the wielder can fire the bullet as though she were using a +1 *pistol* that can't misfire. Once the bullet has been fired from the ring, a new bullet can't be placed inside for 24 hours.
+
+Each holdout ring is created with two +1 ammunition special abilities and one +2 ammunition special ability. If the wearer has the grit class feature, she can expend grit (maximum 4 grit points) to imbue bullets merged with the gun with one or more of these abilities. Imbuing a bullet with a +1 special ability costs 1 grit point; imbuing one with a +2 special ability costs 2 grit points. Each ring's special abilities are established upon the item's creation and can't be changed. If a special ability has multiple versions, as does *bone*, the specific version must be set at that time (for example, *dragon bone*). A typical holdout ring has the *flaming*, *seeking*, and *shocking burst* special abilities.
+
+*Construction* *Requirements* Forge Ring, [*magic weapon*](../magic/spells/magic-weapon.md), [*telekinesis*](../magic/spells/telekinesis.md), creator must meet the requirements for the ammunition special abilities that can be imbued by the ring; *Cost* 5,500 gp
+
+*Source: Regional Combat Items, Rings, Rods, and Wondrous Items.*
+
+### Ring of the Holy Knight
+
+**Aura** faint enchantment and transmutation; **CL** 5th  
+**Slot** ring; **Price** 3,000 gp; **Weight** —
+
+This simple gold band is engraved with the holy symbol of the goddess of valor. It functions as a ring of protection +1. In addition, the wearer can cast bless weapon and wartrain mount each once per day. At will, the wearer can make himself presentable as if using prestidigitation to clean up his clothing, skin, hair, and armor. Construction
+
+**Requirements** Forge Ring, bless weapon, prestidigitation, shield of faith, wartrain mount, creator must be at least 3rd level; **Cost** 1,500 gp
+
+*Source: Rings, Ring Descriptions.*
+
+## I
 
 ### Ring of Immolation
 
@@ -1129,6 +1065,32 @@ By activating this simple silver ring, the wearer can benefit from invisibility,
 
 *Source: Rings, Ring Descriptions.*
 
+### Ring of the Iron Skull
+
+**Aura** faint divination **CL** 5th
+
+**Slot** ring; **Price** 10,800 gp; **Weight** —
+
+Crudely cut amethysts and a single engraved skull decorate the band of this thick iron ring. The ring grants its wearer a +5 competence bonus on Appraise checks to determine the most valuable item in a treasure hoard and a +5 competence bonus on Heal checks to ascertain details of a dead creature’s demise. Once per day as a standard action (1 AP), the wearer can touch the ring to a corpse or piece of a corpse to learn the dead creature’s name, gender, race, and profession or role, as well as the manner of the creature’s death. The wearer also becomes aware of the location of other pieces of the corpse if they’re within 1,200 feet. If the body part comes from a creature that’s still alive or undead, the wearer gains no information. The *ring of the iron skull* must be worn for 24 hours before it starts to function for the wearer.
+
+**Construction**
+
+**Requirements** Forge Ring, [*blood biography*](../magic/spells/blood-biography.md), [*locate object*](../magic/spells/locate-object.md); **Cost** 5,400 gp
+
+*Source: Adventure Items.*
+
+### Ironbound Ring
+
+*Aura* faint abjuration and enchantment; *CL* 5th; *Slot* ring; *Price* 8,000 gp (master’s ring), 500 gp (minion’s ring); *Weight* —
+
+While holding one or more minion’s ironbound rings, the wearer of a master’s ironbound ring can impart instructions of 50 words or fewer to each minion’s ironbound ring. The wearer of a minion’s ironbound ring can recall the instructions at will and is aware of any action that would cause him to act against those instructions. The DC of any skill check attempted to force the wearer to abandon, misinterpret, or consciously fail the instructions increases by 5, such as for Bluff checks to trick the wearer or Intimidate checks to interrogate him. The wearer gains a +3 resistance bonus on Will saves to resist spells and effects that would force him to act against the instructions, such as [*dominate person*](../magic/spells/dominate-person.md) and [*suggestion*](../magic/spells/suggestion.md).
+
+*Construction* *Requirements* Forge Ring, [*resistance*](../magic/spells/resistance.md), [*suggestion*](../magic/spells/suggestion.md); *Cost* 4,000 gp (master’s ring), 250 gp (minion’s ring)
+
+*Source: Adventurer’s Guide Items, Mercantile Consortium.*
+
+## J
+
 ### Ring of Jumping
 
 **Aura** faint transmutation; **CL** 2th  
@@ -1151,6 +1113,8 @@ As a ring of jumping, except it grants a +10 competence bonus on its wearer’s 
 
 *Source: Rings, Ring Descriptions.*
 
+## K
+
 ### Ring of Ki Mastery
 
 **Aura** faint transmutation; **CL** 5th  
@@ -1165,6 +1129,19 @@ As long as there are at least 2 *ki* points stored in the ring, the wearer reduc
 **Requirements** Forge Ring, [*ki leech*](../magic/spells/ki-leech.md), the creator must be able to use *ki*; **Cost** 3,420 gp
 
 *Source: Ultimate Equipment Rings.*
+
+### Kyton Ring
+
+**Aura** moderate conjuration; **CL** 7th  
+**Slot** ring; **Price** 1,000 gp; **Weight** —
+
+This rusty iron ring looks like a twisted chain. On command, the ring can produce a rusty, clanky length of iron chain (hardness 10, 5 hp, break DC 26). The ring can create no more than 100 feet of chain in this way. This total length can be split among many uses, but must be spent in 10-foot increments. When the ring’s daily allotment of chain is renewed, any previously conjured chain rusts away. Once per day as a standard action (1 AP), the user can shoot a chain from the ring as though it were a grappling hook, except the range increment is 50 feet. Whatever length of chain she shoots out counts against ring’s daily allotment.
+
+**Requirements** Forge Ring, [*major creation*](../magic/spells/major-creation.md); **Cost** 500 gp
+
+*Source: Horror Adventures Rings.*
+
+## L
 
 ### Ring of Lifebleed
 
@@ -1186,6 +1163,47 @@ When the wearer of this ring is bloodraging, he can expend 1 round of bloodrage 
 *Construction* Endurance, Extend Spell, Forge Ring, creator must have the bloodrage class feature; Cost 1,000 gp.
 
 *Source: Advanced Class Guide Rings.*
+
+## M
+
+### Magic-God Ring of Minor Spell Storing
+
+**Aura** moderate abjuration and transmutation [chaotic, evil, good, lawful] **CL** 5th
+
+**Slot** ring; **Price** 20,000 gp; **Weight** —
+
+This ring is made of several metals hammered together into a mottled pattern, with the god of magic’s holy symbol stamped on one end. It functions as a *ring of minor spell storing*, except domain spells from the god of magic’s domains count as 1 spell level lower (minimum 1st level) for the purpose of storing them in the ring.
+
+**Construction**
+
+**Requirements** Forge Ring, [*imbue with spell ability*](../magic/spells/imbue-with-spell-ability.md); **Cost** 10,000 gp
+
+*Source: Adventure Items.*
+
+### Maintenance Overseer's Ring
+
+**Aura** faint divination; **CL** 4th  
+**Slot** ring; **Price** 8,000 gp; **Weight** —
+
+This tarnished signet is marked as belonging to a specific city no smaller than a large town, though it functions in any settlement of at least that size. After spending 5 days in a settlement with the maintenance overseer’s ring equipped, its wearer learns a great deal about the schematics of any sewers, tunnels, basements, and passages beneath the settlement. This knowledge is not necessarily absolute, but allows the wearer to act as though trained in Knowledge (dungeoneering) when answering questions about the settlement’s underground with a +5 bonus on all such checks.
+
+A maintenance overseer’s ring also grants the wearer an automatic Perception check to notice secret doors within 10 feet in any area beneath street level of a city to which the ring is attuned. A wearer who already receives a Perception check to perceive a secret door (such as a dwarf using stonecunning) rolls her Perception check twice and takes the better result. Construction
+
+**Requirements** Forge Ring, create treasure map; **Cost** 4,000 gp
+
+*Source: Rings, Ring Descriptions.*
+
+### Maintenance Overseer’s Ring
+
+*Aura* faint divination; *CL* 4th; *Slot* ring; *Price* 8,000 gp; *Weight* —
+
+This tarnished signet is marked as belonging to a specific city no smaller than a large town, though it functions in any settlement of at least that size. After spending 5 days in a settlement with the maintenance overseer’s ring equipped, its wearer learns a great deal about the schematics of any sewers, tunnels, basements, and passages beneath the settlement. This knowledge is not necessarily absolute, but allows the wearer to act as though trained in Knowledge (dungeoneering) when answering questions about the settlement’s underground with a +5 bonus on all such checks.
+
+A maintenance overseer’s ring also grants the wearer an automatic Perception check to notice secret doors within 10 feet in any area beneath street level of a city to which the ring is attuned. A wearer who already receives a Perception check to perceive a secret door (such as a dwarf using stonecunning) rolls her Perception check twice and takes the better result.
+
+*Construction* *Requirements* Forge Ring, [*create treasure map*](../magic/spells/create-treasure-map.md); *Cost* 4,000 gp.
+
+*Source: Street Items.*
 
 ### Ring of Maniacal Devices
 
@@ -1220,6 +1238,8 @@ This ring of bone fused with crystal comes in four varieties, all of them useful
 **Construction Requirements:** Forge Ring, [*limited wish*](../magic/spells/limited-wish.md); **Cost** type I 10,000 gp; type II 20,000 gp; type III 35,000 gp; type IV 50,000 gp
 
 *Source: Player Companion Items, Psychic Items.*
+
+## N
 
 ### Ring of Natural Attunement (Drake)
 
@@ -1278,6 +1298,30 @@ With great mental exertion the wearer can try to change the active facet. It can
 
 *Source: Artifacts and Legends.*
 
+## O
+
+### Ophidian Coil
+
+**Aura** faint transmutation **CL** 5th
+
+**Slot** ring; **Price** 15,000 gp; **Weight** —
+
+This small wooden ring resembles a serpent with tiny gemstone eyes coiling around the wearer’s finger. If worn for 24 hours, it causes its wearer to manifest many serpentine traits. The wearer’s skin develops a faint, diamond-shaped pattern, and the pupils of her eyes elongate. The wearer grows a pair of fangs, gaining a bite attack as a primary natural attack that deals 1d4 points of piercing damage for a Medium wearer or 1d3 points of damage for a Small wearer.
+
+Three times per day as a free action, the wearer of the ring may cause her fangs to drip with venom, making her bite attack poisonous for 1 round. The save DC of this poison is equal to 10 + 1/2 the wearer’s Hit Dice + the wearer’s Constitution modifier, but otherwise acts as black adder venom. If the wearer rolls a natural 1 on an attack with her poisonous bite, she is exposed to the poison.
+
+Once per day as a standard action (1 AP), the wearer may command her tongue to lengthen and become forked for 1 minute, gaining the scent special ability. While this ability is active, the wearer has a 20% chance of failure when casting any spell with a verbal component, as the tongue makes it difficult to speak.
+
+The ring makes its wearer more sensitive to cold. She takes a –2 penalty to saves against spells with the cold descriptor and the effects of cold weather. Additionally, if the wearer is successfully affected by a spell with the cold descriptor, she is slowed for 1 round.
+
+**Construction**
+
+**Requirements** Forge Ring, [*beast shape I*](../magic/spells/beast-shape-i.md), [*poison*](../magic/spells/poison.md); **Cost** 7,500 gp
+
+*Source: Adventure Items.*
+
+## P
+
 ### Ring of Perfect Sizing
 
 **Slot** ring; **CL** 5th; **Price** 16,000 gp; **Weight** —
@@ -1308,6 +1352,18 @@ As an immediate action (1 AP of your next turn), the wearer can expend up to 4 p
 
 *Source: Player Companion Items, Psychic Items.*
 
+### Plague Prophet's Ring
+
+**Aura** strong divination and necromancy (evil); **CL** 20th; **Slot** ring; **Weight** —
+
+On donning the ring the wearer becomes the host of an infectious disease (the Mark of the Prophet) but is immune to its effects. Any creature that physically contacts the wearer (or one afflicted by the disease) must succeed at a Fortitude save or be infected. The disease deals 1d4 points of ability damage to the wearer's highest ability score (or her choice in case of a tie) on the victim. The save DC is 10 + the wearer's Hit Dice + her Charisma modifier. It can be cured as normal; creatures immune to disease are immune to it but gain none of the ring's abilities.
+
+Every infected creature becomes a potential host for the wearer's senses. The wearer always knows how many creatures are infected and can detect any one of them as a standard action (1 AP) as per [*status*](../magic/spells/status.md). By concentrating 1 minute she can see and hear through any infected individual's senses (as [*clairaudience/clairvoyance*](../magic/spells/clairaudience-clairvoyance.md)), remaining dimly aware of her surroundings, and can end it as an immediate action (1 AP of your next turn). She may do this any number of times per day. Once per day she can either cure any number of infected individuals within 300 feet or force them to make an additional save against the disease at a –5 penalty. Removing the ring or killing the wearer instantly cures all creatures afflicted by the disease.
+
+**Destruction** The ring shatters if the dread patron of pestilence it is bound to is slain. Alternatively, it is destroyed if a creature immune to disease wears it and casts [*remove disease*](../magic/spells/remove-disease.md) on at least one victim of every different disease known to the world.
+
+*Source: Artifacts and Legends.*
+
 ### Ring of Plagues
 
 **Aura** moderate necromancy **CL** 11th
@@ -1336,6 +1392,40 @@ This large silver ring has a massive setting for a cloudy white crystal about an
 
 *Source: Planar Items.*
 
+### Planefarer's Band
+
+*Aura* moderate transmutation; *CL* 10th; *Slot* ring; *Price* 30,000 gp; *Weight* —
+
+Once per day, the wearer can attune this ring to one of the four Elemental Planes for 24 hours. While on that plane, the ring grants the wearer the benefits below. Once per day on command, the wearer can gain these benefits even when on a different plane, but the effects last only 10 minutes.
+
+- **Plane of Air**: A fly speed of 20 feet (average) and a +4 insight bonus on Wisdom checks to change the direction of gravity in an area with the subjective gravity planar trait.
+- **Plane of Earth**: Darkvision 60 feet, and the wearer can walk across rock, metal, and other earthen surfaces as if under [*spider climb*](../magic/spells/spider-climb.md).
+- **Plane of Fire**: Fire resistance 20, and the wearer can walk atop lava, bubbling tar, and other dangerously hot surfaces as if under [*water walk*](../magic/spells/water-walk.md).
+- **Plane of Water**: The wearer can breathe underwater and gains a swim speed of 40 feet.
+
+*Construction* Forge Ring, [*planar adaptation*](../magic/spells/planar-adaptation.md); Cost 15,000 gp.
+
+*Source: Planar Items.*
+
+### Planefarer's Band
+
+**Aura** moderate transmutation; **CL** 10th  
+**Slot** ring; **Price** 30,000 gp; **Weight** —
+
+Once per day, the wearer of this ring can attune it to one of the four Elemental Planes for 24 hours. While on that plane, the ring grants the wearer the corresponding benefits below. Once per day on command, the wearer can gain these benefits even when on a different plane, but the effects last only 10 minutes.
+
+Plane of Air: The wearer gains a fly speed of 20 feet (average) and gains a +4 insight bonus on Wisdom checks to change the direction of gravity in an area with the subjective gravity planar trait.
+
+Plane of Earth: The wearer gains darkvision with a range of 60 feet, and she can walk across rock, metal, and other earthen surfaces as if under the effects of spider climb.
+
+Plane of Fire: The wearer gains fire resistance 20 and is able to walk atop lava, bubbling tar, and other dangerously hot surfaces as if under the effects of water walk.
+
+Plane of Water: The wearer can breathe underwater and gains a swim speed of 40 feet. Construction
+
+**Requirements** Forge Ring, planar adaptation; **Cost** 15,000 gp
+
+*Source: Rings, Ring Descriptions.*
+
 ### Ring of Powerful Blood Magic
 
 *Aura* moderate evocation; *CL* 9th; *Slot* ring; *Price* 3,000 gp; *Weight* —
@@ -1345,6 +1435,20 @@ When the wearer of this ring is bloodraging and casts a spell, as a swift action
 *Construction* Forge Ring, Spell Focus, creator must have the bloodrage class feature; Cost 1,500 gp.
 
 *Source: Advanced Class Guide Rings.*
+
+### Profane Seal Signet
+
+**Aura** faint abjuration, enchantment, and universal **CL** 5th
+
+**Slot** ring; **Price** 3,000 gp; **Weight** —
+
+This ring is made of red gold with a single ruby cut into a pentagon shape. It functions as a *ring of protection +1*. In addition, the wearer may use* arcane mark* at will, but only on objects and willing creatures. Once per day, the wearer may use* wrath*.
+
+**Construction**
+
+**Requirements** Forge Ring, [*arcane mark*](../magic/spells/arcane-mark.md),* shield of faith*,* wrath*, creator must be at least 3rd level; **Cost** 1,500 gp
+
+*Source: Adventure Items.*
 
 ### Ring of Protected Life
 
@@ -1382,6 +1486,21 @@ A ring of psychic mastery grants the caster 1 additional psychic spell per day f
 
 *Source: Occult Adventures Rings.*
 
+## R
+
+### Ring of the Ram
+
+**Aura** moderate transmutation; **CL** 9th  
+**Slot** ring; **Price** 8,600 gp; **Weight** —
+
+The ring of the ram is an ornate ring forged of hard metal, usually iron or an iron alloy. It has the head of a ram as its device. The wearer can command the ring to give forth a ram-like force, manifested by a vaguely discernible shape that resembles the head of a ram or a goat. This force strikes a single target, dealing 1d6 points of damage if 1 charge is expended, 2d6 points if 2 charges are used, or 3d6 points if 3 charges (the maximum) are used. Treat this as a ranged attack with a 50-foot maximum range and no penalties for distance. The force of the blow is considerable, and those struck by the ring are subject to a bull rush if within 30 feet of the ring-wearer. The ram is Large and uses the ring’s caster level as its base attack bonus with a Strength of 25. This gives the ram a Combat Maneuver Bonus of +17. The ram gains a +1 bonus on the bull rush attempt if 2 charges are expended, or +2 if 3 charges are expended. In addition to its attack mode, the ring of the ram also has the power to open doors as if it were a character with Strength 25. This expends 1 charge. If 2 charges are expended, the effect is equivalent to a character with Strength 27. If 3 charges are expended, the effect is that of a character with Strength 29.
+
+A newly created ring has 50 charges. When all the charges are expended, the ring becomes a nonmagical item.
+
+**Requirements** Forge Ring, bull’s strength, telekinesis; **Cost** 4,300 gp
+
+*Source: Rings, Ring Descriptions.*
+
 ### Ring of Rat Fangs
 
 **Aura** faint transmutation; **CL** 3rd  
@@ -1392,6 +1511,38 @@ This bone ring is the shape of an elongated rat biting its own tail. The wearer 
 **Construction** Forge Ring, [*magic fang*](../magic/spells/magic-fang.md), [*polymorph*](../magic/spells/polymorph.md); **Cost** 2,500 gp
 
 *Source: Racial Magic Items (Advanced Race Guide), Ratfolk Items.*
+
+### Ring of the Recalled Soul
+
+**Aura** moderate illusion **CL** 18th
+
+**Slot** ring; **Price** 150,000 gp; **Weight** —
+
+The *ring of the recalled soul* allows the wearer to open a door into a nearby mindscape they are aware of as if using the spell [*mindscape door*](../magic/spells/mindscape-door.md), but the targeted creature cannot resist this effect with a Will save. If the ring’s wearer connects to the mindscape, he can designate up to 10 other creatures to be able to see and pass through the door as though it were a normal doorway. The ring grants no ability to detect mindscapes, so the wearer must already be aware of its existence via interactions, hearsay, or the* detect mindscape* spell.
+
+Once the ring’s wearer has connected to the mindscape, he can open the door to that particular mindscape from anywhere on the same plane, so long as the mindscape still exists. Physical distance poses no barrier to the mindscape. Each time the ring’s wearer opens the door to a mindscape he has previously visited, he can alter the designated creatures allowed to pass through the door as if he were opening the door for the first time.
+
+The ring’s wearer cannot prevent creatures within the mindscape from exiting to the real world so long as the door is open. The ring’s wearer can close the door to the mindscape at any time as long as he is not within the mindscape.
+
+**Construction**
+
+**Requirements** Forge Ring, [*mindscape door*](../magic/spells/mindscape-door.md); **Cost** 75,000 gp
+
+*Source: Adventure Items.*
+
+### Red Hound Ring
+
+**Aura** faint abjuration, conjuration, and transmutation **CL** 5th
+
+**Slot** ring; **Price** 4,700 gp; **Weight** —
+
+This white gold ring is engraved with the images of a mastiff and a thundercloud. It functions as a *ring of protection +1*. In addition, once per day, the wearer may use* summon monster I* to summon a red mastiff (use statistics for a celestial dog). Additionally, once per day the wearer may use* beast shape I* to transform into a Small red mastiff.
+
+**Construction**
+
+**Requirements** Forge Ring, [*beast shape I*](../magic/spells/beast-shape-i.md),* shield of faith*,* summon monster I*, creator must be at least 3rd level; **Cost** 2,350 gp
+
+*Source: Adventure Items.*
 
 ### Ring of Refusal
 
@@ -1501,6 +1652,71 @@ Dungeon Ring Dungeon Ring Ring of Revelation Ring of Maniacal Devices Ring of Ar
 
 *Source: Advanced Player's Guide Rings.*
 
+### Rings of Alien Geometries
+
+**Aura** moderate conjuration; **CL** 10th  
+**Slot** none; **Price** 30,000 gp; **Weight** —
+
+A short silver chain joins these two crystal rings together. When worn on two adjacent fingers of the same hand, the two rings occupy a single ring slot. Once per day as a standard action (1 AP), the wearer of a pair of *rings of alien geometries* can create two shimmering portals, each 5 feet in diameter and surrounded by a 4-inch-thick ring of force. Only one side of each portal functions as a gateway; the other side is blocked (as if by a [*wall of force*](../magic/spells/wall-of-force.md)). Each portal must be oriented vertically and be within 30 feet of the wearer at the time of creation. Medium or smaller creatures can move through either portal as easily as moving to an adjacent square, stepping out of the other portal. Large creatures can squeeze through but can’t end movement halfway through a portal. Any creature farther than 5 feet away from a portal has no line of sight or line of effect through it to the other portal, but a creature adjacent to one of the portals can attack through it as though the square directly in front of the other portal were adjacent to the creature.
+
+Both of the portals vanish after 10 rounds. Destroying a portal is possible only with spells or attacks that can destroy a [*wall of force*](../magic/spells/wall-of-force.md). Destroying one portal causes the other portal to immediately collapse.
+
+**Requirements** Forge Ring, [*dimension door*](../magic/spells/dimension-door.md), [*wall of force*](../magic/spells/wall-of-force.md); **Cost** 15,000 gp
+
+*Source: Horror Adventures Rings.*
+
+### Rings of Bondage
+
+**Aura** moderate enchantment; **CL** 7th  
+**Slot** ring; **Price** 18,200 gp; **Weight** —
+
+These rings are forged in pairs, establishing a mental connection between the two creatures wearing them, designating one as the master and the other as the servant. The listed price and cost are for both rings. Creatures wearing *rings of bondage* can understand one another’s speech. The wearer of the master ring gains a +6 competence bonus on Sense Motive checks against the servant and is continuously aware of the location and general condition of the wearer of the servant ring, as the [*status*](../magic/spells/status.md) spell.
+
+In addition, once per day, the wearer of the master *ring of bondage* can impose her will upon the wearer of the servant ring, compelling the servant to perform or refrain from an action as if subjected to a [*lesser geas*](../magic/spells/geas-lesser.md) (Will DC 16 negates). Alternatively, this effect can be executed as a contract between the wearers: as long as the wearer of the master ring is a valid target for *lesser geas*, she can accept a *lesser geas* dictated by the wearer of the servant ring. In such an event, neither wearer is entitled to a saving throw and both are compelled by the *lesser geas* to fulfill the terms of the agreement. If the wearer of the servant ring is unwilling to agree to such a contract, she can always select a *lesser geas* such as “remove the *lesser geas* from me.”
+
+As long as a [*lesser geas*](../magic/spells/geas-lesser.md) imposed by a *ring of bondage* remains in effect, neither ring can be removed. If either ring is destroyed, the effects of the *lesser geas* remain in place, but the surviving ring can’t create a new *lesser geas* until the missing ring is repaired or replaced. If a mutual *lesser geas* is accepted and one *lesser geas* is ended, both *lesser geas* effects end simultaneously.
+
+A target can have a *ring of bondage* forcibly placed on its finger, but only if that creature is helpless.
+
+**Requirements** Forge Ring, [*detect thoughts*](../magic/spells/detect-thoughts.md), [*lesser geas*](../magic/spells/geas-lesser.md), [*sanctuary*](../magic/spells/sanctuary.md), [*share language*](../magic/spells/share-language.md), [*status*](../magic/spells/status.md); **Cost** 9,100 gp
+
+*Source: Ultimate Intrigue Rings.*
+
+### Rings of Bondage, Greater
+
+**Aura** moderate enchantment; **CL** 11th  
+**Slot** ring; **Price** 42,000 gp; **Weight** —
+
+These specialized rings function as *rings of bondage*, but a command imposed by the wearer of the master ring (including a mutual agreement affecting both wearers) takes 10 minutes to activate, is permanent, and functions as *geas/quest,* except a DC 16 Will save still negates it*.* In addition, the wearer of the master ring gains a continuous [*sanctuary*](../magic/spells/sanctuary.md) (DC 16) effect against the wearer of the servant ring, with a save required for every attack the servant makes against the master (including area attacks, but no save is required when directing allies or controlled creatures to attack the wearer); a failed save prevents only that single attack. Each time the servant successfully attacks the master, he must succeed at a second DC 16 Will save or be affected as [*bestow curse*](../magic/spells/bestow-curse.md).
+
+**Requirements** Forge Ring, [*bestow curse*](../magic/spells/bestow-curse.md), [*detect thoughts*](../magic/spells/detect-thoughts.md), [*geas/quest*](../magic/spells/geas-quest.md), [*sanctuary*](../magic/spells/sanctuary.md), [*share language*](../magic/spells/share-language.md), [*status*](../magic/spells/status.md); **Cost** 21,000 gp
+
+*Source: Ultimate Intrigue Rings.*
+
+### Rings of Friend-Finding
+
+**Slot** ring; **CL** 7th; **Price** 9,000 gp (pair); **Weight** —
+
+**Aura** moderate enchantment
+
+These specialized rings are sold in pairs and help allies find one another. Each of the wearers must wear the rings for 24 hours before they function, after which each wearer can activate her ring of friend-finding as a standard action (1 AP), enabling her to determine the direction, distance, and general condition of the wearer of the other ring as a [*status*](../magic/spells/status.md) spell.
+
+**Construction Requirements:** Forge Ring, [*detect thoughts*](../magic/spells/detect-thoughts.md), [*status*](../magic/spells/status.md); **Cost** 4,500 gp
+
+*Source: Player Companion Items, Allies and Hirelings.*
+
+### Riverclub Ring
+
+**Slot** ring; **CL** 5th; **Price** 1,000 gp; **Weight** —
+
+**Aura** faint conjuration
+
+Popular among riverfolk who prefer to work their waterway unarmed, this simple bronze band can transform into a handy weapon in a pinch. When the wearer of a *riverclub ring* plunges her hand into at least 1 gallon of water as a move action (1 AP), she can pull forth a club made of animated water. The weapon maintains the shape, solidity, and statistics of a masterwork club of the wielder's size so long as she holds it, dealing damage as normal, except that it deals 1 additional point of damage against creatures with the fire subtype. The club turns back into a puddle of water again as soon as the wielder loosens her grip around it.
+
+**Construction Requirements:** Forge Ring, [*icicle dagger*](../magic/spells/icicle-dagger.md); **Cost** 500 gp
+
+*Source: Player Companion Items, River and Metal Items.*
+
 ### Ring of Rulership
 
 **Slot** ring; **CL** 12th; **Price** 14,000 gp; **Weight** —
@@ -1519,6 +1735,8 @@ The power of the ring can rule no more than three creatures at a time; to rule a
 
 *Source: Villain Codex Items, Regal Court.*
 
+## S
+
 ### Ring of Sacred Mistletoe
 
 **Aura** faint transmutation; **CL** 1st  
@@ -1529,6 +1747,58 @@ This tiny ring of living mistletoe coils about the wearer’s finger of its own 
 Furthermore, the wearer can use [*shillelagh*](../magic/spells/shillelagh.md) once per day.
 
 **Requirements** Forge Ring, [*pass without trace*](../magic/spells/pass-without-trace.md), [*shillelagh*](../magic/spells/shillelagh.md); **Cost** 3,000 gp
+
+*Source: Ultimate Equipment Rings.*
+
+### Saltspray Ring
+
+**Aura** faint conjuration and transmutation **CL** 5th
+
+**Slot** ring; **Price** 4,500 gp; **Weight** —
+
+This mithral ring is engraved with a pattern of rolling waves that encircles the entire band. The *saltspray ring* is immune to rust, both from natural oxidation and rust caused by magical effects.
+
+Upon command, the ring causes a thick vapor to continuously surround its owner as per [*obscuring mist*](../magic/spells/obscuring-mist.md), except the mist has a 10-foot radius from the wearer and the area of effect moves with the wearer. This mist is exceedingly wet and extinguishes all nonmagical fires within its area. Magical fires and creatures with the fire subtype are not dispelled or adversely affected by the mist, though such creatures find being in the fog to be an uncomfortable experience. The mist does not permit aquatic creatures without the amphibious special quality to breathe out of water, but creatures that must remain wet or suffer a negative effect or condition have that requirement satisfied by the ring’s effect. This effect can be dismissed as a standard action (1 AP). The ring has no effect whatsoever underwater.
+
+**Construction**
+
+**Requirements** Forge Ring, [*obscuring mist*](../magic/spells/obscuring-mist.md),* quench*; **Cost** 2,250 gp
+
+*Source: Adventure Items.*
+
+### Scavenger's Ring
+
+**Slot** ring; **CL** 7th; **Price** 15,000 gp; **Weight** —
+
+**Aura** moderate abjuration
+
+This polished iron band allows the wearer to walk along the ocean floor as easily as on dry land. The wearer of a *scavenger's ring* sinks to the bottom of any large body of water at a rate of 30 feet per round. Once on the body of water's floor, the wearer can move and act as though she were on land, allowing her to jump, roll, attack, and run as normal, although she cannot swim (nor can she control her ascent or descent underwater) as long as she wears the ring. As soon as the wearer removes the ring, she may swim as normal and is subject to all the normal penalties associated with underwater action. A *scavenger's ring* does not confer the ability to breathe water underwater.
+
+**Construction Requirements:** Forge Ring, [*freedom of movement*](../magic/spells/freedom-of-movement.md); **Cost** 7,500 gp
+
+*Source: Player Companion Items, Marketplace Nautical Items.*
+
+### Scholar’s Ring
+
+**Aura** moderate conjuration; **CL** 5th  
+**Slot** ring; **Price** 8,700 gp; **Weight** —
+
+A *scholar’s ring* grants complete understanding of any written text or spoken language, even one that the wearer has never encountered before (as the [*comprehend languages*](../magic/spells/comprehend-languages.md) spell), as well as a +5 competence bonus on Knowledge (history) checks.
+
+In addition, once every 5 days the wearer can invoke a [*legend lore*](../magic/spells/legend-lore.md) spell related to a subject that she has been studying in the previous week, if she has attempted a Knowledge (history) check aided by the ring.
+
+**Requirements** Forge Ring, *comprehend languages, legend lore*; **Cost** 4,350 gp
+
+*Source: Ultimate Equipment Rings.*
+
+### Ring of the Sea Strider
+
+**Aura** moderate conjuration; **CL** 7th  
+**Slot** ring; **Price** 14,000 gp; **Weight** —
+
+This ring is made of a single piece of deep blue crystal. The ring grants its wearer a swim speed of 30 feet, as well as +8 racial bonus on swim checks for having a swim speed. Furthermore, once per day as a swift action (1 AP), as long as the wearer is in contact with liquid, he can use [*dimension door*](../magic/spells/dimension-door.md) as the spell, but its starting and ending points must be connected by a contagious mass of liquid.
+
+**Requirements** Forge Ring, [*dimension door*](../magic/spells/dimension-door.md), [*touch of the sea*](../magic/spells/touch-of-the-sea.md); **Cost** 7,000 gp
 
 *Source: Ultimate Equipment Rings.*
 
@@ -1596,6 +1866,39 @@ This bronze band is covered in geometric shapes and studded with tiny pearls. Th
 
 *Source: Adventure Items.*
 
+### Seven-Pointed Ring
+
+**Aura** moderate abjuration and illusion **CL** 9th
+
+**Slot** ring; **Price** 35,000 gp; **Weight** —
+
+This otherwise plain ring is adorned with a tiny seven-pointed rune. These rings were given to agents and allies of ancient archmages as badges of office and tokens of appreciation for their work—sometimes, they were given as bribes to those an archmage was attempting to win to his cause. Like the more common *seven-pointed medallion*, those archmages had special links to* seven-pointed rings* that aid in scrying and observation of the world around the wearer of the ring.
+
+A *seven-pointed ring* grants a +3 deflection bonus to AC, a +3 resistance bonus on all saving throws, and protects the wearer with a constant [*endure elements*](../magic/spells/endure-elements.md) effect. At will, as a standard action (1 AP), the wearer can use the *seven-pointed ring* to change the appearance of his clothing or armor into any other kind of clothing or armor. The actual clothing and armor worn retain all their properties (including weight) when glamered. Only [*true seeing*](../magic/spells/true-seeing.md) or similar magic reveals the true nature of the adornments.
+
+**Construction**
+
+**Requirements** Forge Ring, [*endure elements*](../magic/spells/endure-elements.md),* resistance*,* shield*; **Cost** 17,500 gp
+
+*Source: Adventure Items.*
+
+### Ring of the Shadow Victim
+
+**Aura** moderate illusion; **CL** 7th  
+**Slot** ring; **Price** 101,000 gp; **Weight** —
+
+This smooth, lusterless gray ring is crafted of dark glass and has the image of a body carved into its band. Once per day, the wearer of this ring can perform a complex mental and verbal ritual, repeatedly whispering the ring’s command word, while touching any humanoid corpse that has been dead for less than 1 week. The creature must have had 7 Hit Dice or fewer in life. This ritual can be as short as 1 round or could last up to 24 hours. It requires both total focus and constant contact between the ring, the wearer, and the target corpse. Interruption of any kind spoils the ritual, requiring the wearer to begin anew. The wearer of the ring chooses how long this ritual will last, but that decision must be made before she begins the ritual.
+
+On the ritual’s completion, an illusory duplicate of the creature touched—partially real and formed of animate ice cloaked in magical shadow—springs into existence. This functions as [*lesser simulacrum*](../magic/spells/simulacrum-lesser.md) in all ways unless stated otherwise. The wearer of this ring gains a +10 bonus on the Disguise check when performing this ritual. The shadow creature appears in all ways to be hearty and full of life, equipped with all of the gear and clothing that was carried or worn by the corpse throughout the ritual. At the same moment the shadow creature is completed, the targeted corpse and all of its attendant equipment vanishes, melting away like snow.
+
+The false creature brought into existence by the *ring of the shadow victim* has the same base ability scores, type, and subtype as the targeted corpse. It appears in all ways to be the same individual as the corpse touched, and it retains the general personality, attitude, abilities, and intellect of that creature. However, this duplicate doesn’t possess any memories that the wearer of the ring doesn’t also possess, has no spell-like or supernatural abilities, can’t use activated extraordinary abilities, can’t gain the benefits of healing, can’t gain levels or increase its abilities, and can’t have more than 3 Hit Dice.
+
+This false creature behaves much like the target did in life, except it has a starting attitude of helpful toward the ring’s wearer and is generally willing to assist the wearer in any endeavor. The shadow creature will take nearly any action to aid the wearer of the ring, including dangerous, foolish or suicidal actions. This semi-illusory creature remains in existence for a duration equal to 7 × the length of the initial ritual that created it, until the wearer removes the *ring of the shadow victim*, until the wearer activates the ring again, or until the creature is destroyed by violence, whichever comes first. At that time, the duplicate vanishes and the original corpse, unchanged from when the initial ritual was completed, appears in its place.
+
+**Requirements** Forge Ring, [*alter self*](../magic/spells/alter-self.md), [*gentle repose*](../magic/spells/gentle-repose.md), [*lesser simulacrum*](../magic/spells/simulacrum-lesser.md); **Cost** 50,500 gp
+
+*Source: Ultimate Intrigue Rings.*
+
 ### Ring of Shooting Stars
 
 **Aura** strong evocation; **CL** 12th  
@@ -1626,6 +1929,56 @@ The spark shower is a flying cloud of sizzling purple sparks that fan out from t
 **Requirements** Forge Ring, faerie fire, fireball, light, lightning bolt; **Cost** 25,000 gp
 
 *Source: Rings, Ring Descriptions.*
+
+### Sigil of the Sky Citadel
+
+**Aura** moderate abjuration; **CL** 10th  
+**Slot** ring; **Price** 16,000 gp; **Weight** —
+
+This adamantine band is capped with a stone sigil of the first clan to settle a sky citadel. This ring is keyed to interact with several devices and traps within the vaults—storehouses of ancient history and family wealth—of the sky citadel. The ring grants its wearer acid resistance 10. Three times per day as a swift action (1 AP), the wearer can make himself undetectable by crafted and magical traps and creatures of the construct type for the following minute. This functions like greater invisibility within these limits and also prevents the character’s weight or presence from triggering traps. Construction
+
+**Requirements** Forge Ring, resist energy, sanctuary; **Cost** 8,000 gp
+
+*Source: Rings, Ring Descriptions.*
+
+### Society Ring
+
+**Slot** ring; **CL** 5th; **Price** 8,000 gp; **Weight** —
+
+**Aura** faint abjuration, divination, illusion, and transmutation
+
+The flat bezel of this signet ring is typically set with a semiprecious gem. If the wearer of the ring is successfully inducted into a group or organization through an initiation ritual, the ring becomes attuned to that organization and wearer. A suitable initiation ritual takes at least 10 minutes and at the very least involves a pledge of allegiance to the group or organization, but it can take a variety of forms. The crest or symbol of the organization appears engraved on the gem, and the ring becomes invisible (as per [*invisibility*](../magic/spells/invisibility.md)) and hidden from scrying effects (as per [*obscure object*](../magic/spells/obscure-object.md)) to all except those who also wear society rings attuned to the same organization (referred to below as "similar rings"). Creatures that are capable of seeing invisible objects, such as via [*see invisibility*](../magic/spells/see-invisibility.md), can still perceive a society ring.
+
+Once attuned, the society ring's wearer can communicate with wearers of similar rings within 150 feet (as per [*message*](../magic/spells/message.md)). It also grants +10 competence bonuses on Bluff checks to pass secret messages to members of the attuned organization and Sense Motive checks to receive secret messages from them. In addition, if the wearer touches his society ring to a similar ring, for the following hour, the wearer can sense the direction and distance to that ring, as well as any conditions affecting its wearer (as per [*status*](../magic/spells/status.md)). Only one ring at a time can be linked in this way; if the wearer touches his ring to another similar ring within the duration of the effect, the status effect switches to the most recently touched ring.
+
+If a society ring is worn or carried by a creature other than the attuned wearer, the ring silently alerts attuned ring wearers from the same organization within 1 mile (as per [*alarm*](../magic/spells/alarm.md)), does not display the crest or symbol of the attuned organization, and glows with a red aura visible only to wearers of similar rings. A new owner can end this effect by becoming initiated into any organization, at which point the ring attunes to the new wearer and organization.
+
+**Construction Requirements:** Forge Ring, [*alarm*](../magic/spells/alarm.md), [*hidden speech*](../magic/spells/hidden-speech.md), [*invisibility*](../magic/spells/invisibility.md), [*message*](../magic/spells/message.md), [*obscure object*](../magic/spells/obscure-object.md), [*status*](../magic/spells/status.md), creator must have at least 10 ranks in both Bluff and Sense Motive; **Cost** 4,000 gp
+
+*Source: Villain Codex Items, Secret Society.*
+
+### Ring of the Sophisticate
+
+**Aura** moderate transmutation and divination; **CL** 8th  
+**Slot** ring; **Price** 11,000 gp; **Weight** —
+
+A favorite ring of urban half-elves, humans, and halflings, this small and plain silver band is set with a single radiant-cut sapphire and decorated with a mazelike pattern engraved into the ring’s metal. Often worn on the little finger, the ring grants its wearer a +4 competence bonus on Sense Motive and Knowledge (local) checks. Also, once per day on command, the wearer can use the ring to cast either [*locate creature*](../magic/spells/locate-creature.md) or [*locate object*](../magic/spells/locate-object.md) (the wearer’s choice). Furthermore, on command and at will, the wearer can instantly know the direction from her to the nearest tavern, pub, or similar watering hole as long as that establishment is in a settlement whose population is equivalent to that of a village or greater and which is within 20 miles of the wearer.
+
+**Construction** Forge Ring, know direction, locate creature, locate object, creator must have at least 4 ranks in both Sense Motive and Knowledge (local); **Cost** 5,500 gp
+
+*Source: Racial Magic Items (Advanced Race Guide), Half-Elf Items.*
+
+### Soultether Ring
+
+**Slot** ring; **CL** 17th; **Price** 8,000 gp; **Weight** —
+
+**Aura** strong necromancy
+
+When the wearer of this delicate platinum ring dies, his soul remains adrift in the river of souls and does not proceed to its final judgment in the Boneyard. Until the soultether ring is removed from the corpse, the time limit for restoring the creature to life via spells such as [*raise dead*](../magic/spells/raise-dead.md) or [*resurrection*](../magic/spells/resurrection.md) is suspended. This ring has no effect if it is placed upon a corpse; it must be worn at the time the creature dies to tether its soul. Psychopomps and other servants of the god of death consider soultether rings to be sacrilegious, and the creatures destroy the rings whenever possible.
+
+**Construction Requirements:** Forge Ring, [*soul bind*](../magic/spells/soul-bind.md) or [*true resurrection*](../magic/spells/true-resurrection.md); **Cost** 4,000 gp
+
+*Source: Planar Items.*
 
 ### Ring of Spell Devouring
 
@@ -1703,6 +2056,22 @@ Up to three times per day on command, this simple platinum band automatically re
 
 *Source: Rings, Ring Descriptions.*
 
+### Spiritualist Rings
+
+**Aura** strong necromancy; **CL** 12th  
+**Slot** ring; **Price** 70,000 gp; **Weight** —
+
+These four garish and gaudy rings must be worn on one hand, though they take up only a single ring slot. They grant the wearer the ability to commune with and affect the dead in the following ways.
+
+- The wearer can use speak with dead, as the spell, three times per day. It takes 10 minutes to use this ability.
+- The wearer can use spectral hand, as the spell, three times per day.
+- The wearer’s weapons gain the ghost touch weapon special ability while the wearer is wielding the weapons.
+- The wearer gains a +4 sacred or profane bonus on saving throws against positive and negative energy effects. The bonus depends on the wearer’s alignment—good-aligned wearers gain a sacred bonus, whereas evil-aligned wearers gain a profane bonus. Neutral-aligned wearers pick either a sacred or profane bonus when the ring is first put on, which cannot be changed later .
+
+**Requirements** Forge Ring, [*speak with dead*](../magic/spells/speak-with-dead.md), [*spectral hand*](../magic/spells/spectral-hand.md), [*plane shift*](../magic/spells/plane-shift.md); **Cost** 45,000 gp
+
+*Source: Ultimate Equipment Rings.*
+
 ### Ring of Splendid Security
 
 **Aura** strong abjuration **CL** 16th
@@ -1716,6 +2085,20 @@ This extravagant ring is heavy with precious jewels. As fashions change (or as t
 **Requirements** Forge Ring, [*minor image*](../magic/spells/minor-image.md),* resistance*,* shield* or [*shield of faith*](../magic/spells/shield-of-faith.md),; **Cost** 90,000 gp
 
 *Source: Adventure Items.*
+
+### Splendorous Ring
+
+**Slot** ring; **CL** 3rd; **Price** 9,900 gp; **Weight** —
+
+**Aura** faint illusion
+
+A *splendorous ring* is composed of six white and yellow gemstones faceted in a platinum band. Three times per day, the wearer of a *splendorous ring* can twist the ring to cloak himself in an aura of glory. He appears both radiant and terrible, glowing with the might of the heavens. Anyone within 10 feet of the ring when it is activated must succeed at a DC 13 Will save or be fascinated by the wearer’s form as if affected by [*hypnotic pattern*](../magic/spells/hypnotic-pattern.md). 2d4+3 Hit Dice worth of creatures are affected in this way.
+
+The fascinating effect of the ring lasts for 3 rounds. During that time and for 5 rounds after, the ring’s wearer gains a +2 sacred bonus on any Charisma checks or Charisma-based skill checks to influence any good-aligned creatures affected by the ring’s [*hypnotic pattern*](../magic/spells/hypnotic-pattern.md) effect, and a –2 penalty on any Charisma checks or Charisma-based skill checks to influence any evil-aligned creatures affected by the *hypnotic pattern* effect.
+
+**Construction Requirements:** Forge Ring, [*eagle's splendor*](../magic/spells/eagles-splendor.md), [*hypnotic pattern*](../magic/spells/hypnotic-pattern.md), creator must be good-aligned; **Cost** 4,950 gp
+
+*Source: Patron Items, Items.*
 
 ### Ring of Stairs and Stars
 
@@ -1743,6 +2126,36 @@ This smooth mithral ring glimmers with light, and a close look reveals the refle
 
 *Source: Player Companion Items, Merchant Wearables.*
 
+### Steelhand Circle
+
+**Aura** moderate transmutation; **CL** 8th  
+**Slot** ring; **Price** 12,000 gp; **Weight** —
+
+When this ring is worn, the wielder’s skin attains a barely perceptible sheen. In practical terms, the wearer ignores the first 5 points of an object’s hardness when performing a sunder combat maneuver or when smashing an object. She also does not take the standard –4 penalty for making a combat maneuver check to disarm while unarmed.
+
+Additionally, the ring’s wearer can focus all of the ring’s power, possibly repelling a devastating blow. Once per day, when a critical hit or sneak attack is scored on the wearer, there is a 50% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. Using this ability is an immediate action (1 AP of your next turn), and the wearer must decide to use it before the critical hit or sneak attack damage is rolled.
+
+**Requirements** Forge Ring, [*stone fist*](../magic/spells/stone-fist.md), [*stoneskin*](../magic/spells/stoneskin.md); **Cost** 6,000 gp
+
+*Source: Ultimate Equipment Rings.*
+
+### Ring of the Stone Sibling
+
+**Aura** moderate conjuration; **CL** 9th  
+**Slot** ring; **Price** 7,400 gp; **Weight** —
+
+This gray ring looks like stone, but the material is soft and flexible. Once per day, as a standard action (1 AP), you can touch a stone wall with your hand to create a stone duplicate of yourself.
+
+Immediately upon activating the ring of the stone sibling, your double steps out of the wall. It appears to be a stone statue carved in an exact likeness of you. The stone double stands 10 feet away from you and mimics your movements, as if reflected in a mirror. As a move-equivalent action, you can mentally command the stone sibling to move to a new location, but it must remain within 30 feet of you at all times.
+
+The stone sibling has hardness 8 and 50 hit points. It can take no actions other than to aid you, which it does every round on your turn. The stone sibling makes a +5 aid another check each round, either to aid your attack rolls or your Armor Class, as you command. It continues to render the same aid indefinitely until you command it otherwise (which requires a move action (1 AP)).
+
+The stone sibling lasts for 10 minutes, until it is destroyed, or until you dismiss it (a standard action (1 AP)), whichever comes first. Construction
+
+**Requirements** Forge Ring, mirror image, stone shape; **Cost** 3,700 gp, 296 XP
+
+*Source: Rings, Ring Descriptions.*
+
 ### Ring of Stony Flesh
 
 **Aura** moderate abjuration **CL** 11th
@@ -1767,6 +2180,18 @@ This ring is made of black steel and is eerily cold to the touch. Once per day a
 **Requirements** Forge Ring, [*bull’s strength*](../magic/spells/bulls-strength.md), [*ray of enfeeblement*](../magic/spells/ray-of-enfeeblement.md); **Cost** 4,000 gp
 
 *Source: Ultimate Equipment Rings.*
+
+### Ring of the Sublime
+
+**Slot** ring; **CL** 1st; **Price** 2,000 gp; **Weight** —
+
+**Aura** faint abjuration
+
+This ornate gold ring is set with a single round sapphire and platinum stems. When worn, the ring of the sublime protects its wearer from fear effects as if constantly under the effects of [*remove fear*](../magic/spells/remove-fear.md). Wearers of rings of the sublime in the old empire often believe the ring’s ability to combat fear also removes social anxiety, making the wearer a more confident and self-assured member of high society.
+
+**Construction Requirements:** Forge Ring, [*remove fear*](../magic/spells/remove-fear.md); **Cost** 1,000 gp
+
+*Source: Player Companion Items, Old Empire Items.*
 
 ### Ring of Summoning Affinity (Aeon)
 
@@ -1902,6 +2327,17 @@ This iron ring’s head is shaped like a gilded anvil. In addition to the usual 
 
 *Source: Adventure Items.*
 
+### Survivor’s Ring
+
+**Aura** strong illusion; **CL** 18th  
+**Slot** ring; **Price** 56,160 gp; **Weight** —
+
+This ring is shaped like a silver snake with an onyx in its mouth. Once per day, if the wearer would be reduced to 0 or fewer hit points but not dead, she is instead reduced to 0 hit points and subject to an effect similar to [*mislead*](../magic/spells/mislead.md). Her illusory double appears to die or to take on the dying condition in her place, as appropriate for the negated effect. The wearer cannot control the double. In addition, the wearer can touch the ring’s stone as a standard action (1 AP) once per day to use [*dimension door*](../magic/spells/dimension-door.md) but only while the ring’s *mislead* effect is active.
+
+**Requirements** Forge Ring, [*death ward*](../magic/spells/death-ward.md), [*dimension door*](../magic/spells/dimension-door.md), [*mislead*](../magic/spells/mislead.md); **Cost** 28,080 gp
+
+*Source: Intrigue Magic Items.*
+
 ### Ring of Sustenance
 
 **Aura** faint conjuration; **CL** 5th  
@@ -1924,6 +2360,36 @@ This ring is crafted of hardened leather strips, into which bits of fur, feather
 
 *Source: Racial Magic Items (Advanced Race Guide), Ratfolk Items.*
 
+### Swarmwalker's Ring
+
+**Aura** moderate conjuration; **CL** 7th  
+**Slot** ring; **Price** 26,000 gp; **Weight** —
+
+This shining, ash-white ring of bone is crafted to look like countless interlocking rat fangs, set with a dozen dark, garnet eyes like those of albino sewer-hunters. The wearer of this ring can utter a command word to call forth 1d3 rat swarms within 40 feet. These swarms each act immediately and vanish after 7 rounds. They are independent and not under the wearer’s control, though the wearer is immune to the effects and attacks of any swarm created through use of this ring.
+
+Alternatively, upon command, the ring’s wearer can use dimension door. This magical transportation must begin and end in a square that includes a swarm summoned by use of this ring.
+
+This ring’s abilities can be used a total of three times per day, in any combination. An urban druid (Pathfinder RPG Advanced Player’s Guide 101) wearing this ring can gain one additional use per day by expending three daily uses of her wild shape ability. Construction
+
+**Requirements** Forge Ring, dimension door, summon swarm; **Cost** 13,000 gp
+
+*Source: Rings, Ring Descriptions.*
+
+### Swarmwalker’s Ring
+
+**Aura** moderate conjuration; **CL** 7th  
+**Slot** ring; **Price** 26,000 gp; **Weight** —
+
+This shining, ash-white ring of bone is crafted to look like countless interlocking rat fangs, set with a dozen dark, garnet eyes like those of albino sewer-hunters. The wearer of this ring can utter a command word to call forth 1d3 rat swarms within 40 feet. These swarms each act immediately and vanish after 7 rounds. They are independent and not under the wearer’s control, though the wearer is immune to the effects and attacks of any swarm created through use of this ring.
+
+Alternatively, upon command, the ring’s wearer can use [*dimension door*](../magic/spells/dimension-door.md). This magical transportation must begin and end in a square that includes a swarm summoned by use of this ring.
+
+This ring’s abilities can be used a total of three times per day, in any combination. An urban druid (* Advanced Player’s Guide* 101) wearing this ring can gain one additional use per day by expending three daily uses of her wild shape ability.
+
+**Requirements** Forge Ring, [*dimension door*](../magic/spells/dimension-door.md), [*summon swarm*](../magic/spells/summon-swarm.md); **Cost** 13,000 gp
+
+*Source: Ultimate Intrigue Rings.*
+
 ### Ring of Swimming
 
 **Aura** faint transmutation; **CL** 2nd  
@@ -1945,6 +2411,8 @@ As a ring of swimming, except it grants a +10 competence bonus on its wearer’s
 **Requirements** Forge Ring, creator must have 10 ranks in the Swim skill; **Cost** 5,000 gp
 
 *Source: Rings, Ring Descriptions.*
+
+## T
 
 ### Ring of Tactical Precision
 
@@ -1986,304 +2454,19 @@ The charge in the ring can come from multiple donors, but none of the donors can
 
 *Source: Player Companion Items, Infernal Empire Items.*
 
-### Ring of the Beast
+### The Bloodflame Ring
 
-*Aura* faint transmutation; *CL* 5th; *Slot* ring; *Price* 8,000 gp; *Weight* —
+**Aura** strong transmutation **CL** 15th
 
-Three types of rings of the beast exist; all three appear as yellowed bone carved in the shapes of wild beasts devouring their own tails. The type of beast depicted on each ring depends on the ring's nature, but could be a wolf (ring of the relentless beast), a rhinoceros (ring of the savage beast), or a tiger (ring of the swift beast). Once per day, a ring of the beast can be activated as a standard action (1 AP) to unleash the primal spirit hidden inside even the most peaceful creatures. When the ring is activated, the wearer gains a bonus to a single physical attribute and a penalty to a single mental attribute for 10 minutes, as determined by the type of ring. A ring of the relentless beast grants a +4 enhancement bonus to Constitution and a –2 penalty to Charisma. A ring of the savage beast grants a +4 enhancement bonus to Strength and a –2 penalty to Intelligence. A ring of the swift beast grants a +4 enhancement bonus to Dexterity and a –2 penalty to Wisdom. As long as the effects of this ring are active, the wearer also gains a +2 enhancement bonus to his natural armor bonus.
+**Slot** ring; **Price** 26,000 gp; **Weight** —
 
-*Construction* Forge Ring, [*barkskin*](../magic/spells/barkskin.md) and either [*bear's endurance*](../magic/spells/bears-endurance.md) (ring of the relentless beast), [*bull's strength*](../magic/spells/bulls-strength.md) (ring of the savage beast), or [*cat's grace*](../magic/spells/cats-grace.md) (ring of the swift beast); Cost 4,000 gp.
-
-*Source: Explorer's Society Items.*
-
-### Ring of the Cacodaemon
-
-**Aura** moderate necromancy **CL** 8th
-
-**Slot** ring; **Price** 15,000 gp; **Weight** —
-
-Sculpted into the intricate form of a golden cacodaemon, this ring features a decorative wide-open mouth and can hold a soul gem braced between its horns. The ring allows its wearer to tap into the residual memories of the mangled soul it contains. Once per day, the wearer can interrogate the soul in the gem, as per [*speak with dead*](../magic/spells/speak-with-dead.md), except the soul answers telepathically. Once per day, the bearer can project the soul’s last tormented moments before it was consumed and bound, creating a cone of terror as per* fear*.
+This beautiful adamantine ring is warm to the touch. Artful pictures etched inside it tell the tale of its creation; the imagery claims that this ring was one of the first items crafted by employing heat to coerce metal into shape. When worn, it transforms your blood into pure molten iron, which does not harm you, and provides certain benefits: you gain the fire subtype. Any creature striking you with its body or a handheld weapon deals normal damage, but at the same time the attacker takes 1d6 points of fire damage. Creatures that drain blood (such as stirges and vampires) take the standard fire damage for attacking you and you do not suffer any effects of their blood drain special ability. you count as a ferrous creature for the purpose of rusting grasp and similar effects.
 
 **Construction**
 
-**Requirements** Craft Wondrous Item, *fear, speak with dead*; **Cost** 7,500 gp
+**Requirements** Forge Ring, [*fire shield*](../magic/spells/fire-shield.md), [*iron body*](../magic/spells/iron-body.md); **Cost** 13,000 gp, 1,040 XP
 
 *Source: Adventure Items.*
-
-### Ring Of The Cacodaemon
-
-**Aura** strong necromancy; **CL** 8th
-
-**Slot** ring; **Price** 15,000 gp; **Weight** —
-
-Sculpted into the intricate form of a golden cacodaemon, this ring’s wide-open mouth is designed to hold a *soul gem* created by a cacodaemon. The ring allows its wearer to tap into the residual memories of the mangled soul it encapsulates. Once per day, the wearer may interrogate the soul in the gem, similar to using* speak with dead*, except the soul answers telepathically.
-
-Once per day, the bearer can project the soul’s last tormented moments before it was consumed and bound, creating a cone of terror equivalent to a [*fear*](../magic/spells/fear.md) spell.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, [*fear*](../magic/spells/fear.md),* speak with dead*; **Cost** 7,500 gp.
-
-*Source: Adventure Items.*
-
-### Ring of the Clean Hands
-
-**Aura** strong transmutation **CL** 9th
-
-**Price** 18,000 gp; **Weight** —
-
-This delicate ring of forged bronze is formed into the shape of two hands, which do not quite touch as they meet at the top of the wearer’s finger. A *ring of the clean hands* grants use of [*telekinesis*](../magic/spells/telekinesis.md) as a standard action (1 AP) and has 10 charges. These charges return at the start of the next day.
-
-The ring’s charges can be expended to create the following effects:
-
-*Combat maneuver*: This effect costs 3 charges for each round it is active, but otherwise functions as described by the spell [*telekinesis*](../magic/spells/telekinesis.md). The force created by this effect has a +9 base attack bonus, and is considered to have Strength 20 and Dexterity 20.
-
-*Force lash*: This effect costs 3 charges, striking out as if with an invisible whip. One target within 60 feet must make a DC 17 Will save or be struck for 4d6 points of nonlethal damage. This attack does not affect targets with a +3 or higher natural armor bonus, or a +1 or higher armor bonus.
-
-*Sustained force*: This effect costs 1 charge for each round it is active, but otherwise functions as described by the spell [*telekinesis*](../magic/spells/telekinesis.md), making it capable of lifting 225 lbs.
-
-*Violent thrust*: This effect costs 5 charges, but otherwise functions as described by the spell [*telekinesis*](../magic/spells/telekinesis.md), allowing you to throw up to 9 creatures or objects up to 90 feet, with a total weight of 225 lbs. The attack roll has a +9 modifier. The Will save is DC 17.
-
-**Construction**
-
-**Requirements** Forge Ring, [*telekinesis*](../magic/spells/telekinesis.md); **Cost** 9,000 gp, 720 XP
-
-*Source: Adventure Items.*
-
-### Ring of the Ecclesiarch
-
-**Aura** faint enchantment; **CL** 5th  
-**Slot** ring; **Price** 28,500 gp; **Weight** —
-
-This ornate ring of sanctified silver is engraved with a golden signet that incorporates the holy symbol of the wearer’s deity after being worn for 24 hours. The ring can be used to seal parchments or to mark any surface as the [*arcane mark*](../magic/spells/arcane-mark.md) spell at will. The wearer is marked as a scholarly leader of the faith and gains a +5 competence bonus on Diplomacy and Knowledge (religion) checks. If the wearer has the Leadership feat, she may attract double the normal number of followers, and her followers’ zealous devotion grants them a +4 morale bonus on Will saves against enchantment spells and effects.
-
-Once per day, the wearer of the ring can use [*prayer*](../magic/spells/prayer.md) and *enter image**,* often using the latter power to speak and observe through portraits, statues, and even minted coinage bearing their likeness.
-
-**Requirements** Forge Ring, *arcane mark, enter image, enthrall, prayer*, creator must have 5 ranks of Diplomacy and Knowledge (religion) and the ability to cast divine spells; **Cost** 14,250 gp
-
-*Source: Ultimate Equipment Rings.*
-
-### Ring of the Faithful Dead
-
-**Slot** ring; **CL** 3rd; **Price** 1,000 gp; **Weight** —
-
-**Aura** faint evocation
-
-This spiraling silver ring glows briefly when a living creature puts it on. If the wearer of a *ring of the faithful dead* is slain by a creature with the create spawn ability, the wearer does not rise as an undead creature, even if the ring is later removed. If a corpse is wearing a *ring of the faithful dead*, any attempts to create an undead creature from the corpse (such as via [*animate dead*](../magic/spells/animate-dead.md)) automatically fail, though simply removing the ring ends this protection.
-
-**Construction Requirements:** Forge Ring, [*sanctify corpse*](../magic/spells/sanctify-corpse.md); **Cost** 500 gp
-
-*Source: Temple Items, Grave Wardens.*
-
-### Ring of the Forge God
-
-**Aura** faint abjuration; **CL** 3rd  
-**Slot** ring; **Price** 1,200 gp; **Weight** —
-
-This simple golden ring has a large red gemstone set into it that sparkles with an inner fire. The wearer of the ring gains fire resistance 10 against the first fire attack that hits him that day. This protection renews itself every morning at dawn. In addition, the wearer receives a +1 resistance bonus on saves made against fire spells and effects. The ring must be worn for 24 hours to have any effect. Construction
-
-**Requirements** Forge Ring, resist energy; **Cost** 600 gp, 48 XP
-
-*Source: Rings, Ring Descriptions.*
-
-### Ring of the Godless
-
-**Slot** ring; **CL** 5th; **Price** 8,000 gp (+1), 17,000 gp (+2), 27,000 gp (+3), 38,000 gp (+4), 50,000 gp (+5); **Weight** —
-
-**Aura** faint abjuration and divination
-
-These rings are said to have first been forged by a secular council of elders to help root out the hidden faithful and other practitioners of the divine. A *ring of the godless* grants a luck bonus (+1 to +5) on saving throws against divine spells. This bonus does not apply to spell-like or supernatural abilities unless they are class abilities of a divine spellcasting class, such as channel energy or domain powers, or unless they are used by a creature that has been called, created, or summoned by divine magic. The wearer's spell resistance (if any) increases by an amount equal to the ring's luck bonus, though this increase applies only against divine spells (and spell-like abilities as described above). A *ring of the godless* also allows the wearer to use [*detect magic*](../magic/spells/detect-magic.md) at will, though it detects only divine magic. In addition, the wearer can use a specialized form of [*arcane sight*](../magic/spells/arcane-sight.md) a number of times per day equal to the ring's luck bonus. This ability can be activated as a swift action (1 AP), its effect lasts until the end of the wearer's turn, and it detects only divine magic or divine spellcasting ability.
-
-**Construction Requirements:** Forge Ring, [*arcane sight*](../magic/spells/arcane-sight.md), [*detect magic*](../magic/spells/detect-magic.md), [*spell resistance*](../magic/spells/spell-resistance.md), creator cannot be a divine spellcaster, creator must be of a level at least three times higher than the bonus of the ring; **Cost** 4,000 gp (+1), 8,500 gp (+2), 13,500 gp (+3), 19,000 gp (+4), 25,000 gp (+5)
-
-*Source: Player Companion Items, Desert Items.*
-
-### Ring of the Grasping Grave
-
-**Aura** faint necromancy; **CL** 1st  
-**Slot** ring; **Price** 2,000 gp; **Weight** —
-
-The wearer of this ring can make a melee touch attack against an undead creature no more than one size category larger than himself, cutting off that creature from undying energy. The wearer never suffers any ill effects that might normally occur from coming into physical contact with an undead creature touched in this way. On a successful hit, the undead cannot be healed or aided by the effects of negative energy for 1d4 rounds. During this duration, positive energy affects the undead creature normally.
-
-**Requirements** Forge Ring, *sculpt corpse**; **Cost** 1,000 gp
-
-*Source: Ultimate Equipment Rings.*
-
-### Ring of the Hidden Psyche
-
-**Aura** strong (no school); **CL** 18th  
-**Price** 160,000 gp; **Slot** ring; **Weight** —
-
-This ring resembles a ring of psychic mastery, but its flawless sapphire serves as a vessel for the wearer’s soul. It possesses all the abilities of a ring of psychic mastery in addition to the following effects.
-
-The wearer’s soul instantly enters the ring upon the wearer’s death, even if her body is utterly destroyed. This counts as an object possession spell, except that the possessing soul cannot animate the ring and must instead wait for someone to wear it. From inside the ring, she can attempt a greater possession on anyone who voluntarily wears the ring (Will DC 23 negates). A successful save against the greater possession effect renders the new wearer immune to further such attempts for 24 hours. Dispelling the object possession effect on the ring banishes the soul from the ring to its appropriate afterlife. Otherwise, a soul can remain in the ring indefinitely. While in the ring, the soul knows when a creature has put on the ring. The soul can’t otherwise sense the area around it or take actions other than attempting the greater possession effect.
-
-A ring of the hidden psyche resists attempts to discern its true nature. Detect magic reveals only the properties of a ring of psychic mastery, though identify or stronger magic can reveal the ring’s full powers if the caster succeeds at a DC 23 Will save.
-
-**Construction** Forge Ring, greater possession, magic aura, object possession, wish; **Cost** 80,000 gp
-
-*Source: Occult Adventures Rings.*
-
-### Ring of the Holy Knight
-
-**Aura** faint enchantment and transmutation; **CL** 5th  
-**Slot** ring; **Price** 3,000 gp; **Weight** —
-
-This simple gold band is engraved with the holy symbol of the goddess of valor. It functions as a ring of protection +1. In addition, the wearer can cast bless weapon and wartrain mount each once per day. At will, the wearer can make himself presentable as if using prestidigitation to clean up his clothing, skin, hair, and armor. Construction
-
-**Requirements** Forge Ring, bless weapon, prestidigitation, shield of faith, wartrain mount, creator must be at least 3rd level; **Cost** 1,500 gp
-
-*Source: Rings, Ring Descriptions.*
-
-### Ring of the Iron Skull
-
-**Aura** faint divination **CL** 5th
-
-**Slot** ring; **Price** 10,800 gp; **Weight** —
-
-Crudely cut amethysts and a single engraved skull decorate the band of this thick iron ring. The ring grants its wearer a +5 competence bonus on Appraise checks to determine the most valuable item in a treasure hoard and a +5 competence bonus on Heal checks to ascertain details of a dead creature’s demise. Once per day as a standard action (1 AP), the wearer can touch the ring to a corpse or piece of a corpse to learn the dead creature’s name, gender, race, and profession or role, as well as the manner of the creature’s death. The wearer also becomes aware of the location of other pieces of the corpse if they’re within 1,200 feet. If the body part comes from a creature that’s still alive or undead, the wearer gains no information. The *ring of the iron skull* must be worn for 24 hours before it starts to function for the wearer.
-
-**Construction**
-
-**Requirements** Forge Ring, [*blood biography*](../magic/spells/blood-biography.md), [*locate object*](../magic/spells/locate-object.md); **Cost** 5,400 gp
-
-*Source: Adventure Items.*
-
-### Ring of the Ram
-
-**Aura** moderate transmutation; **CL** 9th  
-**Slot** ring; **Price** 8,600 gp; **Weight** —
-
-The ring of the ram is an ornate ring forged of hard metal, usually iron or an iron alloy. It has the head of a ram as its device. The wearer can command the ring to give forth a ram-like force, manifested by a vaguely discernible shape that resembles the head of a ram or a goat. This force strikes a single target, dealing 1d6 points of damage if 1 charge is expended, 2d6 points if 2 charges are used, or 3d6 points if 3 charges (the maximum) are used. Treat this as a ranged attack with a 50-foot maximum range and no penalties for distance. The force of the blow is considerable, and those struck by the ring are subject to a bull rush if within 30 feet of the ring-wearer. The ram is Large and uses the ring’s caster level as its base attack bonus with a Strength of 25. This gives the ram a Combat Maneuver Bonus of +17. The ram gains a +1 bonus on the bull rush attempt if 2 charges are expended, or +2 if 3 charges are expended. In addition to its attack mode, the ring of the ram also has the power to open doors as if it were a character with Strength 25. This expends 1 charge. If 2 charges are expended, the effect is equivalent to a character with Strength 27. If 3 charges are expended, the effect is that of a character with Strength 29.
-
-A newly created ring has 50 charges. When all the charges are expended, the ring becomes a nonmagical item.
-
-**Requirements** Forge Ring, bull’s strength, telekinesis; **Cost** 4,300 gp
-
-*Source: Rings, Ring Descriptions.*
-
-### Ring of the Recalled Soul
-
-**Aura** moderate illusion **CL** 18th
-
-**Slot** ring; **Price** 150,000 gp; **Weight** —
-
-The *ring of the recalled soul* allows the wearer to open a door into a nearby mindscape they are aware of as if using the spell [*mindscape door*](../magic/spells/mindscape-door.md), but the targeted creature cannot resist this effect with a Will save. If the ring’s wearer connects to the mindscape, he can designate up to 10 other creatures to be able to see and pass through the door as though it were a normal doorway. The ring grants no ability to detect mindscapes, so the wearer must already be aware of its existence via interactions, hearsay, or the* detect mindscape* spell.
-
-Once the ring’s wearer has connected to the mindscape, he can open the door to that particular mindscape from anywhere on the same plane, so long as the mindscape still exists. Physical distance poses no barrier to the mindscape. Each time the ring’s wearer opens the door to a mindscape he has previously visited, he can alter the designated creatures allowed to pass through the door as if he were opening the door for the first time.
-
-The ring’s wearer cannot prevent creatures within the mindscape from exiting to the real world so long as the door is open. The ring’s wearer can close the door to the mindscape at any time as long as he is not within the mindscape.
-
-**Construction**
-
-**Requirements** Forge Ring, [*mindscape door*](../magic/spells/mindscape-door.md); **Cost** 75,000 gp
-
-*Source: Adventure Items.*
-
-### Ring of the Sea Strider
-
-**Aura** moderate conjuration; **CL** 7th  
-**Slot** ring; **Price** 14,000 gp; **Weight** —
-
-This ring is made of a single piece of deep blue crystal. The ring grants its wearer a swim speed of 30 feet, as well as +8 racial bonus on swim checks for having a swim speed. Furthermore, once per day as a swift action (1 AP), as long as the wearer is in contact with liquid, he can use [*dimension door*](../magic/spells/dimension-door.md) as the spell, but its starting and ending points must be connected by a contagious mass of liquid.
-
-**Requirements** Forge Ring, [*dimension door*](../magic/spells/dimension-door.md), [*touch of the sea*](../magic/spells/touch-of-the-sea.md); **Cost** 7,000 gp
-
-*Source: Ultimate Equipment Rings.*
-
-### Ring of the Shadow Victim
-
-**Aura** moderate illusion; **CL** 7th  
-**Slot** ring; **Price** 101,000 gp; **Weight** —
-
-This smooth, lusterless gray ring is crafted of dark glass and has the image of a body carved into its band. Once per day, the wearer of this ring can perform a complex mental and verbal ritual, repeatedly whispering the ring’s command word, while touching any humanoid corpse that has been dead for less than 1 week. The creature must have had 7 Hit Dice or fewer in life. This ritual can be as short as 1 round or could last up to 24 hours. It requires both total focus and constant contact between the ring, the wearer, and the target corpse. Interruption of any kind spoils the ritual, requiring the wearer to begin anew. The wearer of the ring chooses how long this ritual will last, but that decision must be made before she begins the ritual.
-
-On the ritual’s completion, an illusory duplicate of the creature touched—partially real and formed of animate ice cloaked in magical shadow—springs into existence. This functions as [*lesser simulacrum*](../magic/spells/simulacrum-lesser.md) in all ways unless stated otherwise. The wearer of this ring gains a +10 bonus on the Disguise check when performing this ritual. The shadow creature appears in all ways to be hearty and full of life, equipped with all of the gear and clothing that was carried or worn by the corpse throughout the ritual. At the same moment the shadow creature is completed, the targeted corpse and all of its attendant equipment vanishes, melting away like snow.
-
-The false creature brought into existence by the *ring of the shadow victim* has the same base ability scores, type, and subtype as the targeted corpse. It appears in all ways to be the same individual as the corpse touched, and it retains the general personality, attitude, abilities, and intellect of that creature. However, this duplicate doesn’t possess any memories that the wearer of the ring doesn’t also possess, has no spell-like or supernatural abilities, can’t use activated extraordinary abilities, can’t gain the benefits of healing, can’t gain levels or increase its abilities, and can’t have more than 3 Hit Dice.
-
-This false creature behaves much like the target did in life, except it has a starting attitude of helpful toward the ring’s wearer and is generally willing to assist the wearer in any endeavor. The shadow creature will take nearly any action to aid the wearer of the ring, including dangerous, foolish or suicidal actions. This semi-illusory creature remains in existence for a duration equal to 7 × the length of the initial ritual that created it, until the wearer removes the *ring of the shadow victim*, until the wearer activates the ring again, or until the creature is destroyed by violence, whichever comes first. At that time, the duplicate vanishes and the original corpse, unchanged from when the initial ritual was completed, appears in its place.
-
-**Requirements** Forge Ring, [*alter self*](../magic/spells/alter-self.md), [*gentle repose*](../magic/spells/gentle-repose.md), [*lesser simulacrum*](../magic/spells/simulacrum-lesser.md); **Cost** 50,500 gp
-
-*Source: Ultimate Intrigue Rings.*
-
-### Ring of the Sophisticate
-
-**Aura** moderate transmutation and divination; **CL** 8th  
-**Slot** ring; **Price** 11,000 gp; **Weight** —
-
-A favorite ring of urban half-elves, humans, and halflings, this small and plain silver band is set with a single radiant-cut sapphire and decorated with a mazelike pattern engraved into the ring’s metal. Often worn on the little finger, the ring grants its wearer a +4 competence bonus on Sense Motive and Knowledge (local) checks. Also, once per day on command, the wearer can use the ring to cast either [*locate creature*](../magic/spells/locate-creature.md) or [*locate object*](../magic/spells/locate-object.md) (the wearer’s choice). Furthermore, on command and at will, the wearer can instantly know the direction from her to the nearest tavern, pub, or similar watering hole as long as that establishment is in a settlement whose population is equivalent to that of a village or greater and which is within 20 miles of the wearer.
-
-**Construction** Forge Ring, know direction, locate creature, locate object, creator must have at least 4 ranks in both Sense Motive and Knowledge (local); **Cost** 5,500 gp
-
-*Source: Racial Magic Items (Advanced Race Guide), Half-Elf Items.*
-
-### Ring of the Stone Sibling
-
-**Aura** moderate conjuration; **CL** 9th  
-**Slot** ring; **Price** 7,400 gp; **Weight** —
-
-This gray ring looks like stone, but the material is soft and flexible. Once per day, as a standard action (1 AP), you can touch a stone wall with your hand to create a stone duplicate of yourself.
-
-Immediately upon activating the ring of the stone sibling, your double steps out of the wall. It appears to be a stone statue carved in an exact likeness of you. The stone double stands 10 feet away from you and mimics your movements, as if reflected in a mirror. As a move-equivalent action, you can mentally command the stone sibling to move to a new location, but it must remain within 30 feet of you at all times.
-
-The stone sibling has hardness 8 and 50 hit points. It can take no actions other than to aid you, which it does every round on your turn. The stone sibling makes a +5 aid another check each round, either to aid your attack rolls or your Armor Class, as you command. It continues to render the same aid indefinitely until you command it otherwise (which requires a move action (1 AP)).
-
-The stone sibling lasts for 10 minutes, until it is destroyed, or until you dismiss it (a standard action (1 AP)), whichever comes first. Construction
-
-**Requirements** Forge Ring, mirror image, stone shape; **Cost** 3,700 gp, 296 XP
-
-*Source: Rings, Ring Descriptions.*
-
-### Ring of the Sublime
-
-**Slot** ring; **CL** 1st; **Price** 2,000 gp; **Weight** —
-
-**Aura** faint abjuration
-
-This ornate gold ring is set with a single round sapphire and platinum stems. When worn, the ring of the sublime protects its wearer from fear effects as if constantly under the effects of [*remove fear*](../magic/spells/remove-fear.md). Wearers of rings of the sublime in the old empire often believe the ring’s ability to combat fear also removes social anxiety, making the wearer a more confident and self-assured member of high society.
-
-**Construction Requirements:** Forge Ring, [*remove fear*](../magic/spells/remove-fear.md); **Cost** 1,000 gp
-
-*Source: Player Companion Items, Old Empire Items.*
-
-### Ring of the Troglodyte
-
-**Aura** faint conjuration; **CL** 5th  
-**Slot** ring; **Price** 12,000 gp; **Weight** —
-
-Two times per day on command, the wearer of this ring can produce a horrific smell affecting all living creatures other than the wearer within a 10-foot radius. Once created, the smell remains, centered on the wearer, until she dismisses it as a free action. This is a poison effect.
-
-Any creature affected by the disgusting aroma produced by the ring must succeed at a DC 14 Fortitude saving throw when it starts its turn in the ring’s stench radius. Those that fail a saving throw become sickened for 1 round. If they are already sickened, they become nauseated for 1 round instead.
-
-**Requirements** Forge Ring, [*stinking cloud*](../magic/spells/stinking-cloud.md); **Cost** 6,000 gp
-
-*Source: Ultimate Equipment Rings.*
-
-### Ring of the Weary Sky
-
-**Aura** moderate abjuration and enchantment **CL** 7th
-
-**Slot** ring; **Price** 14,800 gp
-
-**Alignment** neutral; **Ego** 7
-
-**Senses** 30 ft.
-
-**Int** 12, **Wis** 10, **Cha** 11
-
-**Communication** empathy
-
-This ancient silver ring provides a measure of control over elemental creatures. The spirit of an ancient ancient golem-empire elementalist still echoes within the ring, issuing a sense of smug arrogance. The *Ring of the Weary Sky’s* special purpose is controlling or defeating elementals, and once per day the wearer can attempt to charm a creature with the elemental subtype (as* charm monster*, Will DC 15 negates).
-
-Once per day, the ring can affect its wearer with [*resist energy*](../magic/spells/resist-energy.md). The ring uses this ability only when the wearer faces a hostile creature with the elemental subtype, making an educated guess about the most applicable energy type against which to ward its wearer. The ring is quick to provide this protection when the wearer tries but fails to charm an elemental creature, exuding a clear impression of patronizing disappointment.
-
-**Construction**
-
-Forge Ring, [*charm monster*](../magic/spells/charm-monster.md),* resist energy*; **Price** 7,400 gp
-
-*Source: Adventure Items, Intelligent Items.*
 
 ### Ring of Three Wishes
 
@@ -2295,6 +2478,18 @@ This ring is set with three rubies. Each ruby stores a wish spell, activated by 
 **Requirements** Forge Ring, wish or miracle; **Cost** 97,500 gp
 
 *Source: Rings, Ring Descriptions.*
+
+### Toiler’s Guiding Ring
+
+**Slot** ring; **CL** 3rd; **Price** 2,600 gp; **Weight** —
+
+**Aura** faint enchantment
+
+This gold ring is misshapen and uncomfortable to wear for long periods of time; inscribed on it is a crude symbol of a fire burning under an arch. Once per day, the wearer may use [*charm person*](../magic/spells/charm-person.md). If the dwarven god of toil is the wearer’s patron deity, any time the wearer crafts a magic item, she may choose to pay half of the item’s construction cost instead of the full cost. The wearer spends time working on the item normally, but at the time of completion there is a 50% chance that the item turns out nonmagical and worthless. For example, if creating a magic bracer that normally costs 1,000 gp to craft, the wearer may craft it for only 500 gp, but there is a 50% chance the wearer’s shortcuts and cheap materials result in a valueless, nonfunctional item.
+
+**Construction Requirements:** Craft Wondrous Item, [*charm person*](../magic/spells/charm-person.md), [*fabricate*](../magic/spells/fabricate.md); **Cost** 1,300 gp
+
+*Source: Patron Items, Items.*
 
 ### Ring of Transcendent Spells
 
@@ -2322,6 +2517,19 @@ On command, the wearer of this ring can touch it to another ring, magical or mun
 
 *Source: Ultimate Equipment Rings.*
 
+### Ring of the Troglodyte
+
+**Aura** faint conjuration; **CL** 5th  
+**Slot** ring; **Price** 12,000 gp; **Weight** —
+
+Two times per day on command, the wearer of this ring can produce a horrific smell affecting all living creatures other than the wearer within a 10-foot radius. Once created, the smell remains, centered on the wearer, until she dismisses it as a free action. This is a poison effect.
+
+Any creature affected by the disgusting aroma produced by the ring must succeed at a DC 14 Fortitude saving throw when it starts its turn in the ring’s stench radius. Those that fail a saving throw become sickened for 1 round. If they are already sickened, they become nauseated for 1 round instead.
+
+**Requirements** Forge Ring, [*stinking cloud*](../magic/spells/stinking-cloud.md); **Cost** 6,000 gp
+
+*Source: Ultimate Equipment Rings.*
+
 ### Ring of Truth
 
 **Aura** moderate enchantment; **CL** 9th  
@@ -2332,6 +2540,18 @@ Deceptively pleasant looking, a ring of truth bears images of childlike angels a
 **Base item** ring of mind shielding, ring of x-ray vision
 
 *Source: Advanced Player's Guide Cursed Items.*
+
+### Tyrant's Friend
+
+*Aura* faint divination; *CL* 5th; *Slot* ring; *Price* 3,000 gp; *Weight* —
+
+A slender copper band, a tyrant's friend is thin enough to be hidden beneath another ring (although it still counts against the limit of magic rings a character can wear). The ring grows noticeably warmer whenever the hand wearing it touches a poisoned or poisonous object or creature (including containers holding poison), warning the wearer of potential danger.
+
+*Construction* Forge Ring, [*detect poison*](../magic/spells/detect-poison.md); Cost 1,500 gp.
+
+*Source: Explorer's Society Items.*
+
+## U
 
 ### Ring of Unquenchable Passions
 
@@ -2346,334 +2566,6 @@ This gold ring bears three dagger-shaped marks. It functions as a *ring of prote
 **Requirements** Forge Ring, [*resistance*](../magic/spells/resistance.md),* shield of faith*, creator must have 5 ranks in Acrobatics, creator must be at least 3rd level; **Cost** 3,250 gp
 
 *Source: Adventure Items.*
-
-### Ring of Vengeful Blood Magic
-
-*Aura* moderate abjuration; *CL* 11th; *Slot* ring; *Price* 5,400 gp; *Weight* —
-
-This claw ring is made of red metal tinged with orange, and a long nail made of obsidian extends from the tip. It allows its wearer to cast a spell as an attack of opportunity. Three times per day, if the wearer is bloodraging and a foe provokes an attack of opportunity from him, the wearer can cast a spell with a casting time of 1 standard action (1 AP) or less as the attack of opportunity. The spell must target the creature that provoked the attack or include it in the spell's area, and must be no higher than 3rd level. This counts as one of the wearer's attacks of opportunity for the round; casting this spell does not itself provoke an attack of opportunity.
-
-*Construction* Combat Reflexes, Forge Ring, Quicken Spell; Cost 17,500 gp.
-
-*Source: Advanced Class Guide Rings.*
-
-### Ring of Water Walking
-
-**Aura** moderate transmutation; **CL** 9th  
-**Slot** ring; **Price** 15,000 gp; **Weight** —
-
-This ring is often made of coral or bluish metal decorated with wave motifs. It allows the wearer to continually utilize the effects of the spell water walk.
-
-**Requirements** Forge Ring, water walk; **Cost** 7,500 gp
-
-*Source: Rings, Ring Descriptions.*
-
-### Ring of Wizardry
-
-**Aura** moderate (wizardry I) or strong (wizardry II–IV) (no school); **CL** 11th (I), 14th (II), 17th (III), 20th (IV)  
-**Slot** ring; **Price** 20,000 gp (I), 40,000 gp (II), 70,000 gp (III), 100,000 gp (IV); **Weight** —
-
-This special ring comes in four kinds (ring of wizardry I, ring of wizardry II, ring of wizardry III, and ring of wizardry IV), all of them useful only to arcane spellcasters. The wearer’s arcane spells per day are doubled for one specific spell level. A ring of wizardry I doubles 1st-level spells, a ring of wizardry II doubles 2nd-level spells, a ring of wizardry III doubles 3rd-level spells, and a ring of wizardry IV doubles 4th-level spells. Bonus spells from high ability scores or school specialization are not doubled.
-
-**Requirements** Forge Ring, limited wish; **Cost** 10,000 gp (I), 20,000 gp (II), 35,000 gp (III), 50,000 gp (IV)
-
-*Source: Rings, Ring Descriptions.*
-
-### Ring of X-Ray Vision
-
-**Aura** moderate divination; **CL** 6th  
-**Slot** ring; **Price** 25,000 gp; **Weight** —
-
-On command, this ring gives its wearer the ability to see into and through solid matter. Vision range is 20 feet, with the viewer seeing as if he were looking at something in normal light even if there is no illumination. X-ray vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances or a thin sheet of lead blocks the vision. Using the ring is exhausting, causing the wearer 1 point of Constitution damage per minute after the first 10 minutes of use in a single day. The ring must be used in 1-minute increments.
-
-**Requirements** Forge Ring, true seeing; **Cost** 12,500 gp rods
-
-*Source: Rings, Ring Descriptions.*
-
-### Rings of Alien Geometries
-
-**Aura** moderate conjuration; **CL** 10th  
-**Slot** none; **Price** 30,000 gp; **Weight** —
-
-A short silver chain joins these two crystal rings together. When worn on two adjacent fingers of the same hand, the two rings occupy a single ring slot. Once per day as a standard action (1 AP), the wearer of a pair of *rings of alien geometries* can create two shimmering portals, each 5 feet in diameter and surrounded by a 4-inch-thick ring of force. Only one side of each portal functions as a gateway; the other side is blocked (as if by a [*wall of force*](../magic/spells/wall-of-force.md)). Each portal must be oriented vertically and be within 30 feet of the wearer at the time of creation. Medium or smaller creatures can move through either portal as easily as moving to an adjacent square, stepping out of the other portal. Large creatures can squeeze through but can’t end movement halfway through a portal. Any creature farther than 5 feet away from a portal has no line of sight or line of effect through it to the other portal, but a creature adjacent to one of the portals can attack through it as though the square directly in front of the other portal were adjacent to the creature.
-
-Both of the portals vanish after 10 rounds. Destroying a portal is possible only with spells or attacks that can destroy a [*wall of force*](../magic/spells/wall-of-force.md). Destroying one portal causes the other portal to immediately collapse.
-
-**Requirements** Forge Ring, [*dimension door*](../magic/spells/dimension-door.md), [*wall of force*](../magic/spells/wall-of-force.md); **Cost** 15,000 gp
-
-*Source: Horror Adventures Rings.*
-
-### Rings of Bondage
-
-**Aura** moderate enchantment; **CL** 7th  
-**Slot** ring; **Price** 18,200 gp; **Weight** —
-
-These rings are forged in pairs, establishing a mental connection between the two creatures wearing them, designating one as the master and the other as the servant. The listed price and cost are for both rings. Creatures wearing *rings of bondage* can understand one another’s speech. The wearer of the master ring gains a +6 competence bonus on Sense Motive checks against the servant and is continuously aware of the location and general condition of the wearer of the servant ring, as the [*status*](../magic/spells/status.md) spell.
-
-In addition, once per day, the wearer of the master *ring of bondage* can impose her will upon the wearer of the servant ring, compelling the servant to perform or refrain from an action as if subjected to a [*lesser geas*](../magic/spells/geas-lesser.md) (Will DC 16 negates). Alternatively, this effect can be executed as a contract between the wearers: as long as the wearer of the master ring is a valid target for *lesser geas*, she can accept a *lesser geas* dictated by the wearer of the servant ring. In such an event, neither wearer is entitled to a saving throw and both are compelled by the *lesser geas* to fulfill the terms of the agreement. If the wearer of the servant ring is unwilling to agree to such a contract, she can always select a *lesser geas* such as “remove the *lesser geas* from me.”
-
-As long as a [*lesser geas*](../magic/spells/geas-lesser.md) imposed by a *ring of bondage* remains in effect, neither ring can be removed. If either ring is destroyed, the effects of the *lesser geas* remain in place, but the surviving ring can’t create a new *lesser geas* until the missing ring is repaired or replaced. If a mutual *lesser geas* is accepted and one *lesser geas* is ended, both *lesser geas* effects end simultaneously.
-
-A target can have a *ring of bondage* forcibly placed on its finger, but only if that creature is helpless.
-
-**Requirements** Forge Ring, [*detect thoughts*](../magic/spells/detect-thoughts.md), [*lesser geas*](../magic/spells/geas-lesser.md), [*sanctuary*](../magic/spells/sanctuary.md), [*share language*](../magic/spells/share-language.md), [*status*](../magic/spells/status.md); **Cost** 9,100 gp
-
-*Source: Ultimate Intrigue Rings.*
-
-### Rings of Bondage, Greater
-
-**Aura** moderate enchantment; **CL** 11th  
-**Slot** ring; **Price** 42,000 gp; **Weight** —
-
-These specialized rings function as *rings of bondage*, but a command imposed by the wearer of the master ring (including a mutual agreement affecting both wearers) takes 10 minutes to activate, is permanent, and functions as *geas/quest,* except a DC 16 Will save still negates it*.* In addition, the wearer of the master ring gains a continuous [*sanctuary*](../magic/spells/sanctuary.md) (DC 16) effect against the wearer of the servant ring, with a save required for every attack the servant makes against the master (including area attacks, but no save is required when directing allies or controlled creatures to attack the wearer); a failed save prevents only that single attack. Each time the servant successfully attacks the master, he must succeed at a second DC 16 Will save or be affected as [*bestow curse*](../magic/spells/bestow-curse.md).
-
-**Requirements** Forge Ring, [*bestow curse*](../magic/spells/bestow-curse.md), [*detect thoughts*](../magic/spells/detect-thoughts.md), [*geas/quest*](../magic/spells/geas-quest.md), [*sanctuary*](../magic/spells/sanctuary.md), [*share language*](../magic/spells/share-language.md), [*status*](../magic/spells/status.md); **Cost** 21,000 gp
-
-*Source: Ultimate Intrigue Rings.*
-
-### Rings of Friend-Finding
-
-**Slot** ring; **CL** 7th; **Price** 9,000 gp (pair); **Weight** —
-
-**Aura** moderate enchantment
-
-These specialized rings are sold in pairs and help allies find one another. Each of the wearers must wear the rings for 24 hours before they function, after which each wearer can activate her ring of friend-finding as a standard action (1 AP), enabling her to determine the direction, distance, and general condition of the wearer of the other ring as a [*status*](../magic/spells/status.md) spell.
-
-**Construction Requirements:** Forge Ring, [*detect thoughts*](../magic/spells/detect-thoughts.md), [*status*](../magic/spells/status.md); **Cost** 4,500 gp
-
-*Source: Player Companion Items, Allies and Hirelings.*
-
-### Riverclub Ring
-
-**Slot** ring; **CL** 5th; **Price** 1,000 gp; **Weight** —
-
-**Aura** faint conjuration
-
-Popular among riverfolk who prefer to work their waterway unarmed, this simple bronze band can transform into a handy weapon in a pinch. When the wearer of a *riverclub ring* plunges her hand into at least 1 gallon of water as a move action (1 AP), she can pull forth a club made of animated water. The weapon maintains the shape, solidity, and statistics of a masterwork club of the wielder's size so long as she holds it, dealing damage as normal, except that it deals 1 additional point of damage against creatures with the fire subtype. The club turns back into a puddle of water again as soon as the wielder loosens her grip around it.
-
-**Construction Requirements:** Forge Ring, [*icicle dagger*](../magic/spells/icicle-dagger.md); **Cost** 500 gp
-
-*Source: Player Companion Items, River and Metal Items.*
-
-## S
-
-### Saltspray Ring
-
-**Aura** faint conjuration and transmutation **CL** 5th
-
-**Slot** ring; **Price** 4,500 gp; **Weight** —
-
-This mithral ring is engraved with a pattern of rolling waves that encircles the entire band. The *saltspray ring* is immune to rust, both from natural oxidation and rust caused by magical effects.
-
-Upon command, the ring causes a thick vapor to continuously surround its owner as per [*obscuring mist*](../magic/spells/obscuring-mist.md), except the mist has a 10-foot radius from the wearer and the area of effect moves with the wearer. This mist is exceedingly wet and extinguishes all nonmagical fires within its area. Magical fires and creatures with the fire subtype are not dispelled or adversely affected by the mist, though such creatures find being in the fog to be an uncomfortable experience. The mist does not permit aquatic creatures without the amphibious special quality to breathe out of water, but creatures that must remain wet or suffer a negative effect or condition have that requirement satisfied by the ring’s effect. This effect can be dismissed as a standard action (1 AP). The ring has no effect whatsoever underwater.
-
-**Construction**
-
-**Requirements** Forge Ring, [*obscuring mist*](../magic/spells/obscuring-mist.md),* quench*; **Cost** 2,250 gp
-
-*Source: Adventure Items.*
-
-### Scavenger's Ring
-
-**Slot** ring; **CL** 7th; **Price** 15,000 gp; **Weight** —
-
-**Aura** moderate abjuration
-
-This polished iron band allows the wearer to walk along the ocean floor as easily as on dry land. The wearer of a *scavenger's ring* sinks to the bottom of any large body of water at a rate of 30 feet per round. Once on the body of water's floor, the wearer can move and act as though she were on land, allowing her to jump, roll, attack, and run as normal, although she cannot swim (nor can she control her ascent or descent underwater) as long as she wears the ring. As soon as the wearer removes the ring, she may swim as normal and is subject to all the normal penalties associated with underwater action. A *scavenger's ring* does not confer the ability to breathe water underwater.
-
-**Construction Requirements:** Forge Ring, [*freedom of movement*](../magic/spells/freedom-of-movement.md); **Cost** 7,500 gp
-
-*Source: Player Companion Items, Marketplace Nautical Items.*
-
-### Scholar’s Ring
-
-**Aura** moderate conjuration; **CL** 5th  
-**Slot** ring; **Price** 8,700 gp; **Weight** —
-
-A *scholar’s ring* grants complete understanding of any written text or spoken language, even one that the wearer has never encountered before (as the [*comprehend languages*](../magic/spells/comprehend-languages.md) spell), as well as a +5 competence bonus on Knowledge (history) checks.
-
-In addition, once every 5 days the wearer can invoke a [*legend lore*](../magic/spells/legend-lore.md) spell related to a subject that she has been studying in the previous week, if she has attempted a Knowledge (history) check aided by the ring.
-
-**Requirements** Forge Ring, *comprehend languages, legend lore*; **Cost** 4,350 gp
-
-*Source: Ultimate Equipment Rings.*
-
-### Seven-Pointed Ring
-
-**Aura** moderate abjuration and illusion **CL** 9th
-
-**Slot** ring; **Price** 35,000 gp; **Weight** —
-
-This otherwise plain ring is adorned with a tiny seven-pointed rune. These rings were given to agents and allies of ancient archmages as badges of office and tokens of appreciation for their work—sometimes, they were given as bribes to those an archmage was attempting to win to his cause. Like the more common *seven-pointed medallion*, those archmages had special links to* seven-pointed rings* that aid in scrying and observation of the world around the wearer of the ring.
-
-A *seven-pointed ring* grants a +3 deflection bonus to AC, a +3 resistance bonus on all saving throws, and protects the wearer with a constant [*endure elements*](../magic/spells/endure-elements.md) effect. At will, as a standard action (1 AP), the wearer can use the *seven-pointed ring* to change the appearance of his clothing or armor into any other kind of clothing or armor. The actual clothing and armor worn retain all their properties (including weight) when glamered. Only [*true seeing*](../magic/spells/true-seeing.md) or similar magic reveals the true nature of the adornments.
-
-**Construction**
-
-**Requirements** Forge Ring, [*endure elements*](../magic/spells/endure-elements.md),* resistance*,* shield*; **Cost** 17,500 gp
-
-*Source: Adventure Items.*
-
-### Sigil of the Sky Citadel
-
-**Aura** moderate abjuration; **CL** 10th  
-**Slot** ring; **Price** 16,000 gp; **Weight** —
-
-This adamantine band is capped with a stone sigil of the first clan to settle a sky citadel. This ring is keyed to interact with several devices and traps within the vaults—storehouses of ancient history and family wealth—of the sky citadel. The ring grants its wearer acid resistance 10. Three times per day as a swift action (1 AP), the wearer can make himself undetectable by crafted and magical traps and creatures of the construct type for the following minute. This functions like greater invisibility within these limits and also prevents the character’s weight or presence from triggering traps. Construction
-
-**Requirements** Forge Ring, resist energy, sanctuary; **Cost** 8,000 gp
-
-*Source: Rings, Ring Descriptions.*
-
-### Society Ring
-
-**Slot** ring; **CL** 5th; **Price** 8,000 gp; **Weight** —
-
-**Aura** faint abjuration, divination, illusion, and transmutation
-
-The flat bezel of this signet ring is typically set with a semiprecious gem. If the wearer of the ring is successfully inducted into a group or organization through an initiation ritual, the ring becomes attuned to that organization and wearer. A suitable initiation ritual takes at least 10 minutes and at the very least involves a pledge of allegiance to the group or organization, but it can take a variety of forms. The crest or symbol of the organization appears engraved on the gem, and the ring becomes invisible (as per [*invisibility*](../magic/spells/invisibility.md)) and hidden from scrying effects (as per [*obscure object*](../magic/spells/obscure-object.md)) to all except those who also wear society rings attuned to the same organization (referred to below as "similar rings"). Creatures that are capable of seeing invisible objects, such as via [*see invisibility*](../magic/spells/see-invisibility.md), can still perceive a society ring.
-
-Once attuned, the society ring's wearer can communicate with wearers of similar rings within 150 feet (as per [*message*](../magic/spells/message.md)). It also grants +10 competence bonuses on Bluff checks to pass secret messages to members of the attuned organization and Sense Motive checks to receive secret messages from them. In addition, if the wearer touches his society ring to a similar ring, for the following hour, the wearer can sense the direction and distance to that ring, as well as any conditions affecting its wearer (as per [*status*](../magic/spells/status.md)). Only one ring at a time can be linked in this way; if the wearer touches his ring to another similar ring within the duration of the effect, the status effect switches to the most recently touched ring.
-
-If a society ring is worn or carried by a creature other than the attuned wearer, the ring silently alerts attuned ring wearers from the same organization within 1 mile (as per [*alarm*](../magic/spells/alarm.md)), does not display the crest or symbol of the attuned organization, and glows with a red aura visible only to wearers of similar rings. A new owner can end this effect by becoming initiated into any organization, at which point the ring attunes to the new wearer and organization.
-
-**Construction Requirements:** Forge Ring, [*alarm*](../magic/spells/alarm.md), [*hidden speech*](../magic/spells/hidden-speech.md), [*invisibility*](../magic/spells/invisibility.md), [*message*](../magic/spells/message.md), [*obscure object*](../magic/spells/obscure-object.md), [*status*](../magic/spells/status.md), creator must have at least 10 ranks in both Bluff and Sense Motive; **Cost** 4,000 gp
-
-*Source: Villain Codex Items, Secret Society.*
-
-### Soultether Ring
-
-**Slot** ring; **CL** 17th; **Price** 8,000 gp; **Weight** —
-
-**Aura** strong necromancy
-
-When the wearer of this delicate platinum ring dies, his soul remains adrift in the river of souls and does not proceed to its final judgment in the Boneyard. Until the soultether ring is removed from the corpse, the time limit for restoring the creature to life via spells such as [*raise dead*](../magic/spells/raise-dead.md) or [*resurrection*](../magic/spells/resurrection.md) is suspended. This ring has no effect if it is placed upon a corpse; it must be worn at the time the creature dies to tether its soul. Psychopomps and other servants of the god of death consider soultether rings to be sacrilegious, and the creatures destroy the rings whenever possible.
-
-**Construction Requirements:** Forge Ring, [*soul bind*](../magic/spells/soul-bind.md) or [*true resurrection*](../magic/spells/true-resurrection.md); **Cost** 4,000 gp
-
-*Source: Planar Items.*
-
-### Spiritualist Rings
-
-**Aura** strong necromancy; **CL** 12th  
-**Slot** ring; **Price** 70,000 gp; **Weight** —
-
-These four garish and gaudy rings must be worn on one hand, though they take up only a single ring slot. They grant the wearer the ability to commune with and affect the dead in the following ways.
-
-- The wearer can use speak with dead, as the spell, three times per day. It takes 10 minutes to use this ability.
-- The wearer can use spectral hand, as the spell, three times per day.
-- The wearer’s weapons gain the ghost touch weapon special ability while the wearer is wielding the weapons.
-- The wearer gains a +4 sacred or profane bonus on saving throws against positive and negative energy effects. The bonus depends on the wearer’s alignment—good-aligned wearers gain a sacred bonus, whereas evil-aligned wearers gain a profane bonus. Neutral-aligned wearers pick either a sacred or profane bonus when the ring is first put on, which cannot be changed later .
-
-**Requirements** Forge Ring, [*speak with dead*](../magic/spells/speak-with-dead.md), [*spectral hand*](../magic/spells/spectral-hand.md), [*plane shift*](../magic/spells/plane-shift.md); **Cost** 45,000 gp
-
-*Source: Ultimate Equipment Rings.*
-
-### Splendorous Ring
-
-**Slot** ring; **CL** 3rd; **Price** 9,900 gp; **Weight** —
-
-**Aura** faint illusion
-
-A *splendorous ring* is composed of six white and yellow gemstones faceted in a platinum band. Three times per day, the wearer of a *splendorous ring* can twist the ring to cloak himself in an aura of glory. He appears both radiant and terrible, glowing with the might of the heavens. Anyone within 10 feet of the ring when it is activated must succeed at a DC 13 Will save or be fascinated by the wearer’s form as if affected by [*hypnotic pattern*](../magic/spells/hypnotic-pattern.md). 2d4+3 Hit Dice worth of creatures are affected in this way.
-
-The fascinating effect of the ring lasts for 3 rounds. During that time and for 5 rounds after, the ring’s wearer gains a +2 sacred bonus on any Charisma checks or Charisma-based skill checks to influence any good-aligned creatures affected by the ring’s [*hypnotic pattern*](../magic/spells/hypnotic-pattern.md) effect, and a –2 penalty on any Charisma checks or Charisma-based skill checks to influence any evil-aligned creatures affected by the *hypnotic pattern* effect.
-
-**Construction Requirements:** Forge Ring, [*eagle's splendor*](../magic/spells/eagles-splendor.md), [*hypnotic pattern*](../magic/spells/hypnotic-pattern.md), creator must be good-aligned; **Cost** 4,950 gp
-
-*Source: Patron Items, Items.*
-
-### Steelhand Circle
-
-**Aura** moderate transmutation; **CL** 8th  
-**Slot** ring; **Price** 12,000 gp; **Weight** —
-
-When this ring is worn, the wielder’s skin attains a barely perceptible sheen. In practical terms, the wearer ignores the first 5 points of an object’s hardness when performing a sunder combat maneuver or when smashing an object. She also does not take the standard –4 penalty for making a combat maneuver check to disarm while unarmed.
-
-Additionally, the ring’s wearer can focus all of the ring’s power, possibly repelling a devastating blow. Once per day, when a critical hit or sneak attack is scored on the wearer, there is a 50% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. Using this ability is an immediate action (1 AP of your next turn), and the wearer must decide to use it before the critical hit or sneak attack damage is rolled.
-
-**Requirements** Forge Ring, [*stone fist*](../magic/spells/stone-fist.md), [*stoneskin*](../magic/spells/stoneskin.md); **Cost** 6,000 gp
-
-*Source: Ultimate Equipment Rings.*
-
-### Survivor’s Ring
-
-**Aura** strong illusion; **CL** 18th  
-**Slot** ring; **Price** 56,160 gp; **Weight** —
-
-This ring is shaped like a silver snake with an onyx in its mouth. Once per day, if the wearer would be reduced to 0 or fewer hit points but not dead, she is instead reduced to 0 hit points and subject to an effect similar to [*mislead*](../magic/spells/mislead.md). Her illusory double appears to die or to take on the dying condition in her place, as appropriate for the negated effect. The wearer cannot control the double. In addition, the wearer can touch the ring’s stone as a standard action (1 AP) once per day to use [*dimension door*](../magic/spells/dimension-door.md) but only while the ring’s *mislead* effect is active.
-
-**Requirements** Forge Ring, [*death ward*](../magic/spells/death-ward.md), [*dimension door*](../magic/spells/dimension-door.md), [*mislead*](../magic/spells/mislead.md); **Cost** 28,080 gp
-
-*Source: Intrigue Magic Items.*
-
-### Swarmwalker's Ring
-
-**Aura** moderate conjuration; **CL** 7th  
-**Slot** ring; **Price** 26,000 gp; **Weight** —
-
-This shining, ash-white ring of bone is crafted to look like countless interlocking rat fangs, set with a dozen dark, garnet eyes like those of albino sewer-hunters. The wearer of this ring can utter a command word to call forth 1d3 rat swarms within 40 feet. These swarms each act immediately and vanish after 7 rounds. They are independent and not under the wearer’s control, though the wearer is immune to the effects and attacks of any swarm created through use of this ring.
-
-Alternatively, upon command, the ring’s wearer can use dimension door. This magical transportation must begin and end in a square that includes a swarm summoned by use of this ring.
-
-This ring’s abilities can be used a total of three times per day, in any combination. An urban druid (Pathfinder RPG Advanced Player’s Guide 101) wearing this ring can gain one additional use per day by expending three daily uses of her wild shape ability. Construction
-
-**Requirements** Forge Ring, dimension door, summon swarm; **Cost** 13,000 gp
-
-*Source: Rings, Ring Descriptions.*
-
-### Swarmwalker’s Ring
-
-**Aura** moderate conjuration; **CL** 7th  
-**Slot** ring; **Price** 26,000 gp; **Weight** —
-
-This shining, ash-white ring of bone is crafted to look like countless interlocking rat fangs, set with a dozen dark, garnet eyes like those of albino sewer-hunters. The wearer of this ring can utter a command word to call forth 1d3 rat swarms within 40 feet. These swarms each act immediately and vanish after 7 rounds. They are independent and not under the wearer’s control, though the wearer is immune to the effects and attacks of any swarm created through use of this ring.
-
-Alternatively, upon command, the ring’s wearer can use [*dimension door*](../magic/spells/dimension-door.md). This magical transportation must begin and end in a square that includes a swarm summoned by use of this ring.
-
-This ring’s abilities can be used a total of three times per day, in any combination. An urban druid (* Advanced Player’s Guide* 101) wearing this ring can gain one additional use per day by expending three daily uses of her wild shape ability.
-
-**Requirements** Forge Ring, [*dimension door*](../magic/spells/dimension-door.md), [*summon swarm*](../magic/spells/summon-swarm.md); **Cost** 13,000 gp
-
-*Source: Ultimate Intrigue Rings.*
-
-## T
-
-### The Bloodflame Ring
-
-**Aura** strong transmutation **CL** 15th
-
-**Slot** ring; **Price** 26,000 gp; **Weight** —
-
-This beautiful adamantine ring is warm to the touch. Artful pictures etched inside it tell the tale of its creation; the imagery claims that this ring was one of the first items crafted by employing heat to coerce metal into shape. When worn, it transforms your blood into pure molten iron, which does not harm you, and provides certain benefits: you gain the fire subtype. Any creature striking you with its body or a handheld weapon deals normal damage, but at the same time the attacker takes 1d6 points of fire damage. Creatures that drain blood (such as stirges and vampires) take the standard fire damage for attacking you and you do not suffer any effects of their blood drain special ability. you count as a ferrous creature for the purpose of rusting grasp and similar effects.
-
-**Construction**
-
-**Requirements** Forge Ring, [*fire shield*](../magic/spells/fire-shield.md), [*iron body*](../magic/spells/iron-body.md); **Cost** 13,000 gp, 1,040 XP
-
-*Source: Adventure Items.*
-
-### Toiler’s Guiding Ring
-
-**Slot** ring; **CL** 3rd; **Price** 2,600 gp; **Weight** —
-
-**Aura** faint enchantment
-
-This gold ring is misshapen and uncomfortable to wear for long periods of time; inscribed on it is a crude symbol of a fire burning under an arch. Once per day, the wearer may use [*charm person*](../magic/spells/charm-person.md). If the dwarven god of toil is the wearer’s patron deity, any time the wearer crafts a magic item, she may choose to pay half of the item’s construction cost instead of the full cost. The wearer spends time working on the item normally, but at the time of completion there is a 50% chance that the item turns out nonmagical and worthless. For example, if creating a magic bracer that normally costs 1,000 gp to craft, the wearer may craft it for only 500 gp, but there is a 50% chance the wearer’s shortcuts and cheap materials result in a valueless, nonfunctional item.
-
-**Construction Requirements:** Craft Wondrous Item, [*charm person*](../magic/spells/charm-person.md), [*fabricate*](../magic/spells/fabricate.md); **Cost** 1,300 gp
-
-*Source: Patron Items, Items.*
-
-### Tyrant's Friend
-
-*Aura* faint divination; *CL* 5th; *Slot* ring; *Price* 3,000 gp; *Weight* —
-
-A slender copper band, a tyrant's friend is thin enough to be hidden beneath another ring (although it still counts against the limit of magic rings a character can wear). The ring grows noticeably warmer whenever the hand wearing it touches a poisoned or poisonous object or creature (including containers holding poison), warning the wearer of potential danger.
-
-*Construction* Forge Ring, [*detect poison*](../magic/spells/detect-poison.md); Cost 1,500 gp.
-
-*Source: Explorer's Society Items.*
 
 ## V
 
@@ -2691,6 +2583,16 @@ This simple gold band is engraved with the holy symbol of the goddess of valor. 
 
 *Source: Adventure Items.*
 
+### Ring of Vengeful Blood Magic
+
+*Aura* moderate abjuration; *CL* 11th; *Slot* ring; *Price* 5,400 gp; *Weight* —
+
+This claw ring is made of red metal tinged with orange, and a long nail made of obsidian extends from the tip. It allows its wearer to cast a spell as an attack of opportunity. Three times per day, if the wearer is bloodraging and a foe provokes an attack of opportunity from him, the wearer can cast a spell with a casting time of 1 standard action (1 AP) or less as the attack of opportunity. The spell must target the creature that provoked the attack or include it in the spell's area, and must be no higher than 3rd level. This counts as one of the wearer's attacks of opportunity for the round; casting this spell does not itself provoke an attack of opportunity.
+
+*Construction* Combat Reflexes, Forge Ring, Quicken Spell; Cost 17,500 gp.
+
+*Source: Advanced Class Guide Rings.*
+
 ## W
 
 ### Wary Ring
@@ -2706,6 +2608,41 @@ This relatively plain brass *ring of mind shielding* can read script in any lang
 **Construction Requirements:** Forge Ring, [*nondetection*](../magic/spells/nondetection.md), [*read magic*](../magic/spells/read-magic.md), [*timely inspiration*](../magic/spells/timely-inspiration.md); **Cost** 7,300 gp
 
 *Source: Player Companion Items, Marketplace Intelligent Items.*
+
+### Ring of Water Walking
+
+**Aura** moderate transmutation; **CL** 9th  
+**Slot** ring; **Price** 15,000 gp; **Weight** —
+
+This ring is often made of coral or bluish metal decorated with wave motifs. It allows the wearer to continually utilize the effects of the spell water walk.
+
+**Requirements** Forge Ring, water walk; **Cost** 7,500 gp
+
+*Source: Rings, Ring Descriptions.*
+
+### Ring of the Weary Sky
+
+**Aura** moderate abjuration and enchantment **CL** 7th
+
+**Slot** ring; **Price** 14,800 gp
+
+**Alignment** neutral; **Ego** 7
+
+**Senses** 30 ft.
+
+**Int** 12, **Wis** 10, **Cha** 11
+
+**Communication** empathy
+
+This ancient silver ring provides a measure of control over elemental creatures. The spirit of an ancient ancient golem-empire elementalist still echoes within the ring, issuing a sense of smug arrogance. The *Ring of the Weary Sky’s* special purpose is controlling or defeating elementals, and once per day the wearer can attempt to charm a creature with the elemental subtype (as* charm monster*, Will DC 15 negates).
+
+Once per day, the ring can affect its wearer with [*resist energy*](../magic/spells/resist-energy.md). The ring uses this ability only when the wearer faces a hostile creature with the elemental subtype, making an educated guess about the most applicable energy type against which to ward its wearer. The ring is quick to provide this protection when the wearer tries but fails to charm an elemental creature, exuding a clear impression of patronizing disappointment.
+
+**Construction**
+
+Forge Ring, [*charm monster*](../magic/spells/charm-monster.md),* resist energy*; **Price** 7,400 gp
+
+*Source: Adventure Items, Intelligent Items.*
 
 ### Witness Hunter’s Ring
 
@@ -2728,3 +2665,82 @@ This ring’s deep red stone hides the image of an eye within an eye or the symb
 **Requirements** Forge Ring, detect scrying, locate creature; **Cost** 12,600 gp
 
 *Source: Rings, Ring Descriptions.*
+
+### Ring of Wizardry
+
+**Aura** moderate (wizardry I) or strong (wizardry II–IV) (no school); **CL** 11th (I), 14th (II), 17th (III), 20th (IV)  
+**Slot** ring; **Price** 20,000 gp (I), 40,000 gp (II), 70,000 gp (III), 100,000 gp (IV); **Weight** —
+
+This special ring comes in four kinds (ring of wizardry I, ring of wizardry II, ring of wizardry III, and ring of wizardry IV), all of them useful only to arcane spellcasters. The wearer’s arcane spells per day are doubled for one specific spell level. A ring of wizardry I doubles 1st-level spells, a ring of wizardry II doubles 2nd-level spells, a ring of wizardry III doubles 3rd-level spells, and a ring of wizardry IV doubles 4th-level spells. Bonus spells from high ability scores or school specialization are not doubled.
+
+**Requirements** Forge Ring, limited wish; **Cost** 10,000 gp (I), 20,000 gp (II), 35,000 gp (III), 50,000 gp (IV)
+
+*Source: Rings, Ring Descriptions.*
+
+## X
+
+### Ring of X-Ray Vision
+
+**Aura** moderate divination; **CL** 6th  
+**Slot** ring; **Price** 25,000 gp; **Weight** —
+
+On command, this ring gives its wearer the ability to see into and through solid matter. Vision range is 20 feet, with the viewer seeing as if he were looking at something in normal light even if there is no illumination. X-ray vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances or a thin sheet of lead blocks the vision. Using the ring is exhausting, causing the wearer 1 point of Constitution damage per minute after the first 10 minutes of use in a single day. The ring must be used in 1-minute increments.
+
+**Requirements** Forge Ring, true seeing; **Cost** 12,500 gp rods
+
+*Source: Rings, Ring Descriptions.*
+
+## Random Item Table
+
+The table used to generate random items of this type, with the price of each.
+
+**Table 15–13: Rings**
+
+| Minor | Medium | Major | Ring | Market Price |
+|---|---|---|---|---|
+| 01–18 | — | — | Protection +1 | 2,000 gp |
+| 19–28 | — | — | Feather falling | 2,200 gp |
+| 29–36 | — | — | Sustenance | 2,500 gp |
+| 37–44 | — | — | Climbing | 2,500 gp |
+| 45–52 | — | — | Jumping | 2,500 gp |
+| 53–60 | — | — | Swimming | 2,500 gp |
+| 61–70 | 01–05 | — | Counterspells | 4,000 gp |
+| 71–75 | 06–08 | — | Mind shielding | 8,000 gp |
+| 76–80 | 09–18 | — | Protection +2 | 8,000 gp |
+| 81–85 | 19–23 | — | Force shield | 8,500 gp |
+| 86–90 | 24–28 | — | Ram, the | 8,600 gp |
+| — | 29–34 | — | Climbing, improved | 10,000 gp |
+| — | 35–40 | — | Jumping, improved | 10,000 gp |
+| — | 41–46 | — | Swimming, improved | 10,000 gp |
+| 91–93 | 47–50 | — | Animal friendship | 10,800 gp |
+| 94–96 | 51–56 | 01–02 | Energy resistance, minor | 12,000 gp |
+| 97–98 | 57–61 | — | Chameleon power | 12,700 gp |
+| 99–100 | 62–66 | — | Water walking | 15,000 gp |
+| — | 67–71 | 03–07 | Protection +3 | 18,000 gp |
+| — | 72–76 | 08–10 | Spell storing, minor | 18,000 gp |
+| — | 77–81 | 11–15 | Invisibility | 20,000 gp |
+| — | 82–85 | 16–19 | Wizardry (I) | 20,000 gp |
+| — | 86–90 | 20–25 | Evasion | 25,000 gp |
+| — | 91–93 | 26–28 | X-ray vision | 25,000 gp |
+| — | 94–97 | 29–32 | Blinking | 27,000 gp |
+| — | 98–100 | 33–39 | Energy resistance, major | 28,000 gp |
+| — | — | 40–49 | Protection +4 | 32,000 gp |
+| — | — | 50–55 | Wizardry (II) | 40,000 gp |
+| — | — | 56–60 | Freedom of movement | 40,000 gp |
+| — | — | 61–63 | Energy resistance, greater | 44,000 gp |
+| — | — | 64–65 | Friend shield (pair) | 50,000 gp |
+| — | — | 66–70 | Protection +5 | 50,000 gp |
+| — | — | 71–74 | Shooting stars | 50,000 gp |
+| — | — | 75–79 | Spell storing | 50,000 gp |
+| — | — | 80–83 | Wizardry (III) | 70,000 gp |
+| — | — | 84–86 | Telekinesis | 75,000 gp |
+| — | — | 87–88 | Regeneration | 90,000 gp |
+| — | — | 89–91 | Spell turning | 100,000 gp |
+| — | — | 92–93 | Wizardry (IV) | 100,000 gp |
+| — | — | 94 | Three wishes | 120,000 gp |
+| — | — | 95 | Djinni calling | 125,000 gp |
+| — | — | 96 | Elemental command (Air) | 200,000 gp |
+| — | — | 97 | Elemental command (Earth) | 200,000 gp |
+| — | — | 98 | Elemental command (Fire) | 200,000 gp |
+| — | — | 99 | Elemental command (Water) | 200,000 gp |
+| — | — | 100 | Spell storing, major | 200,000 gp |

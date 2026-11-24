@@ -45,7 +45,7 @@ The sword duelist's class skills (and the key ability for each skill) are Acroba
 
 The following are class features of the sword duelist prestige class.
 
-Unless stated otherwise, the following benefits apply only when a sword duelist is wielding a [dueling sword](../../equipment/gear-ag.md) and carrying nothing in his other hand.
+Unless stated otherwise, the following benefits apply only when a sword duelist is wielding a [dueling sword](../../equipment/goods/index.md) and carrying nothing in his other hand.
 
 #### Bonus Proficiency and Feat
 
