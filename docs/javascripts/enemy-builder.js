@@ -292,7 +292,7 @@
       var u = latest[k], label = capFirst(u.label);
       if (/^bonus feat/i.test(k)) return; // counted in the feat slots instead
       if (count[k] > 1 && !/\d/.test(label)) label += ' ×' + count[k];
-      out.push({ name: label, type: typeOf(u.sec || ''), text: (d.sec || {})[u.sec] || '', link: d.page + (u.sec ? '#' + u.sec : ''), lvl: u.lvl, src: d.s, fxL: L, tal: k === 'rogue talent' ? count[k] : 0 });
+      out.push({ name: label, type: typeOf(u.sec || ''), text: (d.sec || {})[u.sec] || '', link: d.page + (u.sec ? '#' + u.sec : ''), lvl: u.lvl, src: d.s, fxL: L, tal: k === 'rogue talent' ? count[k] : 0, wild: k === 'wild talents' ? (count['utility wild talent'] || 0) : 0 });
     });
     chosen.forEach(function (a) {
       a.abilities.forEach(function (b) {
@@ -310,6 +310,13 @@
   function rogueTalentPicks(c, slots) {
     var list = DATA.rogueTalents || [];
     return (c.talents || []).slice(0, slots).map(function (n) {
+      return list.filter(function (t) { return t.n === n; })[0];
+    }).filter(Boolean);
+  }
+  // the wild talents a class has picked (c.wild, names), as entries of DATA.wildTalents; at most one per utility talent it has
+  function wildTalentPicks(c, slots) {
+    var list = DATA.wildTalents || [];
+    return (c.wild || []).slice(0, slots).map(function (n) {
       return list.filter(function (t) { return t.n === n; })[0];
     }).filter(Boolean);
   }
@@ -759,6 +766,10 @@
       // the rogue talents picked for a "Rogue talent" feature, one per talent it gives
       if (x.tal) rogueTalentPicks(x.cls, x.tal).forEach(function (t) {
         m.special.push({ name: t.n, type: t.t, text: 'Rogue talent. ' + (t.p ? 'Prerequisites: ' + t.p + '. ' : '') + t.x });
+      });
+      // the wild talents picked for a "Wild Talents" feature, one per utility talent it gives
+      if (x.wild) wildTalentPicks(x.cls, x.wild).forEach(function (t) {
+        m.special.push({ name: t.n, type: t.t, text: 'Wild talent. ' + (t.p ? 'Prerequisites: ' + t.p + '. ' : '') + t.x });
       });
     });
     m.abilities = ABIL.map(function (a) { return a + ' ' + ((a === 'Con' && (S.type === 'undead' || S.type === 'construct')) ? '—' : score(a)); }).join(', ');
@@ -2432,6 +2443,23 @@
                 h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { got.splice(j, 1); changed(); redrawAll(); } }));
             })) : null);
         }
+        // the "Wild Talents" feature: pick as many utility wild talents as the class has at its level
+        var wildFx = feats.filter(function (x) { return x.on && x.wild; })[0], wildBox = null;
+        if (wildFx && (DATA.wildTalents || []).length) {
+          var wgot = c.wild = c.wild || [], wfull = wgot.length >= wildFx.wild;
+          var wildSel = h('select', { class: 'eb-s' }, [h('option', { value: '', text: '+ wild talent (' + Math.min(wgot.length, wildFx.wild) + '/' + wildFx.wild + ')…' })].concat(
+            DATA.wildTalents.filter(function (t) { return wgot.indexOf(t.n) < 0; }).map(function (t) {
+              return h('option', { value: t.n, title: t.x, text: t.n + (t.t ? ' (' + t.t + ')' : '') + (t.e ? ' [' + t.e + ']' : '') + (t.p ? ' — needs ' + t.p : '') });
+            })));
+          wildSel.disabled = wfull;
+          wildSel.addEventListener('change', function () { if (wildSel.value) { wgot.push(wildSel.value); changed(); redrawAll(); } });
+          wildBox = h('div', { class: 'eb-grid' }, field('Wild talents', wildSel),
+            wgot.length ? h('span', { class: 'eb-chips' }, wgot.map(function (n, j) {
+              var t = DATA.wildTalents.filter(function (r) { return r.n === n; })[0] || {};
+              return h('span', { class: 'eb-chip' + (j >= wildFx.wild ? ' eb-over' : ''), title: (t.p ? 'Needs ' + t.p + '.\n\n' : '') + (t.x || '') }, n,
+                h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { wgot.splice(j, 1); changed(); redrawAll(); } }));
+            })) : null);
+        }
         return h('div', { class: 'eb-classrow' },
           h('div', { class: 'eb-grid' },
             field('Class', pick),
@@ -2440,7 +2468,7 @@
             chips.length ? h('span', { class: 'eb-chips' }, chips) : null,
             d ? h('small', { class: 'eb-note', text: 'd' + d.die + ', ' + d.ranks + ' + Int ranks per level' }) : null,
             h('button', { type: 'button', class: 'eb-x', text: '×', title: 'Remove class', onclick: function () { S.classes.splice(i, 1); changed(); redrawAll(); } })),
-          A === 'loading' ? h('p', { class: 'eb-note', text: 'Loading class features…' }) : feats.length ? flist : null, talBox);
+          A === 'loading' ? h('p', { class: 'eb-note', text: 'Loading class features…' }) : feats.length ? flist : null, talBox, wildBox);
       });
       var box = h('div', null, rows,
         h('button', { type: 'button', class: 'md-button eb-add', text: '+ Class', onclick: function () { S.classes.push({ s: '', lvl: 1, arch: [], off: [] }); changed(); redrawAll(); } }),

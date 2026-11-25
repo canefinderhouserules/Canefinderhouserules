@@ -420,8 +420,15 @@ const rogueTalents = [];
   rogueTalents.sort((a, b) => a.n.localeCompare(b.n));
 }
 
+// ---- wild talents for the kineticist's "Wild Talents" picker: the utility talents of the wild talents page
+// (characters/classes/kineticist-wild-talents.md, "**Type** utility (Sp)"), which are the ones its utility talent slots take.
+// [n: name, t: Sp/Su, e: element, l: level, p: prerequisites, x: what it does]
+const wildTalents = Object.values(kineticist.talents).filter(w => /^utility/i.test(w.type)).map(w => ({
+  n: w.n, t: (w.type.match(/\((Ex|Su|Sp)\)/) || [])[1] || '', e: w.element, l: w.level, p: w.pre, x: w.text
+})).sort((a, b) => a.n.localeCompare(b.n));
+
 const out = path.join(DOCS, 'tools', 'enemy-builder-data.json');
-fs.writeFileSync(out, JSON.stringify({ weapons, armors, feats, rolls, classes, mythic, ragePowers, rogueTalents, kineticist, alchemist, shifterAspects, oaths, races }));
+fs.writeFileSync(out, JSON.stringify({ weapons, armors, feats, rolls, classes, mythic, ragePowers, rogueTalents, wildTalents, kineticist, alchemist, shifterAspects, oaths, races }));
 console.log('races:', races.length, '(' + races.filter(r => r.any).length + ' with a +2 of their choice)');
 console.log('oaths:', Object.keys(oaths).length, '(' + (oaths['Oath of Vengeance'] || []).map(o => o.n + ' ' + o.lvl).join(', ') + ')');
 console.log('alchemist:', alchemist.discoveries.length, 'discoveries; shifter:', shifterAspects.length, 'aspects');
