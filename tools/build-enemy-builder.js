@@ -401,8 +401,27 @@ const races = [];
   }
 }
 
+// ---- rogue talents for the rogue's "Rogue talent" picker (characters/classes/rogue-talents.md): the tables
+// "| Talent | Prerequisites | Benefit |"; the ones under an "Advanced Rogue Talents" heading are advanced talents.
+// [n: name, t: Ex/Su/Sp, p: prerequisites, x: what it does, adv: advanced talent]
+const rogueTalents = [];
+{
+  let table = false, adv = false;
+  for (const line of read('characters/classes/rogue-talents.md').replace(/\r/g, '').split('\n')) {
+    if (/^#/.test(line)) { adv = /advanced/i.test(line); table = false; continue; }
+    if (!line.startsWith('|')) { table = false; continue; }
+    const c = cells(line);
+    if (/^Talent$/i.test(c[0])) { table = true; continue; }
+    if (!table || c.length < 3 || /^-+$/.test(c[0]) || !c[0]) continue;
+    const t = c[0].match(/\s*\((Ex|Su|Sp)\)\s*$/), n = c[0].replace(/\s*\((Ex|Su|Sp)\)\s*$/, '').trim();
+    if (rogueTalents.some(r => r.n.toLowerCase() === n.toLowerCase())) continue;
+    rogueTalents.push({ n, t: t ? t[1] : '', p: /^[—–-]*$/.test(c[1]) ? '' : c[1], x: short(c[2], 400), adv });
+  }
+  rogueTalents.sort((a, b) => a.n.localeCompare(b.n));
+}
+
 const out = path.join(DOCS, 'tools', 'enemy-builder-data.json');
-fs.writeFileSync(out, JSON.stringify({ weapons, armors, feats, rolls, classes, mythic, ragePowers, kineticist, alchemist, shifterAspects, oaths, races }));
+fs.writeFileSync(out, JSON.stringify({ weapons, armors, feats, rolls, classes, mythic, ragePowers, rogueTalents, kineticist, alchemist, shifterAspects, oaths, races }));
 console.log('races:', races.length, '(' + races.filter(r => r.any).length + ' with a +2 of their choice)');
 console.log('oaths:', Object.keys(oaths).length, '(' + (oaths['Oath of Vengeance'] || []).map(o => o.n + ' ' + o.lvl).join(', ') + ')');
 console.log('alchemist:', alchemist.discoveries.length, 'discoveries; shifter:', shifterAspects.length, 'aspects');
