@@ -76,6 +76,8 @@
 /* a long title is cut with "…" (full name in the hover title); the price and the × stay visible */
 .md-typeset .eb-chip > a { overflow: hidden; text-overflow: ellipsis; min-width: 0; }
 .md-typeset .eb-chip > small, .md-typeset .eb-chip > button { flex-shrink: 0; }
+/* the long "in the numbers" note may shrink and be cut with "…" too (full text in the chip's hover title) */
+.md-typeset .eb-chip > small.eb-fx { flex-shrink: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; }
 .md-typeset .eb-features { display: grid; grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr)); gap: 0 1rem; margin-top: .3rem; }
 .md-typeset .eb-feature { font-size: .64rem; display: flex; align-items: baseline; gap: .25rem; cursor: help; }
 .md-typeset .eb-feature small { color: var(--md-default-fg-color--light); min-width: 1rem; text-align: right; }
