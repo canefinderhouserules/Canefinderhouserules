@@ -292,7 +292,7 @@
       var u = latest[k], label = capFirst(u.label);
       if (/^bonus feat/i.test(k)) return; // counted in the feat slots instead
       if (count[k] > 1 && !/\d/.test(label)) label += ' ×' + count[k];
-      out.push({ name: label, type: typeOf(u.sec || ''), text: (d.sec || {})[u.sec] || '', link: d.page + (u.sec ? '#' + u.sec : ''), lvl: u.lvl, src: d.s, fxL: L });
+      out.push({ name: label, type: typeOf(u.sec || ''), text: (d.sec || {})[u.sec] || '', link: d.page + (u.sec ? '#' + u.sec : ''), lvl: u.lvl, src: d.s, fxL: L, tal: k === 'rogue talent' ? count[k] : 0 });
     });
     chosen.forEach(function (a) {
       a.abilities.forEach(function (b) {
@@ -305,6 +305,13 @@
     });
     out.sort(function (x, y) { return x.lvl - y.lvl; });
     return { list: out, bonusFeats: bonus };
+  }
+  // the rogue talents a class has picked (c.talents, names), as entries of DATA.rogueTalents; at most one per talent the class has
+  function rogueTalentPicks(c, slots) {
+    var list = DATA.rogueTalents || [];
+    return (c.talents || []).slice(0, slots).map(function (n) {
+      return list.filter(function (t) { return t.n === n; })[0];
+    }).filter(Boolean);
   }
   // ---------- what class features do to the numbers ----------
   // Only lasting effects: modes that are turned on (rage and the like) go in as buffs by hand. A feature scales with
@@ -749,6 +756,10 @@
       var dice = nm.match(/\b\d+d\d+(?:[+-]\d+)?/);
       if (dice) b.rolls = [[nm.replace(/\s*\+?\d+d\d+.*$/, '') || 'roll', dice[0]]];
       m.special.push(b);
+      // the rogue talents picked for a "Rogue talent" feature, one per talent it gives
+      if (x.tal) rogueTalentPicks(x.cls, x.tal).forEach(function (t) {
+        m.special.push({ name: t.n, type: t.t, text: 'Rogue talent. ' + (t.p ? 'Prerequisites: ' + t.p + '. ' : '') + t.x });
+      });
     });
     m.abilities = ABIL.map(function (a) { return a + ' ' + ((a === 'Con' && (S.type === 'undead' || S.type === 'construct')) ? '—' : score(a)); }).join(', ');
     m.combat = 'BAB ' + sgn(D.bab).replace('–', '-') + '; CMB ' + sgn(D.cmb).replace('–', '-') + '; CMD ' + D.cmd;
@@ -2380,7 +2391,7 @@
         var pick = h('select', { class: 'eb-s' }, opts());
         pick.value = c.s || '';
         pick.addEventListener('change', function () {
-          c.s = pick.value; c.arch = []; c.off = [];
+          c.s = pick.value; c.arch = []; c.off = []; c.talents = [];
           // a humanoid with class levels has no racial Hit Dice
           if (CLASS_BY[c.s] && S.classes.length === 1 && S.hd === 1 && S.type === 'humanoid') S.hd = 0;
           loadArch(c.s); changed(); redrawAll();
@@ -2404,6 +2415,23 @@
             x.note ? h('small', { class: 'eb-fx', text: x.note + ' ' }) : null,
             h('a', { href: new URL(x.link, BASE).href, target: '_blank', text: '↗', onclick: function (e) { e.stopPropagation(); } }));
         }));
+        // the "Rogue talent" feature: pick as many talents as the class has at its level
+        var talFx = feats.filter(function (x) { return x.on && x.tal; })[0], talBox = null;
+        if (talFx && (DATA.rogueTalents || []).length) {
+          var got = c.talents = c.talents || [], full = got.length >= talFx.tal;
+          var talSel = h('select', { class: 'eb-s' }, [h('option', { value: '', text: '+ rogue talent (' + Math.min(got.length, talFx.tal) + '/' + talFx.tal + ')…' })].concat(
+            DATA.rogueTalents.filter(function (t) { return got.indexOf(t.n) < 0; }).map(function (t) {
+              return h('option', { value: t.n, title: t.x, text: t.n + (t.t ? ' (' + t.t + ')' : '') + (t.adv ? ' [advanced]' : '') + (t.p ? ' — needs ' + t.p : '') });
+            })));
+          talSel.disabled = full;
+          talSel.addEventListener('change', function () { if (talSel.value) { got.push(talSel.value); changed(); redrawAll(); } });
+          talBox = h('div', { class: 'eb-grid' }, field('Rogue talents', talSel),
+            got.length ? h('span', { class: 'eb-chips' }, got.map(function (n, j) {
+              var t = DATA.rogueTalents.filter(function (r) { return r.n === n; })[0] || {};
+              return h('span', { class: 'eb-chip' + (j >= talFx.tal ? ' eb-over' : ''), title: (t.p ? 'Needs ' + t.p + '.\n\n' : '') + (t.x || '') }, n,
+                h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { got.splice(j, 1); changed(); redrawAll(); } }));
+            })) : null);
+        }
         return h('div', { class: 'eb-classrow' },
           h('div', { class: 'eb-grid' },
             field('Class', pick),
@@ -2412,7 +2440,7 @@
             chips.length ? h('span', { class: 'eb-chips' }, chips) : null,
             d ? h('small', { class: 'eb-note', text: 'd' + d.die + ', ' + d.ranks + ' + Int ranks per level' }) : null,
             h('button', { type: 'button', class: 'eb-x', text: '×', title: 'Remove class', onclick: function () { S.classes.splice(i, 1); changed(); redrawAll(); } })),
-          A === 'loading' ? h('p', { class: 'eb-note', text: 'Loading class features…' }) : feats.length ? flist : null);
+          A === 'loading' ? h('p', { class: 'eb-note', text: 'Loading class features…' }) : feats.length ? flist : null, talBox);
       });
       var box = h('div', null, rows,
         h('button', { type: 'button', class: 'md-button eb-add', text: '+ Class', onclick: function () { S.classes.push({ s: '', lvl: 1, arch: [], off: [] }); changed(); redrawAll(); } }),
