@@ -195,6 +195,8 @@ Bullet, Silver: This ammunition is specifically crafted from silver, and though 
 
 | Item | Cost | Weight |
 |---|---|---|
+| Alchemical cartridge, antimagic dust | 50 gp | — |
+| Alchemical cartridge, antimagic dust shot | 50 gp | — |
 | Alchemical cartridge, dragon’s breath | 40 gp | — |
 | Alchemical cartridge, entangling shot | 40 gp | — |
 | Alchemical cartridge, flare | 10 gp | — |
@@ -202,6 +204,7 @@ Bullet, Silver: This ammunition is specifically crafted from silver, and though 
 | Alchemical cartridge, paper (bullet or pellet) | 12 gp | — |
 | Alchemical cartridge, repellent | 30 gp | — |
 | Alchemical cartridge, salt shot | 12 gp | — |
+| Alchemical cartridge, smoke | 35 gp | — |
 | Alchemical cartridge, toxic | 100 gp | — |
 | Black powder (dose) | 10 gp | — |
 | Black powder (keg) | 1,000 gp | 5 lbs. |
