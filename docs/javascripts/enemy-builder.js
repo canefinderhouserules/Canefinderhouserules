@@ -2328,7 +2328,7 @@
               h('span', { class: bad ? 'eb-over' : '', text: pts + '/' + cap + ' points' })),
             h('div', { class: 'eb-chips' }, mine.map(function (p) {
               var fx = D.features.filter(function (x) { return x.sw && x.name === p.n && x.lvl === p.slot; })[0];
-              return h('span', { class: 'eb-chip eb-' + p.price, title: fx ? (fx.note ? 'In the numbers: ' + fx.note + '.\n\n' : '') + fx.text : '' },
+              return h('span', { class: 'eb-chip eb-' + p.price, title: fx ? (fx.label || p.n) + '\n\n' + (fx.note ? 'In the numbers: ' + fx.note + '.\n\n' : '') + fx.text : p.n },
                 h('a', { href: new URL(p.link, BASE).href, target: '_blank', text: fx && fx.label || p.n }), ' ', h('small', { text: PRICE_LABEL[p.price] }),
                 fx && fx.note ? h('small', { class: 'eb-fx', text: ' · ' + fx.note }) : null,
                 h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { c.picks.splice(c.picks.indexOf(p), 1); changed(); redraw(); } }));
@@ -2352,7 +2352,7 @@
           body.push(h('div', { class: 'eb-slot' + (ptsX > 2 ? ' eb-bad' : '') },
             h('div', { class: 'eb-slothead' }, h('b', { text: 'Extra Class Feature' + (nExtra > 1 ? ' ' + xi : '') }), ' · feat (1 Common or 2 Weak) · ', h('span', { class: ptsX > 2 ? 'eb-over' : '', text: ptsX + '/2 points' })),
             h('div', { class: 'eb-chips' }, mineX.map(function (p) {
-              return h('span', { class: 'eb-chip eb-' + p.price }, h('a', { href: new URL(p.link, BASE).href, target: '_blank', text: p.n }), ' ', h('small', { text: PRICE_LABEL[p.price] }),
+              return h('span', { class: 'eb-chip eb-' + p.price, title: p.n }, h('a', { href: new URL(p.link, BASE).href, target: '_blank', text: p.n }), ' ', h('small', { text: PRICE_LABEL[p.price] }),
                 h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { c.picks.splice(c.picks.indexOf(p), 1); changed(); redraw(); } }));
             })),
             ptsX < 2 ? h('div', { class: 'eb-inline' }, priceX, pickerX.el) : null, msgX));

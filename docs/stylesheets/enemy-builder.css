@@ -70,8 +70,12 @@
 .md-typeset .eb-sklegend { display: none; }
 /* classes */
 .md-typeset .eb-classrow { border-left: 3px solid var(--md-accent-fg-color--transparent); padding: .1rem 0 .2rem .6rem; margin: .2rem 0 .5rem; }
-.md-typeset .eb-chips { display: inline-flex; flex-wrap: wrap; gap: .3rem; }
-.md-typeset .eb-chip { font-size: .64rem; background: var(--md-accent-fg-color--transparent); border-radius: 1rem; padding: .05rem .2rem .05rem .55rem; white-space: nowrap; }
+.md-typeset .eb-chips { display: inline-flex; flex-wrap: wrap; gap: .3rem; max-width: 100%; }
+.md-typeset .eb-chip { font-size: .64rem; background: var(--md-accent-fg-color--transparent); border-radius: 1rem; padding: .05rem .2rem .05rem .55rem; white-space: nowrap;
+  display: inline-flex; align-items: baseline; gap: .25rem; max-width: 100%; min-width: 0; box-sizing: border-box; }
+/* a long title is cut with "…" (full name in the hover title); the price and the × stay visible */
+.md-typeset .eb-chip > a { overflow: hidden; text-overflow: ellipsis; min-width: 0; }
+.md-typeset .eb-chip > small, .md-typeset .eb-chip > button { flex-shrink: 0; }
 .md-typeset .eb-features { display: grid; grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr)); gap: 0 1rem; margin-top: .3rem; }
 .md-typeset .eb-feature { font-size: .64rem; display: flex; align-items: baseline; gap: .25rem; cursor: help; }
 .md-typeset .eb-feature small { color: var(--md-default-fg-color--light); min-width: 1rem; text-align: right; }
