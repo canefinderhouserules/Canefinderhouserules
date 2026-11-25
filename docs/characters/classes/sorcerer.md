@@ -79,6 +79,8 @@ A sorcerer gains [Eschew Materials](../../rules/feats/eschew-materials.md) as a 
 
 The following bloodlines represent only some of the possible sources of power that a sorcerer can draw upon. Unless otherwise noted, most sorcerers are assumed to have the arcane bloodline.
 
+More bloodlines (Accursed, Div, Djinni, the Advanced Player's Guide bloodlines, Kobold, Scorpion and the wildblooded bloodlines) are on the [Sorcerer Options and Archetypes](sorcerer-archetypes.md) page. Its quick index at the top lists them apart from the archetypes.
+
 ## Aberrant
 
 There is a taint in your blood, one that is alien and bizarre. You tend to think in odd ways, approaching problems from an angle that most would not expect. Over time, this taint manifests itselfin your physical form.
