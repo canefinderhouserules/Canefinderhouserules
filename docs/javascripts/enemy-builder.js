@@ -2232,13 +2232,40 @@
     });
     return (SW_ENTRIES[key] = by);
   }
-  function swDatalists() {
-    var c = (S.classes || []).filter(function (x) { return CLASS_BY[x.s] && CLASS_BY[x.s].sw; })[0];
-    if (!c) return null;
-    var key = CLASS_BY[c.s].key, by = swEntries(key), names = Object.keys(by).sort();
-    return h('div', null, ['all', 'iconic', 'op', 'common', 'weak'].map(function (p) {
-      return h('datalist', { id: 'sw-list-' + p }, names.filter(function (n) { return p === 'all' || by[n].price === p; }).map(function (n) { return h('option', { value: n }); }));
-    }));
+  // the search box of a class feature choice: its own list, sorted by level; the features above maxLvl go last, in grey, with their level
+  function swPicker(by, maxLvl, priceOf, placeholder, pick) {
+    var input = h('input', { type: 'text', class: 'eb-t eb-wide', placeholder: placeholder, autocomplete: 'off' });
+    var list = h('div', { class: 'eb-picklist', hidden: true });
+    var cur = -1, shown = [];
+    var mark = function () { Array.prototype.forEach.call(list.children, function (o, i) { o.classList.toggle('eb-on', i === cur); }); if (list.children[cur]) list.children[cur].scrollIntoView({ block: 'nearest' }); };
+    var render = function () {
+      var q = input.value.trim().toLowerCase(), p = priceOf();
+      shown = Object.keys(by).filter(function (n) { return (p === 'all' || by[n].price === p) && (!q || n.toLowerCase().indexOf(q) >= 0); });
+      shown.sort(function (a, b) {
+        var A = by[a], B = by[b];
+        return ((A.lvl > maxLvl) - (B.lvl > maxLvl)) || A.lvl - B.lvl || a.localeCompare(b);
+      });
+      list.innerHTML = ''; cur = -1;
+      shown.forEach(function (n) {
+        var e = by[n], hi = e.lvl > maxLvl;
+        list.appendChild(h('div', { class: 'eb-pickopt' + (hi ? ' eb-higher' : ''), title: hi ? 'A feature of ' + ord(e.lvl) + ' level, above this choice' : '',
+          onmousedown: function (ev) { ev.preventDefault(); pick(e); } }, n, hi ? h('small', { text: ' · level ' + e.lvl }) : null));
+      });
+      list.hidden = !shown.length;
+    };
+    input.addEventListener('focus', render);
+    input.addEventListener('blur', function () { list.hidden = true; });
+    input.addEventListener('input', function () { if (by[input.value]) pick(by[input.value]); else render(); });
+    input.addEventListener('keydown', function (ev) {
+      if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
+        ev.preventDefault(); if (list.hidden) render();
+        if (shown.length) { cur = (cur + (ev.key === 'ArrowDown' ? 1 : shown.length - 1) + (cur < 0 && ev.key === 'ArrowUp' ? 1 : 0)) % shown.length; mark(); }
+      } else if (ev.key === 'Enter') {
+        var n = cur >= 0 ? shown[cur] : by[input.value] ? input.value : shown.length === 1 ? shown[0] : null;
+        if (n) { ev.preventDefault(); pick(by[n]); }
+      } else if (ev.key === 'Escape') list.hidden = true;
+    });
+    return { input: input, render: render, el: h('span', { class: 'eb-pick' }, input, list) };
   }
   function swCard() {
     return card((MODE === 'starwars' ? 'Star Wars' : MODE === 'chakra' ? 'Shinobi' : 'Hero') + ' class', slot(function (redraw) {
@@ -2284,23 +2311,18 @@
           var mine = c.picks.filter(function (p) { return p.slot === sl.lvl && !p.extra; });
           var pts = mine.reduce(function (t, p) { return t + PRICE_PTS[p.price]; }, 0), cap = sl.small ? 2 : 4;
           var big = mine.some(function (p) { return p.price === 'op' || p.price === 'iconic'; });
-          var bad = pts > cap || (big && mine.length > 1) || (sl.small && big);
+          var higher = mine.filter(function (p) { return p.lvl > sl.lvl; });
+          var bad = pts > cap || (big && mine.length > 1) || (sl.small && big) || higher.length > 0;
           var msg = h('small', { class: 'eb-over' });
           var priceSel = h('select', { class: 'eb-s' }, [['all', 'any price'], ['iconic', 'Iconic'], ['op', 'OP'], ['common', 'Common'], ['weak', 'Weak']]
             .filter(function (o) { return !sl.small || !/iconic|op/.test(o[0]); }).map(function (o) { return h('option', { value: o[0], text: o[1] }); }));
-          var input = h('input', { type: 'text', class: 'eb-t eb-wide', placeholder: 'type to search the ' + d.n + ' list…' });
-          input.setAttribute('list', 'sw-list-all');
-          priceSel.addEventListener('change', function () { input.setAttribute('list', 'sw-list-' + priceSel.value); input.focus(); });
-          var add = function () {
-            var e = by[input.value]; if (!e) return;
-            if (e.lvl > sl.lvl) { msg.textContent = e.n + ' is a feature of ' + ord(e.lvl) + ' level: this choice is ' + ord(sl.lvl) + ' level.'; return; }
+          var picker = swPicker(by, sl.lvl, function () { return priceSel.value; }, 'type to search the ' + d.n + ' list…', function (e) {
             if (sl.small && (e.price === 'op' || e.price === 'iconic')) { msg.textContent = 'At ' + ord(sl.lvl) + ' level the choice is only 1 Common or 2 Weak.'; return; }
             c.picks.push({ slot: sl.lvl, n: e.n, link: e.link, price: e.price, lvl: e.lvl, text: e.text || '' });
-            input.value = ''; changed(); redraw();
+            picker.input.value = ''; changed(); redraw();
             var again = root.querySelector('.eb-slot[data-slot="' + sl.lvl + '"] input'); if (again) again.focus();
-          };
-          input.addEventListener('input', function () { if (by[input.value]) add(); });
-          input.addEventListener('change', add);
+          });
+          priceSel.addEventListener('change', function () { picker.input.focus(); picker.render(); });
           return h('div', { class: 'eb-slot' + (bad ? ' eb-bad' : ''), 'data-slot': sl.lvl },
             h('div', { class: 'eb-slothead' }, h('b', { text: ord(sl.lvl) + ' level' }), ' · Class Feature ' + sl.n + (sl.small ? ' (1 Common or 2 Weak)' : '') + ' · ',
               h('span', { class: bad ? 'eb-over' : '', text: pts + '/' + cap + ' points' })),
@@ -2311,36 +2333,33 @@
                 fx && fx.note ? h('small', { class: 'eb-fx', text: ' · ' + fx.note }) : null,
                 h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { c.picks.splice(c.picks.indexOf(p), 1); changed(); redraw(); } }));
             })),
-            pts < cap ? h('div', { class: 'eb-inline' }, priceSel, input) : null, msg);
+            pts < cap ? h('div', { class: 'eb-inline' }, priceSel, picker.el) : null,
+            higher.length ? h('small', { class: 'eb-over', text: 'Feature above the level of this choice: ' + higher.map(function (p) { return p.n + ' (' + ord(p.lvl) + ')'; }).join(', ') + '. The GM decides if it stays.' }) : null,
+            msg);
         })));
         var nExtra = extraCount();
         for (var xi = 1; xi <= nExtra; xi++) (function (xi) {
           var mineX = c.picks.filter(function (p) { return p.extra === xi; });
           var ptsX = mineX.reduce(function (t, p) { return t + PRICE_PTS[p.price]; }, 0);
           var msgX = h('small', { class: 'eb-over' });
-          var inputX = h('input', { type: 'text', class: 'eb-t eb-wide', placeholder: 'type to search the ' + d.n + ' list…' });
-          inputX.setAttribute('list', 'sw-list-common');
           var priceX = h('select', { class: 'eb-s' }, [['common', 'Common'], ['weak', 'Weak']].map(function (o) { return h('option', { value: o[0], text: o[1] }); }));
-          priceX.addEventListener('change', function () { inputX.setAttribute('list', 'sw-list-' + priceX.value); inputX.focus(); });
-          var addX = function () {
-            var e = by[inputX.value]; if (!e) return;
+          var pickerX = swPicker(by, c.lvl, function () { return priceX.value; }, 'type to search the ' + d.n + ' list…', function (e) {
             if (e.price === 'op' || e.price === 'iconic') { msgX.textContent = 'Extra Class Feature gives only 1 Common or 2 Weak.'; return; }
             c.picks.push({ slot: 1, extra: xi, n: e.n, link: e.link, price: e.price, lvl: e.lvl, text: e.text || '' });
-            inputX.value = ''; changed(); redraw();
-          };
-          inputX.addEventListener('input', function () { if (by[inputX.value]) addX(); });
-          inputX.addEventListener('change', addX);
+            pickerX.input.value = ''; changed(); redraw();
+          });
+          priceX.addEventListener('change', function () { pickerX.input.focus(); pickerX.render(); });
           body.push(h('div', { class: 'eb-slot' + (ptsX > 2 ? ' eb-bad' : '') },
             h('div', { class: 'eb-slothead' }, h('b', { text: 'Extra Class Feature' + (nExtra > 1 ? ' ' + xi : '') }), ' · feat (1 Common or 2 Weak) · ', h('span', { class: ptsX > 2 ? 'eb-over' : '', text: ptsX + '/2 points' })),
             h('div', { class: 'eb-chips' }, mineX.map(function (p) {
               return h('span', { class: 'eb-chip eb-' + p.price }, h('a', { href: new URL(p.link, BASE).href, target: '_blank', text: p.n }), ' ', h('small', { text: PRICE_LABEL[p.price] }),
                 h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { c.picks.splice(c.picks.indexOf(p), 1); changed(); redraw(); } }));
             })),
-            ptsX < 2 ? h('div', { class: 'eb-inline' }, priceX, inputX) : null, msgX));
+            ptsX < 2 ? h('div', { class: 'eb-inline' }, priceX, pickerX.el) : null, msgX));
         })(xi);
         if (limits.length) body.push(h('p', { class: 'eb-over', text: 'Over the limit: ' + limits.join('; ') + '.' }));
         if (c.lvl >= 20) body.push(h('p', { class: 'eb-note', text: 'Capstone at 20th level: agree it with the GM and add it under Special abilities.' }));
-        body.push(h('p', { class: 'eb-note', text: 'Each choice: 1 Iconic, 1 OP, 2 Common or 4 Weak (Iconic and OP are 4 points, Common 2, Weak 1). From 12th level, the choices at 12th, 16th and 18th are 1 Common or 2 Weak. At most 1 Iconic, 1 OP chosen at levels 1–10 and 1 OP chosen at 11–20. A feature can be taken at its own level or later. Filter by price, then type a name. Each feature brings its text from its page and grows with your level as in its class table (a prestige class feature, with your level less 3); the ones that change the numbers say how in color and are already in the stat block. Modes you turn on, such as rage, go in by hand.' }));
+        body.push(h('p', { class: 'eb-note', text: 'Each choice: 1 Iconic, 1 OP, 2 Common or 4 Weak (Iconic and OP are 4 points, Common 2, Weak 1). From 12th level, the choices at 12th, 16th and 18th are 1 Common or 2 Weak. At most 1 Iconic, 1 OP chosen at levels 1–10 and 1 OP chosen at 11–20. A feature can be taken at its own level or later: the list shows them by level, and the ones above the choice go last, in grey; you can still pick one, the choice turns red and the GM decides. Filter by price, then type a name. Each feature brings its text from its page and grows with your level as in its class table (a prestige class feature, with your level less 3); the ones that change the numbers say how in color and are already in the stat block. Modes you turn on, such as rage, go in by hand.' }));
       }
       var box = h('div', null, body);
       var sig = c ? c.lvl + c.s + '|' + extraCount() : '';
@@ -2740,7 +2759,6 @@
       dl('eb-weapon-list', Object.keys(NATURAL).concat(DATA.weapons.map(function (w) { return w.n; }))),
       dl('eb-feat-list', allGroups().map(function (g) { return 'Weapon Focus (' + g + ')'; }).concat(DATA.feats.map(function (f) { return f.n; }))),
       dl('eb-spell-list', (SWD ? SWD.powers.map(function (p) { return p.n; }) : []).concat(Object.keys(SPELLS).map(function (u) { return SPELLS[u].n; }))),
-      SWM ? swDatalists() : null,
       dl('eb-uses', ['At will', 'Constant', '1/day', '2/day', '3/day', '1/week']),
       h('datalist', { id: 'eb-mythic-list' }, Object.keys(mythicEntries()).map(function (k) { return h('option', { value: k }); })));
   }
