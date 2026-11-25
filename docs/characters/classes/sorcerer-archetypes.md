@@ -4,6 +4,19 @@ Sorcerous power is, by its very nature, a strange and unpredictable thing, the r
 
 The following section introduces new sorcerer bloodlines, as well as two new sorcerer archetypes— crossblooded and wildblooded—the latter of which comes with its own unique selection of modified bloodlines to reflect its bizarre and mutated origins.
 
+!!! info "Quick index: bloodlines and archetypes on this page"
+    This page mixes new bloodlines with real archetypes. The core bloodlines (Aberrant, Arcane, Draconic, etc.) are on the main [Sorcerer](sorcerer.md#sorcerer-bloodlines) page.
+
+    **New bloodlines**: [Accursed](#accursed), [Div](#div), [Djinni](#djinni), [Efreeti](#efreeti), [Impossible](#impossible), [Maestro](#maestro), [Marid](#marid), [Naga](#naga), [Nanite](#nanite), [Oni](#oni), [Orc](#orc), [Rakshasa](#rakshasa), [Salamander](#salamander), [Shaitan](#shaitan), [Shapechanger](#shapechanger), [Vestige](#vestige), [Imperious](#imperious-bloodline), [Martyred](#martyred-bloodline), [Daemon](#daemon-bloodline).
+
+    **[Advanced Player's Guide bloodlines](#advanced-players-guide-bloodlines)**: [Aquatic](#aquatic), [Boreal](#boreal), [Deep Earth](#deep-earth), [Dreamspun](#dreamspun), [Protean](#protean), [Serpentine](#serpentine), [Shadow](#shadow), [Starsoul](#starsoul), [Stormborn](#stormborn), [Verdant](#verdant).
+
+    **Other bloodlines**: [Kobold](#kobold) (Advanced Race Guide), [Scorpion](#scorpion) (Toxic Heritages).
+
+    **[Wildblooded](#wildblooded) bloodlines** (associated bloodline in parentheses): [Anarchic](#anarchic) (Protean), [Arial](#arial) (Stormborn), [Bedrock](#bedrock) (Deep Earth), [Brutal](#brutal) (Abyssal), [Dark Fey](#dark-fey) (Fey), [Empyreal](#empyreal) (Celestial), [Envenomed](#envenomed) (Serpentine), [Groveborn](#groveborn) (Verdant), [Karmic](#karmic) (Destined), [Lifewater](#lifewater) (Elemental [water]), [Linnorm](#linnorm) (Draconic), [Pit-Touched](#pit-touched) (Infernal), [Primal](#primal) (Elemental), [Retribution](#retribution) (Martyred), [Rime-Blooded](#rime-blooded) (Boreal), [Royal Marid](#royal-marid) (Marid), [Sage](#sage) (Arcane), [Sanguine](#sanguine) (Undead), [Seaborn](#seaborn) (Aquatic), [Sylvan](#sylvan) (Fey), [Umbral](#umbral) (Shadow), [Visionary](#visionary) (Dreamspun), [Void-Touched](#void-touched) (Starsoul), [Warped](#warped) (Aberrant).
+
+    **Archetypes**: [Crossblooded](#crossblooded), [Wildblooded](#wildblooded), [Eldritch Scrapper](#eldritch-scrapper), [Mongrel Mage](#mongrel-mage), [Wishcrafter](#wishcrafter), [Seeker](#seeker), [Sham Priest](#sham-priest), [Tattooed Sorcerer](#tattooed-sorcerer), [Dragon Drinker](#dragon-drinker), [Stone Warder](#stone-warder), [Nine-Tailed Heir](#nine-tailed-heir), [Umbral Scion](#umbral-scion), [Sorcerer of Sleep](#sorcerer-of-sleep).
+
 ## Bloodlines
 
 Presented in this section are a number of new bloodlines representing origins of sorcerer abilities.
