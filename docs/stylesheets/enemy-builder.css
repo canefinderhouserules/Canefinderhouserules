@@ -86,6 +86,16 @@
 .md-typeset .eb-slothead { margin-bottom: .2rem; }
 .md-typeset .eb-slot .eb-chips { margin-bottom: .2rem; }
 .md-typeset .eb-slot .eb-t.eb-wide { width: 13rem; }
+.md-typeset .eb-slot > small.eb-over { display: block; }
+/* the class feature search list: by level, the ones above the choice in grey */
+.md-typeset .eb-pick { position: relative; display: inline-block; }
+.md-typeset .eb-picklist { position: absolute; z-index: 20; left: 0; top: 100%; min-width: 100%; width: max-content; max-width: min(26rem, 90vw); max-height: 16rem; overflow-y: auto;
+  background: var(--md-default-bg-color); border: 1px solid var(--md-default-fg-color--lighter); border-radius: .2rem; box-shadow: 0 2px 6px #0003; font-size: .64rem; }
+.md-typeset .eb-picklist[hidden] { display: none; }
+.md-typeset .eb-pickopt { padding: .15rem .45rem; cursor: pointer; white-space: nowrap; }
+.md-typeset .eb-pickopt:hover, .md-typeset .eb-pickopt.eb-on { background: var(--md-accent-fg-color--transparent); }
+.md-typeset .eb-pickopt.eb-higher { color: var(--md-default-fg-color--lighter); }
+.md-typeset .eb-pickopt small { font-size: .58rem; }
 .md-typeset .eb-chip.eb-iconic { background: rgba(156, 39, 176, .15); }
 .md-typeset .eb-chip.eb-op { background: rgba(229, 57, 53, .15); }
 .md-typeset .eb-chip.eb-common { background: rgba(30, 136, 229, .13); }
