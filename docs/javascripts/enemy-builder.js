@@ -1083,7 +1083,7 @@
     var simple = known.map(function (b) { return TT[b]; }).filter(Boolean), comps = [];
     if (exp) Object.keys(TT).forEach(function (k) { var t = TT[k]; if (/composite blast/.test(t.type) && !t.only && t.blast !== 'special' && reqOk(t.pre)) comps.push(t); });
     S.weapons = comps.slice(0, 2).map(function (t) { return blast(t, true); }).concat(simple.map(function (t) { return blast(t, false); }));
-    S.weapons.forEach(function (w, i) { w.opt = Math.min(3, i + 1); });
+    S.weapons.forEach(function (w, i) { w.opt = Math.min(8, i + 1); });
     S.armor = bestArmor('light');
     // talents: the element's lists (primary, expanded) and the universal one
     var els = [prim].concat(exp && exp !== prim ? [exp] : []).concat(['universal']);
@@ -2718,7 +2718,7 @@
               function () { return w.dmgAbil || ''; }, function (v) { if (v) w.dmgAbil = v; else delete w.dmgAbil; }), 'Auto: Str, or Dex with Weapon Finesse'),
             field('Attack misc', numBox(function () { return w.misc || 0; }, function (v) { w.misc = v; }, { min: -20, max: 20 })),
             field('Damage misc', numBox(function () { return w.dmgMisc || 0; }, function (v) { w.dmgMisc = v; }, { min: -20, max: 40 })),
-            field('Option', select([[1, '1'], [2, '2 (or)'], [3, '3 (or)']], function () { return w.opt || 1; }, function (v) { w.opt = +v; }), 'same number = full attack together'),
+            field('Option', select([[1, '1'], [2, '2 (or)'], [3, '3 (or)'], [4, '4 (or)'], [5, '5 (or)'], [6, '6 (or)'], [7, '7 (or)'], [8, '8 (or)']], function () { return w.opt || 1; }, function (v) { w.opt = +v; }), 'same number = full attack together'),
             field('Extra effect', textBox(function () { return w.rider; }, function (v) { w.rider = v; }, { ph: 'plus grab, plus 1d6 fire' })),
             h('button', { type: 'button', class: 'eb-x', text: '×', title: 'Remove', onclick: function () { S.weapons.splice(i, 1); changed(); redrawAll(); } })),
           out);
