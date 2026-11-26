@@ -274,9 +274,10 @@
         var rule = choiceRule(p.n);
         if (rule) out[out.length - 1].rule = rule;
       });
-      // each copy of a list feature ("Rogue Talents", "Wild Talents"...) gives one pick; the first copy carries them all
+      // a list feature ("Rogue Talents", "Wild Talents"...) gives the picks its source class's table has up to the class
+      // level (like bonus feats); the first copy carries them all, extra copies add none
       var firsts = {};
-      out.forEach(function (x) { if (!x.rule) return; var f = firsts[x.rule.list]; if (f) f.count++; else { firsts[x.rule.list] = x; x.count = 1; } });
+      out.forEach(function (x) { if (x.rule && !firsts[x.rule.list]) firsts[x.rule.list] = x; });
       c.choices = c.choices || {};
       Object.keys(firsts).forEach(function (k) { out = out.concat(choiceFeatures(firsts[k].rule, c.choices, firsts[k])); });
       d.special.slice(0, L).forEach(function (t) { if (/Extra Combat Feat/i.test(t)) extra++; });
@@ -378,7 +379,7 @@
   function choiceFeatures(rule, store, x) {
     var st = store[rule.list] = store[rule.list] || { picks: [] };
     x.choice = { rule: rule, st: st };
-    // st.n: the number of picks set by hand (null: the class table's, or one per copy)
+    // st.n: the number of picks set by hand (null: the class table's)
     var slots = st.n != null ? st.n : choiceSlots(rule, x), L = x.fxL || 1;
     return st.picks.map(function (n) { return choiceFind(rule, n) || { n: n, t: '', text: '', link: x.link }; }).filter(function (o) {
       return (o.lvl || 1) <= L && (!o.adv || (rule.adv && L >= rule.adv));
@@ -421,7 +422,7 @@
           h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { st.picks.splice(i, 1); changed(); redraw(); } }));
       })),
       st.picks.length < n ? h('div', { class: 'eb-inline' }, input, dl) : null,
-      h('label', { class: 'eb-inline eb-choice-n' }, h('small', { text: 'picks ' + (st.n != null ? '(set by hand; ' + auto + (x.sw ? ' copied)' : ' by the table)') : x.sw ? '(one per copy of the feature)' : '(by the class table)') }), slotsBox));
+      h('label', { class: 'eb-inline eb-choice-n' }, h('small', { text: 'picks ' + (st.n != null ? '(set by hand; ' + auto + ' by the table)') : '(by the class table)') }), slotsBox));
   }
   var UNARMED = ['1d6', '1d6', '1d6', '1d8', '1d8', '1d8', '1d8', '1d10', '1d10', '1d10', '1d10', '2d6', '2d6', '2d6', '2d6', '2d8', '2d8', '2d8', '2d8', '2d10'];
   function sneakDice(L, name, src) {
