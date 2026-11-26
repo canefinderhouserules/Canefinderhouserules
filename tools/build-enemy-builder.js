@@ -448,7 +448,7 @@ function sectionOptions(file, take) {
       continue;
     }
     table = null;
-    const para = line.match(/^\*\*([^*]+?)\*\*\s*:?\s*(.*)$/) || line.match(/^\*([^*]+?)\**\s*\*?\((Ex|Su|Sp)\)\*?\s*:\s*(.*)$/);
+    const para = line.match(/^\*\*((?:[^*]|\\\*)+?)\*\*\s*:?\s*(.*)$/) || line.match(/^\*([^*]+?)\**\s*\*?\((Ex|Su|Sp)\)\*?\s*:\s*(.*)$/);
     if (para && /:/.test(line.slice(0, line.indexOf(para[para.length - 1]) + 1))) {
       done();
       const name = para.length === 4 ? para[1] + ' (' + para[2] + ')' : para[1].replace(/:$/, '');
@@ -470,6 +470,8 @@ function mergeOptions(...lists) {
   }
   return out.sort((a, b) => a.n.localeCompare(b.n));
 }
+// the options of a list whose names are in `names` (case-insensitive), as non-advanced options
+const pickFrom = (opts, names) => opts.filter(o => names.includes(o.n.toLowerCase().replace(/’/g, "'"))).map(o => Object.assign({}, o, { adv: false }));
 // a wild talent of spell level N can be learned at kineticist level 2N - 1
 const wildTalents = re => Object.values(kineticist.talents).filter(t => re.test(t.type)).map(t => ({
   n: t.n, t: (t.type.match(/\((Ex|Su|Sp)\)/) || [])[1] || (/infusion/.test(t.type) ? 'Su' : ''), lvl: Math.max(1, 2 * t.level - 1), adv: false,
@@ -483,6 +485,17 @@ const choices = {
     sectionOptions('rogue-talents.md', (t, d) => d === 1)) },
   'ninja-trick': { n: 'Ninja tricks', opts: mergeOptions(sectionOptions('ninja.md', sectionIs('Ninja Tricks', 'Master Tricks', 'More Ninja Tricks'))) },
   'slayer-talent': { n: 'Slayer talents', opts: mergeOptions(sectionOptions('slayer.md', sectionIs('Slayer Talents', 'Advanced Talents', 'Poisoner Slayer Talents', 'Samsaran Slayer Talents'))) },
+  'investigator-talent': { n: 'Investigator talents', opts: mergeOptions(
+    sectionOptions('investigator.md', sectionIs(/^Investigator Talent/, /^Adventurer.s Guide Investigator Talents$/, /^Intrigue Investigator Talents$/))
+      .filter(o => !/^(alchemist discovery|rogue talent)$/i.test(o.n)),
+    // the alchemist discoveries and rogue talents an investigator can take as talents (investigator.md names them)
+    pickFrom(alchemist.discoveries.map(d => ({ n: d.n, t: 'Su', lvl: d.lvl, adv: false, pre: d.needs.join(', '), text: d.text, link: 'characters/classes/alchemist/#discovery-su' })),
+      ['combine extracts', 'concentrate poison', 'dilution', 'elixir of life', 'enhance potion', 'eternal potion', 'extend potion', 'infusion', 'mutagen', 'poison conversion']),
+    pickFrom(mergeOptions(
+      sectionOptions('rogue.md', sectionIs('Rogue Talents')),
+      sectionOptions('unchained-rogue.md', sectionIs('Rogue Talents', 'Unmodified Rogue Talents')),
+      sectionOptions('rogue-talents.md', (t, d) => d === 1)),
+      ['assault leader', 'black market connections', 'camouflage', 'canny observer', 'charmer', 'coax information', 'combat swipe', 'convincing liar', 'cunning trigger', 'deft palm', 'expert leaper', 'fast fingers', 'fast getaway', 'fast picks', 'fast stealth', 'firearm training', 'guileful polyglot', 'grit', 'hard to fool', 'hold breath', 'honeyed words', 'iron guts', 'lasting poison', 'ledge walker', 'major magic', 'minor magic', 'nimble climber', 'peerless maneuver', 'quick disable', 'quick disguise', 'quick trapsmith', 'resilience', 'rogue crawl', 'rope master', 'stand up', 'strong stroke', 'terrain master', 'trap spotter', 'wall scrambler'])) },
   'rage-power': { n: 'Rage powers', opts: ragePowers.map(p => ({ n: p.n, t: p.type, lvl: p.lvl, adv: false, pre: p.needs.join(', '), text: p.text, link: p.link })) },
   'discovery': { n: 'Discoveries', opts: alchemist.discoveries.map(d => ({ n: d.n, t: 'Su', lvl: d.lvl, adv: false, pre: d.needs.join(', '), text: d.text, link: 'characters/classes/alchemist/#discovery-su' })) },
   'infusion': { n: 'Infusions', opts: mergeOptions(wildTalents(/infusion/)) },
