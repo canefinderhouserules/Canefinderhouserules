@@ -64,6 +64,7 @@
 - [Natural Expertise (Wild Whisperer)](../../characters/classes/druid-archetypes.md#wild-whisperer): specialist 1–8 common, caster 1–8 common
 - [Natural Poison Lore (Toxicologist)](../../characters/classes/druid-archetypes.md#toxicologist): specialist 1–8 weak, caster 1–8 weak
 - [Nature sense](../../characters/classes/druid.md#nature-sense-ex): specialist 1–8 weak, caster 1–8 weak
+- [Nature’s Armaments (Green Scourge)](../../characters/classes/druid-archetypes.md#green-scourge): specialist 1–8 common, caster 1–8 common
 - [One with the Road (Road Keeper)](../../characters/classes/druid-archetypes.md#road-keeper): specialist 9–15 weak, caster 9–15 weak
 - [Paranormal Scholar (Supernaturalist)](../../characters/classes/druid-archetypes.md#supernaturalist): specialist 1–8 weak, caster 1–8 weak
 - [Path of Trees (World Walker)](../../characters/classes/druid-archetypes.md#world-walker): specialist 9–15 weak, caster 9–15 weak
@@ -124,4 +125,5 @@
 - [Wild Mischief (Feyspeaker)](../../characters/classes/druid-archetypes.md#feyspeaker): specialist 1–8 weak, caster 1–8 weak
 - [Wildshape](../../characters/classes/druid.md#wild-shape-su): specialist 1–8 iconic, caster 1–8 iconic
 - [Windwalker (Storm Druid)](../../characters/classes/druid-archetypes.md#storm-druid): specialist 1–8 weak, caster 1–8 weak
+- [Wisdom for Flame Blade (Green Scourge)](../../characters/classes/druid-archetypes.md#green-scourge): specialist 1–8 weak, caster 1–8 weak
 - [Wolfsbane (Mooncaller)](../../characters/classes/druid-archetypes.md#mooncaller): specialist 9–15 weak, caster 9–15 weak
