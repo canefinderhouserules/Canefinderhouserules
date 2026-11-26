@@ -232,6 +232,16 @@ function buildSub(sub) {
     const text = clean(part.split('\n').slice(1).filter(l => !/\*\*Price:/.test(l)).join(' '));
     return { n: name, price, levels, text: short(text, 600), link: D + 'generic-class-features/#' + name.toLowerCase().replace(/[^\w\s-]/g, '').trim().replace(/\s+/g, '-') };
   });
+  // the class-type options of the prices page ("**Accelerated Caster [Common Class Feature]:** Exclusive to the Jutsu Master..."),
+  // generic features only one class type can take (Star Wars has them on its index page)
+  const ONLY = { 'Accelerated Caster': 'caster', 'Level as BAB': 'specialist', 'Caster Specialist': 'caster' };
+  const pricesPage = sub.id === 'starwars' ? sub.index : 'class-features-and-prices.md';
+  for (const m of read(D + pricesPage).matchAll(/^\*\*([^*\[]+?)\s*\[(\w+) Class Feature\]:\*\*\s*(.+)$/gm)) {
+    const name = m[1].trim(), c = classes.find(x => x.role === ONLY[name]);
+    if (!c || generic.some(g => g.n === name)) continue;
+    const price = m[2].toLowerCase().replace('overpowered', 'op').replace('medium', 'common');
+    generic.push({ n: name, price, levels: { [c.s]: 1 }, text: short(clean(m[3]), 600), link: D + (sub.id === 'starwars' ? '' : 'class-features-and-prices/') });
+  }
 
   // lightsabers, blasters and lightsaber forms (Star Wars)
   const weapons = [];

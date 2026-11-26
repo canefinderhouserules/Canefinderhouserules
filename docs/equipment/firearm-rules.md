@@ -168,6 +168,11 @@ Firearm Ammunition and Adventuring Gear Those who wield guns have a number of op
 
 **Toxic Cartridge** (100 gp): This cartridge can be used only in early or advanced firearms with the scatter weapon quality. To use a toxic cartridge, make a scattering shot against an AC of 5. If you succeed, you create a cone of burning toxic gas that lasts for 1 round, after which the gas dissipates. Any creature within this area when it is created or any creature that enters the gas while it is active must succeed at a DC 15 Fortitude save or become nauseated 1 for 1d2 rounds. Being affected by the gas multiple times lengthens the duration of the nauseated condition. In addition, any creature that begins its turn in the area takes 1d6 points of fire damage. If your attack results in a misfire that causes your firearm to explode, the area of the cloud is instead centered on one corner of your square (your choice), with a radius equal to the firearm's misfire burst size. Firing this cartridge increases the firearm's misfire value by 1.
 
+!!! note "See also"
+    More alchemical cartridges and special bullets are described on the [Adventuring Gear](goods/adventuring-gear.md) page: [antimagic dust cartridge](goods/adventuring-gear.md#alchemical-cartridge-antimagic-dust), [antimagic dust shot cartridge](goods/adventuring-gear.md#alchemical-cartridge-antimagic-dust-shot), [smoke cartridge](goods/adventuring-gear.md#alchemical-cartridge-smoke), and [screaming bullet](goods/adventuring-gear.md#bullet-screaming).
+
+    Other ammunition is listed with the [weapons](weapons.md#simple-ammunition): [groaning bullets](weapons/bullet-s-groaning-10.md), [sling bullets](weapons/bullet-s-sling-10.md), and [smoke bullets](weapons/bullet-s-smoke-10.md).
+
 **Black Powder**: Black powder is the key explosive component within a firearm that enables it to function, but in larger amounts this alchemical material can be quite destructive on its own as well. A single dose of black powder is enough to power a single shot from most one-handed and two-handed firearms, while 10 doses are required to fire a cannon. Black powder is often stored and transported in kegs (which hold 100 doses), but in this quantity the powder itself becomes dangerous. Exposure to fire, electricity, or a misfire explosion causes black powder to explode—a single keg that explodes in this manner deals 5d6 points of fire damage to anyone within a 20-foot burst (DC 15 Reflex half ). Storing black powder in a powder horn protects the powder from explosion.
 
 **Bullet**: The ammunition of most one-handed and two-handed firearms, firearm bullets typically take the form of small balls of lead or some other metal.
@@ -190,11 +195,17 @@ Bullet, Silver: This ammunition is specifically crafted from silver, and though 
 
 | Item | Cost | Weight |
 |---|---|---|
+| Alchemical cartridge, antimagic dust | 50 gp | — |
+| Alchemical cartridge, antimagic dust shot | 50 gp | — |
 | Alchemical cartridge, dragon’s breath | 40 gp | — |
 | Alchemical cartridge, entangling shot | 40 gp | — |
 | Alchemical cartridge, flare | 10 gp | — |
+| Alchemical cartridge, molten shot | 40 gp | — |
 | Alchemical cartridge, paper (bullet or pellet) | 12 gp | — |
+| Alchemical cartridge, repellent | 30 gp | — |
 | Alchemical cartridge, salt shot | 12 gp | — |
+| Alchemical cartridge, smoke | 35 gp | — |
+| Alchemical cartridge, toxic | 100 gp | — |
 | Black powder (dose) | 10 gp | — |
 | Black powder (keg) | 1,000 gp | 5 lbs. |
 | Firearm bullet (1) | 1 gp | — |

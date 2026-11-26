@@ -73,7 +73,7 @@ This version of the antimagic dust cartridge can be loaded only into a weapon wi
 
 ### Alchemical Cartridge, Smoke
 
-**Price** —
+**Price** 35 gp
 
 This cartridge can be loaded only into a weapon with the scatter quality. Upon striking a target, it deals no damage, but instead bursts into a cloud of smoke in a 20-foot radius. This smoke impairs sight beyond 5 feet; any creature farther away gains concealment (20% miss chance). The cloud disperses after 1d4 rounds, or in 1 round in light wind.
 
