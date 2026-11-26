@@ -260,6 +260,8 @@
         // a prestige class feature counts 3 levels higher, so it scales with the level less 3
         out.push({ name: p.n, type: '', text: p.text || info.text || PRICE_LABEL[p.price] + ' class feature (' + ord(p.lvl) + ' level).', link: p.link, lvl: p.slot, price: p.price, sw: true,
           src: srcOf(p.link), fxL: Math.max(1, L - (prestige ? 3 : 0)), prog: info.prog, featNote: info.feats ? (fl ? '+' + fl + ' feat' + (fl > 1 ? 's' : '') : 'no feat yet') + ' (at ' + info.feats.map(ord).join(', ') + ')' : '' });
+        var x = out[out.length - 1], rule = choiceRule(p.n);
+        if (rule) { p.choices = p.choices || {}; out = out.concat(choiceFeatures(rule, p.choices, x)); }
       });
       d.special.slice(0, L).forEach(function (t) { if (/Extra Combat Feat/i.test(t)) extra++; });
       return { list: out, bonusFeats: extra };
@@ -292,7 +294,9 @@
       var u = latest[k], label = capFirst(u.label);
       if (/^bonus feat/i.test(k)) return; // counted in the feat slots instead
       if (count[k] > 1 && !/\d/.test(label)) label += ' ×' + count[k];
-      out.push({ name: label, type: typeOf(u.sec || ''), text: (d.sec || {})[u.sec] || '', link: d.page + (u.sec ? '#' + u.sec : ''), lvl: u.lvl, src: d.s, fxL: L });
+      out.push({ name: label, type: typeOf(u.sec || ''), text: (d.sec || {})[u.sec] || '', link: d.page + (u.sec ? '#' + u.sec : ''), lvl: u.lvl, src: d.s, fxL: L, unit: k, count: count[k] });
+      var rule = unitRule(k);
+      if (rule) { c.choices = c.choices || {}; out = out.concat(choiceFeatures(rule, c.choices, out[out.length - 1])); }
     });
     chosen.forEach(function (a) {
       a.abilities.forEach(function (b) {
@@ -310,6 +314,94 @@
   // Only lasting effects: modes that are turned on (rage and the like) go in as buffs by hand. A feature scales with
   // the level of its class (in the Star Wars builder, the class level; a prestige class feature, that less 3).
   function srcOf(link) { var m = String(link || '').match(/(?:classes|prestige-classes)\/(?:legendary\/)?([a-z0-9-]+?)(?:-archetypes)?\//); return m ? m[1] : ''; }
+
+  // ---------- class features that are "pick N from a list" ----------
+  // re: the feature's name as a subsystem list writes it; unit: the class table entry that gives one pick (its count
+  // up to your level is how many you get); list: the options (DATA.choices, tools/build-enemy-builder.js); adv: the
+  // level from which the advanced talents / master tricks are open; also: another list it can pick from.
+  var CHOICE_RULES = [
+    { re: /^rogue talents?$/, unit: /^rogue talents?$/, list: 'rogue-talent', adv: 10 },
+    { re: /^ninja tricks?$/, unit: /^ninja tricks?$/, list: 'ninja-trick', adv: 10, also: 'rogue-talent' },
+    { re: /^slayer talents?$/, unit: /^slayer talents?$/, list: 'slayer-talent', adv: 10, also: 'rogue-talent' },
+    { re: /^rage powers?$/, unit: /^rage powers?$/, list: 'rage-power' },
+    { re: /^discover(y|ies)$/, unit: /^discover(y|ies)$/, list: 'discovery' },
+    { re: /^infusions?$/, unit: /^infusions?$/, list: 'infusion' },
+    { re: /^(utility )?wild talents?$/, unit: /^utility wild talents?$/, list: 'utility-talent' }
+  ];
+  function choiceBase(n) { return String(n || '').toLowerCase().replace(/\s*×\d+$/, '').replace(/\s*\([^)]*\)\s*$/, '').trim(); }
+  function choiceRule(name) { var b = choiceBase(name); return CHOICE_RULES.filter(function (r) { return r.re.test(b); })[0] || null; }
+  function unitRule(base) { var b = choiceBase(base); return CHOICE_RULES.filter(function (r) { return r.unit.test(b); })[0] || null; }
+  // how many picks the feature gives at its level: its class table's entries up to that level (a copied feature in a
+  // subsystem builder: its source class's table at the level it scales with); at least 1
+  function choiceSlots(rule, x) {
+    if (x.count) return x.count;
+    var A = ARCH[x.src];
+    if (A === undefined && x.src && CLASS_BY[x.src] && CLASS_BY[x.src].arch) { loadArch(x.src); return null; }
+    if (!A || A === 'loading') return A === 'loading' ? null : 1;
+    var n = A.units.filter(function (u) { return !u.sub && u.lvl <= (x.fxL || 1) && rule.unit.test(choiceBase(u.base)); }).length;
+    return Math.max(1, n);
+  }
+  function choiceOptions(rule, L) {
+    var C = DATA.choices || {}, own = (C[rule.list] || { opts: [] }).opts, out = [];
+    var ok = function (o) { return (o.lvl || 1) <= L && (!o.adv || (rule.adv && L >= rule.adv)); };
+    own.forEach(function (o) { if (ok(o)) out.push({ o: o, from: '' }); });
+    if (rule.also && C[rule.also]) C[rule.also].opts.forEach(function (o) {
+      if (ok(o) && !own.some(function (x) { return x.n.toLowerCase() === o.n.toLowerCase(); })) out.push({ o: o, from: C[rule.also].n.replace(/s$/, '').toLowerCase() });
+    });
+    return out;
+  }
+  function choiceFind(rule, name) {
+    var C = DATA.choices || {}, lists = [rule.list].concat(rule.also ? [rule.also] : []);
+    for (var i = 0; i < lists.length; i++) {
+      var hit = ((C[lists[i]] || {}).opts || []).filter(function (o) { return o.n === name; })[0];
+      if (hit) return hit;
+    }
+    return null;
+  }
+  // the options picked for a feature, as features of their own (so they reach the stat block); x is the feature
+  function choiceFeatures(rule, store, x) {
+    var st = store[rule.list] = store[rule.list] || { picks: [] };
+    x.choice = { rule: rule, st: st };
+    return st.picks.map(function (n) {
+      var o = choiceFind(rule, n) || { n: n, t: '', text: '', link: x.link };
+      return { name: o.n, type: o.t || '', text: o.text || '', link: o.link, lvl: x.lvl, src: x.src, fxL: x.fxL, picked: x.name, arch: x.arch };
+    });
+  }
+  var choiceUid = 0;
+  // the box to pick them: the picks as chips, then a search over the options open at that level
+  function choiceBox(x, redraw) {
+    var rule = x.choice.rule, st = x.choice.st, L = x.fxL || 1, list = (DATA.choices || {})[rule.list] || { n: rule.list };
+    var auto = choiceSlots(rule, x), n = st.n || auto;
+    if (n == null) return h('div', { class: 'eb-choice' }, h('small', { class: 'eb-note', text: 'Loading ' + list.n.toLowerCase() + '…' }));
+    var opts = choiceOptions(rule, L), byKey = {}, id = 'eb-choice-' + (++choiceUid);
+    var free = opts.filter(function (e) { return st.picks.indexOf(e.o.n) < 0; });
+    var dl = h('datalist', { id: id }, free.map(function (e) {
+      var key = e.o.n + (e.o.t ? ' (' + e.o.t + ')' : '') + (e.o.lvl > 1 ? ' — ' + ord(e.o.lvl) : '') + (e.o.adv ? ' — advanced' : '') + (e.from ? ' — ' + e.from : '') + (e.o.el ? ' — ' + e.o.el : '');
+      byKey[key] = e.o;
+      return h('option', { value: key, label: e.o.pre ? 'needs ' + e.o.pre : '' });
+    }));
+    var input = h('input', { type: 'text', class: 'eb-t eb-wide', placeholder: 'type to search ' + free.length + ' ' + list.n.toLowerCase() + '…' });
+    input.setAttribute('list', id);
+    var add = function () { var o = byKey[input.value]; if (!o) return; st.picks.push(o.n); changed(); redraw(); };
+    input.addEventListener('input', function () { if (byKey[input.value]) add(); });
+    input.addEventListener('change', add);
+    var over = st.picks.length > n;
+    var slotsBox = numBox(function () { return n; }, function (v) { st.n = v === auto ? 0 : v; }, { min: 0, max: 30 });
+    slotsBox.addEventListener('change', function () { redraw(); });
+    return h('div', { class: 'eb-choice eb-slot' + (over ? ' eb-bad' : '') },
+      h('div', { class: 'eb-slothead' }, h('b', { text: x.name.replace(/\s*×\d+$/, '') }), ' · ',
+        h('span', { class: over ? 'eb-over' : '', text: st.picks.length + ' of ' + n + ' chosen' }), ' · at ' + ord(L) + ' level',
+        rule.adv ? (L >= rule.adv ? ' · advanced ones open' : ' · advanced ones from ' + ord(rule.adv)) : ''),
+      h('div', { class: 'eb-chips' }, st.picks.map(function (name, i) {
+        var o = choiceFind(rule, name) || { n: name };
+        var late = (o.lvl || 1) > L || (o.adv && !(rule.adv && L >= rule.adv));
+        return h('span', { class: 'eb-chip' + (late ? ' eb-over' : ''), title: (late ? 'Not open at this level.\n\n' : '') + (o.pre ? 'Needs ' + o.pre + '.\n\n' : '') + (o.text || '') },
+          o.link ? h('a', { href: new URL(o.link, BASE).href, target: '_blank', text: o.n }) : o.n, o.t ? h('small', { text: ' ' + o.t }) : null,
+          h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { st.picks.splice(i, 1); changed(); redraw(); } }));
+      })),
+      st.picks.length < n ? h('div', { class: 'eb-inline' }, input, dl) : null,
+      h('label', { class: 'eb-inline eb-choice-n' }, h('small', { text: 'picks ' + (st.n ? '(set by hand; ' + auto + ' by the table)' : '(by the class table)') }), slotsBox));
+  }
   var UNARMED = ['1d6', '1d6', '1d6', '1d8', '1d8', '1d8', '1d8', '1d10', '1d10', '1d10', '1d10', '2d6', '2d6', '2d6', '2d6', '2d8', '2d8', '2d8', '2d8', '2d10'];
   function sneakDice(L, name, src) {
     var m = name.match(/\((\d+)d6 at (\d+)\w* level(?:, \+1d6 (?:at (\d+)\w* and )?every (\d+) levels?)?/i);
@@ -2313,6 +2405,8 @@
             })),
             pts < cap ? h('div', { class: 'eb-inline' }, priceSel, input) : null, msg);
         })));
+        var cboxes = D.features.filter(function (x) { return x.sw && x.choice && x.cls === c; }).map(function (x) { return choiceBox(x, redraw); });
+        if (cboxes.length) body.push(h('div', { class: 'eb-slots' }, cboxes));
         var nExtra = extraCount();
         for (var xi = 1; xi <= nExtra; xi++) (function (xi) {
           var mineX = c.picks.filter(function (p) { return p.extra === xi; });
@@ -2376,7 +2470,8 @@
           return h('span', { class: 'eb-chip' }, n, h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { c.arch.splice(j, 1); changed(); redrawAll(); } }));
         });
         var feats = D.features.filter(function (x) { return x.cls === c; });
-        var flist = h('div', { class: 'eb-features' }, feats.map(function (x) {
+        var boxes = feats.filter(function (x) { return x.choice && x.on; }).map(function (x) { return choiceBox(x, redrawClasses); });
+        var flist = h('div', { class: 'eb-features' }, feats.filter(function (x) { return !x.picked; }).map(function (x) {
           return h('label', { class: 'eb-feature' + (x.arch ? ' eb-arch' : ''), title: (x.note ? 'In the numbers: ' + x.note + '.\n\n' : '') + x.text },
             h('input', { type: 'checkbox', checked: x.on, onchange: function (e) {
               c.off = (c.off || []).filter(function (n) { return n !== x.name; }); if (!e.target.checked) c.off.push(x.name); changed();
@@ -2393,7 +2488,8 @@
             chips.length ? h('span', { class: 'eb-chips' }, chips) : null,
             d ? h('small', { class: 'eb-note', text: 'd' + d.die + ', ' + d.ranks + ' + Int ranks per level' }) : null,
             h('button', { type: 'button', class: 'eb-x', text: '×', title: 'Remove class', onclick: function () { S.classes.splice(i, 1); changed(); redrawAll(); } })),
-          A === 'loading' ? h('p', { class: 'eb-note', text: 'Loading class features…' }) : feats.length ? flist : null);
+          A === 'loading' ? h('p', { class: 'eb-note', text: 'Loading class features…' }) : feats.length ? flist : null,
+          boxes.length ? h('div', { class: 'eb-slots' }, boxes) : null);
       });
       var box = h('div', null, rows,
         h('button', { type: 'button', class: 'md-button eb-add', text: '+ Class', onclick: function () { S.classes.push({ s: '', lvl: 1, arch: [], off: [] }); changed(); redrawAll(); } }),

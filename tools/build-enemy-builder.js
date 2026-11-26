@@ -402,7 +402,95 @@ const races = [];
 }
 
 const out = path.join(DOCS, 'tools', 'enemy-builder-data.json');
-fs.writeFileSync(out, JSON.stringify({ weapons, armors, feats, rolls, classes, mythic, ragePowers, kineticist, alchemist, shifterAspects, oaths, races }));
+// ---- choice lists: the class features that are "pick N from a list" (rogue talents, ninja tricks, slayer talents, rage
+// powers, discoveries, infusions, utility wild talents). The builders open a box to pick them when an enemy has the
+// feature (docs/javascripts/enemy-builder.js, CHOICE_RULES). Each option: { n, t (Ex/Su/Sp), lvl (lowest class level),
+// adv (an advanced talent or master trick: from 10th level), pre (prerequisites), text, link }.
+// A page section's options are its "#### Name (Ex)" headings, its "**Name (Ex)**: text" or "*Name* *(Ex)*: text"
+// paragraphs, and its table rows (| Talent | Prerequisites | Benefit |). Sections whose heading says Advanced or
+// Master are the advanced options.
+function sectionOptions(file, take) {
+  const page = read('characters/classes/' + file).replace(/\r/g, ''), link = 'characters/classes/' + file.replace(/\.md$/, '/');
+  const out = [], stack = [];
+  let cur = null, head = null;
+  const inSection = () => stack.some(hd => take(hd.text, hd.depth));
+  const adv = () => stack.some(hd => /advanced|master tricks/i.test(hd.text));
+  const done = () => {
+    if (!cur) return;
+    const text = plain(cur.lines.join('\n'));
+    const type = (cur.name.match(/\((Ex|Su|Sp)\)/) || [])[1] || '';
+    const n = cur.name.replace(/\s*\((Ex|Su|Sp)(?:,\s*(?:Ex|Su|Sp))*\)\s*/g, ' ').replace(/\\?\*+/g, '').replace(/\s+/g, ' ').trim();
+    const lvl = +((text.match(/(?:at least|of at least) (\d+)(?:st|nd|rd|th) level/i) || [])[1] || 0);
+    if (n && !/^(advanced talents|master tricks)$/i.test(n) && text) out.push({ n, t: type, lvl, adv: cur.adv, pre: cur.pre || '', text: short(text, 400), link: link + '#' + cur.anchor });
+    cur = null;
+  };
+  let table = null;
+  for (const line of page.split('\n')) {
+    const h = line.match(/^(#+)\s+(.+?)\s*$/);
+    if (h) {
+      done(); table = null;
+      const depth = h[1].length;
+      while (stack.length && stack[stack.length - 1].depth >= depth) stack.pop();
+      // a "####" under a talents section is one option; anything else is a section
+      const parent = stack.length && inSection();
+      if (depth >= 4 && parent) { cur = { name: h[2], lines: [], adv: adv(), anchor: anchor(clean(h[2])) }; continue; }
+      stack.push({ depth, text: clean(h[2]) }); head = anchor(clean(h[2]));
+      continue;
+    }
+    if (!inSection()) continue;
+    if (/^\|/.test(line)) {
+      done();
+      const c = cells(line);
+      if (!table) { table = /^(talent|trick|name)$/i.test(c[0]) ? { pre: c.findIndex(x => /prereq/i.test(x)), ben: c.findIndex(x => /benefit|description/i.test(x)) } : false; continue; }
+      if (!table || /^-+$/.test(c[0]) || !c[0]) continue;
+      cur = { name: c[0], lines: [c[table.ben >= 0 ? table.ben : 1] || ''], pre: table.pre >= 0 && !/^[—–-]$/.test(c[table.pre]) ? c[table.pre] : '', adv: adv(), anchor: head };
+      done();
+      continue;
+    }
+    table = null;
+    const para = line.match(/^\*\*([^*]+?)\*\*\s*:?\s*(.*)$/) || line.match(/^\*([^*]+?)\**\s*\*?\((Ex|Su|Sp)\)\*?\s*:\s*(.*)$/);
+    if (para && /:/.test(line.slice(0, line.indexOf(para[para.length - 1]) + 1))) {
+      done();
+      const name = para.length === 4 ? para[1] + ' (' + para[2] + ')' : para[1].replace(/:$/, '');
+      cur = { name, lines: [para[para.length - 1]], adv: adv(), anchor: head };
+      continue;
+    }
+    if (cur) cur.lines.push(line);
+  }
+  done();
+  return out;
+}
+const sectionIs = (...names) => text => names.some(n => n instanceof RegExp ? n.test(text) : text.replace(/\s*\((Ex|Su|Sp)\)$/, '') === n);
+function mergeOptions(...lists) {
+  const seen = new Set(), out = [];
+  for (const o of lists.flat()) {
+    const k = o.n.toLowerCase().replace(/’/g, "'");
+    if (seen.has(k)) continue;
+    seen.add(k); out.push(o);
+  }
+  return out.sort((a, b) => a.n.localeCompare(b.n));
+}
+// a wild talent of spell level N can be learned at kineticist level 2N - 1
+const wildTalents = re => Object.values(kineticist.talents).filter(t => re.test(t.type)).map(t => ({
+  n: t.n, t: (t.type.match(/\((Ex|Su|Sp)\)/) || [])[1] || (/infusion/.test(t.type) ? 'Su' : ''), lvl: Math.max(1, 2 * t.level - 1), adv: false,
+  pre: t.pre, el: t.element, text: (t.element ? capitalize(t.element) + ' ' + t.type + ', level ' + t.level + ', burn ' + t.burn + '. ' : '') + t.text,
+  link: 'characters/classes/kineticist-wild-talents/#' + t.u }));
+function capitalize(s) { return s.charAt(0).toUpperCase() + s.slice(1); }
+const choices = {
+  'rogue-talent': { n: 'Rogue talents', opts: mergeOptions(
+    sectionOptions('rogue.md', sectionIs('Rogue Talents', 'Advanced Talents')),
+    sectionOptions('unchained-rogue.md', sectionIs('Rogue Talents', 'Advanced Rogue Talents', 'Unmodified Rogue Talents')),
+    sectionOptions('rogue-talents.md', (t, d) => d === 1)) },
+  'ninja-trick': { n: 'Ninja tricks', opts: mergeOptions(sectionOptions('ninja.md', sectionIs('Ninja Tricks', 'Master Tricks', 'More Ninja Tricks'))) },
+  'slayer-talent': { n: 'Slayer talents', opts: mergeOptions(sectionOptions('slayer.md', sectionIs('Slayer Talents', 'Advanced Talents', 'Poisoner Slayer Talents', 'Samsaran Slayer Talents'))) },
+  'rage-power': { n: 'Rage powers', opts: ragePowers.map(p => ({ n: p.n, t: p.type, lvl: p.lvl, adv: false, pre: p.needs.join(', '), text: p.text, link: p.link })) },
+  'discovery': { n: 'Discoveries', opts: alchemist.discoveries.map(d => ({ n: d.n, t: 'Su', lvl: d.lvl, adv: false, pre: d.needs.join(', '), text: d.text, link: 'characters/classes/alchemist/#discovery-su' })) },
+  'infusion': { n: 'Infusions', opts: mergeOptions(wildTalents(/infusion/)) },
+  'utility-talent': { n: 'Utility wild talents', opts: mergeOptions(wildTalents(/^(utility|defense)/)) }
+};
+
+fs.writeFileSync(out, JSON.stringify({ weapons, armors, feats, rolls, classes, mythic, ragePowers, kineticist, alchemist, shifterAspects, oaths, races, choices }));
+console.log('choices:', Object.entries(choices).map(([k, v]) => k + ' ' + v.opts.length + (v.opts.some(o => o.adv) ? ' (' + v.opts.filter(o => o.adv).length + ' advanced)' : '')).join(', '));
 console.log('races:', races.length, '(' + races.filter(r => r.any).length + ' with a +2 of their choice)');
 console.log('oaths:', Object.keys(oaths).length, '(' + (oaths['Oath of Vengeance'] || []).map(o => o.n + ' ' + o.lvl).join(', ') + ')');
 console.log('alchemist:', alchemist.discoveries.length, 'discoveries; shifter:', shifterAspects.length, 'aspects');
