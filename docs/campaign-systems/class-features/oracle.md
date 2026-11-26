@@ -1,0 +1,24 @@
+# Oracle
+
+- [Assume Fate (Cyclopean Seer)](../../characters/classes/oracle-archetypes.md#cyclopean-seer): specialist 1–8 common, caster 1–8 common
+- [Bonded Spirit (Spirit Guide)](../../characters/classes/oracle-archetypes.md#spirit-guide): specialist 1–8 common, caster 1–8 common
+- [Bonus Spells (Desert Prophet)](../../characters/classes/oracle-archetypes.md#desert-prophet): specialist 1–8 common, caster 1–8 common
+- [Brutal Trance (Cyclopean Seer)](../../characters/classes/oracle-archetypes.md#cyclopean-seer): specialist 1–8 weak, caster 1–8 weak
+- [Elemental Revelation (Elementalist Oracle)](../../characters/classes/oracle-archetypes.md#elementalist-oracle): specialist 16–20 common, caster 16–20 iconic
+- [Final Revelation](../../characters/classes/oracle.md#final-revelation): specialist 16–20 common, caster 16–20 iconic
+- [Healer’s Way (Herbal Practitioner)](../../characters/classes/oracle-archetypes.md#herbal-practitioner): specialist 1–8 common, caster 1–8 common
+- [Inspiring Song (Ocean's Echo)](../../characters/classes/oracle-archetypes.md#oceans-echo): specialist 1–8 op, caster 1–8 op
+- [Master Healing Technique (Herbal Practitioner)](../../characters/classes/oracle-archetypes.md#herbal-practitioner): specialist 1–8 weak, caster 1–8 weak
+- [Master Herbalist (Herbal Practitioner)](../../characters/classes/oracle-archetypes.md#herbal-practitioner): specialist 1–8 weak, caster 1–8 weak
+- [Mystery](../../characters/classes/oracle.md#mystery): specialist 1–8 common, caster 1–8 iconic
+- [Oracle’s Curse](../../characters/classes/oracle.md#oracles-curse-ex): specialist 1–8 common, caster 1–8 common
+- [Psychic Talent (Psychic Searcher)](../../characters/classes/oracle-archetypes.md#psychic-searcher): specialist 1–8 weak, caster 1–8 weak
+- [Quivering Palm (Shigenjo)](../../characters/classes/oracle-archetypes.md#shigenjo): specialist 9–15 common, caster 9–15 common
+- [Revelation](../../characters/classes/oracle.md#revelation): specialist 1–8 op, caster 1–8 iconic
+- [Revelations (Cyclopean Seer)](../../characters/classes/oracle-archetypes.md#cyclopean-seer): specialist 1–8 common, caster 1–8 iconic
+- [Revelations (Dual-Cursed Oracle)](../../characters/classes/oracle-archetypes.md#dual-cursed-oracle): specialist 1–8 common, caster 1–8 iconic
+- [River Soul Revelation (River Soul)](../../characters/classes/oracle-archetypes.md#river-soul): specialist 16–20 common, caster 16–20 iconic
+- [Seeker Lore (Seeker)](../../characters/classes/oracle-archetypes.md#seeker): specialist 1–8 common, caster 1–8 common
+- [Seeker Magic (Seeker)](../../characters/classes/oracle-archetypes.md#seeker): specialist 9–15 weak, caster 9–15 weak
+- [Tinkering (Seeker)](../../characters/classes/oracle-archetypes.md#seeker): specialist 1–8 weak, caster 1–8 weak
+- [Tree Soul Revelation (Tree Soul)](../../characters/classes/oracle-archetypes.md#tree-soul): specialist 16–20 common, caster 16–20 iconic

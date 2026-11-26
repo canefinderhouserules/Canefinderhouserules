@@ -1,0 +1,185 @@
+# Rogue
+
+- [Abductor (Kidnapper)](../../characters/classes/rogue-archetypes.md#kidnapper): specialist 1–8 weak
+- [Accuracy (Sniper)](../../characters/classes/rogue-archetypes.md#sniper): warrior 1–8 weak, specialist 1–8 weak
+- [Advanced Talents](../../characters/classes/rogue.md#advanced-talents): warrior 9–15 op, specialist 9–15 op
+- [Alarm Sense (Eldritch Scoundrel)](../../characters/classes/rogue-archetypes.md#eldritch-scoundrel): specialist 1–8 weak
+- [Ambuscading Sneak Attack (Waylayer)](../../characters/classes/rogue-archetypes.md#waylayer): specialist 1–8 common
+- [Ambush (Bandit)](../../characters/classes/rogue-archetypes.md#bandit): specialist 1–8 common
+- [Arcana Breaker (Seeker of the Lost)](../../characters/classes/rogue-archetypes.md#seeker-of-the-lost): specialist 1–8 weak
+- [Arcane Sabotage (Construct Saboteur)](../../characters/classes/rogue-archetypes.md#construct-saboteur): specialist 1–8 common
+- [Audacious Overconfidence (Sharper)](../../characters/classes/rogue-archetypes.md#sharper): specialist 1–8 common
+- [Blade Sense (Knife Master)](../../characters/classes/rogue-archetypes.md#knife-master): specialist 1–8 common
+- [Blades from the Shadows (Dark Lurker)](../../characters/classes/rogue-archetypes.md#dark-lurker): specialist 1–8 common
+- [Blossom Shower (Petal Ninja)](../../characters/classes/rogue-archetypes.md#petal-ninja): specialist 1–8 common
+- [Bold Strike (Skulking Slayer)](../../characters/classes/rogue-archetypes.md#skulking-slayer): specialist 1–8 common
+- [Bond Breaker (Slave Liberator)](../../characters/classes/rogue-archetypes.md#slave-liberator): specialist 1–8 weak
+- [Bravado’s Blade (Rake)](../../characters/classes/rogue-archetypes.md#rake): specialist 1–8 weak
+- [Bribery (Smuggler)](../../characters/classes/rogue-archetypes.md#smuggler): specialist 1–8 weak
+- [Broad Education (Phantom Thief)](../../characters/classes/rogue-archetypes.md#phantom-thief): specialist 1–8 weak
+- [Brutal Beating (Thug)](../../characters/classes/rogue-archetypes.md#thug): specialist 1–8 common
+- [Burst of Blossoms (Petal Ninja)](../../characters/classes/rogue-archetypes.md#petal-ninja): specialist 1–8 weak
+- [Careful Disarm (Burglar)](../../characters/classes/rogue-archetypes.md#burglar): specialist 1–8 weak
+- [Catalyst (Toxic Talon)](../../characters/classes/rogue-archetypes.md#toxic-talon): specialist 1–8 common
+- [Catastrophic Failure (Sly Saboteur)](../../characters/classes/rogue-archetypes.md#sly-saboteur): specialist 1–8 weak
+- [Catch Off-Guard (Slave Liberator)](../../characters/classes/rogue-archetypes.md#slave-liberator): specialist 1–8 common
+- [Chemical Weapons (Underground Chemist)](../../characters/classes/rogue-archetypes.md#underground-chemist): specialist 1–8 weak
+- [Clean Capture (Kidnapper)](../../characters/classes/rogue-archetypes.md#kidnapper): specialist 1–8 weak
+- [Combat Advisor (Consigliere)](../../characters/classes/rogue-archetypes.md#consigliere): specialist 1–8 common
+- [Concealed Delivery (Needler)](../../characters/classes/rogue-archetypes.md#needler): specialist 1–8 weak
+- [Convincing Attitude (Consigliere)](../../characters/classes/rogue-archetypes.md#consigliere): specialist 1–8 weak
+- [Cover of Night (Guerrilla)](../../characters/classes/rogue-archetypes.md#guerrilla): specialist 1–8 weak
+- [Covert Commander (Slave Liberator)](../../characters/classes/rogue-archetypes.md#slave-liberator): specialist 1–8 weak
+- [Criminal Mastermind (Guild Agent)](../../characters/classes/rogue-archetypes.md#guild-agent): specialist 16–20 weak
+- [Danger Awareness (Waylayer)](../../characters/classes/rogue-archetypes.md#waylayer): specialist 1–8 common
+- [Daring (Swashbuckler)](../../characters/classes/rogue-archetypes.md#swashbuckler): specialist 1–8 common
+- [Deadly Range (Sniper)](../../characters/classes/rogue-archetypes.md#sniper): specialist 1–8 common
+- [Deadly Traps (Snare Setter)](../../characters/classes/rogue-archetypes.md#snare-setter): specialist 1–8 weak
+- [Desert Tracker (Desert Raider)](../../characters/classes/rogue-archetypes.md#desert-raider): specialist 1–8 weak
+- [Destructive Dismantle (Sapper)](../../characters/classes/rogue-archetypes.md#sapper): specialist 1–8 weak
+- [Disable Curse (Relic Raider)](../../characters/classes/rogue-archetypes.md#relic-raider): specialist 1–8 weak
+- [Disable Magic Device (Sly Saboteur)](../../characters/classes/rogue-archetypes.md#sly-saboteur): specialist 1–8 weak
+- [Dismantling Strikes (Construct Saboteur)](../../characters/classes/rogue-archetypes.md#construct-saboteur): specialist 1–8 common
+- [Distracting Climber (Vexing Dodger)](../../characters/classes/rogue-archetypes.md#vexing-dodger): specialist 1–8 weak
+- [Distraction (Burglar)](../../characters/classes/rogue-archetypes.md#burglar): specialist 1–8 weak
+- [Distraction (Smuggler)](../../characters/classes/rogue-archetypes.md#smuggler): specialist 1–8 weak
+- [Divine Epiphany (Sanctified Rogue)](../../characters/classes/rogue-archetypes.md#sanctified-rogue): specialist 1–8 common
+- [Divine Purpose (Sanctified Rogue)](../../characters/classes/rogue-archetypes.md#sanctified-rogue): specialist 1–8 common
+- [Dream Infiltrator (Dreamthief)](../../characters/classes/rogue-archetypes.md#dreamthief): specialist 1–8 weak
+- [Dreamshard Focus (Dreamthief)](../../characters/classes/rogue-archetypes.md#dreamthief): specialist 1–8 common
+- [Driver’s Fortitude (Driver)](../../characters/classes/rogue-archetypes.md#driver): specialist 1–8 weak
+- [Earthcraft (Earthshadow)](../../characters/classes/rogue-archetypes.md#earthshadow): specialist 1–8 common
+- [Earthlink (Earthshadow)](../../characters/classes/rogue-archetypes.md#earthshadow): specialist 1–8 weak
+- [Effortless Sneak (Chameleon)](../../characters/classes/rogue-archetypes.md#chameleon): specialist 1–8 weak
+- [Eldritch Intuition (Eldritch Raider)](../../characters/classes/rogue-archetypes.md#eldritch-raider): specialist 1–8 weak
+- [Elemental Execution (Planar Sneak)](../../characters/classes/rogue-archetypes.md#planar-sneak): specialist 1–8 weak
+- [Elusive Gambit (Scroll Scoundrel)](../../characters/classes/rogue-archetypes.md#scroll-scoundrel): specialist 1–8 common
+- [Enthralling Agitation (Agitator)](../../characters/classes/rogue-archetypes.md#agitator): specialist 1–8 weak
+- [Evasion](../../characters/classes/rogue.md#evasion-ex): warrior 1–8 common, specialist 1–8 common
+- [Evidence Disposal (Discretion Specialist)](../../characters/classes/rogue-archetypes.md#discretion-specialist): specialist 1–8 weak
+- [Exceptional Reflexes (Waylayer)](../../characters/classes/rogue-archetypes.md#waylayer): specialist 9–15 common
+- [Expanded Sight (Shadow Walker)](../../characters/classes/rogue-archetypes.md#shadow-walker): specialist 1–8 weak
+- [Expert Acrobat (Acrobat)](../../characters/classes/rogue-archetypes.md#acrobat): specialist 1–8 weak
+- [Expurgate (Masked Enforcer)](../../characters/classes/rogue-archetypes.md#masked-enforcer): specialist 1–8 common
+- [Face in the Crowd (Nameless Shadow)](../../characters/classes/rogue-archetypes.md#nameless-shadow): specialist 1–8 common
+- [False Sensitivity (False Medium)](../../characters/classes/rogue-archetypes.md#false-medium): specialist 1–8 weak
+- [Fast Talker (Scroll Scoundrel)](../../characters/classes/rogue-archetypes.md#scroll-scoundrel): specialist 1–8 weak
+- [Favored Illumination (Shadow Walker)](../../characters/classes/rogue-archetypes.md#shadow-walker): specialist 1–8 weak
+- [Fearsome Strike (Bandit)](../../characters/classes/rogue-archetypes.md#bandit): specialist 1–8 common
+- [Fence (Sapper)](../../characters/classes/rogue-archetypes.md#sapper): specialist 1–8 weak
+- [Ferret’s Grace (Heister)](../../characters/classes/rogue-archetypes.md#heister): specialist 1–8 weak
+- [Fey Resistance (Sylvan Trickster)](../../characters/classes/rogue-archetypes.md#sylvan-trickster): specialist 1–8 common
+- [Fey Tricks (Sylvan Trickster)](../../characters/classes/rogue-archetypes.md#sylvan-trickster): specialist 1–8 common
+- [Field Boss (Consigliere)](../../characters/classes/rogue-archetypes.md#consigliere): specialist 9–15 common
+- [Follow Up (Investigator)](../../characters/classes/rogue-archetypes.md#investigator): specialist 1–8 weak
+- [Frightening (Thug)](../../characters/classes/rogue-archetypes.md#thug): specialist 1–8 weak
+- [Grafting (Freedom Irrigator)](../../characters/classes/rogue-archetypes.md#freedom-irrigator): specialist 1–8 common
+- [Grand Hoax (Charlatan)](../../characters/classes/rogue-archetypes.md#charlatan): specialist 1–8 weak
+- [Grandmaster of Disguise (Master of Disguise)](../../characters/classes/rogue-archetypes.md#master-of-disguise): specialist 9–15 weak
+- [Guerrilla Sniping (Guerrilla)](../../characters/classes/rogue-archetypes.md#guerrilla): specialist 1–8 weak
+- [Guild Connections (Guild Agent)](../../characters/classes/rogue-archetypes.md#guild-agent): specialist 1–8 weak
+- [Gunpowder Bomb (Gunpowder Bombardier)](../../characters/classes/rogue-archetypes.md#gunpowder-bombardier): specialist 1–8 common
+- [Hardy (Survivalist)](../../characters/classes/rogue-archetypes.md#survivalist): specialist 1–8 weak
+- [Harmless Guise (Nameless Shadow)](../../characters/classes/rogue-archetypes.md#nameless-shadow): specialist 1–8 weak
+- [Haunting Presences (False Medium)](../../characters/classes/rogue-archetypes.md#false-medium): specialist 1–8 weak
+- [Hidden Blade (Knife Master)](../../characters/classes/rogue-archetypes.md#knife-master): specialist 1–8 weak
+- [Illumination Control (Shadow Walker)](../../characters/classes/rogue-archetypes.md#shadow-walker): specialist 1–8 common
+- [Impossible Escape (Escapologist)](../../characters/classes/rogue-archetypes.md#escapologist): specialist 1–8 common
+- [Improvised Weapons (Makeshift Scrapper)](../../characters/classes/rogue-archetypes.md#makeshift-scrapper): specialist 1–8 weak
+- [Inspire Competence (Deadly Courtesan)](../../characters/classes/rogue-archetypes.md#deadly-courtesan): specialist 1–8 weak
+- [Instinctual Sense (Dark Lurker)](../../characters/classes/rogue-archetypes.md#dark-lurker): specialist 16–20 common
+- [Irrigation (Freedom Irrigator)](../../characters/classes/rogue-archetypes.md#freedom-irrigator): specialist 1–8 op
+- [Leadership (Agitator)](../../characters/classes/rogue-archetypes.md#agitator): specialist 9–15 common
+- [Let Fate Decide (Card Swindler)](../../characters/classes/rogue-archetypes.md#card-swindler): specialist 1–8 common
+- [Light Step (Desert Raider)](../../characters/classes/rogue-archetypes.md#desert-raider): specialist 1–8 weak
+- [Limb-Climber (Vexing Dodger)](../../characters/classes/rogue-archetypes.md#vexing-dodger): specialist 1–8 weak
+- [Lucky Glitch (Scavenger)](../../characters/classes/rogue-archetypes.md#scavenger): specialist 1–8 weak
+- [Lucky Save (Sharper)](../../characters/classes/rogue-archetypes.md#sharper): specialist 1–8 common
+- [Mark the Vein (Swamp Poisoner)](../../characters/classes/rogue-archetypes.md#swamp-poisoner): specialist 1–8 common
+- [Master of All (Phantom Thief)](../../characters/classes/rogue-archetypes.md#phantom-thief): specialist 16–20 common
+- [Master of Whispers (Snoop)](../../characters/classes/rogue-archetypes.md#snoop): specialist 1–8 weak
+- [Master Snare Setter (Snare Setter)](../../characters/classes/rogue-archetypes.md#snare-setter): specialist 16–20 common
+- [Master Strike](../../characters/classes/rogue.md#master-strike-ex): specialist 16–20 common
+- [Masterful Reflexes (Waylayer)](../../characters/classes/rogue-archetypes.md#waylayer): specialist 16–20 common
+- [Measure the Mark (Cutpurse)](../../characters/classes/rogue-archetypes.md#cutpurse): specialist 1–8 weak
+- [Misdirection (Chameleon)](../../characters/classes/rogue-archetypes.md#chameleon): specialist 1–8 weak
+- [Misdirection (Port Rebel)](../../characters/classes/rogue-archetypes.md#port-rebel): specialist 1–8 weak
+- [Natural Born Liar (Charlatan)](../../characters/classes/rogue-archetypes.md#charlatan): specialist 1–8 weak
+- [Needle Poisoner (Needler)](../../characters/classes/rogue-archetypes.md#needler): specialist 1–8 weak
+- [No Fool (Card Swindler)](../../characters/classes/rogue-archetypes.md#card-swindler): specialist 1–8 weak
+- [No Loose Ends (Discretion Specialist)](../../characters/classes/rogue-archetypes.md#discretion-specialist): specialist 1–8 common
+- [Obfuscation (Discretion Specialist)](../../characters/classes/rogue-archetypes.md#discretion-specialist): specialist 1–8 common
+- [Pay It Back (Scroll Scoundrel)](../../characters/classes/rogue-archetypes.md#scroll-scoundrel): specialist 1–8 common
+- [Performance Strike (Deadly Courtesan)](../../characters/classes/rogue-archetypes.md#deadly-courtesan): specialist 1–8 common
+- [Pet Performance (Carnivalist)](../../characters/classes/rogue-archetypes.md#carnivalist): specialist 1–8 common
+- [Phantom Presence (Cat Burglar)](../../characters/classes/rogue-archetypes.md#cat-burglar): specialist 1–8 weak
+- [Planar Sense (Planar Sneak)](../../characters/classes/rogue-archetypes.md#planar-sneak): specialist 1–8 weak
+- [Plant Traps (Fey Prankster)](../../characters/classes/rogue-archetypes.md#fey-prankster): specialist 1–8 weak
+- [Poison the Well (Swamp Poisoner)](../../characters/classes/rogue-archetypes.md#swamp-poisoner): specialist 1–8 weak
+- [Precise Splash Weapons (Underground Chemist)](../../characters/classes/rogue-archetypes.md#underground-chemist): specialist 1–8 common
+- [Pull Rank (Guild Agent)](../../characters/classes/rogue-archetypes.md#guild-agent): specialist 1–8 weak
+- [Quicker Than the Eye (Card Swindler)](../../characters/classes/rogue-archetypes.md#card-swindler): specialist 1–8 weak
+- [Quicker than the Eye (Filcher)](../../characters/classes/rogue-archetypes.md#filcher): specialist 1–8 weak
+- [Refined Education (Phantom Thief)](../../characters/classes/rogue-archetypes.md#phantom-thief): specialist 1–8 weak
+- [Reputation (Agitator)](../../characters/classes/rogue-archetypes.md#agitator): specialist 1–8 weak
+- [Resist Nature’s Lure (Sylvan Trickster)](../../characters/classes/rogue-archetypes.md#sylvan-trickster): specialist 1–8 weak
+- [Revolutionary's Cause (Agitator)](../../characters/classes/rogue-archetypes.md#agitator): specialist 1–8 weak
+- [Robot Slayer (Scavenger)](../../characters/classes/rogue-archetypes.md#scavenger): specialist 1–8 weak
+- [Rogue Talents](../../characters/classes/rogue.md#rogue-talents): warrior 1–8 op, specialist 1–8 op
+- [Roof Running (Roof Runner)](../../characters/classes/rogue-archetypes.md#roof-runner): specialist 1–8 weak
+- [Rum Dubber (Heister)](../../characters/classes/rogue-archetypes.md#heister): specialist 1–8 weak
+- [Rummage (Filcher)](../../characters/classes/rogue-archetypes.md#filcher): specialist 1–8 weak
+- [Sapping (Sapper)](../../characters/classes/rogue-archetypes.md#sapper): specialist 1–8 weak
+- [Scamper (Sly Saboteur)](../../characters/classes/rogue-archetypes.md#sly-saboteur): specialist 1–8 weak
+- [Scout’s Charge (Scout)](../../characters/classes/rogue-archetypes.md#scout): specialist 1–8 common
+- [Second Chance (Acrobat)](../../characters/classes/rogue-archetypes.md#acrobat): specialist 1–8 weak
+- [Secret Messenger (Guerrilla)](../../characters/classes/rogue-archetypes.md#guerrilla): specialist 1–8 weak
+- [Shadow Dweller (Shadow Scion)](../../characters/classes/rogue-archetypes.md#shadow-scion): specialist 1–8 weak
+- [Shadow Master (Shadow Scion)](../../characters/classes/rogue-archetypes.md#shadow-scion): specialist 16–20 common
+- [Shadow Speaker (Shadow Scion)](../../characters/classes/rogue-archetypes.md#shadow-scion): specialist 9–15 weak
+- [Shadow Step (Shadow Scion)](../../characters/classes/rogue-archetypes.md#shadow-scion): specialist 1–8 common
+- [Shadow Strike (Shadow Scion)](../../characters/classes/rogue-archetypes.md#shadow-scion): specialist 1–8 weak
+- [Signature Wand (Counterfeit Mage)](../../characters/classes/rogue-archetypes.md#counterfeit-mage): specialist 1–8 weak
+- [Skilled Liar (Guerrilla)](../../characters/classes/rogue-archetypes.md#guerrilla): specialist 1–8 weak
+- [Skilled Liar (Spy)](../../characters/classes/rogue-archetypes.md#spy): specialist 1–8 weak
+- [Skirmisher (Scout)](../../characters/classes/rogue-archetypes.md#scout): specialist 1–8 common
+- [Sneak attack](../../characters/classes/rogue.md#sneak-attack): specialist 1–8 iconic
+- [Social Sense (Phantom Thief)](../../characters/classes/rogue-archetypes.md#phantom-thief): specialist 1–8 weak
+- [Soothe Dreaming (Dreamthief)](../../characters/classes/rogue-archetypes.md#dreamthief): specialist 1–8 weak
+- [Split Toxin (Toxic Talon)](../../characters/classes/rogue-archetypes.md#toxic-talon): specialist 1–8 common
+- [Spot Weakness (Scroll Scoundrel)](../../characters/classes/rogue-archetypes.md#scroll-scoundrel): specialist 9–15 common
+- [Stab and Grab (Cutpurse)](../../characters/classes/rogue-archetypes.md#cutpurse): specialist 1–8 weak
+- [Staggering Reflexes (Waylayer)](../../characters/classes/rogue-archetypes.md#waylayer): specialist 1–8 weak
+- [Steal Appearance (Fey Prankster)](../../characters/classes/rogue-archetypes.md#fey-prankster): specialist 1–8 weak
+- [Sticky Fingers (Sharper)](../../characters/classes/rogue-archetypes.md#sharper): specialist 1–8 weak
+- [Stolen Shots (Gun Smuggler)](../../characters/classes/rogue-archetypes.md#gun-smuggler): specialist 1–8 weak
+- [Subtle Poisoning (Needler)](../../characters/classes/rogue-archetypes.md#needler): specialist 1–8 weak
+- [Sun at Your Back (Desert Raider)](../../characters/classes/rogue-archetypes.md#desert-raider): specialist 1–8 weak
+- [Sundial (Petal Ninja)](../../characters/classes/rogue-archetypes.md#petal-ninja): specialist 1–8 weak
+- [Superior Filching (Filcher)](../../characters/classes/rogue-archetypes.md#filcher): specialist 1–8 common
+- [Supernatural Improvisation (Makeshift Scrapper)](../../characters/classes/rogue-archetypes.md#makeshift-scrapper): specialist 1–8 common
+- [Swinging Reposition (Pirate)](../../characters/classes/rogue-archetypes.md#pirate): specialist 1–8 weak
+- [Tiger Trance (Swordmaster)](../../characters/classes/rogue-archetypes.md#swordmaster): specialist 1–8 weak
+- [Trance (swordmaster)](../../characters/classes/rogue-archetypes.md#swordmaster): warrior 1–8 common, specialist 1–8 common
+- [Trap Master (Trapsmith)](../../characters/classes/rogue-archetypes.md#trapsmith): specialist 1–8 weak
+- [Trap Saboteur (Cat Burglar)](../../characters/classes/rogue-archetypes.md#cat-burglar): specialist 1–8 weak
+- [Trap sense](../../characters/classes/rogue.md#trap-sense-ex): warrior 1–8 weak, specialist 1–8 weak
+- [Trapfinding](../../characters/classes/rogue.md#trapfinding): warrior 1–8 weak, specialist 1–8 weak
+- [Trapper (Snare Setter)](../../characters/classes/rogue-archetypes.md#snare-setter): specialist 1–8 weak
+- [Trapsmithing (Snare Setter)](../../characters/classes/rogue-archetypes.md#snare-setter): specialist 1–8 weak
+- [Treacherous Plants (Fey Prankster)](../../characters/classes/rogue-archetypes.md#fey-prankster): specialist 1–8 weak
+- [Tumbling Descent (Roof Runner)](../../characters/classes/rogue-archetypes.md#roof-runner): specialist 1–8 weak
+- [Uncanny Aim (Gun Smuggler)](../../characters/classes/rogue-archetypes.md#gun-smuggler): specialist 1–8 weak
+- [Uncanny dodge](../../characters/classes/rogue.md#uncanny-dodge-ex): warrior 1–8 common, specialist 1–8 common
+- [Uncanny Snoop (Snoop)](../../characters/classes/rogue-archetypes.md#snoop): specialist 1–8 weak
+- [Uncanny Training (Eldritch Scoundrel)](../../characters/classes/rogue-archetypes.md#eldritch-scoundrel): specialist 1–8 common
+- [Undercover Faith (Masked Enforcer)](../../characters/classes/rogue-archetypes.md#masked-enforcer): specialist 1–8 weak
+- [Underfoot Agility (Vexing Dodger)](../../characters/classes/rogue-archetypes.md#vexing-dodger): specialist 1–8 weak
+- [Underfoot Trickster (Vexing Dodger)](../../characters/classes/rogue-archetypes.md#vexing-dodger): specialist 1–8 weak
+- [Underhanded Maneuvers (Skulking Slayer)](../../characters/classes/rogue-archetypes.md#skulking-slayer): specialist 1–8 weak
+- [Underwater Striker (Seeker of the Lost)](../../characters/classes/rogue-archetypes.md#seeker-of-the-lost): specialist 1–8 weak
+- [Unexpected Charge (Skulking Slayer)](../../characters/classes/rogue-archetypes.md#skulking-slayer): specialist 9–15 weak
+- [Unfettered Mind (Escapologist)](../../characters/classes/rogue-archetypes.md#escapologist): specialist 1–8 common
+- [Unseen (Heister)](../../characters/classes/rogue-archetypes.md#heister): specialist 1–8 common
+- [Wand Adept (Counterfeit Mage)](../../characters/classes/rogue-archetypes.md#counterfeit-mage): specialist 1–8 weak
+- [Wary Disarm (Seeker of the Lost)](../../characters/classes/rogue-archetypes.md#seeker-of-the-lost): specialist 1–8 weak

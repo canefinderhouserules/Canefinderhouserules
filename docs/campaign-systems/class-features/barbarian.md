@@ -1,0 +1,120 @@
+# Barbarian
+
+- [Amplified by Hate (Hateful Rager)](../../characters/classes/barbarian-archetypes.md#hateful-rager): warrior 9–15 weak
+- [Animal Fury (Raging Cannibal)](../../characters/classes/barbarian-archetypes.md#raging-cannibal): warrior 1–8 weak
+- [Armored Swiftness (Armored Hulk)](../../characters/classes/barbarian-archetypes.md#armored-hulk): warrior 1–8 common
+- [Barbarian’s DR](../../characters/classes/barbarian.md#damage-reduction-ex): warrior 1–8 weak
+- [Battle Scavenger (Breaker)](../../characters/classes/barbarian-archetypes.md#breaker): warrior 1–8 weak
+- [Bestial Mount (Mounted Fury)](../../characters/classes/barbarian-archetypes.md#mounted-fury): warrior 1–8 common
+- [Big Game Hunter (Titan Mauler)](../../characters/classes/barbarian-archetypes.md#titan-mauler): warrior 1–8 common
+- [Blood in the Water (Sharptooth)](../../characters/classes/barbarian-archetypes.md#sharptooth): warrior 1–8 common
+- [Bloodlust (Fearsome Defender)](../../characters/classes/barbarian-archetypes.md#fearsome-defender): warrior 1–8 weak
+- [Bonus Feat (Pack Rager)](../../characters/classes/barbarian-archetypes.md#pack-rager): warrior 1–8 common
+- [Bonus Feats (Pack Hunter)](../../characters/classes/barbarian-archetypes.md#pack-hunter): warrior 1–8 weak
+- [Bonus Feats (Wildborn)](../../characters/classes/barbarian-archetypes.md#wildborn): warrior 1–8 weak
+- [Breathtaker (Tribal Liberator)](../../characters/classes/barbarian-archetypes.md#tribal-liberator): warrior 1–8 common
+- [Cinder Dance (Burn Rider)](../../characters/classes/barbarian-archetypes.md#burn-rider): warrior 1–8 common
+- [Cinder Sight (Burn Rider)](../../characters/classes/barbarian-archetypes.md#burn-rider): warrior 1–8 weak
+- [Consume Vigor (Raging Cannibal)](../../characters/classes/barbarian-archetypes.md#raging-cannibal): warrior 1–8 common
+- [Contemplative (Geminate Invoker)](../../characters/classes/barbarian-archetypes.md#geminate-invoker): warrior 1–8 weak
+- [Controlled Rage (Urban Barbarian)](../../characters/classes/barbarian-archetypes.md#urban-barbarian): warrior 1–8 op
+- [Crack Shot (Savage Technologist)](../../characters/classes/barbarian-archetypes.md#savage-technologist): warrior 1–8 common
+- [Crowd Control (Urban Barbarian)](../../characters/classes/barbarian-archetypes.md#urban-barbarian): warrior 1–8 weak
+- [Crushing Grapple (Deepwater Rager)](../../characters/classes/barbarian-archetypes.md#deepwater-rager): warrior 9–15 common
+- [Dead Calm (Dreadnought)](../../characters/classes/barbarian-archetypes.md#dreadnought): warrior 1–8 common
+- [Destructive (Breaker)](../../characters/classes/barbarian-archetypes.md#breaker): warrior 1–8 weak
+- [Disorienting Grapple (Deepwater Rager)](../../characters/classes/barbarian-archetypes.md#deepwater-rager): warrior 1–8 weak
+- [Disruptor (Tribal Liberator)](../../characters/classes/barbarian-archetypes.md#tribal-liberator): warrior 1–8 common
+- [Drunken Rage (Drunken Rager)](../../characters/classes/barbarian-archetypes.md#drunken-rager): warrior 1–8 weak
+- [Drunken Swing (Drunken Rager)](../../characters/classes/barbarian-archetypes.md#drunken-rager): warrior 9–15 common
+- [Elemental Fury (Elemental Kin)](../../characters/classes/barbarian-archetypes.md#elemental-kin): warrior 1–8 common
+- [Evade Reach (Titan Mauler)](../../characters/classes/barbarian-archetypes.md#titan-mauler): warrior 1–8 common
+- [Exceptional Pull (Primal Hunter)](../../characters/classes/barbarian-archetypes.md#primal-hunter): warrior 1–8 weak
+- [Extreme Endurance (Invulnerable Rager)](../../characters/classes/barbarian-archetypes.md#invulnerable-rager): warrior 1–8 weak
+- [Eyes of the Storm (Sea Reaver)](../../characters/classes/barbarian-archetypes.md#sea-reaver): warrior 1–8 weak
+- [Fast movement](../../characters/classes/barbarian.md#fast-movement-ex): warrior 1–8 common, specialist 1–8 common
+- [Fast Rider (Mounted Fury)](../../characters/classes/barbarian-archetypes.md#mounted-fury): warrior 1–8 weak
+- [Fearless Killer (Dreadnought)](../../characters/classes/barbarian-archetypes.md#dreadnought): warrior 9–15 weak
+- [Feast (Flesheater)](../../characters/classes/barbarian-archetypes.md#flesheater): warrior 9–15 weak
+- [Feed from Fury (Raging Cannibal)](../../characters/classes/barbarian-archetypes.md#raging-cannibal): warrior 1–8 common
+- [Feed the Rage (Hateful Rager)](../../characters/classes/barbarian-archetypes.md#hateful-rager): warrior 1–8 common
+- [Feral Transformation (Beastkin Berserker)](../../characters/classes/barbarian-archetypes.md#beastkin-berserker): warrior 1–8 common
+- [Flame Runner (Burn Rider)](../../characters/classes/barbarian-archetypes.md#burn-rider): warrior 1–8 common
+- [Focused Rage (Primal Hunter)](../../characters/classes/barbarian-archetypes.md#primal-hunter): warrior 1–8 common
+- [Full Lungs (Deepwater Rager)](../../characters/classes/barbarian-archetypes.md#deepwater-rager): warrior 16–20 weak
+- [Giant Baiter (Giant Stalker)](../../characters/classes/barbarian-archetypes.md#giant-stalker): warrior 1–8 weak
+- [Give Me Fire (Burn Rider)](../../characters/classes/barbarian-archetypes.md#burn-rider): warrior 1–8 weak
+- [Greater Rage](../../characters/classes/barbarian.md#greater-rage-ex): warrior 9–15 common, specialist 9–15 common
+- [Greater Shifting Rage (Mooncursed)](../../characters/classes/barbarian-archetypes.md#mooncursed): warrior 9–15 common
+- [Harangue Giant (Giant Stalker)](../../characters/classes/barbarian-archetypes.md#giant-stalker): warrior 1–8 weak
+- [Hard Hitter (Tribal Liberator)](../../characters/classes/barbarian-archetypes.md#tribal-liberator): warrior 1–8 weak
+- [Hide from Constructs (Tribal Liberator)](../../characters/classes/barbarian-archetypes.md#tribal-liberator): warrior 9–15 weak
+- [Home (Brutish Swamper)](../../characters/classes/barbarian-archetypes.md#brutish-swamper): warrior 1–8 weak
+- [Home Ground Advantage (Jungle Rager)](../../characters/classes/barbarian-archetypes.md#jungle-rager): warrior 1–8 common
+- [Home Ground Supremacy (Jungle Rager)](../../characters/classes/barbarian-archetypes.md#jungle-rager): warrior 1–8 common
+- [Hybrid Rage (Mooncursed)](../../characters/classes/barbarian-archetypes.md#mooncursed): warrior 1–8 common
+- [Impromptu Armament (Feral Gnasher)](../../characters/classes/barbarian-archetypes.md#feral-gnasher): warrior 1–8 weak
+- [Improved Armored Swiftness (Armored Hulk)](../../characters/classes/barbarian-archetypes.md#armored-hulk): warrior 1–8 common
+- [Improved Savage Grapple (Brutal Pugilist)](../../characters/classes/barbarian-archetypes.md#brutal-pugilist): warrior 1–8 common
+- [Improved Staggering Evasion (Drunken Rager)](../../characters/classes/barbarian-archetypes.md#drunken-rager): warrior 1–8 common
+- [Improved Tolerance (Scarred Rager)](../../characters/classes/barbarian-archetypes.md#scarred-rager): warrior 1–8 weak
+- [Improved Uncanny Dodge](../../characters/classes/barbarian.md#improved-uncanny-dodge-ex): warrior 1–8 common, specialist 1–8 common
+- [In and Out (Pack Hunter)](../../characters/classes/barbarian-archetypes.md#pack-hunter): warrior 1–8 common
+- [Indomitable Stance (Armored Hulk)](../../characters/classes/barbarian-archetypes.md#armored-hulk): warrior 1–8 common
+- [Indomitable Will](../../characters/classes/barbarian.md#indomitable-will-ex): warrior 9–15 weak
+- [Inexhaustible (Wildborn)](../../characters/classes/barbarian-archetypes.md#wildborn): warrior 1–8 weak
+- [Instant Dispassion (Dreadnought)](../../characters/classes/barbarian-archetypes.md#dreadnought): warrior 16–20 weak
+- [Intimidating Gouge (Raging Cannibal)](../../characters/classes/barbarian-archetypes.md#raging-cannibal): warrior 1–8 weak
+- [Intractable (Fearsome Defender)](../../characters/classes/barbarian-archetypes.md#fearsome-defender): warrior 1–8 weak
+- [Invulnerability (Invulnerable Rager)](../../characters/classes/barbarian-archetypes.md#invulnerable-rager): warrior 1–8 common
+- [Invulnerable Rager’s DR](../../characters/classes/barbarian-archetypes.md#invulnerable-rager): warrior 1–8 common
+- [Jotungrip (Titan Mauler)](../../characters/classes/barbarian-archetypes.md#titan-mauler): warrior 1–8 common
+- [Jungle Endurance (Jungle Rager)](../../characters/classes/barbarian-archetypes.md#jungle-rager): warrior 1–8 weak
+- [Keen Senses (Superstitious)](../../characters/classes/barbarian-archetypes.md#superstitious): warrior 1–8 weak
+- [Lockjaw (Feral Gnasher)](../../characters/classes/barbarian-archetypes.md#feral-gnasher): warrior 1–8 weak
+- [Marine Terror (Sea Reaver)](../../characters/classes/barbarian-archetypes.md#sea-reaver): warrior 1–8 weak
+- [Massive Weapons (Titan Mauler)](../../characters/classes/barbarian-archetypes.md#titan-mauler): warrior 1–8 common
+- [Mighty Rage](../../characters/classes/barbarian.md#mighty-rage-ex): warrior 16–20 common
+- [Mighty Shifting Rage (Mooncursed)](../../characters/classes/barbarian-archetypes.md#mooncursed): warrior 16–20 common
+- [Naked Courage (Savage Barbarian)](../../characters/classes/barbarian-archetypes.md#savage-barbarian): warrior 1–8 weak
+- [Natural Toughness (Savage Barbarian)](../../characters/classes/barbarian-archetypes.md#savage-barbarian): warrior 1–8 common
+- [Off the Leash (Fearsome Defender)](../../characters/classes/barbarian-archetypes.md#fearsome-defender): warrior 1–8 common
+- [One Flesh (Flesheater)](../../characters/classes/barbarian-archetypes.md#flesheater): warrior 1–8 common
+- [Pack Tactics (Mad Dog)](../../characters/classes/barbarian-archetypes.md#mad-dog): warrior 1–8 common
+- [Pit Fighter (Brutal Pugilist)](../../characters/classes/barbarian-archetypes.md#brutal-pugilist): warrior 1–8 weak
+- [Rage](../../characters/classes/barbarian.md#rage-ex): warrior 1–8 op
+- [Rage Conversion (Wild Rager)](../../characters/classes/barbarian-archetypes.md#wild-rager): warrior 1–8 common
+- [Rage powers](../../characters/classes/barbarian.md#rage-powers-ex): warrior 1–8 common, specialist 1–8 common
+- [Raging Drunk (Drunken Brute)](../../characters/classes/barbarian-archetypes.md#drunken-brute): warrior 1–8 weak
+- [Raging Tactician (Pack Rager)](../../characters/classes/barbarian-archetypes.md#pack-rager): warrior 1–8 common
+- [Razor-Toothed Fury (Raging Cannibal)](../../characters/classes/barbarian-archetypes.md#raging-cannibal): warrior 1–8 common
+- [Resilience of Steel (Armored Hulk)](../../characters/classes/barbarian-archetypes.md#armored-hulk): warrior 1–8 common
+- [Savage Grapple (Brutal Pugilist)](../../characters/classes/barbarian-archetypes.md#brutal-pugilist): warrior 1–8 common
+- [Savage Rapport (Beastkin Berserker)](../../characters/classes/barbarian-archetypes.md#beastkin-berserker): warrior 1–8 weak
+- [Scarification (Scarred Rager)](../../characters/classes/barbarian-archetypes.md#scarred-rager): warrior 1–8 weak
+- [Shifting Rage (Mooncursed)](../../characters/classes/barbarian-archetypes.md#mooncursed): warrior 1–8 weak
+- [Silent Threat (Fearsome Defender)](../../characters/classes/barbarian-archetypes.md#fearsome-defender): warrior 1–8 weak
+- [Skilled Thrower (Hurler)](../../characters/classes/barbarian-archetypes.md#hurler): warrior 1–8 weak
+- [Smell Giants (Giant Stalker)](../../characters/classes/barbarian-archetypes.md#giant-stalker): warrior 1–8 weak
+- [Spiraling Charge (Deepwater Rager)](../../characters/classes/barbarian-archetypes.md#deepwater-rager): warrior 1–8 common
+- [Spirit Conduit (Geminate Invoker)](../../characters/classes/barbarian-archetypes.md#geminate-invoker): warrior 1–8 weak
+- [Staggering Evasion (Drunken Rager)](../../characters/classes/barbarian-archetypes.md#drunken-rager): warrior 1–8 common
+- [Steady Gait (Dreadnought)](../../characters/classes/barbarian-archetypes.md#dreadnought): warrior 1–8 common
+- [Stubborn (Brutish Swamper)](../../characters/classes/barbarian-archetypes.md#brutish-swamper): warrior 1–8 weak
+- [Sun Walker (Cave Dweller)](../../characters/classes/barbarian-archetypes.md#cave-dweller): warrior 1–8 weak
+- [Sure-Footed (Sea Reaver)](../../characters/classes/barbarian-archetypes.md#sea-reaver): warrior 1–8 weak
+- [Sword and Gun](../../characters/classes/barbarian-archetypes.md#savage-technologist): warrior 1–8 common
+- [Sympathetic Rage (Pack Hunter)](../../characters/classes/barbarian-archetypes.md#pack-hunter): warrior 1–8 common
+- [Tight Tunnels (Cave Dweller)](../../characters/classes/barbarian-archetypes.md#cave-dweller): warrior 1–8 weak
+- [Tireless Rage](../../characters/classes/barbarian.md#tireless-rage-ex): warrior 16–20 weak
+- [Titanic Rage (Titan Mauler)](../../characters/classes/barbarian-archetypes.md#titan-mauler): warrior 9–15 common
+- [Tolerance (Drunken Rager)](../../characters/classes/barbarian-archetypes.md#drunken-rager): warrior 1–8 weak
+- [Tolerance (Scarred Rager)](../../characters/classes/barbarian-archetypes.md#scarred-rager): warrior 1–8 weak
+- [Trophy Fetish (True Primitive)](../../characters/classes/barbarian-archetypes.md#true-primitive): warrior 1–8 common
+- [Tunnel Vision (Cave Dweller)](../../characters/classes/barbarian-archetypes.md#cave-dweller): warrior 1–8 weak
+- [Unbound Form (Flesheater)](../../characters/classes/barbarian-archetypes.md#flesheater): warrior 16–20 common
+- [Unbound Rage (Flesheater)](../../characters/classes/barbarian-archetypes.md#flesheater): warrior 9–15 common
+- [War Beast (Mad Dog)](../../characters/classes/barbarian-archetypes.md#mad-dog): warrior 1–8 op
+- [Wicked Improvisation (Feral Gnasher)](../../characters/classes/barbarian-archetypes.md#feral-gnasher): warrior 9–15 common
+- [Wild Fighting (Wild Rager)](../../characters/classes/barbarian-archetypes.md#wild-rager): warrior 1–8 op
+- [Wrastlin’ (Brutish Swamper)](../../characters/classes/barbarian-archetypes.md#brutish-swamper): warrior 1–8 weak

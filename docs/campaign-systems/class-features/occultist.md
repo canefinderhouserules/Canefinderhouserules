@@ -1,0 +1,74 @@
+# Occultist
+
+- [Adaptable Powers (Curator)](../../characters/classes/occultist-archetypes.md#curator): specialist 1–8 weak
+- [Aura Sight](../../characters/classes/occultist.md#aura-sight-su): warrior 1–8 weak, specialist 1–8 weak
+- [Bonded Tome (Tome Eater)](../../characters/classes/occultist-archetypes.md#tome-eater): specialist 1–8 common
+- [Bonus Feats (Battle Host)](../../characters/classes/occultist-archetypes.md#battle-host): specialist 1–8 op
+- [Broker Secrets (Secret Broker)](../../characters/classes/occultist-archetypes.md#secret-broker): specialist 1–8 weak
+- [Combined Powers (Panoply Savant)](../../characters/classes/occultist-archetypes.md#panoply-savant): specialist 16–20 common
+- [Complex Collection (Curator)](../../characters/classes/occultist-archetypes.md#curator): specialist 1–8 weak
+- [Conductor (Planar Harmonizer)](../../characters/classes/occultist-archetypes.md#planar-harmonizer): specialist 1–8 common
+- [Constructed Focus (Construct Collector)](../../characters/classes/occultist-archetypes.md#construct-collector): specialist 1–8 weak
+- [Crumbling Strike (Occult Historian)](../../characters/classes/occultist-archetypes.md#occult-historian): specialist 9–15 weak
+- [Deadspeaker (Necroccultist)](../../characters/classes/occultist-archetypes.md#necroccultist): specialist 1–8 weak
+- [Devour Books and Scrolls (Tome Eater)](../../characters/classes/occultist-archetypes.md#tome-eater): specialist 1–8 common
+- [Discern Death (Psychodermist)](../../characters/classes/occultist-archetypes.md#psychodermist): specialist 1–8 weak
+- [Dominion (Geomancer)](../../characters/classes/occultist-archetypes.md#geomancer): specialist 1–8 common
+- [Erase Secret (Secret Broker)](../../characters/classes/occultist-archetypes.md#secret-broker): specialist 9–15 weak
+- [Extensive Collection (Curator)](../../characters/classes/occultist-archetypes.md#curator): specialist 1–8 common
+- [Extricate Haunt (Haunt Collector)](../../characters/classes/occultist-archetypes.md#haunt-collector): specialist 1–8 weak
+- [Fleeting Focus (Extemporaneous Channeler)](../../characters/classes/occultist-archetypes.md#extemporaneous-channeler): specialist 1–8 common
+- [Focus Powers](../../characters/classes/occultist.md#focus-powers-su): specialist 1–8 op
+- [Geomancy (Geomancer)](../../characters/classes/occultist-archetypes.md#geomancer): specialist 1–8 common
+- [Geomantic Focus (Geomancer)](../../characters/classes/occultist-archetypes.md#geomancer): specialist 1–8 weak
+- [Ghostly Horde (Necroccultist)](../../characters/classes/occultist-archetypes.md#necroccultist): specialist 1–8 common
+- [Harmonic Shield (Planar Harmonizer)](../../characters/classes/occultist-archetypes.md#planar-harmonizer): specialist 1–8 weak
+- [Hauntist (Haunt Collector)](../../characters/classes/occultist-archetypes.md#haunt-collector): specialist 1–8 weak
+- [Heroic Splendor (Battle Host)](../../characters/classes/occultist-archetypes.md#battle-host): specialist 1–8 common
+- [Implement Mastery](../../characters/classes/occultist.md#implement-mastery-su): specialist 16–20 common
+- [Implement Specialist (Panoply Savant)](../../characters/classes/occultist-archetypes.md#panoply-savant): specialist 1–8 common
+- [Implements and Mental Focus](../../characters/classes/occultist.md#implements-su): specialist 1–8 common
+- [Implements of the Order (Esoteric Initiate)](../../characters/classes/occultist-archetypes.md#esoteric-initiate): specialist 1–8 common
+- [Improvised Spell (Extemporaneous Channeler)](../../characters/classes/occultist-archetypes.md#extemporaneous-channeler): specialist 1–8 common
+- [Jin (Sha’ir)](../../characters/classes/occultist-archetypes.md#shair): specialist 1–8 common
+- [Jin Spy (Sha’ir)](../../characters/classes/occultist-archetypes.md#shair): specialist 1–8 weak
+- [Knowledge Is Power (Secret Broker)](../../characters/classes/occultist-archetypes.md#secret-broker): specialist 1–8 weak
+- [Life Drain (Necroccultist)](../../characters/classes/occultist-archetypes.md#necroccultist): specialist 1–8 weak
+- [Magic Circles](../../characters/classes/occultist.md#magic-circles-su): specialist 1–8 common
+- [Magic Item Skill](../../characters/classes/occultist.md#magic-item-skill-ex): specialist 1–8 weak
+- [Mental Catalog (Curator)](../../characters/classes/occultist-archetypes.md#curator): specialist 1–8 weak
+- [Natural Focus (Naturalist)](../../characters/classes/occultist-archetypes.md#naturalist): specialist 1–8 common
+- [Necromantic Bond (Necroccultist)](../../characters/classes/occultist-archetypes.md#necroccultist): specialist 1–8 common
+- [Object Reading](../../characters/classes/occultist.md#object-reading-su): specialist 1–8 weak
+- [Outside Contact](../../characters/classes/occultist.md#outside-contact-su): specialist 1–8 common
+- [Outside Messenger (Planar Harmonizer)](../../characters/classes/occultist-archetypes.md#planar-harmonizer): specialist 1–8 common
+- [Panoply Bond (Battle Host)](../../characters/classes/occultist-archetypes.md#battle-host): specialist 1–8 common
+- [Panoply Focus (Panoply Savant)](../../characters/classes/occultist-archetypes.md#panoply-savant): specialist 1–8 common
+- [Panoptic Call (Panoply Savant)](../../characters/classes/occultist-archetypes.md#panoply-savant): specialist 9–15 weak
+- [Panoptic Harmony (Panoply Savant)](../../characters/classes/occultist-archetypes.md#panoply-savant): specialist 1–8 weak
+- [Possessed Possessions (Haunt Collector)](../../characters/classes/occultist-archetypes.md#haunt-collector): specialist 1–8 weak
+- [Purge Secret (Secret Broker)](../../characters/classes/occultist-archetypes.md#secret-broker): specialist 16–20 weak
+- [Relic Resistance (Curator)](../../characters/classes/occultist-archetypes.md#curator): specialist 1–8 weak
+- [Repower Construct (Construct Collector)](../../characters/classes/occultist-archetypes.md#construct-collector): specialist 1–8 weak
+- [Ruin Reading (Occult Historian)](../../characters/classes/occultist-archetypes.md#occult-historian): specialist 1–8 weak
+- [Sacred Implements (Reliquarian)](../../characters/classes/occultist-archetypes.md#reliquarian): specialist 1–8 common
+- [Seek Prey (Psychodermist)](../../characters/classes/occultist-archetypes.md#psychodermist): specialist 1–8 weak
+- [Share Memory (Secret Broker)](../../characters/classes/occultist-archetypes.md#secret-broker): specialist 1–8 weak
+- [Shared Talisman (Talisman Crafter)](../../characters/classes/occultist-archetypes.md#talisman-crafter): specialist 1–8 weak
+- [Shift Focus](../../characters/classes/occultist.md#shift-focus-su): specialist 1–8 weak
+- [Silksworn Arcana (Silksworn)](../../characters/classes/occultist-archetypes.md#silksworn): specialist 16–20 common
+- [Silksworn Deception (Silksworn)](../../characters/classes/occultist-archetypes.md#silksworn): specialist 9–15 weak
+- [Spellbound Talisman (Talisman Crafter)](../../characters/classes/occultist-archetypes.md#talisman-crafter): specialist 1–8 common
+- [Spirit Speaker (Haunt Collector)](../../characters/classes/occultist-archetypes.md#haunt-collector): specialist 1–8 weak
+- [Spirit Warrior (Battle Host)](../../characters/classes/occultist-archetypes.md#battle-host): specialist 1–8 weak
+- [Steal Secret (Secret Broker)](../../characters/classes/occultist-archetypes.md#secret-broker): specialist 1–8 weak
+- [Survivalist (Geomancer)](../../characters/classes/occultist-archetypes.md#geomancer): specialist 1–8 weak
+- [Symbolism (Esoteric Initiate)](../../characters/classes/occultist-archetypes.md#esoteric-initiate): specialist 1–8 weak
+- [Talismanic Implements (Talisman Crafter)](../../characters/classes/occultist-archetypes.md#talisman-crafter): specialist 1–8 common
+- [Terrain Stride (Geomancer)](../../characters/classes/occultist-archetypes.md#geomancer): specialist 1–8 weak
+- [Tree Talker (Naturalist)](../../characters/classes/occultist-archetypes.md#naturalist): specialist 1–8 weak
+- [Trophies (Psychodermist)](../../characters/classes/occultist-archetypes.md#psychodermist): specialist 1–8 common
+- [Wall of Terrain (Geomancer)](../../characters/classes/occultist-archetypes.md#geomancer): specialist 9–15 common
+- [Warding Seal (Talisman Crafter)](../../characters/classes/occultist-archetypes.md#talisman-crafter): specialist 1–8 weak
+- [Withdraw Focus (Extemporaneous Channeler)](../../characters/classes/occultist-archetypes.md#extemporaneous-channeler): specialist 1–8 weak
+- [Word Sense (Tome Eater)](../../characters/classes/occultist-archetypes.md#tome-eater): specialist 1–8 weak

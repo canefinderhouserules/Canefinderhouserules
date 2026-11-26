@@ -1,0 +1,35 @@
+# Legendary Fighter
+
+- [Active Defense (Armor Master)](../../characters/classes/legendary/legendary-fighter-archetypes.md#armor-master): warrior 1–8 common
+- [Ascetic Discipline (Living Weapon)](../../characters/classes/legendary/legendary-fighter-archetypes.md#living-weapon): warrior 1–8 weak
+- [Assured Strike](../../characters/classes/legendary/legendary-fighter.md#assured-strike-ex): warrior 16–20 weak
+- [Autonomic Grasp](../../characters/classes/legendary/legendary-fighter.md#autonomic-grasp-ex): warrior 9–15 common
+- [Bonus Skills](../../characters/classes/legendary/legendary-fighter.md#bonus-skills): warrior 1–8 weak
+- [Chosen Weapon (Weapon Master)](../../characters/classes/legendary/legendary-fighter-archetypes.md#weapon-master): warrior 1–8 common
+- [Combat Composure](../../characters/classes/legendary/legendary-fighter.md#combat-composure-ex): warrior 9–15 common
+- [Determination](../../characters/classes/legendary/legendary-fighter.md#determination-ex): warrior 1–8 weak
+- [Eldritch Weapon (Spirit Warrior)](../../characters/classes/legendary/legendary-fighter-archetypes.md#spirit-warrior): warrior 1–8 common
+- [Enemy Assessment (Lore Warden)](../../characters/classes/legendary/legendary-fighter-archetypes.md#lore-warden): warrior 1–8 common
+- [Feat Aptitude (legendary fighter)](../../characters/classes/legendary/legendary-fighter.md#feat-aptitude-ex): warrior 1–8 weak
+- [Feat Expertise](../../characters/classes/legendary/legendary-fighter.md#feat-expertise-ex): warrior 1–8 weak
+- [Feat Retraining](../../characters/classes/legendary/legendary-fighter.md#feat-retraining-ex): warrior 1–8 weak
+- [Fighting Stamina (Stamina Adherent)](../../characters/classes/legendary/legendary-fighter-archetypes.md#stamina-adherent): warrior 1–8 common
+- [Fighting Strikes (Living Weapon)](../../characters/classes/legendary/legendary-fighter-archetypes.md#living-weapon): warrior 1–8 weak
+- [Flawless Technique](../../characters/classes/legendary/legendary-fighter.md#flawless-technique-ex): warrior 16–20 common
+- [Latent Feats](../../characters/classes/legendary/legendary-fighter.md#latent-feats-ex): warrior 1–8 weak
+- [Maneuver Mastery (Lore Warden) (Legendary Fighter)](../../characters/classes/legendary/legendary-fighter-archetypes.md#lore-warden): warrior 1–8 weak
+- [Penetrating Blow (Living Weapon)](../../characters/classes/legendary/legendary-fighter-archetypes.md#living-weapon): warrior 9–15 common
+- [Perseverance](../../characters/classes/legendary/legendary-fighter.md#perseverance-ex): warrior 1–8 common
+- [Prowess](../../characters/classes/legendary/legendary-fighter.md#prowess-ex): warrior 1–8 common
+- [Rapid Attack](../../characters/classes/legendary/legendary-fighter.md#rapid-attack-ex): warrior 9–15 common
+- [Secure Weaponry](../../characters/classes/legendary/legendary-fighter.md#secure-weaponry-ex): warrior 1–8 weak
+- [Sharp Reflexes](../../characters/classes/legendary/legendary-fighter.md#sharp-reflexes-ex): warrior 1–8 weak
+- [Skillful Expertise (Lore Warden)](../../characters/classes/legendary/legendary-fighter-archetypes.md#lore-warden): warrior 1–8 weak
+- [Tenacious Grip](../../characters/classes/legendary/legendary-fighter.md#tenacious-grip-ex): warrior 9–15 weak
+- [Unarmed Specialist Training (Living Weapon)](../../characters/classes/legendary/legendary-fighter-archetypes.md#living-weapon): warrior 1–8 weak
+- [Unflinching (Unbreakable)](../../characters/classes/legendary/legendary-fighter-archetypes.md#unbreakable): warrior 1–8 weak
+- [Warrior Spirit (Spirit Warrior)](../../characters/classes/legendary/legendary-fighter-archetypes.md#spirit-warrior): warrior 1–8 common
+- [Weapon Adaption](../../characters/classes/legendary/legendary-fighter.md#weapon-adaption-ex): warrior 1–8 weak
+- [Weapon Group (Weapon Master)](../../characters/classes/legendary/legendary-fighter-archetypes.md#weapon-master): warrior 1–8 weak
+- [Weapon Guard](../../characters/classes/legendary/legendary-fighter.md#weapon-guard-ex): warrior 1–8 weak
+- [Weapon Unity](../../characters/classes/legendary/legendary-fighter.md#weapon-unity-ex): warrior 9–15 common

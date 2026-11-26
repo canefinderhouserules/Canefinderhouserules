@@ -1,0 +1,58 @@
+# Legendary Kineticist
+
+- [Advanced Cantikinesis (Soundweaver)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#soundweaver): specialist 1–8 common
+- [Advanced Metakinetic Master (Metakinetic Savant)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#metakinetic-savant): specialist 16–20 weak
+- [Art Blast (Artistic Summoner)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#artistic-summoner): specialist 1–8 weak
+- [Art Summoner (Artistic Summoner)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#artistic-summoner): specialist 1–8 common
+- [Bane of Evil (Twice-Born Repenter (Obitu Racial Archetype))](../../characters/classes/legendary/legendary-kineticist-archetypes.md#twice-born-repenter-obitu-racial-archetype): specialist 1–8 common
+- [Bane of Undeath (Twice-Born Repenter (Obitu Racial Archetype))](../../characters/classes/legendary/legendary-kineticist-archetypes.md#twice-born-repenter-obitu-racial-archetype): specialist 1–8 common
+- [Battle Buffer (War Kineticist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#war-kineticist): specialist 1–8 weak
+- [Bonus Feats (Telekinetic Bladeshifter)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#telekinetic-bladeshifter): specialist 1–8 weak
+- [Born Talented (Soundweaver)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#soundweaver): specialist 1–8 common
+- [Bounding Blast (Bestial Kineticist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#bestial-kineticist): specialist 9–15 common
+- [Burning Passion (Soundweaver)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#soundweaver): specialist 1–8 common
+- [Creative Genius (Artistic Summoner)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#artistic-summoner): specialist 1–8 weak
+- [Elemental Form (Bestial Kineticist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#bestial-kineticist): specialist 1–8 common
+- [Emotional Intensity (Psychokineticist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#psychokineticist): specialist 1–8 common
+- [Excessive Blaster (Onslaught Blaster)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#onslaught-blaster): specialist 1–8 common
+- [Extreme Blaster (Onslaught Blaster)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#onslaught-blaster): specialist 9–15 common
+- [Focused Blaster (Onslaught Blaster)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#onslaught-blaster): specialist 1–8 common
+- [Forcewoven Shield (Telekinetic Bladeshifter)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#telekinetic-bladeshifter): specialist 1–8 common
+- [Forcewoven Weapon (Telekinetic Bladeshifter)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#telekinetic-bladeshifter): specialist 1–8 common
+- [Great Surge Fist (Surge Fist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#surge-fist): specialist 9–15 common
+- [Harmonious Convergence (Soundweaver)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#soundweaver): specialist 16–20 common
+- [Kinetic Concert (Soundweaver)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#soundweaver): specialist 1–8 common
+- [Kinetic Masterpiece (Soundweaver)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#soundweaver): specialist 9–15 weak
+- [Life Blast (Twice-Born Repenter (Obitu Racial Archetype))](../../characters/classes/legendary/legendary-kineticist-archetypes.md#twice-born-repenter-obitu-racial-archetype): specialist 1–8 common
+- [Luminaire (Twice-Born Repenter (Obitu Racial Archetype))](../../characters/classes/legendary/legendary-kineticist-archetypes.md#twice-born-repenter-obitu-racial-archetype): specialist 16–20 common
+- [Luminary Focus (Twice-Born Repenter (Obitu Racial Archetype))](../../characters/classes/legendary/legendary-kineticist-archetypes.md#twice-born-repenter-obitu-racial-archetype): specialist 1–8 common
+- [Mental Overflow (Psychokineticist) (Legendary Kineticist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#psychokineticist): specialist 1–8 common
+- [Metakinetic Buffer (Metakinetic Savant)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#metakinetic-savant): specialist 1–8 weak
+- [Metakinetic Feats (Metakinetic Savant)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#metakinetic-savant): specialist 1–8 common
+- [Mindscape Master (True Psychic)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#true-psychic): specialist 16–20 common
+- [Mindscape Savant (True Psychic)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#true-psychic): specialist 9–15 weak
+- [Mindscape Traveler (True Psychic)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#true-psychic): specialist 1–8 common
+- [Minstrel Training (Soundweaver)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#soundweaver): specialist 1–8 weak
+- [Musical Infusion (Soundweaver)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#soundweaver): specialist 1–8 common
+- [Nihilistic Curse (Nihilicist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#nihilicist): specialist 1–8 common
+- [Nihilistic Infusion (Nihilicist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#nihilicist): specialist 1–8 weak
+- [Null Element (Nihilicist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#nihilicist): specialist 1–8 common
+- [Nullify Wounds (Nihilicist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#nihilicist): specialist 1–8 common
+- [Oil Blast (Artistic Summoner)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#artistic-summoner): specialist 1–8 weak
+- [Omni Strike (Onslaught Blaster)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#onslaught-blaster): specialist 16–20 op
+- [Onslaught Blast (Onslaught Blaster)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#onslaught-blaster): specialist 1–8 common
+- [Psionic Defense (True Psychic)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#true-psychic): specialist 1–8 weak
+- [Psychic Composites (True Psychic)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#true-psychic): specialist 9–15 common
+- [Psychic Residue (True Psychic)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#true-psychic): specialist 1–8 weak
+- [Reduced Existence (Nihilicist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#nihilicist): specialist 1–8 weak
+- [Servitor of Life (Twice-Born Repenter (Obitu Racial Archetype))](../../characters/classes/legendary/legendary-kineticist-archetypes.md#twice-born-repenter-obitu-racial-archetype): specialist 9–15 weak
+- [Surge Fist (Surge Fist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#surge-fist): specialist 1–8 common
+- [Targeted Strike (Onslaught Blaster)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#onslaught-blaster): specialist 9–15 common
+- [Telekinetic Blade (Telekinetic Bladeshifter)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#telekinetic-bladeshifter): specialist 1–8 common
+- [Telekinetic Weapon Mastery (Telekinetic Bladeshifter)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#telekinetic-bladeshifter): specialist 16–20 op
+- [Terminus (Nihilicist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#nihilicist): specialist 16–20 common
+- [Terrakinetic Defense (Terrakineticist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#terrakineticist): specialist 1–8 common
+- [Two-Weapon Specialty (Telekinetic Bladeshifter)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#telekinetic-bladeshifter): specialist 1–8 common
+- [Wild Ki (Surge Fist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#surge-fist): specialist 1–8 common
+- [Wild Kineticism (Bestial Kineticist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#bestial-kineticist): specialist 1–8 common
+- [Wild Tricks (Bestial Kineticist)](../../characters/classes/legendary/legendary-kineticist-archetypes.md#bestial-kineticist): specialist 1–8 weak

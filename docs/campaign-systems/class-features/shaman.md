@@ -1,0 +1,37 @@
+# Shaman
+
+- [Adventurers Past (Name-Keeper)](../../characters/classes/shaman-archetypes.md#name-keeper): specialist 1–8 common, caster 1–8 common
+- [Boon Reservoir (Benefactor)](../../characters/classes/shaman-archetypes.md#benefactor): specialist 1–8 common, caster 1–8 common
+- [Cabochon Form (Crystal Tender)](../../characters/classes/shaman-archetypes.md#crystal-tender): specialist 16–20 common, caster 16–20 common
+- [Channel Energy (Witch Doctor)](../../characters/classes/shaman-archetypes.md#witch-doctor): specialist 1–8 common, caster 1–8 common
+- [Contact with the Spirit World (Animist)](../../characters/classes/shaman-archetypes.md#animist): specialist 9–15 weak, caster 9–15 weak
+- [Controlling Magic (Overseer)](../../characters/classes/shaman-archetypes.md#overseer): specialist 1–8 weak, caster 1–8 weak
+- [Counter Curse (Witch Doctor)](../../characters/classes/shaman-archetypes.md#witch-doctor): specialist 1–8 weak, caster 1–8 weak
+- [Countering Hex (Witch Doctor)](../../characters/classes/shaman-archetypes.md#witch-doctor): specialist 9–15 weak, caster 9–15 weak
+- [Crowded Vessel (Possessed Shaman)](../../characters/classes/shaman-archetypes.md#possessed-shaman): specialist 1–8 common, caster 1–8 common
+- [Discern Magical Expertise (Visionary)](../../characters/classes/shaman-archetypes.md#visionary): specialist 1–8 weak, caster 1–8 weak
+- [Drake Companion (Draconic Shaman)](../../characters/classes/shaman-archetypes.md#draconic-shaman): specialist 1–8 common, caster 1–8 common
+- [Esoteric Rites (Occult Sage)](../../characters/classes/shaman-archetypes.md#occult-sage): specialist 1–8 weak, caster 1–8 weak
+- [Exorcism (Animist)](../../characters/classes/shaman-archetypes.md#animist): specialist 1–8 weak, caster 1–8 weak
+- [Expanded Boon (Benefactor)](../../characters/classes/shaman-archetypes.md#benefactor): specialist 1–8 common, caster 1–8 common
+- [Flower's Form (Grasping Vine)](../../characters/classes/shaman-archetypes.md#grasping-vine): specialist 1–8 weak, caster 1–8 weak
+- [Golden Scarab (Occult Sage)](../../characters/classes/shaman-archetypes.md#occult-sage): specialist 1–8 common, caster 1–8 common
+- [Improved Divination (Visionary)](../../characters/classes/shaman-archetypes.md#visionary): specialist 1–8 weak, caster 1–8 weak
+- [Inherited Compass (Name-Keeper)](../../characters/classes/shaman-archetypes.md#name-keeper): specialist 1–8 weak, caster 1–8 weak
+- [Invoke Latent Facets (Crystal Tender)](../../characters/classes/shaman-archetypes.md#crystal-tender): specialist 1–8 weak, caster 1–8 weak
+- [Laugh at Death (Spirit Warden)](../../characters/classes/shaman-archetypes.md#spirit-warden): specialist 9–15 weak, caster 9–15 weak
+- [Manifestation](../../characters/classes/shaman.md#manifestation-su): specialist 16–20 common, caster 16–20 common
+- [Minor Spirit (Unsworn Shaman)](../../characters/classes/shaman-archetypes.md#unsworn-shaman): specialist 1–8 common, caster 1–8 common
+- [Mysteries of the Past (Speaker for the Past)](../../characters/classes/shaman-archetypes.md#speaker-for-the-past): specialist 1–8 weak, caster 1–8 weak
+- [Rebuke Spirits (Spirit Warden)](../../characters/classes/shaman-archetypes.md#spirit-warden): specialist 1–8 common, caster 1–8 common
+- [Reciprocal Resonance (Crystal Tender)](../../characters/classes/shaman-archetypes.md#crystal-tender): specialist 1–8 common, caster 1–8 common
+- [Shared Skill (Possessed Shaman)](../../characters/classes/shaman-archetypes.md#possessed-shaman): specialist 1–8 weak, caster 1–8 weak
+- [Spirit Animal](../../characters/classes/shaman.md#spirit-animal-ex): specialist 1–8 common, caster 1–8 common
+- [Spirit Magic](../../characters/classes/shaman.md#spirit-magic): specialist 1–8 weak, caster 1–8 weak
+- [Spirit Shaman (Animist)](../../characters/classes/shaman-archetypes.md#animist): specialist 16–20 common, caster 16–20 common
+- [Tweak the Odds (Serendipity Shaman)](../../characters/classes/shaman-archetypes.md#serendipity-shaman): specialist 1–8 common, caster 1–8 common
+- [Versatile Hex (Name-Keeper)](../../characters/classes/shaman-archetypes.md#name-keeper): specialist 1–8 common, caster 1–8 common
+- [Wandering Ritual (Occult Sage)](../../characters/classes/shaman-archetypes.md#occult-sage): specialist 1–8 weak, caster 1–8 weak
+- [Wandering Skills (Possessed Shaman)](../../characters/classes/shaman-archetypes.md#possessed-shaman): specialist 1–8 weak, caster 1–8 weak
+- [Wandering Spirit](../../characters/classes/shaman.md#wandering-spirit-su): specialist 1–8 common, caster 1–8 common
+- [Wrangle Condition (Animist)](../../characters/classes/shaman-archetypes.md#animist): specialist 1–8 weak, caster 1–8 weak

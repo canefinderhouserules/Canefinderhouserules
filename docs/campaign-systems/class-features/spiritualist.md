@@ -1,0 +1,65 @@
+# Spiritualist
+
+- [Bonded Manifestation](../../characters/classes/spiritualist.md#bonded-manifestation-su): specialist 1–8 common, caster 1–8 common
+- [Bonded Senses](../../characters/classes/spiritualist.md#bonded-senses-su): specialist 1–8 weak
+- [Calm Spirit](../../characters/classes/spiritualist.md#calm-spirit-sp): specialist 1–8 weak
+- [Channel Energy (Necrologist)](../../characters/classes/spiritualist-archetypes.md#necrologist): specialist 1–8 common
+- [Channel Energy (Priest of the Fallen)](../../characters/classes/spiritualist-archetypes.md#priest-of-the-fallen): specialist 1–8 common
+- [Disrupting Phantom (Usher of Lost Souls)](../../characters/classes/spiritualist-archetypes.md#usher-of-lost-souls): specialist 1–8 weak
+- [Disruptive Influence (Usher of Lost Souls)](../../characters/classes/spiritualist-archetypes.md#usher-of-lost-souls): specialist 9–15 weak
+- [Echoes of Expertise (Seeker of Enlightenment)](../../characters/classes/spiritualist-archetypes.md#seeker-of-enlightenment): specialist 1–8 common
+- [Echoes of Mastery (Seeker of Enlightenment)](../../characters/classes/spiritualist-archetypes.md#seeker-of-enlightenment): specialist 9–15 common
+- [Ectoplasmic Lash (Ectoplasmatist)](../../characters/classes/spiritualist-archetypes.md#ectoplasmatist): specialist 1–8 common
+- [Ectoplasmic Swarm (Scourge)](../../characters/classes/spiritualist-archetypes.md#scourge): specialist 9–15 common
+- [Emotional Power (Fractured Mind)](../../characters/classes/spiritualist-archetypes.md#fractured-mind): specialist 1–8 common
+- [Emotional Spellcasting (Fractured Mind)](../../characters/classes/spiritualist-archetypes.md#fractured-mind): specialist 1–8 common
+- [Empowered Consciousness](../../characters/classes/spiritualist.md#empowered-consciousness-su): specialist 16–20 common
+- [Endure Torment (Scourge)](../../characters/classes/spiritualist-archetypes.md#scourge): specialist 1–8 weak
+- [Etheric Tether](../../characters/classes/spiritualist.md#etheric-tether-su): specialist 1–8 weak
+- [Fused Consciousness](../../characters/classes/spiritualist.md#fused-consciousness-su): specialist 9–15 weak
+- [Fused Well-Being (Plague Eater)](../../characters/classes/spiritualist-archetypes.md#plague-eater): specialist 9–15 weak
+- [Greater Spiritual Interference](../../characters/classes/spiritualist.md#greater-spiritual-interference-ex-or-su): specialist 9–15 weak
+- [Hag Phantom (Hag-Haunted)](../../characters/classes/spiritualist-archetypes.md#hag-haunted): specialist 1–8 common
+- [Hardened Soul (Grim Apostle)](../../characters/classes/spiritualist-archetypes.md#grim-apostle): specialist 1–8 common
+- [Inhabit Shadow (Shadow Caller)](../../characters/classes/spiritualist-archetypes.md#shadow-caller): specialist 1–8 common
+- [Involuate (Involutionist)](../../characters/classes/spiritualist-archetypes.md#involutionist): specialist 9–15 common
+- [Iron Bond (Fated Guide (Spiritualist))](../../characters/classes/spiritualist-archetypes.md#fated-guide-spiritualist): specialist 9–15 weak
+- [Knowledge of the Ancestors (Seeker of Enlightenment)](../../characters/classes/spiritualist-archetypes.md#seeker-of-enlightenment): specialist 16–20 weak
+- [Living Darkness (Shadow Caller)](../../characters/classes/spiritualist-archetypes.md#shadow-caller): specialist 16–20 common
+- [Locate Haunts (Usher of Lost Souls)](../../characters/classes/spiritualist-archetypes.md#usher-of-lost-souls): specialist 9–15 weak
+- [Malevolent Possession (Geist Channeler)](../../characters/classes/spiritualist-archetypes.md#geist-channeler): specialist 16–20 common
+- [Masterful Faith (Priest of the Fallen)](../../characters/classes/spiritualist-archetypes.md#priest-of-the-fallen): specialist 16–20 common
+- [Merged Phantom (Exciter)](../../characters/classes/spiritualist-archetypes.md#exciter): specialist 1–8 weak
+- [Mythmaker (Priest of the Fallen)](../../characters/classes/spiritualist-archetypes.md#priest-of-the-fallen): specialist 1–8 common
+- [Necropsychic Conduit (Necrologist)](../../characters/classes/spiritualist-archetypes.md#necrologist): specialist 9–15 weak
+- [Nosoi Scribe (Soul Warden)](../../characters/classes/spiritualist-archetypes.md#soul-warden): specialist 1–8 common
+- [Perfect Passion (Exciter)](../../characters/classes/spiritualist-archetypes.md#exciter): specialist 1–8 weak
+- [Phantom](../../characters/classes/spiritualist.md#phantom): specialist 1–8 op
+- [Phantom Animal (Totem Spiritualist)](../../characters/classes/spiritualist-archetypes.md#totem-spiritualist): specialist 1–8 op
+- [Phantom Call (Priest of the Fallen)](../../characters/classes/spiritualist-archetypes.md#priest-of-the-fallen): specialist 1–8 weak
+- [Phantom Recall](../../characters/classes/spiritualist.md#phantom-recall-su): specialist 1–8 weak
+- [Phantom Weapon (Phantom Blade)](../../characters/classes/spiritualist-archetypes.md#phantom-blade): specialist 1–8 common
+- [Pinpoint Influence (Seeker of Enlightenment)](../../characters/classes/spiritualist-archetypes.md#seeker-of-enlightenment): specialist 9–15 weak
+- [Plague Ward (Plague Eater)](../../characters/classes/spiritualist-archetypes.md#plague-eater): specialist 1–8 common
+- [Rapture (Exciter)](../../characters/classes/spiritualist-archetypes.md#exciter): specialist 1–8 op
+- [Rapturous Rage (Exciter)](../../characters/classes/spiritualist-archetypes.md#exciter): specialist 9–15 common
+- [See in Darkness (Shadow Caller)](../../characters/classes/spiritualist-archetypes.md#shadow-caller): specialist 9–15 weak
+- [Shadow Jump (Shadow Caller)](../../characters/classes/spiritualist-archetypes.md#shadow-caller): specialist 1–8 weak
+- [Shared Consciousness](../../characters/classes/spiritualist.md#shared-consciousness-su): specialist 1–8 common
+- [Spell Scourge (Scourge)](../../characters/classes/spiritualist-archetypes.md#scourge): specialist 1–8 common
+- [Spirit Awareness (Involutionist)](../../characters/classes/spiritualist-archetypes.md#involutionist): specialist 1–8 weak
+- [Spirit Manifestation (Involutionist)](../../characters/classes/spiritualist-archetypes.md#involutionist): specialist 1–8 weak
+- [Spirit of War (Phantom Blade)](../../characters/classes/spiritualist-archetypes.md#phantom-blade): specialist 1–8 op
+- [Spiritual Bond](../../characters/classes/spiritualist.md#spiritual-bond-su): specialist 9–15 common
+- [Spiritual Inoculation (Plague Eater)](../../characters/classes/spiritualist-archetypes.md#plague-eater): specialist 1–8 weak
+- [Spiritual Interference](../../characters/classes/spiritualist.md#spiritual-interference-ex-or-su): specialist 1–8 weak
+- [Spiritual Manifestation (Geist Channeler)](../../characters/classes/spiritualist-archetypes.md#geist-channeler): specialist 1–8 weak
+- [Spiritual Resistance (Onmyoji)](../../characters/classes/spiritualist-archetypes.md#onmyoji): specialist 1–8 common
+- [Thanatopic Bonded Manifestation (Fated Guide (Spiritualist))](../../characters/classes/spiritualist-archetypes.md#fated-guide-spiritualist): specialist 1–8 common
+- [True Legend (Priest of the Fallen)](../../characters/classes/spiritualist-archetypes.md#priest-of-the-fallen): specialist 16–20 common
+- [Umbral Aura (Shadow Caller)](../../characters/classes/spiritualist-archetypes.md#shadow-caller): specialist 9–15 common
+- [Undeniable Bond (Fated Guide (Spiritualist))](../../characters/classes/spiritualist-archetypes.md#fated-guide-spiritualist): specialist 16–20 weak
+- [Usurp Manifestation (Haunted)](../../characters/classes/spiritualist-archetypes.md#haunted): specialist 1–8 common
+- [Warding Vessel (Soul Warden)](../../characters/classes/spiritualist-archetypes.md#soul-warden): specialist 1–8 weak
+- [Withdraw Affliction (Plague Eater)](../../characters/classes/spiritualist-archetypes.md#plague-eater): specialist 16–20 weak
+- [Zeitgeist (Zeitgeist Binder)](../../characters/classes/spiritualist-archetypes.md#zeitgeist-binder): specialist 1–8 common

@@ -1,0 +1,69 @@
+# Summoner
+
+- [Aspect](../../characters/classes/summoner.md#aspect-su): specialist 9–15 common
+- [Avatar Gambit (Blood God Disciple)](../../characters/classes/summoner-archetypes.md#blood-god-disciple): specialist 1–8 weak
+- [Blood Feast (Blood God Disciple)](../../characters/classes/summoner-archetypes.md#blood-god-disciple): specialist 1–8 common
+- [Blood Offering (Blood Summoner)](../../characters/classes/summoner-archetypes.md#blood-summoner): specialist 1–8 weak
+- [Blood Possession (Blood Summoner)](../../characters/classes/summoner-archetypes.md#blood-summoner): specialist 16–20 common
+- [Blood Travel (Blood Summoner)](../../characters/classes/summoner-archetypes.md#blood-summoner): specialist 1–8 common
+- [Bloody Gift (Blood God Disciple)](../../characters/classes/summoner-archetypes.md#blood-god-disciple): specialist 1–8 weak
+- [Bond Alignment (Devil Impostor (Unchained Summoner))](../../characters/classes/summoner-archetypes.md#devil-impostor-unchained-summoner): specialist 1–8 weak
+- [Bond Senses](../../characters/classes/summoner.md#bond-senses-su): specialist 1–8 weak
+- [Brood Link (Broodmaster)](../../characters/classes/summoner-archetypes.md#broodmaster): specialist 1–8 weak
+- [Counter-Summon (Counter-Summoner)](../../characters/classes/summoner-archetypes.md#counter-summoner): specialist 1–8 weak
+- [Detect Summons (Counter-Summoner)](../../characters/classes/summoner-archetypes.md#counter-summoner): specialist 1–8 weak
+- [Detonate (Pyroclast)](../../characters/classes/summoner-archetypes.md#pyroclast): specialist 1–8 common
+- [Devil's Flesh (Devil Impostor (Unchained Summoner))](../../characters/classes/summoner-archetypes.md#devil-impostor-unchained-summoner): specialist 1–8 weak
+- [Devil's Tongue (Devil Impostor (Unchained Summoner))](../../characters/classes/summoner-archetypes.md#devil-impostor-unchained-summoner): specialist 9–15 weak
+- [Divine Awareness (God Caller)](../../characters/classes/summoner-archetypes.md#god-caller): specialist 9–15 weak
+- [Divine Might (God Caller)](../../characters/classes/summoner-archetypes.md#god-caller): specialist 16–20 common
+- [Divine Word (God Caller)](../../characters/classes/summoner-archetypes.md#god-caller): specialist 1–8 weak
+- [Earth Glide (Shaitan Binder)](../../characters/classes/summoner-archetypes.md#shaitan-binder): specialist 9–15 weak
+- [Eidolon](../../characters/classes/summoner.md#eidolon): specialist 1–8 iconic
+- [Electrical Polarity (Storm Caller)](../../characters/classes/summoner-archetypes.md#storm-caller): specialist 1–8 common
+- [Evolve Base Form (Evolutionist)](../../characters/classes/summoner-archetypes.md#evolutionist): specialist 1–8 weak
+- [Fiendish Appearance (Devil Impostor (Unchained Summoner))](../../characters/classes/summoner-archetypes.md#devil-impostor-unchained-summoner): specialist 1–8 weak
+- [Fiendish Calling (Blood Summoner)](../../characters/classes/summoner-archetypes.md#blood-summoner): specialist 9–15 common
+- [Fused Link (Synthesist)](../../characters/classes/summoner-archetypes.md#synthesist): specialist 1–8 weak
+- [Greater Aspect](../../characters/classes/summoner.md#greater-aspect-su): specialist 16–20 weak
+- [Greater Shield Ally](../../characters/classes/summoner.md#greater-shield-ally-su): specialist 9–15 weak
+- [Greater Shielded Meld (Synthesist)](../../characters/classes/summoner-archetypes.md#synthesist): specialist 9–15 weak
+- [Guidance (God Caller)](../../characters/classes/summoner-archetypes.md#god-caller): specialist 1–8 weak
+- [Heart of Earth and Fire (Pyroclast)](../../characters/classes/summoner-archetypes.md#pyroclast): specialist 1–8 common
+- [Hex (Spirit Summoner)](../../characters/classes/summoner-archetypes.md#spirit-summoner): specialist 1–8 weak
+- [Improved Weaken Summons (Counter-Summoner)](../../characters/classes/summoner-archetypes.md#counter-summoner): specialist 16–20 weak
+- [Infernal Affinity (Devil Binder (Unchained Summoner))](../../characters/classes/summoner-archetypes.md#devil-binder-unchained-summoner): specialist 1–8 weak
+- [Infernal Arcana (Devil Binder (Unchained Summoner))](../../characters/classes/summoner-archetypes.md#devil-binder-unchained-summoner): specialist 1–8 common
+- [Life Bond](../../characters/classes/summoner.md#life-bond-su): specialist 9–15 common
+- [Life Link](../../characters/classes/summoner.md#life-link-su): specialist 1–8 weak
+- [Maker’s Call](../../characters/classes/summoner.md#makers-call-su): specialist 1–8 weak
+- [Maker’s Jump (Synthesist)](../../characters/classes/summoner-archetypes.md#synthesist): specialist 1–8 weak
+- [Merge Forms](../../characters/classes/summoner.md#merge-forms-su): specialist 16–20 common
+- [Mutate Eidolon (Evolutionist)](../../characters/classes/summoner-archetypes.md#evolutionist): specialist 1–8 weak
+- [Noble Eidolon (Shaitan Binder)](../../characters/classes/summoner-archetypes.md#shaitan-binder): specialist 16–20 common
+- [Overwhelming Presence (God Caller)](../../characters/classes/summoner-archetypes.md#god-caller): specialist 16–20 common
+- [Planar Tinkering (Construct Caller (Unchained Summoner))](../../characters/classes/summoner-archetypes.md#construct-caller-unchained-summoner): specialist 1–8 weak
+- [Rage Power (Blood God Disciple)](../../characters/classes/summoner-archetypes.md#blood-god-disciple): specialist 9–15 common
+- [Second Animal Focus (Naturalist)](../../characters/classes/summoner-archetypes.md#naturalist): specialist 9–15 common
+- [Shaitan Magic (Shaitan Binder)](../../characters/classes/summoner-archetypes.md#shaitan-binder): specialist 1–8 common
+- [Shared Focus (Naturalist)](../../characters/classes/summoner-archetypes.md#naturalist): specialist 9–15 common
+- [Shield Ally](../../characters/classes/summoner.md#shield-ally-ex): specialist 1–8 weak
+- [Shielded Meld (Synthesist)](../../characters/classes/summoner-archetypes.md#synthesist): specialist 1–8 weak
+- [Smite Chaos (Devil Binder (Unchained Summoner))](../../characters/classes/summoner-archetypes.md#devil-binder-unchained-summoner): specialist 1–8 weak
+- [Soulbound Life Link (Soulbound Summoner)](../../characters/classes/summoner-archetypes.md#soulbound-summoner): specialist 1–8 weak
+- [Spirit (Spirit Summoner)](../../characters/classes/summoner-archetypes.md#spirit-summoner): specialist 1–8 common
+- [Split Forms (Synthesist)](../../characters/classes/summoner-archetypes.md#synthesist): specialist 16–20 common
+- [Stone Curse (Shaitan Binder)](../../characters/classes/summoner-archetypes.md#shaitan-binder): specialist 16–20 common
+- [Storm’s Wings (Storm Caller)](../../characters/classes/summoner-archetypes.md#storm-caller): specialist 1–8 common
+- [Summon Arcana (Story Summoner)](../../characters/classes/summoner-archetypes.md#story-summoner): specialist 1–8 weak
+- [Summon Monster I](../../characters/classes/summoner.md#summon-monster-i-sp): specialist 1–8 op
+- [Summon Nature's Ally (First Worlder)](../../characters/classes/summoner-archetypes.md#first-worlder): specialist 1–8 op
+- [Summon Nature’s Ally (Leshy Caller)](../../characters/classes/summoner-archetypes.md#leshy-caller): specialist 1–8 op
+- [Summon Storm’s Fury (Storm Caller)](../../characters/classes/summoner-archetypes.md#storm-caller): specialist 1–8 common
+- [Summoning Mastery (Master Summoner)](../../characters/classes/summoner-archetypes.md#master-summoner): specialist 1–8 op
+- [Teamwork Feats (Twinned Summoner)](../../characters/classes/summoner-archetypes.md#twinned-summoner): specialist 1–8 common
+- [Third Animal Focus (Naturalist)](../../characters/classes/summoner-archetypes.md#naturalist): specialist 16–20 common
+- [Transmogrify (Evolutionist)](../../characters/classes/summoner-archetypes.md#evolutionist): specialist 9–15 common
+- [Twin Eidolon](../../characters/classes/summoner.md#twin-eidolon-su): specialist 16–20 common
+- [Twinned Transposition (Twinned Summoner)](../../characters/classes/summoner-archetypes.md#twinned-summoner): specialist 1–8 weak
+- [Weaken Summons (Counter-Summoner)](../../characters/classes/summoner-archetypes.md#counter-summoner): specialist 9–15 common

@@ -1,0 +1,182 @@
+# Paladin
+
+- [Alone in the Dark (Tortured Crusader)](../../characters/classes/paladin-archetypes.md#tortured-crusader): warrior 1–8 weak
+- [Anchoring Aura (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 1–8 weak
+- [Apostle of Peace (Tranquil Guardian)](../../characters/classes/paladin-archetypes.md#tranquil-guardian): warrior 16–20 op
+- [Armor of Law (Order Enforcer)](../../characters/classes/paladin-archetypes.md#order-enforcer): warrior 1–8 weak
+- [Aura Mastery (Martyr)](../../characters/classes/paladin-archetypes.md#martyr): warrior 1–8 common
+- [Aura of Care (Divine Hunter)](../../characters/classes/paladin-archetypes.md#divine-hunter): warrior 1–8 weak
+- [Aura of Chaos (Chaos Knight)](../../characters/classes/paladin-archetypes.md#chaos-knight): warrior 9–15 common
+- [Aura of Comfort (Wilderness Warden)](../../characters/classes/paladin-archetypes.md#wilderness-warden): warrior 1–8 weak
+- [Aura of courage](../../characters/classes/paladin.md#aura-of-courage-su): warrior 1–8 common
+- [Aura of Destruction (Construct Seeker)](../../characters/classes/paladin-archetypes.md#construct-seeker): warrior 9–15 op
+- [Aura of Destruction (Forge God’s Seeker (Paladin))](../../characters/classes/paladin-archetypes.md#forge-gods-seeker-paladin): warrior 9–15 op
+- [Aura of Elusion (Kraken Slayer)](../../characters/classes/paladin-archetypes.md#kraken-slayer): warrior 9–15 weak
+- [Aura of Excellence (Paladin of Perfection)](../../characters/classes/paladin-archetypes.md#paladin-of-perfection): warrior 1–8 common
+- [Aura of Faith](../../characters/classes/paladin.md#aura-of-faith-su): warrior 9–15 common
+- [Aura of Healing (Hospitaler)](../../characters/classes/paladin-archetypes.md#advanced-players-guide-archetypes): warrior 9–15 common
+- [Aura of Health (Martyr)](../../characters/classes/paladin-archetypes.md#martyr): warrior 1–8 common
+- [Aura of Justice](../../characters/classes/paladin.md#aura-of-justice-su): warrior 9–15 op
+- [Aura of Life (Undead Scourge)](../../characters/classes/paladin-archetypes.md#advanced-players-guide-archetypes): warrior 1–8 common
+- [Aura of Mercy (Redeemer)](../../characters/classes/paladin-archetypes.md#redeemer): warrior 9–15 op
+- [Aura of Order (Order Enforcer)](../../characters/classes/paladin-archetypes.md#order-enforcer): warrior 9–15 common
+- [Aura of Perfection (Paladin of Perfection)](../../characters/classes/paladin-archetypes.md#paladin-of-perfection): warrior 9–15 common
+- [Aura of Preservation (Forest Preserver)](../../characters/classes/paladin-archetypes.md#forest-preserver): warrior 9–15 weak
+- [Aura of Purity (Wilderness Warden)](../../characters/classes/paladin-archetypes.md#wilderness-warden): warrior 1–8 weak
+- [Aura of Resolve](../../characters/classes/paladin.md#aura-of-resolve-su): warrior 1–8 common
+- [Aura of Righteousness](../../characters/classes/paladin.md#aura-of-righteousness-su): warrior 16–20 common
+- [Aura of Subtlety (Gray Paladin)](../../characters/classes/paladin-archetypes.md#gray-paladin): warrior 9–15 weak
+- [Aura of Truth (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 9–15 common
+- [Aura of Unmaking (Construct Seeker)](../../characters/classes/paladin-archetypes.md#construct-seeker): warrior 9–15 common
+- [Aura of Unmaking (Forge God’s Seeker (Paladin))](../../characters/classes/paladin-archetypes.md#forge-gods-seeker-paladin): warrior 9–15 common
+- [Banishing Smite (Banishing Warden)](../../characters/classes/paladin-archetypes.md#banishing-warden): warrior 1–8 common
+- [Battlefield Presence (Holy Tactician)](../../characters/classes/paladin-archetypes.md#holy-tactician): warrior 1–8 weak
+- [Beauty Unyielding (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 1–8 common
+- [Bestow Hope (Invigorator)](../../characters/classes/paladin-archetypes.md#invigorator): warrior 1–8 common
+- [Blessing (Temple Champion)](../../characters/classes/paladin-archetypes.md#temple-champion): warrior 1–8 common
+- [Blessing of Prosperity (Knight of Coins)](../../characters/classes/paladin-archetypes.md#knight-of-coins): warrior 1–8 weak
+- [Blessings of Chaos (Chaos Knight)](../../characters/classes/paladin-archetypes.md#chaos-knight): warrior 1–8 common
+- [Bonded Eagle (Scion of the Avorals)](../../characters/classes/paladin-archetypes.md#scion-of-the-avorals): warrior 1–8 op
+- [Bravo's Holy Strike (Virtuous Bravo)](../../characters/classes/paladin-archetypes.md#virtuous-bravo): warrior 16–20 op
+- [Bravo's Smite (Virtuous Bravo)](../../characters/classes/paladin-archetypes.md#virtuous-bravo): warrior 1–8 weak
+- [Breath Evasion (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 1–8 weak
+- [Call Celestial Ally (Sacred Servant)](../../characters/classes/paladin-archetypes.md#advanced-players-guide-archetypes): warrior 1–8 common
+- [Careful Healer (Combat Healer Squire)](../../characters/classes/paladin-archetypes.md#combat-healer-squire): warrior 1–8 weak
+- [Cast into the Void (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 16–20 op
+- [Celestial Ally (Empyreal Knight)](../../characters/classes/paladin-archetypes.md#empyreal-knight): warrior 1–8 common
+- [Celestial Armor (Legate)](../../characters/classes/paladin-archetypes.md#legate): warrior 1–8 common
+- [Celestial Gift (Scion of the Avorals)](../../characters/classes/paladin-archetypes.md#scion-of-the-avorals): warrior 9–15 common
+- [Celestial Heart (Empyreal Knight)](../../characters/classes/paladin-archetypes.md#empyreal-knight): warrior 1–8 common
+- [Champion of Life (Invigorator)](../../characters/classes/paladin-archetypes.md#invigorator): warrior 16–20 common
+- [Champion of the People (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 16–20 op
+- [Champion of Unmaking (Construct Seeker)](../../characters/classes/paladin-archetypes.md#construct-seeker): warrior 16–20 op
+- [Champion's Bond (Faithful Wanderer)](../../characters/classes/paladin-archetypes.md#faithful-wanderer): warrior 1–8 common
+- [Channel Wrath (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 1–8 weak
+- [Charitable Hands (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 1–8 weak
+- [Charitable Mercy (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 1–8 weak
+- [Cleansing Flame (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 9–15 common
+- [Cloak of Shadow (Dusk Knight)](../../characters/classes/paladin-archetypes.md#dusk-knight): warrior 1–8 weak
+- [Cloak of the Crypt (Knight of the Sepulcher)](../../characters/classes/paladin-archetypes.md#knight-of-the-sepulcher): warrior 9–15 common
+- [Clouding Smite (Dusk Knight)](../../characters/classes/paladin-archetypes.md#dusk-knight): warrior 9–15 common
+- [Confident Defense (Paladin of Perfection)](../../characters/classes/paladin-archetypes.md#paladin-of-perfection): warrior 1–8 common
+- [Consensus (Scion of the Avorals)](../../characters/classes/paladin-archetypes.md#scion-of-the-avorals): warrior 1–8 common
+- [Courageous Defense (Divine Guardian)](../../characters/classes/paladin-archetypes.md#divine-guardian): warrior 1–8 weak
+- [Crypt Lord (Knight of the Sepulcher)](../../characters/classes/paladin-archetypes.md#knight-of-the-sepulcher): warrior 9–15 common
+- [Detect Evil](../../characters/classes/paladin.md#detect-evil-sp): warrior 1–8 weak
+- [Distant Mercy (Divine Hunter)](../../characters/classes/paladin-archetypes.md#divine-hunter): warrior 1–8 weak
+- [Divine Bond](../../characters/classes/paladin.md#divine-bond-sp): warrior 1–8 common
+- [Divine Emissary (Chosen One)](../../characters/classes/paladin-archetypes.md#chosen-one): warrior 1–8 common
+- [Divine Grace](../../characters/classes/paladin.md#divine-grace-su): warrior 1–8 common
+- [Divine Troth (Divine Guardian)](../../characters/classes/paladin-archetypes.md#divine-guardian): warrior 1–8 weak
+- [Divine Weapon Specialization (Tempered Champion)](../../characters/classes/paladin-archetypes.md#tempered-champion): warrior 1–8 op
+- [Dragon-Slaying Strike (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 16–20 op
+- [Drake Mount (Argent Champion)](../../characters/classes/paladin-archetypes.md#argent-champion): warrior 1–8 common
+- [Dress Wounds (Combat Healer Squire)](../../characters/classes/paladin-archetypes.md#combat-healer-squire): warrior 1–8 weak
+- [Egalitarian (Scion of the Avorals)](../../characters/classes/paladin-archetypes.md#scion-of-the-avorals): warrior 1–8 common
+- [Empyreal Champion (Empyreal Knight)](../../characters/classes/paladin-archetypes.md#empyreal-knight): warrior 16–20 op
+- [Enhanced Health (Gray Paladin)](../../characters/classes/paladin-archetypes.md#gray-paladin): warrior 1–8 common
+- [Entropic Touch (Chaos Knight)](../../characters/classes/paladin-archetypes.md#chaos-knight): warrior 1–8 common
+- [Exorcise Possession (Ghost Hunter)](../../characters/classes/paladin-archetypes.md#ghost-hunter): warrior 1–8 weak
+- [Eye for Forgeries (Knight of Coins)](../../characters/classes/paladin-archetypes.md#knight-of-coins): warrior 1–8 weak
+- [Fireproof Aura (Forest Preserver)](../../characters/classes/paladin-archetypes.md#forest-preserver): warrior 1–8 common
+- [First Into Battle (Sword of Valor)](../../characters/classes/paladin-archetypes.md#sword-of-valor): warrior 1–8 weak
+- [Flowing Stride (Champion of the Cascade)](../../characters/classes/paladin-archetypes.md#champion-of-the-cascade): warrior 1–8 weak
+- [Forge God’s Champion (Forge God’s Seeker (Paladin))](../../characters/classes/paladin-archetypes.md#forge-gods-seeker-paladin): warrior 16–20 op
+- [Fortitude of the Crypt (Knight of the Sepulcher)](../../characters/classes/paladin-archetypes.md#knight-of-the-sepulcher): warrior 1–8 weak
+- [Gang Up (Vindictive Bastard)](../../characters/classes/paladin-archetypes.md#vindictive-bastard): warrior 1–8 common
+- [Ghost Touch Aura (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 1–8 weak
+- [Ghostly Smite (Ghost Hunter)](../../characters/classes/paladin-archetypes.md#ghost-hunter): warrior 1–8 common
+- [Greater Reprieve (Soul Sentinel)](../../characters/classes/paladin-archetypes.md#soul-sentinel): warrior 9–15 common
+- [Guarding Hands (Divine Guardian)](../../characters/classes/paladin-archetypes.md#divine-guardian): warrior 1–8 weak
+- [Guide the Battle (Holy Tactician)](../../characters/classes/paladin-archetypes.md#holy-tactician): warrior 1–8 weak
+- [Have Gun (Holy Gun)](../../characters/classes/paladin-archetypes.md#holy-gun): warrior 1–8 weak
+- [Heartstone (Stonelord)](../../characters/classes/paladin-archetypes.md#stonelord): warrior 1–8 common
+- [Hidden Aura (Faithful Wanderer)](../../characters/classes/paladin-archetypes.md#faithful-wanderer): warrior 1–8 weak
+- [Holy Champion](../../characters/classes/paladin.md#holy-champion-su): warrior 16–20 op
+- [Holy Fount (Invigorator)](../../characters/classes/paladin-archetypes.md#invigorator): warrior 9–15 common
+- [Holy Grit (Holy Gun)](../../characters/classes/paladin-archetypes.md#holy-gun): warrior 9–15 common
+- [Holy Reach (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 1–8 weak
+- [Holy Shield (Sacred Shield)](../../characters/classes/paladin-archetypes.md#sacred-shield): warrior 1–8 common
+- [Holy Vessel (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 9–15 common
+- [Hordebreaker (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 9–15 common
+- [Hunt Evil (Hunting Paladin)](../../characters/classes/paladin-archetypes.md#hunting-paladin): warrior 1–8 weak
+- [Hunter’s Blessing (Divine Hunter)](../../characters/classes/paladin-archetypes.md#divine-hunter): warrior 9–15 common
+- [Illuminating Zeal (Dusk Knight)](../../characters/classes/paladin-archetypes.md#dusk-knight): warrior 1–8 weak
+- [Improved Bastion (Sacred Shield)](../../characters/classes/paladin-archetypes.md#sacred-shield): warrior 9–15 weak
+- [Knight’s Charge (Shining Knight)](../../characters/classes/paladin-archetypes.md#advanced-players-guide-archetypes): warrior 9–15 common
+- [Last Stand (Tortured Crusader)](../../characters/classes/paladin-archetypes.md#tortured-crusader): warrior 9–15 common
+- [Lay on hands](../../characters/classes/paladin.md#lay-on-hands-su): warrior 1–8 common
+- [Lay on Paws (Chosen One)](../../characters/classes/paladin-archetypes.md#chosen-one): warrior 1–8 common
+- [Locate Ally (Vindictive Bastard)](../../characters/classes/paladin-archetypes.md#vindictive-bastard): warrior 1–8 weak
+- [Loyal Oath (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 1–8 common
+- [Martyr’s Mercy (Martyr)](../../characters/classes/paladin-archetypes.md#martyr): warrior 1–8 common
+- [Masterful Presence (Holy Tactician)](../../characters/classes/paladin-archetypes.md#holy-tactician): warrior 16–20 common
+- [Merciful Smite (Redeemer)](../../characters/classes/paladin-archetypes.md#redeemer): warrior 1–8 common
+- [Mercy](../../characters/classes/paladin.md#mercy-su): warrior 1–8 common
+- [Mercy for the Lost (Further Paladin Oaths)](../../characters/classes/paladin-archetypes.md#further-paladin-oaths): warrior 9–15 weak
+- [Mind Arsenal (Mind Sword)](../../characters/classes/paladin-archetypes.md#mind-sword): warrior 1–8 weak
+- [Mobile Defense (Stonelord)](../../characters/classes/paladin-archetypes.md#stonelord): warrior 16–20 weak
+- [Natural Defense (Wilderness Warden)](../../characters/classes/paladin-archetypes.md#wilderness-warden): warrior 1–8 common
+- [Natural Shield (Wilderness Warden)](../../characters/classes/paladin-archetypes.md#wilderness-warden): warrior 9–15 common
+- [Order of Good (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 1–8 common
+- [Pact of Peace (Redeemer)](../../characters/classes/paladin-archetypes.md#redeemer): warrior 1–8 weak
+- [Perfect Bastion (Sacred Shield)](../../characters/classes/paladin-archetypes.md#sacred-shield): warrior 16–20 common
+- [Personal Trial (Paladin of Perfection)](../../characters/classes/paladin-archetypes.md#paladin-of-perfection): warrior 1–8 common
+- [Power of Faith (Warrior Of The Holy Light)](../../characters/classes/paladin-archetypes.md#advanced-players-guide-archetypes): warrior 1–8 common
+- [Powerful Justice (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 9–15 op
+- [Prayer of Valor (Sword of Valor)](../../characters/classes/paladin-archetypes.md#sword-of-valor): warrior 1–8 weak
+- [Pure of Body (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 1–8 weak
+- [Reprieve (Soul Sentinel)](../../characters/classes/paladin-archetypes.md#soul-sentinel): warrior 1–8 weak
+- [Restore True Beauty (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 9–15 common
+- [Righteous Hunter (Divine Hunter)](../../characters/classes/paladin-archetypes.md#divine-hunter): warrior 9–15 common
+- [Rising Tide (Champion of the Cascade)](../../characters/classes/paladin-archetypes.md#champion-of-the-cascade): warrior 1–8 weak
+- [Sacred Grove (Forest Preserver)](../../characters/classes/paladin-archetypes.md#forest-preserver): warrior 9–15 weak
+- [Sacred Soul (Soul Sentinel)](../../characters/classes/paladin-archetypes.md#soul-sentinel): warrior 9–15 common
+- [Second Chance (Tortured Crusader)](../../characters/classes/paladin-archetypes.md#tortured-crusader): warrior 1–8 common
+- [See No Evil, Hear No Evil (Martyr)](../../characters/classes/paladin-archetypes.md#martyr): warrior 1–8 common
+- [Serene Strike (Tranquil Guardian)](../../characters/classes/paladin-archetypes.md#tranquil-guardian): warrior 1–8 common
+- [Shadow Smite (Dusk Knight)](../../characters/classes/paladin-archetypes.md#dusk-knight): warrior 1–8 common
+- [Shadow's Embrace (Dusk Knight)](../../characters/classes/paladin-archetypes.md#dusk-knight): warrior 1–8 weak
+- [Shared Defense (Divine Defender)](../../characters/classes/paladin-archetypes.md#advanced-players-guide-archetypes): warrior 1–8 common
+- [Shared Precision (Divine Hunter)](../../characters/classes/paladin-archetypes.md#divine-hunter): warrior 1–8 weak
+- [Shining Light (Warrior Of The Holy Light)](../../characters/classes/paladin-archetypes.md#advanced-players-guide-archetypes): warrior 9–15 common
+- [Skilled Rider (Shining Knight)](../../characters/classes/paladin-archetypes.md#advanced-players-guide-archetypes): warrior 1–8 weak
+- [Smite Chaos (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 1–8 common
+- [Smite evil](../../characters/classes/paladin.md#smite-evil-su): warrior 1–8 common, specialist 1–8 common
+- [Smite Evil Hordes (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 1–8 common
+- [Smite Foe (Gray Paladin)](../../characters/classes/paladin-archetypes.md#gray-paladin): warrior 1–8 common
+- [Smiting Aura (Banishing Warden)](../../characters/classes/paladin-archetypes.md#banishing-warden): warrior 9–15 common
+- [Smiting Shot (Holy Gun)](../../characters/classes/paladin-archetypes.md#holy-gun): warrior 1–8 common
+- [Soul of the Crypt (Knight of the Sepulcher)](../../characters/classes/paladin-archetypes.md#knight-of-the-sepulcher): warrior 16–20 common
+- [Speak to the Restless (Ghost Hunter)](../../characters/classes/paladin-archetypes.md#ghost-hunter): warrior 9–15 weak
+- [Spiteful Tenacity (Vindictive Bastard)](../../characters/classes/paladin-archetypes.md#vindictive-bastard): warrior 1–8 weak
+- [Stalk Evil (Faithful Wanderer)](../../characters/classes/paladin-archetypes.md#faithful-wanderer): warrior 1–8 weak
+- [Stalwart (Vindictive Bastard)](../../characters/classes/paladin-archetypes.md#vindictive-bastard): warrior 9–15 common
+- [Stigmata (Martyr)](../../characters/classes/paladin-archetypes.md#martyr): warrior 1–8 common
+- [Stirring Monologue (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 1–8 op
+- [Stone Body (Stonelord)](../../characters/classes/paladin-archetypes.md#stonelord): warrior 16–20 op
+- [Stone Servant (Stonelord)](../../characters/classes/paladin-archetypes.md#stonelord): warrior 1–8 common
+- [Stoneblood (Stonelord)](../../characters/classes/paladin-archetypes.md#stonelord): warrior 1–8 weak
+- [Stonestrike (Stonelord)](../../characters/classes/paladin-archetypes.md#stonelord): warrior 1–8 common
+- [Superior Channeler (Oaths)](../../characters/classes/paladin-archetypes.md#oaths): warrior 9–15 common
+- [Swift Healer (Combat Healer Squire)](../../characters/classes/paladin-archetypes.md#combat-healer-squire): warrior 1–8 weak
+- [Swift Justice (Vindictive Bastard)](../../characters/classes/paladin-archetypes.md#vindictive-bastard): warrior 9–15 weak
+- [Swiftsurge (Champion of the Cascade)](../../characters/classes/paladin-archetypes.md#champion-of-the-cascade): warrior 1–8 weak
+- [Tactical Acumen (Holy Tactician)](../../characters/classes/paladin-archetypes.md#holy-tactician): warrior 1–8 common
+- [Teamwork Feat (Holy Guide)](../../characters/classes/paladin-archetypes.md#holy-guide): warrior 1–8 common
+- [Teamwork Feat (Vindictive Bastard)](../../characters/classes/paladin-archetypes.md#vindictive-bastard): warrior 1–8 common
+- [Tireless Aura (Hunting Paladin)](../../characters/classes/paladin-archetypes.md#hunting-paladin): warrior 1–8 weak
+- [Torment (Tortured Crusader)](../../characters/classes/paladin-archetypes.md#tortured-crusader): warrior 1–8 weak
+- [True Form (Chosen One)](../../characters/classes/paladin-archetypes.md#chosen-one): warrior 1–8 weak
+- [Ultimate Vindication (Vindictive Bastard)](../../characters/classes/paladin-archetypes.md#vindictive-bastard): warrior 16–20 common
+- [Undead Annihilation (Undead Scourge)](../../characters/classes/paladin-archetypes.md#advanced-players-guide-archetypes): warrior 9–15 common
+- [Undying Champion (Knight of the Sepulcher)](../../characters/classes/paladin-archetypes.md#knight-of-the-sepulcher): warrior 16–20 op
+- [Vindictive Smite (Vindictive Bastard)](../../characters/classes/paladin-archetypes.md#vindictive-bastard): warrior 1–8 common
+- [Voices of the Spheres (Empyreal Knight)](../../characters/classes/paladin-archetypes.md#empyreal-knight): warrior 1–8 weak
+- [Wanderer's Lore (Faithful Wanderer)](../../characters/classes/paladin-archetypes.md#faithful-wanderer): warrior 1–8 weak
+- [Waves of Peace (Tranquil Guardian)](../../characters/classes/paladin-archetypes.md#tranquil-guardian): warrior 9–15 weak
+- [Weal’s Champion (Holy Tactician)](../../characters/classes/paladin-archetypes.md#holy-tactician): warrior 1–8 op
+- [Weal’s Wrath (Holy Tactician)](../../characters/classes/paladin-archetypes.md#holy-tactician): warrior 9–15 op
+- [Weapons of Sin (Knight of the Sepulcher)](../../characters/classes/paladin-archetypes.md#knight-of-the-sepulcher): warrior 9–15 common
+- [Will of the Crypt (Knight of the Sepulcher)](../../characters/classes/paladin-archetypes.md#knight-of-the-sepulcher): warrior 9–15 common
+- [Worthy Enemy (Sword of Valor)](../../characters/classes/paladin-archetypes.md#sword-of-valor): warrior 9–15 common

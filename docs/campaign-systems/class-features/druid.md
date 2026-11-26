@@ -1,0 +1,127 @@
+# Druid
+
+- [A Thousand Faces](../../characters/classes/druid.md#a-thousand-faces-su): specialist 9–15 weak, caster 9–15 weak
+- [A Thousand Voices (Green Faith Initiate)](../../characters/classes/druid-archetypes.md#green-faith-initiate): specialist 9–15 weak, caster 9–15 weak
+- [Ancient Ways (Ancient Guardian)](../../characters/classes/druid-archetypes.md#ancient-guardian): specialist 1–8 weak, caster 1–8 weak
+- [Animal Speech (Fey-Court Adept)](../../characters/classes/druid-archetypes.md#fey-court-adept): specialist 1–8 weak, caster 1–8 weak
+- [Animal Spirit (Supernaturalist)](../../characters/classes/druid-archetypes.md#supernaturalist): specialist 1–8 weak, caster 1–8 weak
+- [Aspirant’s Bond (Naga Aspirant)](../../characters/classes/druid-archetypes.md#naga-aspirant): specialist 1–8 weak, caster 1–8 weak
+- [Augment Summoning (Undine Adept)](../../characters/classes/druid-archetypes.md#undine-adept): specialist 1–8 weak, caster 1–8 weak
+- [Augmented Form (Naga Aspirant)](../../characters/classes/druid-archetypes.md#naga-aspirant): specialist 9–15 common, caster 9–15 common
+- [Beast Family (Feral Child)](../../characters/classes/druid-archetypes.md#feral-child): specialist 1–8 weak, caster 1–8 weak
+- [Bend Bolt (Tempest Druid)](../../characters/classes/druid-archetypes.md#tempest-druid): specialist 9–15 common, caster 9–15 common
+- [Bonded Mask (Halcyon Druid)](../../characters/classes/druid-archetypes.md#halcyon-druid): specialist 1–8 weak, caster 1–8 weak
+- [Bonus Feat (Ape Shaman)](../../characters/classes/druid-archetypes.md#ape-shaman): specialist 9–15 common, caster 9–15 common
+- [Bonus Feat (Bat Shaman)](../../characters/classes/druid-archetypes.md#bat-shaman): specialist 9–15 common, caster 9–15 common
+- [Bonus Feat (Boar Shaman)](../../characters/classes/druid-archetypes.md#boar-shaman): specialist 9–15 common, caster 9–15 common
+- [Bonus Feat (Dragon Shaman)](../../characters/classes/druid-archetypes.md#dragon-shaman): specialist 9–15 common, caster 9–15 common
+- [Bonus Feat (Saurian Shaman)](../../characters/classes/druid-archetypes.md#saurian-shaman): specialist 9–15 common, caster 9–15 common
+- [Bonus Feat (Shark Shaman)](../../characters/classes/druid-archetypes.md#shark-shaman): specialist 9–15 common, caster 9–15 common
+- [Born to the Saddle (Sunrider)](../../characters/classes/druid-archetypes.md#sunrider): specialist 1–8 weak, caster 1–8 weak
+- [Cheat Death (Reincarnated Druid)](../../characters/classes/druid-archetypes.md#reincarnated-druid): specialist 9–15 common, caster 9–15 common
+- [Chosen Prey (Troll Fury)](../../characters/classes/druid-archetypes.md#troll-fury): specialist 1–8 common, caster 1–8 common
+- [Communal Aspect (Drovier)](../../characters/classes/druid-archetypes.md#drovier): specialist 1–8 common, caster 1–8 common
+- [Companion](../../characters/classes/druid.md#nature-bond-ex): specialist 1–8 op, caster 1–8 op
+- [Concerted Effort (Sunrider)](../../characters/classes/druid-archetypes.md#sunrider): specialist 1–8 common, caster 1–8 common
+- [Countercurrent (River Druid)](../../characters/classes/druid-archetypes.md#river-druid): specialist 1–8 weak, caster 1–8 weak
+- [Desert Born (Sunrider)](../../characters/classes/druid-archetypes.md#sunrider): specialist 1–8 weak, caster 1–8 weak
+- [Devolution (Devolutionist)](../../characters/classes/druid-archetypes.md#devolutionist): specialist 9–15 weak, caster 9–15 weak
+- [Dinosaur Shape (Dinosaur Druid)](../../characters/classes/druid-archetypes.md#dinosaur-druid): specialist 1–8 weak, caster 1–8 weak
+- [Dragon Bite (Dragon Shaman)](../../characters/classes/druid-archetypes.md#dragon-shaman): specialist 1–8 common, caster 1–8 common
+- [Drake Companion (Draconic Druid)](../../characters/classes/druid-archetypes.md#draconic-druid): specialist 1–8 op, caster 1–8 op
+- [Eldritch Botanist (Supernaturalist)](../../characters/classes/druid-archetypes.md#supernaturalist): specialist 1–8 weak, caster 1–8 weak
+- [Element of Surprise (Survivor)](../../characters/classes/druid-archetypes.md#survivor): specialist 1–8 weak, caster 1–8 weak
+- [Elemental Eidolons (Elemental Ally)](../../characters/classes/druid-archetypes.md#elemental-ally): specialist 1–8 op, caster 1–8 op
+- [Embody Mask (Halcyon Druid)](../../characters/classes/druid-archetypes.md#halcyon-druid): specialist 9–15 common, caster 9–15 common
+- [Empty Body (Menhir Savant)](../../characters/classes/druid-archetypes.md#menhir-savant): specialist 9–15 common, caster 9–15 common
+- [Enemy of Blight (Restorer)](../../characters/classes/druid-archetypes.md#restorer): specialist 1–8 weak, caster 1–8 weak
+- [Expert Poisoner (Toxicologist)](../../characters/classes/druid-archetypes.md#toxicologist): specialist 1–8 weak, caster 1–8 weak
+- [Eyes of the Storm (Storm Druid)](../../characters/classes/druid-archetypes.md#storm-druid): specialist 1–8 weak, caster 1–8 weak
+- [Fecund Familiar (Swarm Monger)](../../characters/classes/druid-archetypes.md#swarm-monger): specialist 1–8 common, caster 1–8 common
+- [Fey Shape (Progenitor)](../../characters/classes/druid-archetypes.md#progenitor): specialist 1–8 weak, caster 1–8 weak
+- [Fey Speech (Feyspeaker)](../../characters/classes/druid-archetypes.md#feyspeaker): specialist 1–8 weak, caster 1–8 weak
+- [Fey Stalker (Defender of the True World)](../../characters/classes/druid-archetypes.md#defender-of-the-true-world): specialist 1–8 common, caster 1–8 common
+- [Feybane (Defender of the True World)](../../characters/classes/druid-archetypes.md#defender-of-the-true-world): specialist 1–8 weak, caster 1–8 weak
+- [Flashmorph (Skinshaper)](../../characters/classes/druid-archetypes.md#skinshaper): specialist 9–15 weak, caster 9–15 weak
+- [Fungal Companion (Fungal Pilgrim)](../../characters/classes/druid-archetypes.md#fungal-pilgrim): specialist 1–8 common, caster 1–8 common
+- [Guide across Lifetimes (Restorer)](../../characters/classes/druid-archetypes.md#restorer): specialist 9–15 weak, caster 9–15 weak
+- [Healing Touch (Restorer)](../../characters/classes/druid-archetypes.md#restorer): specialist 1–8 weak, caster 1–8 weak
+- [In the Wind (Aerie Protector)](../../characters/classes/druid-archetypes.md#aerie-protector): specialist 9–15 weak, caster 9–15 weak
+- [Infused Summoning (Progenitor)](../../characters/classes/druid-archetypes.md#progenitor): specialist 1–8 common, caster 1–8 common
+- [Inspire Fervor (Troll Fury)](../../characters/classes/druid-archetypes.md#troll-fury): specialist 1–8 weak, caster 1–8 weak
+- [Launch Trap (Survivor)](../../characters/classes/druid-archetypes.md#survivor): specialist 9–15 common, caster 9–15 common
+- [Leshy Familiar (Leshy Warden)](../../characters/classes/druid-archetypes.md#leshy-warden): specialist 1–8 common, caster 1–8 common
+- [Leshy Summoner (Leshy Warden)](../../characters/classes/druid-archetypes.md#leshy-warden): specialist 1–8 weak, caster 1–8 weak
+- [Leshy Tender (Leshy Warden)](../../characters/classes/druid-archetypes.md#leshy-warden): specialist 1–8 weak, caster 1–8 weak
+- [Many Lives (Reincarnated Druid)](../../characters/classes/druid-archetypes.md#reincarnated-druid): specialist 1–8 common, caster 1–8 common
+- [Mediator’s Ear (Green Faith Initiate)](../../characters/classes/druid-archetypes.md#green-faith-initiate): specialist 1–8 weak, caster 1–8 weak
+- [Mounted Advantage (Sunrider)](../../characters/classes/druid-archetypes.md#sunrider): specialist 1–8 weak, caster 1–8 weak
+- [Mycological Transformation (Fungal Pilgrim)](../../characters/classes/druid-archetypes.md#fungal-pilgrim): specialist 9–15 common, caster 9–15 common
+- [Mysterious Stranger (Reincarnated Druid)](../../characters/classes/druid-archetypes.md#reincarnated-druid): specialist 1–8 weak, caster 1–8 weak
+- [Naga Shape (Naga Aspirant)](../../characters/classes/druid-archetypes.md#naga-aspirant): specialist 1–8 common, caster 1–8 common
+- [Native Call (Feral Child)](../../characters/classes/druid-archetypes.md#feral-child): specialist 9–15 weak, caster 9–15 weak
+- [Native Cunning (Feral Child)](../../characters/classes/druid-archetypes.md#feral-child): specialist 1–8 weak, caster 1–8 weak
+- [Natural Expertise (Wild Whisperer)](../../characters/classes/druid-archetypes.md#wild-whisperer): specialist 1–8 common, caster 1–8 common
+- [Natural Poison Lore (Toxicologist)](../../characters/classes/druid-archetypes.md#toxicologist): specialist 1–8 weak, caster 1–8 weak
+- [Nature sense](../../characters/classes/druid.md#nature-sense-ex): specialist 1–8 weak, caster 1–8 weak
+- [One with the Road (Road Keeper)](../../characters/classes/druid-archetypes.md#road-keeper): specialist 9–15 weak, caster 9–15 weak
+- [Paranormal Scholar (Supernaturalist)](../../characters/classes/druid-archetypes.md#supernaturalist): specialist 1–8 weak, caster 1–8 weak
+- [Path of Trees (World Walker)](../../characters/classes/druid-archetypes.md#world-walker): specialist 9–15 weak, caster 9–15 weak
+- [Path to Refuge (Green Faith Initiate)](../../characters/classes/druid-archetypes.md#green-faith-initiate): specialist 9–15 weak, caster 9–15 weak
+- [Place Magic (Menhir Savant)](../../characters/classes/druid-archetypes.md#menhir-savant): specialist 1–8 weak, caster 1–8 weak
+- [Planar Aspect (Planar Extremist)](../../characters/classes/druid-archetypes.md#planar-extremist): specialist 1–8 common, caster 1–8 common
+- [Planar Bond (Planar Extremist)](../../characters/classes/druid-archetypes.md#planar-extremist): specialist 1–8 common, caster 1–8 common
+- [Plant Bond (Treesinger)](../../characters/classes/druid-archetypes.md#treesinger): specialist 1–8 op, caster 1–8 op
+- [Plant Whisperer (Leshy Warden)](../../characters/classes/druid-archetypes.md#leshy-warden): specialist 9–15 weak, caster 9–15 weak
+- [Poison Affinity (Mantella)](../../characters/classes/druid-archetypes.md#mantella): specialist 1–8 weak, caster 1–8 weak
+- [Primal Bond (Progenitor)](../../characters/classes/druid-archetypes.md#progenitor): specialist 1–8 common, caster 1–8 common
+- [Primal Size (Goliath Druid)](../../characters/classes/druid-archetypes.md#goliath-druid): specialist 1–8 weak, caster 1–8 weak
+- [Read the Currents (River Druid)](../../characters/classes/druid-archetypes.md#river-druid): specialist 1–8 weak, caster 1–8 weak
+- [Resist Storm (Sky Druid)](../../characters/classes/druid-archetypes.md#sky-druid): specialist 1–8 weak, caster 1–8 weak
+- [Resist Water’s Call (Undine Adept)](../../characters/classes/druid-archetypes.md#undine-adept): specialist 1–8 weak, caster 1–8 weak
+- [Road Less Traveled (Road Keeper)](../../characters/classes/druid-archetypes.md#road-keeper): specialist 1–8 weak, caster 1–8 weak
+- [Scentless (Green Scourge)](../../characters/classes/druid-archetypes.md#green-scourge): specialist 1–8 weak, caster 1–8 weak
+- [Seasonal Spirits (Season Keeper)](../../characters/classes/druid-archetypes.md#season-keeper): specialist 1–8 common, caster 1–8 common
+- [Season’s Touch (Season Sage)](../../characters/classes/druid-archetypes.md#season-sage): specialist 1–8 common, caster 1–8 common
+- [Second Animal Focus (Feral Shifter)](../../characters/classes/druid-archetypes.md#feral-shifter): specialist 9–15 common, caster 9–15 common
+- [Secrets across Lifetimes (Green Faith Initiate)](../../characters/classes/druid-archetypes.md#green-faith-initiate): specialist 9–15 weak, caster 9–15 weak
+- [Shepherd of the Faithful (Nature Priest)](../../characters/classes/druid-archetypes.md#nature-priest): specialist 1–8 weak, caster 1–8 weak
+- [Skinshaping (Skinshaper)](../../characters/classes/druid-archetypes.md#skinshaper): specialist 1–8 common, caster 1–8 common
+- [Skymaster (Sky Druid)](../../characters/classes/druid-archetypes.md#sky-druid): specialist 1–8 weak, caster 1–8 weak
+- [Sky’s Embrace (Sky Druid)](../../characters/classes/druid-archetypes.md#sky-druid): specialist 1–8 weak, caster 1–8 weak
+- [Slayer Talent (Nature Fang)](../../characters/classes/druid-archetypes.md#nature-fang): specialist 1–8 op, caster 1–8 op
+- [Sneak Attack (1d6 at 4th level)](../../characters/classes/druid-archetypes.md#nature-fang): specialist 1–8 common, caster 1–8 common
+- [Soaring Form (Sky Druid)](../../characters/classes/druid-archetypes.md#sky-druid): specialist 9–15 weak, caster 9–15 weak
+- [Spirit Sense (Menhir Savant)](../../characters/classes/druid-archetypes.md#menhir-savant): specialist 1–8 weak, caster 1–8 weak
+- [Spore Spawning (Fungal Pilgrim)](../../characters/classes/druid-archetypes.md#fungal-pilgrim): specialist 1–8 common, caster 1–8 common
+- [Stored Life (Life Channeler)](../../characters/classes/druid-archetypes.md#life-channeler): specialist 9–15 weak, caster 9–15 weak
+- [Storm Lord (Storm Druid)](../../characters/classes/druid-archetypes.md#storm-druid): specialist 9–15 weak, caster 9–15 weak
+- [Stormvoice (Storm Druid)](../../characters/classes/druid-archetypes.md#storm-druid): specialist 1–8 weak, caster 1–8 weak
+- [Studied Target (Nature Fang)](../../characters/classes/druid-archetypes.md#nature-fang): specialist 1–8 common, caster 1–8 common
+- [Swarm Shape (Swarm Monger)](../../characters/classes/druid-archetypes.md#swarm-monger): specialist 9–15 common, caster 9–15 common
+- [Swarmcaller (Rot Warden)](../../characters/classes/druid-archetypes.md#rot-warden): specialist 1–8 weak, caster 1–8 weak
+- [Swift Studied Target (Nature Fang)](../../characters/classes/druid-archetypes.md#nature-fang): specialist 9–15 common, caster 9–15 common
+- [Take the High Road (Road Keeper)](../../characters/classes/druid-archetypes.md#road-keeper): specialist 1–8 weak, caster 1–8 weak
+- [Tempest Wild Shape (Tempest Tamer)](../../characters/classes/druid-archetypes.md#tempest-tamer): specialist 1–8 op, caster 1–8 op
+- [Timeless Body](../../characters/classes/druid.md#timeless-body-ex): warrior 16–20 weak
+- [Timeless Body (Druid)](../../characters/classes/druid.md#timeless-body-ex): caster 9–15 weak
+- [Timeless Body (Druid, Monk)](../../characters/classes/druid.md#timeless-body-ex): specialist 9–15 weak
+- [Totem Transformation (Ape Shaman)](../../characters/classes/druid-archetypes.md#ape-shaman): specialist 1–8 common, caster 1–8 common
+- [Totem Transformation (Bat Shaman)](../../characters/classes/druid-archetypes.md#bat-shaman): specialist 1–8 common, caster 1–8 common
+- [Totem Transformation (Boar Shaman)](../../characters/classes/druid-archetypes.md#boar-shaman): specialist 1–8 common, caster 1–8 common
+- [Totemic Summons (Ape Shaman)](../../characters/classes/druid-archetypes.md#ape-shaman): specialist 1–8 weak, caster 1–8 weak
+- [Toxic Diet (Mantella)](../../characters/classes/druid-archetypes.md#mantella): specialist 1–8 weak, caster 1–8 weak
+- [Toxic Shaper (Toxicologist)](../../characters/classes/druid-archetypes.md#toxicologist): specialist 1–8 weak, caster 1–8 weak
+- [Trackless step](../../characters/classes/druid.md#trackless-step-ex): warrior 1–8 weak, specialist 1–8 weak, caster 1–8 weak
+- [Trap (Survivor)](../../characters/classes/druid-archetypes.md#survivor): specialist 1–8 weak, caster 1–8 weak
+- [Trodden Path (Road Keeper)](../../characters/classes/druid-archetypes.md#road-keeper): specialist 1–8 weak, caster 1–8 weak
+- [Troll Fury's Mark (Troll Fury)](../../characters/classes/druid-archetypes.md#troll-fury): specialist 9–15 weak, caster 9–15 weak
+- [True Naga (Naga Aspirant)](../../characters/classes/druid-archetypes.md#naga-aspirant): specialist 16–20 common, caster 16–20 common
+- [Undo Artifice (Ancient Guardian)](../../characters/classes/druid-archetypes.md#ancient-guardian): specialist 9–15 weak, caster 9–15 weak
+- [Undomesticate (Devolutionist)](../../characters/classes/druid-archetypes.md#devolutionist): specialist 1–8 weak, caster 1–8 weak
+- [Urushiol Venom (Urushiol)](../../characters/classes/druid-archetypes.md#urushiol): specialist 1–8 common, caster 1–8 common
+- [Wicker Talismans (Life Channeler)](../../characters/classes/druid-archetypes.md#life-channeler): specialist 1–8 common, caster 1–8 common
+- [Wild Mischief (Feyspeaker)](../../characters/classes/druid-archetypes.md#feyspeaker): specialist 1–8 weak, caster 1–8 weak
+- [Wildshape](../../characters/classes/druid.md#wild-shape-su): specialist 1–8 iconic, caster 1–8 iconic
+- [Windwalker (Storm Druid)](../../characters/classes/druid-archetypes.md#storm-druid): specialist 1–8 weak, caster 1–8 weak
+- [Wolfsbane (Mooncaller)](../../characters/classes/druid-archetypes.md#mooncaller): specialist 9–15 weak, caster 9–15 weak

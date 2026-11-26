@@ -4,7 +4,8 @@
 // Force powers; jutsu and elements). A listed feature's level is worked out from its source: the class's feature table
 // (docs/tools/archetypes/*.json), the archetype ability, or the prestige class table (+3 levels, as the lists count
 // them); else the list's band.
-// Writes docs/tools/{starwars,chakra,superheroes}-builder-data.json. Run: node tools/build-starwars-builder.js (after build-archetypes.js)
+// The lists are the shared ones in docs/campaign-systems/class-features/ (tools/class-features.js reads them).
+// Writes docs/tools/{starwars,chakra,superheroes}-builder-data.json and docs/tools/class-feature-data.json (the Class Feature Search). Run: node tools/build-starwars-builder.js (after build-archetypes.js)
 'use strict';
 const fs = require('fs');
 const path = require('path');
@@ -15,6 +16,11 @@ const clean = s => s.replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/[*_]/g, ''
 const cells = line => line.split('|').slice(1, -1).map(c => clean(c));
 const norm = s => String(s).toLowerCase().replace(/’/g, "'").replace(/\((ex|su|sp)[^)]*\)/gi, '').replace(/[^a-z0-9]+/g, ' ').trim();
 const num = s => parseInt(String(s).replace(/[–—−]/g, '-'), 10) || 0;
+const fold = s => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[’']/g, '');
+// a link of a list (relative to the subsystem folder, or to the shared lists, which sit at the same depth) as a path from the site root
+const siteLink = (dir, href) => path.posix.normalize(path.posix.join(dir, href)).replace(/\.md(#|$)/, '/$1');
+const CF = require('./class-features');
+const SHARED = CF.load();
 function short(t, n) {
   if (t.length <= n) return t;
   const cut = t.slice(0, n), dot = cut.lastIndexOf('. ');
@@ -190,33 +196,27 @@ function progression(name, href) {
 function buildSub(sub) {
   const classes = readClasses(sub), D = sub.dir;
   // the class feature lists: [name, link, price, level, band low, text index, feat levels, progression]
-  const PRICE = { 'Iconic': 'iconic', 'Overpowered (OP)': 'op', 'Common': 'common', 'Weak': 'weak' };
+  // they come from the shared lists (docs/campaign-systems/class-features/) plus what each role page adds
   const lists = {}, texts = [], textIdx = {};
   let exact = 0, total = 0, withText = 0;
-  for (const c of classes) {
-    const text = read(D + 'class-features-' + c.s + '.md'), out = [];
-    let band = [1, 20];
-    for (const line of text.split('\n')) {
-      const b = line.match(/^## Levels (\d+)[–-](\d+)/);
-      if (b) { band = [+b[1], +b[2]]; continue; }
-      const p = line.match(/^\*\*(Iconic|Overpowered \(OP\)|Common|Weak):\*\* (.*)$/);
-      if (!p) continue;
-      for (const x of p[2].matchAll(/\[([^\]]+)\]\(([^)\s]+)(?: "[^"]*")?\)/g)) {
-        const lvl = featureLevel(x[1], x[2]);
-        total++; if (lvl) exact++;
-        // links become paths from the site root
-        const link = path.posix.normalize(path.posix.join(D, x[2])).replace(/\.md(#|$)/, '/$1');
-        const t = short(featureText(x[1], x[2]), 900);
-        let ti = -1;
-        if (t) { withText++; ti = textIdx[t] != null ? textIdx[t] : (textIdx[t] = texts.push(t) - 1); }
-        const at = lvl && lvl >= band[0] && lvl <= band[1] ? lvl : band[0], fl = featLevels(x[1], x[2], t, at);
-        const pg = progression(x[1], x[2]), row = [x[1], link, PRICE[p[1]], at, band[0], ti];
-        if (fl || pg) row.push(fl || null); if (pg) row.push(pg);
-        out.push(row);
-      }
+  classes.forEach((c, ci) => {
+    const out = [];
+    for (const { f, band, tier } of CF.forPage(SHARED, D, 'class-features-' + c.s + '.md', CF.ROLES[ci])) {
+      const lvl = featureLevel(f.name, f.href);
+      total++; if (lvl) exact++;
+      // links become paths from the site root
+      const link = siteLink(D, f.href);
+      const t = short(featureText(f.name, f.href), 900);
+      let ti = -1;
+      if (t) { withText++; ti = textIdx[t] != null ? textIdx[t] : (textIdx[t] = texts.push(t) - 1); }
+      const at = lvl && lvl >= band[0] && lvl <= band[1] ? lvl : band[0], fl = featLevels(f.name, f.href, t, at);
+      const pg = progression(f.name, f.href), row = [f.name, link, tier, at, band[0], ti];
+      if (fl || pg) row.push(fl || null); if (pg) row.push(pg);
+      out.push(row);
     }
+    out.sort((a, b) => a[4] - b[4] || CF.TIERS.indexOf(a[2]) - CF.TIERS.indexOf(b[2]) || fold(a[0]).localeCompare(fold(b[0])));
     lists[c.s] = out;
-  }
+  });
 
   // generic class features: "**Price:** Weak. **Level:** 2nd (Shinobi Specialist and Jutsu Master only)." or "Warrior 3, Consular 5"
   const nameRe = classes.map(c => c.n.replace(/ /g, '\\s+')).join('|');
@@ -289,3 +289,32 @@ function buildSub(sub) {
     generic.length, 'generic,', weapons.length, 'weapons,', forms.length, 'forms,', powers.length, 'powers,', elements.length, 'elements');
 }
 SUBS.forEach(buildSub);
+
+// ---- the Class Feature Search (docs/tools/class-feature-search.md): every listed feature once, with its places in the three lists
+function buildSearch() {
+  const NAMES = { 'star-wars': 'Star Wars', chakra: 'Chakra (Naruto)', superheroes: 'Superheroes' };
+  const systems = SUBS.map(sub => ({ id: sub.dir.split('/').filter(Boolean).pop(), dir: sub.dir, roles: sub.classes.map(c => c[0]), pages: sub.classes.map(c => sub.dir + 'class-features-' + c[1] + '/') }))
+    .map(s => Object.assign(s, { n: NAMES[s.id] || s.id }));
+  const kind = f => /^generic-class-features/.test(f.href) ? 'Generic' : /prestige-classes\//.test(f.href) ? 'Prestige class' : /-archetypes\.md/.test(f.href) ? 'Archetype' : 'Class';
+  const texts = [], textIdx = {}, features = [];
+  const entry = (f, dir, places, cls) => {
+    const generic = /^generic-class-features/.test(f.href);
+    const t = short(featureText(f.name, f.href), 600);
+    const lvl = featureLevel(f.name, f.href);
+    const e = { n: f.name, l: generic ? f.href.replace(/\.md(#|$)/, '/$1') : siteLink(dir, f.href), c: cls, k: kind(f),
+      p: places.map(p => [CF.ROLES.indexOf(p.role), p.band[0], p.band[1], p.tier, lvl && lvl >= p.band[0] && lvl <= p.band[1] ? lvl : p.band[0], p.system || ''] ) };
+    if (generic) e.g = 1;
+    if (t) e.t = textIdx[t] != null ? textIdx[t] : (textIdx[t] = texts.push(t) - 1);
+    if (f.note) e.x = clean(f.note);
+    features.push(e);
+  };
+  for (const f of SHARED) entry(f, CF.SOURCE, f.places, f.cls);
+  // features a single role page adds on its own
+  SUBS.forEach(sub => sub.classes.forEach((c, ci) => {
+    for (const { f } of CF.forPage([], sub.dir, 'class-features-' + c[1] + '.md', CF.ROLES[ci])) entry(f, sub.dir, f.places, systems.find(s => s.dir === sub.dir).n);
+  }));
+  features.sort((a, b) => fold(a.n).localeCompare(fold(b.n)) || a.l.localeCompare(b.l));
+  fs.writeFileSync(path.join(DOCS, 'tools', 'class-feature-data.json'), JSON.stringify({ systems, features, texts }));
+  console.log('class-feature-data.json:', features.length, 'features from', new Set(features.map(f => f.c)).size, 'classes,', texts.length, 'texts');
+}
+buildSearch();

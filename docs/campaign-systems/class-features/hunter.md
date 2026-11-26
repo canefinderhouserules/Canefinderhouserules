@@ -1,0 +1,65 @@
+# Hunter
+
+- [Additional Traps (Patient Ambusher)](../../characters/classes/hunter-archetypes.md#patient-ambusher): specialist 1–8 weak
+- [Alley Ghost (Roof Runner)](../../characters/classes/hunter-archetypes.md#roof-runner): specialist 1–8 weak
+- [Alternate Form (Courtly Hunter)](../../characters/classes/hunter-archetypes.md#courtly-hunter): specialist 1–8 weak
+- [Animal focus](../../characters/classes/hunter.md#animal-focus-su): warrior 1–8 common, specialist 1–8 common, caster 1–8 common
+- [Animal Insight (Urban Hunter)](../../characters/classes/hunter-archetypes.md#urban-hunter): specialist 1–8 weak
+- [Animal Shape (Chameleon Adept)](../../characters/classes/hunter-archetypes.md#chameleon-adept): specialist 1–8 weak
+- [Aquatic Action (Flood Flourisher)](../../characters/classes/hunter-archetypes.md#flood-flourisher): specialist 9–15 weak
+- [Backstabber (Colluding Scoundrel)](../../characters/classes/hunter-archetypes.md#colluding-scoundrel): specialist 1–8 common
+- [Bonus Feat (Forester)](../../characters/classes/hunter-archetypes.md#forester): specialist 1–8 weak
+- [Bonus Tricks](../../characters/classes/hunter.md#bonus-tricks-ex): specialist 1–8 weak
+- [Brachiation (Treestrider)](../../characters/classes/hunter-archetypes.md#treestrider): specialist 1–8 weak
+- [Captor (Urban Hunter)](../../characters/classes/hunter-archetypes.md#urban-hunter): specialist 1–8 weak
+- [Courtly Companion (Courtly Hunter)](../../characters/classes/hunter-archetypes.md#courtly-hunter): specialist 1–8 common
+- [Demon's End (Blight Scout)](../../characters/classes/hunter-archetypes.md#blight-scout): specialist 16–20 weak
+- [Domain (Divine Hunter)](../../characters/classes/hunter-archetypes.md#divine-hunter): specialist 1–8 common
+- [Fast Submerged Stealth (Flood Flourisher)](../../characters/classes/hunter-archetypes.md#flood-flourisher): specialist 9–15 weak
+- [Fast Swimmer (Flood Flourisher)](../../characters/classes/hunter-archetypes.md#flood-flourisher): specialist 16–20 weak
+- [Frightful Ferocity (Urban Hunter)](../../characters/classes/hunter-archetypes.md#urban-hunter): specialist 16–20 weak
+- [Greater Empathic Link](../../characters/classes/hunter.md#greater-empathic-link-su): specialist 9–15 weak
+- [Grounded (Feykiller)](../../characters/classes/hunter-archetypes.md#feykiller): specialist 16–20 weak
+- [Hunter Tactics](../../characters/classes/hunter.md#hunter-tactics-ex): specialist 1–8 common
+- [Improved Empathic Link](../../characters/classes/hunter.md#improved-empathic-link-su): warrior 1–8 weak, specialist 1–8 weak, caster 1–8 weak
+- [Improved Shifting Companion (Chameleon Adept)](../../characters/classes/hunter-archetypes.md#chameleon-adept): specialist 9–15 weak
+- [Iron Talons (Feykiller)](../../characters/classes/hunter-archetypes.md#feykiller): specialist 1–8 weak
+- [Lore of the Blight (Blight Scout)](../../characters/classes/hunter-archetypes.md#blight-scout): specialist 1–8 weak
+- [Master Backstabber (Colluding Scoundrel)](../../characters/classes/hunter-archetypes.md#colluding-scoundrel): specialist 16–20 common
+- [Master of the Pack (Packmaster)](../../characters/classes/hunter-archetypes.md#packmaster): specialist 16–20 common
+- [Nature Training](../../characters/classes/hunter.md#nature-training-ex): specialist 1–8 weak
+- [One with the Wild](../../characters/classes/hunter.md#one-with-the-wild-ex): specialist 16–20 common
+- [Otherworldly Companion (Divine Hunter)](../../characters/classes/hunter-archetypes.md#divine-hunter): specialist 1–8 common
+- [Pack Bond (Packmaster)](../../characters/classes/hunter-archetypes.md#packmaster): specialist 1–8 common
+- [Plant Companion (Plant Master)](../../characters/classes/hunter-archetypes.md#plant-master): specialist 1–8 op
+- [Plant Shield (Plant Master)](../../characters/classes/hunter-archetypes.md#plant-master): specialist 16–20 weak
+- [Precise Companion](../../characters/classes/hunter.md#precise-companion-ex): specialist 1–8 common
+- [Precise Summoned Animal (Feral Hunter)](../../characters/classes/hunter-archetypes.md#feral-hunter): specialist 1–8 common
+- [Primal Master (Primal Companion Hunter)](../../characters/classes/hunter-archetypes.md#primal-companion-hunter): specialist 16–20 common
+- [Primal Surge (Primal Companion Hunter)](../../characters/classes/hunter-archetypes.md#primal-companion-hunter): specialist 1–8 common
+- [Primal Transformation (Primal Companion Hunter)](../../characters/classes/hunter-archetypes.md#primal-companion-hunter): specialist 1–8 common
+- [Primeval Companion (Totem-Bonded)](../../characters/classes/hunter-archetypes.md#totem-bonded): specialist 1–8 common
+- [Raise Animal Companion](../../characters/classes/hunter.md#raise-animal-companion-sp): specialist 9–15 common
+- [Resist Nature's Lure (Feykiller)](../../characters/classes/hunter-archetypes.md#feykiller): specialist 1–8 weak
+- [Savage Diplomacy (Chameleon Adept)](../../characters/classes/hunter-archetypes.md#chameleon-adept): specialist 1–8 weak
+- [Scapegoat (Colluding Scoundrel)](../../characters/classes/hunter-archetypes.md#colluding-scoundrel): specialist 1–8 common
+- [Second Animal Focus](../../characters/classes/hunter.md#second-animal-focus-su): specialist 1–8 common, caster 1–8 common
+- [Shared Strength (Totem-Bonded)](../../characters/classes/hunter-archetypes.md#totem-bonded): specialist 1–8 common
+- [Shifting Companion (Chameleon Adept)](../../characters/classes/hunter-archetypes.md#chameleon-adept): specialist 1–8 weak
+- [Shingle Stride (Roof Runner)](../../characters/classes/hunter-archetypes.md#roof-runner): specialist 1–8 weak
+- [Skill Bond (Courtly Hunter)](../../characters/classes/hunter-archetypes.md#courtly-hunter): specialist 1–8 weak
+- [Snare Trap (Patient Ambusher)](../../characters/classes/hunter-archetypes.md#patient-ambusher): specialist 1–8 weak
+- [Speak with Master](../../characters/classes/hunter.md#speak-with-master-ex): specialist 9–15 weak
+- [Submerged Stealth (Flood Flourisher)](../../characters/classes/hunter-archetypes.md#flood-flourisher): specialist 1–8 weak
+- [Subtle Companion (Courtly Hunter)](../../characters/classes/hunter-archetypes.md#courtly-hunter): specialist 1–8 weak
+- [Sudden Strike (Flood Flourisher)](../../characters/classes/hunter-archetypes.md#flood-flourisher): specialist 9–15 common
+- [Summon Pack (Feral Hunter)](../../characters/classes/hunter-archetypes.md#feral-hunter): specialist 1–8 weak
+- [Swarm Stride (Verminous Hunter)](../../characters/classes/hunter-archetypes.md#verminous-hunter): specialist 1–8 weak
+- [Teamwork Feat (Hunter)](../../characters/classes/hunter.md#teamwork-feat): specialist 1–8 op
+- [Terrain Chameleon (Chameleon Adept)](../../characters/classes/hunter-archetypes.md#chameleon-adept): specialist 1–8 weak
+- [Tree Stride (Treestrider)](../../characters/classes/hunter-archetypes.md#treestrider): specialist 9–15 weak
+- [Twin Hunters (Flood Flourisher)](../../characters/classes/hunter-archetypes.md#flood-flourisher): specialist 1–8 weak
+- [Unnatural Stride (Blight Scout)](../../characters/classes/hunter-archetypes.md#blight-scout): specialist 9–15 weak
+- [Water Striker (Flood Flourisher)](../../characters/classes/hunter-archetypes.md#flood-flourisher): specialist 1–8 common
+- [Watery Stride (Flood Flourisher)](../../characters/classes/hunter-archetypes.md#flood-flourisher): specialist 1–8 weak
+- [Wild Shape (Feral Hunter)](../../characters/classes/hunter-archetypes.md#feral-hunter): specialist 1–8 op

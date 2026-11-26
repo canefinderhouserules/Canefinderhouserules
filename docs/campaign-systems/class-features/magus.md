@@ -1,0 +1,89 @@
+# Magus
+
+- [Arcane Augmentation (Ruin Defender)](../../characters/classes/magus-archetypes.md#ruin-defender): specialist 1–8 weak
+- [Arcane Movement (Spell Dancer)](../../characters/classes/magus-archetypes.md#spell-dancer): specialist 1–8 weak
+- [Arcane Pool](../../characters/classes/magus.md#arcane-pool-su): specialist 1–8 common
+- [Armor Mastery (Myrmidarch)](../../characters/classes/magus-archetypes.md#myrmidarch): specialist 16–20 common
+- [Black Blade (Bladebound)](../../characters/classes/magus-archetypes.md#bladebound): specialist 1–8 common
+- [Bloodline & Eldritch Pool (Eldritch Scion)](../../characters/classes/magus-archetypes.md#eldritch-scion): specialist 1–8 op
+- [Bonus Feat (Iron-Ring Striker)](../../characters/classes/magus-archetypes.md#iron-ring-striker): specialist 1–8 weak
+- [Bonus Feats (magus or wizard)](../../characters/classes/magus.md#bonus-feats): specialist 1–8 common
+- [Charmstrike (Puppetmaster)](../../characters/classes/magus-archetypes.md#puppetmaster): specialist 1–8 common
+- [Counter Curse (Hexbreaker)](../../characters/classes/magus-archetypes.md#hexbreaker): specialist 9–15 weak
+- [Counterstrike](../../characters/classes/magus.md#counterstrike-ex): specialist 16–20 common
+- [Critical Perfection (Kensai)](../../characters/classes/magus-archetypes.md#kensai): specialist 9–15 common
+- [Dance of Avoidance (Spell Dancer)](../../characters/classes/magus-archetypes.md#spell-dancer): specialist 1–8 common
+- [Deck Spellstrike (Card Caster)](../../characters/classes/magus-archetypes.md#card-caster): specialist 1–8 weak
+- [Despairing Strike (Sorrowblade)](../../characters/classes/magus-archetypes.md#sorrowblade): specialist 1–8 common
+- [Destructive Counterstrike (Soul Forger)](../../characters/classes/magus-archetypes.md#soul-forger): specialist 16–20 weak
+- [Distant Trapping (Spell Trapper)](../../characters/classes/magus-archetypes.md#spell-trapper): specialist 9–15 weak
+- [Dual Manifest (Mindblade)](../../characters/classes/magus-archetypes.md#mindblade): specialist 9–15 weak
+- [Dual Weapons (Mindblade)](../../characters/classes/magus-archetypes.md#mindblade): specialist 1–8 weak
+- [Elemental Matrix (Elemental Knight)](../../characters/classes/magus-archetypes.md#elemental-knight): specialist 1–8 weak
+- [Empower Combat (Iron-Ring Striker)](../../characters/classes/magus-archetypes.md#iron-ring-striker): specialist 1–8 common
+- [Empowered Arm (Golem-Arm Artificer)](../../characters/classes/magus-archetypes.md#golem-arm-artificer): specialist 1–8 common
+- [Expanded Arcane Pool (Armored Battlemage)](../../characters/classes/magus-archetypes.md#armored-battlemage): specialist 9–15 weak
+- [Familiar Pool (Beastblade)](../../characters/classes/magus-archetypes.md#beastblade): specialist 1–8 weak
+- [Familiar Spellstrike (Beastblade)](../../characters/classes/magus-archetypes.md#beastblade): specialist 9–15 weak
+- [Familiar Symbiosis (Nature-Bonded Magus)](../../characters/classes/magus-archetypes.md#nature-bonded-magus): specialist 1–8 common
+- [Fighter Training](../../characters/classes/magus.md#fighter-training-ex): specialist 9–15 weak
+- [First Magic Warrior’s Aspect (First Magic Warrior)](../../characters/classes/magus-archetypes.md#first-magic-warrior): specialist 1–8 weak
+- [Focusing Spellstrike (Eldritch Archer)](../../characters/classes/magus-archetypes.md#eldritch-archer): specialist 16–20 weak
+- [Force Athame (Spellblade)](../../characters/classes/magus-archetypes.md#spellblade): specialist 1–8 common
+- [Fortify Bond (Soul Forger)](../../characters/classes/magus-archetypes.md#soul-forger): specialist 1–8 weak
+- [Golem Arm (Golem-Arm Artificer)](../../characters/classes/magus-archetypes.md#golem-arm-artificer): specialist 1–8 common
+- [Greater Dance of Avoidance (Spell Dancer)](../../characters/classes/magus-archetypes.md#spell-dancer): specialist 9–15 common
+- [Greater Spell Access](../../characters/classes/magus.md#greater-spell-access-su): specialist 16–20 common
+- [Greater Spell Combat](../../characters/classes/magus.md#greater-spell-combat-ex): specialist 9–15 weak
+- [Greater Spellshield (Skirnir)](../../characters/classes/magus-archetypes.md#skirnir): specialist 16–20 weak
+- [Heavy Armor](../../characters/classes/magus.md#heavy-armor-ex): specialist 9–15 weak
+- [Hex Arcana (Hexcrafter)](../../characters/classes/magus-archetypes.md#hexcrafter): specialist 1–8 common
+- [Hex Magus (Hexcrafter)](../../characters/classes/magus-archetypes.md#hexcrafter): specialist 1–8 common
+- [Iaijutsu (Kensai)](../../characters/classes/magus-archetypes.md#kensai): specialist 1–8 weak
+- [Iaijutsu Focus (Kensai)](../../characters/classes/magus-archetypes.md#kensai): specialist 9–15 common
+- [Iaijutsu Master (Kensai)](../../characters/classes/magus-archetypes.md#kensai): specialist 16–20 common
+- [Improved Familiar Symbiosis (Nature-Bonded Magus)](../../characters/classes/magus-archetypes.md#nature-bonded-magus): specialist 9–15 common
+- [Improved Spell Combat](../../characters/classes/magus.md#improved-spell-combat-ex): specialist 1–8 weak
+- [Improved Spell Recall](../../characters/classes/magus.md#improved-spell-recall-su): specialist 9–15 common
+- [Improved Tattooed Spell (Esoteric)](../../characters/classes/magus-archetypes.md#esoteric): specialist 9–15 weak
+- [Inscribe Rune (Sigilus)](../../characters/classes/magus-archetypes.md#sigilus): specialist 1–8 common
+- [Inscribe Sevenfold Sigil (Sigilus)](../../characters/classes/magus-archetypes.md#sigilus): specialist 1–8 weak
+- [Instantaneous Reconstruction (Soul Forger)](../../characters/classes/magus-archetypes.md#soul-forger): specialist 16–20 weak
+- [Ki Arcana (Esoteric)](../../characters/classes/magus-archetypes.md#esoteric): specialist 1–8 weak
+- [Knowledge Pool](../../characters/classes/magus.md#knowledge-pool-su): specialist 1–8 weak
+- [Magus Arcana](../../characters/classes/magus.md#magus-arcana): specialist 1–8 common, caster 1–8 common
+- [Medium Armor](../../characters/classes/magus.md#medium-armor-ex): specialist 1–8 weak
+- [Miner's Focus (Deep Marshal)](../../characters/classes/magus-archetypes.md#deep-marshal): specialist 1–8 weak
+- [Nameless Anonymity (First Magic Warrior)](../../characters/classes/magus-archetypes.md#first-magic-warrior): specialist 1–8 weak
+- [Perfect Strike (Kensai)](../../characters/classes/magus-archetypes.md#kensai): specialist 1–8 common
+- [Plant Familiar (Nature-Bonded Magus)](../../characters/classes/magus-archetypes.md#nature-bonded-magus): specialist 1–8 common
+- [Psychic Pool (Mindblade)](../../characters/classes/magus-archetypes.md#mindblade): specialist 1–8 common
+- [Quarterstaff Defense (Staff Magus)](../../characters/classes/magus-archetypes.md#staff-magus): specialist 1–8 common
+- [Ranged Spellstrike (Eldritch Archer)](../../characters/classes/magus-archetypes.md#eldritch-archer): specialist 1–8 common
+- [Ranged Spellstrike (Myrmidarch)](../../characters/classes/magus-archetypes.md#myrmidarch): specialist 1–8 common
+- [Rapid Manifest (Mindblade)](../../characters/classes/magus-archetypes.md#mindblade): specialist 1–8 weak
+- [Reflexive Spell Maneuver (Iron-Ring Striker)](../../characters/classes/magus-archetypes.md#iron-ring-striker): specialist 16–20 weak
+- [Reforge (Soul Forger)](../../characters/classes/magus-archetypes.md#soul-forger): specialist 9–15 weak
+- [Repel Curse (Hexbreaker)](../../characters/classes/magus-archetypes.md#hexbreaker): specialist 1–8 weak
+- [Role Dealer (Card Caster)](../../characters/classes/magus-archetypes.md#card-caster): specialist 1–8 weak
+- [Scene Stealer (Puppetmaster)](../../characters/classes/magus-archetypes.md#puppetmaster): specialist 16–20 common
+- [Shield Pool (Skirnir)](../../characters/classes/magus-archetypes.md#skirnir): specialist 1–8 common
+- [Sorcerous Shield (Skirnir)](../../characters/classes/magus-archetypes.md#skirnir): specialist 1–8 weak
+- [Spell combat](../../characters/classes/magus.md#spell-combat-ex): specialist 1–8 iconic
+- [Spell Dance (Spell Dancer)](../../characters/classes/magus-archetypes.md#spell-dancer): specialist 1–8 common
+- [Spell Maneuvers (Iron-Ring Striker)](../../characters/classes/magus-archetypes.md#iron-ring-striker): specialist 1–8 weak
+- [Spell Recall](../../characters/classes/magus.md#spell-recall-su): specialist 1–8 weak
+- [Spell Traps (Spell Trapper)](../../characters/classes/magus-archetypes.md#spell-trapper): specialist 1–8 common
+- [Spellshield (Skirnir)](../../characters/classes/magus-archetypes.md#skirnir): specialist 1–8 weak
+- [Spellstrike](../../characters/classes/magus.md#spellstrike-su): specialist 1–8 common, caster 1–8 common
+- [Staff Weapon (Staff Magus)](../../characters/classes/magus-archetypes.md#staff-magus): specialist 9–15 common
+- [Superior Reflexes (Kensai)](../../characters/classes/magus-archetypes.md#kensai): specialist 9–15 common
+- [Tandem Touch (Beastblade)](../../characters/classes/magus-archetypes.md#beastblade): specialist 1–8 weak
+- [Tattooed Spell (Esoteric)](../../characters/classes/magus-archetypes.md#esoteric): specialist 1–8 common
+- [The Show Must Go On (Puppetmaster)](../../characters/classes/magus-archetypes.md#puppetmaster): specialist 1–8 common
+- [True Magus](../../characters/classes/magus.md#true-magus-su): specialist 16–20 op
+- [Unarmed Spellstrike (Esoteric)](../../characters/classes/magus-archetypes.md#esoteric): specialist 1–8 common
+- [Unarmed Spellstrike (Golem-Arm Artificer)](../../characters/classes/magus-archetypes.md#golem-arm-artificer): specialist 1–8 common
+- [Unarmed Spellstrike (Iron-Ring Striker)](../../characters/classes/magus-archetypes.md#iron-ring-striker): specialist 1–8 common
+- [Weapon Mastery (Kensai)](../../characters/classes/magus-archetypes.md#kensai): specialist 16–20 op
+- [Wretched Strike (Sorrowblade)](../../characters/classes/magus-archetypes.md#sorrowblade): specialist 9–15 common

@@ -1,0 +1,155 @@
+# Bard
+
+- [Advanced Talent (Archaeologist)](../../characters/classes/bard-archetypes.md#archaeologist): specialist 9–15 op
+- [Advanced Talents (Negotiator)](../../characters/classes/bard-archetypes.md#negotiator): specialist 9–15 common
+- [Amoral Scholar (Chronicler of Worlds)](../../characters/classes/bard-archetypes.md#chronicler-of-worlds): specialist 1–8 weak
+- [Angelic Grace (Occult Speaker)](../../characters/classes/bard-archetypes.md#occult-speaker): specialist 1–8 weak
+- [Animal Friend (Animal Speaker)](../../characters/classes/bard-archetypes.md#animal-speaker): specialist 1–8 weak
+- [Arcane Archery (Longbow Minstrel)](../../characters/classes/bard-archetypes.md#longbow-minstrel): specialist 1–8 common
+- [Arcane Armor (Arcane Duelist)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 9–15 weak
+- [Arcane Bond (Arcane Duelist)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 common
+- [Arcane Insight (Detective)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 weak
+- [Arcane Strike (Arcane Duelist)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 weak
+- [Archaeologist’s Luck (Archaeologist)](../../characters/classes/bard-archetypes.md#archaeologist): specialist 1–8 common
+- [Bardic Knowledge](../../characters/classes/bard.md#bardic-knowledge-ex): specialist 1–8 weak
+- [Bardic Performance](../../characters/classes/bard.md#bardic-performance): specialist 1–8 op
+- [Bardic Performance (Animal Speaker)](../../characters/classes/bard-archetypes.md#animal-speaker): specialist 1–8 common
+- [Bardic Performance (Arcane Duelist)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 common
+- [Bardic Performance (Archivist)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 common
+- [Bardic Performance (Buccaneer)](../../characters/classes/bard-archetypes.md#buccaneer): specialist 1–8 common
+- [Bardic Performance (Celebrity)](../../characters/classes/bard-archetypes.md#celebrity): specialist 1–8 common
+- [Bardic Performance (Court Bard)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 common
+- [Bardic Performance (Cultivator)](../../characters/classes/bard-archetypes.md#cultivator): specialist 1–8 common
+- [Bardic Performance (Demagogue)](../../characters/classes/bard-archetypes.md#demagogue): specialist 1–8 common
+- [Bardic Performance (Detective)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 common
+- [Bardic Performance (Dirge Bard)](../../characters/classes/bard-archetypes.md#dirge-bard): specialist 1–8 common
+- [Bardic Performance (Diva)](../../characters/classes/bard-archetypes.md#diva): specialist 1–8 common
+- [Bardic Performance (Fey Courtier)](../../characters/classes/bard-archetypes.md#fey-courtier): specialist 1–8 common
+- [Bardic Performance (Filidh)](../../characters/classes/bard-archetypes.md#filidh): specialist 1–8 common
+- [Bardic Performance (Flame Dancer)](../../characters/classes/bard-archetypes.md#flame-dancer): specialist 1–8 common
+- [Bardic Performance (Impervious Messenger)](../../characters/classes/bard-archetypes.md#impervious-messenger): specialist 1–8 common
+- [Bardic Performance (Magician)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 common
+- [Bardic Performance (Phrenologist)](../../characters/classes/bard-archetypes.md#phrenologist): specialist 1–8 common
+- [Bardic Performance (Ringleader)](../../characters/classes/bard-archetypes.md#ringleader): specialist 1–8 common
+- [Bardic Performance (Sandman)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 common
+- [Bardic Performance (Savage Skald)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 common
+- [Bardic Performance (Sea Singer)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 common
+- [Bardic Performance (Silver Balladeer)](../../characters/classes/bard-archetypes.md#silver-balladeer): specialist 1–8 common
+- [Bardic Performance (Songhealer)](../../characters/classes/bard-archetypes.md#songhealer): specialist 1–8 common
+- [Bardic Performance (Stonesinger)](../../characters/classes/bard-archetypes.md#stonesinger): specialist 1–8 common
+- [Bardic Performance (Street Performer)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 common
+- [Bardic Performance (Thundercaller)](../../characters/classes/bard-archetypes.md#thundercaller): specialist 1–8 common
+- [Battle Fury (Dervish Dancer)](../../characters/classes/bard-archetypes.md#dervish-dancer): specialist 16–20 common
+- [Blatant Subtlety (Brazen Deceiver)](../../characters/classes/bard-archetypes.md#brazen-deceiver): specialist 1–8 weak
+- [Bonus Feats (Arcane Duelist)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 common
+- [Bowsong Strike (Longbow Minstrel)](../../characters/classes/bard-archetypes.md#longbow-minstrel): specialist 1–8 common
+- [Busker Stunts (Busker)](../../characters/classes/bard-archetypes.md#busker): specialist 1–8 common
+- [Called Favor (Society Agent)](../../characters/classes/bard-archetypes.md#society-agent): specialist 1–8 weak
+- [Calumny (Provocateur)](../../characters/classes/bard-archetypes.md#provocateur): specialist 1–8 weak
+- [Canny Foe (Daredevil)](../../characters/classes/bard-archetypes.md#daredevil): specialist 1–8 weak
+- [Caper and Jeer (Court Fool)](../../characters/classes/bard-archetypes.md#court-fool): specialist 1–8 weak
+- [Channel Energy (Arcane Healer)](../../characters/classes/bard-archetypes.md#arcane-healer): specialist 1–8 common
+- [Combat Juggling (Juggler)](../../characters/classes/bard-archetypes.md#juggler): specialist 1–8 common
+- [Comparative Arcane Studies (Studious Librarian)](../../characters/classes/bard-archetypes.md#studious-librarian): specialist 1–8 common
+- [Corpse Speaker (Occult Speaker)](../../characters/classes/bard-archetypes.md#occult-speaker): specialist 1–8 weak
+- [Costume Proficiency (Diva)](../../characters/classes/bard-archetypes.md#diva): specialist 1–8 weak
+- [Countless Contingencies (Syndicate Ringleader)](../../characters/classes/bard-archetypes.md#syndicate-ringleader): specialist 1–8 weak
+- [Creative Treatment (Solacer)](../../characters/classes/bard-archetypes.md#solacer): specialist 1–8 weak
+- [Critical Research Focus (Studious Librarian)](../../characters/classes/bard-archetypes.md#studious-librarian): specialist 1–8 weak
+- [Cryptic Whisper (Impervious Messenger)](../../characters/classes/bard-archetypes.md#impervious-messenger): specialist 1–8 weak
+- [Cunning Plan (Syndicate Ringleader)](../../characters/classes/bard-archetypes.md#syndicate-ringleader): specialist 1–8 weak
+- [Curse Crafter (Hoaxer)](../../characters/classes/bard-archetypes.md#hoaxer): specialist 1–8 weak
+- [Cutting Remark (Wit)](../../characters/classes/bard-archetypes.md#wit): specialist 1–8 common
+- [Damning Performance (Provocateur)](../../characters/classes/bard-archetypes.md#provocateur): specialist 1–8 weak
+- [Dance of Fury (Dervish Dancer)](../../characters/classes/bard-archetypes.md#dervish-dancer): specialist 9–15 common
+- [Dauntless (Daredevil)](../../characters/classes/bard-archetypes.md#daredevil): specialist 1–8 weak
+- [Deceptive Tale (Brazen Deceiver)](../../characters/classes/bard-archetypes.md#brazen-deceiver): specialist 1–8 weak
+- [Dedicated Performance (Argent Voice)](../../characters/classes/bard-archetypes.md#argent-voice): specialist 1–8 weak
+- [Derring-do (Daredevil)](../../characters/classes/bard-archetypes.md#daredevil): specialist 1–8 common
+- [Devout Spell Knowledge (Faith Singer)](../../characters/classes/bard-archetypes.md#faith-singer): specialist 1–8 weak
+- [Dirty Trickster (Mischief Maker)](../../characters/classes/bard-archetypes.md#mischief-maker): specialist 1–8 weak
+- [Duel Master (Wit)](../../characters/classes/bard-archetypes.md#wit): specialist 9–15 weak
+- [Dwarven Training (Dwarven Scholar)](../../characters/classes/bard-archetypes.md#dwarven-scholar): specialist 1–8 common
+- [Earth Magic (Stonesinger)](../../characters/classes/bard-archetypes.md#stonesinger): specialist 1–8 weak
+- [Eldritch Caesura (Mute Musician)](../../characters/classes/bard-archetypes.md#mute-musician): specialist 9–15 weak
+- [Enrapturing Performance (Lotus Geisha)](../../characters/classes/bard-archetypes.md#lotus-geisha): specialist 1–8 common
+- [Exaggerated Pose (Masked Performer)](../../characters/classes/bard-archetypes.md#masked-performer): specialist 1–8 weak
+- [Expanded Repertoire (Magician)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 weak
+- [Extended Performance (Magician)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 weak
+- [Extol Glory (Dragon Herald)](../../characters/classes/bard-archetypes.md#dragon-herald): specialist 9–15 weak
+- [Familiar (Duettist)](../../characters/classes/bard-archetypes.md#duettist): specialist 1–8 common
+- [Familiar (Sea Singer)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 common
+- [Famous (Demagogue)](../../characters/classes/bard-archetypes.md#demagogue): specialist 1–8 weak
+- [Famous (Diva)](../../characters/classes/bard-archetypes.md#diva): specialist 1–8 weak
+- [Fast Reactions (Juggler)](../../characters/classes/bard-archetypes.md#juggler): specialist 1–8 common
+- [Fey Contacts (Fey Courtier)](../../characters/classes/bard-archetypes.md#fey-courtier): specialist 1–8 weak
+- [Fingers of Fascination (Phrenologist)](../../characters/classes/bard-archetypes.md#phrenologist): specialist 1–8 weak
+- [Fire Music (Flamesinger)](../../characters/classes/bard-archetypes.md#flamesinger): specialist 1–8 common
+- [Fleet (Dervish Dancer)](../../characters/classes/bard-archetypes.md#dervish-dancer): specialist 1–8 common
+- [Flexible Performer (Busker)](../../characters/classes/bard-archetypes.md#busker): specialist 1–8 weak
+- [Fortune-Teller's Acumen (Fortune-Teller)](../../characters/classes/bard-archetypes.md#fortune-teller): specialist 1–8 weak
+- [Gather Crowd (Demagogue)](../../characters/classes/bard-archetypes.md#demagogue): specialist 1–8 weak
+- [Gladhanding (Street Performer)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 weak
+- [Hilt Bash (Buccaneer)](../../characters/classes/bard-archetypes.md#buccaneer): specialist 1–8 weak
+- [Informed Persuasion (Society Agent)](../../characters/classes/bard-archetypes.md#society-agent): specialist 1–8 weak
+- [Inspire Tenacity (Solacer)](../../characters/classes/bard-archetypes.md#solacer): specialist 1–8 common
+- [Inspiring Healing (Arcane Healer)](../../characters/classes/bard-archetypes.md#arcane-healer): specialist 1–8 weak
+- [Invigorating Artistry (Solacer)](../../characters/classes/bard-archetypes.md#solacer): specialist 9–15 common
+- [Invoke Shadows (Brazen Deceiver)](../../characters/classes/bard-archetypes.md#brazen-deceiver): specialist 1–8 common
+- [Jack of all trades](../../characters/classes/bard.md#jack-of-all-trades-ex): specialist 9–15 weak
+- [Keen Ritualist (Occult Speaker)](../../characters/classes/bard-archetypes.md#occult-speaker): specialist 9–15 weak
+- [Knock Out (Buccaneer)](../../characters/classes/bard-archetypes.md#buccaneer): specialist 1–8 weak
+- [Leaf on the Wind (Dervish Dancer)](../../characters/classes/bard-archetypes.md#dervish-dancer): specialist 9–15 common
+- [Leshy Speaker (Plant Speaker)](../../characters/classes/bard-archetypes.md#plant-speaker): specialist 9–15 weak
+- [Lore master](../../characters/classes/bard.md#lore-master-ex): specialist 1–8 weak
+- [Luring Presentation (Luring Piper)](../../characters/classes/bard-archetypes.md#luring-piper): specialist 1–8 weak
+- [Lyric Sorrow (Sorrowsoul)](../../characters/classes/bard-archetypes.md#sorrowsoul): specialist 1–8 common
+- [Magic Lore (Archivist)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 weak
+- [Masked Talents (Masked Performer)](../../characters/classes/bard-archetypes.md#masked-performer): specialist 1–8 weak
+- [Meditative Whirl (Healing Dervish)](../../characters/classes/bard-archetypes.md#healing-dervish): specialist 1–8 weak
+- [Misery (Hoaxer)](../../characters/classes/bard-archetypes.md#hoaxer): specialist 1–8 common
+- [Multiplicity of Masks (Masked Performer)](../../characters/classes/bard-archetypes.md#masked-performer): specialist 16–20 weak
+- [Mystical Allegory (Plant Speaker)](../../characters/classes/bard-archetypes.md#plant-speaker): specialist 1–8 weak
+- [Nature Lore (Cultivator)](../../characters/classes/bard-archetypes.md#cultivator): specialist 1–8 weak
+- [Never Lose Face (Syndicate Ringleader)](../../characters/classes/bard-archetypes.md#syndicate-ringleader): specialist 1–8 weak
+- [On the Ball (Wit)](../../characters/classes/bard-archetypes.md#wit): specialist 1–8 weak
+- [One with the Library (Studious Librarian)](../../characters/classes/bard-archetypes.md#studious-librarian): specialist 16–20 weak
+- [Oracular Performance (Fortune-Teller)](../../characters/classes/bard-archetypes.md#fortune-teller): specialist 1–8 common
+- [Phrenological Knowledge (Phrenologist)](../../characters/classes/bard-archetypes.md#phrenologist): specialist 1–8 weak
+- [Phrenological Savant (Phrenologist)](../../characters/classes/bard-archetypes.md#phrenologist): specialist 9–15 weak
+- [Piper’s Attention (Luring Piper)](../../characters/classes/bard-archetypes.md#luring-piper): specialist 1–8 weak
+- [Plant Speech (Plant Speaker)](../../characters/classes/bard-archetypes.md#plant-speaker): specialist 1–8 weak
+- [Precise Minstrel (Longbow Minstrel)](../../characters/classes/bard-archetypes.md#longbow-minstrel): specialist 1–8 weak
+- [Prepared (Ringleader)](../../characters/classes/bard-archetypes.md#ringleader): specialist 1–8 weak
+- [Prima Donna (Diva)](../../characters/classes/bard-archetypes.md#diva): specialist 1–8 common
+- [Probable Path (Archivist)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 9–15 weak
+- [Provocateur (Provocateur)](../../characters/classes/bard-archetypes.md#provocateur): specialist 1–8 weak
+- [Quick Change (Street Performer)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 weak
+- [Quick Witted (Wit)](../../characters/classes/bard-archetypes.md#wit): specialist 1–8 weak
+- [Rain of Blows (Dervish Dancer)](../../characters/classes/bard-archetypes.md#dervish-dancer): specialist 1–8 op
+- [Razor’s Kiss (Dervish Dancer)](../../characters/classes/bard-archetypes.md#dervish-dancer): specialist 1–8 weak
+- [Resist Nature’s Lure (Cultivator)](../../characters/classes/bard-archetypes.md#cultivator): specialist 1–8 weak
+- [Resist Nature's Lure (Wild Minstrel)](../../characters/classes/bard-archetypes.md#wild-minstrel): specialist 1–8 weak
+- [Scoundrel’s Fortune (Daredevil)](../../characters/classes/bard-archetypes.md#daredevil): specialist 1–8 weak
+- [Scrivener's Versatility (Chronicler of Worlds)](../../characters/classes/bard-archetypes.md#chronicler-of-worlds): specialist 1–8 weak
+- [Seamless Guise (Masked Performer)](../../characters/classes/bard-archetypes.md#masked-performer): specialist 1–8 weak
+- [Secrets of the Grave (Dirge Bard)](../../characters/classes/bard-archetypes.md#dirge-bard): specialist 1–8 weak
+- [Silver Mastery (Silver Balladeer)](../../characters/classes/bard-archetypes.md#silver-balladeer): specialist 1–8 weak
+- [Sinister Mien (Syndicate Ringleader)](../../characters/classes/bard-archetypes.md#syndicate-ringleader): specialist 1–8 weak
+- [Sneak Attack (1d6 at 5th level, +1d6 every 5 levels)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 op
+- [Sneakspell (Sandman)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 weak
+- [Social Grace (Masked Performer)](../../characters/classes/bard-archetypes.md#masked-performer): specialist 1–8 weak
+- [Spell Catching (Sandman)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 16–20 common
+- [Spinning Spellcaster (Healing Dervish)](../../characters/classes/bard-archetypes.md#healing-dervish): specialist 1–8 weak
+- [Spurn Harm (Sorrowsoul)](../../characters/classes/bard-archetypes.md#sorrowsoul): specialist 1–8 common
+- [Stage Combat (Masked Performer)](../../characters/classes/bard-archetypes.md#masked-performer): specialist 1–8 weak
+- [Summon Fey Allies (Fey Courtier)](../../characters/classes/bard-archetypes.md#fey-courtier): specialist 1–8 weak
+- [Swap (Prankster)](../../characters/classes/bard-archetypes.md#prankster): specialist 1–8 weak
+- [Versatile Performance](../../characters/classes/bard.md#versatile-performance-ex): specialist 1–8 weak
+- [Versatile Teamwork (Unity Arbiter)](../../characters/classes/bard-archetypes.md#unity-arbiter): specialist 1–8 common
+- [Wand Mastery (Magician)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 9–15 weak
+- [Wasteland Specialist (Wasteland Chronicler)](../../characters/classes/bard-archetypes.md#wasteland-chronicler): specialist 1–8 weak
+- [Way with Words (Wit)](../../characters/classes/bard-archetypes.md#wit): specialist 1–8 weak
+- [Weird Words (Sound Striker)](../../characters/classes/bard-archetypes.md#sound-striker): specialist 1–8 common
+- [Well Versed](../../characters/classes/bard.md#well-versed-ex): specialist 1–8 weak
+- [Wide Audience (Court Bard)](../../characters/classes/bard-archetypes.md#advanced-players-guide-archetypes): specialist 1–8 common

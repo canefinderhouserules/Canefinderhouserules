@@ -1,0 +1,227 @@
+# Monk
+
+- [Abundant Step](../../characters/classes/monk.md#abundant-step-su): warrior 9–15 common, specialist 9–15 common
+- [AC bonus](../../characters/classes/monk.md#ac-bonus-ex): warrior 1–8 common, specialist 1–8 common
+- [Adamantine Monk (Monk of the Sacred Mountain)](../../characters/classes/monk-archetypes.md#monk-of-the-sacred-mountain): specialist 9–15 common
+- [Advice (Sensei)](../../characters/classes/monk-archetypes.md#sensei): specialist 1–8 op
+- [Ancient Healing Hand (Monk of the Healing Hand)](../../characters/classes/monk-archetypes.md#monk-of-the-healing-hand): specialist 1–8 weak
+- [Aspect Master (Monk of the Four Winds)](../../characters/classes/monk-archetypes.md#monk-of-the-four-winds): specialist 16–20 common
+- [Awaken Divinity (Wandering Ascetic (Dwarf))](../../characters/classes/monk-archetypes.md#wandering-ascetic-dwarf): specialist 1–8 common
+- [Balanced Mind (Karmic Monk)](../../characters/classes/monk-archetypes.md#karmic-monk): specialist 1–8 weak
+- [Bastion Stance (Monk of the Sacred Mountain)](../../characters/classes/monk-archetypes.md#monk-of-the-sacred-mountain): specialist 1–8 weak
+- [Black Asp’s Path (Black Asp)](../../characters/classes/monk-archetypes.md#black-asp): specialist 1–8 weak
+- [Body of Stone (Student of Stone)](../../characters/classes/monk-archetypes.md#student-of-stone): specialist 9–15 weak
+- [Bones of Stone (Student of Stone)](../../characters/classes/monk-archetypes.md#student-of-stone): specialist 1–8 common
+- [Bonus Feat (Monk)](../../characters/classes/monk.md#bonus-feat): specialist 1–8 op
+- [Born in Darkness (Gray Disciple)](../../characters/classes/monk-archetypes.md#gray-disciple): specialist 1–8 weak
+- [Branch Runner (Treetop Monk)](../../characters/classes/monk-archetypes.md#treetop-monk): specialist 1–8 weak
+- [Brawler Maneuver Training (Wildcat)](../../characters/classes/monk-archetypes.md#wildcat): specialist 1–8 weak
+- [Break Free (Tetori)](../../characters/classes/monk-archetypes.md#tetori): specialist 1–8 weak
+- [Burden with Sin (Sin Monk)](../../characters/classes/monk-archetypes.md#sin-monk): specialist 9–15 common
+- [Calming Strike (Soul Shepherd)](../../characters/classes/monk-archetypes.md#soul-shepherd): specialist 1–8 weak
+- [Chakra Adept (Serpent-Fire Adept)](../../characters/classes/monk-archetypes.md#serpent-fire-adept): specialist 1–8 weak
+- [Chakra Expertise (Serpent-Fire Adept)](../../characters/classes/monk-archetypes.md#serpent-fire-adept): specialist 1–8 weak
+- [Chakra Mastery (Serpent-Fire Adept)](../../characters/classes/monk-archetypes.md#serpent-fire-adept): specialist 9–15 weak
+- [Chakra Training (Serpent-Fire Adept)](../../characters/classes/monk-archetypes.md#serpent-fire-adept): specialist 1–8 weak
+- [Claws (Menhir Guardian)](../../characters/classes/monk-archetypes.md#menhir-guardian): specialist 1–8 common
+- [Confounding Koan (Brazen Disciple)](../../characters/classes/monk-archetypes.md#brazen-disciple): specialist 9–15 common
+- [Counter-Grapple (Tetori)](../../characters/classes/monk-archetypes.md#tetori): specialist 1–8 weak
+- [Counter-Throw (Lifting Hand)](../../characters/classes/monk-archetypes.md#lifting-hand): specialist 9–15 common
+- [Crucible of Pain (Hellcat)](../../characters/classes/monk-archetypes.md#hellcat): specialist 1–8 common
+- [Debilitating Blows (Monk of the Mantis)](../../characters/classes/monk-archetypes.md#monk-of-the-mantis): specialist 1–8 common
+- [Deceptive Ki (Sage Counselor)](../../characters/classes/monk-archetypes.md#sage-counselor): specialist 1–8 weak
+- [Defensive Aid (Nimble Guardian)](../../characters/classes/monk-archetypes.md#nimble-guardian): specialist 1–8 common
+- [Defensive Mastery (Nimble Guardian)](../../characters/classes/monk-archetypes.md#nimble-guardian): specialist 1–8 common
+- [Defensive Roll (Martial Artist)](../../characters/classes/monk-archetypes.md#martial-artist): specialist 9–15 common
+- [Dehydrating Strike (Wasteland Meditant)](../../characters/classes/monk-archetypes.md#wasteland-meditant): specialist 1–8 common
+- [Desert Strider (Wasteland Meditant)](../../characters/classes/monk-archetypes.md#wasteland-meditant): specialist 1–8 weak
+- [Devoted Guardian (Sohei)](../../characters/classes/monk-archetypes.md#sohei): specialist 1–8 common
+- [Diamond Soul](../../characters/classes/monk.md#diamond-soul-ex): specialist 9–15 common
+- [Diamond Spirit (Spirit Master)](../../characters/classes/monk-archetypes.md#spirit-master): specialist 1–8 weak
+- [Dirty Blow (Wildcat)](../../characters/classes/monk-archetypes.md#wildcat): specialist 16–20 common
+- [Draconic Breath (Scaled Fist)](../../characters/classes/monk-archetypes.md#scaled-fist): specialist 9–15 common
+- [Draconic Fury (Scaled Fist)](../../characters/classes/monk-archetypes.md#scaled-fist): specialist 1–8 common
+- [Drunken Courage (Drunken Master)](../../characters/classes/monk-archetypes.md#drunken-master): specialist 9–15 weak
+- [Drunken Ki (Drunken Master)](../../characters/classes/monk-archetypes.md#drunken-master): specialist 1–8 weak
+- [Drunken Resilience (Drunken Master)](../../characters/classes/monk-archetypes.md#drunken-master): specialist 9–15 common
+- [Drunken Strength (Drunken Master)](../../characters/classes/monk-archetypes.md#drunken-master): specialist 1–8 common
+- [Earth Glide (Gray Disciple)](../../characters/classes/monk-archetypes.md#gray-disciple): specialist 9–15 common
+- [Earthen Thrall (Gray Disciple)](../../characters/classes/monk-archetypes.md#gray-disciple): specialist 16–20 weak
+- [Eclipse Strike (Fate Warden)](../../characters/classes/monk-archetypes.md#fate-warden): specialist 9–15 common
+- [Elemental Fist (Monk of the Four Winds)](../../characters/classes/monk-archetypes.md#monk-of-the-four-winds): specialist 1–8 common
+- [Elemental Precision (Elemental Monk)](../../characters/classes/monk-archetypes.md#elemental-monk): specialist 9–15 common
+- [Elemental Strike (Elemental Monk)](../../characters/classes/monk-archetypes.md#elemental-monk): specialist 1–8 common
+- [Elusive Target (Flowing Monk)](../../characters/classes/monk-archetypes.md#flowing-monk): specialist 1–8 common
+- [Empty Body](../../characters/classes/monk.md#empty-body-su): specialist 16–20 common
+- [Entomb (Gray Disciple)](../../characters/classes/monk-archetypes.md#gray-disciple): specialist 9–15 common
+- [Exploit Weakness (Martial Artist)](../../characters/classes/monk-archetypes.md#martial-artist): warrior 1–8 common, specialist 1–8 common
+- [Eye of the Sun and Moon (Perfect Scholar)](../../characters/classes/monk-archetypes.md#perfect-scholar): specialist 16–20 weak
+- [Fade from Sight (Gray Disciple)](../../characters/classes/monk-archetypes.md#gray-disciple): specialist 1–8 common
+- [Far Traveler (Wanderer)](../../characters/classes/monk-archetypes.md#wanderer): specialist 1–8 weak
+- [Fast Thrower (Far Strike Monk)](../../characters/classes/monk-archetypes.md#far-strike-monk): specialist 1–8 weak
+- [Fate Weaver (Nornkith)](../../characters/classes/monk-archetypes.md#nornkith): specialist 9–15 common
+- [Feinting Flurry (Brazen Disciple)](../../characters/classes/monk-archetypes.md#brazen-disciple): specialist 1–8 common
+- [Feinting Flurry (Sage Counselor)](../../characters/classes/monk-archetypes.md#sage-counselor): specialist 1–8 weak
+- [Final Judgment (Soul Shepherd)](../../characters/classes/monk-archetypes.md#soul-shepherd): specialist 9–15 weak
+- [Firewater Breath (Drunken Master)](../../characters/classes/monk-archetypes.md#drunken-master): specialist 16–20 common
+- [Flowing Dodge (Flowing Monk)](../../characters/classes/monk-archetypes.md#flowing-monk): specialist 1–8 common
+- [Flurry](../../characters/classes/monk.md#flurry-of-blows-ex): specialist 1–8 op
+- [Flurry of Maneuvers (Maneuver Master)](../../characters/classes/monk-archetypes.md#maneuver-master): specialist 1–8 common
+- [Forewarned (Nornkith)](../../characters/classes/monk-archetypes.md#nornkith): specialist 1–8 common
+- [Form Lock (Tetori)](../../characters/classes/monk-archetypes.md#tetori): specialist 9–15 weak
+- [Free Step (Wanderer)](../../characters/classes/monk-archetypes.md#wanderer): specialist 9–15 common
+- [Fuse Style (Master of Many Styles)](../../characters/classes/monk-archetypes.md#master-of-many-styles): specialist 1–8 iconic
+- [Genie Apotheosis (Brazen Disciple)](../../characters/classes/monk-archetypes.md#brazen-disciple): specialist 16–20 common
+- [Genie Style (Elemental Monk)](../../characters/classes/monk-archetypes.md#elemental-monk): specialist 1–8 common
+- [Graceful Grappler (Tetori)](../../characters/classes/monk-archetypes.md#tetori): specialist 1–8 common
+- [Gray Heart (Gray Disciple)](../../characters/classes/monk-archetypes.md#gray-disciple): specialist 1–8 weak
+- [Greater Defensive Roll (Martial Artist)](../../characters/classes/monk-archetypes.md#martial-artist): specialist 16–20 common
+- [Guardian Feline (Nimble Guardian)](../../characters/classes/monk-archetypes.md#nimble-guardian): specialist 1–8 weak
+- [Hard as Stone (Student of Stone)](../../characters/classes/monk-archetypes.md#student-of-stone): specialist 1–8 weak
+- [Harmonic Self (Karmic Monk)](../../characters/classes/monk-archetypes.md#karmic-monk): specialist 16–20 common
+- [Harmony (Karmic Monk)](../../characters/classes/monk-archetypes.md#karmic-monk): specialist 9–15 weak
+- [Healing Ki (Disciple of Wholeness)](../../characters/classes/monk-archetypes.md#disciple-of-wholeness): specialist 1–8 common
+- [Hellcat Fury (Hellcat)](../../characters/classes/monk-archetypes.md#hellcat): specialist 1–8 common
+- [Hellcat Ki (Hellcat)](../../characters/classes/monk-archetypes.md#hellcat): specialist 1–8 common
+- [High Jump](../../characters/classes/monk.md#high-jump-ex): warrior 1–8 weak, specialist 1–8 weak
+- [Hone Soul (Disciple of Wholeness)](../../characters/classes/monk-archetypes.md#disciple-of-wholeness): specialist 9–15 common
+- [Hurricane Punch (Windstep Master)](../../characters/classes/monk-archetypes.md#windstep-master): specialist 1–8 common
+- [Immortality (Monk of the Four Winds)](../../characters/classes/monk-archetypes.md#monk-of-the-four-winds): specialist 16–20 weak
+- [Improved Evasion](../../characters/classes/monk.md#improved-evasion-ex): warrior 9–15 common, specialist 9–15 common
+- [Improved Underfoot Grace (Underfoot Adept)](../../characters/classes/monk-archetypes.md#underfoot-adept): specialist 1–8 weak
+- [Improved Vigor (Wasteland Meditant)](../../characters/classes/monk-archetypes.md#wasteland-meditant): specialist 9–15 common
+- [Improvised Weapon Mastery (Wildcat)](../../characters/classes/monk-archetypes.md#wildcat): specialist 1–8 weak
+- [Incapacitating Palm (Softstrike Monk)](../../characters/classes/monk-archetypes.md#softstrike-monk): specialist 9–15 common
+- [Inescapable Grasp (Tetori)](../../characters/classes/monk-archetypes.md#tetori): specialist 9–15 common
+- [Infernal Resilience (Barbed Fist Master)](../../characters/classes/monk-archetypes.md#barbed-fist-master): specialist 1–8 weak
+- [Inscrutable (Nornkith)](../../characters/classes/monk-archetypes.md#nornkith): specialist 16–20 common
+- [Inscrutable (Wanderer)](../../characters/classes/monk-archetypes.md#wanderer): specialist 1–8 weak
+- [Insightful Strike (Sensei)](../../characters/classes/monk-archetypes.md#sensei): specialist 1–8 common
+- [Investiture (Invested Regent)](../../characters/classes/monk-archetypes.md#invested-regent): specialist 1–8 common
+- [Invisible Blade (Far Strike Monk)](../../characters/classes/monk-archetypes.md#far-strike-monk): specialist 1–8 weak
+- [Iron Body (Tetori)](../../characters/classes/monk-archetypes.md#tetori): specialist 16–20 common
+- [Iron Limb Defense (Monk of the Sacred Mountain)](../../characters/classes/monk-archetypes.md#monk-of-the-sacred-mountain): specialist 1–8 common
+- [Iron Monk (Monk of the Sacred Mountain)](../../characters/classes/monk-archetypes.md#monk-of-the-sacred-mountain): specialist 1–8 weak
+- [Iron Skin (Ironskin Monk)](../../characters/classes/monk-archetypes.md#ironskin-monk): specialist 1–8 common
+- [Jinx Strike (Fate Warden)](../../characters/classes/monk-archetypes.md#fate-warden): specialist 1–8 common
+- [Joint Lock (Lifting Hand)](../../characters/classes/monk-archetypes.md#lifting-hand): specialist 9–15 weak
+- [Karmic Disruption (Karmic Monk)](../../characters/classes/monk-archetypes.md#karmic-monk): specialist 16–20 common
+- [Karmic Strike (Karmic Monk)](../../characters/classes/monk-archetypes.md#karmic-monk): specialist 1–8 common
+- [Ki Arrows (Zen Archer)](../../characters/classes/monk-archetypes.md#zen-archer): specialist 1–8 common
+- [Ki Focus Bow (Zen Archer)](../../characters/classes/monk-archetypes.md#zen-archer): specialist 16–20 weak
+- [Ki Missile (Far Strike Monk)](../../characters/classes/monk-archetypes.md#far-strike-monk): specialist 1–8 common
+- [Ki Mystic (Ki Mystic)](../../characters/classes/monk-archetypes.md#ki-mystic): specialist 1–8 common
+- [Ki Sacrifice (Monk of the Healing Hand)](../../characters/classes/monk-archetypes.md#monk-of-the-healing-hand): specialist 9–15 weak
+- [Ki Weapon (Sohei)](../../characters/classes/monk-archetypes.md#sohei): specialist 1–8 common
+- [Ki Weapons (Monk of the Empty Hand)](../../characters/classes/monk-archetypes.md#monk-of-the-empty-hand): specialist 1–8 common
+- [Know the Unseen Disciples (Wandering Ascetic (Dwarf))](../../characters/classes/monk-archetypes.md#wandering-ascetic-dwarf): specialist 1–8 weak
+- [Learn from Failure (Perfect Scholar)](../../characters/classes/monk-archetypes.md#perfect-scholar): specialist 1–8 common
+- [Learned Master (Monk of the Lotus)](../../characters/classes/monk-archetypes.md#monk-of-the-lotus): specialist 16–20 weak
+- [Life from a Stone (Hungry Ghost Monk)](../../characters/classes/monk-archetypes.md#hungry-ghost-monk): specialist 9–15 weak
+- [Life Funnel (Hungry Ghost Monk)](../../characters/classes/monk-archetypes.md#hungry-ghost-monk): specialist 1–8 weak
+- [Life-Giving Blows (Softstrike Monk)](../../characters/classes/monk-archetypes.md#softstrike-monk): specialist 1–8 weak
+- [Light Spirit (Serpent-Fire Adept)](../../characters/classes/monk-archetypes.md#serpent-fire-adept): specialist 1–8 common
+- [Light Step (Wanderer)](../../characters/classes/monk-archetypes.md#wanderer): specialist 1–8 weak
+- [Lightning Finish (Monk of the Desert Wind)](../../characters/classes/monk-archetypes.md#monk-of-the-desert-wind): specialist 1–8 common
+- [Linked Chakras (Serpent-Fire Adept)](../../characters/classes/monk-archetypes.md#serpent-fire-adept): specialist 1–8 common
+- [Long Walk (Wanderer)](../../characters/classes/monk-archetypes.md#wanderer): specialist 1–8 weak
+- [Lore (Perfect Scholar)](../../characters/classes/monk-archetypes.md#perfect-scholar): specialist 1–8 weak
+- [Maneuver Defense (Maneuver Master)](../../characters/classes/monk-archetypes.md#maneuver-master): specialist 1–8 weak
+- [Maneuver Training (Monk)](../../characters/classes/monk.md#maneuver-training-ex): specialist 1–8 weak
+- [Martial Arts Master (Martial Artist)](../../characters/classes/monk-archetypes.md#martial-artist): specialist 1–8 weak
+- [Meditative Maneuver (Maneuver Master)](../../characters/classes/monk-archetypes.md#maneuver-master): specialist 1–8 weak
+- [Metakinesis (Water Dancer)](../../characters/classes/monk-archetypes.md#water-dancer): specialist 9–15 common
+- [Monastic Mount (Sohei)](../../characters/classes/monk-archetypes.md#sohei): specialist 1–8 weak
+- [Mortifications (Scarred Monk)](../../characters/classes/monk-archetypes.md#scarred-monk): specialist 1–8 common
+- [Muting Stance (Fate Warden)](../../characters/classes/monk-archetypes.md#fate-warden): specialist 9–15 common
+- [Mystic Insight (Ki Mystic)](../../characters/classes/monk-archetypes.md#ki-mystic): specialist 1–8 common
+- [Mystic Persistence (Ki Mystic)](../../characters/classes/monk-archetypes.md#ki-mystic): specialist 16–20 common
+- [Mystic Prescience (Ki Mystic)](../../characters/classes/monk-archetypes.md#ki-mystic): specialist 9–15 common
+- [Mystic Visions (Ki Mystic)](../../characters/classes/monk-archetypes.md#ki-mystic): specialist 9–15 weak
+- [Mystic Wisdom (Sensei)](../../characters/classes/monk-archetypes.md#sensei): specialist 1–8 common
+- [Nereid’s Grace (Water Dancer)](../../characters/classes/monk-archetypes.md#water-dancer): specialist 1–8 common
+- [Nimble Reflexes (Nimble Guardian)](../../characters/classes/monk-archetypes.md#nimble-guardian): specialist 1–8 weak
+- [Nonlethal Strikes (Softstrike Monk)](../../characters/classes/monk-archetypes.md#softstrike-monk): specialist 1–8 common
+- [Norn Transformation (Nornkith)](../../characters/classes/monk-archetypes.md#nornkith): specialist 16–20 common
+- [Open Sky Stance (Fate Warden)](../../characters/classes/monk-archetypes.md#fate-warden): specialist 9–15 common
+- [Otherworldly Resilience (Soul Shepherd)](../../characters/classes/monk-archetypes.md#soul-shepherd): specialist 1–8 common
+- [Pain Points (Martial Artist)](../../characters/classes/monk-archetypes.md#martial-artist): specialist 1–8 weak
+- [Panache (Kata Master)](../../characters/classes/monk-archetypes.md#kata-master): specialist 1–8 op
+- [Perfect Self](../../characters/classes/monk.md#perfect-self): warrior 16–20 common, specialist 16–20 common
+- [Perfect Strike (Weapon Adept)](../../characters/classes/monk-archetypes.md#weapon-adept): specialist 1–8 common
+- [Perfect Strike (Zen Archer)](../../characters/classes/monk-archetypes.md#zen-archer): specialist 1–8 common
+- [Perfect Style (Master of Many Styles)](../../characters/classes/monk-archetypes.md#master-of-many-styles): specialist 16–20 common
+- [Petrifying Strike (Terra-Cotta Monk)](../../characters/classes/monk-archetypes.md#terra-cotta-monk): specialist 9–15 common
+- [Physical Resistance (Martial Artist)](../../characters/classes/monk-archetypes.md#martial-artist): specialist 1–8 common
+- [Pillar of Salt (Wasteland Meditant)](../../characters/classes/monk-archetypes.md#wasteland-meditant): specialist 9–15 common
+- [Pressuring Strikes (Monk of the Mantis)](../../characters/classes/monk-archetypes.md#monk-of-the-mantis): specialist 1–8 op
+- [Punishing Kick (Hungry Ghost Monk)](../../characters/classes/monk-archetypes.md#hungry-ghost-monk): specialist 1–8 common
+- [Pure Power (Weapon Adept)](../../characters/classes/monk-archetypes.md#weapon-adept): specialist 16–20 common
+- [Purifying Palm (Spirit Master)](../../characters/classes/monk-archetypes.md#spirit-master): specialist 9–15 common
+- [Quivering Palm](../../characters/classes/monk.md#quivering-palm-su): specialist 9–15 common
+- [Rainmaker (Terra-Cotta Monk)](../../characters/classes/monk-archetypes.md#terra-cotta-monk): specialist 16–20 weak
+- [Rebuking Strike (Menhir Guardian)](../../characters/classes/monk-archetypes.md#menhir-guardian): specialist 1–8 common
+- [Redirection (Flowing Monk)](../../characters/classes/monk-archetypes.md#flowing-monk): specialist 1–8 common
+- [Reflexive Shot (Zen Archer)](../../characters/classes/monk-archetypes.md#zen-archer): specialist 9–15 common
+- [Reliable Maneuver (Maneuver Master)](../../characters/classes/monk-archetypes.md#maneuver-master): specialist 1–8 common
+- [Resilience (Ironskin Monk)](../../characters/classes/monk-archetypes.md#ironskin-monk): specialist 1–8 common
+- [Resilient Body (Softstrike Monk)](../../characters/classes/monk-archetypes.md#softstrike-monk): specialist 16–20 common
+- [Savage Toss (Lifting Hand)](../../characters/classes/monk-archetypes.md#lifting-hand): specialist 1–8 weak
+- [Shears (Nornkith)](../../characters/classes/monk-archetypes.md#nornkith): specialist 1–8 common
+- [Simultaneous Sins (Sin Monk)](../../characters/classes/monk-archetypes.md#sin-monk): specialist 16–20 common
+- [Sinful Strike (Sin Monk)](../../characters/classes/monk-archetypes.md#sin-monk): specialist 1–8 common
+- [Sipping Demon (Hungry Ghost Monk)](../../characters/classes/monk-archetypes.md#hungry-ghost-monk): specialist 9–15 common
+- [Sirocco Fury (Monk of the Desert Wind)](../../characters/classes/monk-archetypes.md#monk-of-the-desert-wind): specialist 9–15 common
+- [Slow Fall](../../characters/classes/monk.md#slow-fall-ex): specialist 1–8 weak
+- [Slow Time (Monk of the Four Winds)](../../characters/classes/monk-archetypes.md#monk-of-the-four-winds): specialist 9–15 common
+- [Snip Thread (Nornkith)](../../characters/classes/monk-archetypes.md#nornkith): specialist 9–15 common
+- [Soul of Stone (Student of Stone)](../../characters/classes/monk-archetypes.md#student-of-stone): specialist 9–15 weak
+- [Spawn of Sin (Sin Monk)](../../characters/classes/monk-archetypes.md#sin-monk): specialist 16–20 common
+- [Spirit Burst (Spirit Master)](../../characters/classes/monk-archetypes.md#spirit-master): specialist 1–8 weak
+- [Spirit Combat (Spirit Master)](../../characters/classes/monk-archetypes.md#spirit-master): specialist 1–8 weak
+- [Spirit Flow (Spirit Master)](../../characters/classes/monk-archetypes.md#spirit-master): specialist 16–20 common
+- [Spirit Mastery (Spirit Master)](../../characters/classes/monk-archetypes.md#spirit-master): specialist 16–20 common
+- [Spirit Sense (Soul Shepherd)](../../characters/classes/monk-archetypes.md#soul-shepherd): specialist 9–15 weak
+- [Staggering Blow (Ironskin Monk)](../../characters/classes/monk-archetypes.md#ironskin-monk): specialist 1–8 weak
+- [Steal Ki (Hungry Ghost Monk)](../../characters/classes/monk-archetypes.md#hungry-ghost-monk): specialist 1–8 common
+- [Stone Grip (Terra-Cotta Monk)](../../characters/classes/monk-archetypes.md#terra-cotta-monk): specialist 1–8 weak
+- [Strength of Stone (Student of Stone)](../../characters/classes/monk-archetypes.md#student-of-stone): specialist 1–8 common
+- [Stunning Fist](../../characters/classes/monk.md#stunning-fist-ex): warrior 1–8 common, specialist 1–8 common
+- [Sudden Adit (Terra-Cotta Monk)](../../characters/classes/monk-archetypes.md#terra-cotta-monk): specialist 9–15 weak
+- [Sweeping Maneuver (Maneuver Master)](../../characters/classes/monk-archetypes.md#maneuver-master): specialist 9–15 common
+- [Swift Ki (Windstep Master)](../../characters/classes/monk-archetypes.md#windstep-master): specialist 1–8 weak
+- [Torture Training (Hellcat)](../../characters/classes/monk-archetypes.md#hellcat): specialist 1–8 weak
+- [Touch of Peace (Monk of the Lotus)](../../characters/classes/monk-archetypes.md#monk-of-the-lotus): specialist 9–15 common
+- [Touch of Serenity (Monk of the Lotus)](../../characters/classes/monk-archetypes.md#monk-of-the-lotus): warrior 1–8 common, specialist 1–8 common
+- [Touch of Surrender (Monk of the Lotus)](../../characters/classes/monk-archetypes.md#monk-of-the-lotus): specialist 9–15 common
+- [Tough as Nails (Ironskin Monk)](../../characters/classes/monk-archetypes.md#ironskin-monk): specialist 1–8 common
+- [Trap Intuition (Terra-Cotta Monk)](../../characters/classes/monk-archetypes.md#terra-cotta-monk): specialist 1–8 weak
+- [Trick Shot (Zen Archer)](../../characters/classes/monk-archetypes.md#zen-archer): specialist 9–15 common
+- [Trick Throw (Far Strike Monk)](../../characters/classes/monk-archetypes.md#far-strike-monk): specialist 9–15 common
+- [True Sacrifice (Monk of the Healing Hand)](../../characters/classes/monk-archetypes.md#monk-of-the-healing-hand): specialist 16–20 common
+- [Turn the Tables (Wildcat)](../../characters/classes/monk-archetypes.md#wildcat): specialist 9–15 common
+- [Unarmed Strike](../../characters/classes/monk.md#unarmed-strike): warrior 1–8 weak, specialist 1–8 weak
+- [Unbalancing Counter (Flowing Monk)](../../characters/classes/monk-archetypes.md#flowing-monk): specialist 1–8 weak
+- [Unbreakable (Ironskin Monk)](../../characters/classes/monk-archetypes.md#ironskin-monk): specialist 16–20 common
+- [Uncanny Initiative (Weapon Adept)](../../characters/classes/monk-archetypes.md#weapon-adept): specialist 16–20 weak
+- [Underfoot Grace (Underfoot Adept)](../../characters/classes/monk-archetypes.md#underfoot-adept): specialist 1–8 weak
+- [Underfoot Trip (Underfoot Adept)](../../characters/classes/monk-archetypes.md#underfoot-adept): specialist 1–8 common
+- [Versatile Improvisation (Monk of the Empty Hand)](../../characters/classes/monk-archetypes.md#monk-of-the-empty-hand): specialist 1–8 common
+- [Vested Power (Invested Regent)](../../characters/classes/monk-archetypes.md#invested-regent): specialist 1–8 common
+- [Vigor (Wasteland Meditant)](../../characters/classes/monk-archetypes.md#wasteland-meditant): specialist 1–8 common
+- [Volley Spell (Flowing Monk)](../../characters/classes/monk-archetypes.md#flowing-monk): specialist 9–15 common
+- [Vow of Silence (Monk of the Sacred Mountain)](../../characters/classes/monk-archetypes.md#monk-of-the-sacred-mountain): specialist 16–20 common
+- [Walk with the Master (Perfect Scholar)](../../characters/classes/monk-archetypes.md#perfect-scholar): specialist 16–20 common
+- [Wanderer’s Wisdom (Wanderer)](../../characters/classes/monk-archetypes.md#wanderer): specialist 1–8 weak
+- [Water Dance (Water Dancer)](../../characters/classes/monk-archetypes.md#water-dancer): specialist 1–8 weak
+- [Water Stride (Water Dancer)](../../characters/classes/monk-archetypes.md#water-dancer): specialist 9–15 common
+- [Way of the Bow (Zen Archer)](../../characters/classes/monk-archetypes.md#zen-archer): specialist 1–8 common
+- [Way of the Weapon Master (Weapon Adept)](../../characters/classes/monk-archetypes.md#weapon-adept): specialist 1–8 common
+- [Well of Sin (Sin Monk)](../../characters/classes/monk-archetypes.md#sin-monk): specialist 1–8 common
+- [Whirlwind Maneuver (Maneuver Master)](../../characters/classes/monk-archetypes.md#maneuver-master): specialist 9–15 common
+- [Wholeness of Body](../../characters/classes/monk.md#wholeness-of-body-su): specialist 1–8 weak
+- [Wholeness of Body and Spirit (Softstrike Monk)](../../characters/classes/monk-archetypes.md#softstrike-monk): specialist 1–8 common
+- [Wild Flurry (Menhir Guardian)](../../characters/classes/monk-archetypes.md#menhir-guardian): specialist 1–8 op
+- [Wind Step (Windstep Master)](../../characters/classes/monk-archetypes.md#windstep-master): specialist 1–8 weak
+- [Wood Affinity (Treetop Monk)](../../characters/classes/monk-archetypes.md#treetop-monk): specialist 1–8 weak
+- [Zen Archery (Zen Archer)](../../characters/classes/monk-archetypes.md#zen-archer): specialist 1–8 common

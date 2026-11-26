@@ -1,0 +1,31 @@
+# Psychic
+
+- [Aura of Insanity (Psychic Marauder)](../../characters/classes/psychic-archetypes.md#psychic-marauder): caster 1–8 common
+- [Aura of Intimidation (Terror Weaver)](../../characters/classes/psychic-archetypes.md#terror-weaver): caster 9–15 weak
+- [Blurred Body (Formless Adept)](../../characters/classes/psychic-archetypes.md#formless-adept): caster 1–8 common
+- [Detect Thoughts](../../characters/classes/psychic.md#detect-thoughts-sp): caster 1–8 weak
+- [Expert Manifester (Psychic Duelist)](../../characters/classes/psychic-archetypes.md#psychic-duelist): caster 16–20 common
+- [Formless Master (Formless Adept)](../../characters/classes/psychic-archetypes.md#formless-adept): caster 16–20 common
+- [Formless Spell (Formless Adept)](../../characters/classes/psychic-archetypes.md#formless-adept): caster 1–8 weak
+- [Gaseous Body (Formless Adept)](../../characters/classes/psychic-archetypes.md#formless-adept): caster 1–8 weak
+- [Incorporeal Body (Formless Adept)](../../characters/classes/psychic-archetypes.md#formless-adept): caster 9–15 common
+- [Major Amplifications](../../characters/classes/psychic.md#major-amplifications): caster 9–15 common
+- [Manipulation (Terror Weaver)](../../characters/classes/psychic-archetypes.md#terror-weaver): caster 1–8 weak
+- [Nature's Command (Primal Telepath)](../../characters/classes/psychic-archetypes.md#primal-telepath): caster 1–8 weak
+- [Persistent Nightmare (Terror Weaver)](../../characters/classes/psychic-archetypes.md#terror-weaver): caster 9–15 common
+- [Phrenic Amplifications](../../characters/classes/psychic.md#phrenic-amplifications): caster 1–8 common
+- [Phrenic Empowerment (Mutation Mind)](../../characters/classes/psychic-archetypes.md#mutation-mind): caster 1–8 common
+- [Phrenic Pool](../../characters/classes/psychic.md#phrenic-pool-su): caster 1–8 common
+- [Physical Mutation (Mutation Mind)](../../characters/classes/psychic-archetypes.md#mutation-mind): caster 1–8 common
+- [Psychic Discipline](../../characters/classes/psychic.md#psychic-discipline-ex-or-sp): caster 1–8 common
+- [Psychic Duel Acumen (Psychic Duelist)](../../characters/classes/psychic-archetypes.md#psychic-duelist): caster 1–8 common
+- [Psychic Possession (Formless Adept)](../../characters/classes/psychic-archetypes.md#formless-adept): caster 9–15 common
+- [Reciprocal Defense (Psychic Duelist)](../../characters/classes/psychic-archetypes.md#psychic-duelist): caster 1–8 common
+- [Remade Self](../../characters/classes/psychic.md#remade-self-sp): caster 16–20 common
+- [Skewed Mentality (Psychic Marauder)](../../characters/classes/psychic-archetypes.md#psychic-marauder): caster 1–8 weak
+- [Spiritual Combat (Psychic Duelist)](../../characters/classes/psychic-archetypes.md#psychic-duelist): caster 1–8 common
+- [Telepathic Bond](../../characters/classes/psychic.md#telepathic-bond-sp): caster 9–15 weak
+- [Telepathy](../../characters/classes/psychic.md#telepathy-su): caster 16–20 weak
+- [Thought Made Real (Psychic Duelist)](../../characters/classes/psychic-archetypes.md#psychic-duelist): caster 9–15 common
+- [Unreal Understanding (Psychic Marauder)](../../characters/classes/psychic-archetypes.md#psychic-marauder): caster 16–20 common
+- [Written in the Stars (Starseeker)](../../characters/classes/psychic-archetypes.md#starseeker): caster 1–8 common

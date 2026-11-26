@@ -1,0 +1,62 @@
+# Legendary Alchemist
+
+- [Adamant Horrors (Alienist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#alienist): specialist 9–15 common
+- [Aerial Rips (Void Demolitionist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#void-demolitionist): specialist 1–8 weak
+- [Alchemical Dilettante (Urban Adept)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#urban-adept): specialist 1–8 weak
+- [Alchemical Distillery (Gourmand)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#gourmand): specialist 1–8 weak
+- [Alchemical Necromancy (Reanimator)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#reanimator): specialist 1–8 weak
+- [Alchemical Snacks (Gourmand)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#gourmand): specialist 9–15 weak
+- [Anomalous Companion (Teratogenic Beastmaster)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#teratogenic-beastmaster): specialist 16–20 common
+- [Archaic Breakthrough (Archaic Philosopher)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#archaic-philosopher): specialist 1–8 common
+- [Bestial Transformation (Beastborn Shifter)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#beastborn-shifter): specialist 1–8 op
+- [Bomb-Proof Companion (Teratogenic Beastmaster)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#teratogenic-beastmaster): specialist 1–8 weak
+- [Bound Elemental (Archaic Philosopher)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#archaic-philosopher): specialist 1–8 op
+- [Chemist’s Trigger (Black Powder Researcher)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#black-powder-researcher): specialist 1–8 weak
+- [Construct Defense (Promethean Disciple)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#promethean-disciple): specialist 9–15 common
+- [Culinary Alchemy (Gourmand)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#gourmand): specialist 1–8 weak
+- [Culinary Defense (Gourmand)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#gourmand): specialist 9–15 weak
+- [Dimensional Charges (Void Demolitionist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#void-demolitionist): specialist 1–8 common
+- [Dimensional Stability (Alienist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#alienist): specialist 1–8 weak
+- [Diverse Training (Subtle Alchemist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#subtle-alchemist): specialist 1–8 weak
+- [Educated Fist (Martial Analyst)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#martial-analyst): specialist 1–8 common
+- [Efficient Construction (Red-Headed Merchant)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#red-headed-merchant): specialist 1–8 weak
+- [Elemental Bombs (Ruin Elementalist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#ruin-elementalist): specialist 1–8 common
+- [Elemental Resistance (Archaic Philosopher)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#archaic-philosopher): specialist 9–15 common
+- [Erudite Defense (Martial Analyst)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#martial-analyst): specialist 1–8 common
+- [Extended Mutagen (Teratogenic Beastmaster)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#teratogenic-beastmaster): specialist 9–15 common
+- [Extra Element (Ruin Elementalist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#ruin-elementalist): specialist 9–15 weak
+- [Godless Research (Alienist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#alienist): specialist 1–8 common
+- [Gourmet Meal (Gourmand)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#gourmand): specialist 1–8 common
+- [Gritty Research (Black Powder Researcher)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#black-powder-researcher): specialist 1–8 weak
+- [Horrific Exposure (Alienist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#alienist): specialist 1–8 common
+- [Improved Alchemical Necromancy (Reanimator)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#reanimator): specialist 9–15 weak
+- [Incredible Efficiency (Red-Headed Merchant)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#red-headed-merchant): specialist 9–15 weak
+- [Infinite Explosion (Void Demolitionist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#void-demolitionist): specialist 16–20 common
+- [Inventive Breakthrough (Technical Chymist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#technical-chymist): specialist 1–8 weak
+- [Inventive Mind (Technical Chymist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#technical-chymist): specialist 1–8 weak
+- [Investigator Talents (Urban Adept)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#urban-adept): specialist 1–8 weak
+- [Item Crafter (Red-Headed Merchant)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#red-headed-merchant): specialist 1–8 weak
+- [Lavish Meals (Gourmand)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#gourmand): specialist 16–20 weak
+- [Lycanthropic Defense (Beastborn Shifter)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#beastborn-shifter): specialist 9–15 common
+- [Magnetic Surge (Esotericist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#esotericist): specialist 1–8 weak
+- [Makeshift Bandages (Chirurgeon)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#chirurgeon): specialist 1–8 weak
+- [Metal Body (Promethean Disciple)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#promethean-disciple): specialist 1–8 common
+- [Metal Soul (Promethean Disciple)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#promethean-disciple): specialist 16–20 common
+- [Monstrous Link (Teratogenic Beastmaster)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#teratogenic-beastmaster): specialist 1–8 weak
+- [Natural Philosophy (Archaic Philosopher)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#archaic-philosopher): specialist 1–8 weak
+- [Perfect Pairing (Gourmand)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#gourmand): specialist 1–8 weak
+- [Perfect Palette (Gourmand)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#gourmand): specialist 16–20 weak
+- [Phase Bomb (Void Demolitionist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#void-demolitionist): specialist 9–15 weak
+- [Phase Step (Void Demolitionist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#void-demolitionist): specialist 9–15 common
+- [Power Gauntlet (Martial Analyst)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#martial-analyst): specialist 1–8 common
+- [Ratiocination (Urban Adept)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#urban-adept): specialist 9–15 common
+- [Reality Rip (Alienist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#alienist): specialist 16–20 common
+- [Renowned Seller (Red-Headed Merchant)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#red-headed-merchant): specialist 1–8 weak
+- [Shared Essence (Alienist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#alienist): specialist 1–8 weak
+- [Specialized Knowledge (Urban Adept)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#urban-adept): specialist 1–8 common
+- [Tactical Analysis (Urban Adept)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#urban-adept): specialist 1–8 common
+- [Teratogen (Teratogenic Beastmaster)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#teratogenic-beastmaster): specialist 1–8 weak
+- [Tinker Defense (Technical Chymist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#technical-chymist): specialist 1–8 weak
+- [Unbound Step (Alienist)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#alienist): specialist 9–15 common
+- [Zombie Plague (Reanimator)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#reanimator): specialist 16–20 weak
+- [Zombie Virus (Reanimator)](../../characters/classes/legendary/legendary-alchemist-archetypes.md#reanimator): specialist 1–8 common

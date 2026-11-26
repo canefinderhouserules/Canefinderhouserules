@@ -1,0 +1,86 @@
+# Witch
+
+- [Aura of Desecration (Gravewalker)](../../characters/classes/witch-archetypes.md#gravewalker): caster 1–8 weak
+- [Bonethrall (Gravewalker)](../../characters/classes/witch-archetypes.md#gravewalker): caster 1–8 common
+- [Breath Siphon (Flood Walker)](../../characters/classes/witch-archetypes.md#flood-walker): caster 9–15 common
+- [Cauldron Cook (Gingerbread Witch)](../../characters/classes/witch-archetypes.md#gingerbread-witch): caster 1–8 weak
+- [Channel Energy (Hex Channeler)](../../characters/classes/witch-archetypes.md#hex-channeler): caster 1–8 common
+- [Cold Flesh (Winter Witch)](../../characters/classes/witch-archetypes.md#winter-witch): caster 1–8 weak
+- [Commune with Familiar (Dimensional Occultist)](../../characters/classes/witch-archetypes.md#dimensional-occultist): caster 1–8 weak
+- [Conduit Surge (Ley Line Guardian)](../../characters/classes/witch-archetypes.md#ley-line-guardian): caster 1–8 common
+- [Confection Conjuring (Gingerbread Witch)](../../characters/classes/witch-archetypes.md#gingerbread-witch): caster 1–8 weak
+- [Coral Familiar (Coral Witch)](../../characters/classes/witch-archetypes.md#coral-witch): caster 1–8 common
+- [Cruel Hex (Demon-Sworn)](../../characters/classes/witch-archetypes.md#demon-sworn): caster 1–8 common
+- [Curdle Thoughts (Discord Hag)](../../characters/classes/witch-archetypes.md#discord-hag): caster 1–8 weak
+- [Debater (Rhetorician)](../../characters/classes/witch-archetypes.md#rhetorician): caster 1–8 weak
+- [Defoliant Bomb (Bonded Witch)](../../characters/classes/witch-archetypes.md#bonded-witch): caster 1–8 weak
+- [Dimensional Augmentation (Dimensional Occultist)](../../characters/classes/witch-archetypes.md#dimensional-occultist): caster 1–8 common
+- [Dimensional Waypoints (Dimensional Occultist)](../../characters/classes/witch-archetypes.md#dimensional-occultist): caster 9–15 weak
+- [Disgorge Familiar (Putrefactor)](../../characters/classes/witch-archetypes.md#putrefactor): caster 1–8 weak
+- [Disgorge Swarm (Putrefactor)](../../characters/classes/witch-archetypes.md#putrefactor): caster 1–8 common
+- [Dream Possession (Dreamweaver)](../../characters/classes/witch-archetypes.md#dreamweaver): caster 9–15 common
+- [Dream Spinner (Dreamweaver)](../../characters/classes/witch-archetypes.md#dreamweaver): caster 1–8 common
+- [Dream Thief (Dreamweaver)](../../characters/classes/witch-archetypes.md#dreamweaver): caster 1–8 common
+- [Empathic Healing (Hedge Witch)](../../characters/classes/witch-archetypes.md#hedge-witch): caster 1–8 weak
+- [Enhanced Familiar (Beast-Bonded)](../../characters/classes/witch-archetypes.md#beast-bonded): caster 1–8 weak
+- [Expanded Wishgranter (Vellemancer)](../../characters/classes/witch-archetypes.md#vellemancer): caster 1–8 weak
+- [Familiar Form (Beast-Bonded)](../../characters/classes/witch-archetypes.md#beast-bonded): caster 1–8 weak
+- [Fetish (Bouda)](../../characters/classes/witch-archetypes.md#bouda): caster 1–8 common
+- [Fetish Mask (Scarred Witch Doctor)](../../characters/classes/witch-archetypes.md#scarred-witch-doctor): caster 1–8 common
+- [Fey Charm (Seducer)](../../characters/classes/witch-archetypes.md#seducer): caster 1–8 weak
+- [Fog of War (Battle Witch)](../../characters/classes/witch-archetypes.md#battle-witch): caster 1–8 weak
+- [Garden of Delight (Seducer)](../../characters/classes/witch-archetypes.md#seducer): caster 1–8 weak
+- [Gasping Breath Aura (Flood Walker)](../../characters/classes/witch-archetypes.md#flood-walker): caster 1–8 weak
+- [Ghostwalk (Battle Witch)](../../characters/classes/witch-archetypes.md#battle-witch): caster 1–8 common
+- [Gingerbread Familiar (Gingerbread Witch)](../../characters/classes/witch-archetypes.md#gingerbread-witch): caster 1–8 common
+- [Grand Hex](../../characters/classes/witch.md#grand-hex): caster 16–20 common
+- [Gruesome Gobbler (Gingerbread Witch)](../../characters/classes/witch-archetypes.md#gingerbread-witch): caster 9–15 common
+- [Hag Crony (Discord Hag)](../../characters/classes/witch-archetypes.md#discord-hag): caster 9–15 common
+- [Hag Transformation (Hagbound)](../../characters/classes/witch-archetypes.md#hagbound): caster 16–20 common
+- [Herb Lore (Herb Witch)](../../characters/classes/witch-archetypes.md#herb-witch): caster 1–8 weak
+- [Hex Trader (Alley Witch)](../../characters/classes/witch-archetypes.md#alley-witch): caster 1–8 weak
+- [Hexes](../../characters/classes/witch.md#hex): specialist 1–8 op, caster 1–8 op
+- [Horrible Hunger (Gingerbread Witch)](../../characters/classes/witch-archetypes.md#gingerbread-witch): caster 16–20 weak
+- [Hunched Muscle (Hagbound)](../../characters/classes/witch-archetypes.md#hagbound): caster 1–8 weak
+- [Hyena Shape (Bouda)](../../characters/classes/witch-archetypes.md#bouda): caster 9–15 common
+- [Immovability (Coral Witch)](../../characters/classes/witch-archetypes.md#coral-witch): caster 1–8 weak
+- [Infestation of Entropy (Putrefactor)](../../characters/classes/witch-archetypes.md#putrefactor): caster 1–8 weak
+- [Invested Hex (Vellemancer)](../../characters/classes/witch-archetypes.md#vellemancer): caster 1–8 common
+- [Jinx-Eating (Jinx Witch)](../../characters/classes/witch-archetypes.md#jinx-witch): caster 1–8 common
+- [Jinx-Feast (Jinx Witch)](../../characters/classes/witch-archetypes.md#jinx-witch): caster 9–15 common
+- [Jinx-Gorging (Jinx Witch)](../../characters/classes/witch-archetypes.md#jinx-witch): caster 1–8 weak
+- [Major Hex](../../characters/classes/witch.md#major-hex): caster 9–15 op
+- [Manifest Pact (Demon-Sworn)](../../characters/classes/witch-archetypes.md#demon-sworn): caster 1–8 common
+- [Patron Element (Havocker)](../../characters/classes/witch-archetypes.md#havocker): caster 1–8 op
+- [Patron Mirror (Mirror Witch)](../../characters/classes/witch-archetypes.md#mirror-witch): caster 1–8 weak
+- [Planar Familiar (Pact Witch)](../../characters/classes/witch-archetypes.md#pact-witch): caster 1–8 weak
+- [Planar Pact (Pact Witch)](../../characters/classes/witch-archetypes.md#pact-witch): caster 1–8 common
+- [Poisonous Familiar (Venom Siphoner)](../../characters/classes/witch-archetypes.md#venom-siphoner): caster 1–8 common
+- [Possess Undead (Gravewalker)](../../characters/classes/witch-archetypes.md#gravewalker): caster 1–8 common
+- [Prepare Results (Spellspy)](../../characters/classes/witch-archetypes.md#spellspy): caster 1–8 weak
+- [Protecting Veil (Battle Witch)](../../characters/classes/witch-archetypes.md#battle-witch): caster 1–8 weak
+- [Putrefied Innards (Putrefactor)](../../characters/classes/witch-archetypes.md#putrefactor): caster 1–8 common
+- [River Stride (Flood Walker)](../../characters/classes/witch-archetypes.md#flood-walker): caster 1–8 weak
+- [Scarshield (Scarred Witch Doctor)](../../characters/classes/witch-archetypes.md#scarred-witch-doctor): caster 1–8 common
+- [Sea Creature Empathy (Sea Witch)](../../characters/classes/witch-archetypes.md#sea-witch): caster 1–8 weak
+- [Season of the Witch (Season Witch)](../../characters/classes/witch-archetypes.md#season-witch): caster 1–8 common
+- [Seducer's Kiss (Seducer)](../../characters/classes/witch-archetypes.md#seducer): caster 1–8 weak
+- [Shared Subconscious (Spirit Medium)](../../characters/classes/witch-archetypes.md#spirit-medium): caster 1–8 weak
+- [Soul Walker (Spirit Medium)](../../characters/classes/witch-archetypes.md#spirit-medium): caster 16–20 common
+- [Speak to the City (Alley Witch)](../../characters/classes/witch-archetypes.md#alley-witch): caster 1–8 weak
+- [Spell Poppet (Gravewalker)](../../characters/classes/witch-archetypes.md#gravewalker): caster 1–8 common
+- [Spellburn (Havocker)](../../characters/classes/witch-archetypes.md#havocker): caster 1–8 weak
+- [Sunder Hope (Discord Hag)](../../characters/classes/witch-archetypes.md#discord-hag): caster 1–8 common
+- [Symbiosis (Synergist)](../../characters/classes/witch-archetypes.md#synergist): caster 1–8 common
+- [Toxic Blood (Venom Siphoner)](../../characters/classes/witch-archetypes.md#venom-siphoner): caster 1–8 common
+- [Toxic Words (Veneficus Witch)](../../characters/classes/witch-archetypes.md#veneficus-witch): caster 1–8 weak
+- [Tricky Treats Hex (Gingerbread Witch)](../../characters/classes/witch-archetypes.md#gingerbread-witch): caster 1–8 weak
+- [Twin Soul (Beast-Bonded)](../../characters/classes/witch-archetypes.md#beast-bonded): caster 9–15 common
+- [Vain Glamour (Hagbound)](../../characters/classes/witch-archetypes.md#hagbound): caster 1–8 weak
+- [Venom Expert (Venom Siphoner)](../../characters/classes/witch-archetypes.md#venom-siphoner): caster 1–8 weak
+- [Verminous Blood (Putrefactor)](../../characters/classes/witch-archetypes.md#putrefactor): caster 1–8 common
+- [Vile Curse (Hagbound)](../../characters/classes/witch-archetypes.md#hagbound): caster 9–15 common
+- [Waves Spirit Hex (Coral Witch)](../../characters/classes/witch-archetypes.md#coral-witch): caster 1–8 weak
+- [Wishgranter (Vellemancer)](../../characters/classes/witch-archetypes.md#vellemancer): caster 1–8 common
+- [Witchweaver (Tatterdemalion)](../../characters/classes/witch-archetypes.md#tatterdemalion): caster 1–8 common
+- [Wyrmwitch's Hoard (Wyrmwitch)](../../characters/classes/witch-archetypes.md#wyrmwitch): caster 1–8 common

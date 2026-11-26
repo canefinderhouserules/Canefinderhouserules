@@ -1,0 +1,91 @@
+# Canefinder Shifter
+
+- [Adaptive Claws (Adaptive Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#adaptive-shifter): warrior 1–8 common
+- [Alternate Form (Protean Mutant)](../../characters/classes/canefinder-shifter-archetypes.md#protean-mutant): warrior 1–8 common
+- [Armor Plating (Wild Effigy)](../../characters/classes/canefinder-shifter-archetypes.md#wild-effigy): warrior 1–8 weak
+- [Blessed Claws (Holy Beast)](../../characters/classes/canefinder-shifter-archetypes.md#holy-beast): warrior 1–8 common
+- [Bonus Feat (Canefinder Shifter)](../../characters/classes/shifter.md#bonus-feat-ex): warrior 1–8 op
+- [Bound Evolution (Bound Beastmaster)](../../characters/classes/canefinder-shifter-archetypes.md#bound-beastmaster): warrior 1–8 common
+- [Breath Weapon (Dragon Touched)](../../characters/classes/canefinder-shifter-archetypes.md#dragon-touched): warrior 1–8 common
+- [Chimeric Aspect](../../characters/classes/shifter.md#chimeric-aspect-su): warrior 9–15 common
+- [Chimeric Dragon (Dragon Touched)](../../characters/classes/canefinder-shifter-archetypes.md#dragon-touched): warrior 9–15 common
+- [Chimeric Fiend (Fiendflesh Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#fiendflesh-shifter): warrior 9–15 weak
+- [Damage Reduction (Oozemorph)](../../characters/classes/canefinder-shifter-archetypes.md#oozemorph): warrior 1–8 common
+- [Defensive Instinct](../../characters/classes/shifter.md#defensive-instinct-ex): warrior 1–8 common
+- [Devastating Form (Rageshaper)](../../characters/classes/canefinder-shifter-archetypes.md#rageshaper): warrior 1–8 op
+- [Draconic Aspect (Dragonblood Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#dragonblood-shifter): warrior 1–8 common
+- [Draconic Shape (Dragon Touched)](../../characters/classes/canefinder-shifter-archetypes.md#dragon-touched): warrior 1–8 op
+- [Dragon Heritage (Dragon Touched)](../../characters/classes/canefinder-shifter-archetypes.md#dragon-touched): warrior 1–8 common
+- [Dual Beasts (Bound Beastmaster)](../../characters/classes/canefinder-shifter-archetypes.md#bound-beastmaster): warrior 9–15 weak
+- [Elemental Brethren (Elemental Nexus)](../../characters/classes/canefinder-shifter-archetypes.md#elemental-nexus): warrior 1–8 common
+- [Elemental Evolution (Elemental Nexus)](../../characters/classes/canefinder-shifter-archetypes.md#elemental-nexus): warrior 1–8 op
+- [Elemental Form (Elementalist Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#elementalist-shifter): warrior 1–8 common
+- [Elemental Shape (Elemental Nexus)](../../characters/classes/canefinder-shifter-archetypes.md#elemental-nexus): warrior 1–8 common
+- [Elemental Strike (Elementalist Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#elementalist-shifter): warrior 1–8 common
+- [Fairy Master (Fairy Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#fairy-shifter): warrior 16–20 common
+- [Fairy Shape (Fairy Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#fairy-shifter): warrior 1–8 op
+- [Fey Aspect (Feyform Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#feyform-shifter): warrior 1–8 common
+- [Fey Shape (Feyform Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#feyform-shifter): warrior 1–8 common
+- [Fey Shifter (Feyform Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#feyform-shifter): warrior 9–15 common
+- [Fiendish Aspect (Fiendflesh Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#fiendflesh-shifter): warrior 1–8 common
+- [Fiendish Resilience (Fiendflesh Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#fiendflesh-shifter): warrior 1–8 common
+- [Final Aspect (Swarm Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#swarm-shifter): warrior 16–20 common
+- [Fluidic Body (Oozemorph)](../../characters/classes/canefinder-shifter-archetypes.md#oozemorph): warrior 1–8 common
+- [Form of the Wild (Style Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#style-shifter): warrior 1–8 op
+- [Giant Shape (Giant Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#giant-shifter): warrior 1–8 op
+- [Greater Chimeric Aspect](../../characters/classes/shifter.md#greater-chimeric-aspect-su): warrior 9–15 common
+- [Greater Fey Shifter (Feyform Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#feyform-shifter): warrior 9–15 common
+- [Greater Swarm Flow (Swarm Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#swarm-shifter): warrior 9–15 common
+- [Greater Wyrmshifter (Dragonblood Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#dragonblood-shifter): warrior 16–20 common
+- [Heart of Earth (Wild Effigy)](../../characters/classes/canefinder-shifter-archetypes.md#wild-effigy): warrior 1–8 weak
+- [Improved Wyrmshifter (Dragonblood Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#dragonblood-shifter): warrior 9–15 common
+- [Infinite Variety (Protean Mutant)](../../characters/classes/canefinder-shifter-archetypes.md#protean-mutant): warrior 16–20 common
+- [Intelligent Instinct (Metamorphic Genius) (Canefinder Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#metamorphic-genius): warrior 1–8 common
+- [Invulnerable Defenses (Rageshaper)](../../characters/classes/canefinder-shifter-archetypes.md#rageshaper): warrior 1–8 common
+- [Lasting Adaptation (Adaptive Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#adaptive-shifter): warrior 1–8 common
+- [Lycanthropic Shape (Weretouched)](../../characters/classes/canefinder-shifter-archetypes.md#weretouched): warrior 1–8 common
+- [Master of Many Dragons (Dragon Touched) (Canefinder Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#dragon-touched): warrior 16–20 common
+- [Master of the Many Forms](../../characters/classes/shifter.md#master-of-the-many-forms-ex): warrior 16–20 common
+- [Mercurial Shift (Protean Mutant)](../../characters/classes/canefinder-shifter-archetypes.md#protean-mutant): warrior 9–15 weak
+- [Mimic Aspect (Mimickin)](../../characters/classes/canefinder-shifter-archetypes.md#mimickin): warrior 1–8 weak
+- [Mimic Shape (Mimickin)](../../characters/classes/canefinder-shifter-archetypes.md#mimickin): warrior 1–8 weak
+- [Morphic Weaponry (Oozemorph)](../../characters/classes/canefinder-shifter-archetypes.md#oozemorph): warrior 1–8 common
+- [Mutant Evolution (Protean Mutant)](../../characters/classes/canefinder-shifter-archetypes.md#protean-mutant): warrior 1–8 common
+- [Mutant Shape (Protean Mutant)](../../characters/classes/canefinder-shifter-archetypes.md#protean-mutant): warrior 1–8 op
+- [Natural Strikes (Style Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#style-shifter): warrior 1–8 weak
+- [Necro Shape (Necromorph)](../../characters/classes/canefinder-shifter-archetypes.md#necromorph): warrior 1–8 op
+- [Omnielementalist (Elementalist Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#elementalist-shifter): warrior 9–15 weak
+- [Ooze Form (Oozeling)](../../characters/classes/canefinder-shifter-archetypes.md#oozeling): warrior 1–8 common
+- [Ooze Shape (Oozeling)](../../characters/classes/canefinder-shifter-archetypes.md#oozeling): warrior 1–8 weak
+- [Oozekin (Oozeling)](../../characters/classes/canefinder-shifter-archetypes.md#oozeling): warrior 9–15 common
+- [Oozemaster (Oozeling)](../../characters/classes/canefinder-shifter-archetypes.md#oozeling): warrior 16–20 common
+- [Perfect Preservation (Necromorph)](../../characters/classes/canefinder-shifter-archetypes.md#necromorph): warrior 1–8 weak
+- [Plant Shape (Verdant Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#verdant-shifter): warrior 9–15 common
+- [Polymaster (Mimickin)](../../characters/classes/canefinder-shifter-archetypes.md#mimickin): warrior 16–20 common
+- [Reactive Aspect (Adaptive Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#adaptive-shifter): warrior 1–8 common
+- [Reactive Form (Adaptive Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#adaptive-shifter): warrior 1–8 common
+- [Shared Aspect (Bound Beastmaster)](../../characters/classes/canefinder-shifter-archetypes.md#bound-beastmaster): warrior 1–8 common
+- [Shifter Aspect](../../characters/classes/shifter.md#shifter-aspect-su): warrior 1–8 common
+- [Shifter claws](../../characters/classes/shifter.md#shifter-claws-su): warrior 1–8 common
+- [Shifter Shape](../../characters/classes/shifter.md#shifter-shape-su): warrior 1–8 iconic
+- [Shifter’s Fury](../../characters/classes/shifter.md#shifters-fury-ex): warrior 1–8 common
+- [Shifter’s Slam (Giant Shifter) (Canefinder Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#giant-shifter): warrior 1–8 weak
+- [Silent Stalk (Mimickin)](../../characters/classes/canefinder-shifter-archetypes.md#mimickin): warrior 1–8 weak
+- [Stoneclaw Strike (Wild Effigy)](../../characters/classes/canefinder-shifter-archetypes.md#wild-effigy): warrior 1–8 weak
+- [Style Mastery (Style Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#style-shifter): warrior 1–8 common
+- [Style Shifting (Style Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#style-shifter): warrior 1–8 common
+- [Swarm Flow (Swarm Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#swarm-shifter): warrior 9–15 common
+- [Swarmer (Swarm Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#swarm-shifter): warrior 1–8 weak
+- [Terrible Leap (Rageshaper)](../../characters/classes/canefinder-shifter-archetypes.md#rageshaper): warrior 1–8 weak
+- [Terrible Slam (Rageshaper)](../../characters/classes/canefinder-shifter-archetypes.md#rageshaper): warrior 1–8 common
+- [Titan Shifter (Giant Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#giant-shifter): warrior 16–20 common
+- [True Death (Necromorph)](../../characters/classes/canefinder-shifter-archetypes.md#necromorph): warrior 16–20 common
+- [Undead Adept (Necromorph)](../../characters/classes/canefinder-shifter-archetypes.md#necromorph): warrior 1–8 common
+- [Unfettered Shape (Adaptive Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#adaptive-shifter): warrior 1–8 op
+- [Unsettling Aura (Necromorph)](../../characters/classes/canefinder-shifter-archetypes.md#necromorph): warrior 1–8 common
+- [Verdant Body (Verdant Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#verdant-shifter): warrior 1–8 common
+- [Vermin Aspect (Swarm Shifter) (Canefinder Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#swarm-shifter): warrior 1–8 common
+- [Volcanic Stride (Elementalist Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#elementalist-shifter): warrior 1–8 common
+- [Weretouched Form (Lycanthropic Warrior)](../../characters/classes/canefinder-shifter-archetypes.md#lycanthropic-warrior): warrior 1–8 weak
+- [Whimsical Aura (Fairy Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#fairy-shifter): warrior 1–8 common
+- [Wild Armor (Verdant Shifter)](../../characters/classes/canefinder-shifter-archetypes.md#verdant-shifter): warrior 1–8 common

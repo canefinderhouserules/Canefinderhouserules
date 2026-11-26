@@ -1,0 +1,30 @@
+# Swashbuckler
+
+- [Affection of Elysium (Azatariel)](../../characters/classes/swashbuckler-archetypes.md#azatariel): warrior 1–8 common
+- [Archer’s Feint (Arrow Champion)](../../characters/classes/swashbuckler-archetypes.md#arrow-champion): warrior 1–8 weak
+- [Aristocratic Discipline (Noble Fencer)](../../characters/classes/swashbuckler-archetypes.md#noble-fencer): warrior 1–8 weak
+- [Buckler Flexibility (Buckler Duelist)](../../characters/classes/swashbuckler-archetypes.md#buckler-duelist): warrior 1–8 common
+- [Charmed Guardian (Guiding Blade)](../../characters/classes/swashbuckler-archetypes.md#guiding-blade): warrior 1–8 common
+- [Charmed Life](../../characters/classes/swashbuckler.md#charmed-life-ex): warrior 1–8 weak
+- [Dance of Mercy (Whirling Dervish) (Swashbuckler)](../../characters/classes/swashbuckler-archetypes.md#whirling-dervish): warrior 16–20 common
+- [Daring Teamwork (Guiding Blade)](../../characters/classes/swashbuckler-archetypes.md#guiding-blade): warrior 1–8 common
+- [Dazing Charm Deed (Dashing Thief)](../../characters/classes/swashbuckler-archetypes.md#dashing-thief): warrior 1–8 common
+- [Dragon’s Rage (Sword Duelist Bravo)](../../characters/classes/swashbuckler-archetypes.md#sword-duelist-bravo): warrior 9–15 common
+- [Elysian Conviction (Azatariel)](../../characters/classes/swashbuckler-archetypes.md#azatariel): warrior 1–8 common
+- [Flying Blade Mastery (Flying Blade)](../../characters/classes/swashbuckler-archetypes.md#flying-blade): warrior 16–20 op
+- [Greater Charmed Life (Mysterious Avenger)](../../characters/classes/swashbuckler-archetypes.md#mysterious-avenger): warrior 1–8 common
+- [Inevitable Victory (Sword Duelist Bravo)](../../characters/classes/swashbuckler-archetypes.md#sword-duelist-bravo): warrior 1–8 weak
+- [Interfering Blade (Guiding Blade)](../../characters/classes/swashbuckler-archetypes.md#guiding-blade): warrior 1–8 common
+- [Ki Panache (Monastic Corsair)](../../characters/classes/swashbuckler-archetypes.md#monastic-corsair): warrior 1–8 common
+- [Nimble Toes (Courser)](../../characters/classes/swashbuckler-archetypes.md#courser): warrior 1–8 weak
+- [Plunder (Corsair)](../../characters/classes/swashbuckler-archetypes.md#corsair): warrior 1–8 common
+- [Precise Aim (Arrow Champion)](../../characters/classes/swashbuckler-archetypes.md#arrow-champion): warrior 1–8 common
+- [Rapier Weapon Mastery (Inspired Blade)](../../characters/classes/swashbuckler-archetypes.md#inspired-blade): warrior 16–20 op
+- [Secret Identity (Mysterious Avenger)](../../characters/classes/swashbuckler-archetypes.md#mysterious-avenger): warrior 1–8 common
+- [Soul Veil (Veiled Blade)](../../characters/classes/swashbuckler-archetypes.md#veiled-blade): warrior 9–15 common
+- [Swagger (Corsair)](../../characters/classes/swashbuckler-archetypes.md#corsair): warrior 1–8 weak
+- [Swashbuckler Finesse](../../characters/classes/swashbuckler.md#swashbuckler-finesse-ex): warrior 1–8 common
+- [Swashbuckler Weapon Mastery](../../characters/classes/swashbuckler.md#swashbuckler-weapon-mastery-ex): warrior 16–20 op
+- [Swaying Charm Deed (Dashing Thief)](../../characters/classes/swashbuckler-archetypes.md#dashing-thief): warrior 9–15 common
+- [Versatile Weapon Mastery (Arrow Champion)](../../characters/classes/swashbuckler-archetypes.md#arrow-champion): warrior 16–20 op
+- [Weapon Versatility (Arrow Champion)](../../characters/classes/swashbuckler-archetypes.md#arrow-champion): warrior 1–8 weak

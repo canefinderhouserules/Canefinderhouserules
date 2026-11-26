@@ -1,0 +1,27 @@
+# Sorcerer
+
+- [Bleeding Spells (Dragon Drinker)](../../characters/classes/sorcerer-archetypes.md#dragon-drinker): caster 1–8 common
+- [Blood Drinking (Dragon Drinker)](../../characters/classes/sorcerer-archetypes.md#dragon-drinker): caster 1–8 weak
+- [Blood Siphon (Dragon Drinker)](../../characters/classes/sorcerer-archetypes.md#dragon-drinker): caster 16–20 common
+- [Bloodline](../../characters/classes/sorcerer.md#bloodline): caster 1–8 iconic
+- [Bloodline Powers (Crossblooded)](../../characters/classes/sorcerer-archetypes.md#crossblooded): caster 1–8 common
+- [Bloodline Weapons (Eldritch Scrapper)](../../characters/classes/sorcerer-archetypes.md#eldritch-scrapper): caster 1–8 weak
+- [Breath Mimicry (Dragon Drinker)](../../characters/classes/sorcerer-archetypes.md#dragon-drinker): caster 9–15 weak
+- [Create Spell Tattoo (Tattooed Sorcerer)](../../characters/classes/sorcerer-archetypes.md#tattooed-sorcerer): caster 1–8 weak
+- [Crippling Darkness (Umbral Scion)](../../characters/classes/sorcerer-archetypes.md#umbral-scion): caster 9–15 common
+- [Encroaching Darkness (Umbral Scion)](../../characters/classes/sorcerer-archetypes.md#umbral-scion): caster 1–8 common
+- [Energy Assimilation (Dragon Drinker)](../../characters/classes/sorcerer-archetypes.md#dragon-drinker): caster 1–8 common
+- [Enhanced Tattoo (Tattooed Sorcerer)](../../characters/classes/sorcerer-archetypes.md#tattooed-sorcerer): caster 9–15 weak
+- [Eschew materials](../../characters/classes/sorcerer.md#eschew-materials): warrior 1–8 weak, caster 1–8 weak
+- [Expanded Wishcraft (Wishcrafter)](../../characters/classes/sorcerer-archetypes.md#wishcrafter): caster 1–8 common
+- [False Channel (Sham Priest)](../../characters/classes/sorcerer-archetypes.md#sham-priest): caster 9–15 weak
+- [Familiar Tattoo (Tattooed Sorcerer)](../../characters/classes/sorcerer-archetypes.md#tattooed-sorcerer): caster 1–8 common
+- [Heart’s Desire (Wishcrafter)](../../characters/classes/sorcerer-archetypes.md#wishcrafter): caster 1–8 weak
+- [Magical Tail (Nine-Tailed Heir)](../../characters/classes/sorcerer-archetypes.md#nine-tailed-heir): caster 1–8 weak
+- [Mongrel Reservoir (Mongrel Mage)](../../characters/classes/sorcerer-archetypes.md#mongrel-mage): caster 1–8 common
+- [Perfect Wishcraft (Wishcrafter)](../../characters/classes/sorcerer-archetypes.md#wishcrafter): caster 16–20 common
+- [Pesh Touch (Sorcerer of Sleep)](../../characters/classes/sorcerer-archetypes.md#sorcerer-of-sleep): caster 1–8 common
+- [Potent Shadows (Umbral Scion)](../../characters/classes/sorcerer-archetypes.md#umbral-scion): caster 1–8 weak
+- [Rune of Warding (Stone Warder)](../../characters/classes/sorcerer-archetypes.md#stone-warder): caster 1–8 weak
+- [Twisted Wish (Wishcrafter)](../../characters/classes/sorcerer-archetypes.md#wishcrafter): caster 9–15 common
+- [Wishbound Arcana (Wishcrafter)](../../characters/classes/sorcerer-archetypes.md#wishcrafter): caster 1–8 common
