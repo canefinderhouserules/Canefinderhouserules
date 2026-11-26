@@ -2244,11 +2244,17 @@
     });
     return out;
   }
+  // the class a listed feature comes from, read from its link target ("…/fighter-archetypes/#x" -> Fighter, "…/darechaser/" -> Darechaser)
+  function swSourceClass(link) {
+    var seg = String(link || '').split('#')[0].replace(/\.md$/, '').split('/').filter(Boolean).pop() || '';
+    seg = seg.replace(/-archetypes$/, '');
+    return seg ? seg.split('-').map(function (w) { return w.charAt(0).toUpperCase() + w.slice(1); }).join(' ') : '';
+  }
   // every feature a class type can copy, plus the generic ones: [entry], keyed by the text shown in the picker
   function swEntries(key) {
     if (SW_ENTRIES[key]) return SW_ENTRIES[key];
     var by = {};
-    SWD.lists[key].forEach(function (e) { by[e[0] + ' — ' + PRICE_LABEL[e[2]] + ', ' + ord(e[3])] = { n: e[0], link: e[1], price: e[2], lvl: e[3] }; });
+    SWD.lists[key].forEach(function (e) { by[e[0] + ' — ' + PRICE_LABEL[e[2]] + ', ' + ord(e[3])] = { n: e[0], link: e[1], price: e[2], lvl: e[3], from: swSourceClass(e[1]) }; });
     SWD.generic.forEach(function (g) {
       if (g.levels[key]) by[g.n + ' — ' + PRICE_LABEL[g.price] + ', ' + ord(g.levels[key]) + ' (generic)'] = { n: g.n, link: g.link, price: g.price, lvl: g.levels[key], text: g.text, generic: true };
     });
@@ -2271,7 +2277,7 @@
       shown.forEach(function (n) {
         var e = by[n], hi = e.lvl > maxLvl;
         list.appendChild(h('div', { class: 'eb-pickopt' + (hi ? ' eb-higher' : ''), title: hi ? 'A feature of ' + ord(e.lvl) + ' level, above this choice' : '',
-          onmousedown: function (ev) { ev.preventDefault(); pick(e); } }, n, hi ? h('small', { text: ' · level ' + e.lvl }) : null));
+          onmousedown: function (ev) { ev.preventDefault(); pick(e); } }, n, e.from ? h('small', { text: ' · ' + e.from }) : null, hi ? h('small', { text: ' · level ' + e.lvl }) : null));
       });
       list.hidden = !shown.length;
     };
