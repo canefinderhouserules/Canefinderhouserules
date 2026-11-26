@@ -147,7 +147,11 @@ The shaman understands any spoken language for a number of minutes per day equal
 
 #### Ward (Su)
 
-(1 AP) The shaman places a protective ward over one creature. The warded creature receives a +2 deflection bonus to AC and a +2 resistance bonus on saving throws. This effect lasts until the warded creature is hit or fails a saving throw. A shaman knows when a warded creature is no longer protected. A shaman can have only one ward active at a time. If the shaman uses this hex while a previous ward is still active, that previous ward immediately ends. A shaman cannot use this ability on herself. At 8th and 16th levels, the bonuses provided by this ward increase by 1 Witch Hex: The shaman selects any one hex normally available through the [witch's hex](witch.md#hex) class feature. She treats her shaman level as her witch level when determining the powers and abilities of the hex. She uses her Wisdom modifier in place of her Intelligence modifier for the hex. She cannot select major hexes or grand hexes using this ability. The shaman cannot select a witch hex that has the same name as a shaman hex.
+(1 AP) The shaman places a protective ward over one creature. The warded creature receives a +2 deflection bonus to AC and a +2 resistance bonus on saving throws. This effect lasts until the warded creature is hit or fails a saving throw. A shaman knows when a warded creature is no longer protected. A shaman can have only one ward active at a time. If the shaman uses this hex while a previous ward is still active, that previous ward immediately ends. A shaman cannot use this ability on herself. At 8th and 16th levels, the bonuses provided by this ward increase by 1.
+
+#### Witch Hex
+
+The shaman selects any one hex normally available through the [witch's hex](witch.md#hex) class feature. She treats her shaman level as her witch level when determining the powers and abilities of the hex. She uses her Wisdom modifier in place of her Intelligence modifier for the hex. She cannot select major hexes or grand hexes using this ability. The shaman cannot select a witch hex that has the same name as a shaman hex.
 
 ### Wandering Spirit (Su)
 

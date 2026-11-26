@@ -461,6 +461,8 @@ function sectionOptions(file, take) {
   return out;
 }
 const sectionIs = (...names) => text => names.some(n => n instanceof RegExp ? n.test(text) : text.replace(/\s*\((Ex|Su|Sp)\)$/, '') === n);
+// options that can't be taken before class level `min`
+const atLevel = (opts, min) => opts.map(o => Object.assign({}, o, { lvl: Math.max(o.lvl, min) }));
 function mergeOptions(...lists) {
   const seen = new Set(), out = [];
   for (const o of lists.flat()) {
@@ -500,6 +502,16 @@ const choices = {
     sectionOptions('arcanist.md', sectionIs('Arcanist Exploits', 'Greater Exploits')),
     sectionOptions('arcanist-horror.md', (t, d) => d === 1),
     sectionOptions('arcanist-philanthropic.md', (t, d) => d === 1)) },
+  // hexes of the witch and the shaman; major hexes are from 10th level, grand hexes from 18th
+  'hex': { n: 'Hexes', opts: mergeOptions(
+    sectionOptions('witch.md', sectionIs('Hex')),
+    atLevel(sectionOptions('witch.md', sectionIs('Major Hex')), 10),
+    atLevel(sectionOptions('witch.md', sectionIs('Grand Hex')), 18),
+    sectionOptions('witch-archetypes.md', sectionIs('Hexes')),
+    atLevel(sectionOptions('witch-archetypes.md', sectionIs('Major Hexes')), 10),
+    atLevel(sectionOptions('witch-archetypes.md', sectionIs('Grand Hexes')), 18),
+    sectionOptions('shaman.md', sectionIs('Hex')),
+    sectionOptions('shaman-archetypes.md', sectionIs('Hexes'))) },
   'rage-power': { n: 'Rage powers', opts: ragePowers.map(p => ({ n: p.n, t: p.type, lvl: p.lvl, adv: false, pre: p.needs.join(', '), text: p.text, link: p.link })) },
   'discovery': { n: 'Discoveries', opts: alchemist.discoveries.map(d => ({ n: d.n, t: 'Su', lvl: d.lvl, adv: false, pre: d.needs.join(', '), text: d.text, link: 'characters/classes/alchemist/#discovery-su' })) },
   'infusion': { n: 'Infusions', opts: mergeOptions(wildTalents(/infusion/)) },
