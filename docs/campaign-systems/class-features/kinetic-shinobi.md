@@ -1,0 +1,39 @@
+# Kinetic Shinobi
+
+- [Accuracy (Arsenal Sniper)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#arsenal-sniper): specialist 1–8 weak
+- [Arcane Ki (Shikon)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#shikon): specialist 1–8 common
+- [Armed Jutsu (Arsenal Sniper)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#arsenal-sniper): specialist 1–8 common
+- [Blessed Fists (Hand of the Kami)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#hand-of-the-kami): specialist 1–8 common
+- [Brutal Metajutsu (Brutal Assassin)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#brutal-assassin): specialist 1–8 common
+- [Combat Focused (Brutal Assassin)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#brutal-assassin): specialist 1–8 weak
+- [Cowardly Sneak Attack (Fading Shadow)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#fading-shadow): specialist 1–8 common
+- [Daring Ki Pool (Needler)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#needler): specialist 1–8 common
+- [Eagle Eyes (Arsenal Sniper)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#arsenal-sniper): specialist 1–8 common
+- [Elemental Basics](../../characters/classes/legendary/kinetic-shinobi.md#elemental-basics-su): specialist 1–8 common
+- [Fade Away (Fading Shadow)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#fading-shadow): specialist 1–8 weak
+- [Fleetfoot (Hand of the Kami)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#hand-of-the-kami): specialist 1–8 common
+- [Flexible Flow (Hand of the Kami)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#hand-of-the-kami): specialist 1–8 common
+- [Flurry of Elements (Hand of the Kami)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#hand-of-the-kami): specialist 1–8 op
+- [Hadou Techniques](../../characters/classes/legendary/kinetic-shinobi.md#hadou-techniques-su): specialist 1–8 common
+- [Hi-Den Nobility (Hi-Den Noble)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#hi-den-noble): specialist 1–8 weak
+- [Hidden (Hi-Den Noble)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#hi-den-noble): specialist 1–8 weak
+- [Hidden Strike (Hi-Den Noble)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#hi-den-noble): specialist 1–8 op
+- [Intangible Metajutsu (Fading Shadow)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#fading-shadow): specialist 9–15 weak
+- [Jumon Knack (Shikon)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#shikon): specialist 1–8 weak
+- [Jutsu Basics](../../characters/classes/legendary/kinetic-shinobi.md#jutsu-basics-su): specialist 1–8 weak
+- [Jutsu Genius](../../characters/classes/legendary/kinetic-shinobi.md#jutsu-genius-su): specialist 16–20 common
+- [Jutsu of Violence (Brutal Assassin)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#brutal-assassin): specialist 1–8 common
+- [Kyouki (Shikon)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#shikon): specialist 1–8 common
+- [Metajutsu](../../characters/classes/legendary/kinetic-shinobi.md#metajutsu-su): specialist 1–8 weak
+- [Mutable Blast (Metaformer)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#metaformer): specialist 9–15 common
+- [Ninjutsu Specialist](../../characters/classes/legendary/kinetic-shinobi.md#ninjutsu-specialist-ex): specialist 1–8 common
+- [Ninjutsu Training](../../characters/classes/legendary/kinetic-shinobi.md#ninjutsu-training-su): specialist 1–8 common
+- [Piercing Mastery (Needler)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#needler): specialist 16–20 op
+- [Safe House (Burglar)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#burglar): specialist 1–8 weak
+- [Sensei’s Notice (Hand of the Kami)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#hand-of-the-kami): specialist 1–8 weak
+- [Shadow Jutsu (Shadow Stepper)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#shadow-stepper): specialist 1–8 common
+- [Sneak Attack (1d6 at 2nd level, +1d6 every 3 levels)](../../characters/classes/legendary/kinetic-shinobi.md#sneak-attack-ex): specialist 1–8 op
+- [Sociable (Hi-Den Noble)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#hi-den-noble): specialist 1–8 common
+- [Threatening Presence (Brutal Assassin)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#brutal-assassin): specialist 1–8 weak
+- [Vanish (Fading Shadow)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#fading-shadow): specialist 1–8 weak
+- [Versatile Metajutsu (Metaformer)](../../characters/classes/legendary/kinetic-shinobi-archetypes.md#metaformer): specialist 1–8 common

@@ -1,6 +1,9 @@
 site_name: Canefinder
 site_description: Pathfinder 1e house rules
 docs_dir: docs
+# The shared class feature lists are data: hooks/class_features.py renders them into the role pages.
+exclude_docs: |
+  campaign-systems/class-features/
 repo_url: https://github.com/canefinderhouserules/Canefinderhouserules
 edit_uri: edit/main/docs/
 theme:
@@ -33,6 +36,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 hooks:
+  - hooks/class_features.py
   - hooks/trim_search.py
 
 extra_css:
@@ -44,6 +48,7 @@ extra_javascript:
   - javascripts/deep-search.js
   - javascripts/spell-search.js
   - javascripts/item-search.js
+  - javascripts/class-feature-search.js
   - javascripts/archetype-picker.js
   - javascripts/action-points.js
   - javascripts/condition-links.js

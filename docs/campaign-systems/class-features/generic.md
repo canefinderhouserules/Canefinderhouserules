@@ -1,0 +1,23 @@
+# Generic Class Features
+
+- [Additional Class Skills](generic-class-features.md#additional-class-skills): warrior 1–8 weak, specialist 1–8 weak, caster 1–8 weak
+- [Additional Skill Ranks](generic-class-features.md#additional-skill-ranks): warrior 1–8 weak, specialist 1–8 weak
+- [At-Will Detection](generic-class-features.md#at-will-detection): warrior 1–8 weak, specialist 1–8 weak
+- [Energy Resistance](generic-class-features.md#energy-resistance): specialist 1–8 weak, caster 1–8 weak
+- [Feat Training](generic-class-features.md#feat-training): warrior 1–8 common, specialist 1–8 common, caster 1–8 common
+- [Flight](generic-class-features.md#flight): warrior 9–15 common, specialist 9–15 common, caster 9–15 common
+- [Focused Resistance](generic-class-features.md#focused-resistance): warrior 1–8 weak, specialist 1–8 weak, caster 1–8 weak
+- [Immunity](generic-class-features.md#immunity): warrior 1–8 weak, specialist 1–8 weak, caster 9–15 weak
+- [Keen Senses](generic-class-features.md#keen-senses): warrior 1–8 weak, specialist 1–8 weak, caster 1–8 weak
+- [Lucky Break](generic-class-features.md#lucky-break): warrior 1–8 common, specialist 1–8 common
+- [Minor Feat Training](generic-class-features.md#minor-feat-training): warrior 1–8 weak, specialist 1–8 weak, caster 1–8 weak
+- [Natural Movement](generic-class-features.md#natural-movement): warrior 1–8 weak, specialist 1–8 weak, caster 9–15 weak
+- [Natural Weapon](generic-class-features.md#natural-weapon): warrior 1–8 common, specialist 1–8 common, caster 1–8 common
+- [Quick Reactions](generic-class-features.md#quick-reactions): warrior 1–8 weak, specialist 1–8 weak
+- [Reliable Skill](generic-class-features.md#reliable-skill): specialist 1–8 weak, caster 1–8 weak
+- [Skill Training](generic-class-features.md#skill-training): warrior 1–8 weak, specialist 1–8 weak, caster 1–8 weak
+- [Spell Knack](generic-class-features.md#spell-knack): warrior 1–8 weak, specialist 1–8 weak, caster 1–8 weak
+- [Terrain Stride](generic-class-features.md#terrain-stride): warrior 1–8 weak, specialist 1–8 weak, caster 1–8 weak
+- [Uncommon Speech](generic-class-features.md#uncommon-speech): warrior 1–8 weak, specialist 1–8 weak, caster 1–8 weak
+- [Water Adaptation](generic-class-features.md#water-adaptation): warrior 1–8 weak, specialist 1–8 weak, caster 1–8 weak
+- [Weapon Familiarity](generic-class-features.md#weapon-familiarity): warrior 1–8 weak, specialist 1–8 weak

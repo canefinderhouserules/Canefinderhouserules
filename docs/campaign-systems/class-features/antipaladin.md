@@ -1,0 +1,48 @@
+# Antipaladin
+
+- [Aura of Ambition (Insinuator)](../../characters/classes/antipaladin-archetypes.md#insinuator): warrior 1–8 common
+- [Aura of Belief (Insinuator)](../../characters/classes/antipaladin-archetypes.md#insinuator): warrior 9–15 common
+- [Aura of Blood (Rough Rampager)](../../characters/classes/antipaladin-archetypes.md#rough-rampager): warrior 1–8 common
+- [Aura of Cowardice](../../characters/classes/antipaladin.md#aura-of-cowardice-su): warrior 1–8 common
+- [Aura of Death (Grave Zealot)](../../characters/classes/antipaladin-archetypes.md#grave-zealot): warrior 1–8 common
+- [Aura of Decay (Blighted Myrmidon)](../../characters/classes/antipaladin-archetypes.md#blighted-myrmidon): warrior 9–15 common
+- [Aura of Depravity](../../characters/classes/antipaladin.md#aura-of-depravity-su): warrior 16–20 common
+- [Aura of Despair](../../characters/classes/antipaladin.md#aura-of-despair-su): warrior 1–8 common
+- [Aura of Ego (Insinuator)](../../characters/classes/antipaladin-archetypes.md#insinuator): warrior 1–8 common
+- [Aura of Evil](../../characters/classes/antipaladin.md#aura-of-evil-ex): warrior 1–8 weak
+- [Aura of Glory (Insinuator)](../../characters/classes/antipaladin-archetypes.md#insinuator): warrior 9–15 op
+- [Aura of Indomitability (Insinuator)](../../characters/classes/antipaladin-archetypes.md#insinuator): warrior 16–20 common
+- [Aura of Putrefaction (Rough Rampager)](../../characters/classes/antipaladin-archetypes.md#rough-rampager): warrior 1–8 common
+- [Aura of Quietus (Rough Rampager)](../../characters/classes/antipaladin-archetypes.md#rough-rampager): warrior 9–15 common
+- [Aura of Rebirth (Grave Zealot)](../../characters/classes/antipaladin-archetypes.md#grave-zealot): warrior 9–15 common
+- [Aura of Sin](../../characters/classes/antipaladin.md#aura-of-sin-su): warrior 9–15 common
+- [Aura of the Grave (Grave Zealot)](../../characters/classes/antipaladin-archetypes.md#grave-zealot): warrior 1–8 weak
+- [Aura of Vengeance](../../characters/classes/antipaladin.md#aura-of-vengeance-su): warrior 9–15 op
+- [Beacon of Evil (Dread Vanguard)](../../characters/classes/antipaladin-archetypes.md#dread-vanguard): warrior 1–8 common
+- [Bonus Feats (Insinuator)](../../characters/classes/antipaladin-archetypes.md#insinuator): warrior 1–8 common
+- [Bonus Feats (Iron Tyrant)](../../characters/classes/antipaladin-archetypes.md#iron-tyrant): warrior 1–8 op
+- [Channel Energy (Insinuator)](../../characters/classes/antipaladin-archetypes.md#insinuator): warrior 1–8 common
+- [Corrupted Companion (Blighted Myrmidon)](../../characters/classes/antipaladin-archetypes.md#blighted-myrmidon): warrior 1–8 weak
+- [Cruelty](../../characters/classes/antipaladin.md#cruelty-su): warrior 1–8 common
+- [Dark Emissary (Dread Vanguard)](../../characters/classes/antipaladin-archetypes.md#dread-vanguard): warrior 9–15 common
+- [Detect Balance (Insinuator)](../../characters/classes/antipaladin-archetypes.md#insinuator): warrior 1–8 weak
+- [Diabolic Boon (Tyrant)](../../characters/classes/antipaladin-archetypes.md#tyrant): warrior 1–8 weak
+- [Enervating Touch (Blighted Myrmidon)](../../characters/classes/antipaladin-archetypes.md#blighted-myrmidon): warrior 9–15 weak
+- [Feed on Decay (Blighted Myrmidon)](../../characters/classes/antipaladin-archetypes.md#blighted-myrmidon): warrior 9–15 common
+- [Feed on Fear (Fearmonger)](../../characters/classes/antipaladin-archetypes.md#fearmonger): warrior 1–8 common
+- [Fiendish Bond (Iron Tyrant)](../../characters/classes/antipaladin-archetypes.md#iron-tyrant): warrior 1–8 common
+- [Fiendish Boon](../../characters/classes/antipaladin.md#fiendish-boon-sp): warrior 1–8 common
+- [Frightening Cruelty (Fearmonger)](../../characters/classes/antipaladin-archetypes.md#fearmonger): warrior 9–15 common
+- [Greeds (Insinuator)](../../characters/classes/antipaladin-archetypes.md#insinuator): warrior 1–8 common
+- [Invocation (Insinuator)](../../characters/classes/antipaladin-archetypes.md#insinuator): warrior 1–8 weak
+- [Iron Fist (Iron Tyrant)](../../characters/classes/antipaladin-archetypes.md#iron-tyrant): warrior 1–8 common
+- [Personal Champion (Insinuator)](../../characters/classes/antipaladin-archetypes.md#insinuator): warrior 16–20 op
+- [Plague Bringer](../../characters/classes/antipaladin.md#plague-bringer-ex): warrior 1–8 weak
+- [Selfish Healing (Insinuator)](../../characters/classes/antipaladin-archetypes.md#insinuator): warrior 1–8 common
+- [Smite good](../../characters/classes/antipaladin.md#smite-good-su): warrior 1–8 common
+- [Smite Impudence (Insinuator)](../../characters/classes/antipaladin-archetypes.md#insinuator): warrior 1–8 common
+- [Stubborn Health (Insinuator)](../../characters/classes/antipaladin-archetypes.md#insinuator): warrior 1–8 weak
+- [Touch of corruption](../../characters/classes/antipaladin.md#touch-of-corruption-su): warrior 1–8 common
+- [Unholy Champion](../../characters/classes/antipaladin.md#unholy-champion-su): warrior 16–20 op
+- [Unholy Resilience](../../characters/classes/antipaladin.md#unholy-resilience-su): warrior 1–8 common
+- [Unstoppable (Iron Tyrant)](../../characters/classes/antipaladin-archetypes.md#iron-tyrant): warrior 1–8 weak

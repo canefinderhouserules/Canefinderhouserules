@@ -247,7 +247,18 @@
   }
   function capFirst(t) { return t.charAt(0).toUpperCase() + t.slice(1); }
   // the features a class gives at its level, with the chosen archetypes' changes
+  // enemies saved with the earlier rogue and wild talent pickers kept their picks in c.talents and c.wild
+  function oldChoices(c) {
+    [['talents', 'rogue-talent'], ['wild', 'utility-talent']].forEach(function (m) {
+      if (!Array.isArray(c[m[0]])) return;
+      c.choices = c.choices || {};
+      var st = c.choices[m[1]] = c.choices[m[1]] || { picks: [] };
+      c[m[0]].forEach(function (n) { if (st.picks.indexOf(n) < 0) st.picks.push(n); });
+      delete c[m[0]];
+    });
+  }
   function classFeatures(c) {
+    oldChoices(c);
     var d = CLASS_BY[c.s], L = c.lvl || 1, out = [], bonus = 0;
     if (!d) return { list: out, bonusFeats: 0 };
     if (d.sw) {
@@ -260,12 +271,15 @@
         // a prestige class feature counts 3 levels higher, so it scales with the level less 3
         out.push({ name: p.n, type: '', text: p.text || info.text || PRICE_LABEL[p.price] + ' class feature (' + ord(p.lvl) + ' level).', link: p.link, lvl: p.slot, price: p.price, sw: true,
           src: srcOf(p.link), fxL: Math.max(1, L - (prestige ? 3 : 0)), prog: info.prog, featNote: info.feats ? (fl ? '+' + fl + ' feat' + (fl > 1 ? 's' : '') : 'no feat yet') + ' (at ' + info.feats.map(ord).join(', ') + ')' : '' });
+        var rule = choiceRule(p.n);
+        if (rule) out[out.length - 1].rule = rule;
       });
+      // each copy of a list feature ("Rogue Talents", "Wild Talents"...) gives one pick; the first copy carries them all
+      var firsts = {};
+      out.forEach(function (x) { if (!x.rule) return; var f = firsts[x.rule.list]; if (f) f.count++; else { firsts[x.rule.list] = x; x.count = 1; } });
+      c.choices = c.choices || {};
+      Object.keys(firsts).forEach(function (k) { out = out.concat(choiceFeatures(firsts[k].rule, c.choices, firsts[k])); });
       d.special.slice(0, L).forEach(function (t) { if (/Extra Combat Feat/i.test(t)) extra++; });
-      // each chosen "Rogue talent(s)" / "Wild talent(s)" feature gives one talent to pick; the first such feature carries the total
-      var rogueFx = out.filter(function (x) { return /^rogue talents?$/i.test(x.name); }), wildFx = out.filter(function (x) { return /^wild talents?$/i.test(x.name); });
-      if (rogueFx.length) rogueFx[0].tal = rogueFx.length;
-      if (wildFx.length) wildFx[0].wild = wildFx.length;
       return { list: out, bonusFeats: extra };
     }
     var typeOf = function (t) { var m = String(t).match(/\((Ex|Su|Sp)\)|-(ex|su|sp)$/i); return m ? capFirst((m[1] || m[2]).toLowerCase()) : ''; };
@@ -296,7 +310,9 @@
       var u = latest[k], label = capFirst(u.label);
       if (/^bonus feat/i.test(k)) return; // counted in the feat slots instead
       if (count[k] > 1 && !/\d/.test(label)) label += ' ×' + count[k];
-      out.push({ name: label, type: typeOf(u.sec || ''), text: (d.sec || {})[u.sec] || '', link: d.page + (u.sec ? '#' + u.sec : ''), lvl: u.lvl, src: d.s, fxL: L, tal: k === 'rogue talent' ? count[k] : 0, wild: k === 'wild talents' ? (count['utility wild talent'] || 0) : 0 });
+      out.push({ name: label, type: typeOf(u.sec || ''), text: (d.sec || {})[u.sec] || '', link: d.page + (u.sec ? '#' + u.sec : ''), lvl: u.lvl, src: d.s, fxL: L, unit: k, count: count[k] });
+      var rule = unitRule(k);
+      if (rule) { c.choices = c.choices || {}; out = out.concat(choiceFeatures(rule, c.choices, out[out.length - 1])); }
     });
     chosen.forEach(function (a) {
       a.abilities.forEach(function (b) {
@@ -310,24 +326,103 @@
     out.sort(function (x, y) { return x.lvl - y.lvl; });
     return { list: out, bonusFeats: bonus };
   }
-  // the rogue talents a class has picked (c.talents, names), as entries of DATA.rogueTalents; at most one per talent the class has
-  function rogueTalentPicks(c, slots) {
-    var list = DATA.rogueTalents || [];
-    return (c.talents || []).slice(0, slots).map(function (n) {
-      return list.filter(function (t) { return t.n === n; })[0];
-    }).filter(Boolean);
-  }
-  // the wild talents a class has picked (c.wild, names), as entries of DATA.wildTalents; at most one per utility talent it has
-  function wildTalentPicks(c, slots) {
-    var list = DATA.wildTalents || [];
-    return (c.wild || []).slice(0, slots).map(function (n) {
-      return list.filter(function (t) { return t.n === n; })[0];
-    }).filter(Boolean);
-  }
   // ---------- what class features do to the numbers ----------
   // Only lasting effects: modes that are turned on (rage and the like) go in as buffs by hand. A feature scales with
   // the level of its class (in the Star Wars builder, the class level; a prestige class feature, that less 3).
   function srcOf(link) { var m = String(link || '').match(/(?:classes|prestige-classes)\/(?:legendary\/)?([a-z0-9-]+?)(?:-archetypes)?\//); return m ? m[1] : ''; }
+
+  // ---------- class features that are "pick N from a list" ----------
+  // re: the feature's name as a subsystem list writes it; unit: the class table entry that gives one pick (its count
+  // up to your level is how many you get); list: the options (DATA.choices, tools/build-enemy-builder.js); adv: the
+  // level from which the advanced talents / master tricks are open; also: another list it can pick from.
+  var CHOICE_RULES = [
+    { re: /^rogue talents?$/, unit: /^rogue talents?$/, list: 'rogue-talent', adv: 10 },
+    { re: /^ninja tricks?$/, unit: /^ninja tricks?$/, list: 'ninja-trick', adv: 10, also: 'rogue-talent' },
+    { re: /^slayer talents?$/, unit: /^slayer talents?$/, list: 'slayer-talent', adv: 10, also: 'rogue-talent' },
+    { re: /^rage powers?$/, unit: /^rage powers?$/, list: 'rage-power' },
+    { re: /^discover(y|ies)$/, unit: /^discover(y|ies)$/, list: 'discovery' },
+    { re: /^infusions?$/, unit: /^infusions?$/, list: 'infusion' },
+    { re: /^(utility )?wild talents?$/, unit: /^utility wild talents?$/, list: 'utility-talent' }
+  ];
+  function choiceBase(n) { return String(n || '').toLowerCase().replace(/\s*×\d+$/, '').replace(/\s*\([^)]*\)\s*$/, '').trim(); }
+  function choiceRule(name) { var b = choiceBase(name); return CHOICE_RULES.filter(function (r) { return r.re.test(b); })[0] || null; }
+  function unitRule(base) { var b = choiceBase(base); return CHOICE_RULES.filter(function (r) { return r.unit.test(b); })[0] || null; }
+  // how many picks the feature gives at its level: its class table's entries up to that level (a copied feature in a
+  // subsystem builder: its source class's table at the level it scales with); at least 1
+  function choiceSlots(rule, x) {
+    if (x.count) return x.count;
+    var A = ARCH[x.src];
+    if (A === undefined && x.src && CLASS_BY[x.src] && CLASS_BY[x.src].arch) { loadArch(x.src); return null; }
+    if (!A || A === 'loading') return A === 'loading' ? null : 1;
+    var n = A.units.filter(function (u) { return !u.sub && u.lvl <= (x.fxL || 1) && rule.unit.test(choiceBase(u.base)); }).length;
+    return Math.max(1, n);
+  }
+  function choiceOptions(rule, L) {
+    var C = DATA.choices || {}, own = (C[rule.list] || { opts: [] }).opts, out = [];
+    var ok = function (o) { return (o.lvl || 1) <= L && (!o.adv || (rule.adv && L >= rule.adv)); };
+    own.forEach(function (o) { if (ok(o)) out.push({ o: o, from: '' }); });
+    if (rule.also && C[rule.also]) C[rule.also].opts.forEach(function (o) {
+      if (ok(o) && !own.some(function (x) { return x.n.toLowerCase() === o.n.toLowerCase(); })) out.push({ o: o, from: C[rule.also].n.replace(/s$/, '').toLowerCase() });
+    });
+    return out;
+  }
+  function choiceFind(rule, name) {
+    var C = DATA.choices || {}, lists = [rule.list].concat(rule.also ? [rule.also] : []);
+    for (var i = 0; i < lists.length; i++) {
+      var hit = ((C[lists[i]] || {}).opts || []).filter(function (o) { return o.n === name; })[0];
+      if (hit) return hit;
+    }
+    return null;
+  }
+  // the options picked for a feature, as features of their own (so they reach the stat block); x is the feature
+  function choiceFeatures(rule, store, x) {
+    var st = store[rule.list] = store[rule.list] || { picks: [] };
+    x.choice = { rule: rule, st: st };
+    // st.n: the number of picks set by hand (null: the class table's, or one per copy)
+    var slots = st.n != null ? st.n : choiceSlots(rule, x), L = x.fxL || 1;
+    return st.picks.map(function (n) { return choiceFind(rule, n) || { n: n, t: '', text: '', link: x.link }; }).filter(function (o) {
+      return (o.lvl || 1) <= L && (!o.adv || (rule.adv && L >= rule.adv));
+    }).slice(0, slots == null ? Infinity : slots).map(function (o) {
+      return { name: o.n, type: o.t || '', text: o.text || '', link: o.link, lvl: x.lvl, src: x.src, fxL: x.fxL, picked: x.name, arch: x.arch };
+    });
+  }
+  var choiceUid = 0;
+  // the box to pick them: the picks as chips, then a search over the options open at that level
+  function choiceBox(x, redraw) {
+    var rule = x.choice.rule, st = x.choice.st, L = x.fxL || 1, list = (DATA.choices || {})[rule.list] || { n: rule.list };
+    var auto = choiceSlots(rule, x), n = st.n != null ? st.n : auto;
+    if (n == null) return h('div', { class: 'eb-choice' }, h('small', { class: 'eb-note', text: 'Loading ' + list.n.toLowerCase() + '…' }));
+    var opts = choiceOptions(rule, L), byKey = {}, id = 'eb-choice-' + (++choiceUid);
+    var free = opts.filter(function (e) { return st.picks.indexOf(e.o.n) < 0; });
+    var dl = h('datalist', { id: id }, free.map(function (e) {
+      var key = e.o.n + (e.o.t ? ' (' + e.o.t + ')' : '') + (e.o.lvl > 1 ? ' — ' + ord(e.o.lvl) : '') + (e.o.adv ? ' — advanced' : '') + (e.from ? ' — ' + e.from : '') + (e.o.el ? ' — ' + e.o.el : '');
+      byKey[key] = e.o;
+      return h('option', { value: key, label: e.o.pre ? 'needs ' + e.o.pre : '' });
+    }));
+    var input = h('input', { type: 'text', class: 'eb-t eb-wide', placeholder: 'type to search ' + free.length + ' ' + list.n.toLowerCase() + '…' });
+    input.setAttribute('list', id);
+    var add = function () { var o = byKey[input.value]; if (!o) return; st.picks.push(o.n); changed(); redraw(); };
+    input.addEventListener('input', function () { if (byKey[input.value]) add(); });
+    input.addEventListener('change', add);
+    var over = st.picks.length > n;
+    var slotsBox = numBox(function () { return n; }, function (v) { st.n = v === auto ? null : v; }, { min: 0, max: 30 });
+    // typing commits on change; the − / + buttons change it at once
+    slotsBox.addEventListener('change', function () { redraw(); });
+    slotsBox.addEventListener('click', function (e) { if (e.target.classList.contains('eb-step')) redraw(); });
+    return h('div', { class: 'eb-choice eb-slot' + (over ? ' eb-bad' : '') },
+      h('div', { class: 'eb-slothead' }, h('b', { text: x.name.replace(/\s*×\d+$/, '') }), ' · ',
+        h('span', { class: over ? 'eb-over' : '', text: st.picks.length + ' of ' + n + ' chosen' }), ' · at ' + ord(L) + ' level',
+        rule.adv ? (L >= rule.adv ? ' · advanced ones open' : ' · advanced ones from ' + ord(rule.adv)) : ''),
+      h('div', { class: 'eb-chips' }, st.picks.map(function (name, i) {
+        var o = choiceFind(rule, name) || { n: name };
+        var late = (o.lvl || 1) > L || (o.adv && !(rule.adv && L >= rule.adv));
+        return h('span', { class: 'eb-chip' + (late ? ' eb-over' : ''), title: (late ? 'Not open at this level.\n\n' : '') + (o.pre ? 'Needs ' + o.pre + '.\n\n' : '') + (o.text || '') },
+          o.link ? h('a', { href: new URL(o.link, BASE).href, target: '_blank', text: o.n }) : o.n, o.t ? h('small', { text: ' ' + o.t }) : null,
+          h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { st.picks.splice(i, 1); changed(); redraw(); } }));
+      })),
+      st.picks.length < n ? h('div', { class: 'eb-inline' }, input, dl) : null,
+      h('label', { class: 'eb-inline eb-choice-n' }, h('small', { text: 'picks ' + (st.n != null ? '(set by hand; ' + auto + (x.sw ? ' copied)' : ' by the table)') : x.sw ? '(one per copy of the feature)' : '(by the class table)') }), slotsBox));
+  }
   var UNARMED = ['1d6', '1d6', '1d6', '1d8', '1d8', '1d8', '1d8', '1d10', '1d10', '1d10', '1d10', '2d6', '2d6', '2d6', '2d6', '2d8', '2d8', '2d8', '2d8', '2d10'];
   function sneakDice(L, name, src) {
     var m = name.match(/\((\d+)d6 at (\d+)\w* level(?:, \+1d6 (?:at (\d+)\w* and )?every (\d+) levels?)?/i);
@@ -469,7 +564,8 @@
       d.skills.forEach(function (n) { if (n === '*') SKILLS.forEach(function (sk) { D.classSkill[sk[0]] = true; }); else D.classSkill[n] = true; });
       var f = classFeatures(c);
       D.classBonusFeats += f.bonusFeats;
-      f.list.forEach(function (x) { x.on = (c.off || []).indexOf(x.name) < 0; x.cls = c; D.features.push(x); });
+      // a pick (a rogue talent...) is on only while the feature that gives it is
+      f.list.forEach(function (x) { x.on = (c.off || []).indexOf(x.picked || x.name) < 0 && (c.off || []).indexOf(x.name) < 0; x.cls = c; D.features.push(x); });
     });
     var noCon = S.type === 'undead' || S.type === 'construct';
     var M = {}; ABIL.forEach(function (a) { M[a] = mod(score(a)); });
@@ -767,14 +863,6 @@
       var dice = nm.match(/\b\d+d\d+(?:[+-]\d+)?/);
       if (dice) b.rolls = [[nm.replace(/\s*\+?\d+d\d+.*$/, '') || 'roll', dice[0]]];
       m.special.push(b);
-      // the rogue talents picked for a "Rogue talent" feature, one per talent it gives
-      if (x.tal) rogueTalentPicks(x.cls, x.tal).forEach(function (t) {
-        m.special.push({ name: t.n, type: t.t, text: 'Rogue talent. ' + (t.p ? 'Prerequisites: ' + t.p + '. ' : '') + t.x });
-      });
-      // the wild talents picked for a "Wild Talents" feature, one per utility talent it gives
-      if (x.wild) wildTalentPicks(x.cls, x.wild).forEach(function (t) {
-        m.special.push({ name: t.n, type: t.t, text: 'Wild talent. ' + (t.p ? 'Prerequisites: ' + t.p + '. ' : '') + t.x });
-      });
     });
     m.abilities = ABIL.map(function (a) { return a + ' ' + ((a === 'Con' && (S.type === 'undead' || S.type === 'construct')) ? '—' : score(a)); }).join(', ');
     m.combat = 'BAB ' + sgn(D.bab).replace('–', '-') + '; CMB ' + sgn(D.cmb).replace('–', '-') + '; CMD ' + D.cmd;
@@ -2307,7 +2395,7 @@
       var pick = select([['', SUB.noClass]].concat(SWD.classes.map(function (x) { return ['sw-' + x.s, x.n]; })),
         function () { return c ? c.s : ''; }, function (v) {
           if (!v) S.classes = [];
-          else if (c) { if (c.s !== v) { c.s = v; c.picks = []; c.talents = []; c.wild = []; } }
+          else if (c) { if (c.s !== v) { c.s = v; c.picks = []; c.choices = {}; } }
           else { S.classes = [{ s: v, lvl: 1, picks: [] }]; if (S.hd === 1 && S.type === 'humanoid') S.hd = 0; }
         }, function () { redrawAll(); });
       var head = h('div', { class: 'eb-grid' },
@@ -2369,6 +2457,8 @@
             higher.length ? h('small', { class: 'eb-over', text: 'Feature above the level of this choice: ' + higher.map(function (p) { return p.n + ' (' + ord(p.lvl) + ')'; }).join(', ') + '. The GM decides if it stays.' }) : null,
             msg);
         })));
+        var cboxes = D.features.filter(function (x) { return x.sw && x.choice && x.cls === c; }).map(function (x) { return choiceBox(x, redraw); });
+        if (cboxes.length) body.push(h('div', { class: 'eb-slots' }, cboxes));
         var nExtra = extraCount();
         for (var xi = 1; xi <= nExtra; xi++) (function (xi) {
           var mineX = c.picks.filter(function (p) { return p.extra === xi; });
@@ -2389,25 +2479,6 @@
             })),
             ptsX < 2 ? h('div', { class: 'eb-inline' }, priceX, pickerX.el) : null, msgX));
         })(xi);
-        // the "Rogue talent" and "Wild Talents" features: pick one talent for each of them chosen above
-        [['tal', 'talents', DATA.rogueTalents, 'Rogue talents', 'rogue talent', function (t) { return t.adv ? ' [advanced]' : ''; }],
-         ['wild', 'wild', DATA.wildTalents, 'Wild talents', 'wild talent', function (t) { return t.e ? ' [' + t.e + ']' : ''; }]].forEach(function (k) {
-          var fx = D.features.filter(function (x) { return x.cls === c && x[k[0]]; })[0], list = k[2] || [];
-          if (!fx || !list.length) return;
-          var n = fx[k[0]], got = c[k[1]] = c[k[1]] || [];
-          var sel = h('select', { class: 'eb-s' }, [h('option', { value: '', text: '+ ' + k[4] + ' (' + Math.min(got.length, n) + '/' + n + ')…' })].concat(
-            list.filter(function (t) { return got.indexOf(t.n) < 0; }).map(function (t) {
-              return h('option', { value: t.n, title: t.x, text: t.n + (t.t ? ' (' + t.t + ')' : '') + k[5](t) + (t.p ? ' — needs ' + t.p : '') });
-            })));
-          sel.disabled = got.length >= n;
-          sel.addEventListener('change', function () { if (sel.value) { got.push(sel.value); changed(); redraw(); } });
-          body.push(h('div', { class: 'eb-grid' }, field(k[3], sel),
-            got.length ? h('span', { class: 'eb-chips' }, got.map(function (nm, j) {
-              var t = list.filter(function (r) { return r.n === nm; })[0] || {};
-              return h('span', { class: 'eb-chip' + (j >= n ? ' eb-over' : ''), title: (t.p ? 'Needs ' + t.p + '.\n\n' : '') + (t.x || '') }, nm,
-                h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { got.splice(j, 1); changed(); redraw(); } }));
-            })) : null));
-        });
         if (limits.length) body.push(h('p', { class: 'eb-over', text: 'Over the limit: ' + limits.join('; ') + '.' }));
         if (c.lvl >= 20) body.push(h('p', { class: 'eb-note', text: 'Capstone at 20th level: agree it with the GM and add it under Special abilities.' }));
         body.push(h('p', { class: 'eb-note', text: 'Each choice: 1 Iconic, 1 OP, 2 Common or 4 Weak (Iconic and OP are 4 points, Common 2, Weak 1). From 12th level, the choices at 12th, 16th and 18th are 1 Common or 2 Weak. At most 1 Iconic, 1 OP chosen at levels 1–10 and 1 OP chosen at 11–20. A feature can be taken at its own level or later: the list shows them by level, and the ones above the choice go last, in grey; you can still pick one, the choice turns red and the GM decides. Filter by price, then type a name. Each feature brings its text from its page and grows with your level as in its class table (a prestige class feature, with your level less 3); the ones that change the numbers say how in color and are already in the stat block. Modes you turn on, such as rage, go in by hand.' }));
@@ -2431,7 +2502,7 @@
         var pick = h('select', { class: 'eb-s' }, opts());
         pick.value = c.s || '';
         pick.addEventListener('change', function () {
-          c.s = pick.value; c.arch = []; c.off = []; c.talents = [];
+          c.s = pick.value; c.arch = []; c.off = []; c.choices = {};
           // a humanoid with class levels has no racial Hit Dice
           if (CLASS_BY[c.s] && S.classes.length === 1 && S.hd === 1 && S.type === 'humanoid') S.hd = 0;
           loadArch(c.s); changed(); redrawAll();
@@ -2446,7 +2517,8 @@
           return h('span', { class: 'eb-chip' }, n, h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { c.arch.splice(j, 1); changed(); redrawAll(); } }));
         });
         var feats = D.features.filter(function (x) { return x.cls === c; });
-        var flist = h('div', { class: 'eb-features' }, feats.map(function (x) {
+        var boxes = feats.filter(function (x) { return x.choice && x.on; }).map(function (x) { return choiceBox(x, redrawClasses); });
+        var flist = h('div', { class: 'eb-features' }, feats.filter(function (x) { return !x.picked; }).map(function (x) {
           return h('label', { class: 'eb-feature' + (x.arch ? ' eb-arch' : ''), title: (x.note ? 'In the numbers: ' + x.note + '.\n\n' : '') + x.text },
             h('input', { type: 'checkbox', checked: x.on, onchange: function (e) {
               c.off = (c.off || []).filter(function (n) { return n !== x.name; }); if (!e.target.checked) c.off.push(x.name); changed();
@@ -2455,40 +2527,6 @@
             x.note ? h('small', { class: 'eb-fx', text: x.note + ' ' }) : null,
             h('a', { href: new URL(x.link, BASE).href, target: '_blank', text: '↗', onclick: function (e) { e.stopPropagation(); } }));
         }));
-        // the "Rogue talent" feature: pick as many talents as the class has at its level
-        var talFx = feats.filter(function (x) { return x.on && x.tal; })[0], talBox = null;
-        if (talFx && (DATA.rogueTalents || []).length) {
-          var got = c.talents = c.talents || [], full = got.length >= talFx.tal;
-          var talSel = h('select', { class: 'eb-s' }, [h('option', { value: '', text: '+ rogue talent (' + Math.min(got.length, talFx.tal) + '/' + talFx.tal + ')…' })].concat(
-            DATA.rogueTalents.filter(function (t) { return got.indexOf(t.n) < 0; }).map(function (t) {
-              return h('option', { value: t.n, title: t.x, text: t.n + (t.t ? ' (' + t.t + ')' : '') + (t.adv ? ' [advanced]' : '') + (t.p ? ' — needs ' + t.p : '') });
-            })));
-          talSel.disabled = full;
-          talSel.addEventListener('change', function () { if (talSel.value) { got.push(talSel.value); changed(); redrawAll(); } });
-          talBox = h('div', { class: 'eb-grid' }, field('Rogue talents', talSel),
-            got.length ? h('span', { class: 'eb-chips' }, got.map(function (n, j) {
-              var t = DATA.rogueTalents.filter(function (r) { return r.n === n; })[0] || {};
-              return h('span', { class: 'eb-chip' + (j >= talFx.tal ? ' eb-over' : ''), title: (t.p ? 'Needs ' + t.p + '.\n\n' : '') + (t.x || '') }, n,
-                h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { got.splice(j, 1); changed(); redrawAll(); } }));
-            })) : null);
-        }
-        // the "Wild Talents" feature: pick as many utility wild talents as the class has at its level
-        var wildFx = feats.filter(function (x) { return x.on && x.wild; })[0], wildBox = null;
-        if (wildFx && (DATA.wildTalents || []).length) {
-          var wgot = c.wild = c.wild || [], wfull = wgot.length >= wildFx.wild;
-          var wildSel = h('select', { class: 'eb-s' }, [h('option', { value: '', text: '+ wild talent (' + Math.min(wgot.length, wildFx.wild) + '/' + wildFx.wild + ')…' })].concat(
-            DATA.wildTalents.filter(function (t) { return wgot.indexOf(t.n) < 0; }).map(function (t) {
-              return h('option', { value: t.n, title: t.x, text: t.n + (t.t ? ' (' + t.t + ')' : '') + (t.e ? ' [' + t.e + ']' : '') + (t.p ? ' — needs ' + t.p : '') });
-            })));
-          wildSel.disabled = wfull;
-          wildSel.addEventListener('change', function () { if (wildSel.value) { wgot.push(wildSel.value); changed(); redrawAll(); } });
-          wildBox = h('div', { class: 'eb-grid' }, field('Wild talents', wildSel),
-            wgot.length ? h('span', { class: 'eb-chips' }, wgot.map(function (n, j) {
-              var t = DATA.wildTalents.filter(function (r) { return r.n === n; })[0] || {};
-              return h('span', { class: 'eb-chip' + (j >= wildFx.wild ? ' eb-over' : ''), title: (t.p ? 'Needs ' + t.p + '.\n\n' : '') + (t.x || '') }, n,
-                h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { wgot.splice(j, 1); changed(); redrawAll(); } }));
-            })) : null);
-        }
         return h('div', { class: 'eb-classrow' },
           h('div', { class: 'eb-grid' },
             field('Class', pick),
@@ -2497,7 +2535,8 @@
             chips.length ? h('span', { class: 'eb-chips' }, chips) : null,
             d ? h('small', { class: 'eb-note', text: 'd' + d.die + ', ' + d.ranks + ' + Int ranks per level' }) : null,
             h('button', { type: 'button', class: 'eb-x', text: '×', title: 'Remove class', onclick: function () { S.classes.splice(i, 1); changed(); redrawAll(); } })),
-          A === 'loading' ? h('p', { class: 'eb-note', text: 'Loading class features…' }) : feats.length ? flist : null, talBox, wildBox);
+          A === 'loading' ? h('p', { class: 'eb-note', text: 'Loading class features…' }) : feats.length ? flist : null,
+          boxes.length ? h('div', { class: 'eb-slots' }, boxes) : null);
       });
       var box = h('div', null, rows,
         h('button', { type: 'button', class: 'md-button eb-add', text: '+ Class', onclick: function () { S.classes.push({ s: '', lvl: 1, arch: [], off: [] }); changed(); redrawAll(); } }),

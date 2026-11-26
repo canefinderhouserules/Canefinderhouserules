@@ -1,0 +1,65 @@
+# Medium
+
+- [Agile Dancer (Spirit Dancer)](../../characters/classes/medium-archetypes.md#spirit-dancer): specialist 1–8 weak
+- [Apport Relic (Relic Channeler)](../../characters/classes/medium-archetypes.md#relic-channeler): specialist 1–8 weak
+- [Ask the Kami (Kami Medium)](../../characters/classes/medium-archetypes.md#kami-medium): specialist 9–15 weak
+- [Ask the Spirits](../../characters/classes/medium.md#ask-the-spirits-sp): specialist 9–15 weak
+- [Astral Beacon](../../characters/classes/medium.md#astral-beacon-su): specialist 16–20 common
+- [Astral Journey](../../characters/classes/medium.md#astral-journey-sp): specialist 9–15 weak
+- [Attacca (Spirit Dancer)](../../characters/classes/medium-archetypes.md#spirit-dancer): specialist 16–20 common
+- [Blasphemy (Voice of the Void)](../../characters/classes/medium-archetypes.md#voice-of-the-void): specialist 1–8 weak
+- [Channel Self (Reanimated Medium)](../../characters/classes/medium-archetypes.md#reanimated-medium): specialist 1–8 common
+- [Connection Specialty (Relic Channeler)](../../characters/classes/medium-archetypes.md#relic-channeler): specialist 1–8 weak
+- [Consume Spirit (Spirit Eater)](../../characters/classes/medium-archetypes.md#spirit-eater): specialist 1–8 common
+- [Dance of Infinite Forms (Spirit Dancer)](../../characters/classes/medium-archetypes.md#spirit-dancer): specialist 16–20 common
+- [Dedicated Surge (Medium of the Master)](../../characters/classes/medium-archetypes.md#medium-of-the-master): specialist 1–8 common
+- [Ease Passage (Reanimated Medium)](../../characters/classes/medium-archetypes.md#reanimated-medium): specialist 1–8 weak
+- [Ectoplasmic Strikes (Spirit Eater)](../../characters/classes/medium-archetypes.md#spirit-eater): specialist 1–8 weak
+- [Emissary (Voice of the Void)](../../characters/classes/medium-archetypes.md#voice-of-the-void): specialist 1–8 weak
+- [Evil Spirit (Fiend Keeper)](../../characters/classes/medium-archetypes.md#fiend-keeper): specialist 1–8 common
+- [Haunt Channeler](../../characters/classes/medium.md#haunt-channeler-su): warrior 1–8 weak, specialist 1–8 weak
+- [Heroic Exceptions (Vessel of the Fallen)](../../characters/classes/medium-archetypes.md#vessel-of-the-fallen): specialist 1–8 common
+- [Impossible Eye (Third Eye Channeler)](../../characters/classes/medium-archetypes.md#third-eye-channeler): specialist 1–8 weak
+- [Learn the Story (Storyteller)](../../characters/classes/medium-archetypes.md#storyteller): specialist 1–8 weak
+- [Lingering Spirit (Reanimated Medium)](../../characters/classes/medium-archetypes.md#reanimated-medium): specialist 1–8 common
+- [Living Legend (Reanimated Medium)](../../characters/classes/medium-archetypes.md#reanimated-medium): specialist 16–20 common
+- [Living Story (Storyteller)](../../characters/classes/medium-archetypes.md#storyteller): specialist 16–20 common
+- [Living Third Eye (Third Eye Channeler)](../../characters/classes/medium-archetypes.md#third-eye-channeler): specialist 16–20 common
+- [Location Channel](../../characters/classes/medium.md#location-channel-sp): specialist 1–8 weak
+- [Master's Power (Medium of the Master)](../../characters/classes/medium-archetypes.md#medium-of-the-master): specialist 1–8 common
+- [Master's Strike (Medium of the Master)](../../characters/classes/medium-archetypes.md#medium-of-the-master): specialist 1–8 common
+- [Master's Style (Medium of the Master)](../../characters/classes/medium-archetypes.md#medium-of-the-master): specialist 16–20 weak
+- [Mind and Soul (Ancestral Spirit Channeler)](../../characters/classes/medium-archetypes.md#ancestral-spirit-channeler): specialist 1–8 common
+- [Object Reading (Relic Channeler)](../../characters/classes/medium-archetypes.md#relic-channeler): specialist 1–8 weak
+- [Outsider Invocation (Outer Channeler)](../../characters/classes/medium-archetypes.md#outer-channeler): specialist 1–8 common
+- [Powerful Bond (Relic Channeler)](../../characters/classes/medium-archetypes.md#relic-channeler): specialist 1–8 common
+- [Propitiation](../../characters/classes/medium.md#propitiation-su): specialist 9–15 common
+- [Reckless Surge (Vessel of the Fallen)](../../characters/classes/medium-archetypes.md#vessel-of-the-fallen): specialist 1–8 weak
+- [Relics (Relic Channeler)](../../characters/classes/medium-archetypes.md#relic-channeler): specialist 1–8 common
+- [Servitor (Outer Channeler)](../../characters/classes/medium-archetypes.md#outer-channeler): specialist 1–8 common
+- [Shared Prowess (Medium of the Master)](../../characters/classes/medium-archetypes.md#medium-of-the-master): specialist 1–8 common
+- [Shared Seance](../../characters/classes/medium.md#shared-seance-su): specialist 1–8 weak
+- [Shikigami (Kami Medium)](../../characters/classes/medium-archetypes.md#kami-medium): specialist 1–8 common
+- [Spacious Soul](../../characters/classes/medium.md#spacious-soul-su): specialist 16–20 common
+- [Spirit (medium)](../../characters/classes/medium.md#spirit-su): specialist 1–8 iconic
+- [Spirit Aura (Spirit Dancer)](../../characters/classes/medium-archetypes.md#spirit-dancer): specialist 1–8 weak
+- [Spirit Mastery](../../characters/classes/medium.md#spirit-mastery-ex): specialist 16–20 common
+- [Spirit Surge](../../characters/classes/medium.md#spirit-surge-su): specialist 1–8 weak, caster 1–8 weak
+- [Spirit Tongue (Fate Vessel)](../../characters/classes/medium-archetypes.md#fate-vessel): specialist 1–8 weak
+- [Spirit Troika (Spirit Dancer)](../../characters/classes/medium-archetypes.md#spirit-dancer): specialist 9–15 common
+- [Spirit Warding (Reanimated Medium)](../../characters/classes/medium-archetypes.md#reanimated-medium): specialist 1–8 common
+- [Spiritual Swan Song (Vessel of the Fallen)](../../characters/classes/medium-archetypes.md#vessel-of-the-fallen): specialist 9–15 common
+- [Storm Domain (Storm Dreamer)](../../characters/classes/medium-archetypes.md#storm-dreamer): specialist 1–8 weak
+- [Storm Trance (Storm Dreamer)](../../characters/classes/medium-archetypes.md#storm-dreamer): specialist 1–8 common
+- [Storyteller’s Performance (Storyteller)](../../characters/classes/medium-archetypes.md#storyteller): specialist 1–8 weak
+- [Surge of the Void (Voice of the Void)](../../characters/classes/medium-archetypes.md#voice-of-the-void): specialist 1–8 weak
+- [Taboo](../../characters/classes/medium.md#taboo-ex): specialist 1–8 weak
+- [Third Eye (Third Eye Channeler)](../../characters/classes/medium-archetypes.md#third-eye-channeler): specialist 1–8 weak
+- [Third Eye Mastery (Third Eye Channeler)](../../characters/classes/medium-archetypes.md#third-eye-channeler): specialist 16–20 common
+- [Trance of Three](../../characters/classes/medium.md#trance-of-three-su): specialist 9–15 common
+- [Versatile Surge (Storyteller)](../../characters/classes/medium-archetypes.md#storyteller): specialist 1–8 weak
+- [Void Channeler (Voice of the Void)](../../characters/classes/medium-archetypes.md#voice-of-the-void): specialist 1–8 common
+- [Ward (Kami Medium)](../../characters/classes/medium-archetypes.md#kami-medium): specialist 9–15 weak
+- [Whispered Secrets (Fate Vessel)](../../characters/classes/medium-archetypes.md#fate-vessel): specialist 1–8 weak
+- [Will of the Fallen (Vessel of the Fallen)](../../characters/classes/medium-archetypes.md#vessel-of-the-fallen): specialist 1–8 common
+- [Wrangle Condition (Ancestral Spirit Channeler)](../../characters/classes/medium-archetypes.md#ancestral-spirit-channeler): specialist 1–8 weak

@@ -1,0 +1,133 @@
+# Alchemist
+
+- [Adaptive Physiology (Metamorph)](../../characters/classes/alchemist-archetypes.md#metamorph): specialist 1–8 common
+- [Aeromantic Concoction (Aerochemist)](../../characters/classes/alchemist-archetypes.md#aerochemist): specialist 1–8 weak
+- [Alchemical Antidote (Royal Alchemist)](../../characters/classes/alchemist-archetypes.md#royal-alchemist): specialist 1–8 weak
+- [Alchemical Circles (Blood Alchemist)](../../characters/classes/alchemist-archetypes.md#blood-alchemist): specialist 1–8 weak
+- [Alchemical Ordnance (Gun Chemist)](../../characters/classes/alchemist-archetypes.md#gun-chemist): specialist 1–8 common
+- [Alchemical Weapon (Grenadier)](../../characters/classes/alchemist-archetypes.md#grenadier): specialist 1–8 common
+- [Alcoholic Alchemy (Mixologist)](../../characters/classes/alchemist-archetypes.md#mixologist): specialist 1–8 common
+- [Alcoholic Bombs (Mixologist)](../../characters/classes/alchemist-archetypes.md#mixologist): specialist 1–8 common
+- [Alcoholic Resistance (Mixologist)](../../characters/classes/alchemist-archetypes.md#mixologist): specialist 1–8 weak
+- [Alkahest Bombs (Crypt Breaker)](../../characters/classes/alchemist-archetypes.md#crypt-breaker): specialist 1–8 common
+- [Amphibious Mutagen (Bogborn Alchemist)](../../characters/classes/alchemist-archetypes.md#bogborn-alchemist): specialist 1–8 weak
+- [Anaesthetic (Chirurgeon)](../../characters/classes/alchemist-archetypes.md#chirurgeon): specialist 1–8 weak
+- [Anguish Bomb (Mnemostiller)](../../characters/classes/alchemist-archetypes.md#mnemostiller): specialist 1–8 common
+- [Arcanotoxin (Eldritch Poisoner)](../../characters/classes/alchemist-archetypes.md#eldritch-poisoner): specialist 1–8 common
+- [Atomized Extracts (Perfumer)](../../characters/classes/alchemist-archetypes.md#perfumer): specialist 1–8 weak
+- [Banish Blights (Wasteland Blightbreaker)](../../characters/classes/alchemist-archetypes.md#wasteland-blightbreaker): specialist 1–8 weak
+- [Batch Brew (Fermenter)](../../characters/classes/alchemist-archetypes.md#fermenter): specialist 1–8 weak
+- [Beastform Mutagen (Beastmorph)](../../characters/classes/alchemist-archetypes.md#beastmorph): specialist 1–8 weak
+- [Bleeding Attack (Vivisectionist)](../../characters/classes/alchemist-archetypes.md#vivisectionist): specialist 1–8 weak
+- [Blood Familiar (Cruorchymist)](../../characters/classes/alchemist-archetypes.md#cruorchymist): specialist 1–8 common
+- [Blood Treatment (Cruorchymist)](../../characters/classes/alchemist-archetypes.md#cruorchymist): specialist 1–8 common
+- [Bombs](../../characters/classes/alchemist.md#bomb-su): warrior 1–8 common, specialist 1–8 common
+- [Bombs Away (Aerochemist)](../../characters/classes/alchemist-archetypes.md#aerochemist): specialist 1–8 common
+- [Bonus Investigator Talents (Inspired Chemist)](../../characters/classes/alchemist-archetypes.md#inspired-chemist): specialist 1–8 weak
+- [Breaking and Entering (Vaultbreaker)](../../characters/classes/alchemist-archetypes.md#vaultbreaker): specialist 1–8 weak
+- [Breath Mastery (Internal Alchemist)](../../characters/classes/alchemist-archetypes.md#internal-alchemist): specialist 1–8 weak
+- [Brew Potion](../../characters/classes/alchemist.md#brew-potion-ex): specialist 1–8 weak
+- [Brewed Memories (Mnemostiller)](../../characters/classes/alchemist-archetypes.md#mnemostiller): specialist 1–8 weak
+- [Briar Bombs (Bramble Brewer)](../../characters/classes/alchemist-archetypes.md#bramble-brewer): specialist 1–8 common
+- [Careful Injection (Eldritch Poisoner)](../../characters/classes/alchemist-archetypes.md#eldritch-poisoner): specialist 1–8 common
+- [Cartridge Savant (Gun Chemist)](../../characters/classes/alchemist-archetypes.md#gun-chemist): specialist 1–8 common
+- [Chameleon Mutagen (Saboteur)](../../characters/classes/alchemist-archetypes.md#saboteur): specialist 1–8 weak
+- [Clockwork Bond (Tinkerer)](../../characters/classes/alchemist-archetypes.md#tinkerer): specialist 1–8 common
+- [Clockwork Familiar (Tinkerer)](../../characters/classes/alchemist-archetypes.md#tinkerer): specialist 1–8 weak
+- [Clockwork Mimicries (Tinkerer)](../../characters/classes/alchemist-archetypes.md#tinkerer): specialist 9–15 common
+- [Clockwork Upgrade (Tinkerer)](../../characters/classes/alchemist-archetypes.md#tinkerer): specialist 9–15 weak
+- [Cognatogen (Mindchemist)](../../characters/classes/alchemist-archetypes.md#mindchemist): specialist 1–8 op
+- [Cold Sweat (Ice Chemist)](../../characters/classes/alchemist-archetypes.md#ice-chemist): specialist 1–8 weak
+- [Craft Construct (Promethean Alchemist)](../../characters/classes/alchemist-archetypes.md#promethean-alchemist): specialist 1–8 weak
+- [Craft Mount (Construct Rider)](../../characters/classes/alchemist-archetypes.md#construct-rider): specialist 1–8 op
+- [Crippling Strike (Vivisectionist)](../../characters/classes/alchemist-archetypes.md#vivisectionist): specialist 9–15 weak
+- [Cruel Anatomist (Vivisectionist)](../../characters/classes/alchemist-archetypes.md#vivisectionist): specialist 1–8 weak
+- [Crypt Breaker's Draught (Crypt Breaker)](../../characters/classes/alchemist-archetypes.md#crypt-breaker): specialist 1–8 weak
+- [Demolition Bomb (Alchemical Sapper)](../../characters/classes/alchemist-archetypes.md#alchemical-sapper): specialist 1–8 common
+- [Dendrite Mutagen (Bramble Brewer)](../../characters/classes/alchemist-archetypes.md#bramble-brewer): specialist 1–8 common
+- [Directed Blast (Grenadier)](../../characters/classes/alchemist-archetypes.md#grenadier): specialist 1–8 common
+- [Discovery](../../characters/classes/alchemist.md#discovery-su): specialist 1–8 common
+- [Divinely Inspired Alchemy (Sacrament Alchemist)](../../characters/classes/alchemist-archetypes.md#sacrament-alchemist): specialist 1–8 common
+- [Ectochymical Analysis (Ectochymist)](../../characters/classes/alchemist-archetypes.md#ectochymist): specialist 9–15 weak
+- [Ectoplasmic Blanche (Ectochymist)](../../characters/classes/alchemist-archetypes.md#ectochymist): specialist 1–8 weak
+- [Ectoplasmic Extracts (Ectoplasm Master)](../../characters/classes/alchemist-archetypes.md#ectoplasm-master): specialist 1–8 common
+- [Energist Bombs (Energist)](../../characters/classes/alchemist-archetypes.md#energist): specialist 1–8 common
+- [Energist Resistance (Energist)](../../characters/classes/alchemist-archetypes.md#energist): specialist 1–8 common
+- [Energy Bombs (Energy Scientist)](../../characters/classes/alchemist-archetypes.md#energy-scientist): specialist 1–8 common
+- [Energy Focus (Energist)](../../characters/classes/alchemist-archetypes.md#energist): specialist 1–8 weak
+- [Enhanced Safecracking (Vaultbreaker)](../../characters/classes/alchemist-archetypes.md#vaultbreaker): specialist 1–8 weak
+- [Everburning Flame (Blazing Torchbearer)](../../characters/classes/alchemist-archetypes.md#blazing-torchbearer): specialist 1–8 weak
+- [Experimental Mutagen (Fleshforge Researcher)](../../characters/classes/alchemist-archetypes.md#fleshforge-researcher): specialist 1–8 common
+- [Explosive Breath (Dragonblood Chymist)](../../characters/classes/alchemist-archetypes.md#dragonblood-chymist): specialist 1–8 weak
+- [Explosive Disarm (Trap Breaker)](../../characters/classes/alchemist-archetypes.md#trap-breaker): specialist 1–8 weak
+- [Explosive Torch (Blazing Torchbearer)](../../characters/classes/alchemist-archetypes.md#blazing-torchbearer): specialist 1–8 common
+- [Extracting Mixology (Concocter)](../../characters/classes/alchemist-archetypes.md#concocter): specialist 1–8 common
+- [Extradimensional Extract (Dimensional Excavator)](../../characters/classes/alchemist-archetypes.md#dimensional-excavator): specialist 1–8 common
+- [Fiery Cocktail (Fire Bomber)](../../characters/classes/alchemist-archetypes.md#fire-bomber): specialist 1–8 common
+- [Fire Bombardier (Fire Bomber)](../../characters/classes/alchemist-archetypes.md#fire-bomber): specialist 1–8 common
+- [Flying Beast Tamer (Winged Marauder)](../../characters/classes/alchemist-archetypes.md#winged-marauder): specialist 1–8 op
+- [Frost Bomb (Ice Chemist)](../../characters/classes/alchemist-archetypes.md#ice-chemist): specialist 1–8 weak
+- [Fury of Nature (Horticulturist)](../../characters/classes/alchemist-archetypes.md#horticulturist): specialist 9–15 weak
+- [Ghost Trap (Ectochymist)](../../characters/classes/alchemist-archetypes.md#ectochymist): specialist 1–8 weak
+- [Gloom (Gloom Chymist)](../../characters/classes/alchemist-archetypes.md#gloom-chymist): specialist 1–8 common
+- [Grand Beastform Mutagen (Beastmorph)](../../characters/classes/alchemist-archetypes.md#beastmorph): specialist 9–15 common
+- [Grand Discovery](../../characters/classes/alchemist.md#grand-discovery-su): specialist 16–20 common
+- [Greater Beastform Mutagen (Beastmorph)](../../characters/classes/alchemist-archetypes.md#beastmorph): specialist 9–15 common
+- [Greater Tinkering (Tinkerer)](../../characters/classes/alchemist-archetypes.md#tinkerer): specialist 1–8 weak
+- [Healing Ampoule (Energist)](../../characters/classes/alchemist-archetypes.md#energist): specialist 1–8 common
+- [Healing Infusion (Wasteland Blightbreaker)](../../characters/classes/alchemist-archetypes.md#wasteland-blightbreaker): specialist 1–8 weak
+- [Herbal Bombs (Horticulturist)](../../characters/classes/alchemist-archetypes.md#horticulturist): specialist 1–8 common
+- [Herbalism (Herbalist)](../../characters/classes/alchemist-archetypes.md#herbalist): specialist 1–8 weak
+- [Homunculus Companion (Promethean Alchemist)](../../characters/classes/alchemist-archetypes.md#promethean-alchemist): specialist 1–8 common
+- [Homunculus Familiar (Homunculist)](../../characters/classes/alchemist-archetypes.md#homunculist): specialist 1–8 common
+- [Icy Bombs (Ice Chemist)](../../characters/classes/alchemist-archetypes.md#ice-chemist): specialist 1–8 common
+- [Improved Beastform Mutagen (Beastmorph)](../../characters/classes/alchemist-archetypes.md#beastmorph): specialist 1–8 weak
+- [Infused Curative (Chirurgeon)](../../characters/classes/alchemist-archetypes.md#chirurgeon): specialist 1–8 weak
+- [Injections (Interrogator)](../../characters/classes/alchemist-archetypes.md#interrogator): specialist 1–8 common
+- [Inspiring Cognatogen (Inspired Chemist)](../../characters/classes/alchemist-archetypes.md#inspired-chemist): specialist 1–8 common
+- [Instant Alchemy](../../characters/classes/alchemist.md#instant-alchemy-ex): specialist 16–20 weak
+- [Intense Light (Blazing Torchbearer)](../../characters/classes/alchemist-archetypes.md#blazing-torchbearer): specialist 1–8 weak
+- [Land Mine (Trap Breaker)](../../characters/classes/alchemist-archetypes.md#trap-breaker): specialist 1–8 common
+- [Lifeblood (Blood Alchemist)](../../characters/classes/alchemist-archetypes.md#blood-alchemist): specialist 1–8 weak
+- [Mad Genius (Mad Scientist)](../../characters/classes/alchemist-archetypes.md#mad-scientist): specialist 1–8 common
+- [Mad Mutagen (Mad Scientist)](../../characters/classes/alchemist-archetypes.md#mad-scientist): specialist 1–8 common
+- [Mental Ambix (Mnemostiller)](../../characters/classes/alchemist-archetypes.md#mnemostiller): specialist 1–8 weak
+- [Mine Engineering (Trap Breaker)](../../characters/classes/alchemist-archetypes.md#trap-breaker): specialist 9–15 weak
+- [Mixologist Master (Mixologist)](../../characters/classes/alchemist-archetypes.md#mixologist): specialist 9–15 weak
+- [Mutagen](../../characters/classes/alchemist.md#mutagen-su): warrior 1–8 op, specialist 1–8 op
+- [Mutagenic Mixology (Concocter)](../../characters/classes/alchemist-archetypes.md#concocter): specialist 1–8 common
+- [Natural Empath (Mnemostiller)](../../characters/classes/alchemist-archetypes.md#mnemostiller): specialist 1–8 weak
+- [Natural Magic (Herbalist)](../../characters/classes/alchemist-archetypes.md#herbalist): specialist 1–8 weak
+- [Ooze Bomb (Oozemaster)](../../characters/classes/alchemist-archetypes.md#oozemaster): specialist 1–8 common
+- [Ooze Toxin (Oozemaster)](../../characters/classes/alchemist-archetypes.md#oozemaster): specialist 1–8 weak
+- [Perfect Recall (Mindchemist)](../../characters/classes/alchemist-archetypes.md#mindchemist): specialist 1–8 weak
+- [Persistent Mutagen](../../characters/classes/alchemist.md#persistent-mutagen-su): specialist 9–15 weak
+- [Pheromones (Perfumer)](../../characters/classes/alchemist-archetypes.md#perfumer): specialist 1–8 weak
+- [Plant Familiar (Horticulturist)](../../characters/classes/alchemist-archetypes.md#horticulturist): specialist 1–8 common
+- [Poisons](../../characters/classes/alchemist.md#poison-use-ex): warrior 1–8 weak, specialist 1–8 weak
+- [Primal Reagents (Primal Innovator)](../../characters/classes/alchemist-archetypes.md#primal-innovator): specialist 1–8 common
+- [Rage Mutagen (Ragechemist)](../../characters/classes/alchemist-archetypes.md#ragechemist): specialist 1–8 common
+- [Rasugen (Mnemostiller)](../../characters/classes/alchemist-archetypes.md#mnemostiller): specialist 1–8 common
+- [Rebirth (Clone Master)](../../characters/classes/alchemist-archetypes.md#clone-master): specialist 1–8 common
+- [Repeat Fire (Gun Chemist)](../../characters/classes/alchemist-archetypes.md#gun-chemist): specialist 1–8 weak
+- [Sacramental Cognatogen (Sacrament Alchemist)](../../characters/classes/alchemist-archetypes.md#sacrament-alchemist): specialist 1–8 common
+- [Safecracking (Vaultbreaker)](../../characters/classes/alchemist-archetypes.md#vaultbreaker): specialist 1–8 weak
+- [Salvage Energy (Energy Scientist)](../../characters/classes/alchemist-archetypes.md#energy-scientist): specialist 1–8 weak
+- [Seedpods (Herbalist)](../../characters/classes/alchemist-archetypes.md#herbalist): specialist 1–8 common
+- [Serums (Interrogator)](../../characters/classes/alchemist-archetypes.md#interrogator): specialist 1–8 common
+- [Shapechanger (Metamorph)](../../characters/classes/alchemist-archetypes.md#metamorph): specialist 1–8 common
+- [Silent Bomb (Deep Bomber)](../../characters/classes/alchemist-archetypes.md#deep-bomber): specialist 1–8 weak
+- [Sneak Attack (1d6 at 1st level, +1d6 at 4th and every 4 levels)](../../characters/classes/alchemist-archetypes.md#eldritch-poisoner): specialist 1–8 op
+- [Spore Bomb (Blightseeker)](../../characters/classes/alchemist-archetypes.md#blightseeker): specialist 1–8 common
+- [Staggering Blast (Grenadier)](../../characters/classes/alchemist-archetypes.md#grenadier): specialist 9–15 common
+- [Swift Alchemy](../../characters/classes/alchemist.md#swift-alchemy-ex): specialist 1–8 weak
+- [Swift Healing Infusions (Wasteland Blightbreaker)](../../characters/classes/alchemist-archetypes.md#wasteland-blightbreaker): specialist 1–8 weak
+- [Swift Poisons](../../characters/classes/alchemist.md#swift-poisoning-ex): specialist 1–8 weak
+- [Targeting Bomb (Deep Bomber)](../../characters/classes/alchemist-archetypes.md#deep-bomber): specialist 1–8 weak
+- [Throw Anything](../../characters/classes/alchemist.md#throw-anything-ex): specialist 1–8 common
+- [Tinkering (Tinkerer)](../../characters/classes/alchemist-archetypes.md#tinkerer): specialist 1–8 common
+- [Toxic Digestion (Toxicant)](../../characters/classes/alchemist-archetypes.md#toxicant): specialist 9–15 common
+- [Toxic Secretion (Toxicant)](../../characters/classes/alchemist-archetypes.md#toxicant): specialist 1–8 common
+- [Toxicologist (Eldritch Poisoner)](../../characters/classes/alchemist-archetypes.md#eldritch-poisoner): specialist 1–8 weak
+- [Trip Mine (Alchemical Sapper)](../../characters/classes/alchemist-archetypes.md#alchemical-sapper): specialist 1–8 common
+- [Volatile Bombs (Fermenter)](../../characters/classes/alchemist-archetypes.md#fermenter): specialist 1–8 common

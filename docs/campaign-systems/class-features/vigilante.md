@@ -1,0 +1,79 @@
+# Vigilante
+
+- [Agathion Blessing (Agathiel)](../../characters/classes/vigilante-archetypes.md#agathiel): specialist 1–8 weak
+- [Animal Guide (Magical Child)](../../characters/classes/vigilante-archetypes.md#magical-child): specialist 1–8 common
+- [Armored Juggernaut (Faceless Enforcer)](../../characters/classes/vigilante-archetypes.md#faceless-enforcer): specialist 1–8 weak
+- [Bear Form (Wildsoul)](../../characters/classes/vigilante-archetypes.md#wildsoul): specialist 16–20 common
+- [Bloodbound Spell (Cabalist)](../../characters/classes/vigilante-archetypes.md#cabalist): specialist 1–8 common
+- [Bloody Horror (Cabalist)](../../characters/classes/vigilante-archetypes.md#cabalist): specialist 9–15 weak
+- [Bond of Blood (Cabalist)](../../characters/classes/vigilante-archetypes.md#cabalist): specialist 1–8 common
+- [Brute Form (Brute)](../../characters/classes/vigilante-archetypes.md#brute): specialist 1–8 common
+- [Calling Card (Serial Killer)](../../characters/classes/vigilante-archetypes.md#serial-killer): specialist 1–8 weak
+- [Charming (Serial Killer)](../../characters/classes/vigilante-archetypes.md#serial-killer): specialist 1–8 weak
+- [Conqueror's Wrath (Throne Loyalist)](../../characters/classes/vigilante-archetypes.md#throne-loyalist): specialist 16–20 common
+- [Court Courtier (Throne Loyalist)](../../characters/classes/vigilante-archetypes.md#throne-loyalist): specialist 1–8 weak
+- [Crop Vigilance (Freedom Harvester)](../../characters/classes/vigilante-archetypes.md#freedom-harvester): specialist 1–8 common
+- [Dark Identity (Darklantern)](../../characters/classes/vigilante-archetypes.md#darklantern): specialist 1–8 weak
+- [Death Attack (Serial Killer)](../../characters/classes/vigilante-archetypes.md#serial-killer): specialist 1–8 op
+- [Deceitful Form (Horned Mask Enforcer)](../../characters/classes/vigilante-archetypes.md#horned-mask-enforcer): specialist 1–8 weak
+- [Drow Paragon (Darklantern)](../../characters/classes/vigilante-archetypes.md#darklantern): specialist 1–8 common
+- [Dual Heritage (Half-Elf Double Scion)](../../characters/classes/vigilante-archetypes.md#half-elf-double-scion): specialist 1–8 weak
+- [Dual identity](../../characters/classes/vigilante.md#dual-identity-ex): specialist 1–8 weak
+- [False Allegiance (Throne Loyalist)](../../characters/classes/vigilante-archetypes.md#throne-loyalist): specialist 1–8 weak
+- [False Flag (Imperial Agent)](../../characters/classes/vigilante-archetypes.md#imperial-agent): specialist 1–8 weak
+- [False Reading (Silent Thought-Killer)](../../characters/classes/vigilante-archetypes.md#silent-thought-killer): specialist 9–15 weak
+- [Forbidden Science (Experimenter)](../../characters/classes/vigilante-archetypes.md#experimenter): specialist 1–8 weak
+- [Furious Charge (Mounted Fury)](../../characters/classes/vigilante-archetypes.md#mounted-fury): specialist 1–8 common
+- [Grisly Murder (Serial Killer)](../../characters/classes/vigilante-archetypes.md#serial-killer): specialist 9–15 weak
+- [Guise of the Land Walker (Hidden Current)](../../characters/classes/vigilante-archetypes.md#hidden-current): specialist 1–8 weak
+- [Gunmaster (Gunmaster)](../../characters/classes/vigilante-archetypes.md#gunmaster): specialist 1–8 common
+- [Hangman’s Noose (Hangman)](../../characters/classes/vigilante-archetypes.md#hangman): specialist 1–8 weak
+- [Implements and Focus Powers (Psychometrist)](../../characters/classes/vigilante-archetypes.md#psychometrist): specialist 1–8 common
+- [Inquisition (Zealot)](../../characters/classes/vigilante-archetypes.md#zealot): specialist 1–8 common
+- [Monastic Communication (Silent Thought-Killer)](../../characters/classes/vigilante-archetypes.md#silent-thought-killer): specialist 1–8 weak
+- [Mutable Mutagen (Experimenter)](../../characters/classes/vigilante-archetypes.md#experimenter): specialist 16–20 weak
+- [Mutagenic Change (Experimenter)](../../characters/classes/vigilante-archetypes.md#experimenter): specialist 1–8 weak
+- [Mutant Talents (Mutated Defender)](../../characters/classes/vigilante-archetypes.md#mutated-defender): specialist 1–8 op
+- [Mystic Bolts (Warlock)](../../characters/classes/vigilante-archetypes.md#warlock): specialist 1–8 common
+- [Natural Course (Wildsoul)](../../characters/classes/vigilante-archetypes.md#wildsoul): specialist 1–8 common
+- [Object Reading (Psychometrist)](../../characters/classes/vigilante-archetypes.md#psychometrist): specialist 1–8 weak
+- [Obsequious (Freedom Harvester)](../../characters/classes/vigilante-archetypes.md#freedom-harvester): specialist 1–8 weak
+- [Oni Mask (Horned Mask Enforcer)](../../characters/classes/vigilante-archetypes.md#horned-mask-enforcer): specialist 1–8 weak
+- [Piercing Bolts (Warlock)](../../characters/classes/vigilante-archetypes.md#warlock): specialist 1–8 weak
+- [Psychometric Strike (Psychometrist)](../../characters/classes/vigilante-archetypes.md#psychometrist): specialist 16–20 common
+- [Reflexive Reaction (Throne Loyalist)](../../characters/classes/vigilante-archetypes.md#throne-loyalist): specialist 1–8 weak
+- [Scars of the Past (Masked Maiden)](../../characters/classes/vigilante-archetypes.md#masked-maiden): specialist 1–8 weak
+- [Seamless Guise](../../characters/classes/vigilante.md#seamless-guise-ex): specialist 1–8 weak
+- [Sea's Return (Hidden Current)](../../characters/classes/vigilante-archetypes.md#hidden-current): specialist 9–15 common
+- [Shadow Tricks (Teisatsu)](../../characters/classes/vigilante-archetypes.md#teisatsu): specialist 1–8 weak
+- [Shadowy Appearance (Cabalist)](../../characters/classes/vigilante-archetypes.md#cabalist): specialist 16–20 weak
+- [Silent to Magic (Silent Thought-Killer)](../../characters/classes/vigilante-archetypes.md#silent-thought-killer): specialist 1–8 weak
+- [Slander (Imperial Agent)](../../characters/classes/vigilante-archetypes.md#imperial-agent): specialist 1–8 weak
+- [Social Talent](../../characters/classes/vigilante.md#social-talent): specialist 1–8 common
+- [Spill Blood (Cabalist)](../../characters/classes/vigilante-archetypes.md#cabalist): specialist 1–8 common
+- [Spirit of Ferocity (Ferocious Hunter)](../../characters/classes/vigilante-archetypes.md#ferocious-hunter): specialist 1–8 weak
+- [Stalwart (Zealot)](../../characters/classes/vigilante-archetypes.md#zealot): specialist 1–8 common
+- [Startling Appearance](../../characters/classes/vigilante.md#startling-appearance-ex): specialist 1–8 common
+- [Staunch Ally (Magical Child)](../../characters/classes/vigilante-archetypes.md#magical-child): specialist 1–8 common
+- [Stealthy Swimmer (Hidden Current)](../../characters/classes/vigilante-archetypes.md#hidden-current): specialist 1–8 weak
+- [Steel Dictate (Horned Mask Enforcer)](../../characters/classes/vigilante-archetypes.md#horned-mask-enforcer): specialist 1–8 common
+- [Studied Target (Serial Killer)](../../characters/classes/vigilante-archetypes.md#serial-killer): specialist 1–8 common
+- [Sudden Change (Splintersoul)](../../characters/classes/vigilante-archetypes.md#splintersoul): specialist 1–8 weak
+- [Suffocation (Hangman)](../../characters/classes/vigilante-archetypes.md#hangman): specialist 16–20 weak
+- [Surprising Change (Splintersoul)](../../characters/classes/vigilante-archetypes.md#splintersoul): specialist 1–8 weak
+- [Symbol of Mastery (Ferocious Hunter)](../../characters/classes/vigilante-archetypes.md#ferocious-hunter): specialist 1–8 weak
+- [Symbol of Pride (Ferocious Hunter)](../../characters/classes/vigilante-archetypes.md#ferocious-hunter): specialist 1–8 weak
+- [Tear Them Apart (Brute)](../../characters/classes/vigilante-archetypes.md#brute): specialist 16–20 common
+- [Tend the Garden (Freedom Harvester)](../../characters/classes/vigilante-archetypes.md#freedom-harvester): specialist 1–8 common
+- [The Crop (Servile Infiltrator)](../../characters/classes/vigilante-archetypes.md#servile-infiltrator): specialist 1–8 common
+- [Third Eye (Horned Mask Enforcer)](../../characters/classes/vigilante-archetypes.md#horned-mask-enforcer): specialist 9–15 common
+- [Thought-Scent (Silent Thought-Killer)](../../characters/classes/vigilante-archetypes.md#silent-thought-killer): specialist 1–8 weak
+- [Throne Vigilance (Throne Loyalist)](../../characters/classes/vigilante-archetypes.md#throne-loyalist): specialist 9–15 weak
+- [Thwart Pursuit (Serial Killer)](../../characters/classes/vigilante-archetypes.md#serial-killer): specialist 1–8 weak
+- [Tighten the Noose (Hangman)](../../characters/classes/vigilante-archetypes.md#hangman): specialist 9–15 common
+- [Twisted Rope (Hangman)](../../characters/classes/vigilante-archetypes.md#hangman): specialist 1–8 weak
+- [Unshakable](../../characters/classes/vigilante.md#unshakable-ex): specialist 1–8 weak
+- [Vengeance Strike](../../characters/classes/vigilante.md#vengeance-strike-ex): specialist 16–20 common
+- [Vigilante Specialization](../../characters/classes/vigilante.md#vigilante-specialization-ex): specialist 1–8 op
+- [Vigilante Talent](../../characters/classes/vigilante.md#vigilante-talent): specialist 1–8 op
+- [Wild Shape (Avenging Beast (Vigilante))](../../characters/classes/vigilante-archetypes.md#avenging-beast-vigilante): specialist 1–8 common

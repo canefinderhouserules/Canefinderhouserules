@@ -1,0 +1,111 @@
+# Inquisitor
+
+- [Abyssal Scourge (Cold Iron Warden)](../../characters/classes/inquisitor-archetypes.md#cold-iron-warden): specialist 1–8 common
+- [Always Wary (Cloaked Wolf)](../../characters/classes/inquisitor-archetypes.md#cloaked-wolf): specialist 1–8 weak
+- [Animal Companion (Sacred Huntsmaster)](../../characters/classes/inquisitor-archetypes.md#sacred-huntsmaster): specialist 1–8 op
+- [Aura of Repetition (Exarch)](../../characters/classes/inquisitor-archetypes.md#exarch): specialist 1–8 weak
+- [Aura of Reversion (Exarch)](../../characters/classes/inquisitor-archetypes.md#exarch): specialist 16–20 weak
+- [Bane](../../characters/classes/inquisitor.md#bane-su): specialist 1–8 op
+- [Battle Acumen (Tactical Leader)](../../characters/classes/inquisitor-archetypes.md#tactical-leader): specialist 9–15 common
+- [Blessed Script (Living Grimoire)](../../characters/classes/inquisitor-archetypes.md#living-grimoire): specialist 1–8 common
+- [Bolster the Wounded (Vigilant Defender)](../../characters/classes/inquisitor-archetypes.md#vigilant-defender): specialist 9–15 common
+- [Burden of Sin (Sin Eater)](../../characters/classes/inquisitor-archetypes.md#sin-eater): specialist 9–15 common
+- [Burnt Offering (Immolator)](../../characters/classes/inquisitor-archetypes.md#immolator): specialist 1–8 weak
+- [Closed Mind (Exorcist)](../../characters/classes/inquisitor-archetypes.md#exorcist): specialist 16–20 common
+- [Conceal Evidence (Traceless Operative)](../../characters/classes/inquisitor-archetypes.md#traceless-operative): specialist 1–8 weak
+- [Construct Influence (Keeper of Constructs)](../../characters/classes/inquisitor-archetypes.md#keeper-of-constructs): specialist 1–8 weak
+- [Construct Lore (Keeper of Constructs)](../../characters/classes/inquisitor-archetypes.md#keeper-of-constructs): specialist 1–8 weak
+- [Cunning initiative](../../characters/classes/inquisitor.md#cunning-initiative-ex): specialist 1–8 weak
+- [Dark Descent (Umbral Stalker)](../../characters/classes/inquisitor-archetypes.md#umbral-stalker): specialist 1–8 weak
+- [Dark Trade (Hexenhammer)](../../characters/classes/inquisitor-archetypes.md#hexenhammer): specialist 1–8 weak
+- [Deadly Efficiency (Umbral Stalker)](../../characters/classes/inquisitor-archetypes.md#umbral-stalker): specialist 9–15 common
+- [Deific Focus (Relic Hunter)](../../characters/classes/inquisitor-archetypes.md#relic-hunter): specialist 1–8 common
+- [Demon Hunter (Primeval Hunter)](../../characters/classes/inquisitor-archetypes.md#primeval-hunter): specialist 1–8 weak
+- [Destroy Artifact (Iconoclast)](../../characters/classes/inquisitor-archetypes.md#iconoclast): specialist 16–20 weak
+- [Detect Mind (Secret Seeker)](../../characters/classes/inquisitor-archetypes.md#secret-seeker): specialist 1–8 weak
+- [Disarming Discernment (Fey-Sworn)](../../characters/classes/inquisitor-archetypes.md#fey-sworn): specialist 1–8 weak
+- [Discern Lies](../../characters/classes/inquisitor.md#discern-lies-sp): warrior 1–8 weak, specialist 1–8 weak
+- [Dispelling Attack (Iconoclast)](../../characters/classes/inquisitor-archetypes.md#iconoclast): specialist 1–8 weak
+- [Divine Witness (Oathkeeper)](../../characters/classes/inquisitor-archetypes.md#oathkeeper): specialist 1–8 weak
+- [Double Jeopardy (Exarch)](../../characters/classes/inquisitor-archetypes.md#exarch): specialist 9–15 common
+- [Eat Sin (Sin Eater)](../../characters/classes/inquisitor-archetypes.md#sin-eater): specialist 1–8 common
+- [Enemy Revealed (Faith Hunter)](../../characters/classes/inquisitor-archetypes.md#faith-hunter): specialist 1–8 weak
+- [Escape Corruption’s Grasp (Abolisher)](../../characters/classes/inquisitor-archetypes.md#abolisher): specialist 1–8 weak
+- [Expel Spirit (Expulsionist)](../../characters/classes/inquisitor-archetypes.md#expulsionist): specialist 1–8 common
+- [Exploit Weakness](../../characters/classes/inquisitor.md#exploit-weakness-ex): specialist 9–15 weak
+- [Expose Aberration (Abolisher)](../../characters/classes/inquisitor-archetypes.md#abolisher): specialist 1–8 weak
+- [Expulsionist Lore (Expulsionist)](../../characters/classes/inquisitor-archetypes.md#expulsionist): specialist 1–8 weak
+- [Eye of the Deck (Suit Seeker)](../../characters/classes/inquisitor-archetypes.md#suit-seeker): specialist 1–8 common
+- [Favored Judgment (Cold Iron Warden)](../../characters/classes/inquisitor-archetypes.md#cold-iron-warden): specialist 1–8 weak
+- [Fearsome Jurist (Exarch)](../../characters/classes/inquisitor-archetypes.md#exarch): specialist 1–8 weak
+- [Feywatcher (Fey-Sworn)](../../characters/classes/inquisitor-archetypes.md#fey-sworn): specialist 1–8 weak
+- [Final Sway (Crown Accuser)](../../characters/classes/inquisitor-archetypes.md#crown-accuser): specialist 16–20 weak
+- [Foil Casting (Spellbreaker)](../../characters/classes/inquisitor-archetypes.md#spellbreaker): specialist 1–8 weak
+- [Gifted Detective (Urban Infiltrator)](../../characters/classes/inquisitor-archetypes.md#urban-infiltrator): specialist 1–8 weak
+- [Greater Bane](../../characters/classes/inquisitor.md#greater-bane-su): specialist 9–15 op
+- [Greater Brand (Kinslayer)](../../characters/classes/inquisitor-archetypes.md#kinslayer): specialist 1–8 common
+- [Hexcrafter (Hexenhammer)](../../characters/classes/inquisitor-archetypes.md#hexenhammer): specialist 1–8 common
+- [Holy Book (Living Grimoire)](../../characters/classes/inquisitor-archetypes.md#living-grimoire): specialist 1–8 common
+- [Impervious (Spellbreaker)](../../characters/classes/inquisitor-archetypes.md#spellbreaker): specialist 16–20 common
+- [Improvised Array (Suit Seeker)](../../characters/classes/inquisitor-archetypes.md#suit-seeker): specialist 1–8 common
+- [Informed Hunch (Crown Accuser)](../../characters/classes/inquisitor-archetypes.md#crown-accuser): specialist 1–8 weak
+- [Judgements](../../characters/classes/inquisitor.md#judgment-su): specialist 1–8 common
+- [Knowledgeable Defense (Witch Hunter)](../../characters/classes/inquisitor-archetypes.md#witch-hunter): specialist 1–8 weak
+- [Lore of Escape (Heretic)](../../characters/classes/inquisitor-archetypes.md#heretic): specialist 1–8 weak
+- [Lure Prey (Cloaked Wolf)](../../characters/classes/inquisitor-archetypes.md#cloaked-wolf): specialist 1–8 weak
+- [Mind-Game Tactics (Reaper of Secrets)](../../characters/classes/inquisitor-archetypes.md#reaper-of-secrets): specialist 1–8 common
+- [Misdirection (Infiltrator)](../../characters/classes/inquisitor-archetypes.md#infiltrator): specialist 1–8 weak
+- [Monster Lore](../../characters/classes/inquisitor.md#monster-lore-ex): specialist 1–8 weak
+- [Nature’s Ally (Green Faith Marshal)](../../characters/classes/inquisitor-archetypes.md#green-faith-marshal): specialist 1–8 weak
+- [Necessary Lies (Infiltrator)](../../characters/classes/inquisitor-archetypes.md#infiltrator): specialist 1–8 weak
+- [Negating Critical (Iconoclast)](../../characters/classes/inquisitor-archetypes.md#iconoclast): specialist 9–15 common
+- [Occult Lore (Secret Seeker)](../../characters/classes/inquisitor-archetypes.md#secret-seeker): specialist 1–8 weak
+- [Penetrating Blows (Keeper of Constructs)](../../characters/classes/inquisitor-archetypes.md#keeper-of-constructs): specialist 1–8 weak
+- [Power of Nature (Green Faith Marshal)](../../characters/classes/inquisitor-archetypes.md#green-faith-marshal): specialist 1–8 weak
+- [Pride and Penance (Hexenhammer)](../../characters/classes/inquisitor-archetypes.md#hexenhammer): specialist 1–8 common
+- [Protect the Faithful (Vigilant Defender)](../../characters/classes/inquisitor-archetypes.md#vigilant-defender): specialist 1–8 weak
+- [Relics (Relic Hunter)](../../characters/classes/inquisitor-archetypes.md#relic-hunter): specialist 1–8 common
+- [Revealing Gaze (Abolisher)](../../characters/classes/inquisitor-archetypes.md#abolisher): specialist 1–8 weak
+- [Rudderless Attack (Keeper of the Current)](../../characters/classes/inquisitor-archetypes.md#keeper-of-the-current): specialist 1–8 common
+- [Sacred Word (Living Grimoire)](../../characters/classes/inquisitor-archetypes.md#living-grimoire): specialist 1–8 common
+- [Searing Brand (Kinslayer)](../../characters/classes/inquisitor-archetypes.md#kinslayer): specialist 1–8 common
+- [Second Judgment (Inquisitor)](../../characters/classes/inquisitor.md#second-judgment-ex): specialist 1–8 common
+- [Seek Mind (Secret Seeker)](../../characters/classes/inquisitor-archetypes.md#secret-seeker): specialist 9–15 weak
+- [Shared Judgments (Vigilant Defender)](../../characters/classes/inquisitor-archetypes.md#vigilant-defender): specialist 1–8 common
+- [Silversmith (Vampire Hunter)](../../characters/classes/inquisitor-archetypes.md#vampire-hunter): specialist 1–8 weak
+- [Slayer](../../characters/classes/inquisitor.md#slayer-ex): specialist 16–20 common
+- [Sneak Attack (1d6 at 4th level, +1d6 every 3 levels)](../../characters/classes/inquisitor-archetypes.md#sanctified-slayer): specialist 1–8 op
+- [Solo tactics](../../characters/classes/inquisitor.md#solo-tactics-ex): warrior 1–8 common, specialist 1–8 common
+- [Soul-Piercing Gaze (Reaper of Secrets)](../../characters/classes/inquisitor-archetypes.md#reaper-of-secrets): specialist 1–8 common
+- [Speak with Dead (Sin Eater)](../../characters/classes/inquisitor-archetypes.md#sin-eater): specialist 1–8 weak
+- [Spell Sage (Witch Hunter)](../../characters/classes/inquisitor-archetypes.md#witch-hunter): specialist 1–8 weak
+- [Spirit Sleuth (Expulsionist)](../../characters/classes/inquisitor-archetypes.md#expulsionist): specialist 1–8 weak
+- [Stalking (Umbral Stalker)](../../characters/classes/inquisitor-archetypes.md#umbral-stalker): specialist 1–8 common
+- [Stalwart](../../characters/classes/inquisitor.md#stalwart-ex): warrior 9–15 common, specialist 9–15 common
+- [Stern Gaze (Inquisitor)](../../characters/classes/inquisitor.md#stern-gaze-ex): specialist 1–8 common
+- [Studied Target (Sanctified Slayer)](../../characters/classes/inquisitor-archetypes.md#sanctified-slayer): specialist 1–8 common
+- [Summon Monster (Monster Tactician)](../../characters/classes/inquisitor-archetypes.md#monster-tactician): specialist 1–8 op
+- [Summon Tactics (Monster Tactician)](../../characters/classes/inquisitor-archetypes.md#monster-tactician): specialist 1–8 weak
+- [Sun Strike (Vampire Hunter)](../../characters/classes/inquisitor-archetypes.md#vampire-hunter): specialist 1–8 weak
+- [Sworn Enemy (Faith Hunter)](../../characters/classes/inquisitor-archetypes.md#faith-hunter): specialist 1–8 weak
+- [Talented Slayer (Sanctified Slayer)](../../characters/classes/inquisitor-archetypes.md#sanctified-slayer): specialist 1–8 common
+- [Teamwork Feat (Inquisitor)](../../characters/classes/inquisitor.md#teamwork-feat): specialist 1–8 op
+- [Third Judgment](../../characters/classes/inquisitor.md#third-judgment-ex): specialist 16–20 common
+- [Track Teleportation (Cold Iron Warden)](../../characters/classes/inquisitor-archetypes.md#cold-iron-warden): specialist 1–8 weak
+- [Trackless (Traceless Operative)](../../characters/classes/inquisitor-archetypes.md#traceless-operative): specialist 1–8 weak
+- [Translate Telepathy (Cold Iron Warden)](../../characters/classes/inquisitor-archetypes.md#cold-iron-warden): specialist 1–8 weak
+- [True Judgment](../../characters/classes/inquisitor.md#true-judgment-su): specialist 16–20 common
+- [True Vengeance (Vigilant Defender)](../../characters/classes/inquisitor-archetypes.md#vigilant-defender): specialist 16–20 common
+- [Undead Sense (Kinslayer)](../../characters/classes/inquisitor-archetypes.md#kinslayer): specialist 1–8 weak
+- [Underwater Hunter (Keeper of the Current)](../../characters/classes/inquisitor-archetypes.md#keeper-of-the-current): specialist 1–8 weak
+- [Unleashed Fury (Cloaked Wolf)](../../characters/classes/inquisitor-archetypes.md#cloaked-wolf): specialist 1–8 common
+- [Unravel Array (Suit Seeker)](../../characters/classes/inquisitor-archetypes.md#suit-seeker): specialist 16–20 common
+- [Verdict of Anathema (Exorcist)](../../characters/classes/inquisitor-archetypes.md#exorcist): specialist 16–20 common
+- [Verdict of Exile (Exorcist)](../../characters/classes/inquisitor-archetypes.md#exorcist): specialist 16–20 weak
+- [Verdict of Exorcism (Exorcist)](../../characters/classes/inquisitor-archetypes.md#exorcist): specialist 1–8 common
+- [Warning (Preacher)](../../characters/classes/inquisitor-archetypes.md#preacher): specialist 1–8 common
+- [Wild Lore (Green Faith Marshal)](../../characters/classes/inquisitor-archetypes.md#green-faith-marshal): specialist 1–8 weak
+- [Witch’s Bane (Witch Hunter)](../../characters/classes/inquisitor-archetypes.md#witch-hunter): specialist 1–8 common
+- [Withering Gaze (Hexenhammer)](../../characters/classes/inquisitor-archetypes.md#hexenhammer): specialist 1–8 weak
+- [Word of God (Living Grimoire)](../../characters/classes/inquisitor-archetypes.md#living-grimoire): specialist 16–20 common
+- [Wrest Control (Keeper of Constructs)](../../characters/classes/inquisitor-archetypes.md#keeper-of-constructs): specialist 9–15 weak

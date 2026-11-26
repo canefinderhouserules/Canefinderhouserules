@@ -1,0 +1,115 @@
+# Investigator
+
+- [A Quiet Word (Mastermind)](../../characters/classes/investigator-archetypes.md#mastermind): specialist 1–8 weak
+- [Agonizing Strike (Ruthless Agent)](../../characters/classes/investigator-archetypes.md#ruthless-agent): specialist 1–8 common
+- [Ambush Defenses (Cult Hunter)](../../characters/classes/investigator-archetypes.md#cult-hunter): specialist 1–8 weak
+- [Astrology (Star Watcher)](../../characters/classes/investigator-archetypes.md#star-watcher): specialist 1–8 weak
+- [Battlefield Preparation (Demolitionist)](../../characters/classes/investigator-archetypes.md#demolitionist): specialist 1–8 weak
+- [Blind Shot (Steel Hound)](../../characters/classes/investigator-archetypes.md#steel-hound): specialist 1–8 weak
+- [Blood Lore (Forensic Physician)](../../characters/classes/investigator-archetypes.md#forensic-physician): specialist 1–8 weak
+- [Blood Sleuth (Profiler)](../../characters/classes/investigator-archetypes.md#profiler): specialist 1–8 weak
+- [Ceaseless Observation (Empiricist)](../../characters/classes/investigator-archetypes.md#empiricist): specialist 1–8 weak
+- [Celestial Insight (Mandate Inspector)](../../characters/classes/investigator-archetypes.md#mandate-inspector): specialist 1–8 weak
+- [Commune with Spirits (Spiritualist)](../../characters/classes/investigator-archetypes.md#spiritualist): specialist 1–8 common
+- [Compel Obedience (Ruthless Agent)](../../characters/classes/investigator-archetypes.md#ruthless-agent): specialist 9–15 common
+- [Construct Mastery (Scavenger)](../../characters/classes/investigator-archetypes.md#scavenger): specialist 1–8 weak
+- [Cult Combat (Cult Hunter)](../../characters/classes/investigator-archetypes.md#cult-hunter): specialist 1–8 common
+- [Cult Strike (Cult Hunter)](../../characters/classes/investigator-archetypes.md#cult-hunter): specialist 1–8 weak
+- [Cultic Study (Cult Hunter)](../../characters/classes/investigator-archetypes.md#cult-hunter): specialist 1–8 weak
+- [Custom Mechanism (Engineer)](../../characters/classes/investigator-archetypes.md#engineer): specialist 1–8 common
+- [Delegate (Majordomo)](../../characters/classes/investigator-archetypes.md#majordomo): specialist 1–8 common
+- [Desert Survivor (Elixir Guardian)](../../characters/classes/investigator-archetypes.md#elixir-guardian): specialist 1–8 weak
+- [Disease Lore (Forensic Physician)](../../characters/classes/investigator-archetypes.md#forensic-physician): specialist 1–8 weak
+- [Divine Inspiration (Mandate Inspector)](../../characters/classes/investigator-archetypes.md#mandate-inspector): specialist 1–8 weak
+- [Drug Lore (Hallucinist)](../../characters/classes/investigator-archetypes.md#hallucinist): specialist 1–8 weak
+- [Elixir Drop (Elixir Guardian)](../../characters/classes/investigator-archetypes.md#elixir-guardian): specialist 9–15 common
+- [Exorcising Touch (Skeptic)](../../characters/classes/investigator-archetypes.md#skeptic): specialist 1–8 weak
+- [Experimental Potable (Reckless Epicurean)](../../characters/classes/investigator-archetypes.md#reckless-epicurean): specialist 1–8 weak
+- [Expert Mediator (Arbiter)](../../characters/classes/investigator-archetypes.md#arbiter): specialist 1–8 weak
+- [Extended Portals (Portal Seeker)](../../characters/classes/investigator-archetypes.md#portal-seeker): specialist 9–15 weak
+- [Extraplanar Expulsion (Cult Hunter)](../../characters/classes/investigator-archetypes.md#cult-hunter): specialist 9–15 common
+- [Familiar (Bonded Investigator)](../../characters/classes/investigator-archetypes.md#bonded-investigator): specialist 1–8 common
+- [Fettering (Malice Binder) (Investigator)](../../characters/classes/investigator-archetypes.md#malice-binder): specialist 1–8 common
+- [Fluent Speaker (Arbiter)](../../characters/classes/investigator-archetypes.md#arbiter): specialist 1–8 weak
+- [Focus Talent (Gravedigger)](../../characters/classes/investigator-archetypes.md#gravedigger): specialist 1–8 weak
+- [Gadgetry (Scavenger)](../../characters/classes/investigator-archetypes.md#scavenger): specialist 1–8 weak
+- [Geographic Lore (Cartographer)](../../characters/classes/investigator-archetypes.md#cartographer): specialist 1–8 weak
+- [Grave Lamp (Gravedigger)](../../characters/classes/investigator-archetypes.md#gravedigger): specialist 1–8 weak
+- [Herbalism (Natural Philosopher)](../../characters/classes/investigator-archetypes.md#natural-philosopher): specialist 1–8 weak
+- [Hidden Meaning (Arbiter)](../../characters/classes/investigator-archetypes.md#arbiter): specialist 1–8 common
+- [Hunt Portal (Portal Seeker)](../../characters/classes/investigator-archetypes.md#portal-seeker): specialist 1–8 weak
+- [Imperial Judgment (Mandate Inspector)](../../characters/classes/investigator-archetypes.md#mandate-inspector): specialist 1–8 common
+- [Impregnable Mind (Mastermind)](../../characters/classes/investigator-archetypes.md#mastermind): specialist 9–15 common
+- [Improved Familiar (Bonded Investigator) (Investigator)](../../characters/classes/investigator-archetypes.md#bonded-investigator): specialist 1–8 weak
+- [Inattention Blindness (Cipher)](../../characters/classes/investigator-archetypes.md#cipher): specialist 1–8 weak
+- [Inspiration](../../characters/classes/investigator.md#inspiration-ex): specialist 1–8 common, caster 1–8 common
+- [Inspiration for Subterfuge (Questioner)](../../characters/classes/investigator-archetypes.md#questioner): specialist 1–8 weak
+- [Inspired Familiar (Bonded Investigator) (Investigator)](../../characters/classes/investigator-archetypes.md#bonded-investigator): specialist 1–8 common
+- [Inspired Manager (Majordomo)](../../characters/classes/investigator-archetypes.md#majordomo): specialist 1–8 weak
+- [Interrogate (Ruthless Agent)](../../characters/classes/investigator-archetypes.md#ruthless-agent): specialist 1–8 weak
+- [Interrogation (Inspector)](../../characters/classes/investigator-archetypes.md#inspector): specialist 1–8 weak
+- [Intuitive Monster Lore (Cryptid Scholar)](../../characters/classes/investigator-archetypes.md#cryptid-scholar): specialist 1–8 weak
+- [Investigator Talents (Steel Hound)](../../characters/classes/investigator-archetypes.md#steel-hound): specialist 1–8 weak
+- [Jury-Rig (Scavenger)](../../characters/classes/investigator-archetypes.md#scavenger): specialist 1–8 weak
+- [Keen Mind (Inspector)](../../characters/classes/investigator-archetypes.md#inspector): specialist 1–8 weak
+- [Keen Recollection](../../characters/classes/investigator.md#keen-recollection): specialist 1–8 weak
+- [Kill the Dead (Gravedigger)](../../characters/classes/investigator-archetypes.md#gravedigger): specialist 1–8 weak
+- [Know-It-All (Questioner)](../../characters/classes/investigator-archetypes.md#questioner): specialist 1–8 weak
+- [Knowledgeable Strike (Cryptid Scholar)](../../characters/classes/investigator-archetypes.md#cryptid-scholar): specialist 1–8 op
+- [Liar's Familiarity (Elixir Guardian)](../../characters/classes/investigator-archetypes.md#elixir-guardian): specialist 1–8 common
+- [Master Intellect (Empiricist)](../../characters/classes/investigator-archetypes.md#empiricist): specialist 16–20 common
+- [Master of Disguise (Infiltrator) (Investigator)](../../characters/classes/investigator-archetypes.md#infiltrator): specialist 1–8 weak
+- [Mastermind Defense (Mastermind)](../../characters/classes/investigator-archetypes.md#mastermind): specialist 1–8 common
+- [Mastermind's Inspiration (Mastermind)](../../characters/classes/investigator-archetypes.md#mastermind): specialist 1–8 weak
+- [Mechanical Inspiration (Scavenger)](../../characters/classes/investigator-archetypes.md#scavenger): specialist 1–8 weak
+- [Medical Expertise (Forensic Physician)](../../characters/classes/investigator-archetypes.md#forensic-physician): specialist 1–8 weak
+- [Mimic Mastery (Infiltrator)](../../characters/classes/investigator-archetypes.md#infiltrator): specialist 1–8 weak
+- [Modify Toxin (Toxin Codexer)](../../characters/classes/investigator-archetypes.md#toxin-codexer): specialist 1–8 common
+- [Natural Philosopher’s Inspiration (Natural Philosopher)](../../characters/classes/investigator-archetypes.md#natural-philosopher): specialist 1–8 weak
+- [Opportune Advice (Cryptid Scholar)](../../characters/classes/investigator-archetypes.md#cryptid-scholar): specialist 1–8 common
+- [Pack Psychology (Profiler)](../../characters/classes/investigator-archetypes.md#profiler): specialist 1–8 common
+- [Packing Heat (Steel Hound)](../../characters/classes/investigator-archetypes.md#steel-hound): specialist 1–8 weak
+- [Paper Trail (Majordomo)](../../characters/classes/investigator-archetypes.md#majordomo): specialist 1–8 weak
+- [Phrenic Dabbler (Psychic Detective)](../../characters/classes/investigator-archetypes.md#psychic-detective): specialist 1–8 common
+- [Poison Lore](../../characters/classes/investigator.md#poison-lore-ex): specialist 1–8 weak
+- [Portal Lore (Portal Seeker)](../../characters/classes/investigator-archetypes.md#portal-seeker): specialist 1–8 weak
+- [Psychedelic Perception (Hallucinist)](../../characters/classes/investigator-archetypes.md#hallucinist): specialist 1–8 weak
+- [Read the Bones (Gravedigger)](../../characters/classes/investigator-archetypes.md#gravedigger): specialist 1–8 weak
+- [Ready for the Revelation (Lamplighter)](../../characters/classes/investigator-archetypes.md#lamplighter): specialist 1–8 weak
+- [Relentless Pursuit (Inspector)](../../characters/classes/investigator-archetypes.md#inspector): specialist 1–8 weak
+- [Relic Focus (Gravedigger)](../../characters/classes/investigator-archetypes.md#gravedigger): specialist 1–8 common
+- [Relic Magic (Antiquarian)](../../characters/classes/investigator-archetypes.md#antiquarian): specialist 1–8 weak
+- [Ricochet (Demolitionist)](../../characters/classes/investigator-archetypes.md#demolitionist): specialist 1–8 weak
+- [Shared Hallucinations (Hallucinist)](../../characters/classes/investigator-archetypes.md#hallucinist): specialist 1–8 common
+- [Shooting Star (Star Watcher)](../../characters/classes/investigator-archetypes.md#star-watcher): specialist 1–8 weak
+- [Simultaneous Study (Hallucinist)](../../characters/classes/investigator-archetypes.md#hallucinist): specialist 1–8 common
+- [Sixth Sense (Spiritualist)](../../characters/classes/investigator-archetypes.md#spiritualist): specialist 1–8 common
+- [Smite Haunt (Skeptic)](../../characters/classes/investigator-archetypes.md#skeptic): specialist 1–8 weak
+- [Spirit Sense (Spiritualist)](../../characters/classes/investigator-archetypes.md#spiritualist): specialist 1–8 common
+- [Starfinding (Star Watcher)](../../characters/classes/investigator-archetypes.md#star-watcher): specialist 1–8 weak
+- [Strong Life (Spiritualist)](../../characters/classes/investigator-archetypes.md#spiritualist): specialist 1–8 weak
+- [Structural Insight (Demolitionist)](../../characters/classes/investigator-archetypes.md#demolitionist): specialist 1–8 weak
+- [Studied Combat](../../characters/classes/investigator.md#studied-combat-ex): specialist 1–8 common
+- [Studied Strike](../../characters/classes/investigator.md#studied-strike-ex): specialist 1–8 common
+- [Summoning Sense (Cult Hunter)](../../characters/classes/investigator-archetypes.md#cult-hunter): specialist 1–8 common
+- [Swift Search (Antiquarian)](../../characters/classes/investigator-archetypes.md#antiquarian): specialist 1–8 weak
+- [Swift Travels (Cartographer)](../../characters/classes/investigator-archetypes.md#cartographer): specialist 1–8 weak
+- [Sympathetic Resistance (Reckless Epicurean)](../../characters/classes/investigator-archetypes.md#reckless-epicurean): specialist 9–15 weak
+- [Synthetic Venom (Toxin Codexer)](../../characters/classes/investigator-archetypes.md#toxin-codexer): specialist 1–8 common
+- [Take a Bit (Malice Binder)](../../characters/classes/investigator-archetypes.md#malice-binder): specialist 1–8 weak
+- [Take a Bit More (Malice Binder) (Investigator)](../../characters/classes/investigator-archetypes.md#malice-binder): specialist 1–8 weak
+- [Talented Shot (Steel Hound)](../../characters/classes/investigator-archetypes.md#steel-hound): specialist 9–15 common
+- [Teleportation Warden (Elixir Guardian)](../../characters/classes/investigator-archetypes.md#elixir-guardian): specialist 9–15 weak
+- [Tenuous Threat (Cipher)](../../characters/classes/investigator-archetypes.md#cipher): specialist 1–8 weak
+- [Touched by the Beyond (Spiritualist)](../../characters/classes/investigator-archetypes.md#spiritualist): specialist 9–15 common
+- [Town Map (Cartographer)](../../characters/classes/investigator-archetypes.md#cartographer): specialist 1–8 weak
+- [Track (Natural Philosopher)](../../characters/classes/investigator-archetypes.md#natural-philosopher): specialist 1–8 weak
+- [Trade Creole (Arbiter)](../../characters/classes/investigator-archetypes.md#arbiter): specialist 1–8 weak
+- [Transit Portals (Portal Seeker)](../../characters/classes/investigator-archetypes.md#portal-seeker): specialist 1–8 common
+- [True Inspiration](../../characters/classes/investigator.md#true-inspiration-ex): specialist 16–20 common
+- [Underhanded (Conspirator)](../../characters/classes/investigator-archetypes.md#conspirator): specialist 1–8 weak
+- [Unfailing Logic (Empiricist)](../../characters/classes/investigator-archetypes.md#empiricist): specialist 1–8 common
+- [Watcher Sense (Conspirator)](../../characters/classes/investigator-archetypes.md#conspirator): specialist 1–8 weak
+- [Whispering Spirits (Spiritualist)](../../characters/classes/investigator-archetypes.md#spiritualist): specialist 1–8 common
+- [Witch Lore (Malice Binder)](../../characters/classes/investigator-archetypes.md#malice-binder): specialist 1–8 weak
+- [Witch Trapper (Malice Binder)](../../characters/classes/investigator-archetypes.md#malice-binder): specialist 9–15 weak

@@ -1,0 +1,70 @@
+# Skald
+
+- [Abyssal Wrath (Demon Dancer)](../../characters/classes/skald-archetypes.md#demon-dancer): specialist 1–8 common
+- [Arcane Bond (Herald of the Horn)](../../characters/classes/skald-archetypes.md#herald-of-the-horn): specialist 1–8 common
+- [Arcane Flourish (War Painter)](../../characters/classes/skald-archetypes.md#war-painter): specialist 1–8 common
+- [Back of the Crowd (Urban Skald)](../../characters/classes/skald-archetypes.md#urban-skald): specialist 1–8 weak
+- [Battle Prowess (Battle Scion)](../../characters/classes/skald-archetypes.md#battle-scion): specialist 1–8 common
+- [Bold Strategy (Bold Schemer)](../../characters/classes/skald-archetypes.md#bold-schemer): specialist 9–15 weak
+- [Bonus Feat (Undying Word)](../../characters/classes/skald-archetypes.md#undying-word): specialist 1–8 op
+- [Breath Weapon (Wyrm Singer)](../../characters/classes/skald-archetypes.md#wyrm-singer): specialist 9–15 common
+- [Channel Solar Energy (Sunsinger)](../../characters/classes/skald-archetypes.md#sunsinger): specialist 1–8 common
+- [Community Domain (Wandering Envoy)](../../characters/classes/skald-archetypes.md#wandering-envoy): specialist 1–8 common
+- [Controlled Inspired Rage (Urban Skald)](../../characters/classes/skald-archetypes.md#urban-skald): specialist 1–8 common
+- [Courtly Presence (Battle Scion)](../../characters/classes/skald-archetypes.md#battle-scion): specialist 1–8 weak
+- [Crumbling Blast (Herald of the Horn)](../../characters/classes/skald-archetypes.md#herald-of-the-horn): specialist 9–15 common
+- [Deadly Rhythm (War Drummer)](../../characters/classes/skald-archetypes.md#war-drummer): specialist 1–8 weak
+- [Demonic Conquest (Demon Dancer)](../../characters/classes/skald-archetypes.md#demon-dancer): specialist 1–8 weak
+- [Divine Blessing (Wandering Envoy)](../../characters/classes/skald-archetypes.md#wandering-envoy): specialist 1–8 weak
+- [Divine Hand (Wandering Envoy)](../../characters/classes/skald-archetypes.md#wandering-envoy): specialist 16–20 common
+- [Drunken Dancer (Bacchanal)](../../characters/classes/skald-archetypes.md#bacchanal): specialist 1–8 weak
+- [Duplicitous Rhetoric (Red Tongue)](../../characters/classes/skald-archetypes.md#red-tongue): specialist 1–8 weak
+- [Endurance (Boaster)](../../characters/classes/skald-archetypes.md#boaster): specialist 1–8 weak
+- [Enhance Weapons (Spell Warrior)](../../characters/classes/skald-archetypes.md#spell-warrior): specialist 1–8 common
+- [Far Seer (Fated Champion)](../../characters/classes/skald-archetypes.md#fated-champion): specialist 1–8 common
+- [Fear Me (Warlord)](../../characters/classes/skald-archetypes.md#warlord): specialist 1–8 common
+- [Fermented Fruit (Bacchanal)](../../characters/classes/skald-archetypes.md#bacchanal): specialist 1–8 weak
+- [Fiendish Maw (Demon Dancer)](../../characters/classes/skald-archetypes.md#demon-dancer): specialist 1–8 common
+- [Furious Paint (War Painter)](../../characters/classes/skald-archetypes.md#war-painter): specialist 1–8 common
+- [Glorious Epic (Dragon Skald)](../../characters/classes/skald-archetypes.md#dragon-skald): specialist 1–8 weak
+- [Greater Counterspell (Spell Warrior)](../../characters/classes/skald-archetypes.md#spell-warrior): specialist 1–8 weak
+- [Handling the Crowd (Court Poet)](../../characters/classes/skald-archetypes.md#court-poet): specialist 1–8 weak
+- [Horn Call (Herald of the Horn)](../../characters/classes/skald-archetypes.md#herald-of-the-horn): specialist 1–8 weak
+- [Humiliating Defamation (Urban Skald)](../../characters/classes/skald-archetypes.md#urban-skald): specialist 9–15 weak
+- [Infuriating Mockery (Urban Skald)](../../characters/classes/skald-archetypes.md#urban-skald): specialist 1–8 common
+- [Inspire Scent (Hunt Caller)](../../characters/classes/skald-archetypes.md#hunt-caller): specialist 1–8 weak
+- [Intimidated Push (Warlord)](../../characters/classes/skald-archetypes.md#warlord): specialist 1–8 common
+- [Master Elegist (Elegist)](../../characters/classes/skald-archetypes.md#elegist): specialist 16–20 common
+- [Master Skald](../../characters/classes/skald.md#master-skald-su): specialist 16–20 common
+- [Melancholic Apparition (Elegist)](../../characters/classes/skald-archetypes.md#elegist): specialist 1–8 op
+- [Minions (Warlord)](../../characters/classes/skald-archetypes.md#warlord): specialist 1–8 common
+- [Not This Day (Fated Champion)](../../characters/classes/skald-archetypes.md#fated-champion): specialist 16–20 common
+- [Once and Future Scion (Battle Scion)](../../characters/classes/skald-archetypes.md#battle-scion): specialist 16–20 common
+- [Pillar of Light (Sunsinger)](../../characters/classes/skald-archetypes.md#sunsinger): specialist 1–8 weak
+- [Predictive Strike (Augur)](../../characters/classes/skald-archetypes.md#augur): specialist 1–8 weak
+- [Raging Song](../../characters/classes/skald.md#raging-song-su): specialist 1–8 op
+- [Raging Song (Bacchanal)](../../characters/classes/skald-archetypes.md#bacchanal): specialist 1–8 common
+- [Raging Song (Boaster)](../../characters/classes/skald-archetypes.md#boaster): specialist 1–8 common
+- [Raging Song (Hunt Caller)](../../characters/classes/skald-archetypes.md#hunt-caller): specialist 1–8 common
+- [Raging Song (Instigator)](../../characters/classes/skald-archetypes.md#instigator): specialist 1–8 common
+- [Revolutionary Heart (Instigator)](../../characters/classes/skald-archetypes.md#instigator): specialist 1–8 common
+- [Rile (Red Tongue)](../../characters/classes/skald-archetypes.md#red-tongue): specialist 1–8 weak
+- [Rousing Retort (Herald of the Horn)](../../characters/classes/skald-archetypes.md#herald-of-the-horn): specialist 1–8 weak
+- [Serpent Shape (Serpent Herald)](../../characters/classes/skald-archetypes.md#serpent-herald): specialist 1–8 common
+- [Serpentine Rage (Serpent Herald)](../../characters/classes/skald-archetypes.md#serpent-herald): specialist 1–8 weak
+- [Shield of Foresight (Fated Champion)](../../characters/classes/skald-archetypes.md#fated-champion): specialist 9–15 weak
+- [Siege Drums (War Drummer)](../../characters/classes/skald-archetypes.md#war-drummer): specialist 1–8 weak
+- [Signs and Portents (Augur)](../../characters/classes/skald-archetypes.md#augur): specialist 1–8 weak
+- [Skald of Twists and Turns (Bold Schemer)](../../characters/classes/skald-archetypes.md#bold-schemer): specialist 1–8 weak
+- [Song of Arcane Manipulation (Spell Warrior)](../../characters/classes/skald-archetypes.md#spell-warrior): specialist 9–15 weak
+- [Song of Questing (Battle Scion)](../../characters/classes/skald-archetypes.md#battle-scion): specialist 9–15 weak
+- [Spell Kenning](../../characters/classes/skald.md#spell-kenning-su): specialist 1–8 common
+- [Spell Tamper (Spell Warrior)](../../characters/classes/skald-archetypes.md#spell-warrior): specialist 16–20 common
+- [Tandem Totems (Totem Channeler)](../../characters/classes/skald-archetypes.md#totem-channeler): specialist 1–8 weak
+- [Thousand Totems (War Painter)](../../characters/classes/skald-archetypes.md#war-painter): specialist 1–8 common
+- [Totemic Versatility (Totem Channeler)](../../characters/classes/skald-archetypes.md#totem-channeler): specialist 1–8 weak
+- [Totem's Guidance (Totem Channeler)](../../characters/classes/skald-archetypes.md#totem-channeler): specialist 9–15 common
+- [Undying Song (Undying Word)](../../characters/classes/skald-archetypes.md#undying-word): specialist 1–8 common
+- [Weapon Master (War Drummer)](../../characters/classes/skald-archetypes.md#war-drummer): specialist 1–8 weak
+- [Wild Shape (Totemic Skald)](../../characters/classes/skald-archetypes.md#totemic-skald): specialist 1–8 op
+- [Wyrm Song (Wyrm Singer)](../../characters/classes/skald-archetypes.md#wyrm-singer): specialist 1–8 common

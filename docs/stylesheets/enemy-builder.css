@@ -116,3 +116,6 @@
 .eb-dialog h3 { margin: 0 0 .3rem; }
 .eb-dialog .eb-field { display: flex; flex-direction: column; margin: 0 0 .45rem; }
 .eb-dialog .eb-actions { display: flex; gap: .4rem; justify-content: flex-end; }
+/* the box to pick a feature's options (rogue talents, ninja tricks, rage powers...) */
+.md-typeset .eb-choice .eb-choice-n { margin-top: .25rem; gap: .35rem; align-items: center; }
+.md-typeset .eb-choice .eb-chip.eb-over { background: color-mix(in srgb, #d32f2f 18%, transparent); }

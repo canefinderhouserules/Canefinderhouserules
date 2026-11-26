@@ -1,0 +1,157 @@
+# Cavalier
+
+- [Agile Charger (Disciple of the Pike)](../../characters/classes/cavalier-archetypes.md#disciple-of-the-pike): warrior 9–15 weak
+- [Aide-de-Camp (Esquire)](../../characters/classes/cavalier-archetypes.md#esquire): warrior 1–8 common
+- [Animal Trainer (Huntmaster)](../../characters/classes/cavalier-archetypes.md#huntmaster): warrior 1–8 weak
+- [Apprehend (Constable)](../../characters/classes/cavalier-archetypes.md#constable): warrior 1–8 weak
+- [As One (Desert Horselord)](../../characters/classes/cavalier-archetypes.md#desert-horselord): warrior 9–15 common
+- [As One (Dune Horselord)](../../characters/classes/cavalier-archetypes.md#dune-horselord): warrior 9–15 common
+- [Avenge Me (Esquire)](../../characters/classes/cavalier-archetypes.md#esquire): warrior 9–15 common
+- [Awesome Pennon (Standard Bearer)](../../characters/classes/cavalier-archetypes.md#standard-bearer): warrior 16–20 common
+- [Badge (Constable)](../../characters/classes/cavalier-archetypes.md#constable): warrior 1–8 common
+- [Banner](../../characters/classes/cavalier.md#banner-ex): warrior 1–8 weak
+- [Banner of Solace (Standard Bearer)](../../characters/classes/cavalier-archetypes.md#standard-bearer): warrior 9–15 weak
+- [Battlefield Agility (Emissary)](../../characters/classes/cavalier-archetypes.md#emissary): warrior 1–8 weak
+- [Beast Tongue (Green Knight)](../../characters/classes/cavalier-archetypes.md#green-knight): warrior 1–8 weak
+- [Bigger They Are (Disciple of the Pike)](../../characters/classes/cavalier-archetypes.md#disciple-of-the-pike): warrior 1–8 weak
+- [Bonus Feat (Cavalier)](../../characters/classes/cavalier.md#bonus-feat): warrior 1–8 op
+- [Bonus Feats (Gendarme)](../../characters/classes/cavalier-archetypes.md#gendarme): warrior 1–8 op
+- [Bonus Feats (Huntmaster)](../../characters/classes/cavalier-archetypes.md#huntmaster): warrior 1–8 weak
+- [Bonus Feats (Wasteland Drifter)](../../characters/classes/cavalier-archetypes.md#wasteland-drifter): warrior 1–8 op
+- [Brute Steed (Fell Rider)](../../characters/classes/cavalier-archetypes.md#fell-rider): warrior 1–8 weak
+- [Careful Aim (Luring Cavalier)](../../characters/classes/cavalier-archetypes.md#luring-cavalier): warrior 1–8 common
+- [Castle Defender (Castellan)](../../characters/classes/cavalier-archetypes.md#castellan): warrior 1–8 common
+- [Castle Lore (Castellan)](../../characters/classes/cavalier-archetypes.md#castellan): warrior 1–8 weak
+- [Cavalier’s Charge](../../characters/classes/cavalier.md#cavaliers-charge-ex): warrior 1–8 weak
+- [Challenge](../../characters/classes/cavalier.md#challenge-ex): warrior 1–8 op
+- [Champion of the Roads (Hooded Knight)](../../characters/classes/cavalier-archetypes.md#hooded-knight): warrior 9–15 common
+- [Champion's Weapon Mastery (Daring Champion)](../../characters/classes/cavalier-archetypes.md#daring-champion): warrior 16–20 op
+- [Circuit (Circuit Judge)](../../characters/classes/cavalier-archetypes.md#circuit-judge): warrior 1–8 weak
+- [Courser (Charger)](../../characters/classes/cavalier-archetypes.md#charger): warrior 1–8 common
+- [Daring Deeds (Wasteland Drifter)](../../characters/classes/cavalier-archetypes.md#wasteland-drifter): warrior 1–8 weak
+- [Deadly Charge (Disciple of the Pike)](../../characters/classes/cavalier-archetypes.md#disciple-of-the-pike): warrior 16–20 op
+- [Deadly Rampage (Fell Rider)](../../characters/classes/cavalier-archetypes.md#fell-rider): warrior 9–15 common
+- [Dedicated Commander (Sister-in-Arms)](../../characters/classes/cavalier-archetypes.md#sister-in-arms): warrior 9–15 weak
+- [Defending Challenge (Castellan)](../../characters/classes/cavalier-archetypes.md#castellan): warrior 9–15 common
+- [Defensive Challenge (Shield Knight)](../../characters/classes/cavalier-archetypes.md#shield-knight): warrior 9–15 weak
+- [Deflective Shield (Shield Knight)](../../characters/classes/cavalier-archetypes.md#shield-knight): warrior 1–8 common
+- [Demanding Challenge (Cavalier, Samurai)](../../characters/classes/cavalier.md#demanding-challenge-ex): warrior 9–15 weak
+- [Desert Mastery (Desert Horselord)](../../characters/classes/cavalier-archetypes.md#desert-horselord): warrior 1–8 weak
+- [Desert Mastery (Dune Horselord)](../../characters/classes/cavalier-archetypes.md#dune-horselord): warrior 1–8 weak
+- [Desert Wind (Desert Horselord)](../../characters/classes/cavalier-archetypes.md#desert-horselord): warrior 1–8 weak
+- [Desert Wind (Dune Horselord)](../../characters/classes/cavalier-archetypes.md#dune-horselord): warrior 1–8 weak
+- [Devoted Defender (Sister-in-Arms)](../../characters/classes/cavalier-archetypes.md#sister-in-arms): warrior 1–8 weak
+- [Dinosaur Mount (Saurian Champion)](../../characters/classes/cavalier-archetypes.md#saurian-champion): warrior 1–8 op
+- [Disorienting Challenge (Vermin Tamer)](../../characters/classes/cavalier-archetypes.md#vermin-tamer): warrior 9–15 weak
+- [Double Jeopardy (Circuit Judge)](../../characters/classes/cavalier-archetypes.md#circuit-judge): warrior 9–15 common
+- [Drake Mount (Drakerider)](../../characters/classes/cavalier-archetypes.md#drakerider): warrior 1–8 op
+- [Drill Instructor (Strategist)](../../characters/classes/cavalier-archetypes.md#strategist): warrior 1–8 weak
+- [Effloresce (Verdivant)](../../characters/classes/cavalier-archetypes.md#verdivant): warrior 1–8 common
+- [Erratic Charge (Emissary)](../../characters/classes/cavalier-archetypes.md#emissary): warrior 16–20 common
+- [Exotic Mount (Beast Rider)](../../characters/classes/cavalier-archetypes.md#beast-rider): warrior 1–8 op
+- [Expert Trainer](../../characters/classes/cavalier.md#expert-trainer-ex): warrior 1–8 weak
+- [Far Challenge (Luring Cavalier)](../../characters/classes/cavalier-archetypes.md#luring-cavalier): warrior 1–8 common
+- [Fast Mount (Hussar)](../../characters/classes/cavalier-archetypes.md#hussar): warrior 1–8 weak
+- [Fearless (Ghost Rider)](../../characters/classes/cavalier-archetypes.md#ghost-rider): warrior 1–8 common
+- [Fell Presence (Fell Rider)](../../characters/classes/cavalier-archetypes.md#fell-rider): warrior 1–8 weak
+- [Ferocious (Green Knight)](../../characters/classes/cavalier-archetypes.md#green-knight): warrior 1–8 weak
+- [Feytouched Mount (Hooded Knight)](../../characters/classes/cavalier-archetypes.md#hooded-knight): warrior 1–8 common
+- [Fierce Devotion (Saurian Champion)](../../characters/classes/cavalier-archetypes.md#saurian-champion): warrior 1–8 common
+- [Fight As One (Esquire)](../../characters/classes/cavalier-archetypes.md#esquire): warrior 16–20 common
+- [Fleet of Foot (Herald Squire)](../../characters/classes/cavalier-archetypes.md#herald-squire): warrior 1–8 common
+- [Frightful Gaze (Ghost Rider)](../../characters/classes/cavalier-archetypes.md#ghost-rider): warrior 1–8 common
+- [Ghost Mount (Ghost Rider)](../../characters/classes/cavalier-archetypes.md#ghost-rider): warrior 1–8 op
+- [Ghost Wind (Ghost Rider)](../../characters/classes/cavalier-archetypes.md#ghost-rider): warrior 9–15 weak
+- [Gifted Firearm (Musketeer)](../../characters/classes/cavalier-archetypes.md#musketeer): warrior 1–8 common
+- [Grand Boast (Courtly Knight)](../../characters/classes/cavalier-archetypes.md#courtly-knight): warrior 16–20 common
+- [Greater Badge (Constable)](../../characters/classes/cavalier-archetypes.md#constable): warrior 9–15 common
+- [Greater Banner](../../characters/classes/cavalier.md#greater-banner-ex): warrior 9–15 weak
+- [Greater Tactician](../../characters/classes/cavalier.md#greater-tactician-ex): warrior 9–15 weak
+- [Guard Companion (Castellan)](../../characters/classes/cavalier-archetypes.md#castellan): warrior 1–8 common
+- [Halfhearted Challenge (Sister-in-Arms)](../../characters/classes/cavalier-archetypes.md#sister-in-arms): warrior 1–8 common
+- [Have Gun (Wasteland Drifter)](../../characters/classes/cavalier-archetypes.md#wasteland-drifter): warrior 1–8 weak
+- [Heart Shield (Shield Knight)](../../characters/classes/cavalier-archetypes.md#shield-knight): warrior 16–20 common
+- [Heraldic Banner (Shield Knight)](../../characters/classes/cavalier-archetypes.md#shield-knight): warrior 1–8 weak
+- [Hero of the Roads (Hooded Knight)](../../characters/classes/cavalier-archetypes.md#hooded-knight): warrior 1–8 weak
+- [Honor Guard (Daring General)](../../characters/classes/cavalier-archetypes.md#daring-general): warrior 1–8 common
+- [Honored Warrior (Serpent Marshal)](../../characters/classes/cavalier-archetypes.md#serpent-marshal): warrior 1–8 common
+- [Hunting Pack (Huntmaster)](../../characters/classes/cavalier-archetypes.md#huntmaster): warrior 1–8 op
+- [Imperious Attitude (Courtly Knight)](../../characters/classes/cavalier-archetypes.md#courtly-knight): warrior 9–15 weak
+- [Implacable Knight (Green Knight)](../../characters/classes/cavalier-archetypes.md#green-knight): warrior 1–8 weak
+- [Improved Quarry (Huntmaster)](../../characters/classes/cavalier-archetypes.md#huntmaster): warrior 16–20 common
+- [In or Out of the Saddle (Emissary)](../../characters/classes/cavalier-archetypes.md#emissary): warrior 1–8 weak
+- [Indestructible (Green Knight)](../../characters/classes/cavalier-archetypes.md#green-knight): warrior 16–20 common
+- [Infuriating Aim (Luring Cavalier)](../../characters/classes/cavalier-archetypes.md#luring-cavalier): warrior 9–15 weak
+- [Instant Order (Constable)](../../characters/classes/cavalier-archetypes.md#constable): warrior 9–15 common
+- [Introduction (Herald Squire)](../../characters/classes/cavalier-archetypes.md#herald-squire): warrior 1–8 weak
+- [Maiden’s Loyalty (Sister-in-Arms)](../../characters/classes/cavalier-archetypes.md#sister-in-arms): warrior 1–8 weak
+- [Maiden’s Order (Sister-in-Arms)](../../characters/classes/cavalier-archetypes.md#sister-in-arms): warrior 1–8 weak
+- [Maneuver Tactics (Mindlink Outrider)](../../characters/classes/cavalier-archetypes.md#mindlink-outrider): warrior 1–8 common
+- [Maneuverable Mount (Hussar)](../../characters/classes/cavalier-archetypes.md#hussar): warrior 9–15 weak
+- [Master Tactician](../../characters/classes/cavalier.md#master-tactician-ex): warrior 16–20 weak
+- [Mighty Charge](../../characters/classes/cavalier.md#mighty-charge-ex): warrior 9–15 weak, specialist 9–15 weak
+- [Mighty Defense (Castellan)](../../characters/classes/cavalier-archetypes.md#castellan): warrior 9–15 common
+- [Mindlink (Mindlink Outrider)](../../characters/classes/cavalier-archetypes.md#mindlink-outrider): warrior 1–8 weak
+- [Mindlink Pulse (Mindlink Outrider)](../../characters/classes/cavalier-archetypes.md#mindlink-outrider): warrior 9–15 weak
+- [Monster Hunter (Disciple of the Pike)](../../characters/classes/cavalier-archetypes.md#disciple-of-the-pike): warrior 1–8 weak
+- [Mount](../../characters/classes/cavalier.md#mount-ex): warrior 1–8 op, specialist 1–8 op
+- [Mounted Acrobatics (Emissary)](../../characters/classes/cavalier-archetypes.md#emissary): warrior 9–15 weak
+- [Mounted Dervish (Emissary)](../../characters/classes/cavalier-archetypes.md#emissary): warrior 9–15 common
+- [Natural Mount (Charger)](../../characters/classes/cavalier-archetypes.md#charger): warrior 1–8 weak
+- [Nimble Rider (Saurian Champion)](../../characters/classes/cavalier-archetypes.md#saurian-champion): warrior 1–8 common
+- [Oaken Vitality (Green Knight)](../../characters/classes/cavalier-archetypes.md#green-knight): warrior 9–15 weak
+- [Old Reliable (Wasteland Drifter)](../../characters/classes/cavalier-archetypes.md#wasteland-drifter): warrior 9–15 common
+- [Order](../../characters/classes/cavalier.md#order-ex): warrior 1–8 common
+- [Order Abilities (Order of the Hero)](../../characters/classes/cavalier-archetypes.md#order-of-the-hero): warrior 1–8 common
+- [Pack Attack (Huntmaster)](../../characters/classes/cavalier-archetypes.md#huntmaster): warrior 9–15 common
+- [Paragon of the Roads (Hooded Knight)](../../characters/classes/cavalier-archetypes.md#hooded-knight): warrior 16–20 weak
+- [Pike Charge (Disciple of the Pike)](../../characters/classes/cavalier-archetypes.md#disciple-of-the-pike): warrior 1–8 common
+- [Plant Mount (Verdivant)](../../characters/classes/cavalier-archetypes.md#verdivant): warrior 1–8 op
+- [Primeval Devotion (Saurian Champion)](../../characters/classes/cavalier-archetypes.md#saurian-champion): warrior 9–15 common
+- [Quarry (Huntmaster)](../../characters/classes/cavalier-archetypes.md#huntmaster): warrior 9–15 common
+- [Quick Interrogator (Constable)](../../characters/classes/cavalier-archetypes.md#constable): warrior 1–8 weak
+- [Rampage (Fell Rider)](../../characters/classes/cavalier-archetypes.md#fell-rider): warrior 1–8 weak
+- [Ride Down (Charger)](../../characters/classes/cavalier-archetypes.md#charger): warrior 9–15 common
+- [Sand Scourge (Dune Horselord)](../../characters/classes/cavalier-archetypes.md#dune-horselord): warrior 16–20 common
+- [Sand Storm (Dune Horselord)](../../characters/classes/cavalier-archetypes.md#dune-horselord): warrior 1–8 common
+- [Seafaring Companion (Wave Rider)](../../characters/classes/cavalier-archetypes.md#wave-rider): warrior 1–8 weak
+- [Sentence (Circuit Judge)](../../characters/classes/cavalier-archetypes.md#circuit-judge): warrior 1–8 common
+- [Serpent Mount (Serpent Marshal)](../../characters/classes/cavalier-archetypes.md#serpent-marshal): warrior 1–8 op
+- [Shared Challenge (Daring General)](../../characters/classes/cavalier-archetypes.md#daring-general): warrior 9–15 common
+- [Shared Challenge (Esquire)](../../characters/classes/cavalier-archetypes.md#esquire): warrior 1–8 common
+- [Shield Expertise (Shield Knight)](../../characters/classes/cavalier-archetypes.md#shield-knight): warrior 1–8 weak
+- [Sinuous Steps (Verdivant)](../../characters/classes/cavalier-archetypes.md#verdivant): warrior 1–8 common
+- [Skillful Rider (Hussar)](../../characters/classes/cavalier-archetypes.md#hussar): warrior 1–8 weak
+- [Social Presence (Courtly Knight)](../../characters/classes/cavalier-archetypes.md#courtly-knight): warrior 1–8 weak
+- [Soul Shield (Shield Knight)](../../characters/classes/cavalier-archetypes.md#shield-knight): warrior 9–15 common
+- [Spell Severed (Wasteland Drifter)](../../characters/classes/cavalier-archetypes.md#wasteland-drifter): warrior 9–15 common
+- [Spirited Mount (Ghost Rider)](../../characters/classes/cavalier-archetypes.md#ghost-rider): warrior 1–8 weak
+- [Squad Commander (Constable)](../../characters/classes/cavalier-archetypes.md#constable): warrior 1–8 weak
+- [Stalwart (Green Knight)](../../characters/classes/cavalier-archetypes.md#green-knight): warrior 9–15 common
+- [Strategic Supremacy (Strategist)](../../characters/classes/cavalier-archetypes.md#strategist): warrior 16–20 weak
+- [Stuck in the Saddle (Vermin Tamer)](../../characters/classes/cavalier-archetypes.md#vermin-tamer): warrior 1–8 weak
+- [Sudden Swerve (Hussar)](../../characters/classes/cavalier-archetypes.md#hussar): warrior 16–20 weak
+- [Supreme Aim (Luring Cavalier)](../../characters/classes/cavalier-archetypes.md#luring-cavalier): warrior 16–20 common
+- [Supreme Charge](../../characters/classes/cavalier.md#supreme-charge-ex): warrior 16–20 op
+- [Supreme Defense (Castellan)](../../characters/classes/cavalier-archetypes.md#castellan): warrior 16–20 common
+- [Supreme Tactician (Daring General)](../../characters/classes/cavalier-archetypes.md#daring-general): warrior 16–20 common
+- [Swift Powder (Musketeer)](../../characters/classes/cavalier-archetypes.md#musketeer): warrior 1–8 weak
+- [Sworn Defense (Honor Guard)](../../characters/classes/cavalier-archetypes.md#honor-guard): warrior 1–8 weak
+- [Symbol of Inspiration (Gallant)](../../characters/classes/cavalier-archetypes.md#gallant): warrior 1–8 weak
+- [Symbol of Resilience (Gallant)](../../characters/classes/cavalier-archetypes.md#gallant): warrior 9–15 common
+- [Tactical Advantage (Strategist)](../../characters/classes/cavalier-archetypes.md#strategist): warrior 9–15 weak
+- [Tactician](../../characters/classes/cavalier.md#tactician-ex): warrior 1–8 common, specialist 1–8 common
+- [Take Their Heads (Green Knight)](../../characters/classes/cavalier-archetypes.md#green-knight): warrior 16–20 weak
+- [Takedown (Huntmaster)](../../characters/classes/cavalier-archetypes.md#huntmaster): warrior 1–8 weak
+- [Teamwork (Esquire)](../../characters/classes/cavalier-archetypes.md#esquire): warrior 1–8 weak
+- [Terror (Fell Rider)](../../characters/classes/cavalier-archetypes.md#fell-rider): warrior 9–15 common
+- [Thundering Hooves (Charger)](../../characters/classes/cavalier-archetypes.md#charger): warrior 1–8 common
+- [Titanic Challenge (Saurian Champion)](../../characters/classes/cavalier-archetypes.md#saurian-champion): warrior 1–8 common
+- [Titanic Mount (Saurian Champion)](../../characters/classes/cavalier-archetypes.md#saurian-champion): warrior 9–15 common
+- [Tough as Nails (Wasteland Drifter)](../../characters/classes/cavalier-archetypes.md#wasteland-drifter): warrior 16–20 common
+- [Transfixing Charge (Gendarme)](../../characters/classes/cavalier-archetypes.md#gendarme): warrior 16–20 op
+- [Underworld Mount (Vermin Tamer)](../../characters/classes/cavalier-archetypes.md#vermin-tamer): warrior 1–8 op
+- [Unstoppable Rampage (Fell Rider)](../../characters/classes/cavalier-archetypes.md#fell-rider): warrior 16–20 common
+- [Versatile Challenge (Luring Cavalier)](../../characters/classes/cavalier-archetypes.md#luring-cavalier): warrior 9–15 weak
+- [Warding Charge (Honor Guard)](../../characters/classes/cavalier-archetypes.md#honor-guard): warrior 9–15 common
+- [Worn Banner (Wasteland Drifter)](../../characters/classes/cavalier-archetypes.md#wasteland-drifter): warrior 1–8 weak

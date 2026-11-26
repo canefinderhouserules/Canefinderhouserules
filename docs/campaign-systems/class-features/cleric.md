@@ -1,0 +1,38 @@
+# Cleric
+
+- [Balanced Channel (Crashing Wave)](../../characters/classes/cleric-archetypes.md#crashing-wave): specialist 1–8 common, caster 1–8 common
+- [Bonded Holy Symbol (Ecclesitheurge)](../../characters/classes/cleric-archetypes.md#ecclesitheurge): specialist 1–8 common, caster 1–8 common
+- [Bonded Ritual (Triadic Priest)](../../characters/classes/cleric-archetypes.md#triadic-priest): specialist 1–8 common, caster 1–8 common
+- [Caravan Bond (Wayfaring Pilgrim)](../../characters/classes/cleric-archetypes.md#wayfaring-pilgrim): specialist 1–8 weak, caster 1–8 weak
+- [Channel](../../characters/classes/cleric.md#channel-energy-su): warrior 1–8 common, specialist 1–8 common, caster 1–8 common
+- [Channel Angelfire (Angelfire Apostle)](../../characters/classes/cleric-archetypes.md#angelfire-apostle): specialist 1–8 common, caster 1–8 common
+- [Channel Beauty (Sacred Attendant)](../../characters/classes/cleric-archetypes.md#sacred-attendant): specialist 1–8 weak, caster 1–8 weak
+- [Channel Entropy (Channeler of the Unknown)](../../characters/classes/cleric-archetypes.md#channeler-of-the-unknown): specialist 1–8 common, caster 1–8 common
+- [Channel the Void (Elder Mythos Cultist)](../../characters/classes/cleric-archetypes.md#elder-mythos-cultist): specialist 1–8 common, caster 1–8 common
+- [Channel Utility (Appeaser)](../../characters/classes/cleric-archetypes.md#appeaser): specialist 1–8 common, caster 1–8 common
+- [Cleansing Flames (Angelfire Apostle)](../../characters/classes/cleric-archetypes.md#angelfire-apostle): specialist 9–15 weak, caster 9–15 weak
+- [Curse Eater (Roaming Exorcist)](../../characters/classes/cleric-archetypes.md#roaming-exorcist): specialist 9–15 weak, caster 9–15 weak
+- [Dedicated Wanderer (Roaming Exorcist)](../../characters/classes/cleric-archetypes.md#roaming-exorcist): specialist 1–8 weak, caster 1–8 weak
+- [Demonic Channel (Demonic Apostle)](../../characters/classes/cleric-archetypes.md#demonic-apostle): specialist 1–8 common, caster 1–8 common
+- [Diligent Student (Scroll Scholar)](../../characters/classes/cleric-archetypes.md#scroll-scholar): specialist 1–8 weak, caster 1–8 weak
+- [Divine Hexes (Divine Scourge)](../../characters/classes/cleric-archetypes.md#divine-scourge): specialist 1–8 op, caster 1–8 op
+- [Domains](../../characters/classes/cleric.md#domains_1): specialist 1–8 op, caster 1–8 op
+- [Fiendish Familiar (Fiendish Vessel)](../../characters/classes/cleric-archetypes.md#fiendish-vessel): specialist 1–8 common, caster 1–8 common
+- [Flash of Insight (Scroll Scholar)](../../characters/classes/cleric-archetypes.md#scroll-scholar): specialist 9–15 common, caster 9–15 common
+- [Invoke Realm (Idealist)](../../characters/classes/cleric-archetypes.md#idealist): specialist 1–8 weak, caster 1–8 weak
+- [Luminous Font (Blossoming Light)](../../characters/classes/cleric-archetypes.md#blossoming-light): specialist 1–8 weak, caster 1–8 weak
+- [Maddening Gaze (Elder Mythos Cultist)](../../characters/classes/cleric-archetypes.md#elder-mythos-cultist): specialist 1–8 common, caster 1–8 common
+- [Master Tactician (Divine Strategist)](../../characters/classes/cleric-archetypes.md#divine-strategist): specialist 1–8 common, caster 1–8 common
+- [Merciful Healing (Merciful Healer)](../../characters/classes/cleric-archetypes.md#merciful-healer): specialist 1–8 common, caster 1–8 common
+- [Pact-Bound (Infernal Advocate)](../../characters/classes/cleric-archetypes.md#infernal-advocate): specialist 1–8 weak, caster 1–8 weak
+- [Rooted Vitality (Foundation of Faith)](../../characters/classes/cleric-archetypes.md#foundation-of-faith): specialist 1–8 common, caster 1–8 common
+- [Runeforger (Forgemaster)](../../characters/classes/cleric-archetypes.md#forgemaster): specialist 1–8 common, caster 1–8 common
+- [Secrets Revealed (Scroll Scholar)](../../characters/classes/cleric-archetypes.md#scroll-scholar): specialist 1–8 common, caster 1–8 common
+- [Sermonic Performance (Evangelist)](../../characters/classes/cleric-archetypes.md#evangelist): specialist 1–8 op, caster 1–8 op
+- [Serpent (Infernal Advocate)](../../characters/classes/cleric-archetypes.md#infernal-advocate): specialist 1–8 common, caster 1–8 common
+- [Speech of the Sea (Crashing Wave)](../../characters/classes/cleric-archetypes.md#crashing-wave): specialist 1–8 weak, caster 1–8 weak
+- [Spontaneous Casting](../../characters/classes/cleric.md#spontaneous-casting): specialist 1–8 weak, caster 1–8 weak
+- [Three-Aspect Channel (Stoic Caregiver)](../../characters/classes/cleric-archetypes.md#stoic-caregiver): specialist 1–8 weak, caster 1–8 weak
+- [True Healer (Merciful Healer)](../../characters/classes/cleric-archetypes.md#merciful-healer): specialist 1–8 weak, caster 1–8 weak
+- [Unhinged Mind (Elder Mythos Cultist)](../../characters/classes/cleric-archetypes.md#elder-mythos-cultist): specialist 1–8 common, caster 1–8 common
+- [Unseen Devotion (Hidden Priest)](../../characters/classes/cleric-archetypes.md#hidden-priest): specialist 1–8 weak, caster 1–8 weak

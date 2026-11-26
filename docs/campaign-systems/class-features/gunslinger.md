@@ -1,0 +1,25 @@
+# Gunslinger
+
+- [Arbitrary Aim (Gun Scavenger)](../../characters/classes/gunslinger-archetypes.md#gun-scavenger): warrior 1–8 common
+- [Belly Shot (Gulch Gunner)](../../characters/classes/gunslinger-archetypes.md#gulch-gunner): warrior 9–15 common
+- [Blatherskite's Stagger (Blatherskite)](../../characters/classes/gunslinger-archetypes.md#blatherskite): warrior 1–8 common
+- [Blatherskite's Surprise (Blatherskite)](../../characters/classes/gunslinger-archetypes.md#blatherskite): warrior 1–8 common
+- [Bullet Deflection (Gun Tank)](../../characters/classes/gunslinger-archetypes.md#gun-tank): warrior 1–8 weak
+- [Change Out (Gun Scavenger)](../../characters/classes/gunslinger-archetypes.md#gun-scavenger): warrior 1–8 weak
+- [Engineer Training (Siege Gunner)](../../characters/classes/gunslinger-archetypes.md#siege-gunner): warrior 1–8 weak
+- [Exotic Pet (Buccaneer)](../../characters/classes/gunslinger-archetypes.md#buccaneer): warrior 1–8 common
+- [Experimental Firearm (Experimental Gunsmith)](../../characters/classes/gunslinger-archetypes.md#experimental-gunsmith): warrior 1–8 weak
+- [Grit and Deeds](../../characters/classes/gunslinger.md#grit-ex "also: deeds"): warrior 1–8 op, specialist 1–8 op
+- [Gun Training](../../characters/classes/gunslinger.md#gun-training-ex): warrior 1–8 common, specialist 1–8 common
+- [Gunsmith](../../characters/classes/gunslinger.md#gunsmith): warrior 1–8 common, specialist 1–8 common, caster 1–8 common
+- [Innovations (Experimental Gunsmith)](../../characters/classes/gunslinger-archetypes.md#experimental-gunsmith): warrior 1–8 common
+- [Lucky (Mysterious Stranger)](../../characters/classes/gunslinger-archetypes.md#mysterious-stranger): warrior 1–8 weak
+- [Nimble](../../characters/classes/gunslinger.md#nimble-ex): warrior 1–8 weak, specialist 1–8 weak, caster 1–8 weak
+- [Raider’s Riposte (Buccaneer)](../../characters/classes/gunslinger-archetypes.md#buccaneer): warrior 16–20 common
+- [Sneak Shot (Bushwhacker)](../../characters/classes/gunslinger-archetypes.md#bushwhacker): warrior 1–8 common
+- [Stranger’s Fortune (Mysterious Stranger)](../../characters/classes/gunslinger-archetypes.md#mysterious-stranger): warrior 1–8 weak
+- [Supernatural Awareness (Graveslinger)](../../characters/classes/gunslinger-archetypes.md#graveslinger): warrior 1–8 weak
+- [Targeted Blast (Siege Gunner)](../../characters/classes/gunslinger-archetypes.md#siege-gunner): warrior 1–8 common
+- [Track (Commando)](../../characters/classes/gunslinger-archetypes.md#commando): warrior 1–8 weak
+- [Trapsmith (Commando)](../../characters/classes/gunslinger-archetypes.md#commando): warrior 1–8 weak
+- [True Grit](../../characters/classes/gunslinger.md#true-grit-ex): warrior 16–20 common, specialist 16–20 common

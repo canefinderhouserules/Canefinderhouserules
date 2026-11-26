@@ -1,0 +1,69 @@
+# Mesmerist
+
+- [Absentia (Enigma)](../../characters/classes/mesmerist-archetypes.md#enigma): specialist 16–20 common
+- [Assume Identity (Thought Eater)](../../characters/classes/mesmerist-archetypes.md#thought-eater): specialist 1–8 common
+- [Assume Knowledge (Thought Eater)](../../characters/classes/mesmerist-archetypes.md#thought-eater): specialist 1–8 weak
+- [Assume Morality (Thought Eater)](../../characters/classes/mesmerist-archetypes.md#thought-eater): specialist 1–8 weak
+- [Autohypnosis (Autohypnotist)](../../characters/classes/mesmerist-archetypes.md#autohypnotist): specialist 1–8 common
+- [Bold Stare](../../characters/classes/mesmerist.md#bold-stare-su): specialist 1–8 common
+- [Bonus Feat (Vexing Trickster)](../../characters/classes/mesmerist-archetypes.md#vexing-trickster): specialist 1–8 weak
+- [Bonus Feats (Vexing Daredevil)](../../characters/classes/mesmerist-archetypes.md#vexing-daredevil): specialist 1–8 common
+- [Compelling Voice (Vox)](../../characters/classes/mesmerist-archetypes.md#vox): specialist 1–8 common
+- [Consume Identity (Thought Eater)](../../characters/classes/mesmerist-archetypes.md#thought-eater): specialist 16–20 common
+- [Consummate Liar](../../characters/classes/mesmerist.md#consummate-liar): specialist 1–8 common
+- [Continued Animation (Spirit Walker)](../../characters/classes/mesmerist-archetypes.md#spirit-walker): specialist 1–8 common
+- [Corrosion of Sanity (Gaslighter)](../../characters/classes/mesmerist-archetypes.md#gaslighter): specialist 9–15 common
+- [Debilitating Aroma (Aromaphile)](../../characters/classes/mesmerist-archetypes.md#aromaphile): specialist 1–8 common
+- [Detection Void (Enigma)](../../characters/classes/mesmerist-archetypes.md#enigma): specialist 9–15 weak
+- [Die for Me (Cult Master)](../../characters/classes/mesmerist-archetypes.md#cult-master): specialist 1–8 common
+- [Dreamwalker (Dreamstalker)](../../characters/classes/mesmerist-archetypes.md#dreamstalker): specialist 1–8 weak
+- [Enigmatic Stare (Enigma)](../../characters/classes/mesmerist-archetypes.md#enigma): specialist 1–8 common
+- [Extol (Cult Master)](../../characters/classes/mesmerist-archetypes.md#cult-master): specialist 1–8 weak
+- [Eyeball Familiar (Eyebiter)](../../characters/classes/mesmerist-archetypes.md#eyebiter): specialist 1–8 weak
+- [Faithful Followers (Cult Master)](../../characters/classes/mesmerist-archetypes.md#cult-master): specialist 1–8 common
+- [False Healing (Cult Master)](../../characters/classes/mesmerist-archetypes.md#cult-master): specialist 1–8 common
+- [Fanatical Devotion (Cult Master)](../../characters/classes/mesmerist-archetypes.md#cult-master): specialist 9–15 common
+- [Fanatical Stare (Cult Master)](../../characters/classes/mesmerist-archetypes.md#cult-master): specialist 1–8 common
+- [Feign Destiny (Chart Caster)](../../characters/classes/mesmerist-archetypes.md#chart-caster): specialist 1–8 common
+- [Fey Veil (Fey Trickster)](../../characters/classes/mesmerist-archetypes.md#fey-trickster): specialist 1–8 common
+- [Feytouched (Fey Trickster)](../../characters/classes/mesmerist-archetypes.md#fey-trickster): specialist 1–8 weak
+- [Glib Lie](../../characters/classes/mesmerist.md#glib-lie-su): specialist 9–15 weak
+- [Horrid Mask (Gaslighter)](../../characters/classes/mesmerist-archetypes.md#gaslighter): specialist 1–8 common
+- [Hypnotic Aroma (Aromaphile)](../../characters/classes/mesmerist-archetypes.md#aromaphile): specialist 1–8 common
+- [Hypnotic Stare](../../characters/classes/mesmerist.md#hypnotic-stare-su): specialist 1–8 common
+- [Implant Consciousness (Projectionist)](../../characters/classes/mesmerist-archetypes.md#projectionist): specialist 1–8 common
+- [Improved Injections (Toxitician)](../../characters/classes/mesmerist-archetypes.md#toxitician): specialist 9–15 common
+- [Injections (Toxitician)](../../characters/classes/mesmerist-archetypes.md#toxitician): specialist 1–8 common
+- [Insidious Emotions (Hate-Monger)](../../characters/classes/mesmerist-archetypes.md#hate-monger): specialist 9–15 weak
+- [Insidious Hatred (Hate-Monger)](../../characters/classes/mesmerist-archetypes.md#hate-monger): specialist 1–8 common
+- [Insidious Influence (Vizier)](../../characters/classes/mesmerist-archetypes.md#vizier): specialist 1–8 weak
+- [Manifold Hijinks (Vexing Trickster)](../../characters/classes/mesmerist-archetypes.md#vexing-trickster): specialist 1–8 weak
+- [Manifold Tricks](../../characters/classes/mesmerist.md#manifold-tricks-su): specialist 1–8 common
+- [Master of the Dead (Spirit Walker)](../../characters/classes/mesmerist-archetypes.md#spirit-walker): specialist 16–20 common
+- [Masterful Tricks](../../characters/classes/mesmerist.md#masterful-tricks-su): specialist 9–15 common
+- [Mental Potency](../../characters/classes/mesmerist.md#mental-potency-ex): specialist 1–8 common
+- [Mesmerist Tricks](../../characters/classes/mesmerist.md#mesmerist-tricks-su): specialist 1–8 common
+- [Out for Blood (Hate-Monger)](../../characters/classes/mesmerist-archetypes.md#hate-monger): specialist 1–8 common
+- [Painful Stare](../../characters/classes/mesmerist.md#painful-stare-su): specialist 1–8 common
+- [Phantasmagoric Breath (Mindwyrm Mesmer)](../../characters/classes/mesmerist-archetypes.md#mindwyrm-mesmer): specialist 1–8 common
+- [Phantasmal Foes (Gaslighter)](../../characters/classes/mesmerist-archetypes.md#gaslighter): specialist 9–15 common
+- [Phantasmal Force (Gaslighter)](../../characters/classes/mesmerist-archetypes.md#gaslighter): specialist 1–8 weak
+- [Power Behind the Throne (Vizier)](../../characters/classes/mesmerist-archetypes.md#vizier): specialist 1–8 weak
+- [Reborn (Cult Master)](../../characters/classes/mesmerist-archetypes.md#cult-master): specialist 16–20 common
+- [Revision (Material Manipulator)](../../characters/classes/mesmerist-archetypes.md#material-manipulator): specialist 1–8 weak
+- [Rule Minds](../../characters/classes/mesmerist.md#rule-minds-su): specialist 16–20 common
+- [Rusalka (Fey Trickster)](../../characters/classes/mesmerist-archetypes.md#fey-trickster): specialist 1–8 weak
+- [Shimmering Body (Vexing Daredevil)](../../characters/classes/mesmerist-archetypes.md#vexing-daredevil): specialist 9–15 common
+- [Sneak Attack (1d6 at 5th level, +1d6 every 4 levels)](../../characters/classes/mesmerist-archetypes.md#enigma): specialist 1–8 op
+- [Solipsism (Enigma)](../../characters/classes/mesmerist-archetypes.md#enigma): specialist 1–8 common
+- [Somnomancer (Dreamstalker)](../../characters/classes/mesmerist-archetypes.md#dreamstalker): specialist 1–8 common
+- [Spellblight (Eyebiter)](../../characters/classes/mesmerist-archetypes.md#eyebiter): specialist 9–15 weak
+- [Subsonic Strike (Vox)](../../characters/classes/mesmerist-archetypes.md#vox): specialist 9–15 common
+- [Surprise Strike (Vexing Daredevil)](../../characters/classes/mesmerist-archetypes.md#vexing-daredevil): specialist 1–8 common
+- [Touch Treatment](../../characters/classes/mesmerist.md#touch-treatment-su): warrior 1–8 common, specialist 1–8 common
+- [Towering Ego](../../characters/classes/mesmerist.md#towering-ego-su): specialist 1–8 weak
+- [Treatment Vials (Toxitician)](../../characters/classes/mesmerist-archetypes.md#toxitician): specialist 1–8 weak
+- [Undead Inception (Spirit Walker)](../../characters/classes/mesmerist-archetypes.md#spirit-walker): specialist 1–8 common
+- [Wide Stare (Autohypnotist)](../../characters/classes/mesmerist-archetypes.md#autohypnotist): specialist 1–8 common
+- [Wounding Words (Vox)](../../characters/classes/mesmerist-archetypes.md#vox): specialist 1–8 common
+- [Xenophobe (Hate-Monger)](../../characters/classes/mesmerist-archetypes.md#hate-monger): specialist 1–8 common

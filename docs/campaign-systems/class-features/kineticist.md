@@ -1,0 +1,88 @@
+# Kineticist
+
+- [Accursed Blast (Arakineticist)](../../characters/classes/kineticist-archetypes.md#arakineticist): specialist 1–8 weak
+- [Accursed Infusion (Arakineticist)](../../characters/classes/kineticist-archetypes.md#arakineticist): specialist 9–15 common
+- [Basic Elysiokinesis (Elysiokineticist)](../../characters/classes/kineticist-archetypes.md#elysiokineticist): specialist 1–8 weak
+- [Basic Iounkinesis (Ioun Kineticist)](../../characters/classes/kineticist-archetypes.md#ioun-kineticist): specialist 1–8 weak
+- [Basic Leshykinesis (Leshykineticist)](../../characters/classes/kineticist-archetypes.md#leshykineticist): specialist 1–8 weak
+- [Basis Aquakinesis (Aquakineticist)](../../characters/classes/kineticist-archetypes.md#aquakineticist): specialist 1–8 weak
+- [Blast Training (Elemental Annihilator)](../../characters/classes/kineticist-archetypes.md#elemental-annihilator): specialist 1–8 common
+- [Bleeding Infusion (Blood Kineticist)](../../characters/classes/kineticist-archetypes.md#blood-kineticist): specialist 1–8 common
+- [Blightburn Aura (Blightburner)](../../characters/classes/kineticist-archetypes.md#blightburner): specialist 1–8 common
+- [Blightburn Manipulation (Blightburner)](../../characters/classes/kineticist-archetypes.md#blightburner): specialist 1–8 weak
+- [Blood Blast (Blood Kineticist)](../../characters/classes/kineticist-archetypes.md#blood-kineticist): specialist 1–8 common
+- [Blood Mastery (Blood Kineticist)](../../characters/classes/kineticist-archetypes.md#blood-kineticist): specialist 16–20 common
+- [Blood Tell (Blood Kineticist)](../../characters/classes/kineticist-archetypes.md#blood-kineticist): specialist 1–8 weak
+- [Blood Throw (Blood Kineticist)](../../characters/classes/kineticist-archetypes.md#blood-kineticist): specialist 1–8 weak
+- [Bonus Feats (Elemental Annihilator)](../../characters/classes/kineticist-archetypes.md#elemental-annihilator): specialist 1–8 common
+- [Burn](../../characters/classes/kineticist.md#burn-ex): specialist 1–8 weak
+- [Burning Winds (Psammokinetic)](../../characters/classes/kineticist-archetypes.md#psammokinetic): specialist 1–8 common
+- [Call of the Deep (Aquakineticist)](../../characters/classes/kineticist-archetypes.md#aquakineticist): specialist 1–8 weak
+- [Composite Specialization](../../characters/classes/kineticist.md#composite-specialization-su): specialist 16–20 common
+- [Curse Spinner (Arakineticist)](../../characters/classes/kineticist-archetypes.md#arakineticist): specialist 1–8 weak
+- [Dark Studies (Dark Elementalist)](../../characters/classes/kineticist-archetypes.md#dark-elementalist): specialist 1–8 weak
+- [Deep Current (Aquakineticist)](../../characters/classes/kineticist-archetypes.md#aquakineticist): specialist 1–8 common
+- [Devastating Infusion (Elemental Annihilator)](../../characters/classes/kineticist-archetypes.md#elemental-annihilator): specialist 1–8 common
+- [Double Blast](../../characters/classes/kineticist.md#double-blast-su): specialist 16–20 op
+- [Elemental Apocalypse (Elemental Purist)](../../characters/classes/kineticist-archetypes.md#elemental-purist): specialist 16–20 common
+- [Elemental Blade (Kinetic Knight)](../../characters/classes/kineticist-archetypes.md#kinetic-knight): specialist 1–8 common
+- [Elemental Defense](../../characters/classes/kineticist.md#elemental-defense-su): warrior 1–8 weak, specialist 1–8 weak
+- [Elemental Flurry (Elemental Ascetic)](../../characters/classes/kineticist-archetypes.md#elemental-ascetic): specialist 1–8 common
+- [Elemental Focus](../../characters/classes/kineticist.md#elemental-focus-su): specialist 1–8 op, caster 1–8 op
+- [Elemental Impossibility (Elemental Purist)](../../characters/classes/kineticist-archetypes.md#elemental-purist): specialist 1–8 common
+- [Elemental Might (Blighted Defiler)](../../characters/classes/kineticist-archetypes.md#blighted-defiler): specialist 1–8 common
+- [Elemental Overflow](../../characters/classes/kineticist.md#elemental-overflow-ex): specialist 1–8 weak
+- [Elemental Wisdom (Elemental Ascetic)](../../characters/classes/kineticist-archetypes.md#elemental-ascetic): specialist 1–8 weak
+- [Elysian Aura (Elysiokineticist)](../../characters/classes/kineticist-archetypes.md#elysiokineticist): specialist 1–8 common
+- [Elysian Infusion (Elysiokineticist)](../../characters/classes/kineticist-archetypes.md#elysiokineticist): specialist 1–8 weak
+- [Elysium's Soul (Elysiokineticist)](../../characters/classes/kineticist-archetypes.md#elysiokineticist): specialist 1–8 weak
+- [Ever-Present Threat (Elemental Annihilator)](../../characters/classes/kineticist-archetypes.md#elemental-annihilator): specialist 1–8 weak
+- [Expanded Element](../../characters/classes/kineticist.md#expanded-element-su): warrior 1–8 weak, specialist 1–8 weak
+- [Expanded Terrakinesis (Terrakineticist)](../../characters/classes/kineticist-archetypes.md#terrakineticist): specialist 1–8 weak
+- [Flurry of Devastation (Elemental Annihilator)](../../characters/classes/kineticist-archetypes.md#elemental-annihilator): specialist 1–8 op
+- [Forest Blast (Leshykineticist)](../../characters/classes/kineticist-archetypes.md#leshykineticist): specialist 1–8 weak
+- [Galloping Siphon (Burn Rider)](../../characters/classes/kineticist-archetypes.md#burn-rider): specialist 1–8 weak
+- [Gather Power](../../characters/classes/kineticist.md#gather-power-su): specialist 1–8 weak
+- [Ghaelelight Blast (Elysiokineticist)](../../characters/classes/kineticist-archetypes.md#elysiokineticist): specialist 1–8 common
+- [Green Rebirth (Leshykineticist)](../../characters/classes/kineticist-archetypes.md#leshykineticist): specialist 16–20 common
+- [Gut-Wrenching Infusion (Blood Kineticist)](../../characters/classes/kineticist-archetypes.md#blood-kineticist): specialist 9–15 common
+- [Healing Buffer (Kinetic Chirurgeon)](../../characters/classes/kineticist-archetypes.md#kinetic-chirurgeon): specialist 1–8 weak
+- [Ice Propagation (Aquakineticist)](../../characters/classes/kineticist-archetypes.md#aquakineticist): specialist 1–8 common
+- [Increased Range (Elemental Annihilator)](../../characters/classes/kineticist-archetypes.md#elemental-annihilator): specialist 1–8 weak
+- [Infusion](../../characters/classes/kineticist.md#infusion-su): specialist 1–8 common, caster 1–8 common
+- [Infusion Specialization](../../characters/classes/kineticist.md#infusion-specialization-ex): specialist 1–8 weak
+- [Internal Buffer](../../characters/classes/kineticist.md#internal-buffer-su): specialist 1–8 weak
+- [Ioun Blast (Ioun Kineticist)](../../characters/classes/kineticist-archetypes.md#ioun-kineticist): specialist 1–8 common
+- [Ioun Buffer (Ioun Kineticist)](../../characters/classes/kineticist-archetypes.md#ioun-kineticist): specialist 1–8 common
+- [Ioun Cloud (Ioun Kineticist)](../../characters/classes/kineticist-archetypes.md#ioun-kineticist): specialist 1–8 common
+- [Kinetic Blast](../../characters/classes/kineticist.md#kinetic-blast-sp): specialist 1–8 iconic
+- [Kinetic Chirurgery (Kinetic Chirurgeon)](../../characters/classes/kineticist-archetypes.md#kinetic-chirurgeon): specialist 1–8 common
+- [Kinetic Warrior (Kinetic Knight)](../../characters/classes/kineticist-archetypes.md#kinetic-knight): specialist 1–8 weak
+- [Knight's Resolve (Kinetic Knight)](../../characters/classes/kineticist-archetypes.md#kinetic-knight): specialist 1–8 common
+- [Life Buffer (Blighted Defiler)](../../characters/classes/kineticist-archetypes.md#blighted-defiler): specialist 1–8 weak
+- [Mental Overflow (Psychokineticist) (Kineticist)](../../characters/classes/kineticist-archetypes.md#psychokineticist): specialist 1–8 common
+- [Mental Prowess (Overwhelming Soul)](../../characters/classes/kineticist-archetypes.md#overwhelming-soul): specialist 1–8 common
+- [Metahealer (Kinetic Chirurgeon)](../../characters/classes/kineticist-archetypes.md#kinetic-chirurgeon): specialist 1–8 common
+- [Metakinesis](../../characters/classes/kineticist.md#metakinesis-su): specialist 1–8 common
+- [Mind Over Matter (Overwhelming Soul)](../../characters/classes/kineticist-archetypes.md#overwhelming-soul): specialist 1–8 common
+- [Mount (Burn Rider)](../../characters/classes/kineticist-archetypes.md#burn-rider): warrior 1–8 common, specialist 1–8 common
+- [Ocean’s Caress (Aquakineticist)](../../characters/classes/kineticist-archetypes.md#aquakineticist): specialist 1–8 weak
+- [Omnicide (Elemental Annihilator)](../../characters/classes/kineticist-archetypes.md#elemental-annihilator): specialist 16–20 common
+- [Omnikinesis](../../characters/classes/kineticist.md#omnikinesis-su): specialist 16–20 common
+- [Omniterrakinesis (Terrakineticist)](../../characters/classes/kineticist-archetypes.md#terrakineticist): specialist 16–20 common
+- [Overwhelming Power (Overwhelming Soul)](../../characters/classes/kineticist-archetypes.md#overwhelming-soul): specialist 1–8 common
+- [Personal Resonance (Ioun Kineticist)](../../characters/classes/kineticist-archetypes.md#ioun-kineticist): specialist 1–8 common
+- [Photosynthetic Buffer (Leshykineticist)](../../characters/classes/kineticist-archetypes.md#leshykineticist): specialist 1–8 weak
+- [Powerful Fist (Elemental Ascetic)](../../characters/classes/kineticist-archetypes.md#elemental-ascetic): specialist 1–8 common
+- [Pure Blast (Elemental Purist)](../../characters/classes/kineticist-archetypes.md#elemental-purist): specialist 1–8 common
+- [Radiation Absorption (Blightburner)](../../characters/classes/kineticist-archetypes.md#blightburner): specialist 1–8 weak
+- [Radiation Resistance (Blightburner)](../../characters/classes/kineticist-archetypes.md#blightburner): specialist 1–8 weak
+- [Soul Power (Dark Elementalist)](../../characters/classes/kineticist-archetypes.md#dark-elementalist): specialist 1–8 common
+- [Steal Life (Blighted Defiler)](../../characters/classes/kineticist-archetypes.md#blighted-defiler): specialist 16–20 common
+- [Steal Power (Blighted Defiler)](../../characters/classes/kineticist-archetypes.md#blighted-defiler): specialist 1–8 common
+- [Stolen Strength (Blighted Defiler)](../../characters/classes/kineticist-archetypes.md#blighted-defiler): specialist 1–8 common
+- [Supercharge](../../characters/classes/kineticist.md#supercharge-su): specialist 9–15 common
+- [Terrakinesis (Terrakineticist)](../../characters/classes/kineticist-archetypes.md#terrakineticist): specialist 1–8 weak
+- [Vampiric Infusion (Blood Kineticist)](../../characters/classes/kineticist-archetypes.md#blood-kineticist): specialist 9–15 common
+- [Wild talents](../../characters/classes/kineticist.md#wild-talents_1): warrior 1–8 common, specialist 1–8 common
+- [Wrack (Blood Kineticist)](../../characters/classes/kineticist-archetypes.md#blood-kineticist): specialist 1–8 common

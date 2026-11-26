@@ -1,0 +1,49 @@
+# Legendary Gunslinger
+
+- [Adamant Guard (Living Turret)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#living-turret): specialist 1–8 common
+- [Aerial Mount (Sky Rider)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#sky-rider): specialist 1–8 weak
+- [Animal Companion (Sky Rider)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#sky-rider): specialist 1–8 op
+- [Anthem’s Style (Anthem Gunner)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#anthem-gunner): specialist 1–8 weak
+- [Arcane Artillery (Bullet Wizard)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#bullet-wizard): specialist 1–8 common
+- [Arcane Shot (Bullet Wizard)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#bullet-wizard): specialist 1–8 common
+- [Aura of Misfortune (Pale Slinger)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#pale-slinger): specialist 1–8 common
+- [Blasted Clear to Hell (Muzzle Roarer)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#muzzle-roarer): specialist 1–8 common
+- [Bomb (Demolition Soldier)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#demolition-soldier): specialist 1–8 common
+- [Bomb Bullet (Demolition Soldier)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#demolition-soldier): specialist 1–8 common
+- [Bomb Mastery (Demolition Soldier)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#demolition-soldier): specialist 1–8 weak
+- [Cursed Countenance (Muzzle Roarer)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#muzzle-roarer): specialist 1–8 common
+- [Dirty Bastard, Ugly Fighter (Muzzle Roarer)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#muzzle-roarer): specialist 1–8 weak
+- [Eagle Eyes](../../characters/classes/legendary/legendary-gunslinger.md#eagle-eyes-ex): specialist 1–8 weak
+- [Erudite Resolve (Bullet Wizard)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#bullet-wizard): specialist 16–20 weak
+- [Firewater (Rumslinger)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#rumslinger): specialist 1–8 weak
+- [Focused Traveler (Solemn Traveler)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#solemn-traveler): specialist 1–8 weak
+- [Genius’s Style (Bullet Wizard)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#bullet-wizard): specialist 1–8 weak
+- [Glorious Resolve (Anthem Gunner)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#anthem-gunner): specialist 16–20 weak
+- [Gritty Offense](../../characters/classes/legendary/legendary-gunslinger.md#gritty-offense-ex): specialist 1–8 weak
+- [Gun Mastery](../../characters/classes/legendary/legendary-gunslinger.md#gun-mastery-ex): specialist 1–8 op
+- [Gunner’s Style](../../characters/classes/legendary/legendary-gunslinger.md#gunners-style-ex): specialist 1–8 weak
+- [Harmonious Resolve (Anthem Gunner)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#anthem-gunner): specialist 1–8 weak
+- [Heavy Artillery (Living Turret)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#living-turret): specialist 1–8 common
+- [Hex Mastery (Pale Slinger)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#pale-slinger): specialist 1–8 common
+- [Intelligent Resolve (Bullet Wizard)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#bullet-wizard): specialist 1–8 weak
+- [Last Curse (Pale Slinger)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#pale-slinger): specialist 16–20 common
+- [Light Hands (Firearm Striker)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#firearm-striker): specialist 1–8 common
+- [Magic Gun (Bullet Wizard)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#bullet-wizard): specialist 1–8 weak
+- [Mount (Solemn Traveler)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#solemn-traveler): specialist 1–8 op
+- [No Existence (Faded Stranger)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#faded-stranger): specialist 16–20 common
+- [No Face (Faded Stranger)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#faded-stranger): specialist 1–8 weak
+- [No History (Faded Stranger)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#faded-stranger): specialist 9–15 weak
+- [Platinum (Alchemical Hotshot)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#alchemical-hotshot): specialist 16–20 common
+- [Port Royalty (Black Flag Bandit)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#black-flag-bandit): specialist 1–8 weak
+- [Rain of Fire (Rumslinger)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#rumslinger): specialist 16–20 common
+- [Raise the Flag (Black Flag Bandit)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#black-flag-bandit): specialist 1–8 weak
+- [Roar of the Gun (Muzzle Roarer)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#muzzle-roarer): specialist 1–8 weak
+- [Skybound (Sky Rider)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#sky-rider): specialist 1–8 weak
+- [Slinger’s Quirk](../../characters/classes/legendary/legendary-gunslinger.md#slingers-quirk-ex): specialist 1–8 weak
+- [Speedy Song (Anthem Gunner)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#anthem-gunner): specialist 1–8 weak
+- [Steely Resolve](../../characters/classes/legendary/legendary-gunslinger.md#steely-resolve-ex): specialist 1–8 weak
+- [Technologist (Technological Shootist)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#technological-shootist): specialist 1–8 common
+- [Traveler’s Judgement (Solemn Traveler)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#solemn-traveler): specialist 1–8 common
+- [Traveler’s Terror (Solemn Traveler)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#solemn-traveler): specialist 1–8 common
+- [Turret Stance (Living Turret)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#living-turret): specialist 1–8 common
+- [Wizard’s Quirk (Bullet Wizard)](../../characters/classes/legendary/legendary-gunslinger-archetypes.md#bullet-wizard): specialist 1–8 weak

@@ -1,0 +1,46 @@
+# Bloodrager
+
+- [Atavistic Avatar (Id Rager)](../../characters/classes/bloodrager-archetypes.md#id-rager): warrior 1–8 common
+- [Atavistic Caster (Id Rager)](../../characters/classes/bloodrager-archetypes.md#id-rager): warrior 1–8 weak
+- [Bestial Aspect (Rageshaper)](../../characters/classes/bloodrager-archetypes.md#rageshaper): warrior 1–8 common
+- [Blood Bond (Bloodrider)](../../characters/classes/bloodrager-archetypes.md#bloodrider): warrior 9–15 weak
+- [Blood Casting](../../characters/classes/bloodrager.md#blood-casting-su): warrior 1–8 common
+- [Blood Deflection (Steelblood)](../../characters/classes/bloodrager-archetypes.md#steelblood): warrior 1–8 common
+- [Blood of Life (Spelleater)](../../characters/classes/bloodrager-archetypes.md#spelleater): warrior 1–8 common
+- [Blood Sanctuary](../../characters/classes/bloodrager.md#blood-sanctuary-su): warrior 1–8 weak
+- [Bloodline](../../characters/classes/bloodrager.md#bloodline): warrior 1–8 op
+- [Bloodline Powers (Crossblooded Rager)](../../characters/classes/bloodrager-archetypes.md#crossblooded-rager): warrior 1–8 common
+- [Bloodline Powers (Enlightened Bloodrager)](../../characters/classes/bloodrager-archetypes.md#enlightened-bloodrager): warrior 1–8 common
+- [Bloodline Powers (Prowler at World’s End)](../../characters/classes/bloodrager-archetypes.md#prowler-at-worlds-end): warrior 1–8 common
+- [Bloodrage](../../characters/classes/bloodrager.md#bloodrage-su): warrior 1–8 op
+- [Bonus Feats (Id Rager)](../../characters/classes/bloodrager-archetypes.md#id-rager): warrior 1–8 op
+- [Chosen of the Spirits (Prowler at World’s End)](../../characters/classes/bloodrager-archetypes.md#prowler-at-worlds-end): warrior 9–15 common
+- [Combat Style Student (Bloody-Knuckled Rowdy)](../../characters/classes/bloodrager-archetypes.md#bloody-knuckled-rowdy): warrior 1–8 common
+- [Contact Specialist (Blood Conduit)](../../characters/classes/bloodrager-archetypes.md#blood-conduit): warrior 1–8 common
+- [Controlled Bloodrage (Urban Bloodrager)](../../characters/classes/bloodrager-archetypes.md#urban-bloodrager): warrior 1–8 op
+- [Enlightened Bloodrage (Enlightened Bloodrager)](../../characters/classes/bloodrager-archetypes.md#enlightened-bloodrager): warrior 1–8 weak
+- [Fast Rider (Bloodrider)](../../characters/classes/bloodrager-archetypes.md#bloodrider): warrior 1–8 weak
+- [Feral Mount (Bloodrider)](../../characters/classes/bloodrager-archetypes.md#bloodrider): warrior 1–8 common
+- [Furious Summoning (Greenrager)](../../characters/classes/bloodrager-archetypes.md#greenrager): warrior 9–15 weak
+- [Furious Transformation (Rageshaper)](../../characters/classes/bloodrager-archetypes.md#rageshaper): warrior 1–8 common
+- [Greater Bloodrage](../../characters/classes/bloodrager.md#greater-bloodrage-su): warrior 1–8 common
+- [Hexing Claws (Hag-Riven)](../../characters/classes/bloodrager-archetypes.md#hag-riven): warrior 9–15 common
+- [Meta-Rage (Metamagic Rager)](../../characters/classes/bloodrager-archetypes.md#metamagic-rager): warrior 1–8 common
+- [Mighty Bloodrage](../../characters/classes/bloodrager.md#mighty-bloodrage-su): warrior 16–20 common
+- [Primal Choices (Primalist)](../../characters/classes/bloodrager-archetypes.md#primalist): warrior 1–8 common
+- [Raging Resistance (Untouchable Rager)](../../characters/classes/bloodrager-archetypes.md#untouchable-rager): warrior 1–8 common
+- [Reflexive Conduit (Blood Conduit)](../../characters/classes/bloodrager-archetypes.md#blood-conduit): warrior 9–15 common
+- [Resistance Control (Untouchable Rager)](../../characters/classes/bloodrager-archetypes.md#untouchable-rager): warrior 9–15 weak
+- [Restrained Magic (Urban Bloodrager)](../../characters/classes/bloodrager-archetypes.md#urban-bloodrager): warrior 1–8 weak
+- [Rune Training (Symbol Striker)](../../characters/classes/bloodrager-archetypes.md#symbol-striker): warrior 1–8 weak
+- [Rune Trap (Symbol Striker)](../../characters/classes/bloodrager-archetypes.md#symbol-striker): warrior 9–15 weak
+- [Scarred Hide (Hag-Riven)](../../characters/classes/bloodrager-archetypes.md#hag-riven): warrior 1–8 weak
+- [Shapeshifted Spellcasting (Prowler at World’s End)](../../characters/classes/bloodrager-archetypes.md#prowler-at-worlds-end): warrior 9–15 weak
+- [Sorcerous Claws (Hag-Riven)](../../characters/classes/bloodrager-archetypes.md#hag-riven): warrior 1–8 common
+- [Spell Conduit (Blood Conduit)](../../characters/classes/bloodrager-archetypes.md#blood-conduit): warrior 1–8 common
+- [Spell Eating (Spelleater)](../../characters/classes/bloodrager-archetypes.md#spelleater): warrior 1–8 common
+- [Spirit (Prowler at World’s End)](../../characters/classes/bloodrager-archetypes.md#prowler-at-worlds-end): warrior 1–8 iconic
+    *Spirit (Prowler at World’s End)* gives only the Spirit ability: the medium's spirit and spirit surge as that archetype describes them (cheetah, leopard, lion and tiger; lesser power at 1st level, intermediate at 8th, greater at 16th; spirit surge never above 1d6). It does not give a bloodline (the destined bloodline or any other), bloodline powers or any other ability of the archetype.
+- [Spirit Guardian (Ancestral Harbinger)](../../characters/classes/bloodrager-archetypes.md#ancestral-harbinger): warrior 1–8 common
+- [Tireless Bloodrage](../../characters/classes/bloodrager.md#tireless-bloodrage-su): warrior 16–20 weak
+- [Weapon Rune (Symbol Striker)](../../characters/classes/bloodrager-archetypes.md#symbol-striker): warrior 1–8 common

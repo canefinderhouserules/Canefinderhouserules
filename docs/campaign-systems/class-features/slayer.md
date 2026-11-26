@@ -1,0 +1,81 @@
+# Slayer
+
+- [Aberration Hunter (Aberration Purger)](../../characters/classes/slayer-archetypes.md#aberration-purger): warrior 1–8 weak
+- [Aberration Slayer (Aberration Purger)](../../characters/classes/slayer-archetypes.md#aberration-purger): warrior 16–20 weak
+- [Alien Prescience (Aberration Purger)](../../characters/classes/slayer-archetypes.md#aberration-purger): warrior 1–8 weak
+- [Assassin's Vision (Shade Assassin)](../../characters/classes/slayer-archetypes.md#shade-assassin): warrior 1–8 common
+- [Astonishing Strike (Guerrilla)](../../characters/classes/slayer-archetypes.md#guerrilla): warrior 9–15 common
+- [Burn the Witch (Witch Killer)](../../characters/classes/slayer-archetypes.md#witch-killer): warrior 9–15 common
+- [Courtly Graces (Velvet Blade)](../../characters/classes/slayer-archetypes.md#velvet-blade): warrior 1–8 weak
+- [Cruel Trick (Bloody Jake)](../../characters/classes/slayer-archetypes.md#bloody-jake): warrior 9–15 common
+- [Cruel Tricks (Bloody Jake)](../../characters/classes/slayer-archetypes.md#bloody-jake): warrior 1–8 common
+- [Deadly Butterfly (Butterfly Blade)](../../characters/classes/slayer-archetypes.md#butterfly-blade): warrior 16–20 op
+- [Death from Above (Avalancher)](../../characters/classes/slayer-archetypes.md#avalancher): warrior 16–20 common
+- [Death Ward (Grave Warden)](../../characters/classes/slayer-archetypes.md#grave-warden): warrior 1–8 weak
+- [Desert Skirmisher (Dune Rider)](../../characters/classes/slayer-archetypes.md#dune-rider): warrior 1–8 common
+- [Determined Zeal (Deliverer)](../../characters/classes/slayer-archetypes.md#deliverer): warrior 1–8 common
+- [Dirty Trick (Bounty Hunter)](../../characters/classes/slayer-archetypes.md#bounty-hunter): warrior 1–8 common
+- [Discern Weakness (Aberration Purger)](../../characters/classes/slayer-archetypes.md#aberration-purger): warrior 1–8 weak
+- [Disrupt Coven (Covenbane)](../../characters/classes/slayer-archetypes.md#covenbane): warrior 1–8 weak
+- [Disrupt Teamwork (Family Hunter)](../../characters/classes/slayer-archetypes.md#family-hunter): warrior 1–8 weak
+- [Diver’s Advance (Spire Diver)](../../characters/classes/slayer-archetypes.md#spire-diver): warrior 9–15 weak
+- [Diver’s Quarry (Spire Diver)](../../characters/classes/slayer-archetypes.md#spire-diver): warrior 9–15 weak
+- [Divine Anathema (Deliverer)](../../characters/classes/slayer-archetypes.md#deliverer): warrior 9–15 common
+- [Double Speak (Turncoat)](../../characters/classes/slayer-archetypes.md#turncoat): warrior 1–8 weak
+- [Dunes of Death (Dune Rider)](../../characters/classes/slayer-archetypes.md#dune-rider): warrior 16–20 common
+- [Dust Vision (Dune Rider)](../../characters/classes/slayer-archetypes.md#dune-rider): warrior 1–8 weak
+- [Dustbringer (Grave Warden)](../../characters/classes/slayer-archetypes.md#grave-warden): warrior 9–15 common
+- [Ever Ready (Vanguard)](../../characters/classes/slayer-archetypes.md#vanguard): warrior 1–8 weak
+- [Fall-By Attack (Avalancher)](../../characters/classes/slayer-archetypes.md#avalancher): warrior 9–15 common
+- [Falling Dodge (Avalancher)](../../characters/classes/slayer-archetypes.md#avalancher): warrior 1–8 common
+- [Falling Strike (Avalancher)](../../characters/classes/slayer-archetypes.md#avalancher): warrior 1–8 common
+- [Find Family (Family Hunter)](../../characters/classes/slayer-archetypes.md#family-hunter): warrior 1–8 weak
+- [Focused Killer (Syndicate Executioner)](../../characters/classes/slayer-archetypes.md#syndicate-executioner): warrior 1–8 common
+- [Force Vulnerability (Titan Slayer)](../../characters/classes/slayer-archetypes.md#titan-slayer): warrior 16–20 common
+- [Gain Leverage (Titan Slayer)](../../characters/classes/slayer-archetypes.md#titan-slayer): warrior 1–8 common
+- [Galloping Fire (Dune Rider)](../../characters/classes/slayer-archetypes.md#dune-rider): warrior 1–8 weak
+- [Ghost Slayer (Spiritslayer)](../../characters/classes/slayer-archetypes.md#spiritslayer): warrior 1–8 common
+- [Hold Breath (Spire Diver)](../../characters/classes/slayer-archetypes.md#spire-diver): warrior 1–8 weak
+- [Holy Water Sprinkler (Grave Warden)](../../characters/classes/slayer-archetypes.md#grave-warden): warrior 1–8 weak
+- [Incapacitate (Bounty Hunter)](../../characters/classes/slayer-archetypes.md#bounty-hunter): warrior 9–15 common
+- [Innocent Butterfly (Butterfly Blade)](../../characters/classes/slayer-archetypes.md#butterfly-blade): warrior 1–8 weak
+- [Kinslayer (Family Hunter)](../../characters/classes/slayer-archetypes.md#family-hunter): warrior 1–8 weak
+- [Lingering Thrust (Witch Killer)](../../characters/classes/slayer-archetypes.md#witch-killer): warrior 1–8 common
+- [Marksman (Toxic Sniper)](../../characters/classes/slayer-archetypes.md#toxic-sniper): warrior 1–8 weak
+- [Master Slayer](../../characters/classes/slayer.md#master-slayer-ex): warrior 16–20 common
+- [Opportune Target (Cutthroat)](../../characters/classes/slayer-archetypes.md#cutthroat): warrior 1–8 weak
+- [Precise Toxin (Toxic Sniper)](../../characters/classes/slayer-archetypes.md#toxic-sniper): warrior 9–15 common
+- [Quick Start (Guerrilla)](../../characters/classes/slayer-archetypes.md#guerrilla): warrior 1–8 weak
+- [Ranged Sneak Attack (Woodland Sniper)](../../characters/classes/slayer-archetypes.md#woodland-sniper): warrior 1–8 op
+- [Sadistic Snare (Bloody Jake)](../../characters/classes/slayer-archetypes.md#bloody-jake): warrior 1–8 weak
+- [Scrapper's Gun (Toxic Sniper)](../../characters/classes/slayer-archetypes.md#toxic-sniper): warrior 1–8 weak
+- [Shadow Double (Shade Assassin)](../../characters/classes/slayer-archetypes.md#shade-assassin): warrior 1–8 common
+- [Shadow Prey (Shade Assassin)](../../characters/classes/slayer-archetypes.md#shade-assassin): warrior 1–8 common
+- [Shadowy Mist Form (Stygian Slayer)](../../characters/classes/slayer-archetypes.md#stygian-slayer): warrior 9–15 common
+- [Sharpshooter's Study (Toxic Sniper)](../../characters/classes/slayer-archetypes.md#toxic-sniper): warrior 1–8 common
+- [Silent Dispatch (Velvet Blade)](../../characters/classes/slayer-archetypes.md#velvet-blade): warrior 9–15 common
+- [Slayer Talents](../../characters/classes/slayer.md#slayer-talents): warrior 1–8 op
+- [Slayer's Advance](../../characters/classes/slayer.md#slayers-advance-ex): warrior 9–15 weak
+- [Sneak Attack (1d6 at 3rd level, +1d6 every 3 levels)](../../characters/classes/slayer.md#sneak-attack): warrior 1–8 iconic
+- [Spell Use (Stygian Slayer)](../../characters/classes/slayer-archetypes.md#stygian-slayer): warrior 1–8 weak
+- [Spirit Sense (Spiritslayer)](../../characters/classes/slayer-archetypes.md#spiritslayer): warrior 1–8 weak
+- [Stab and Grab (Cutthroat)](../../characters/classes/slayer-archetypes.md#cutthroat): warrior 1–8 weak
+- [Stalker](../../characters/classes/slayer.md#stalker-ex): warrior 1–8 weak
+- [Still Shot (Woodland Sniper)](../../characters/classes/slayer-archetypes.md#woodland-sniper): warrior 1–8 weak
+- [Street Stalker (Cutthroat)](../../characters/classes/slayer-archetypes.md#cutthroat): warrior 1–8 weak
+- [Studied Coven (Covenbane)](../../characters/classes/slayer-archetypes.md#covenbane): warrior 1–8 common
+- [Studied Socialite (Velvet Blade)](../../characters/classes/slayer-archetypes.md#velvet-blade): warrior 1–8 weak
+- [Studied Titan (Titan Slayer)](../../characters/classes/slayer-archetypes.md#titan-slayer): warrior 1–8 common
+- [Studied Witch (Witch Killer)](../../characters/classes/slayer-archetypes.md#witch-killer): warrior 1–8 common
+- [Study Target](../../characters/classes/slayer.md#studied-target-ex): warrior 1–8 common
+- [Submission Hold (Bounty Hunter)](../../characters/classes/slayer-archetypes.md#bounty-hunter): warrior 1–8 weak
+- [Sudden Betrayal (Turncoat)](../../characters/classes/slayer-archetypes.md#turncoat): warrior 9–15 common
+- [Toxic Grit (Toxic Sniper)](../../characters/classes/slayer-archetypes.md#toxic-sniper): warrior 1–8 weak
+- [Toxic Shots (Toxic Sniper)](../../characters/classes/slayer-archetypes.md#toxic-sniper): warrior 1–8 weak
+- [Treacherous Blade (Velvet Blade)](../../characters/classes/slayer-archetypes.md#velvet-blade): warrior 1–8 weak
+- [True Believer (Deliverer)](../../characters/classes/slayer-archetypes.md#deliverer): warrior 1–8 weak
+- [Unfettered Shadows (Shade Assassin)](../../characters/classes/slayer-archetypes.md#shade-assassin): warrior 16–20 common
+- [Unseen Sense (Covenbane)](../../characters/classes/slayer-archetypes.md#covenbane): warrior 9–15 common
+- [Vanguard's Bond (Vanguard)](../../characters/classes/slayer-archetypes.md#vanguard): warrior 1–8 common
+- [Without a Trace (Cleaner)](../../characters/classes/slayer-archetypes.md#cleaner): warrior 1–8 weak
+- [Woodland Shortcut (Bloody Jake)](../../characters/classes/slayer-archetypes.md#bloody-jake): warrior 9–15 weak

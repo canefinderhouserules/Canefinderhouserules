@@ -1,0 +1,63 @@
+# Wizard
+
+- [Abjuration Sense (Wind Listener)](../../characters/classes/wizard-archetypes.md#wind-listener): caster 1–8 weak
+- [Apprentice (Instructor)](../../characters/classes/wizard-archetypes.md#instructor): caster 1–8 common
+- [Arcane discoveries](../../characters/classes/wizard-archetypes.md#arcane-discoveries): caster 16–20 common
+- [Arcane Gun (Spellslinger)](../../characters/classes/wizard-archetypes.md#spellslinger): caster 1–8 common
+- [Arcane School](../../characters/classes/wizard.md#arcane-school): caster 1–8 common
+- [Blood Ability (Cruoromancer)](../../characters/classes/wizard-archetypes.md#cruoromancer): caster 9–15 weak
+- [Blood Command (Cruoromancer)](../../characters/classes/wizard-archetypes.md#cruoromancer): caster 1–8 weak
+- [Blood Desecration (Cruoromancer)](../../characters/classes/wizard-archetypes.md#cruoromancer): caster 9–15 weak
+- [Bomb (Arcane Bomber)](../../characters/classes/wizard-archetypes.md#arcane-bomber): caster 1–8 common
+- [Bonded Book (Odyssey Wizard)](../../characters/classes/wizard-archetypes.md#odyssey-wizard): caster 1–8 weak
+- [Bonded Force (Bonded Wizard)](../../characters/classes/wizard-archetypes.md#bonded-wizard): caster 1–8 common
+- [Clockwork Bond (Clocksmith)](../../characters/classes/wizard-archetypes.md#clocksmith): caster 1–8 common
+- [Corpse Bond (Undead Master)](../../characters/classes/wizard-archetypes.md#undead-master): caster 1–8 common
+- [Deathbane (Hallowed Necromancer)](../../characters/classes/wizard-archetypes.md#hallowed-necromancer): caster 1–8 common
+- [Eldritch Infusion (Elder Mythos Scholar)](../../characters/classes/wizard-archetypes.md#elder-mythos-scholar): caster 1–8 weak
+- [Eldritch Knowledge (Elder Mythos Scholar)](../../characters/classes/wizard-archetypes.md#elder-mythos-scholar): caster 1–8 common
+- [Empower Siege Engine (Siege Mage)](../../characters/classes/wizard-archetypes.md#siege-mage): caster 1–8 common
+- [Exploiter Exploit (Exploiter Wizard)](../../characters/classes/wizard-archetypes.md#exploiter-wizard): caster 1–8 op
+- [Familiar or Arcane Bond](../../characters/classes/wizard.md#arcane-bond-ex-or-sp): caster 1–8 common
+- [Familiar Tinkering (Clocksmith)](../../characters/classes/wizard-archetypes.md#clocksmith): caster 1–8 common
+- [Fey Familiar (Fey Realm Caller)](../../characters/classes/wizard-archetypes.md#fey-realm-caller): caster 1–8 common
+- [Fey Summoner (Fey Realm Caller)](../../characters/classes/wizard-archetypes.md#fey-realm-caller): caster 1–8 common
+- [Focused Infusion (Cruoromancer)](../../characters/classes/wizard-archetypes.md#cruoromancer): caster 1–8 weak
+- [Generous Touch (Arcane Warden)](../../characters/classes/wizard-archetypes.md#arcane-warden): caster 1–8 common
+- [Ghostbane (Hallowed Necromancer)](../../characters/classes/wizard-archetypes.md#hallowed-necromancer): caster 9–15 weak
+- [Great Odyssey (Odyssey Wizard)](../../characters/classes/wizard-archetypes.md#odyssey-wizard): caster 1–8 weak
+- [Guarded Life (Hallowed Necromancer)](../../characters/classes/wizard-archetypes.md#hallowed-necromancer): caster 9–15 common
+- [Hidden Bond (Bonded Wizard)](../../characters/classes/wizard-archetypes.md#bonded-wizard): caster 1–8 weak
+- [Improved Scroll Casting (Scrollmaster)](../../characters/classes/wizard-archetypes.md#scrollmaster): caster 9–15 weak
+- [Lich-Loved (Undead Master)](../../characters/classes/wizard-archetypes.md#undead-master): caster 16–20 weak
+- [Listening to the Wind (Wind Listener)](../../characters/classes/wizard-archetypes.md#wind-listener): caster 9–15 weak
+- [Mage Bullets (Spellslinger)](../../characters/classes/wizard-archetypes.md#spellslinger): caster 1–8 common
+- [Pact (Pact Wizard)](../../characters/classes/wizard-archetypes.md#pact-wizard): caster 1–8 common
+- [Perfect Infusion (Cruoromancer)](../../characters/classes/wizard-archetypes.md#cruoromancer): caster 16–20 common
+- [Planar Adaptation (Worldseeker)](../../characters/classes/wizard-archetypes.md#worldseeker): caster 1–8 weak
+- [Planar Associates (Worldseeker)](../../characters/classes/wizard-archetypes.md#worldseeker): caster 1–8 weak
+- [Planar Redoubt (Worldseeker)](../../characters/classes/wizard-archetypes.md#worldseeker): caster 9–15 weak
+- [Positive Touch (Hallowed Necromancer)](../../characters/classes/wizard-archetypes.md#hallowed-necromancer): caster 1–8 common
+- [Primal Magic (Primalist)](../../characters/classes/wizard-archetypes.md#primalist): caster 1–8 common
+- [Ready for Anything (Arcane Warden)](../../characters/classes/wizard-archetypes.md#arcane-warden): caster 1–8 weak
+- [Replacement Power (Great City: Great Arcane College Crafter (Wizard))](../../characters/classes/wizard-archetypes.md#great-city-great-arcane-college-crafter-wizard): caster 1–8 weak
+- [Reshape Bond (Bonded Wizard)](../../characters/classes/wizard-archetypes.md#bonded-wizard): caster 9–15 weak
+- [Restorative Shelter (Arcane Warden)](../../characters/classes/wizard-archetypes.md#arcane-warden): caster 1–8 weak
+- [Runic Focus (Runesage)](../../characters/classes/wizard-archetypes.md#runesage): caster 1–8 common
+- [Scroll Blade (Scrollmaster)](../../characters/classes/wizard-archetypes.md#scrollmaster): caster 1–8 common
+- [Shadowy Specialization (Shadowcaster)](../../characters/classes/wizard-archetypes.md#shadowcaster): caster 9–15 common
+- [Siege Engine Bond (Siege Mage)](../../characters/classes/wizard-archetypes.md#siege-mage): caster 1–8 common
+- [Soulbound Familiar (Spirit Binder)](../../characters/classes/wizard-archetypes.md#spirit-binder): caster 1–8 common
+- [Spell Bond (Spellbinder)](../../characters/classes/wizard-archetypes.md#spellbinder): caster 1–8 common
+- [Spell Study (Spell Sage)](../../characters/classes/wizard-archetypes.md#spell-sage): caster 1–8 common
+- [Spellblast Bombs (Arcane Bomber)](../../characters/classes/wizard-archetypes.md#arcane-bomber): caster 1–8 common
+- [Spirit Hex (Spirit Whisperer)](../../characters/classes/wizard-archetypes.md#spirit-whisperer): caster 1–8 common
+- [Spirit Link (Spirit Whisperer)](../../characters/classes/wizard-archetypes.md#spirit-whisperer): caster 1–8 common
+- [Sword of the Mage (Sword Binder)](../../characters/classes/wizard-archetypes.md#sword-binder): caster 1–8 common
+- [Talisman of Revealing (Elder Mythos Scholar)](../../characters/classes/wizard-archetypes.md#elder-mythos-scholar): caster 1–8 weak
+- [Telekinetic Sword (Sword Binder)](../../characters/classes/wizard-archetypes.md#sword-binder): caster 9–15 common
+- [Temporal Pool (Chronomancer)](../../characters/classes/wizard-archetypes.md#chronomancer): caster 1–8 common
+- [Trained Teamwork (Instructor)](../../characters/classes/wizard-archetypes.md#instructor): caster 1–8 weak
+- [Walk the Planes (Worldseeker)](../../characters/classes/wizard-archetypes.md#worldseeker): caster 1–8 weak
+- [Warp Reality (Fey Realm Caller)](../../characters/classes/wizard-archetypes.md#fey-realm-caller): caster 9–15 common
+- [Wispy Form (Wind Listener)](../../characters/classes/wizard-archetypes.md#wind-listener): caster 9–15 common

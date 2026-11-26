@@ -1,0 +1,43 @@
+# Warpriest
+
+- [Aspect of Disaster (Calamity Caller)](../../characters/classes/warpriest-archetypes.md#calamity-caller): specialist 16–20 op
+- [Aspect of Law (Fist of Law)](../../characters/classes/warpriest-archetypes.md#fist-of-law): specialist 16–20 op
+- [Aspect of War](../../characters/classes/warpriest.md#aspect-of-war-su): specialist 16–20 op
+- [Banish Enchantment (Disenchanter)](../../characters/classes/warpriest-archetypes.md#disenchanter): specialist 1–8 weak
+- [Battle Tactician (Divine Commander)](../../characters/classes/warpriest-archetypes.md#divine-commander): specialist 1–8 common
+- [Bleeding Aspect (Assassin Zealot)](../../characters/classes/warpriest-archetypes.md#assassin-zealot): specialist 1–8 common
+- [Bless Army (Divine Commander)](../../characters/classes/warpriest-archetypes.md#divine-commander): specialist 9–15 weak
+- [Blessed Fortitude (Sacred Fist)](../../characters/classes/warpriest-archetypes.md#sacred-fist): specialist 1–8 common
+- [Blessed Mount (Divine Commander)](../../characters/classes/warpriest-archetypes.md#divine-commander): specialist 1–8 common
+- [Blessing of Conversion (Proselytizer)](../../characters/classes/warpriest-archetypes.md#proselytizer): specialist 1–8 weak
+- [Blessings](../../characters/classes/warpriest.md#blessings-su): warrior 1–8 common, specialist 1–8 common
+- [Bonus Style Feat (Sacred Fist)](../../characters/classes/warpriest-archetypes.md#sacred-fist): specialist 1–8 common
+- [Calamity (Calamity Caller)](../../characters/classes/warpriest-archetypes.md#calamity-caller): specialist 1–8 common
+- [Channel Liberty (Liberty's Blade)](../../characters/classes/warpriest-archetypes.md#libertys-blade): specialist 1–8 weak
+- [Cleanser of Evil (Proclaimer)](../../characters/classes/warpriest-archetypes.md#proclaimer): specialist 1–8 common
+- [Creator's Bond (Forgepriest)](../../characters/classes/warpriest-archetypes.md#forgepriest): specialist 1–8 weak
+- [Devilslayer (Liberty's Blade)](../../characters/classes/warpriest-archetypes.md#libertys-blade): specialist 1–8 weak
+- [Emotional Appeal (Proselytizer)](../../characters/classes/warpriest-archetypes.md#proselytizer): specialist 1–8 weak
+- [Enthrall (Cult Leader)](../../characters/classes/warpriest-archetypes.md#cult-leader): specialist 1–8 weak
+- [Fervent Boon (Divine Champion)](../../characters/classes/warpriest-archetypes.md#divine-champion): specialist 9–15 common
+- [Fervor](../../characters/classes/warpriest.md#fervor-su): specialist 1–8 iconic
+- [Flurry of Blows (Sacred Fist)](../../characters/classes/warpriest-archetypes.md#sacred-fist): specialist 1–8 op
+- [Focus Weapon](../../characters/classes/warpriest.md#focus-weapon): specialist 1–8 common
+- [Greater Battle Tactician (Divine Commander)](../../characters/classes/warpriest-archetypes.md#divine-commander): specialist 9–15 common
+- [Intercession (Burning Wing Bulwark)](../../characters/classes/warpriest-archetypes.md#burning-wing-bulwark): specialist 9–15 common
+- [Know the Infidel (Divine Champion)](../../characters/classes/warpriest-archetypes.md#divine-champion): specialist 1–8 weak
+- [Miraculous Fortitude (Sacred Fist)](../../characters/classes/warpriest-archetypes.md#sacred-fist): specialist 9–15 common
+- [Mystic Interference (Disenchanter)](../../characters/classes/warpriest-archetypes.md#disenchanter): specialist 1–8 common
+- [Sacred Armor](../../characters/classes/warpriest.md#sacred-armor-su): specialist 1–8 common
+- [Sacred Claws (Feral Champion)](../../characters/classes/warpriest-archetypes.md#feral-champion): specialist 1–8 common
+- [Sacred Reflexes (Assassin Zealot)](../../characters/classes/warpriest-archetypes.md#assassin-zealot): specialist 1–8 weak
+- [Sacred Shield (Burning Wing Bulwark)](../../characters/classes/warpriest-archetypes.md#burning-wing-bulwark): specialist 1–8 common
+- [Sacred Shield (Shieldbearer)](../../characters/classes/warpriest-archetypes.md#shieldbearer): specialist 1–8 common
+- [Sacred Subdual (Proselytizer)](../../characters/classes/warpriest-archetypes.md#proselytizer): specialist 1–8 weak
+- [Sacred weapon](../../characters/classes/warpriest.md#sacred-weapon-su): specialist 1–8 common
+- [Shield Against Hellspawn (Liberty's Blade)](../../characters/classes/warpriest-archetypes.md#libertys-blade): specialist 1–8 weak
+- [Sneak Attack (1d6 at 3rd level, +1d6 every 3 levels)](../../characters/classes/warpriest-archetypes.md#cult-leader): specialist 1–8 op
+- [Sneak Attack (1d6 at 4th level, +1d6 every 4 levels)](../../characters/classes/warpriest-archetypes.md#assassin-zealot): specialist 1–8 op
+- [Voice of the Faithful (Proselytizer)](../../characters/classes/warpriest-archetypes.md#proselytizer): specialist 9–15 weak
+- [Wild Shape (Feral Champion)](../../characters/classes/warpriest-archetypes.md#feral-champion): specialist 1–8 op
+- [Zone of Sanctification (Proclaimer)](../../characters/classes/warpriest-archetypes.md#proclaimer): specialist 1–8 common

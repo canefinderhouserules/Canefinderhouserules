@@ -1,0 +1,21 @@
+# Legendary Magus
+
+- [Armaments of the Magi](../../characters/classes/legendary/legendary-magus.md#armaments-of-the-magi): specialist 1–8 common
+- [Blackblade (Blade of Legend)](../../characters/classes/legendary/legendary-magus-archetypes.md#blade-of-legend): specialist 1–8 common
+- [Dragon Breath (Dragon Fang)](../../characters/classes/legendary/legendary-magus-archetypes.md#dragon-fang): specialist 1–8 common
+- [Dragon’s Gift (Dragon Fang)](../../characters/classes/legendary/legendary-magus-archetypes.md#dragon-fang): specialist 1–8 common
+- [Drake Companion (Drakeguard)](../../characters/classes/legendary/legendary-magus-archetypes.md#drakeguard): specialist 1–8 op
+- [Drake Tome (Drakeguard)](../../characters/classes/legendary/legendary-magus-archetypes.md#drakeguard): specialist 1–8 common
+- [Greater Spellstrike (Spellstriker)](../../characters/classes/legendary/legendary-magus-archetypes.md#spellstriker): specialist 9–15 common
+- [Hexing Arcana (Hexwielder)](../../characters/classes/legendary/legendary-magus-archetypes.md#hexwielder): specialist 1–8 weak
+- [Hexwielder’s Blinding (Curse) (Hexwielder)](../../characters/classes/legendary/legendary-magus-archetypes.md#hexwielder): specialist 1–8 common
+- [Intelligent Defense (Legendary Kensai)](../../characters/classes/legendary/legendary-magus-archetypes.md#legendary-kensai): specialist 1–8 common
+- [Mighty Drake (Drakeguard)](../../characters/classes/legendary/legendary-magus-archetypes.md#drakeguard): specialist 16–20 common
+- [Path of the Steed (Drakeguard)](../../characters/classes/legendary/legendary-magus-archetypes.md#drakeguard): specialist 1–8 weak
+- [Perfect Strike (Legendary Kensai)](../../characters/classes/legendary/legendary-magus-archetypes.md#legendary-kensai): specialist 1–8 common
+- [Perfected Master (Legendary Kensai)](../../characters/classes/legendary/legendary-magus-archetypes.md#legendary-kensai): specialist 16–20 weak
+- [Prime Soul (First Magus)](../../characters/classes/legendary/legendary-magus-archetypes.md#first-magus): specialist 1–8 weak
+- [Split Spell (Drakeguard)](../../characters/classes/legendary/legendary-magus-archetypes.md#drakeguard): specialist 1–8 weak
+- [Striking Combat (Spellstriker)](../../characters/classes/legendary/legendary-magus-archetypes.md#spellstriker): specialist 1–8 common
+- [Tempest Strike (First Magus)](../../characters/classes/legendary/legendary-magus-archetypes.md#first-magus): specialist 1–8 common
+- [Warping Surge (Warp Tempest)](../../characters/classes/legendary/legendary-magus-archetypes.md#warp-tempest): specialist 1–8 common

@@ -1,0 +1,231 @@
+# Fighter
+
+- [Academy Thrust (Academy Duelist)](../../characters/classes/fighter-archetypes.md#academy-duelist): warrior 9–15 common
+- [Active Defense (Shielded Fighter)](../../characters/classes/fighter-archetypes.md#shielded-fighter): warrior 1–8 common
+- [Advanced Armor Training](../../characters/classes/fighter-advanced-armor-training.md#advanced-armor-training): warrior 1–8 common
+- [Advanced Weapon Training](../../characters/classes/fighter-advanced-weapon-training.md#advanced-weapon-training): warrior 9–15 common
+- [Aerial Dodge (Aerial Assaulter)](../../characters/classes/fighter-archetypes.md#aerial-assaulter): warrior 16–20 common
+- [Aerial Expertise (Aerial Assaulter)](../../characters/classes/fighter-archetypes.md#aerial-assaulter): warrior 1–8 weak
+- [Aerobatics (Airborne Ambusher)](../../characters/classes/fighter-archetypes.md#airborne-ambusher): warrior 1–8 weak
+- [Alchemical Onslaught (Opportunist)](../../characters/classes/fighter-archetypes.md#opportunist): warrior 1–8 common
+- [Ancestral Lore (Eldritch Defender)](../../characters/classes/fighter-archetypes.md#eldritch-defender): warrior 1–8 weak
+- [Armor Mastery](../../characters/classes/fighter.md#armor-mastery-ex): warrior 16–20 common
+- [Armor Training](../../characters/classes/fighter.md#armor-training-ex): warrior 1–8 weak, specialist 1–8 weak
+- [Armored Charger (Roughrider)](../../characters/classes/fighter-archetypes.md#roughrider): warrior 1–8 weak
+- [Armored Defense (Armor Master)](../../characters/classes/fighter-archetypes.md#armor-master): warrior 1–8 common
+- [Armored Defense (Armored Defender)](../../characters/classes/fighter-archetypes.md#armored-defender): warrior 1–8 weak
+- [Armored Pirate (Corsair)](../../characters/classes/fighter-archetypes.md#corsair): warrior 1–8 weak
+- [Armored Vigor (Siegebreaker)](../../characters/classes/fighter-archetypes.md#siegebreaker): warrior 1–8 weak
+- [Backswing (Two-Handed Fighter)](../../characters/classes/fighter-archetypes.md#two-handed-fighter): warrior 1–8 common
+- [Balanced Bashing (Thunderstriker)](../../characters/classes/fighter-archetypes.md#thunderstriker): warrior 16–20 weak
+- [Battle Focus (Tribal Fighter)](../../characters/classes/fighter-archetypes.md#tribal-fighter): warrior 1–8 weak
+- [Battle Insight (Tactician)](../../characters/classes/fighter-archetypes.md#tactician): warrior 9–15 common
+- [Berserker (Viking)](../../characters/classes/fighter-archetypes.md#viking): warrior 1–8 op
+- [Bonus Feats (Fighter)](../../characters/classes/fighter.md#bonus-feats): warrior 1–8 op
+- [Bonus Feats (Swarm Fighter)](../../characters/classes/fighter-archetypes.md#swarm-fighter): warrior 1–8 op
+- [Bonus Teamwork Feats (Swarm Fighter)](../../characters/classes/fighter-archetypes.md#swarm-fighter): warrior 1–8 common
+- [Breaker Momentum (Siegebreaker)](../../characters/classes/fighter-archetypes.md#siegebreaker): warrior 1–8 weak
+- [Breaker Rush (Siegebreaker)](../../characters/classes/fighter-archetypes.md#siegebreaker): warrior 1–8 common
+- [Buckler Bash (Rondelero Duelist)](../../characters/classes/fighter-archetypes.md#rondelero-duelist): warrior 1–8 common
+- [Buckler Catch (Rondelero Duelist)](../../characters/classes/fighter-archetypes.md#rondelero-duelist): warrior 1–8 common
+- [Buckler Defense (Thunderstriker)](../../characters/classes/fighter-archetypes.md#thunderstriker): warrior 9–15 weak
+- [Burst Barrier (Tower Shield Specialist)](../../characters/classes/fighter-archetypes.md#tower-shield-specialist): warrior 1–8 weak
+- [Burst of Speed (Desert Dervish)](../../characters/classes/fighter-archetypes.md#desert-dervish): warrior 1–8 weak
+- [Careful Claw (Savage Warrior)](../../characters/classes/fighter-archetypes.md#savage-warrior): warrior 9–15 weak
+- [Centered Senses (Sensate)](../../characters/classes/fighter-archetypes.md#sensate): warrior 1–8 common
+- [Certain Revenge (Vengeful Hunter)](../../characters/classes/fighter-archetypes.md#vengeful-hunter): warrior 16–20 common
+- [Chopping Blow (Rondelero Duelist)](../../characters/classes/fighter-archetypes.md#rondelero-duelist): warrior 9–15 common
+- [Clever Wrestler (Unarmed Fighter)](../../characters/classes/fighter-archetypes.md#unarmed-fighter): warrior 1–8 common
+- [Combat Flyer (Airborne Ambusher)](../../characters/classes/fighter-archetypes.md#airborne-ambusher): warrior 1–8 weak
+- [Combat Repairs (Weapon Bearer Squire)](../../characters/classes/fighter-archetypes.md#weapon-bearer-squire): warrior 1–8 weak
+- [Conditioning (Skirmisher)](../../characters/classes/fighter-archetypes.md#skirmisher): warrior 1–8 weak
+- [Contract Tactics (Contract Soldier)](../../characters/classes/fighter-archetypes.md#contract-soldier): warrior 1–8 common
+- [Cooperative Combatant (Tactician)](../../characters/classes/fighter-archetypes.md#tactician): warrior 9–15 common
+- [Counterattack (Sword Duelist Defender)](../../characters/classes/fighter-archetypes.md#sword-duelist-defender): warrior 9–15 common
+- [Craven Combatant (Cad)](../../characters/classes/fighter-archetypes.md#cad): warrior 9–15 weak
+- [Critical Specialist (Weapon Master)](../../characters/classes/fighter-archetypes.md#weapon-master): warrior 16–20 weak
+- [Cunning Edge (Opportunist)](../../characters/classes/fighter-archetypes.md#opportunist): warrior 1–8 common
+- [Deadly Critical (Weapon Master)](../../characters/classes/fighter-archetypes.md#weapon-master): warrior 9–15 common
+- [Deadly Defense (Two-Weapon Warrior)](../../characters/classes/fighter-archetypes.md#two-weapon-warrior): warrior 16–20 common
+- [Deadly Surprise (Cad)](../../characters/classes/fighter-archetypes.md#cad): warrior 1–8 common
+- [Deadshot (Crossbowman)](../../characters/classes/fighter-archetypes.md#crossbowman): warrior 1–8 common
+- [Deceptive Strike (Free Hand Fighter)](../../characters/classes/fighter-archetypes.md#free-hand-fighter): warrior 1–8 weak
+- [Defender's Reflexes (High Guardian)](../../characters/classes/fighter-archetypes.md#high-guardian): warrior 1–8 weak
+- [Defensive Flurry (Two-Weapon Warrior)](../../characters/classes/fighter-archetypes.md#two-weapon-warrior): warrior 1–8 common
+- [Defensive Parry (Sword Duelist Defender)](../../characters/classes/fighter-archetypes.md#sword-duelist-defender): warrior 1–8 common
+- [Deflective Shield (Armor Master)](../../characters/classes/fighter-archetypes.md#armor-master): warrior 1–8 common
+- [Deft Doublestrike (Two-Weapon Warrior)](../../characters/classes/fighter-archetypes.md#two-weapon-warrior): warrior 16–20 weak
+- [Deft Shield (Phalanx Soldier)](../../characters/classes/fighter-archetypes.md#phalanx-soldier): warrior 1–8 weak
+- [Devastating Blow (Foehammer)](../../characters/classes/fighter-archetypes.md#foehammer): warrior 16–20 common
+- [Devastating Blow (Two-Handed Fighter)](../../characters/classes/fighter-archetypes.md#two-handed-fighter): warrior 16–20 common
+- [Disarming Strike (Sword Duelist Defender)](../../characters/classes/fighter-archetypes.md#sword-duelist-defender): warrior 1–8 common
+- [Disorienting Blow (Siegebreaker)](../../characters/classes/fighter-archetypes.md#siegebreaker): warrior 1–8 common
+- [Double Tricks (Dirty Fighter)](../../characters/classes/fighter-archetypes.md#dirty-fighter): warrior 9–15 common
+- [Doublestrike (Two-Weapon Warrior)](../../characters/classes/fighter-archetypes.md#two-weapon-warrior): warrior 9–15 common
+- [Draconic Defenses (Dragonheir Scion)](../../characters/classes/fighter-archetypes.md#dragonheir-scion): warrior 1–8 common
+- [Draconic Strike (Dragonheir Scion)](../../characters/classes/fighter-archetypes.md#dragonheir-scion): warrior 1–8 common
+- [Duelist Stance (Academy Duelist)](../../characters/classes/fighter-archetypes.md#academy-duelist): warrior 1–8 common
+- [Elusive (Free Hand Fighter)](../../characters/classes/fighter-archetypes.md#free-hand-fighter): warrior 1–8 common
+- [Equal Opportunity (Two-Weapon Warrior)](../../characters/classes/fighter-archetypes.md#two-weapon-warrior): warrior 9–15 weak
+- [Evasive Archer (Archer)](../../characters/classes/fighter-archetypes.md#archer): warrior 9–15 common
+- [Eye Gouge (Unarmed Fighter)](../../characters/classes/fighter-archetypes.md#unarmed-fighter): warrior 9–15 weak
+- [Fame (Gladiator)](../../characters/classes/fighter-archetypes.md#gladiator): warrior 1–8 weak
+- [Familiar (Eldritch Guardian)](../../characters/classes/fighter-archetypes.md#eldritch-guardian): warrior 1–8 common
+- [Fearful Might (Dragonheir Scion)](../../characters/classes/fighter-archetypes.md#dragonheir-scion): warrior 1–8 weak
+- [Fearsome (Viking)](../../characters/classes/fighter-archetypes.md#viking): warrior 1–8 weak
+- [Flexible Flanker (Polearm Master)](../../characters/classes/fighter-archetypes.md#polearm-master): warrior 9–15 weak
+- [Flying Dodger (Airborne Ambusher)](../../characters/classes/fighter-archetypes.md#airborne-ambusher): warrior 9–15 common
+- [Fortification (Armor Master)](../../characters/classes/fighter-archetypes.md#armor-master): warrior 9–15 common
+- [Free Fighting Style (Free-Style Fighter)](../../characters/classes/fighter-archetypes.md#free-style-fighter "only: free-fighting-style-ex"): warrior 1–8 iconic
+- [Giant Weapon Wielder (Titan Fighter)](../../characters/classes/fighter-archetypes.md#titan-fighter): warrior 1–8 common
+- [Greater Deadshot (Crossbowman)](../../characters/classes/fighter-archetypes.md#crossbowman): warrior 9–15 common
+- [Greater Imbued Shot (Cavern Sniper)](../../characters/classes/fighter-archetypes.md#cavern-sniper): warrior 9–15 weak
+- [Greater Power Attack (Two-Handed Fighter)](../../characters/classes/fighter-archetypes.md#two-handed-fighter): warrior 9–15 common
+- [Greater Savage Charge (Savage Warrior)](../../characters/classes/fighter-archetypes.md#savage-warrior): warrior 16–20 common
+- [Ground Breaker (Foehammer)](../../characters/classes/fighter-archetypes.md#foehammer): warrior 9–15 common
+- [Hair’s Breadth (Lore Warden)](../../characters/classes/fighter-archetypes.md#lore-warden): warrior 9–15 common
+- [Hammer and Anvil (Thunderstriker)](../../characters/classes/fighter-archetypes.md#thunderstriker): warrior 9–15 weak
+- [Hammer Master (Foehammer)](../../characters/classes/fighter-archetypes.md#foehammer): warrior 16–20 weak
+- [Hammer to the Ground (Foehammer)](../../characters/classes/fighter-archetypes.md#foehammer): warrior 1–8 weak
+- [Hardbuckler (Thunderstriker)](../../characters/classes/fighter-archetypes.md#thunderstriker): warrior 1–8 weak
+- [Hawkeye (Archer)](../../characters/classes/fighter-archetypes.md#archer): warrior 1–8 weak
+- [Healthy as a Mule (Pack Mule)](../../characters/classes/fighter-archetypes.md#pack-mule): warrior 16–20 weak
+- [High Ground Mastery (Aerial Assaulter)](../../characters/classes/fighter-archetypes.md#aerial-assaulter): warrior 16–20 common
+- [Imbued Shot (Cavern Sniper)](../../characters/classes/fighter-archetypes.md#cavern-sniper): warrior 1–8 common
+- [Immediate Repositioning (Tower Shield Specialist)](../../characters/classes/fighter-archetypes.md#tower-shield-specialist): warrior 9–15 weak
+- [Improved Balance (Two-Weapon Warrior)](../../characters/classes/fighter-archetypes.md#two-weapon-warrior): warrior 9–15 common
+- [Improved Buckler Defense (Thunderstriker)](../../characters/classes/fighter-archetypes.md#thunderstriker): warrior 16–20 weak
+- [Improved Deadshot (Crossbowman)](../../characters/classes/fighter-archetypes.md#crossbowman): warrior 1–8 common
+- [Improved Deck Fighting (Corsair)](../../characters/classes/fighter-archetypes.md#corsair): warrior 1–8 weak
+- [Improved Implantation (Cyber-Soldier)](../../characters/classes/fighter-archetypes.md#cyber-soldier): warrior 1–8 weak
+- [Improved Item Mastery (Relic Master)](../../characters/classes/fighter-archetypes.md#relic-master): warrior 1–8 weak
+- [Improvised Item Mastery (Relic Master)](../../characters/classes/fighter-archetypes.md#relic-master): warrior 16–20 common
+- [Incredible Heft (Titan Fighter)](../../characters/classes/fighter-archetypes.md#titan-fighter): warrior 1–8 common
+- [Indestructible (Armor Master)](../../characters/classes/fighter-archetypes.md#armor-master): warrior 16–20 common
+- [Indomitable Steed (Roughrider)](../../characters/classes/fighter-archetypes.md#roughrider): warrior 16–20 common
+- [Inspiring Speech (Seasoned Commander)](../../characters/classes/fighter-archetypes.md#seasoned-commander): warrior 1–8 common
+- [Interference (Free Hand Fighter)](../../characters/classes/fighter-archetypes.md#free-hand-fighter): warrior 9–15 common
+- [Irresistible Advance (Phalanx Soldier)](../../characters/classes/fighter-archetypes.md#phalanx-soldier): warrior 9–15 weak
+- [Knockback Smash (Thunderstriker)](../../characters/classes/fighter-archetypes.md#thunderstriker): warrior 9–15 common
+- [Know Thy Enemy (Lore Warden)](../../characters/classes/fighter-archetypes.md#lore-warden): warrior 1–8 common
+- [Know Weakness (Lore Warden)](../../characters/classes/fighter-archetypes.md#lore-warden): warrior 16–20 common
+- [Leap from the Saddle (Roughrider)](../../characters/classes/fighter-archetypes.md#roughrider): warrior 1–8 weak
+- [Leaping Lance (Dragoon)](../../characters/classes/fighter-archetypes.md#dragoon): warrior 9–15 common
+- [Light Infantry Training (Skirmisher)](../../characters/classes/fighter-archetypes.md#skirmisher): warrior 1–8 weak
+- [Lightning Strike (Desert Dervish)](../../characters/classes/fighter-archetypes.md#desert-dervish): warrior 9–15 common
+- [Maneuver Mastery (Lore Warden) (Fighter)](../../characters/classes/fighter-archetypes.md#lore-warden): warrior 1–8 weak
+- [Masterful Distraction (Siegebreaker)](../../characters/classes/fighter-archetypes.md#siegebreaker): warrior 16–20 common
+- [Menacing Stance (Brawler)](../../characters/classes/fighter-archetypes.md#brawler): warrior 1–8 common
+- [Meteor Shot (Crossbowman)](../../characters/classes/fighter-archetypes.md#crossbowman): warrior 16–20 common
+- [Might of Wyrms (Dragonheir Scion)](../../characters/classes/fighter-archetypes.md#dragonheir-scion): warrior 16–20 common
+- [Miraculous Recovery (Unbreakable)](../../characters/classes/fighter-archetypes.md#unbreakable): warrior 16–20 common
+- [Mirror Move (Weapon Master)](../../characters/classes/fighter-archetypes.md#weapon-master): warrior 9–15 common
+- [Mobile Mastery (Skirmisher)](../../characters/classes/fighter-archetypes.md#skirmisher): warrior 16–20 common
+- [Mobility Training (Skirmisher)](../../characters/classes/fighter-archetypes.md#skirmisher): warrior 1–8 common
+- [Mutagen Discovery (Mutation Warrior)](../../characters/classes/fighter-archetypes.md#mutation-warrior): warrior 1–8 common
+- [Natural Weapon Mastery (Savage Warrior)](../../characters/classes/fighter-archetypes.md#savage-warrior): warrior 16–20 op
+- [No Escape (Brawler)](../../characters/classes/fighter-archetypes.md#brawler): warrior 9–15 weak
+- [Overhand Chop (Two-Handed Fighter)](../../characters/classes/fighter-archetypes.md#two-handed-fighter): warrior 1–8 common
+- [Payback (Cad)](../../characters/classes/fighter-archetypes.md#cad): warrior 1–8 common
+- [Penetrating Shot (Crossbowman)](../../characters/classes/fighter-archetypes.md#crossbowman): warrior 16–20 common
+- [Perceived Wrongs (Vengeful Hunter)](../../characters/classes/fighter-archetypes.md#vengeful-hunter): warrior 16–20 common
+- [Perfect Balance (Two-Weapon Warrior)](../../characters/classes/fighter-archetypes.md#two-weapon-warrior): warrior 9–15 common
+- [Perfect Senses (Sensate)](../../characters/classes/fighter-archetypes.md#sensate): warrior 16–20 common
+- [Phalanx Fighting (Phalanx Soldier)](../../characters/classes/fighter-archetypes.md#phalanx-soldier): warrior 1–8 weak
+- [Piercing Lance (Dragoon)](../../characters/classes/fighter-archetypes.md#dragoon): warrior 9–15 common
+- [Piledriver (Two-Handed Fighter)](../../characters/classes/fighter-archetypes.md#two-handed-fighter): warrior 9–15 common
+- [Plummeting Charge (Airborne Ambusher)](../../characters/classes/fighter-archetypes.md#airborne-ambusher): warrior 9–15 common
+- [Pole Fighting (Polearm Master)](../../characters/classes/fighter-archetypes.md#polearm-master): warrior 1–8 weak
+- [Polearm Parry (Polearm Master)](../../characters/classes/fighter-archetypes.md#polearm-master): warrior 16–20 common
+- [Precision (Sensate)](../../characters/classes/fighter-archetypes.md#sensate): warrior 16–20 common
+- [Quick and Deadly (Cavern Sniper)](../../characters/classes/fighter-archetypes.md#cavern-sniper): warrior 1–8 weak
+- [Quick Recovery (Unbreakable)](../../characters/classes/fighter-archetypes.md#unbreakable): warrior 9–15 weak
+- [Quick Sniper (Crossbowman)](../../characters/classes/fighter-archetypes.md#crossbowman): warrior 9–15 weak
+- [Ranged Defense (Archer)](../../characters/classes/fighter-archetypes.md#archer): warrior 16–20 common
+- [Rapid Attack (Desert Dervish)](../../characters/classes/fighter-archetypes.md#desert-dervish): warrior 9–15 common
+- [Razor-Sharp Chair Leg (Cad)](../../characters/classes/fighter-archetypes.md#cad): warrior 9–15 weak
+- [Ready Pike (Phalanx Soldier)](../../characters/classes/fighter-archetypes.md#phalanx-soldier): warrior 1–8 weak
+- [Reconnaissance Training (Skirmisher)](../../characters/classes/fighter-archetypes.md#skirmisher): warrior 1–8 weak
+- [Relentless Steed (Roughrider)](../../characters/classes/fighter-archetypes.md#roughrider): warrior 9–15 weak
+- [Reliable Strike (Weapon Master)](../../characters/classes/fighter-archetypes.md#weapon-master): warrior 1–8 common
+- [Relic Channeler (Relic Master)](../../characters/classes/fighter-archetypes.md#relic-master): warrior 1–8 weak
+- [Resilience (Cyber-Soldier)](../../characters/classes/fighter-archetypes.md#cyber-soldier): warrior 16–20 weak
+- [Reversal (Free Hand Fighter)](../../characters/classes/fighter-archetypes.md#free-hand-fighter): warrior 16–20 common
+- [Rhythmic Blows (Foehammer)](../../characters/classes/fighter-archetypes.md#foehammer): warrior 9–15 common
+- [Ride Them Down (Roughrider)](../../characters/classes/fighter-archetypes.md#roughrider): warrior 9–15 common
+- [Right Hand (High Guardian)](../../characters/classes/fighter-archetypes.md#high-guardian): warrior 1–8 weak
+- [Royal Protector (High Guardian)](../../characters/classes/fighter-archetypes.md#high-guardian): warrior 1–8 common
+- [Safe Shot (Archer)](../../characters/classes/fighter-archetypes.md#archer): warrior 9–15 common
+- [Safety in Numbers (Swarm Fighter)](../../characters/classes/fighter-archetypes.md#swarm-fighter): warrior 1–8 weak
+- [Savage Charge (Savage Warrior)](../../characters/classes/fighter-archetypes.md#savage-warrior): warrior 9–15 common
+- [Savor the Sting (Vengeful Hunter)](../../characters/classes/fighter-archetypes.md#vengeful-hunter): warrior 9–15 common
+- [Science of the Blade (Academy Duelist)](../../characters/classes/fighter-archetypes.md#academy-duelist): warrior 9–15 common
+- [Scrap Armor (Scrapper)](../../characters/classes/fighter-archetypes.md#scrapper): warrior 1–8 weak
+- [Shadow Weapon (Gloomblade)](../../characters/classes/fighter-archetypes.md#gloomblade): warrior 1–8 weak
+- [Share Space (Swarm Fighter)](../../characters/classes/fighter-archetypes.md#swarm-fighter): warrior 1–8 weak
+- [Share Training (Eldritch Guardian)](../../characters/classes/fighter-archetypes.md#eldritch-guardian): warrior 1–8 weak
+- [Shattering Strike (Two-Handed Fighter)](../../characters/classes/fighter-archetypes.md#two-handed-fighter): warrior 1–8 common
+- [Sheer Toughness (Unarmed Fighter)](../../characters/classes/fighter-archetypes.md#unarmed-fighter): warrior 16–20 common
+- [Shield Ally (Phalanx Soldier)](../../characters/classes/fighter-archetypes.md#phalanx-soldier): warrior 9–15 common
+- [Shield Buffet (Shielded Fighter)](../../characters/classes/fighter-archetypes.md#shielded-fighter): warrior 9–15 common
+- [Shield Defense (Viking)](../../characters/classes/fighter-archetypes.md#viking): warrior 1–8 common
+- [Shield Guard (Shielded Fighter)](../../characters/classes/fighter-archetypes.md#shielded-fighter): warrior 16–20 weak
+- [Shield Mastery (Shielded Fighter)](../../characters/classes/fighter-archetypes.md#shielded-fighter): warrior 16–20 common
+- [Shield Ward (Shielded Fighter)](../../characters/classes/fighter-archetypes.md#shielded-fighter): warrior 16–20 common
+- [Shielded Fortress (Phalanx Soldier)](../../characters/classes/fighter-archetypes.md#phalanx-soldier): warrior 16–20 common
+- [Sidestep (Dirty Fighter)](../../characters/classes/fighter-archetypes.md#dirty-fighter): warrior 1–8 weak
+- [Sledgehammer (Foehammer)](../../characters/classes/fighter-archetypes.md#foehammer): warrior 1–8 weak
+- [Sneak Attack (1d6 at 6th level, +1d6 every 4 levels)](../../characters/classes/fighter-archetypes.md#venomblade): warrior 1–8 op
+- [Soft Underbelly (Swarm Fighter)](../../characters/classes/fighter-archetypes.md#swarm-fighter): warrior 16–20 common
+- [Spear Parry (Spear Fighter)](../../characters/classes/fighter-archetypes.md#spear-fighter): warrior 1–8 common
+- [Speedy Tricks (Dirty Fighter)](../../characters/classes/fighter-archetypes.md#dirty-fighter): warrior 9–15 common
+- [Spinning Lance (Dragoon)](../../characters/classes/fighter-archetypes.md#dragoon): warrior 1–8 weak
+- [Stalwart (Unbreakable)](../../characters/classes/fighter-archetypes.md#unbreakable): warrior 9–15 common
+- [Stand Firm (Phalanx Soldier)](../../characters/classes/fighter-archetypes.md#phalanx-soldier): warrior 1–8 weak
+- [Steadfast Mount (Roughrider)](../../characters/classes/fighter-archetypes.md#roughrider): warrior 1–8 weak
+- [Steadfast Pike (Polearm Master)](../../characters/classes/fighter-archetypes.md#polearm-master): warrior 1–8 weak
+- [Steady (Sensate)](../../characters/classes/fighter-archetypes.md#sensate): warrior 9–15 weak
+- [Steel Net (Sword Duelist Defender)](../../characters/classes/fighter-archetypes.md#sword-duelist-defender): warrior 1–8 common
+- [Steelbound Awakening (Steelbound Fighter)](../../characters/classes/fighter-archetypes.md#steelbound-fighter): warrior 1–8 common
+- [Steelbound Weapon (Steelbound Fighter)](../../characters/classes/fighter-archetypes.md#steelbound-fighter): warrior 1–8 weak
+- [Step Aside (Polearm Master)](../../characters/classes/fighter-archetypes.md#polearm-master): warrior 16–20 common
+- [Strapped Shield (Thunderstriker)](../../characters/classes/fighter-archetypes.md#thunderstriker): warrior 1–8 weak
+- [Strike the Underbelly (Swarm Fighter)](../../characters/classes/fighter-archetypes.md#swarm-fighter): warrior 9–15 common
+- [Sucker Punch (Unarmed Fighter)](../../characters/classes/fighter-archetypes.md#unarmed-fighter): warrior 16–20 common
+- [Surgical Strike (Academy Duelist)](../../characters/classes/fighter-archetypes.md#academy-duelist): warrior 16–20 common
+- [Sweeping Fend (Polearm Master)](../../characters/classes/fighter-archetypes.md#polearm-master): warrior 9–15 weak
+- [Sweeping Prank (Cad)](../../characters/classes/fighter-archetypes.md#cad): warrior 9–15 weak
+- [Swift Lore (Lore Warden)](../../characters/classes/fighter-archetypes.md#lore-warden): warrior 9–15 weak
+- [Swift Revenge (Vengeful Hunter)](../../characters/classes/fighter-archetypes.md#vengeful-hunter): warrior 9–15 common
+- [Swift Sharpening (Weapon Bearer Squire)](../../characters/classes/fighter-archetypes.md#weapon-bearer-squire): warrior 1–8 weak
+- [Swords Secret (Lore Warden (Swords Secret Version))](../../characters/classes/fighter-archetypes.md#lore-warden-swords-secret-version): warrior 1–8 common
+- [Take the High Ground (Aerial Assaulter)](../../characters/classes/fighter-archetypes.md#aerial-assaulter): warrior 1–8 weak
+- [Takedown (Unarmed Fighter)](../../characters/classes/fighter-archetypes.md#unarmed-fighter): warrior 9–15 weak
+- [Tenacious Tracker (Vengeful Hunter)](../../characters/classes/fighter-archetypes.md#vengeful-hunter): warrior 1–8 weak
+- [Timely Tip (Free Hand Fighter)](../../characters/classes/fighter-archetypes.md#free-hand-fighter): warrior 9–15 common
+- [Tough as Nails (Unbreakable)](../../characters/classes/fighter-archetypes.md#unbreakable): warrior 1–8 weak
+- [Tough Guy (Unarmed Fighter)](../../characters/classes/fighter-archetypes.md#unarmed-fighter): warrior 1–8 common
+- [Tower Shield Defense (Tower Shield Specialist)](../../characters/classes/fighter-archetypes.md#tower-shield-specialist): warrior 9–15 common
+- [Tower Shield Evasion (Tower Shield Specialist)](../../characters/classes/fighter-archetypes.md#tower-shield-specialist): warrior 16–20 common
+- [Tower Shield Specialist (Tower Shield Specialist)](../../characters/classes/fighter-archetypes.md#tower-shield-specialist): warrior 1–8 weak
+- [Treacherous Blow (Cad)](../../characters/classes/fighter-archetypes.md#cad): warrior 9–15 common
+- [Trick Shot (Archer)](../../characters/classes/fighter-archetypes.md#archer): warrior 1–8 weak
+- [Trick Throw (Unarmed Fighter)](../../characters/classes/fighter-archetypes.md#unarmed-fighter): warrior 1–8 weak
+- [Ultimate Payback (Cad)](../../characters/classes/fighter-archetypes.md#cad): warrior 16–20 common
+- [Unarmed Style (Unarmed Fighter)](../../characters/classes/fighter-archetypes.md#unarmed-fighter): warrior 1–8 common
+- [Unavoidable Onslaught (Roughrider)](../../characters/classes/fighter-archetypes.md#roughrider): warrior 9–15 weak
+- [Unbreakable Mind (Unbreakable)](../../characters/classes/fighter-archetypes.md#unbreakable): warrior 16–20 common
+- [Unlimited Endurance (Unbreakable)](../../characters/classes/fighter-archetypes.md#unbreakable): warrior 9–15 weak
+- [Unstoppable Momentum (Titan Fighter)](../../characters/classes/fighter-archetypes.md#titan-fighter): warrior 1–8 weak
+- [Unstoppable Strike (Weapon Master)](../../characters/classes/fighter-archetypes.md#weapon-master): warrior 16–20 common
+- [Vengeance (Vengeful Hunter)](../../characters/classes/fighter-archetypes.md#vengeful-hunter): warrior 1–8 common
+- [Venom Projection (Venomblade)](../../characters/classes/fighter-archetypes.md#venomblade): warrior 1–8 weak
+- [Viper Strike (Venomblade)](../../characters/classes/fighter-archetypes.md#venomblade): warrior 9–15 common
+- [Volley (Archer)](../../characters/classes/fighter-archetypes.md#archer): warrior 16–20 common
+- [Weapon Mastery](../../characters/classes/fighter.md#weapon-mastery-ex): warrior 16–20 op
+- [Weapon Rack (Weapon Bearer Squire)](../../characters/classes/fighter-archetypes.md#weapon-bearer-squire): warrior 1–8 weak
+- [Weapon Trainer (Drill Sergeant)](../../characters/classes/fighter-archetypes.md#drill-sergeant): warrior 9–15 common
+- [Weapon training](../../characters/classes/fighter.md#weapon-training-ex): warrior 1–8 common, specialist 1–8 common
+- [Weight Training (Pack Mule)](../../characters/classes/fighter-archetypes.md#pack-mule): warrior 1–8 weak
+- [Whirlwind Blitz (Mobile Fighter)](../../characters/classes/fighter-archetypes.md#mobile-fighter): warrior 16–20 common
+- [Wilderness Training (Skirmisher)](../../characters/classes/fighter-archetypes.md#skirmisher): warrior 1–8 weak

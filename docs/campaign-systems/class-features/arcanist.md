@@ -1,0 +1,37 @@
+# Arcanist
+
+- [Air Mastery (Aeromancer)](../../characters/classes/arcanist-archetypes.md#aeromancer): caster 1–8 common
+- [Arcane reservoir](../../characters/classes/arcanist.md#arcane-reservoir-su): caster 1–8 common
+- [Arcanist Exploits](../../characters/classes/arcanist.md#arcanist-exploits): caster 1–8 op
+- [Bottomless Well (Eldritch Font)](../../characters/classes/arcanist-archetypes.md#eldritch-font): caster 16–20 common
+- [Break Magic Immunity (Arcane Tinkerer)](../../characters/classes/arcanist-archetypes.md#arcane-tinkerer): caster 1–8 weak
+- [Conjurer's Focus (Occultist)](../../characters/classes/arcanist-archetypes.md#occultist): caster 1–8 common
+- [Consume Life (Twilight Sage)](../../characters/classes/arcanist-archetypes.md#twilight-sage): caster 1–8 common
+- [Consume Spells](../../characters/classes/arcanist.md#consume-spells-su): caster 1–8 weak
+- [Death's Release (Twilight Sage)](../../characters/classes/arcanist-archetypes.md#twilight-sage): caster 16–20 common
+- [Dismiss (Spell Specialist)](../../characters/classes/arcanist-archetypes.md#spell-specialist): caster 1–8 weak
+- [Elemental Attack (Elemental Master)](../../characters/classes/arcanist-archetypes.md#elemental-master): caster 1–8 weak
+- [Elemental Movement (Elemental Master)](../../characters/classes/arcanist-archetypes.md#elemental-master): caster 9–15 common
+- [Fortune Reservoir (Fortune Society Student)](../../characters/classes/arcanist-archetypes.md#fortune-society-student): caster 1–8 common
+- [Greater Elemental Attack (Elemental Master)](../../characters/classes/arcanist-archetypes.md#elemental-master): caster 9–15 common
+- [Greater Exploits](../../characters/classes/arcanist.md#greater-exploits): caster 9–15 op
+- [Greater Surge (Eldritch Font)](../../characters/classes/arcanist-archetypes.md#eldritch-font): caster 9–15 common
+- [Halcyon Spell Lore (Enlightened Initiate)](../../characters/classes/arcanist-archetypes.md#enlightened-initiate): caster 1–8 common
+- [Improved Surge (Eldritch Font)](../../characters/classes/arcanist-archetypes.md#eldritch-font): caster 1–8 common
+- [Magical Supremacy](../../characters/classes/arcanist.md#magical-supremacy-su): caster 16–20 common
+- [Manipulate Construct (Arcane Tinkerer)](../../characters/classes/arcanist-archetypes.md#arcane-tinkerer): caster 1–8 weak
+- [Planar Contact (Occultist)](../../characters/classes/arcanist-archetypes.md#occultist): caster 1–8 weak
+- [Powerful Change (Brown-Fur Transmuter)](../../characters/classes/arcanist-archetypes.md#brown-fur-transmuter): caster 1–8 weak
+- [Powerful Exploit (Elemental Master)](../../characters/classes/arcanist-archetypes.md#elemental-master): caster 9–15 common
+- [Psychic Reader (Fortune Society Student)](../../characters/classes/arcanist-archetypes.md#fortune-society-student): caster 1–8 weak
+- [Rebuking Gale (Aeromancer)](../../characters/classes/arcanist-archetypes.md#aeromancer): caster 9–15 weak
+- [Sentient Sword (Blade Adept)](../../characters/classes/arcanist-archetypes.md#blade-adept): caster 1–8 common
+- [Share Transmutation (Brown-Fur Transmuter)](../../characters/classes/arcanist-archetypes.md#brown-fur-transmuter): caster 9–15 weak
+- [Spellwarp (Spell Specialist)](../../characters/classes/arcanist-archetypes.md#spell-specialist): caster 1–8 weak
+- [Spontaneous Healing (White Mage)](../../characters/classes/arcanist-archetypes.md#white-mage): caster 1–8 common
+- [Sword Bond (Blade Adept)](../../characters/classes/arcanist-archetypes.md#blade-adept): caster 1–8 common
+- [Transmutation Supremacy (Brown-Fur Transmuter)](../../characters/classes/arcanist-archetypes.md#brown-fur-transmuter): caster 16–20 common
+- [Trump Card (Fortune Society Student)](../../characters/classes/arcanist-archetypes.md#fortune-society-student): caster 9–15 common
+- [Twilight Barrier (Twilight Sage)](../../characters/classes/arcanist-archetypes.md#twilight-sage): caster 1–8 common
+- [Twilight Transfer (Twilight Sage)](../../characters/classes/arcanist-archetypes.md#twilight-sage): caster 9–15 common
+- [Wind's Embrace (Aeromancer)](../../characters/classes/arcanist-archetypes.md#aeromancer): caster 1–8 weak

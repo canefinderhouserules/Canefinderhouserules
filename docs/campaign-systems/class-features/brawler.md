@@ -1,0 +1,60 @@
+# Brawler
+
+- [Animal Companion (Wild Child)](../../characters/classes/brawler-archetypes.md#wild-child): warrior 1–8 op
+- [Avalanche (Living Avalanche)](../../characters/classes/brawler-archetypes.md#living-avalanche): warrior 16–20 common
+- [Awesome Blow](../../characters/classes/brawler.md#awesome-blow-ex): warrior 16–20 common
+- [Bar Fight Mastery (Bouncer)](../../characters/classes/brawler-archetypes.md#bouncer): warrior 1–8 common
+- [Beast Defenses (Beast-Wrestler)](../../characters/classes/brawler-archetypes.md#beast-wrestler): warrior 1–8 common
+- [Beast Training (Beast-Wrestler)](../../characters/classes/brawler-archetypes.md#beast-wrestler): warrior 1–8 weak
+- [Beastmorph (Mutagenic Mauler)](../../characters/classes/brawler-archetypes.md#mutagenic-mauler): warrior 1–8 common
+- [Bonus Combat Feats](../../characters/classes/brawler.md#bonus-combat-feats): warrior 1–8 op
+- [Brawler’s cunning](../../characters/classes/brawler.md#brawlers-cunning-ex): warrior 1–8 weak
+- [Brawler’s Flurry](../../characters/classes/brawler.md#brawlers-flurry-ex): warrior 1–8 common
+- [Brawler’s Strike](../../characters/classes/brawler.md#brawlers-strike-ex): warrior 1–8 weak
+- [Call to Arms (Exemplar)](../../characters/classes/brawler-archetypes.md#exemplar): warrior 1–8 weak
+- [Champion Defense (Shield Champion)](../../characters/classes/brawler-archetypes.md#shield-champion): warrior 9–15 common
+- [Close Weapon Mastery](../../characters/classes/brawler.md#close-weapon-mastery-ex): warrior 1–8 weak
+- [Constructed Limb](../../characters/classes/brawler-archetypes.md#constructed-pugilist): warrior 1–8 common
+- [Dancer's Cunning (Battle Dancer)](../../characters/classes/brawler-archetypes.md#battle-dancer): warrior 1–8 weak
+- [Dancing Dodge (Battle Dancer)](../../characters/classes/brawler-archetypes.md#battle-dancer): warrior 1–8 common
+- [Drunk Handler (Bouncer)](../../characters/classes/brawler-archetypes.md#bouncer): warrior 1–8 weak
+- [Earth Discipline (Living Avalanche)](../../characters/classes/brawler-archetypes.md#living-avalanche): warrior 1–8 common
+- [Favored Turf (Turfer)](../../characters/classes/brawler-archetypes.md#turfer): warrior 1–8 weak
+- [Green Grasp (Verdant Grappler)](../../characters/classes/brawler-archetypes.md#verdant-grappler): warrior 1–8 common
+- [Humble Beginnings (Improvised Warrior)](../../characters/classes/brawler-archetypes.md#improvised-warrior): warrior 1–8 weak
+- [Hunter's Tricks (Wild Child)](../../characters/classes/brawler-archetypes.md#wild-child): warrior 1–8 common
+- [Improved Avalanche (Living Avalanche)](../../characters/classes/brawler-archetypes.md#living-avalanche): warrior 16–20 common
+- [Improved Awesome Blow](../../characters/classes/brawler.md#improved-awesome-blow-ex): warrior 16–20 common
+- [Improvisation Mastery (Improvised Warrior)](../../characters/classes/brawler-archetypes.md#improvised-warrior): warrior 1–8 common
+- [Improvisation Training (Improvised Warrior)](../../characters/classes/brawler-archetypes.md#improvised-warrior): warrior 1–8 common
+- [Improvised Maneuver (Improvised Warrior)](../../characters/classes/brawler-archetypes.md#improvised-warrior): warrior 1–8 weak
+- [Inspiring Prowess (Exemplar)](../../characters/classes/brawler-archetypes.md#exemplar): warrior 1–8 op
+- [Knockout](../../characters/classes/brawler.md#knockout-ex): warrior 1–8 weak, specialist 1–8 weak
+- [Landslide (Living Avalanche)](../../characters/classes/brawler-archetypes.md#living-avalanche): warrior 1–8 weak
+- [Lead Leg (Strong-Side Boxer)](../../characters/classes/brawler-archetypes.md#strong-side-boxer): warrior 1–8 weak
+- [Limb Modifications (Constructed Pugilist)](../../characters/classes/brawler-archetypes.md#constructed-pugilist): warrior 1–8 common
+- [Maneuver Training](../../characters/classes/brawler.md#maneuver-training-ex): warrior 1–8 weak
+- [Martial flexibility](../../characters/classes/brawler.md#martial-flexibility-ex): warrior 1–8 common, specialist 1–8 common, caster 1–8 common
+- [Martial Training](../../characters/classes/brawler.md#martial-training-ex): warrior 1–8 weak
+- [Monk Moves (Ki Renegade)](../../characters/classes/brawler-archetypes.md#ki-renegade): warrior 1–8 common
+- [Neckbreaker (Strangler)](../../characters/classes/brawler-archetypes.md#strangler): warrior 16–20 weak
+- [Opportunist (Snakebite Striker)](../../characters/classes/brawler-archetypes.md#snakebite-striker): warrior 9–15 common
+- [Phytological Anatomy (Verdant Grappler)](../../characters/classes/brawler-archetypes.md#verdant-grappler): warrior 9–15 weak
+- [Practiced Strangler (Strangler)](../../characters/classes/brawler-archetypes.md#strangler): warrior 1–8 common
+- [Returning Shield (Shield Champion)](../../characters/classes/brawler-archetypes.md#shield-champion): warrior 1–8 common
+- [Rolling Flurry (Battle Dancer)](../../characters/classes/brawler-archetypes.md#battle-dancer): warrior 1–8 weak
+- [School Focus (Ki Renegade)](../../characters/classes/brawler-archetypes.md#ki-renegade): warrior 1–8 common
+- [School Focus (Lapsed Disciple)](../../characters/classes/brawler-archetypes.md#lapsed-disciple): warrior 1–8 common
+- [Shield-Hand (Strong-Side Boxer)](../../characters/classes/brawler-archetypes.md#strong-side-boxer): warrior 1–8 common
+- [Snake Feint (Snakebite Striker)](../../characters/classes/brawler-archetypes.md#snakebite-striker): warrior 1–8 weak
+- [Sneak Attack (1d6 at 1st level, +1d6 at 6th, 10th, 12th and 20th)](../../characters/classes/brawler-archetypes.md#snakebite-striker): warrior 1–8 op
+- [Sparring Partners (Battle Dancer)](../../characters/classes/brawler-archetypes.md#battle-dancer): warrior 1–8 weak
+- [Strangle (Strangler)](../../characters/classes/brawler-archetypes.md#strangler): warrior 1–8 common
+- [Strong-Side Fist (Strong-Side Boxer)](../../characters/classes/brawler-archetypes.md#strong-side-boxer): warrior 1–8 weak
+- [Sunder Training (Steel-Breaker)](../../characters/classes/brawler-archetypes.md#steel-breaker): warrior 1–8 weak
+- [Terrain Mastery (Turfer)](../../characters/classes/brawler-archetypes.md#turfer): warrior 1–8 weak
+- [Thorny Embrace (Verdant Grappler)](../../characters/classes/brawler-archetypes.md#verdant-grappler): warrior 1–8 common
+- [Throw Shield (Shield Champion)](../../characters/classes/brawler-archetypes.md#shield-champion): warrior 1–8 common
+- [Unyielding (Living Avalanche)](../../characters/classes/brawler-archetypes.md#living-avalanche): warrior 1–8 common
+- [Venomous Strike (Venomfist)](../../characters/classes/brawler-archetypes.md#venomfist): warrior 1–8 common
+- [Wild Tricks (Wild Child)](../../characters/classes/brawler-archetypes.md#wild-child): warrior 1–8 weak

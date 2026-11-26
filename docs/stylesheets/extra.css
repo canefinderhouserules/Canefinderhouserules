@@ -64,6 +64,12 @@
 .md-typeset .ss-table td, .md-typeset .ss-table th { padding: .35em .6em; vertical-align: top; border-bottom: 1px solid var(--md-default-fg-color--lightest); }
 .md-typeset .ss-table td:first-child { font-weight: 600; white-space: nowrap; }
 .ss-desc { min-width: 16rem; color: var(--md-default-fg-color--light); }
+.md-typeset .cf-table td:nth-child(n+3):nth-child(-n+5) { white-space: nowrap; }
+.cf-tier { display: inline-block; min-width: 3.6em; padding: 0 .4em; border-radius: .3em; font-weight: 600; text-align: center; }
+.cf-iconic { background: color-mix(in srgb, #b8860b 22%, transparent); }
+.cf-op { background: color-mix(in srgb, #c0392b 20%, transparent); }
+.cf-common { background: color-mix(in srgb, #2e86c1 18%, transparent); }
+.cf-weak { background: color-mix(in srgb, var(--md-default-fg-color) 8%, transparent); }
 
 /* Archetype picker on class pages (javascripts/archetype-picker.js) */
 .md-typeset .ap { margin: 1em 0; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .2rem; }

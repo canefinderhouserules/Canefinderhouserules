@@ -1,0 +1,169 @@
+# Ranger
+
+- [Able Explorer (Warden)](../../characters/classes/ranger-archetypes.md#warden): warrior 1–8 weak
+- [Adaptable Study (Fortune-Finder)](../../characters/classes/ranger-archetypes.md#fortune-finder): warrior 1–8 weak
+- [Adaptation (Infiltrator)](../../characters/classes/ranger-archetypes.md#infiltrator): warrior 1–8 weak
+- [Advantageous Terrain (Battle Scout)](../../characters/classes/ranger-archetypes.md#battle-scout): warrior 1–8 weak
+- [Animal Companion (Beast Master)](../../characters/classes/ranger-archetypes.md#beast-master): warrior 1–8 common
+- [Aquatic Adaptation (Tidal Diver)](../../characters/classes/ranger-archetypes.md#tidal-diver): warrior 1–8 weak
+- [Aquatic Mastery (Tidal Hunter)](../../characters/classes/ranger-archetypes.md#tidal-hunter): warrior 1–8 weak
+- [Aquatic Prowess Feat (Wave Warden)](../../characters/classes/ranger-archetypes.md#wave-warden): warrior 1–8 weak
+- [Arrow-Splitter (Toxophilite)](../../characters/classes/ranger-archetypes.md#toxophilite): warrior 1–8 common
+- [Avatar of Vengeance (Sword-Devil)](../../characters/classes/ranger-archetypes.md#sword-devil): warrior 16–20 common
+- [Blend In (Urban Ranger)](../../characters/classes/ranger-archetypes.md#urban-ranger): warrior 9–15 weak
+- [Blightwalker (Blightwarden)](../../characters/classes/ranger-archetypes.md#blightwarden): warrior 1–8 weak
+- [Born to the Fire (Cinderwalker)](../../characters/classes/ranger-archetypes.md#cinderwalker): warrior 1–8 weak
+- [Brachiation (Jungle Lord)](../../characters/classes/ranger-archetypes.md#jungle-lord): warrior 1–8 weak
+- [Break the Interloper (Wild Soul)](../../characters/classes/ranger-archetypes.md#wild-soul): warrior 9–15 common
+- [Burning Renewal (Flamewarden)](../../characters/classes/ranger-archetypes.md#flamewarden): warrior 9–15 common
+- [Camouflage](../../characters/classes/ranger.md#camouflage-ex): warrior 9–15 weak, specialist 9–15 weak
+- [Combat Style (Hooded Champion)](../../characters/classes/ranger-archetypes.md#hooded-champion): warrior 1–8 common
+- [Combat Style Feat](../../characters/classes/ranger.md#combat-style-feat-ex): warrior 1–8 op
+- [Crowd Stride (Guildbreaker)](../../characters/classes/ranger-archetypes.md#guildbreaker): warrior 1–8 weak
+- [Dark Sight (Dusk Stalker)](../../characters/classes/ranger-archetypes.md#dusk-stalker): warrior 9–15 weak
+- [Death Vow (Sword-Devil)](../../characters/classes/ranger-archetypes.md#sword-devil): warrior 1–8 common
+- [Debilitating Venom (Poison Darter)](../../characters/classes/ranger-archetypes.md#poison-darter): warrior 1–8 common
+- [Deep Cover (Guildbreaker)](../../characters/classes/ranger-archetypes.md#guildbreaker): warrior 1–8 weak
+- [Defend Charge (Witch Guard)](../../characters/classes/ranger-archetypes.md#witch-guard): warrior 1–8 common
+- [Disrupt Control (Corpse Hunter)](../../characters/classes/ranger-archetypes.md#corpse-hunter): warrior 1–8 weak
+- [Dizzying Onslaught (Wild Soul)](../../characters/classes/ranger-archetypes.md#wild-soul): warrior 16–20 common
+- [Dragoncrafting (Dragon Hunter)](../../characters/classes/ranger-archetypes.md#dragon-hunter): warrior 1–8 weak
+- [Dual Form Shifter (Shapeshifter)](../../characters/classes/ranger-archetypes.md#shapeshifter): warrior 9–15 common
+- [Dual Master (Realm Wanderer)](../../characters/classes/ranger-archetypes.md#realm-wanderer): warrior 1–8 weak
+- [Dungeon Ally (Dungeon Rover)](../../characters/classes/ranger-archetypes.md#dungeon-rover): warrior 1–8 weak
+- [Elemental Explorer (Elemental Envoy)](../../characters/classes/ranger-archetypes.md#elemental-envoy): warrior 1–8 weak
+- [Elemental Resilience (Dragon Hunter)](../../characters/classes/ranger-archetypes.md#dragon-hunter): warrior 16–20 weak
+- [Emulate Taint (Blightwarden)](../../characters/classes/ranger-archetypes.md#blightwarden): warrior 1–8 weak
+- [Endurance](../../characters/classes/ranger.md#endurance): warrior 1–8 weak
+- [Expert Dragoncrafter (Dragon Hunter)](../../characters/classes/ranger-archetypes.md#dragon-hunter): warrior 9–15 weak
+- [Fast Study (Fortune-Finder)](../../characters/classes/ranger-archetypes.md#fortune-finder): warrior 9–15 common
+- [Fast Swimmer (Freebooter)](../../characters/classes/ranger-archetypes.md#freebooter): warrior 1–8 weak
+- [Favored enemy](../../characters/classes/ranger.md#favored-enemy-ex): warrior 1–8 common, specialist 1–8 common
+- [Favored Nation (Dandy)](../../characters/classes/ranger-archetypes.md#dandy): warrior 1–8 common
+- [Favored Organization (Guildbreaker)](../../characters/classes/ranger-archetypes.md#guildbreaker): warrior 1–8 weak
+- [Favored terrain](../../characters/classes/ranger.md#favored-terrain-ex): warrior 1–8 weak, specialist 1–8 weak, caster 1–8 weak
+- [Favored Yokai (Yokai Hunter)](../../characters/classes/ranger-archetypes.md#yokai-hunter): warrior 1–8 common
+- [Fiendish Quarry (Demonslayer)](../../characters/classes/ranger-archetypes.md#demonslayer): warrior 9–15 common
+- [Firearm Style (Trophy Hunter)](../../characters/classes/ranger-archetypes.md#trophy-hunter): warrior 1–8 common
+- [Flash Shot (Stormwalker)](../../characters/classes/ranger-archetypes.md#stormwalker): warrior 16–20 common
+- [Flash Step (Stormwalker)](../../characters/classes/ranger-archetypes.md#stormwalker): warrior 9–15 common
+- [Focused Fire (Bow Nomad)](../../characters/classes/ranger-archetypes.md#bow-nomad): warrior 1–8 common
+- [Freebooter's Bane (Freebooter)](../../characters/classes/ranger-archetypes.md#freebooter): warrior 1–8 common
+- [Freebooter's Bond (Freebooter)](../../characters/classes/ranger-archetypes.md#freebooter): warrior 1–8 common
+- [Greater Intercept (Toxophilite)](../../characters/classes/ranger-archetypes.md#toxophilite): warrior 16–20 common
+- [Grim Harvest (Toxic Herbalist)](../../characters/classes/ranger-archetypes.md#toxic-herbalist): warrior 1–8 weak
+- [Guardian Spirit (Wilderness Explorer)](../../characters/classes/ranger-archetypes.md#wilderness-explorer): warrior 9–15 common
+- [Hardened by Nature (Jungle Lord)](../../characters/classes/ranger-archetypes.md#jungle-lord): warrior 1–8 common
+- [Harrying Attack (Wild Shadow)](../../characters/classes/ranger-archetypes.md#wild-shadow): warrior 9–15 common
+- [Hazard Sense (Wilderness Explorer)](../../characters/classes/ranger-archetypes.md#wilderness-explorer): warrior 1–8 weak
+- [Herbal Medicine (Wilderness Medic)](../../characters/classes/ranger-archetypes.md#wilderness-medic): warrior 1–8 weak
+- [Hide in Plain Sight](../../characters/classes/ranger.md#hide-in-plain-sight-ex): warrior 16–20 common, specialist 1–8 common
+- [Hide the Horses (Groom)](../../characters/classes/ranger-archetypes.md#groom): warrior 1–8 weak
+- [Hideaway (Transporter)](../../characters/classes/ranger-archetypes.md#transporter): warrior 1–8 weak
+- [Hippogriff Companion (Hippogriff Marine)](../../characters/classes/ranger-archetypes.md#hippogriff-marine): warrior 1–8 common
+- [Hobnob (Dandy)](../../characters/classes/ranger-archetypes.md#dandy): warrior 1–8 common
+- [Hunter’s Aim (Trophy Hunter)](../../characters/classes/ranger-archetypes.md#trophy-hunter): warrior 1–8 common
+- [Hunter’s Bond](../../characters/classes/ranger.md#hunters-bond-ex): warrior 1–8 common
+- [Hunter’s Tricks (Skirmisher)](../../characters/classes/ranger-archetypes.md#skirmisher): warrior 1–8 common
+- [Improved Fiendish Quarry (Demonslayer)](../../characters/classes/ranger-archetypes.md#demonslayer): warrior 16–20 common
+- [Improved Intercept (Toxophilite)](../../characters/classes/ranger-archetypes.md#toxophilite): warrior 9–15 common
+- [Improved Quarry](../../characters/classes/ranger.md#improved-quarry-ex): warrior 16–20 common
+- [Improved Ranger’s Luck (Guide)](../../characters/classes/ranger-archetypes.md#guide): warrior 16–20 common
+- [Improved Tracking (Trophy Hunter)](../../characters/classes/ranger-archetypes.md#trophy-hunter): warrior 1–8 weak
+- [Incorporeal Armament (Corpse Hunter)](../../characters/classes/ranger-archetypes.md#corpse-hunter): warrior 1–8 weak
+- [Indigenous Spirit (Wilderness Explorer)](../../characters/classes/ranger-archetypes.md#wilderness-explorer): warrior 1–8 weak
+- [Infiltration (Battle Scout)](../../characters/classes/ranger-archetypes.md#battle-scout): warrior 9–15 weak
+- [Inspired Moment (Guide)](../../characters/classes/ranger-archetypes.md#guide): warrior 9–15 common
+- [Inspiring Example (Sword-Devil)](../../characters/classes/ranger-archetypes.md#sword-devil): warrior 1–8 common
+- [Intercept Arrow (Toxophilite)](../../characters/classes/ranger-archetypes.md#toxophilite): warrior 1–8 common
+- [Inured (Cinderwalker)](../../characters/classes/ranger-archetypes.md#cinderwalker): warrior 1–8 weak
+- [Invincible (Summit Sentinel)](../../characters/classes/ranger-archetypes.md#summit-sentinel): warrior 16–20 weak
+- [Invisibility Trick (Urban Ranger)](../../characters/classes/ranger-archetypes.md#urban-ranger): warrior 16–20 common
+- [Keen Ear (Underworld Sailor)](../../characters/classes/ranger-archetypes.md#underworld-sailor): warrior 1–8 common
+- [Killer of the Deep (Tidal Diver)](../../characters/classes/ranger-archetypes.md#tidal-diver): warrior 16–20 common
+- [Live in Comfort (Warden)](../../characters/classes/ranger-archetypes.md#warden): warrior 1–8 weak
+- [Lucky Dodge (Galvanic Saboteur)](../../characters/classes/ranger-archetypes.md#galvanic-saboteur): warrior 1–8 common
+- [Manifest Spirit (Wilderness Explorer)](../../characters/classes/ranger-archetypes.md#wilderness-explorer): warrior 16–20 common
+- [Master Explorer (Fortune-Finder)](../../characters/classes/ranger-archetypes.md#fortune-finder): warrior 16–20 common
+- [Master Hunter](../../characters/classes/ranger.md#master-hunter-ex): warrior 16–20 common, specialist 16–20 common
+- [Master of Terrain (Wild Shadow)](../../characters/classes/ranger-archetypes.md#wild-shadow): warrior 16–20 common
+- [Master Shifter (Shapeshifter)](../../characters/classes/ranger-archetypes.md#shapeshifter): warrior 16–20 common
+- [Mnemonic Genius (Code Runner)](../../characters/classes/ranger-archetypes.md#code-runner): warrior 1–8 weak
+- [Mountain Mastery (Summit Sentinel)](../../characters/classes/ranger-archetypes.md#summit-sentinel): warrior 1–8 common
+- [Mounted Bond (Horse Lord)](../../characters/classes/ranger-archetypes.md#horse-lord): warrior 1–8 common
+- [Mugshot (Sentinel)](../../characters/classes/ranger-archetypes.md#sentinel): warrior 1–8 weak
+- [Mugshot Quarry (Sentinel)](../../characters/classes/ranger-archetypes.md#sentinel): warrior 9–15 common
+- [Nemesis (Wild Soul)](../../characters/classes/ranger-archetypes.md#wild-soul): warrior 1–8 common
+- [Nemesis Defense (Wild Soul)](../../characters/classes/ranger-archetypes.md#wild-soul): warrior 1–8 common
+- [Nemesis Slayer (Wild Soul)](../../characters/classes/ranger-archetypes.md#wild-soul): warrior 16–20 common
+- [Paralyzing Light (Lantern Lighter)](../../characters/classes/ranger-archetypes.md#lantern-lighter): warrior 16–20 common
+- [Party Crasher (Dandy)](../../characters/classes/ranger-archetypes.md#dandy): warrior 1–8 weak
+- [Perfect Advantage (Battle Scout)](../../characters/classes/ranger-archetypes.md#battle-scout): warrior 16–20 common
+- [Phoenix Rising (Flamewarden)](../../characters/classes/ranger-archetypes.md#flamewarden): warrior 16–20 common
+- [Planar Adaptation (Planar Scout)](../../characters/classes/ranger-archetypes.md#planar-scout): warrior 9–15 weak
+- [Planar Bond (Planar Scout)](../../characters/classes/ranger-archetypes.md#planar-scout): warrior 1–8 common
+- [Plot Course (Transporter)](../../characters/classes/ranger-archetypes.md#transporter): warrior 1–8 weak
+- [Poison Style (Poison Darter)](../../characters/classes/ranger-archetypes.md#poison-darter): warrior 1–8 weak
+- [Poisonous Reaper (Toxic Herbalist)](../../characters/classes/ranger-archetypes.md#toxic-herbalist): warrior 16–20 weak
+- [Potent Venom (Toxic Herbalist)](../../characters/classes/ranger-archetypes.md#toxic-herbalist): warrior 9–15 weak
+- [Precise Dart (Poison Darter)](../../characters/classes/ranger-archetypes.md#poison-darter): warrior 1–8 op
+- [Predatory Deduction (Dragon Hunter)](../../characters/classes/ranger-archetypes.md#dragon-hunter): warrior 1–8 weak
+- [Quarry (Ranger, Slayer, Vampire Hunter)](../../characters/classes/ranger.md#quarry-ex): warrior 9–15 common
+- [Queen’s Bond (Realm Wanderer)](../../characters/classes/ranger-archetypes.md#realm-wanderer): warrior 1–8 common
+- [Quick Healing (Skirmisher)](../../characters/classes/ranger-archetypes.md#skirmisher): warrior 1–8 weak
+- [Quick Swim (Underworld Sailor)](../../characters/classes/ranger-archetypes.md#underworld-sailor): warrior 1–8 weak
+- [Rallying Bond (Wilderness Medic)](../../characters/classes/ranger-archetypes.md#wilderness-medic): warrior 1–8 common
+- [Ranger’s Focus (Guide)](../../characters/classes/ranger-archetypes.md#guide): warrior 1–8 common
+- [Raven Companion (Raven Master)](../../characters/classes/ranger-archetypes.md#raven-master): warrior 1–8 common
+- [Read the City (Guildbreaker)](../../characters/classes/ranger-archetypes.md#guildbreaker): warrior 1–8 weak
+- [Resist Interrogation (Code Runner)](../../characters/classes/ranger-archetypes.md#code-runner): warrior 1–8 weak
+- [Rockslide (Summit Sentinel)](../../characters/classes/ranger-archetypes.md#summit-sentinel): warrior 1–8 common
+- [Roots of the Mountain (Summit Sentinel)](../../characters/classes/ranger-archetypes.md#summit-sentinel): warrior 1–8 common
+- [Rumor Empathy (Dandy)](../../characters/classes/ranger-archetypes.md#dandy): warrior 1–8 weak
+- [Scout the Area (Groom)](../../characters/classes/ranger-archetypes.md#groom): warrior 1–8 weak
+- [Second Combat Style (Sword-Devil)](../../characters/classes/ranger-archetypes.md#sword-devil): warrior 9–15 common
+- [Seething Fury (Sword-Devil)](../../characters/classes/ranger-archetypes.md#sword-devil): warrior 16–20 common
+- [Sense Intruder (Sentinel)](../../characters/classes/ranger-archetypes.md#sentinel): warrior 1–8 weak
+- [Sensor Evasion (Galvanic Saboteur)](../../characters/classes/ranger-archetypes.md#galvanic-saboteur): warrior 16–20 common
+- [Shadow Bond (Dusk Stalker)](../../characters/classes/ranger-archetypes.md#dusk-stalker): warrior 1–8 common
+- [Shared Focus (Wild Hunter)](../../characters/classes/ranger-archetypes.md#wild-hunter): warrior 1–8 weak
+- [Shark Sense (Tidal Diver)](../../characters/classes/ranger-archetypes.md#tidal-diver): warrior 1–8 weak
+- [Shrewdest Monarch (Realm Wanderer)](../../characters/classes/ranger-archetypes.md#realm-wanderer): warrior 16–20 common
+- [Slashing Fury (Sword-Devil)](../../characters/classes/ranger-archetypes.md#sword-devil): warrior 1–8 common
+- [Smuggler’s Bond (Transporter)](../../characters/classes/ranger-archetypes.md#transporter): warrior 1–8 weak
+- [Spirit Bond (Spirit Ranger)](../../characters/classes/ranger-archetypes.md#spirit-ranger): warrior 1–8 common
+- [Spiritual Bond (Horse Lord)](../../characters/classes/ranger-archetypes.md#horse-lord): warrior 16–20 weak
+- [Static Strike (Galvanic Saboteur)](../../characters/classes/ranger-archetypes.md#galvanic-saboteur): warrior 1–8 common
+- [Stoking the Embers (Flamewarden)](../../characters/classes/ranger-archetypes.md#flamewarden): warrior 9–15 common
+- [Stone Scouting (Dungeon Rover)](../../characters/classes/ranger-archetypes.md#dungeon-rover): warrior 1–8 weak
+- [Strong Bond (Beast Master)](../../characters/classes/ranger-archetypes.md#beast-master): warrior 9–15 common
+- [Strong Bond (Horse Lord)](../../characters/classes/ranger-archetypes.md#horse-lord): warrior 9–15 common
+- [Strong Senses (Wild Stalker)](../../characters/classes/ranger-archetypes.md#wild-stalker): warrior 1–8 weak
+- [Stunning Light (Lantern Lighter)](../../characters/classes/ranger-archetypes.md#lantern-lighter): warrior 9–15 weak
+- [Subsonic Warning (Underworld Sailor)](../../characters/classes/ranger-archetypes.md#underworld-sailor): warrior 1–8 weak
+- [Sudden Onset (Toxic Herbalist)](../../characters/classes/ranger-archetypes.md#toxic-herbalist): warrior 1–8 weak
+- [Superior Tactics (Battle Scout)](../../characters/classes/ranger-archetypes.md#battle-scout): warrior 9–15 common
+- [Swift Tracker](../../characters/classes/ranger.md#swift-tracker-ex): warrior 1–8 weak, specialist 1–8 weak
+- [Technological Trapsmith (Galvanic Saboteur)](../../characters/classes/ranger-archetypes.md#galvanic-saboteur): warrior 1–8 weak
+- [Terrain Bond (Guide)](../../characters/classes/ranger-archetypes.md#guide): warrior 1–8 weak
+- [Thundershot (Stormwalker)](../../characters/classes/ranger-archetypes.md#stormwalker): warrior 1–8 common
+- [Tidal Surge (Tidal Hunter)](../../characters/classes/ranger-archetypes.md#tidal-hunter): warrior 16–20 weak
+- [Touch of Flame (Flamewarden)](../../characters/classes/ranger-archetypes.md#flamewarden): warrior 1–8 common
+- [Toxic Touch (Toxic Herbalist)](../../characters/classes/ranger-archetypes.md#toxic-herbalist): warrior 1–8 common
+- [Trailbreaker (Transporter)](../../characters/classes/ranger-archetypes.md#transporter): warrior 1–8 weak
+- [Trap (Trapper)](../../characters/classes/ranger-archetypes.md#trapper): warrior 1–8 weak
+- [Trick Shot (Bow Nomad)](../../characters/classes/ranger-archetypes.md#bow-nomad): warrior 1–8 common
+- [Twin Bows (Bow Nomad)](../../characters/classes/ranger-archetypes.md#bow-nomad): warrior 1–8 common
+- [Uncanny Alertness (Sentinel)](../../characters/classes/ranger-archetypes.md#sentinel): warrior 1–8 weak
+- [Undead Exterminator (Corpse Hunter)](../../characters/classes/ranger-archetypes.md#corpse-hunter): warrior 1–8 common
+- [Untouchable (Sword-Devil)](../../characters/classes/ranger-archetypes.md#sword-devil): warrior 1–8 common
+- [Vicious Aim (Veteran Archer)](../../characters/classes/ranger-archetypes.md#veteran-archer): warrior 1–8 common
+- [Victory Cry (Jungle Lord)](../../characters/classes/ranger-archetypes.md#jungle-lord): warrior 16–20 common
+- [Watery Summons (Wave Warden)](../../characters/classes/ranger-archetypes.md#wave-warden): warrior 1–8 weak
+- [Wild empathy](../../characters/classes/ranger.md#wild-empathy-ex): warrior 1–8 weak, specialist 1–8 weak, caster 1–8 weak
+- [Wild Stalker (Wild Shadow)](../../characters/classes/ranger-archetypes.md#wild-shadow): warrior 9–15 weak
+- [Wilderness Whispers (Warden)](../../characters/classes/ranger-archetypes.md#warden): warrior 16–20 common
+- [Wind Treader (Stormwalker)](../../characters/classes/ranger-archetypes.md#stormwalker): warrior 1–8 weak
+- [Wisdom of the Spirits (Spirit Ranger)](../../characters/classes/ranger-archetypes.md#spirit-ranger): warrior 9–15 weak
+- [Yokai Sense (Yokai Hunter)](../../characters/classes/ranger-archetypes.md#yokai-hunter): warrior 1–8 weak
+- [Young Drake (Drake Warden)](../../characters/classes/ranger-archetypes.md#drake-warden): warrior 1–8 common
