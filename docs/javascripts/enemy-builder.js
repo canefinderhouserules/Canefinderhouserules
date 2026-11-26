@@ -262,6 +262,10 @@
           src: srcOf(p.link), fxL: Math.max(1, L - (prestige ? 3 : 0)), prog: info.prog, featNote: info.feats ? (fl ? '+' + fl + ' feat' + (fl > 1 ? 's' : '') : 'no feat yet') + ' (at ' + info.feats.map(ord).join(', ') + ')' : '' });
       });
       d.special.slice(0, L).forEach(function (t) { if (/Extra Combat Feat/i.test(t)) extra++; });
+      // each chosen "Rogue talent(s)" / "Wild talent(s)" feature gives one talent to pick; the first such feature carries the total
+      var rogueFx = out.filter(function (x) { return /^rogue talents?$/i.test(x.name); }), wildFx = out.filter(function (x) { return /^wild talents?$/i.test(x.name); });
+      if (rogueFx.length) rogueFx[0].tal = rogueFx.length;
+      if (wildFx.length) wildFx[0].wild = wildFx.length;
       return { list: out, bonusFeats: extra };
     }
     var typeOf = function (t) { var m = String(t).match(/\((Ex|Su|Sp)\)|-(ex|su|sp)$/i); return m ? capFirst((m[1] || m[2]).toLowerCase()) : ''; };
@@ -2303,7 +2307,7 @@
       var pick = select([['', SUB.noClass]].concat(SWD.classes.map(function (x) { return ['sw-' + x.s, x.n]; })),
         function () { return c ? c.s : ''; }, function (v) {
           if (!v) S.classes = [];
-          else if (c) { if (c.s !== v) { c.s = v; c.picks = []; } }
+          else if (c) { if (c.s !== v) { c.s = v; c.picks = []; c.talents = []; c.wild = []; } }
           else { S.classes = [{ s: v, lvl: 1, picks: [] }]; if (S.hd === 1 && S.type === 'humanoid') S.hd = 0; }
         }, function () { redrawAll(); });
       var head = h('div', { class: 'eb-grid' },
@@ -2385,6 +2389,25 @@
             })),
             ptsX < 2 ? h('div', { class: 'eb-inline' }, priceX, pickerX.el) : null, msgX));
         })(xi);
+        // the "Rogue talent" and "Wild Talents" features: pick one talent for each of them chosen above
+        [['tal', 'talents', DATA.rogueTalents, 'Rogue talents', 'rogue talent', function (t) { return t.adv ? ' [advanced]' : ''; }],
+         ['wild', 'wild', DATA.wildTalents, 'Wild talents', 'wild talent', function (t) { return t.e ? ' [' + t.e + ']' : ''; }]].forEach(function (k) {
+          var fx = D.features.filter(function (x) { return x.cls === c && x[k[0]]; })[0], list = k[2] || [];
+          if (!fx || !list.length) return;
+          var n = fx[k[0]], got = c[k[1]] = c[k[1]] || [];
+          var sel = h('select', { class: 'eb-s' }, [h('option', { value: '', text: '+ ' + k[4] + ' (' + Math.min(got.length, n) + '/' + n + ')…' })].concat(
+            list.filter(function (t) { return got.indexOf(t.n) < 0; }).map(function (t) {
+              return h('option', { value: t.n, title: t.x, text: t.n + (t.t ? ' (' + t.t + ')' : '') + k[5](t) + (t.p ? ' — needs ' + t.p : '') });
+            })));
+          sel.disabled = got.length >= n;
+          sel.addEventListener('change', function () { if (sel.value) { got.push(sel.value); changed(); redraw(); } });
+          body.push(h('div', { class: 'eb-grid' }, field(k[3], sel),
+            got.length ? h('span', { class: 'eb-chips' }, got.map(function (nm, j) {
+              var t = list.filter(function (r) { return r.n === nm; })[0] || {};
+              return h('span', { class: 'eb-chip' + (j >= n ? ' eb-over' : ''), title: (t.p ? 'Needs ' + t.p + '.\n\n' : '') + (t.x || '') }, nm,
+                h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { got.splice(j, 1); changed(); redraw(); } }));
+            })) : null));
+        });
         if (limits.length) body.push(h('p', { class: 'eb-over', text: 'Over the limit: ' + limits.join('; ') + '.' }));
         if (c.lvl >= 20) body.push(h('p', { class: 'eb-note', text: 'Capstone at 20th level: agree it with the GM and add it under Special abilities.' }));
         body.push(h('p', { class: 'eb-note', text: 'Each choice: 1 Iconic, 1 OP, 2 Common or 4 Weak (Iconic and OP are 4 points, Common 2, Weak 1). From 12th level, the choices at 12th, 16th and 18th are 1 Common or 2 Weak. At most 1 Iconic, 1 OP chosen at levels 1–10 and 1 OP chosen at 11–20. A feature can be taken at its own level or later: the list shows them by level, and the ones above the choice go last, in grey; you can still pick one, the choice turns red and the GM decides. Filter by price, then type a name. Each feature brings its text from its page and grows with your level as in its class table (a prestige class feature, with your level less 3); the ones that change the numbers say how in color and are already in the stat block. Modes you turn on, such as rage, go in by hand.' }));
