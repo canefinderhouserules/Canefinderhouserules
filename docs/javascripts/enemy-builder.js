@@ -342,6 +342,7 @@
     { re: /^slayer talents?$/, unit: /^slayer talents?$/, list: 'slayer-talent', adv: 10, also: 'rogue-talent' },
     { re: /^investigator talents?$/, unit: /^investigator talents?$/, list: 'investigator-talent' },
     { re: /^arcanist exploits?$/, unit: /^arcanist exploits?$/, list: 'arcanist-exploit', adv: 11 },
+    { re: /^hex(es)?$/, unit: /^hex(es)?$/, list: 'hex' },
     { re: /^rage powers?$/, unit: /^rage powers?$/, list: 'rage-power' },
     { re: /^discover(y|ies)$/, unit: /^discover(y|ies)$/, list: 'discovery' },
     { re: /^infusions?$/, unit: /^infusions?$/, list: 'infusion' },
