@@ -414,7 +414,7 @@ function sectionOptions(file, take) {
   const out = [], stack = [];
   let cur = null, head = null;
   const inSection = () => stack.some(hd => take(hd.text, hd.depth));
-  const adv = () => stack.some(hd => /advanced|master tricks/i.test(hd.text));
+  const adv = () => stack.some(hd => /advanced|master tricks|greater exploits/i.test(hd.text));
   const done = () => {
     if (!cur) return;
     const text = plain(cur.lines.join('\n'));
@@ -496,6 +496,10 @@ const choices = {
       sectionOptions('unchained-rogue.md', sectionIs('Rogue Talents', 'Unmodified Rogue Talents')),
       sectionOptions('rogue-talents.md', (t, d) => d === 1)),
       ['assault leader', 'black market connections', 'camouflage', 'canny observer', 'charmer', 'coax information', 'combat swipe', 'convincing liar', 'cunning trigger', 'deft palm', 'expert leaper', 'fast fingers', 'fast getaway', 'fast picks', 'fast stealth', 'firearm training', 'guileful polyglot', 'grit', 'hard to fool', 'hold breath', 'honeyed words', 'iron guts', 'lasting poison', 'ledge walker', 'major magic', 'minor magic', 'nimble climber', 'peerless maneuver', 'quick disable', 'quick disguise', 'quick trapsmith', 'resilience', 'rogue crawl', 'rope master', 'stand up', 'strong stroke', 'terrain master', 'trap spotter', 'wall scrambler'])) },
+  'arcanist-exploit': { n: 'Arcanist exploits', opts: mergeOptions(
+    sectionOptions('arcanist.md', sectionIs('Arcanist Exploits', 'Greater Exploits')),
+    sectionOptions('arcanist-horror.md', (t, d) => d === 1),
+    sectionOptions('arcanist-philanthropic.md', (t, d) => d === 1)) },
   'rage-power': { n: 'Rage powers', opts: ragePowers.map(p => ({ n: p.n, t: p.type, lvl: p.lvl, adv: false, pre: p.needs.join(', '), text: p.text, link: p.link })) },
   'discovery': { n: 'Discoveries', opts: alchemist.discoveries.map(d => ({ n: d.n, t: 'Su', lvl: d.lvl, adv: false, pre: d.needs.join(', '), text: d.text, link: 'characters/classes/alchemist/#discovery-su' })) },
   'infusion': { n: 'Infusions', opts: mergeOptions(wildTalents(/infusion/)) },
