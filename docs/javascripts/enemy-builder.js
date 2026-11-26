@@ -422,7 +422,7 @@
           h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { st.picks.splice(i, 1); changed(); redraw(); } }));
       })),
       st.picks.length < n ? h('div', { class: 'eb-inline' }, input, dl) : null,
-      h('label', { class: 'eb-inline eb-choice-n' }, h('small', { text: 'picks ' + (st.n != null ? '(set by hand; ' + auto + ' by the table)') : '(by the class table)') }), slotsBox));
+      h('label', { class: 'eb-inline eb-choice-n' }, h('small', { text: 'picks ' + (st.n != null ? '(set by hand; ' + auto + ' by the table)' : '(by the class table)') }), slotsBox));
   }
   var UNARMED = ['1d6', '1d6', '1d6', '1d8', '1d8', '1d8', '1d8', '1d10', '1d10', '1d10', '1d10', '2d6', '2d6', '2d6', '2d6', '2d8', '2d8', '2d8', '2d8', '2d10'];
   function sneakDice(L, name, src) {
