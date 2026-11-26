@@ -306,7 +306,9 @@ Whenever the arcanist is using the energy shield exploit, and the shield prevent
 
 Whenever the arcanist uses the counterspell exploit, she can expend any arcanist spell slot of the same level or greater than the spell to be countered (instead of the spell level +1). The arcanist must have the counterspell exploit to select this exploit.
 
-Greater Metama.gic Knowled.ge: The arcanist can select a metamagic feat as a bonus feat. She must meet the prerequisites of this feat. Each morning, when she prepares her spells, the arcanist can expend 1 point from her arcane reservoir to exchange this bonus feat for another metamagic feat, as long as she meets the prerequisites of the new feat. The arcanist must have the metamagic knowledge exploit to select this exploit.
+#### Greater Metamagic Knowledge
+
+The arcanist can select a metamagic feat as a bonus feat. She must meet the prerequisites of this feat. Each morning, when she prepares her spells, the arcanist can expend 1 point from her arcane reservoir to exchange this bonus feat for another metamagic feat, as long as she meets the prerequisites of the new feat. The arcanist must have the metamagic knowledge exploit to select this exploit.
 
 #### Greater Spell Resistance (Su)
 
