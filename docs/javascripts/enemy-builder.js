@@ -2272,7 +2272,7 @@
     var mark = function () { Array.prototype.forEach.call(list.children, function (o, i) { o.classList.toggle('eb-on', i === cur); }); if (list.children[cur]) list.children[cur].scrollIntoView({ block: 'nearest' }); };
     var render = function () {
       var q = input.value.trim().toLowerCase(), p = priceOf();
-      shown = Object.keys(by).filter(function (n) { return (p === 'all' || by[n].price === p) && (!q || n.toLowerCase().indexOf(q) >= 0); });
+      shown = Object.keys(by).filter(function (n) { return (p === 'all' || by[n].price === p) && (!q || (n + ' ' + (by[n].from || '')).toLowerCase().indexOf(q) >= 0); });
       shown.sort(function (a, b) {
         var A = by[a], B = by[b];
         return ((A.lvl > maxLvl) - (B.lvl > maxLvl)) || A.lvl - B.lvl || a.localeCompare(b);
