@@ -378,8 +378,11 @@
   function choiceFeatures(rule, store, x) {
     var st = store[rule.list] = store[rule.list] || { picks: [] };
     x.choice = { rule: rule, st: st };
-    return st.picks.map(function (n) {
-      var o = choiceFind(rule, n) || { n: n, t: '', text: '', link: x.link };
+    // st.n: the number of picks set by hand (null: the class table's, or one per copy)
+    var slots = st.n != null ? st.n : choiceSlots(rule, x), L = x.fxL || 1;
+    return st.picks.map(function (n) { return choiceFind(rule, n) || { n: n, t: '', text: '', link: x.link }; }).filter(function (o) {
+      return (o.lvl || 1) <= L && (!o.adv || (rule.adv && L >= rule.adv));
+    }).slice(0, slots == null ? Infinity : slots).map(function (o) {
       return { name: o.n, type: o.t || '', text: o.text || '', link: o.link, lvl: x.lvl, src: x.src, fxL: x.fxL, picked: x.name, arch: x.arch };
     });
   }
@@ -387,7 +390,7 @@
   // the box to pick them: the picks as chips, then a search over the options open at that level
   function choiceBox(x, redraw) {
     var rule = x.choice.rule, st = x.choice.st, L = x.fxL || 1, list = (DATA.choices || {})[rule.list] || { n: rule.list };
-    var auto = choiceSlots(rule, x), n = st.n || auto;
+    var auto = choiceSlots(rule, x), n = st.n != null ? st.n : auto;
     if (n == null) return h('div', { class: 'eb-choice' }, h('small', { class: 'eb-note', text: 'Loading ' + list.n.toLowerCase() + '…' }));
     var opts = choiceOptions(rule, L), byKey = {}, id = 'eb-choice-' + (++choiceUid);
     var free = opts.filter(function (e) { return st.picks.indexOf(e.o.n) < 0; });
@@ -402,8 +405,10 @@
     input.addEventListener('input', function () { if (byKey[input.value]) add(); });
     input.addEventListener('change', add);
     var over = st.picks.length > n;
-    var slotsBox = numBox(function () { return n; }, function (v) { st.n = v === auto ? 0 : v; }, { min: 0, max: 30 });
+    var slotsBox = numBox(function () { return n; }, function (v) { st.n = v === auto ? null : v; }, { min: 0, max: 30 });
+    // typing commits on change; the − / + buttons change it at once
     slotsBox.addEventListener('change', function () { redraw(); });
+    slotsBox.addEventListener('click', function (e) { if (e.target.classList.contains('eb-step')) redraw(); });
     return h('div', { class: 'eb-choice eb-slot' + (over ? ' eb-bad' : '') },
       h('div', { class: 'eb-slothead' }, h('b', { text: x.name.replace(/\s*×\d+$/, '') }), ' · ',
         h('span', { class: over ? 'eb-over' : '', text: st.picks.length + ' of ' + n + ' chosen' }), ' · at ' + ord(L) + ' level',
@@ -416,7 +421,7 @@
           h('button', { type: 'button', class: 'eb-x', text: '×', onclick: function () { st.picks.splice(i, 1); changed(); redraw(); } }));
       })),
       st.picks.length < n ? h('div', { class: 'eb-inline' }, input, dl) : null,
-      h('label', { class: 'eb-inline eb-choice-n' }, h('small', { text: 'picks ' + (st.n ? '(set by hand; ' + auto + (x.sw ? ' copied)' : ' by the table)') : x.sw ? '(one per copy of the feature)' : '(by the class table)') }), slotsBox));
+      h('label', { class: 'eb-inline eb-choice-n' }, h('small', { text: 'picks ' + (st.n != null ? '(set by hand; ' + auto + (x.sw ? ' copied)' : ' by the table)') : x.sw ? '(one per copy of the feature)' : '(by the class table)') }), slotsBox));
   }
   var UNARMED = ['1d6', '1d6', '1d6', '1d8', '1d8', '1d8', '1d8', '1d10', '1d10', '1d10', '1d10', '2d6', '2d6', '2d6', '2d6', '2d8', '2d8', '2d8', '2d8', '2d10'];
   function sneakDice(L, name, src) {
@@ -559,7 +564,8 @@
       d.skills.forEach(function (n) { if (n === '*') SKILLS.forEach(function (sk) { D.classSkill[sk[0]] = true; }); else D.classSkill[n] = true; });
       var f = classFeatures(c);
       D.classBonusFeats += f.bonusFeats;
-      f.list.forEach(function (x) { x.on = (c.off || []).indexOf(x.name) < 0; x.cls = c; D.features.push(x); });
+      // a pick (a rogue talent...) is on only while the feature that gives it is
+      f.list.forEach(function (x) { x.on = (c.off || []).indexOf(x.picked || x.name) < 0 && (c.off || []).indexOf(x.name) < 0; x.cls = c; D.features.push(x); });
     });
     var noCon = S.type === 'undead' || S.type === 'construct';
     var M = {}; ABIL.forEach(function (a) { M[a] = mod(score(a)); });

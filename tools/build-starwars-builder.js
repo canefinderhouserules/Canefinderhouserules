@@ -321,7 +321,12 @@ function buildSearch() {
   for (const f of SHARED) entry(f, CF.SOURCE, f.places, f.cls);
   // features a single role page adds on its own
   SUBS.forEach(sub => sub.classes.forEach((c, ci) => {
-    for (const { f } of CF.forPage([], sub.dir, 'class-features-' + c[1] + '.md', CF.ROLES[ci])) entry(f, sub.dir, f.places, systems.find(s => s.dir === sub.dir).n);
+    // forPage gives one item per placement: list each feature once
+    const seen = new Set();
+    for (const { f } of CF.forPage([], sub.dir, 'class-features-' + c[1] + '.md', CF.ROLES[ci])) {
+      if (seen.has(f)) continue;
+      seen.add(f); entry(f, sub.dir, f.places, systems.find(s => s.dir === sub.dir).n);
+    }
   }));
   features.sort((a, b) => fold(a.n).localeCompare(fold(b.n)) || a.l.localeCompare(b.l));
   fs.writeFileSync(path.join(DOCS, 'tools', 'class-feature-data.json'), JSON.stringify({ systems, features, texts }));
