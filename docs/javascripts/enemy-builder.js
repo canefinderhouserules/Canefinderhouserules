@@ -337,14 +337,14 @@
   // up to your level is how many you get); list: the options (DATA.choices, tools/build-enemy-builder.js); adv: the
   // level from which the advanced talents / master tricks are open; also: another list it can pick from.
   var CHOICE_RULES = [
-    { re: /^rogue talents?$/, unit: /^rogue talents?$/, list: 'rogue-talent', adv: 10 },
-    { re: /^ninja tricks?$/, unit: /^ninja tricks?$/, list: 'ninja-trick', adv: 10, also: 'rogue-talent' },
+    { re: /^(rogue|advanced) talents?$/, unit: /^(rogue|advanced) talents?$/, list: 'rogue-talent', adv: 10 },
+    { re: /^(ninja|master) tricks?$/, unit: /^(ninja|master) tricks?$/, list: 'ninja-trick', adv: 10, also: 'rogue-talent' },
     { re: /^slayer talents?$/, unit: /^slayer talents?$/, list: 'slayer-talent', adv: 10, also: 'rogue-talent' },
     { re: /^investigator talents?$/, unit: /^investigator talents?$/, list: 'investigator-talent' },
     { re: /^(arcanist|greater) exploits?$/, unit: /^(arcanist|greater) exploits?$/, list: 'arcanist-exploit', adv: 11 },
     { re: /^((major|grand) )?hex(es)?$/, unit: /^((major|grand) )?hex(es)?$/, list: 'hex' },
     { re: /^rage powers?$/, unit: /^rage powers?$/, list: 'rage-power' },
-    { re: /^discover(y|ies)$/, unit: /^discover(y|ies)$/, list: 'discovery' },
+    { re: /^(grand )?discover(y|ies)$/, unit: /^(grand )?discover(y|ies)$/, list: 'discovery' },
     { re: /^infusions?$/, unit: /^infusions?$/, list: 'infusion' },
     { re: /^(utility )?wild talents?$/, unit: /^utility wild talents?$/, list: 'utility-talent' }
   ];

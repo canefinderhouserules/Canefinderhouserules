@@ -270,15 +270,18 @@ const ragePowers = [];
 // and each element's list on the class page ("**Wild Talents**: 1st—basic pyrokinesis, burning infusion†, ...")
 const kineticist = { talents: {}, elements: {} };
 {
-  const wt = read('characters/classes/kineticist-wild-talents.md').replace(/\r/g, '');
-  for (const part of wt.split(/^(?=### )/m).slice(1)) {
+  // the general page first, then the element/theme pages (same format); a talent keeps the link to its own page
+  const wtPages = ['kineticist-wild-talents', 'kineticist-wood', 'kineticist-void', 'kineticist-horror', 'kineticist-intrigue', 'kineticist-occult', 'kineticist-planar'];
+  for (const page of wtPages)
+  for (const part of read('characters/classes/' + page + '.md').replace(/\r/g, '').split(/^(?=### )/m).slice(1)) {
     const name = part.split('\n')[0].replace(/^###\s*/, '').trim();
+    if (kineticist.talents[name.toLowerCase()]) continue;
     const meta = part.match(/\*\*Elements?\*\*\s*([^;]+);\s*\*\*Type\*\*\s*([^;]+);\s*\*\*Level\*\*\s*([^;]+);\s*\*\*Burn\*\*\s*([^\n]+)/);
     if (!meta) continue;
     const bt = part.match(/\*\*Blast Type\*\*\s*([^;\n]+);\s*\*\*Damage\*\*\s*([^\n]+)/), pre = (part.match(/\*\*Prerequisites\*\*\s*([^\n]+)/) || [])[1] || '';
     const desc = plain(part.split('\n').slice(1).filter(l => !/^\*\*(Elements?|Blast Type|Prerequisites|Associated Blasts|Saving Throw)\*\*/.test(l)).join('\n'));
     kineticist.talents[name.toLowerCase()] = { n: name, element: meta[1].trim(), type: meta[2].trim(), level: parseInt(meta[3], 10) || 0, burn: meta[4].trim(),
-      blast: bt ? bt[1].trim() : '', damage: bt ? clean(bt[2]) : '', pre: clean(pre), only: /available only to/i.test(desc), text: short(desc, 350), u: anchor(name) };
+      blast: bt ? bt[1].trim() : '', damage: bt ? clean(bt[2]) : '', pre: clean(pre), only: /available only to/i.test(desc), text: short(desc, 350), u: anchor(name), page };
   }
   const cls = read('characters/classes/kineticist.md').replace(/\r/g, '');
   for (const part of cls.split(/^(?=### )/m)) {
@@ -478,7 +481,7 @@ const pickFrom = (opts, names) => opts.filter(o => names.includes(o.n.toLowerCas
 const wildTalents = re => Object.values(kineticist.talents).filter(t => re.test(t.type)).map(t => ({
   n: t.n, t: (t.type.match(/\((Ex|Su|Sp)\)/) || [])[1] || (/infusion/.test(t.type) ? 'Su' : ''), lvl: Math.max(1, 2 * t.level - 1), adv: false,
   pre: t.pre, el: t.element, text: (t.element ? capitalize(t.element) + ' ' + t.type + ', level ' + t.level + ', burn ' + t.burn + '. ' : '') + t.text,
-  link: 'characters/classes/kineticist-wild-talents/#' + t.u }));
+  link: 'characters/classes/' + t.page + '/#' + t.u }));
 function capitalize(s) { return s.charAt(0).toUpperCase() + s.slice(1); }
 const choices = {
   'rogue-talent': { n: 'Rogue talents', opts: mergeOptions(
